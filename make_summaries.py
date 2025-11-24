@@ -25,7 +25,7 @@ class DPSummarizer:
             self.tokenizer.pad_token = self.tokenizer.eos_token
             self.model.config.pad_token_id = self.tokenizer.pad_token_id
 
-        # Get the final layer norm (RMSNorm) for per-example normalization
+        # Get the final layer norm
         if hasattr(self.model, "model") and hasattr(self.model.model, "norm"):
             self.final_norm = self.model.model.norm
         elif hasattr(self.model, "norm"):
@@ -127,8 +127,7 @@ class DPSummarizer:
                 for j in range(len(batch_reviews)):
                     seq_len = int(inputs.attention_mask[j].sum().item())
                     last_hidden = hidden_states[j, seq_len - 1, :].unsqueeze(0)
-                    
-                    # Apply final norm per-example (same as in get_next_token_logits_dp)
+                    # Apply final norm per-example
                     if self.final_norm is not None:
                         z_i = self.final_norm(last_hidden.to(self.final_norm.weight.dtype))
                     else:
@@ -149,20 +148,17 @@ class DPSummarizer:
             clip_norm = self._warmup_clip_norm(reviews, summary, quantile=warmup_quantile, batch_size=batch_size)
         
         for token_idx in range(max_tokens):
-            token_eps = epsilon / np.sqrt(max_tokens)
+            token_eps = epsilon / max_tokens
             logits, _ = self.get_next_token_logits_dp(reviews, summary, token_eps, clip_norm, delta, batch_size)
             token_id = self.sample_token_from_logits(logits, temperature)
             token_text = self.tokenizer.decode([token_id])
             summary += token_text
-            print(f"\r  {token_idx + 1} tokens: {summary}", end="", flush=True)
             if summary.rstrip().endswith("."):
                 if "praise" in summary.lower() and "complain" in summary.lower(): break
                 if token_idx > max_tokens * 0.7: break
         summary = summary.strip()
-        print()  # ensure progress line ends cleanly
         if not summary.endswith("."):
             summary += "."
-        print(f"\nGenerated: {summary}")
         return summary
 
 
@@ -187,7 +183,10 @@ def main():
     parser = argparse.ArgumentParser(description="Differentially Private Review Summarization")
     parser.add_argument("--data_root", default="summary_data")
     parser.add_argument("--reviews", type=int, default=30)
-    parser.add_argument("--epsilon", type=float, default=10.0)
+    parser.add_argument("--epsilon", type=float, default=None, help="Single epsilon value (if provided, overrides range)")
+    parser.add_argument("--epsilon_min", type=float, default=10.0, help="Minimum epsilon value")
+    parser.add_argument("--epsilon_max", type=float, default=100.0, help="Maximum epsilon value")
+    parser.add_argument("--epsilon_steps", type=int, default=3, help="Number of epsilon values to try")
     parser.add_argument("--clip_norm", type=float, default=None, help="Clip norm (if None, computed from warmup quantile)")
     parser.add_argument("--warmup_quantile", type=float, default=0.90, help="Quantile for warmup clip_norm (0.85-0.95 recommended)")
     parser.add_argument("--delta", type=float, default=1e-6)
@@ -195,6 +194,7 @@ def main():
     parser.add_argument("--temperature", type=float, default=0.7)
     parser.add_argument("--batch_size", type=int, default=5)
     parser.add_argument("--seed", type=int, default=42)
+    parser.add_argument("--output", type=str, default="results.txt", help="Output text file path")
     args = parser.parse_args()
     products = load_products(args.data_root, n=1)
     product = products[0] # just use the first product for now
@@ -203,20 +203,41 @@ def main():
     reviews = product["reviews"][:args.reviews]
     print(f"Using {len(reviews)} reviews for summarization")
     summarizer = DPSummarizer(seed=args.seed)
-    summary = summarizer.generate_summary(
-        reviews=reviews,
-        epsilon=args.epsilon,
-        clip_norm=args.clip_norm,
-        delta=args.delta,
-        max_tokens=args.max_tokens,
-        temperature=args.temperature,
-        batch_size=args.batch_size,
-        warmup_quantile=args.warmup_quantile,
-    )
-    print(f"\n{'='*60}\nRESULTS\n{'='*60}")
-    print(f"Generated Summary:\n  {summary}")
-    print(f"\nReference Summary (first 200 chars):\n  {product['reference'][:200]}...")
-
+    
+    # Determine epsilon values to try
+    if args.epsilon is not None:
+        epsilon_values = [args.epsilon]
+    else:
+        # Generate range of epsilon values
+        if args.epsilon_steps == 1:
+            epsilon_values = [args.epsilon_min]
+        else:
+            epsilon_values = np.linspace(args.epsilon_min, args.epsilon_max, args.epsilon_steps).tolist()
+    
+    print(f"\nTesting {len(epsilon_values)} epsilon value(s)...")
+    
+    results = []
+    for eps_idx, epsilon in enumerate(epsilon_values, 1):
+        print(f"Processing epsilon {eps_idx}/{len(epsilon_values)}: {epsilon:.2f}")
+        summary = summarizer.generate_summary(
+            reviews=reviews,
+            epsilon=epsilon,
+            clip_norm=args.clip_norm,
+            delta=args.delta,
+            max_tokens=args.max_tokens,
+            temperature=args.temperature,
+            batch_size=args.batch_size,
+            warmup_quantile=args.warmup_quantile,
+        )
+        results.append({"epsilon": epsilon, "summary": summary})
+    
+    # Write results to text file
+    with open(args.output, "w", encoding="utf-8") as f:
+        f.write("Reference summary: " + product['reference'] + "\n\n")
+        for result in results:
+            f.write(f"Epsilon = {result['epsilon']:.2f}: {result['summary']}\n\n")
+    
+    print(f"\nResults saved to {args.output}")
 
 if __name__ == "__main__":
     main()
