@@ -1,0 +1,968 @@
+{
+  "website_summaries": [
+    {
+      "verdict": "If you love Nest products (and especially if you own the Nest Secure alarm system) the Nest x Yale smart lock is a good bet. If you're after voice control or more flexible smart-home hub integration, look elsewhere.",
+      "pros": [
+        "The Nest x Yale Lock looks good and works with Nest to lock the door when you're away, disarm your Nest Secure alarm system and manage up to 20 passcodes"
+      ],
+      "cons": [
+        "There aren't any ZigBee, Z-Wave or iM1 (HomeKit) modules to add this lock to your smart home",
+        "The Nest integrations are underwhelming, and there aren't any voice control capabilities yet"
+      ],
+      "aspects": {
+        "Features": 6.0,
+        "Usability": 7.0,
+        "Design": 8.0,
+        "Performance": 8.0
+      },
+      "publication_date": 20180322,
+      "rating": 7.2,
+      "source": "cnet"
+    }
+  ],
+  "customer_reviews": [
+    {
+      "title": "Its a great lock BUT",
+      "text": "I now own three of these locks and they perform as promised. I like them with one minor drawback. For some reason AFTER entering the PIN each time you have to push the green checkmark icon on the lower right corner of the display screen. It is a wasted trip and one that I always have to explain to anyone who is using the lock. I read other reviews and have seen the same comment, great lock ...... but..... I suspect there is some great reason why this step is needed, but it escapes me. Other than that I would give the lock a SIX star rating if I could.",
+      "rating": 4.0,
+      "verified": true,
+      "author": "Ross Raymond",
+      "helpful_votes": 41,
+      "publication_date": 20181107
+    },
+    {
+      "title": "This Lock is Beyond Smart",
+      "text": "Exactly what I wanted. Installed in 30-minutes with one Phillips screwdriver and a chisel. The instructions were very clear and installation straightforward. The lock works perfectly. Allows me to give each family member their own code. Cleaning ladies have their code, which is limited by the software to a specific day of the week and time period. In addition, I can lock/unlock from anywhere with the Nest app on my phone. Im so impressed by the Next x Yale lock, I\u2019m interested in researching other Nest products.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "N. Steven Gray",
+      "helpful_votes": 36,
+      "publication_date": 20190126
+    },
+    {
+      "title": "Product constantly goes offline for remote control!",
+      "text": "The lock is really expensive to have unrealible nest connect connection! It went offline often and none of the nest troubleshoot instructions helped! You have to manually factory reset to have everything back online again. Very annoying and unrealizable! This product is yet to be relied on.",
+      "rating": 3.0,
+      "verified": true,
+      "author": "Lawrence Huang",
+      "helpful_votes": 31,
+      "publication_date": 20181130
+    },
+    {
+      "title": "I wouldn't purchase this lock!",
+      "text": "I would not consider purchasing this lock. The piece of the lock that goes through the deadbolt mechanism & makes the lock move feels like it is made of plastic & it broke during our attempt to install. That is crazy, considering that this is probably as important of an piece for the lock to work as the deadbolt. Returned to Amazon today as we were not impressed with the lack of quality here. We decided to go with a name brand that has been making locks for years.... and now has a lock that you can also control through wifi. Price was about the same & quality was what it should be.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "LivyLynn",
+      "helpful_votes": 17,
+      "publication_date": 20190715
+    },
+    {
+      "title": "Love THIS!!",
+      "text": "Extremely easy to install, easy to give guest passcodes to get in that EXPIRE. Love the 'privacy' feature when you're home. This seemly connected to my Nest application and Google Home without a hitch. Anyone that has kids that ALWAYS forget to lock the door, this will help ease those thoughts. Oh AND a big plus, they even thought about...what if the batteries dies...well a simple 9-volt will light the way and allow you access! A must have!",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Libby",
+      "helpful_votes": 16,
+      "publication_date": 20190104
+    },
+    {
+      "title": "Very Frustrating Experience",
+      "text": "Got it, tried to set up. The Nest Connect (which allows the lock to talk to the WiFi network) just wouldn't c0omplete setup. No useful debugging info on the device (all it has is one blinky light) or on the app used for setup. Nest's website is similarly unhelpful (several variations of \"did you plug it in?\" and \"check the network\"). After trying setup in several different locations, including right next to the router, I had to shrug and get on with my life. I have other Nest gear, it's generally been a breeze to setup, but not this time.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "Kenneth Hamer",
+      "helpful_votes": 13,
+      "publication_date": 20190314
+    },
+    {
+      "title": "Best Smart Lock",
+      "text": "This lock is fantastic and reliable. Everything can be controlled from the nest app. One reviewer was incorrect, you can give guests temporary passwords. They don't get full access. This was also very easy to install if you have an existing deadbolt.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Nickodarius",
+      "helpful_votes": 11,
+      "publication_date": 20190716
+    },
+    {
+      "title": "Hard to install on an old door",
+      "text": "This thing was a pain in the ass to install. If you have a perfect new door with no preexisting hardware, you can probably install the thing in 10 minutes. If, on the other hand, you have an old house you want to update, good luck to ya. We were hammering, sawing, sanding, drilling, gluing, and tinkering around with this thing for over 5 hours. Granted, this isn\u2019t the locks fault. Just a caution to you if you\u2019re like me, and hand it to your husband with a smile and say \u201cit\u2019ll be easy!\u201d, prepare for utter chaos and many curse words.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "biallasamantha",
+      "helpful_votes": 6,
+      "publication_date": 20190711
+    },
+    {
+      "title": "Not worth IT!!!",
+      "text": "Don\u2019t waste your time with this product. Like other reviews, the cost of this product shouldn\u2019t come with so many headaches! I have other nest products that works great and I was hoping to add this product to the others (nest thermostat and doorbell camera). But from the onset this thing would not work properly nor would connect to the app. After three others have tried to \u201cconnect\u201d this lock and reading countless reviews about the same issue, clearly NEST missed the mark on this product. They have yet to work out the bugs and kinks but yet still ask a premium price!!! This is ridiculous. Trust me and others.... stay away!!!!",
+      "rating": 1.0,
+      "verified": true,
+      "author": "Blue93",
+      "helpful_votes": 3,
+      "publication_date": 20191217
+    },
+    {
+      "title": "Just a pretty look",
+      "text": "It is easy to install and very nice looking, but then what? I don't find any usefulness. I miss my key now. ####Additional Review After One Month#### 1. The so-called smart device doesn't sense the open or close of the door. If you enable the autolock feature, it will stick out the dead bolt after 1min by default, while you are still holding the door open saying bye to your friends. 2. The finger smudge left on the nice shiny touchpad tell people what your password is, at least what digits you are using.",
+      "rating": 2.0,
+      "verified": true,
+      "author": "delta sigma",
+      "helpful_votes": 3,
+      "publication_date": 20191211
+    },
+    {
+      "title": "Every negative review you read on this is true, its garbage",
+      "text": "Easy enough to install, but refuses to connect to the app on my phone. Try to push the blue button to get it into pair mode like the instructions suggests, and it looks at you and tells you to screw off. Complete piece of trash this thing is. During a nice door into a headache. Save your money, this thing is complete garbage, lots of negative reviews online about this locks failure to pair with your app.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "Dana",
+      "helpful_votes": 4,
+      "publication_date": 20200209
+    },
+    {
+      "title": "Google selling products it knows are broken and they cannot fix. Don\u2019t waste your time.",
+      "text": "I have 2 cameras, a thermostat and hello. This lock is garbage. Spent 3h trying to get it to connect to the app. Used troubleshooting and finally got the best connect to work but now the lock won\u2019t connect to the nest connect or app. This renders the whole purpose of spending 3x what a Kwikset costs moot. I have read that many others users had the same problem and that google continues to sell products it knows are broken. Shame, as I was liking forward to using the features. Looks like I will purchase another Kwikset. Thank heavens I never invested in their security system and stayed local.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "Amazon Customer",
+      "helpful_votes": 3,
+      "publication_date": 20200607
+    },
+    {
+      "title": "Nest and lock do not pair",
+      "text": "I just bought this product and followed the instructions ti install and the product did not pair. Contacted customer support three times via chat and asked me to reset both products several times still not pairing. Chats disconnected and had to stay in line for hours since they do not call you or contact you back. After 4 hours of trying and another disconnect and still no pairing the product does not work. I opened a ticket but their support could not help me het it to work. Very frustrating on an expensive product. Will probably return it!",
+      "rating": 1.0,
+      "verified": true,
+      "author": "Luis",
+      "helpful_votes": 4,
+      "publication_date": 20191202
+    },
+    {
+      "title": "Best connect won\u2019t connect. Annoying.",
+      "text": "The lock is good enough. Easy to install. The problem is the neat connect. It doesn\u2019t work. I even called tech support. They were nice enough, but in the end the lock won\u2019t connect to the nest am so the entire reason I bought it (to have remote control of the lock) is worthless. Will have to return.",
+      "rating": 3.0,
+      "verified": true,
+      "author": "Tyson",
+      "helpful_votes": 5,
+      "publication_date": 20190812
+    },
+    {
+      "title": "Easy to install, aesthetically pleasing, and a pleasure to use.",
+      "text": "Installation -- a pleasure and no wiring required :-) What a pleasure to never require a key, and to be able to open and close the door lock via it's keypad, or from anywhere using your iPhone (or android). Forgot your key when you left -- no longer a problem. Need to give access to a guest or trusted worker for a designated period -- EZEE PEEZEE. I have the NEST Security system, and unlocking the front door also disarms (this is a feature you may use or not use) the system and eliminates the chore of going to the NEST keypad after entering as the lock communicates with the security system.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Steve L. Richter",
+      "helpful_votes": 2,
+      "publication_date": 20191001
+    },
+    {
+      "title": "Easy to install, horrible app",
+      "text": "The installation of the lock itself was really easy, even for a novice. The problem I am experiencing is with the app. At one point you need to scan a QR code to install the lock on your app. The code would not scan nor let me enter it manually. We are now on our 7th hour (over three days) w tech support. We are being transferred to a senior advisor. Not worth the hassle.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "Joe",
+      "helpful_votes": 3,
+      "publication_date": 20191228
+    },
+    {
+      "title": "Four hours total with customer support",
+      "text": "Pretty horrible experience. I have the google wifi router so I thought setup would be easy, but first the Connect kept erroring out during setup, and then after support replaced it (and 5 more resets) the lock unit did too. I finally got it functional, but the app is convinced I haven\u2019t finished setup so I can\u2019t even use all the features. I have given up, as long as it locks and unlocks.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "kris0ten",
+      "helpful_votes": 3,
+      "publication_date": 20200303
+    },
+    {
+      "title": "Setup issues, probably defective",
+      "text": "Lock wasn't hard to install. Had a ton of issues getting the lock to work. It took one factory reset to get the lock to work. Finally I got the key pad and lock working. When I attempted to pair it with the nest connect, it wouldn't connect. After 2 more factory resets and a call to nest support I gave up and went with the schalge connect Zigbee that connects to Alexa. I'm super happy I switched. The in home delivery is Amazing! Amazon of course had my back with the return \ud83d\ude42",
+      "rating": 2.0,
+      "verified": true,
+      "author": "Elliott Harrison",
+      "helpful_votes": 2,
+      "publication_date": 20200205
+    },
+    {
+      "title": "Hours of Installation Effort to No Avail",
+      "text": "I'm having issues setting up my Nest/Yale lock. It can't seem to connect. Oh, did you try resetting the Nest Connect? Yeah, about ten times. Did you restart your phone and the Nest app and your internet and the assisting devices? Yep. Did you read and watch everything you could find on the internet? I sure did! I'm guessing this is your first experience with a Nest product... Nope, I have like seven other Nest products. They all work great. This one has issues. Maybe I got a lemon. But either way, this is a rather frustrating to spend a long evening to no avail. The setup is really easy and straightforward--when it actually works.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "J. D. Taylor",
+      "helpful_votes": 2,
+      "publication_date": 20200906
+    },
+    {
+      "title": "Very disappointed with this lock",
+      "text": "Couldn\u2019t even get this lock to start working. I\u2019m an engineer and this lock is a real piece of bleep. First lock was defective. I install second lock and the unit worked for all about a week before flashing yellow and deadbolt wouldn\u2019t retract. I love all of the nest products except this one. I wouldn\u2019t use this lock again if they paid me for it. Terrible experience. August locks are much better and can actually trust it to do its job.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "Steve Schepers",
+      "helpful_votes": 4,
+      "publication_date": 20200216
+    },
+    {
+      "title": "Buggy and unreliable",
+      "text": "I bought this for a vacation rental I own that is 2.5 hours away. Works fine for weeks then disconnects for no reason. Nest doorbell and thermostats are not affected so WiFi not the problem. Simply a poorly engineered lock and not reliable by any measure. Will be returning.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "Ctown",
+      "helpful_votes": 3,
+      "publication_date": 20200215
+    },
+    {
+      "title": "Easy to install, lock goes offline frequently",
+      "text": "I had my eyes on this lock for almost an year, i do have two schalge on two other entrance doors, this is easy to install and instructions are quote simple. I had an issue where the voice prompt said \u201c deadbolt is stuck\u201d although I was able to manually lock the deadbolt, the hole in the strike plate wasnt deep enough, when i deepened it, the lock installed like a charm. One month upon installation, lock goes offline, had to move nest connect to another location, will monitor more closely over the coming months",
+      "rating": 3.0,
+      "verified": true,
+      "author": "Manas Mehta",
+      "helpful_votes": 2,
+      "publication_date": 20200105
+    },
+    {
+      "title": "So far so good",
+      "text": "Switched out my kevo for this and it is already massively better. Everyone has a code now, no apps to install to have people use this lock.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "dmalbs",
+      "helpful_votes": 6,
+      "publication_date": 20181129
+    },
+    {
+      "title": "Good quality",
+      "text": "Excellent door lock, it does what it says, easy to install took me less than 10 minutes. It work flawlessly with nest home alarm.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Cesar P",
+      "helpful_votes": 4,
+      "publication_date": 20191209
+    },
+    {
+      "title": "Keeps disconnecting",
+      "text": "I got this because we have many other Nest items in our house such as multiple cameras and multiple smoke alarms. My child kept forgetting or loosing her key and this was the solution. Over all it serves its purpose but I do find it often gets disconnected from WiFi and to reconnect it is a hassle. The good thing is it still works to unlock the door with no WiFi when you enter your password but you can't control it from the app. In order to reconnect with WiFi we have to reset everything and it's annoying.",
+      "rating": 3.0,
+      "verified": true,
+      "author": "Andrea",
+      "helpful_votes": 0,
+      "publication_date": 20200704
+    },
+    {
+      "title": "Garbage",
+      "text": "Will not connect to nest network. It keeps saying ready but when I go to the app to finish it says something went wrong. I tried half a day and keep getting the same thing.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "S. C. Tabor",
+      "helpful_votes": 4,
+      "publication_date": 20200107
+    },
+    {
+      "title": "A Headache",
+      "text": "This is the most frustrating thing I have ever ran into. I am no novice in computers and electronics but this thing exceeds in testing my patience. I have many YouTube videos, read articles and even purchased a replacement extended. When I purchased the lock, it took me and a Nest-Yale tech, by phone, a couple of hours to install. Now, after it went offline during a storm, it will not connect to my WIFI no matter what I do. The lock still works using the master code but you have to connect to WIFI in order to add personalized pass codes with the app. I would not recommend this product.",
+      "rating": 2.0,
+      "verified": true,
+      "author": "J. Eskew",
+      "helpful_votes": 0,
+      "publication_date": 20201006
+    },
+    {
+      "title": "Looks great, works great.",
+      "text": "The setup when adding this device to a Nest/Google account is missing a few notes that would be useful. The Nest Home that we connected to the lock was giving me issues upon initial setup. Even though my two WIFI SSID's are on the same network, I had to connect to the 2.4Ghz network before the setup would finalize. The instructions don't specify that caveat, and it would have saved me a bit of time. The look and functionality gets 5 stars. The limited instructions are the only reason I gave it 4 stars instead of 5.",
+      "rating": 4.0,
+      "verified": true,
+      "author": "Jackie H.",
+      "helpful_votes": 0,
+      "publication_date": 20190808
+    },
+    {
+      "title": "It cannot recalibrate without performing a full factory reset",
+      "text": "Well, this is the first iteration of the Nest / Yale lock. You cannot call it smart. I use a pin or the app to get in. Most importantly I wanted to use it to lock it remotely. But it does not calibrate properly. To re-calibrate you have to perform a fully annoying factory reset. And after a few uses it will have issues again. I keep it since I am too lazy to remove it and send it back and it looks cool. But not fully ready yet. Maybe their next version is better and adds more smart features, e.g. detecting my phone is approaching and unlocking for me. Then they can call it smart.",
+      "rating": 2.0,
+      "verified": true,
+      "author": "Michael Peintinger",
+      "helpful_votes": 0,
+      "publication_date": 20190813
+    },
+    {
+      "title": "Excellent product from Yale",
+      "text": "I bought this deadbolt lock because I already had the Nest doorbell and cameras and I wanted to stay with one maker. I hired a TaskRabbit guy to install it on my old door and he finished the job in under an hour. That was worth it - no aggravation and I didn't have to mess around with an old door lock. It has worked flawlessly since it was installed. I especially like the 1-touch lock.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "BCornell",
+      "helpful_votes": 0,
+      "publication_date": 20200227
+    },
+    {
+      "title": "Crashes WiFi",
+      "text": "Lock works better than other touch pads I\u2019ve had but the connect part crashes my WiFi if I plug it in and try to connect to the app",
+      "rating": 3.0,
+      "verified": true,
+      "author": "Thomas",
+      "helpful_votes": 5,
+      "publication_date": 20190220
+    },
+    {
+      "title": "Not the best, but not the worst.",
+      "text": "Needs a little more work. The installation was simple, yet it was giving errors when closing. It would tell me it was not latched, yet when I opened the door and set it while opened, it said it was \u201clocked\u201d. It\u2019s a pretty good lock, just too pricey for function. I might be returning it and waiting until it\u2019s been around longer and all the little issues get resolved.",
+      "rating": 3.0,
+      "verified": true,
+      "author": "Yolie Teresa",
+      "helpful_votes": 2,
+      "publication_date": 20190412
+    },
+    {
+      "title": "Ask yourself if you really need this product",
+      "text": "Don\u2019t waste your money. I had this installed by a professional locksmith. Doesn\u2019t work reliably enough to trust. Spent 3 hours on phone with customer support because my nest account wouldn\u2019t migrate properly with my google account and therefore couldn\u2019t use any of the voice features. Save yourself time money and aggravation and just carry a key.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "Amazon Customer",
+      "helpful_votes": 3,
+      "publication_date": 20200211
+    },
+    {
+      "title": "Easy installation and nest guard integration",
+      "text": "Easy installation. Simply pulled the old deadbolt and put this one into place. I'm already in the nest ecosystem with the doorbell and nest guard. Unlocking the door now disables nest guard for me. This is optional. While the door doesn't lock automatically when arming the nest guard, I did configure it to auto lock after five minutes.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "B. Lincks",
+      "helpful_votes": 0,
+      "publication_date": 20191013
+    },
+    {
+      "title": "I love this lock!",
+      "text": "No more looking for keys. No more hiding a key so someone can come take care of the dog. I love that you can set different codes for each user, and temporary codes for guests. I was even able to unlock the door from out of state when a friend unexpectedly came by while we were out of town. This was easy to install. I wish I'd done it years ago! We already have Nest cameras, so this uses our same subscription and app.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "D. Parsons",
+      "helpful_votes": 0,
+      "publication_date": 20200527
+    },
+    {
+      "title": "Do not buy!",
+      "text": "This lock has started a waterfall effect of me getting rid of all my nest products. I\u2019ve wasted 4-5 hours of my life with this lock and being on the phone. Nest has no regard for your time and could care less. On 2/3 I\u2019ve cancelled my nest subscription and I am returning this lock. nest and google need to how to be better to their clients. There is a long story to end up to this point, I\u2019m currently checking out Ring products.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "Amazon Customer",
+      "helpful_votes": 2,
+      "publication_date": 20200303
+    },
+    {
+      "title": "Safe your money do not buy",
+      "text": "Can not get it to ever lock in it\u2019s own",
+      "rating": 1.0,
+      "verified": true,
+      "author": "ZL",
+      "helpful_votes": 4,
+      "publication_date": 20190615
+    },
+    {
+      "title": "Makes life easier",
+      "text": "Hardware installation was sooo easy. Software since I already had Nest it was easy to add the device. An added bonus is the device talks you through the set up. The only thing I had to get use to was waking the device to enter code. You must touch and hold for a bit the Yale icon. I love ability to lock my door without keys for runs, waking a dog etc.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Keisha Gibbons",
+      "helpful_votes": 0,
+      "publication_date": 20190720
+    },
+    {
+      "title": "Safer than traditional locks",
+      "text": "We are currently building a brand new home and it was important for us to find tech that simplifies life and makes mundane tasks a thing of the past. Now instead of fumbling through pockets or purses for keys we simply type in a code. As a added benefit during the course of construction I was able to give each subcontractor a unique passcode and once their portion of the work was complete I could revoke their passcode all through the app. If I were using a physical key this could of never been the case. I recommend this lock of anyone building or remodeling a home where contractors will have unsupervised access.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Daniel C.",
+      "helpful_votes": 0,
+      "publication_date": 20200217
+    },
+    {
+      "title": "Easy to install, easy to set up wifi module and easy connect to wifi.",
+      "text": "This lock is by far the most easiest lock to install and set up, it took me 15 minutes of my time for the complete installation. I have sent back three other locks that I have bought an Amazon, this one is a ( NO ) (NO). I highly recommend this lock to anyone. I can lock/ unlock my from anywhere using the connected module, if I could give it a ten star I would so here is my own 10 stars, ( ********** ).",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Rowean",
+      "helpful_votes": 0,
+      "publication_date": 20200127
+    },
+    {
+      "title": "Great",
+      "text": "We have had product for six months and it continues to work well. During the holidays it allows you change the tone to match the season. Sometimes products that are rubbed oil bronze the coating wears off or peals. This products coating has withstood the elements very well. My husband and me are able to look at the app to see who is at the door at anytime and it will send our phones nofication for significant events.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Brooke",
+      "helpful_votes": 0,
+      "publication_date": 20200106
+    },
+    {
+      "title": "Too fragile, cannot use g-suite accounts",
+      "text": "When we close the door very gently the lock mechanism works fine. If we apply any amount of force to closing the door, the mechanism will not work until we smack the lock mechanism itself. The door does not move when percussive maintenance is applied, the lock mechanism has problems with slamming the door. We'll probably remove this lock for something better because it is too temperamental. Also we installed it at our office, but we can only use it without personal gmail accounts. Not everybody has personal gmail accounts, so not everyone can use the lock with their phone.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "Matt Dieball",
+      "helpful_votes": 0,
+      "publication_date": 20200624
+    },
+    {
+      "title": "Nest Yale Lock Does Not Connect to Nest Connect Device.",
+      "text": "Have been on the phone with support for over 5 hours today. Have about 20 hours over 6 weeks invested in troubleshooting. Have opened ports specific for the device through my router, executed hundreds of factory resets, talked to about 10+ different reps. This thing sucks.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "Jay",
+      "helpful_votes": 3,
+      "publication_date": 20200108
+    },
+    {
+      "title": "Check for malfunctioning pieces this was a nonfunctional lock",
+      "text": "I called a lock smith to install this lock but it was broken. The locks internal piece had been tampered with. This was an open box with a pen and extra parts that didn\u2019t even belong in the box. Double check what you purchase I hope this doesn\u2019t happen to another buyer. This was a very expensive lock, extremely upset.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "Sara Samantha",
+      "helpful_votes": 3,
+      "publication_date": 20190926
+    },
+    {
+      "title": "It does just what it needs to do beautifully.",
+      "text": "I gave this lock to two of my daughters who share a home with a grandson who will be a latch-key child for about an hour before his mom or aunt comes home. This lock enables him to come into the house and not have to be afraid of losing the key nor remembering to lock the door after him as it locks itself after 30 seconds. It works wonderfully.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Rosiebinkles",
+      "helpful_votes": 0,
+      "publication_date": 20201008
+    },
+    {
+      "title": "Cool smart lock",
+      "text": "This Nest x Yale lock was a breeze to install. It integrated easily with Nest Security. I also liked that it came with longer screws for better security. The Google Nest ecosystem is very well thought out and integration with the Hub & Home app makes it a joy to use.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "JackWagon",
+      "helpful_votes": 0,
+      "publication_date": 20191115
+    },
+    {
+      "title": "Pleasure in convenience, confidence in security.",
+      "text": "Installed it a few days ago, and I am more than happy with it so far. I yet have to try out the auto-lock feature using geofencing. Works nicely with my Google Assistant devices. Got the codes set up for the neighbour to keep an eye on my property at specific times during my absence. The missing star has to do with the app falsely suggesting that my fone's location reporting is inaccurate. Beyond that, I am sold on this thing. Wanted to pair it with the Nest Secure starter pack but, hey, Google doesn't seem to think the South African market is important enough to sell that in. Bummer :(",
+      "rating": 4.0,
+      "verified": true,
+      "author": "Ndlelenhle",
+      "helpful_votes": 0,
+      "publication_date": 20191012
+    },
+    {
+      "title": "The only smartlock to buy",
+      "text": "I purchased this lock, having used other smart locks, and this is by far the best I have seen so far. I am a big fan of Nest, so for me I loved the fact that it fully integrates with my Nest App. I love the fact that the lock includes a keypad as well, so you do not need to purchase and maintain a separate keypad. Install and setup was easy.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Heizenberg",
+      "helpful_votes": 0,
+      "publication_date": 20200710
+    },
+    {
+      "title": "Frustrated",
+      "text": "Nest continues to be offline. Trouble shoot guide fails to provide how to fix the problem. I'm a Locksmith, the lock was purchased to evaluate the reliability. I will not be recommending this lock/nest to my customers.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "Amazon Customer",
+      "helpful_votes": 3,
+      "publication_date": 20200325
+    },
+    {
+      "title": "Major Pain to connect to the app!",
+      "text": "This lock took all of my husbands will not to return. The Nest connect doesn\u2019t play well with the lock nor password protected wifi, and it took 4 days to get it to sync with our nest account. Now that it\u2019s on there it\u2019s wonderful and works great with the app. I wouldn\u2019t buy again simply because of how hard the pairing process was, everything else installation wise was a breeze.",
+      "rating": 2.0,
+      "verified": true,
+      "author": "Megan",
+      "helpful_votes": 0,
+      "publication_date": 20191206
+    },
+    {
+      "title": "I love this lock",
+      "text": "I love how all of the nest products are integrated together in the nest app. I've yet to have an issue with this lock after a month of daily use.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "SpecialK",
+      "helpful_votes": 3,
+      "publication_date": 20190209
+    },
+    {
+      "title": "Beautiful Design!!",
+      "text": "Easy to install and program. My only issue with this lock is that the privacy button is so darn close to the manual lock lever that everyone accidentally presses it when closing the door and locking it behind them. It's a beautiful design on the exterior and its worked flawlessly since installed.",
+      "rating": 4.0,
+      "verified": true,
+      "author": "Wayne C.",
+      "helpful_votes": 2,
+      "publication_date": 20190119
+    },
+    {
+      "title": "Keyless is the future of locks. Very good product",
+      "text": "Install instructions are good and it\u2019s do it yourself with minimal ability. Product made of good quality. Connection to the NEST app was difficult since the lock connects through a wireless bridge: NEST Sense. Would not connect and after hours of tinkering called support. Call was answered promptly and solved the problem. Summary: worth the investment and bought a second lock. 2nd install went without any problems.Recommend the Yale lock if you have other Nest devices.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "CLAUDE T.",
+      "helpful_votes": 0,
+      "publication_date": 20191226
+    },
+    {
+      "title": "RIP OFF",
+      "text": "This is a lock that costs well over $200 and it doesn't connect to wifi without another $70 device. I thought google was a smart company, it turns out they are just a ripoff. STAY AWAY.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "mark cotter",
+      "helpful_votes": 2,
+      "publication_date": 20191202
+    },
+    {
+      "title": "Must be a better unit out there.......",
+      "text": "Too difficult to set up. Took 4 hours. 6 hours later I accidentally unplugged it. Now it won't work. Troubleshooting it they say you have to reset it by tearing it all apart and starting over again....D......",
+      "rating": 2.0,
+      "verified": true,
+      "author": "Thora Goodnight",
+      "helpful_votes": 0,
+      "publication_date": 20200104
+    },
+    {
+      "title": "easy to install, works right out of the box",
+      "text": "I have been waiting for years for this ever since it was announced. I am pleased to see its exactly as advertised. I think it is superior in design and function to my August lock which I had for 2 years while waiting for this. Since I installed this lock 2 months ago it has worked flawlessly.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Tina R.",
+      "helpful_votes": 0,
+      "publication_date": 20190424
+    },
+    {
+      "title": "We hired someone to install",
+      "text": "It's not as easy to install as one would like to think. We hired out. The internet setup was an issue pairing but we eventually got it to work. Once it's up and running... I LOVE IT. Getting notifications when someone comes in and out of my house- and being able to set up individual codes (and delete them) feels safe. No more keys to my house out and about!",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Allie G",
+      "helpful_votes": 0,
+      "publication_date": 20200126
+    },
+    {
+      "title": "Drop-in replacement of existing deadbolt lock",
+      "text": "If your existing deadbolt lock is conventional installation (the most common type, likely 95%+ in the market), this is an easy drop-in replacement. If your existing deadbolt lock is misaligned, you will likely have issues. Remote access via the Nest App is great. Should the battery run out (you will be provided warnings via the app), you can use a 9-volt battery to open the lock.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "R A Burnett",
+      "helpful_votes": 0,
+      "publication_date": 20190826
+    },
+    {
+      "title": "Nest connect does not work",
+      "text": "I am unable to add the Yale Lock to the Nest App - keep getting the message \" Reset your Nest Connect\" - still has some previous setting on it. NA003 (0.20). No help at all from Google Nest customer support - only an online question board and phone support is not available. Saw lot of the same complaints from customer on the board. The worst product I have bought so far, and a big reason for purchasing it -remote control of lock - just disappeared. Very frustrating!",
+      "rating": 1.0,
+      "verified": true,
+      "author": "Amazon Customer",
+      "helpful_votes": 0,
+      "publication_date": 20200617
+    },
+    {
+      "title": "Very convenient!",
+      "text": "Love the alerts and being able to control this while away from home. My kids are always leaving the door unlocked and I can simply lock it back remotely, but the best part is the notification I get letting me know it was left unlocked in the first place! This with the Nest Video Doorbell let's me know everything going on at my front porch.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "ws6wes",
+      "helpful_votes": 0,
+      "publication_date": 20191105
+    },
+    {
+      "title": "Don\u2019t need a key anymore",
+      "text": "Works As intended. A little difficult to install. Installed in summer and worked great. Wood changes in winter due to colder temperatures. Will it gets stuck sometimes when closing automatically in winter, still locks. Happy with purchase as don\u2019t need a key or to call a locksmith when I lock myself out. One call to the locksmith pays for the lock.",
+      "rating": 4.0,
+      "verified": true,
+      "author": "Mighty",
+      "helpful_votes": 0,
+      "publication_date": 20191220
+    },
+    {
+      "title": "Great lock",
+      "text": "Great door lock I\u2019ve had this product for a couple months now and I haven\u2019t really noticed much issues. One issue I\u2019ve noticed with it is that the sensitivity needs to be turned up a bit more on the touchpad, I am usually pressing the same number multiple times. And I don\u2019t know how well this will do in the winter since I live in Minnesota it can get super cold here, at least the battery compartment is in the interior side",
+      "rating": 4.0,
+      "verified": true,
+      "author": "Tsegaye",
+      "helpful_votes": 0,
+      "publication_date": 20191120
+    },
+    {
+      "title": "Super lock. Worth the price.",
+      "text": "After about a month installed, I couldn't be happier with this lock. I replaced a Kevo lock with this one and there's no comparison. The several friends and family who have used it (young and old) have also not had a problem. Great product! I especially like the privacy feature on the lock. Gives great piece of mind.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Todd Thorne",
+      "helpful_votes": 0,
+      "publication_date": 20191030
+    },
+    {
+      "title": "One of the best smart locks",
+      "text": "Great smart lock! It can potentially be a little bit of a pain to install, but otherwise, it's amazing. I have it integrated with the Google Assistant ecosystem, so it's very useful. My favorite feature has to be the 1 touch lock (touching the Yale logo) when you're on your way out. It only takes a second and you get an audio confirmation once it's locked. The inside portion seems to be slightly bulky compared to other models, but it's definitely no eye sore.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "E/T",
+      "helpful_votes": 0,
+      "publication_date": 20191118
+    },
+    {
+      "title": "Crap",
+      "text": "Constantly \u201coffline\u201d and to fix you have to unscrew everything and reset it. Such a headache. Goes offline every TWO DAYS. Would be great if it actually worked.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "Kirsten",
+      "helpful_votes": 0,
+      "publication_date": 20200713
+    },
+    {
+      "title": "Straightforward Install",
+      "text": "I don\u2019t normally do reviews, but this felt review worthy. I have been researching WiFi and Bluetooth door knobs and decided on this one. I was worried about the installation due to the reviews. Honestly the installation was very straight forward and easy, it took me less than 30 minutes including setting it up online. The door knob thus far has run really well. It\u2019s easy to enter the passcodes and create passcodes through the app. I appreciate the notifications of when the door has been opened and who it was opened by. If you\u2019re debating between this and other smart deadbolts, I would recommend this one.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Julie Webster",
+      "helpful_votes": 0,
+      "publication_date": 20200529
+    },
+    {
+      "title": "Good Smart lock but not perfect",
+      "text": "I like the smart lock a lot! It was easy to install and set up on my phone. Small gripes would be that there is no physical key over ride if the battery dies. You need a 9v to bypass the system if the batteries die. The voice of the lock can be very load. When you close the door and trigger the lock on the app or other means, and the lock did not successfully engage, the audio lock can be heard from very far away. I am glad to have the lock for AirBNB but wish for the next version to have some of these fixes.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Adin",
+      "helpful_votes": 0,
+      "publication_date": 20200614
+    },
+    {
+      "title": "Most secure smart lock available",
+      "text": "Best lock ever. I bought 3 of them to replace my Schlage locks and I love them. They have no keyhole so therefore are more secure than any smart lick available. I replaced battery with lithium batteries. With 12 people in the house it's still going strong after 6 months of use. No issues so far.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "James21ap",
+      "helpful_votes": 0,
+      "publication_date": 20200313
+    },
+    {
+      "title": "It's got room for improvement",
+      "text": "Love the features, but I cannot connect it to internet for the life of me! I'm tech savvy and we have a Nest thermostat that connects fine.",
+      "rating": 4.0,
+      "verified": true,
+      "author": "Karleen Mowery",
+      "helpful_votes": 0,
+      "publication_date": 20200130
+    },
+    {
+      "title": "Defective",
+      "text": "Would be great if it worked. The connect hub would not connect to the app despite trying everything on the troubleshooting page. Seems like the connect unit is defective which I\u2019ve noticed is an issue many other customers have faced.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "Jennifer Tilley",
+      "helpful_votes": 0,
+      "publication_date": 20200608
+    },
+    {
+      "title": "Aesthetically pleasing and easy to use!",
+      "text": "Easy to install with proper tools, looks fabulous, connects easily to wifi, and the app makes it so easy to create codes for family members and dog walkers. Highly recommend!",
+      "rating": 5.0,
+      "verified": true,
+      "author": "CAM",
+      "helpful_votes": 0,
+      "publication_date": 20191204
+    },
+    {
+      "title": "Works as advertised",
+      "text": "I used this lock to replace the deadbolt on our front door. So far so good. Hardest part of install is getting the deadbolt to line up so that the lock is able to lock. Take your time during install and it will save you grief down the road. I will update my review once we have explored all of the features and used the lock over a longer period of time.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "LINDEN SCARBROUGH",
+      "helpful_votes": 0,
+      "publication_date": 20200102
+    },
+    {
+      "title": "Terrible Product",
+      "text": "I have given this 3 months on my door but it's been so awful. I always get the \"can't lock the door, the deadbolt is stuck\" error even though the door actually locks. The battery has had to be replaced 3 times and the app sucks. I wish I had returned it when I could. Definitely do not recommend.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "AllySon",
+      "helpful_votes": 2,
+      "publication_date": 20191102
+    },
+    {
+      "title": "Meh. Work fine. Annoying voice and sounds",
+      "text": "I just want it to shut up sometimes. Works fine. Just don't accidentally push the wrong button or it will yell at you. Costs as much as Google home. How about integrating that technology instead of an annoying voice from hell?",
+      "rating": 3.0,
+      "verified": true,
+      "author": "Mike M",
+      "helpful_votes": 0,
+      "publication_date": 20200612
+    },
+    {
+      "title": "Overall a pain in the butt.",
+      "text": "If it actually worked, I am sure it would be so convenient to use, but it kept giving us problems. I was on the phone with support for 1.5 hrs and we still weren't able to resolve the issue. The nest just refused to connect to the connector. Installation is sort of easy but if you're off by the slightest, nest will not work.",
+      "rating": 2.0,
+      "verified": true,
+      "author": "Lexii",
+      "helpful_votes": 0,
+      "publication_date": 20190919
+    },
+    {
+      "title": "Totally recommend",
+      "text": "Fantastic lock, I use it in my cabin for my family and renters, easy install, and easy to program different codes, and the cool thing is I can program the code's and email for exact date, time and expiration, from my cell, along with history of who comes and goes",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Harley",
+      "helpful_votes": 0,
+      "publication_date": 20200210
+    },
+    {
+      "title": "Good but not so good",
+      "text": "Works fine but I wish it had the ability of auto unlock when you have your phone with it. Also connectivity is a problem. If u have a power outage or somehow its get disconnected, you have to reset the lock which is pain. I have already reset 3 times si reliability is a problem. On my lock number 3 stopped working so had to get the replacement as it was under warranty.",
+      "rating": 4.0,
+      "verified": true,
+      "author": "Amazon Customer",
+      "helpful_votes": 0,
+      "publication_date": 20200105
+    },
+    {
+      "title": "Didn't work for me",
+      "text": "I worked with support for 3 hours due to error T013(4096) - basically my Nest Connect won't talk to the lock. Said it was a firmware bug - four months later - talked to support again - firmware fix isn't out yet. Now - its way past the return date.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "Dennis Cox",
+      "helpful_votes": 0,
+      "publication_date": 20200402
+    },
+    {
+      "title": "Great Smart Lock!",
+      "text": "I paid a pro to install. He had to drill a bit so the deadbolt had more room to fit in the wall, but other than that he said it was easy to put together. The downloading of the app was easy and seamless. I love being able to lock/unlock the door from anywhere with the phone app.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Kwan",
+      "helpful_votes": 0,
+      "publication_date": 20200107
+    },
+    {
+      "title": "Was sold a used product with dead batteries and a deep scratch. Lock does not work.",
+      "text": "DO NOT BUY ON AMAZON. I RECEIVED A USED PRODUCT THAT DOES NOT WORK WHEN I BOUGHT NEW. I had to pay for a handyman to install it just for them to tell me the product is broken and now I have to pay him and wait for a replacement.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "Alex",
+      "helpful_votes": 0,
+      "publication_date": 20200615
+    },
+    {
+      "title": "love",
+      "text": "I love our lock. best part is that it locks the door for us after we leave. a little annoying that i have to click the check mark after punching in my code. it should just open after the last correct digit is pressed.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "David",
+      "helpful_votes": 0,
+      "publication_date": 20200607
+    },
+    {
+      "title": "Still performed in extreme cold",
+      "text": "I've had this product installed on my door for more than a year now. I was worried about it performing in the cold. It got down to -30 F this past winter for a few nights and it didn't seem to cause any issues with the lock.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Eric",
+      "helpful_votes": 0,
+      "publication_date": 20200911
+    },
+    {
+      "title": "Works extremely well",
+      "text": "Very, very, very easy to install. Took me 15 minutes to remove old lock and install new Nest x Yale lock. If you are familiar with Nest Home app and the Google Home app, it will take less than 10 minutes to link to apps. I've had it to for a few days and so far it works extremely well.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "FINO100",
+      "helpful_votes": 0,
+      "publication_date": 20200418
+    },
+    {
+      "title": "installed twice to get it working, but so far so good",
+      "text": "The first install doesn't work. The lock kept trying to rotate in the wrong direction. I searched online and found someone said that try to reset it and then reinstall it. The second install succeeded.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Amazon Customer",
+      "helpful_votes": 0,
+      "publication_date": 20200812
+    },
+    {
+      "title": "Does what I wanted it to do.",
+      "text": "I like this lock. It was easy to install and works just how I want it to. I can unlock my front door from my car before going in the house if I am carrying things in and it locks itself if I leave it unlocked so I never have to go back and check to make sure I locked the door.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "B. Burns",
+      "helpful_votes": 0,
+      "publication_date": 20200201
+    },
+    {
+      "title": "Reliable, no more keys!",
+      "text": "The lock itself is definitely worth the price but the reliability is all about where you place the Nest Connect. I saw a lot of reviews complaining about losing connectivity but you have to realized that if you don\u2019t know how to configure your home network it will always be causing problems not only with this device but possibly with others as well. For me it has been working fine for around 3 months now.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "JP",
+      "helpful_votes": 0,
+      "publication_date": 20200201
+    },
+    {
+      "title": "Could be better",
+      "text": "I bought a pair of these. First one gave out after about 30 days of service. But I will say they were prompt taking care of the issue but given the high cost of this device going bad that quick just was not acceptable.",
+      "rating": 3.0,
+      "verified": true,
+      "author": "ironraptor",
+      "helpful_votes": 0,
+      "publication_date": 20200313
+    },
+    {
+      "title": "Very good product! Love nest",
+      "text": "It's really not hard to install at all, personally I did have to ask for someone to make some new holes in my door but that was because my existing lock wasn't compatible. amazing product, all of the nest products are highly recommended. Quality of life improvement",
+      "rating": 4.0,
+      "verified": true,
+      "author": "Dk11",
+      "helpful_votes": 0,
+      "publication_date": 20201018
+    },
+    {
+      "title": "Excellent door lock. Next level technology!",
+      "text": "After following the directions the door lock has been flawless after months of use. Very satisfied with the connectivity, the app notifications, the functionality with Nest Secure and the entire Google ecosystem. Buying one for all exterior doors!",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Julius",
+      "helpful_votes": 0,
+      "publication_date": 20191113
+    },
+    {
+      "title": "Best Deadbolt Ever!!!",
+      "text": "Nest + Yale lock = simplicity meets high tech safety and security. I never have to worry if I ever locked the door again!!!! This feature pay for itself the first time you are in traffic and wonder if you locked the door and realized that it locks automatically and then you can actually check it on your mart phone. Wow!",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Mikesdow",
+      "helpful_votes": 0,
+      "publication_date": 20191231
+    },
+    {
+      "title": "DOESN'T WORK DO NOT BUY",
+      "text": "The lock works fine, howver the convoluted and complicated process for trying to install this will drive you mad. After 5 hours I gave up. There is NO, Zero support for this item, from Amazon or Nest and apparently everyone has same or similar issues. Sent back, going with Schlage",
+      "rating": 1.0,
+      "verified": true,
+      "author": "chris",
+      "helpful_votes": 0,
+      "publication_date": 20200927
+    },
+    {
+      "title": "Who WOULDN'T buy this?",
+      "text": "Exponential improvement to key lock. My friend easily installed it. It looks great. I have now replaced 3 locks and intend to do all my external doors and get rid of the hassle of lugging around a pound of keys .",
+      "rating": 5.0,
+      "verified": true,
+      "author": "MBJ",
+      "helpful_votes": 0,
+      "publication_date": 20200313
+    },
+    {
+      "title": "Wish it worked with Alexa/ Also kept losing connection.",
+      "text": "Overall the product is great when working properly. I had a few issues in the beginning with it having issues with connection errors, but now I think it finally worked it self out and is working great. I do wish it would work with Alexa, but did purchase some google assistance and it defiantly makes things easier.",
+      "rating": 4.0,
+      "verified": true,
+      "author": "Dalton Hunt",
+      "helpful_votes": 0,
+      "publication_date": 20200429
+    },
+    {
+      "title": "Awful product",
+      "text": "Awful product. Could never get it to connect well. The locking mechanism isn\u2019t really high quality compared to standard dead bolts. My router is about 10ft from nest connect and 20 feet from the lock and it never connected correctly. It would not connect to the 5g network I have, only 2.4. Poor customer support from google. Would not buy this product.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "Tahir ",
+      "helpful_votes": 0,
+      "publication_date": 20200424
+    },
+    {
+      "title": "The network communication is not smooth",
+      "text": "The installation is easy and feature set is good. However; the online access setup is not straight forward. Once installed and worked. Then lost the connectivity, unsure why. Spent time online looking for tips and play around. Eventually, called the support. Reset the lock back to initial setup and worked.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Pu-Chau Hsu",
+      "helpful_votes": 0,
+      "publication_date": 20190903
+    },
+    {
+      "title": "Would recommend",
+      "text": "Great product really enjoy. Really like the app that lets you know if you left the door unlocked or if someone touches the lock. That you can set different codes and pick times that those codes are able to be used. Secure. Durable. No problems",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Robert",
+      "helpful_votes": 0,
+      "publication_date": 20191108
+    },
+    {
+      "title": "FINGERPRINTS ARE VISIBLE ON THE PAD",
+      "text": "The lock works great and was super easy to install. However, you can see which buttons you press- contrary to what the manufacturer says. Although i would still say it is an excellent lock, Nest needs to update the lock with a surface that doesn't leave fingerprints for true peace of mind.",
+      "rating": 4.0,
+      "verified": true,
+      "author": "c lee",
+      "helpful_votes": 0,
+      "publication_date": 20190717
+    },
+    {
+      "title": "Best smart lock so far for a front door.",
+      "text": "I've gone through three other locks now: - Lockiton was a disaster never to be touched again - Schlage was the best keypad lock I've ever owned, but no smart capabilities - Kwikset z-wave lock was surprisingly mediocre as a deadbolt and quite poor as a keypad and smart lock Installation was a breeze, connection is super reliable, software and smart capabilities are solid, and the keypad is not as seemless as the Schlage but still quite good.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "R. Chan",
+      "helpful_votes": 0,
+      "publication_date": 20200104
+    },
+    {
+      "title": "Unstable.",
+      "text": "Lasted a couple of weeks then went offline. Multiple resets. Having to uninstall the lock to reset is ridiculous. You technically need two people to hold parts together and very small hands to get a tiny screw in place.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "Amazon Customer",
+      "helpful_votes": 0,
+      "publication_date": 20200723
+    },
+    {
+      "title": "Great lock!",
+      "text": "Don\u2019t really know how easy it is to install as it was for my sons house. I did move in after installation and find it sooo convenient! No key needed and can lock it from bed-well anywhere pretty much! I\u2019m going to buy another one for my exterior door when renovation is complete",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Tsdrms",
+      "helpful_votes": 0,
+      "publication_date": 20200223
+    }
+  ],
+  "product_meta": {
+    "title": "Google Nest x Yale Lock - Tamper-Proof Smart Lock for Keyless Entry - Keypad Deadbolt Lock for Front Door - Works with Nest Secure Alarm System - [Nickel]",
+    "description": "Color Name:Satin NickelThe Nest x Yale Lock is a secure, tamper-proof smart lock for your front door. It has a keypad for keyless entry, so you can lock and unlock the door from anywhere with the Nest app. Plus, give people you trust a passcode and get alerts when they come and go. [1] Mobile notifications and remote control require working internet and Wi-Fi. Notifications are provided for convenience and should not replace ordinary care in locking your door. [2] Some features, including mobile alerts, remote control and custom schedules, require the Nest app, working internet and Wi-Fi, and Nest Connect or Nest Guard. Notifications are provided for convenience and should not replace ordinary care in locking your door.",
+    "rating": 4.5,
+    "feature_bullets": [
+      "Secure smart lock for your front door; replaces the deadbolt lock you already have",
+      "Keyless entry on the LED keypad so you can lock and unlock your front door without a key; keypad chimes play sounds to confirm responses, such as locking, unlocking, or turning Privacy Mode on or off",
+      "Let someone in from anywhere; unlock the door with your phone for easy guest access[1]",
+      "Give unique passcodes to family and guests and set a schedule to control when they work; when you don\u2019t want to be disturbed, Privacy Mode disables the keypad so it can\u2019t be unlocked with a passcode",
+      "Get alerts when someone locks or unlocks the door or tries to tamper with your smart door lock[1]",
+      "Check the status of your door lock from anywhere and lock it with the Nest app; or use one-touch locking on your way out, or a passcode on the keypad lock; with auto-lock, it can lock automatically when you\u2019re away from home[1]",
+      "Works with the Nest Hello video doorbell and Nest Cams to help keep your front door secure",
+      "Easy to install; just switch out your deadbolt or call a Nest Pro to help",
+      "Comes in three metal finishes to match your front door; choose from Satin Nickel, Oil Rubbed Bronze, or Polished Brass",
+      "Please refer to the product description section below for all applicable legal disclaimers denoted by the bracketed numbers in the preceding bullet points (e.g., [1], [2], etc.)"
+    ],
+    "specifications": {
+      "Manufacturer": "Google",
+      "Part Number": "RB-YRD540-WV-619",
+      "Item Weight": "4 pounds",
+      "Product Dimensions": "4.59 x 2.59 x 0.8 inches",
+      "Item model number": "RB-YRD540-WV-619",
+      "Batteries": "4 AA batteries required.",
+      "Is Discontinued By Manufacturer": "No",
+      "Color": "Satin Nickel",
+      "Style": "Satin Nickel",
+      "Power Source": "Battery-Powered",
+      "Item Package Quantity": "1",
+      "Display Style": "LED",
+      "Plug Profile": "Surface",
+      "Included Components": "Installation Guide, Mounting Hardware, Nest x Yale Lock, Nest Connect, 4 AA Batteries",
+      "Batteries Included?": "Yes",
+      "Batteries Required?": "Yes",
+      "Battery Cell Type": "Lithium Ion",
+      "ASIN": "B07BH6K3NT",
+      "Customer Reviews": "4.5 out of 5 stars1,296 ratings4.5 out of 5 stars",
+      "Date First Available": "April 2, 2018"
+    },
+    "categories": [
+      "Tools & Home Improvement"
+    ],
+    "price": ""
+  }
+}

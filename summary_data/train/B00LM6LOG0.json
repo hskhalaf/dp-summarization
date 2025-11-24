@@ -1,0 +1,503 @@
+{
+  "website_summaries": [
+    {
+      "verdict": "Seagate's 2-Bay NAS is a middling consumer/SOHO drive with solid read performance, small business-class security features, and an improved interface, but it seems fragile, and write speeds are slow.",
+      "pros": [
+        "Delivers excellent data protection",
+        "Remote management service is easy to set up and flawless",
+        "Can support up to 10TB of storage",
+        "Minimalist and clean, new user interface",
+        "Above average read performance"
+      ],
+      "cons": [
+        "Below-average write speed",
+        "Drive bays are flimsy and difficult to work with",
+        "No audible alert with drive failure",
+        "Remote access SDrive feature did not work in tests",
+        "Few apps in vendor store for download",
+        "Surprising lack of documentation"
+      ],
+      "aspects": {},
+      "publication_date": 20141029,
+      "rating": 6.0,
+      "source": "pcmag"
+    }
+  ],
+  "customer_reviews": [
+    {
+      "title": "If a drive becomes bad you'll lose all your data even in raid 5 ...",
+      "text": "I've had this for a year now and it's been nothing but trouble. I've worked in the computer industry for over 20 years and am very knowledgeable on SANs Pros: It turns on, it has the functions it says Cons: It over heats and shuts it self off. If a drive becomes bad you'll lose all your data even in raid 5 and 10. It's slow, very very slow. The user interface is slow, the transfer rate is slow, everything about this device is very slow. I would not recommend this.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "Hug Me",
+      "helpful_votes": 2,
+      "publication_date": 20160805
+    },
+    {
+      "title": "Check for supported drives",
+      "text": "Initially had problem keeping the unit stable. Used the drives from one of my other NAS units. Turns out they were not supported by this NAS. After working with customer service was directed to Seagate website that listed the supported drives. Purchased and installed four 4TB drives in RAID 5 configuration from the supported list (for a total storage of 12TB). As expected formatting took several hours. Had minor issue with it \"disappearing\" from network. After reboot, it has been stable and running flawlessly for past month. Check list for supported drives otherwise you will have stability issues.",
+      "rating": 4.0,
+      "verified": true,
+      "author": "DJ Farji",
+      "helpful_votes": 0,
+      "publication_date": 20160725
+    },
+    {
+      "title": "But the Backup is working great on any other device",
+      "text": "VERY HARD to set up correctly, hard to work with plug USB drives. When I transfer data to the Seagate Backup Plus that I plug in the NAS's USB 3.0, whole Seagate NAS system crush after finish 5 GB? Try serval times, none of them works. Try to call the support, they told me it might because of my Seagate Backup is broke. But the Backup is working great on any other device, MAC, PC, even plug into my ASUS wireless router. Tried to plug other driver in to the NAS, always crash after 5-8GB data transfer. But the NAS sys works pretty stable when works alone.",
+      "rating": 4.0,
+      "verified": true,
+      "author": "AA",
+      "helpful_votes": 0,
+      "publication_date": 20150422
+    },
+    {
+      "title": "Read the drive compatibility before you buy!",
+      "text": "Great seller, but it didn't work for me. I returned it as defective and the seller picked up the shipping tab without any problems. However as it turns out, this product only works with a limited number of drives. I had two drive that needed a home and they didn't work in this enclosure, perhaps for that reason. Check the drive compatibility before you purchase this unit and perhaps you'll have better luck than I did.",
+      "rating": 2.0,
+      "verified": true,
+      "author": "renegade kid",
+      "helpful_votes": 2,
+      "publication_date": 20160225
+    },
+    {
+      "title": "Sweet works as discribed only draw back is you may ...",
+      "text": "Sweet works as discribed only draw back is you may have to set up your router to portforward to access over the internet and the sdrive is not like onedrive. you cant store a hard copy of what is on the nas on your local machine. it has to refesh everytime you browse for files. but still I am using for back up of my personal data that i need to access over the web.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Charles",
+      "helpful_votes": 2,
+      "publication_date": 20150309
+    },
+    {
+      "title": "which is fine, i let it do it overnight",
+      "text": "My first NAS Project.only need to use it as RAID 5 for safe filing storage,slow to set up it said 17 hours to syncronize all drives into raid 5,which is fine,i let it do it overnight. but there is no info in the box on how to copy files into the ready drive !! i see it on my network panel,but it wont let me click and drag files!!!!! the support online is confusing,no manual in the box and there is no phone support on the week end !!!! lol its a joke. looking to return this and get different brand. what a waste of my time",
+      "rating": 2.0,
+      "verified": true,
+      "author": "laurent Esposito",
+      "helpful_votes": 0,
+      "publication_date": 20160403
+    },
+    {
+      "title": "Slow, flakey, bad.",
+      "text": "Very bad, slow, flakey software. Very slow. I was replacing a Buffalo NAS I've had for many years and this has been a complete step down. I have almost zero trust in this thing at all.",
+      "rating": 2.0,
+      "verified": true,
+      "author": "Jesse Donat",
+      "helpful_votes": 0,
+      "publication_date": 20170410
+    },
+    {
+      "title": "Worked Perfectly and Better Than Expected.",
+      "text": "This item was a perfect replacement for my aging NAS. I installed the STCT100 with 1TB drives as RAID 1 with zero difficulty and quickly had my mirrored backup completed. Though people complained about the throughput it much faster than my old one and had a high of about 50MB with large files and less to significantly less with small files. Running it as a mapped drive in Windows 10 x64 (Insider Preview New Beta 14352).",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Brian Atkinson",
+      "helpful_votes": 0,
+      "publication_date": 20160531
+    },
+    {
+      "title": "Solid backup",
+      "text": "Set up was a snap. Started with one disk, added a second later to set up a simply raid configuration. Worked flawlessly. The only reason I can't give it a full 5 stars, is the remote access is troublesome to set up. In fact I cannot get it to work. This may be operator error, haven't given it any time recently as I am busy at work. However the set up was much easier on a MyCloud backup I used for a while.",
+      "rating": 4.0,
+      "verified": true,
+      "author": "Dennis A.",
+      "helpful_votes": 0,
+      "publication_date": 20151109
+    },
+    {
+      "title": "Great little NAS.",
+      "text": "What an easy setup. I had my RAID constructing within 20 minutes of opening the packaging. Security features leave a little to be desired but a few minutes with SSH took care of that. This unit is intuitive, easy to configure, and has not failed to meet my expectations. The NIC-teaming was a nice feature and added a little speed to the transactions.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Kirt Perkins",
+      "helpful_votes": 0,
+      "publication_date": 20140930
+    },
+    {
+      "title": "it stays cool, it works",
+      "text": "I installed two Seagate 4TB drives, Then I followed the rest of the very simple setup instructions. When I powered it up it came up and it worked. That's what you'd expect and it did. I then use time machine on my mac and windows backup, although it took some time to back the windows drive (close to 300Mb), all went well. Its quiet, it stays cool, it works!",
+      "rating": 5.0,
+      "verified": true,
+      "author": "David Bristow",
+      "helpful_votes": 0,
+      "publication_date": 20150614
+    },
+    {
+      "title": "Works great, much better than a ReadyNAS Duo.",
+      "text": "This has been working flawlessly since I installed it several months ago. No connection problems and setup was easy. The security camera app that is included is pretty basic but works well for constant recording, I haven't been able to make the alarm recording work yet.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Bob",
+      "helpful_votes": 0,
+      "publication_date": 20150921
+    },
+    {
+      "title": "a bit of work and study necessary for a non-tech ...",
+      "text": "a bit of work and study necessary for a non-tech guy to install effectively but after putting int he work does the job nicely",
+      "rating": 4.0,
+      "verified": true,
+      "author": "review",
+      "helpful_votes": 0,
+      "publication_date": 20170610
+    },
+    {
+      "title": "Great Unit",
+      "text": "This is a good backup unit it is more efficient than my raid five unit that died with 12 gb in drives I got 9 gb of storage Seagate did good. and it is quiet as a mouse. my previous unit sounded like a low volume food processor.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Johnny L Gilbert",
+      "helpful_votes": 0,
+      "publication_date": 20151121
+    },
+    {
+      "title": "Great value for the performance!",
+      "text": "This was very easy to configure and setup. I moved some data over from my wife's phone and some other data while the raid-set was building. It worked flawlessly! I haven't benched marked it, but based on the setup and usage, I really don't see a need to do any further testing. This is based on how the box performed during the data(100g) I moved.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "TK",
+      "helpful_votes": 0,
+      "publication_date": 20140929
+    },
+    {
+      "title": "Seagate 4-Bay NAS",
+      "text": "Purchased the NAS and two 3 TB Seagate NAS drives. Install was very smooth, performance is better than my prior 1 TB NAS. It is very quiet, and I like that fact that when I need more space I can just get some more drives, plug them in, and off I go.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "WhtShadow",
+      "helpful_votes": 0,
+      "publication_date": 20150301
+    },
+    {
+      "title": "Works Good!",
+      "text": "Unable to compare with other NAS storage units. This is the only one I have ever owned.",
+      "rating": 4.0,
+      "verified": true,
+      "author": "C. W. Miller",
+      "helpful_votes": 0,
+      "publication_date": 20200127
+    },
+    {
+      "title": "Very easy to set up",
+      "text": "Very easy to set up. Unfortunately, there is very little documentation and no included software. Thus if you want an easy solution that is plug and play, look elsewhere. If knowledgeable about NAS and storage, it's a bargain.",
+      "rating": 4.0,
+      "verified": true,
+      "author": "Orestes Sanchez",
+      "helpful_votes": 0,
+      "publication_date": 20150214
+    },
+    {
+      "title": "works well",
+      "text": "works good, not very user friendly set up for people with lower computer skills like me.",
+      "rating": 4.0,
+      "verified": true,
+      "author": "John",
+      "helpful_votes": 0,
+      "publication_date": 20160609
+    },
+    {
+      "title": "Seagate assisted with the setup and it worked ok. ...",
+      "text": "Seagate assisted with the setup and it worked ok. The file folder naming, etc requirements were non-intuitive but do function. Hanging printers (USB) off it are not as straight-forward as my previous Iomega.",
+      "rating": 4.0,
+      "verified": true,
+      "author": "HHilton",
+      "helpful_votes": 0,
+      "publication_date": 20151201
+    },
+    {
+      "title": "Works great! Would have given 5 stars if it had ...",
+      "text": "Works great! Would have given 5 stars if it had come with better software. Marginal as a media server. Something to back up attached PCs & laptops would have been nice.",
+      "rating": 4.0,
+      "verified": true,
+      "author": "JMark1999",
+      "helpful_votes": 0,
+      "publication_date": 20150630
+    },
+    {
+      "title": "It is impressive the Seagate NAS 4-Bay  Drive (STCU100)  hit the ground running.",
+      "text": "No complaints, so far positive outcomes. Impressive the Seagate NAS 4-Bay Drive (STCU100) hit the ground running. We rarely have heavy demand load on the server, response time good when we do load the server with large file transfers. Easy set up \u2013 better pack a lunch, takes over a day to initialize four 2TB (simply raid) drives. One (chicken-ship) downside, the physical drives are not accessible via windows after after simply raid initialization. Lighting strike, Pepsi Syndrome or hardware failure could provide a single point of failure. So for reliability best mirror the server on another hard drive(s). We have local server backup relaying off-site backup via Carbonite. Good unit we will likely buy one or two more.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Hank Jones",
+      "helpful_votes": 0,
+      "publication_date": 20160320
+    },
+    {
+      "title": "Works great",
+      "text": "Works Great.... Operates as another computer without the computer, But it is not accessible from all wifi devices",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Apollo's",
+      "helpful_votes": 0,
+      "publication_date": 20160518
+    },
+    {
+      "title": "Great Unit with Well Thought Out Interface",
+      "text": "Well built unit with well thought out interface; extremely easy to set up and configure",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Bill Was",
+      "helpful_votes": 0,
+      "publication_date": 20160324
+    },
+    {
+      "title": "Issues Right Out of Box",
+      "text": "I received this and had issues right out of the box. I plugged the power in and the power and reset light turned on solid and the device did nothing. I had to do a reset on the back of the device each time it powered it on.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "Amazon Customer",
+      "helpful_votes": 0,
+      "publication_date": 20160130
+    },
+    {
+      "title": "Used a number of NAS devices by different manufacturers. ...",
+      "text": "Used a number of NAS devices by different manufacturers. Seagate definitely knows what they are doing! Well constructed and extremely functional.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "John Smoth",
+      "helpful_votes": 0,
+      "publication_date": 20141027
+    },
+    {
+      "title": "Great product",
+      "text": "This thing has worked great except the remote app for the smart phone doesn't work...ever!!!",
+      "rating": 5.0,
+      "verified": true,
+      "author": "kenny roberts",
+      "helpful_votes": 0,
+      "publication_date": 20151201
+    },
+    {
+      "title": "Great storage, super service!",
+      "text": "Working flawlessly as a backup for my graphic design business. Set up on my Mac Pro was pretty simple, had a glitch on my end and customer service was fantastic!",
+      "rating": 5.0,
+      "verified": true,
+      "author": "S. Hemphill",
+      "helpful_votes": 0,
+      "publication_date": 20150117
+    },
+    {
+      "title": "No beefs - I like it!",
+      "text": "Works very well. Performance as expected. No beefs - I like it!",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Happy Amazon Customer",
+      "helpful_votes": 0,
+      "publication_date": 20150919
+    },
+    {
+      "title": "Installation looks fine until formatting",
+      "text": "I bought it with one 4TB HDD. Installation looks fine until formatting. After format and NAS restart and comes back this step again. I am not able to use it and do not know what to do.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "Kyu Hwan Lim",
+      "helpful_votes": 2,
+      "publication_date": 20150712
+    },
+    {
+      "title": "A great addition to any office",
+      "text": "It is user friendly, flexible function and runs so cool.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Short Stuff",
+      "helpful_votes": 0,
+      "publication_date": 20160403
+    },
+    {
+      "title": "so good.",
+      "text": "Up and running with 4 - 3 TB drives. So far, so good.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Dan H",
+      "helpful_votes": 0,
+      "publication_date": 20160104
+    },
+    {
+      "title": "Its only configurable by an IT professional not easy for layman",
+      "text": "No Software inside the box. Its only configurable by an IT professional not easy for layman. Otherwise product is ok",
+      "rating": 3.0,
+      "verified": true,
+      "author": "Gops",
+      "helpful_votes": 0,
+      "publication_date": 20150620
+    },
+    {
+      "title": "Easy to setup and start sharing folders",
+      "text": "Easy to setup and start sharing folders. Would like a softcopy of User Manual discussing setting up folders, remote access, etc.",
+      "rating": 4.0,
+      "verified": true,
+      "author": "ap",
+      "helpful_votes": 0,
+      "publication_date": 20150302
+    },
+    {
+      "title": "Five Stars",
+      "text": "Works great. connected. Have not set it up completely should be no problems. Thank you, Gary",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Gary Morris",
+      "helpful_votes": 0,
+      "publication_date": 20160523
+    },
+    {
+      "title": "Works great",
+      "text": "Connected it to our business network for backing up the server. It took about 30 minutes from the time I started unpacking it. I am very happy now and have using it about a month and a half.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Peter Richmond",
+      "helpful_votes": 0,
+      "publication_date": 20151005
+    },
+    {
+      "title": "Great Trade but cheap price",
+      "text": "From New Zealand: Great Trade but cheap price. Highly recommend this seller to everyone internationally. Thanks",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Balpreet Singh",
+      "helpful_votes": 0,
+      "publication_date": 20150907
+    },
+    {
+      "title": "Great device for a small network.",
+      "text": "I had the device connected, configured, files copied, and backing up to Amazon S3 in less than an hour. Been working perfect for several weeks.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Michael T. Hanson",
+      "helpful_votes": 0,
+      "publication_date": 20150614
+    },
+    {
+      "title": "Best decision I made all year!",
+      "text": "A little trouble setting it up, but otherwise, it is worth it!!!",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Irvin Gers",
+      "helpful_votes": 0,
+      "publication_date": 20150604
+    },
+    {
+      "title": "We purchased this after much research. Unfortunately it arrived ...",
+      "text": "We purchased this after much research. Unfortunately it arrived during our office move. I have been unable to locate the Power supply. I am having difficulty locating a replacement power supply. I am hoping the manufacturer reads this and can point me towards a replacement power cord. I will update my review once I can actually give a review. I fully understand this is MY fault, I highly doubt it was shipped with out a power cord.",
+      "rating": 3.0,
+      "verified": true,
+      "author": "Matthew T Neff",
+      "helpful_votes": 0,
+      "publication_date": 20151113
+    },
+    {
+      "title": "Five Stars",
+      "text": "Easy to set up and has a nice interface. Very quiet also.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Bruce",
+      "helpful_votes": 0,
+      "publication_date": 20141128
+    },
+    {
+      "title": "but I was disappointed.",
+      "text": "Have a Mac. Tried backing up using Time Machine format. Mac doesn't see NAS Drive. I did a paper map and tricked the Mac into seeing it. The Mac went from 10 hours to download to 25 hours to download the next morning. It's the fault of the Apple Nazi Bastards, of course, but I was disappointed.",
+      "rating": 2.0,
+      "verified": true,
+      "author": "JHR Installations, LLC",
+      "helpful_votes": 0,
+      "publication_date": 20150801
+    },
+    {
+      "title": "Best of luck",
+      "text": "Sent this back because it wouldn't stay connected to the network. I have to think the return rate on these is high.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "Amazon Customer",
+      "helpful_votes": 3,
+      "publication_date": 20150927
+    },
+    {
+      "title": "So, So, could have better web-based interfaces and much better documentation",
+      "text": "The network interface can be a little difficult and I had to connect via the IP address to rather than by the name. Works better if I download the MAC and Windows interface apps so I can run all programs. I find the web interface difficult and very inefficient. Also have not been able to figure out how to access remotely, documentation is all over the place and was not included with the device when it arrived.",
+      "rating": 3.0,
+      "verified": true,
+      "author": "Martin A Kappeyne",
+      "helpful_votes": 2,
+      "publication_date": 20141207
+    },
+    {
+      "title": "No access via NAS app....felt totally mislead.",
+      "text": "No access via MyNAS app....felt totally mislead. They make it seem like you can get remote access via the MyNAS app. NOPE! Only via a web browser....felt Mislead.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "Rick H.",
+      "helpful_votes": 0,
+      "publication_date": 20160812
+    },
+    {
+      "title": "Slow to power up, but works beautifully!",
+      "text": "Pretty simple device. We use it at the office for our daily backups. We joined it to the domain, like any other machine and it just works!",
+      "rating": 5.0,
+      "verified": true,
+      "author": "bill",
+      "helpful_votes": 0,
+      "publication_date": 20150314
+    },
+    {
+      "title": "Warning: only comes with a single 2TB drive. ...",
+      "text": "Warning: only comes with a single 2TB drive. You need to order a second drive in order to get Raid 1. Otherwise, works perfectly, fast access. Everything else as expected.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Mike Mirage",
+      "helpful_votes": 2,
+      "publication_date": 20141208
+    },
+    {
+      "title": "No more of these for me",
+      "text": "Didn't work for me. Tried two and sent both back.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "A Reader",
+      "helpful_votes": 0,
+      "publication_date": 20151206
+    },
+    {
+      "title": "Not happy.",
+      "text": "Very difficult to get working as a shared device on the network. Absolutely disliked the web interface.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "iKonectU Communication Services",
+      "helpful_votes": 2,
+      "publication_date": 20150131
+    }
+  ],
+  "product_meta": {
+    "title": "Seagate NAS 4-Bay 8TB Network Attached Storage Drive (STCU8000100)",
+    "description": "Style:4-Bay| Capacity:8 TBSeagate NAS 4-bay is a full-featured network storage solution offering the easiest setup and the industry's most intuitive interface. The NAS 4-bay features hardware, software and Seagate drives designed to work together seamlessly, which reduces your setup time to justa few minutes and delivers reliable performance for years to come. In addition, Seagate runs hours of extensive tests on every NAS 4-bay before it leaves our manufacturing facility, to further ensure the system is running at its best. The NAS 4-bay runs Seagate NAS OS 4 software, completely designed from the ground up to deliver ease of use, performance, reliability and a flexible platform for running add-onapps, enabling you to do more with your NAS. With the App Manager in NAS OS 4, you can choose to install apps that enhance the functionality of the NAS, such as our surveillanceapp that turns the NAS into a recording solution for IP cameras or our anti-virus app that cans can files and identify potential threats before it's too late. System Requirements: System Requirements: Local area network (LAN), Latest version of Microsoft Windows XP, Vista, 7 or 8, Wired router with an available 10/100/1000 Ethernet Portman OS X 10.5, 10.6, 10.7, 10.8 or 10.9, Internet connection (for system updates and Web access), Latest version of Internet Explorer, Firefox, Safari or Chrome.",
+    "rating": 3.5,
+    "feature_bullets": [
+      "Seagate 4-Bay Network Attached Storage NAS 8TB includes 4 x 2TB HDD",
+      "Centralize your storage to allow, PC, Mac, computers and mobile devices in your business to access, collaborate and share files",
+      "Backup all your PC and Mac computers to a single, centralized location, including support for Time Machine software",
+      "Up to 100BM/s file transfer performance; secure, cost-effective alternative to cloud backup services",
+      "Includes Seagate NAS optimized drives for increased performance and reliability"
+    ],
+    "specifications": {
+      "Brand": "Seagate",
+      "Item model number": "STCU8000100",
+      "Hardware Platform": "PC, Mac",
+      "Item Weight": "12.04 pounds",
+      "Product Dimensions": "6.81 x 8.54 x 6.79 inches",
+      "Item Dimensions  LxWxH": "6.81 x 8.54 x 6.79 inches",
+      "Computer Memory Type": "DDR3 SDRAM",
+      "Manufacturer": "SEAGATE",
+      "ASIN": "B00LM6LINY",
+      "Is Discontinued By Manufacturer": "No",
+      "Date First Available": "July 15, 2014",
+      "Customer Reviews": "3.5 out of 5 stars145 ratings3.5 out of 5 stars",
+      "Best Sellers Rank": "#1,090 in Computer Network Attached Storage"
+    },
+    "categories": [
+      "Data Storage",
+      "Computers & Accessories",
+      "Electronics",
+      "Network Attached Storage"
+    ],
+    "price": 999.99
+  }
+}

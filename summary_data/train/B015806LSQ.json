@@ -1,0 +1,966 @@
+{
+  "website_summaries": [
+    {
+      "verdict": "The Toshiba Chromebook 2 (CB35-C3350) has a high-quality IPS screen and more power than many other Chrome OS-based laptops, but it's also more expensive, and its battery life could be better.",
+      "pros": [
+        "Sharp 1080p IPS display",
+        "Snappy Intel Core i3 processor"
+      ],
+      "cons": [
+        "Disappointing battery life in testing",
+        "Plastic design feels a bit chintzy"
+      ],
+      "aspects": {},
+      "publication_date": 20160128,
+      "rating": 7.0,
+      "source": "pcmag"
+    }
+  ],
+  "customer_reviews": [
+    {
+      "title": "Replacement fixed the issues I was having.",
+      "text": "The chromebook I received had very bad screen bleeding at the bottom of the display. The track pad clicking action also produced a very loud sound in the bottom left of the trackpad, but did not produce that sound anywhere else. Everything else about the chromebook met expectations, and it feels/looks like a nice machine. I have requested an exchange and will update this based on the second machine I receive. EDIT (updated to 5 stars): I received a replacement chromebook. The screen is much better now. I tend to have 5-10 tabs open at a time and I have noticed no stuttering or lag whatsoever. I would recommend one (and have) to people.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Domesticllama",
+      "helpful_votes": 6,
+      "publication_date": 20151028
+    },
+    {
+      "title": "Use caution if choosing this for an older person",
+      "text": "Great bright and clear screen for young folks, but be cautious before buying this for your parents with aging eyes. At the default resolution, it gave me eyestrain. Sadly, ChromeOS still doesn't seem to handle alternative resolutions gracefully; when I selected the resolution I needed (1366 x 768), the text was very fuzzy. (I had hoped this problem had been resolved by now, which is why I bought this CB.) I also found the fan whirring irritating. I've reverted to my older Toshiba A3120, which also has a lovely screen. Faster would be nice, but not with the fan noise and the eyestrain. Hoping for better with the next iteration.",
+      "rating": 3.0,
+      "verified": true,
+      "author": "Julie",
+      "helpful_votes": 5,
+      "publication_date": 20160411
+    },
+    {
+      "title": "Unresponsive black screen after waking up from sleep.",
+      "text": "It worked beautifully for almost 2 years. Now it's hit or miss on whether or not to power on. Would open it from sleep and it would be just an unresponsive black screen, necessitating a reboot. After reboot, it would be okay until I have to open the Chromebook from sleep, sometimes it would be fine and other times an unresponsive black screen. Past warranty and unhappy with its durability.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "Johnny Pump",
+      "helpful_votes": 0,
+      "publication_date": 20180724
+    },
+    {
+      "title": "This worked great for the first few months, they fixed problem, now its back, will not hold a charge. No apparant recourse.",
+      "text": "This worked great for the first few months, then it wouldn't hold a charge. Then it just wouldn't start at all, tried charging with new charger, everything. Worst part is seems no way to contact seller though I bought it less than only about six months ago. Have read similat complaints online.Nightmare customer service.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "Callie Jeane",
+      "helpful_votes": 7,
+      "publication_date": 20160709
+    },
+    {
+      "title": "This is the best chromebook on the market and 2nd place is not ...",
+      "text": "This is the best chromebook on the market and 2nd place is not even close. I bought one through best buy. When my mom decided to retire her laptop, which is easily compared to a 1989 for escort, she wanted something simple. She still emails and texts me how she can't believe how fast and simple it is to use. Full HD and the best keyboard in the chromebook line up. Backlit, too! YOu dont need the i3 processor. I dont see how this machine could perform multiple tasks quicker. Id give it more stars if Amazon allowed me to.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Tom Ace",
+      "helpful_votes": 3,
+      "publication_date": 20160408
+    },
+    {
+      "title": "Excellent in all of the ways!",
+      "text": "Pros: -Great HD screen -Great battery life -Light weight -Elegant design -Processor can handle plenty of open tabs -Great keyboard -Plastic Build is surprisingly solid Cons: -Backlit Keyboard is not as nice as MacBook Pro -Plastic (as compared to the MacBook Pro's aluminum build) I switched from a MacBook to the Toshiba Chromebook 2 and have loved the change. I HIGHLY recommend this Chromebook to anyone looking for a new laptop.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Tyler Nygren",
+      "helpful_votes": 4,
+      "publication_date": 20160602
+    },
+    {
+      "title": "Good until battery failure, under a year owned.",
+      "text": "Great specs and battery life, however it lasted just under a full year before the battery died and it must be plugged in to work. Green light while plugged in while at 55% and as soon as you unplug it turns off. Power cycling or any other web advice failed to make a difference. Seems to be a common theme among this particular laptop.",
+      "rating": 2.0,
+      "verified": true,
+      "author": "Tyler J Klarkowski",
+      "helpful_votes": 5,
+      "publication_date": 20170217
+    },
+    {
+      "title": "Great Product For The Price",
+      "text": "September 2016: I bought this in July 2016. So far this chromebook has satisfied all of my needs. It is my first non-apple laptop and I have been very impressed. Only slows down with many tabs open with video and flash but not for long. I don't love the track pad. Only because the physical push-in click is pretty clunky and awkward. An easy solution is to activate the tap-to-click function and use it always. Right-clicking can only be done with the alt button, not on the right of the pad. I don't have any other complaints. You cannot beat this chromebook for the price!",
+      "rating": 4.0,
+      "verified": true,
+      "author": "Dwight Stannard",
+      "helpful_votes": 0,
+      "publication_date": 20160915
+    },
+    {
+      "title": "Great computer for the money...",
+      "text": "I do not understand the negative reviews of this product. I've had this since the summer of 2016. It has had heavy usage for my business. I have had no issues. The battery is still lasting forever. It boots immediately. It is completely quiet. Has great screen and decent speakers. Maybe the negative reviewers received a lemon? All I know is I would buy this again.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Hank Livingstone",
+      "helpful_votes": 2,
+      "publication_date": 20180210
+    },
+    {
+      "title": "Wifi connection unstable",
+      "text": "I was so happy when I purchased this Toshiba Chromebook 2. It worked flawlessly for the first year - connection to wifi and boot up speed was lightning quick. Now it's consistently dropping and reconnecting to wifi. I bought the Chromebook over to my neighbors house and connected it to his wifi and the same thing happened so I know it's not my router. When it's connected to wifi it still works flawlessly but it will literally drop and reconnect to wifi at least 15 times or more an hour. If you're watching videos it will not be a pleasant experience. Do yourself a favor and go for another Chromebook until Toshiba can work out their wifi issues.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Dave",
+      "helpful_votes": 3,
+      "publication_date": 20151215
+    },
+    {
+      "title": "One month of Chrome-y goodness. Then, not so much...",
+      "text": "Fine until it failed 30 days after I bought it. Much messing around and talking to Toshiba got them to offer me a charge of only $30.00 for a box and shipping back to them, so that they can fix it for me on an unspecified schedule. I may change this rating (if?) after I get it back, but it isn't looking good. While it lasted, though, it was great and fast, and the only other complaint was that it was not HD compliant in some way, and thus couldn't play VUDU movies in hi-def. UPDATE: 6/6 -> The Toshiba Repair website says \"Repair in Progress.\" 5 days after they received it. Buyer-be-very-ware.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "Daniel R. Jensen",
+      "helpful_votes": 22,
+      "publication_date": 20160517
+    },
+    {
+      "title": "Buy this Chromebook.  You will love the beautiful screen.",
+      "text": "I have two of these. One for me, one for the grandkids. This is a beautiful computer. The screen is far and away better than my work Chromebook (HP). I could not see how to get the backlit keyboard to work at first. Found it, alt + brightness. My HP Chromebook from work is a month old. I hate it. Dull screen. I said the heck with it and bought myself this one because I could not stand the dull screen. This machine is a delight. Lightweight, beautiful screen, nice keyboard. What's not to like? The price is right.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Odie",
+      "helpful_votes": 3,
+      "publication_date": 20160411
+    },
+    {
+      "title": "Doesn't last more than 2 years.",
+      "text": "I purchased this laptop two years and two weeks ago. I came back to check if it was still under warranty, and unfortunately it is not. The laptop shuts off when not plugged in at this point... which is super inconvenient because not it is essentially a desktop I cannot travel with anymore. I expect better of Toshiba products.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "Sarah",
+      "helpful_votes": 0,
+      "publication_date": 20180303
+    },
+    {
+      "title": "Excellent hardware and software",
+      "text": "This Chromebook is amazing, I got the i3 version, and it is really fast. Some benchmarks: Kraken: 1500ms avg Octane: 20500 avg Sunspider: 285ms avg The 1080p screen is beautiful and bright. The speakers can get nice and loud with little distortion. The keyboard is very comfortable to type on, with good accuracy. It has good battery life so far, and only sips the battery when the lid is closed (sleep mode). The only downside is that the web versions of Office and Google Docs are very watered down compared to full Office, but you I can do 90% of what I need in there.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Daniel",
+      "helpful_votes": 5,
+      "publication_date": 20151108
+    },
+    {
+      "title": "Former macbook-loyalist loves this chromebook!",
+      "text": "I really love this computer. It's a good jump into the chromebook world for mac users - the backlit keyboard really makes you feel at home. There's a slight learning curve with the chromebook in general, but go play with one at best buy and look up all the keyboard shortcuts and you'll adjust. It's SO lightweight. The battery life is great - I can stream netflix for hours before needing to plug in. The only thing is that sometimes the audio has a cracky-fuzzy quality when it's loud. That's disappointing. But overall I LOVE this computer and I'm totally sold on the chromebook thing.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Ollie",
+      "helpful_votes": 3,
+      "publication_date": 20160712
+    },
+    {
+      "title": "Really Love It",
+      "text": "This is was my first purchase of a chromebook since I wasn't into spending a lot of money on a macbook and I am not a Microsoft man. I am finding this particular chromebook, which was one of the higher rated ones I found for the price, is exactly what I need. I am not saying another brand couldn't meet my needs, but this is a very solid, snappy, quick chromebook. Seriosuly, no complaints. And as an Android phone user, I am finding it is just an awesome machine that syncs perfectly with my phone (I am sure all Chromebooks do). One of the best purchases I ever made on Amazon.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Killsocket",
+      "helpful_votes": 2,
+      "publication_date": 20161016
+    },
+    {
+      "title": "The best chromebook out there",
+      "text": "The best chromebook out there. Spend the extra money for the amazingly clear screen. The keyboard is the best out there. It is very comfortable to type on and they aren't sticky or mushy or anything. They type just as well as a MacBook or something. It is super fast with the 4gb of ram which is plenty for Chromebook. If you are a tab hoarder like me, get OneTab to speed up your computer. So much better than anything windows. If you don't need Microsoft office or Photoshop (both of which will now have the mobile versions from the google play app store available), then you will love this.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Ross",
+      "helpful_votes": 0,
+      "publication_date": 20160711
+    },
+    {
+      "title": "Excellent laptop",
+      "text": "I can't say enough about this laptop. I have always been a mac user but after numerous \"hard drive crashes\" I was fed up and wanted to start storing my stuff online. The chromebook allows you to do that which is awesome. This laptop is sleek and actually looks like a mac. They keyboard is smooth and I prefer typing on it then typing on the mac. It's lightweight and the battery life is outstanding! I love the backlit keyboard as well. Would certainly purchase again since you can't beat the price!",
+      "rating": 5.0,
+      "verified": true,
+      "author": "LuliluTraveler",
+      "helpful_votes": 0,
+      "publication_date": 20170328
+    },
+    {
+      "title": "Wonderful, Fast chromebook!",
+      "text": "This Toshiba Chromebook 2,sold by Blazing Prices, is a fantastic laptop. It boots up in 6-7 seconds,and updates,indicated by an up arrow lower right,when pressed,restarts the chromebook and updates are done in about 8 seconds. I find that I don't miss a cd drive. Any PC files were easily uploaded from my thumbdrive. This 2015 chromebook is authentic in its Amazon description. **Toshiba Does Not presently have a 2016 Chromebook,so avoid the \"Newest 2016\" item shown as the processor is older and discontinued-- The item is fraudalently misrepresented,as I foolishly purchased it and found out facts upon some research.Amazon allowed the return of the \"2016\" chromebook. You will not be disappointed with the 2015 Chromebook.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Proud Republican",
+      "helpful_votes": 0,
+      "publication_date": 20160626
+    },
+    {
+      "title": "Best Chromebook ever!",
+      "text": "Only had this a couple of days, but it runs circles around my old Samsung Chromebook. Love the processor speed, download/website load speeds (getting 220Mbps in the office about 50ft from our router, 4x what I did with the Samsung from the same location and almost 50Mbps better than my new Nexus 5X), the light weight, the keyboard feel and the display is as good as a $1500 Sony Vaio I bought last year before they stopped making them, all for a 5th of the price. Overall very pleased and understand now why it was back-ordered last week on release...Best Chromebook ever!",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Kevin A",
+      "helpful_votes": 3,
+      "publication_date": 20151026
+    },
+    {
+      "title": "Great Chromebook",
+      "text": "I love this thing. The Chrome OS is getting more flexible all the time and I use it on the road and to transfer video and photo files at the end of a shoot, billing, social media and streaming. Editing video or large groups of photos?- not likely but compared to the Mac I used to travel with- if I lose this guy or it's smashed to pieces I won't be crushed myself, At these prices replacement is painless.",
+      "rating": 4.0,
+      "verified": true,
+      "author": "MogoreTop Contributor: Photography",
+      "helpful_votes": 0,
+      "publication_date": 20161205
+    },
+    {
+      "title": "EDIT: AWFUL AFTER ONLY ONE YEAR. Amazing chromebook. I use it every single day for ...",
+      "text": "EDIT: 1 year later I have used it everyday for school purposes only --google docs, google slides, and research. After 9 months, the fan started to become very loud and obnoxious and the laptop would heat up quickly. Now, the screen suddenly went black and it says chrome OS is missing. The recovery process isn't working. I'm in the middle of school and it breaks down mid-week losing everything I had. What a pain and totally not worth it. ------------------------------------------------ Amazing chromebook. I use it every single day for school purposes and it's been amazing. It has never broken down on me or had any problems yet.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "Tiffany H",
+      "helpful_votes": 0,
+      "publication_date": 20160905
+    },
+    {
+      "title": "One of the best portable thin client solutions available right now",
+      "text": "I purchased this for my office manager. She can use it for any personal web surfing, email, etc and I don't have to worry about managing it. I have it set up to use SSH to provide a secure tunnel and remote desktop to my server providing all the business related access she needs to get her job done. It was fairly inexpensive and if it gets lost or stolen, I don't have any sensitive information floating around in the wild. One of the best portable thin client solutions available right now, and it has the added benefit of being a great web surfing, email reading, Netflix watching machine when not connected to the corporate environment.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "J. Weber",
+      "helpful_votes": 0,
+      "publication_date": 20160330
+    },
+    {
+      "title": "possible usb and sd card reader faults",
+      "text": "Quick, solid build, screen is beautiful. My gripes so far are that the left USB 2.0 port seems to not mount any USB. It charges my phone and my USB light up but no data or mounting. Second when i eject a SD card from the reader the screen will either freeze or black and what I reboot I believe. EDIT- I have received my replacement for the broken USB and microsd slot. All USBs work properly. The SD caused the os to crash again but later found out it was formatting that caused it specifically Gopro formatting. On this replacement I notice a clearly louder fan than the last. Not a deal breaker but noticeably louder.",
+      "rating": 4.0,
+      "verified": true,
+      "author": "Cody Unroe",
+      "helpful_votes": 4,
+      "publication_date": 20151013
+    },
+    {
+      "title": "Very nice, fast and light weight",
+      "text": "Very nice, fast and light weight. I bought this for my father as a Father's Day gift and he loves it. He plays games on it and serfs the internet with it. If you want to browse the internet, check your emails and play games on a laptop but can't afford a regular one, this is the best alternative. The operating system is just like Android phones and works with your Gmail account. If you don't have an account, you can create it for free. It has backlit keyboard which is very nice. The screen is really sharp and easy to read and the battery lasts for 4 hours. Overall, it's a very good product and I recommend it.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "J. Clarke",
+      "helpful_votes": 0,
+      "publication_date": 20160708
+    },
+    {
+      "title": "Awesome ... except for that Wifi connection",
+      "text": "A great little laptop for my purposes. I use it for writing and I couldn't be happier. The only hitch is the wifi connection turns off randomly right in the middle of whatever you're doing. When I click on the little wifi icon everything appears to be connected, but it's not. (BTW, I know it is not the router because I have another computer that uses the wifi as well without this problem.) After about thirty seconds it reconnects. I don't typically stream video with this laptop, but the few times I have that wifi drop off got really annoying as it interrupted the video over and over and over!",
+      "rating": 4.0,
+      "verified": true,
+      "author": "B. Kreis",
+      "helpful_votes": 0,
+      "publication_date": 20160909
+    },
+    {
+      "title": "Sudden death of battery after only 1.5 years.",
+      "text": "Battery died about 1.5 years of general home use. Suddenly it stopped charging and wont power on unless hooked up to the power adapter. Other issues because I'd probably not buy another chromebook - Screen has limited tilt, wont tilt further back. Super tiny fonts (zoom doesn't affect all fonts). No \"home\" or \"end\" button on the keyboard, no \"delete\" or \"insert\"... that doesn't work for me.",
+      "rating": 2.0,
+      "verified": true,
+      "author": "BigShoppingRiverCruiser",
+      "helpful_votes": 0,
+      "publication_date": 20180313
+    },
+    {
+      "title": "would recommend to everyone",
+      "text": "a little cheap looking compared to my old samsung chromebook. feels a little flimsy but I love chromebook and this one has the backlit keyboard. Since it is my second cb I felt the backlit keyboard was an absolute for upgrading. I would recommend this as long as you can get past the plastic feel . Fast and reliable. Again, I like the 11.5 size of samsung(fits in my bag) but this size is probably more attractive to most others.Great screen. Skullcandy speakers are way better than beats on my hp laptop.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Katie g",
+      "helpful_votes": 2,
+      "publication_date": 20160310
+    },
+    {
+      "title": "The sound was better than expected",
+      "text": "My first chromebook experience so I don't have much to compare it to. Bit of a learning curve regarding the interface but no biggy. The sound was better than expected, the picture not as good as I'd hoped. There are some soft, bright spots on each of the four outer corners. And now that I've had it for a while, it is starting the make some sounds on and off- possibly the fan? Not sure how much more use I'll get out of it, or if I'd buy a chromebook again, but it was worth the fair price.",
+      "rating": 3.0,
+      "verified": true,
+      "author": "Lorald",
+      "helpful_votes": 0,
+      "publication_date": 20171120
+    },
+    {
+      "title": "Love these. Easy and convenient",
+      "text": "Love these. Easy and convenient. Great battery life and screen resolution. Kids wish they could play more games on the Chrome OS but other than that they are great for around the house and on road trips. I now garb one of these vs an ipad because I like the feel of a traditional laptop. They take a little getting use to but once you became familiar with the OS its pretty straight forward. I researched these for a month or so and am glad we purchased the Toshiba Chromebooks over some other popular brands. Bought the extended warranties on them just in case.",
+      "rating": 4.0,
+      "verified": true,
+      "author": "Paynar",
+      "helpful_votes": 0,
+      "publication_date": 20160927
+    },
+    {
+      "title": "Died in 1 year and one month",
+      "text": "I enjoyed this chromebook while it worked, the screen is beautiful and I thought the build quality seemed good. Unfortunately 1 month out of warranty and it will no longer run without the AC adapter being plugged in, which from my searches was a common problem. Toshiba was correct in stating it was out of warranty, but their repairs start at $300 minimum, which is more than these cost new, so that was a bit disappointing. Would say that I would not buy another Toshiba, but that is irrelevant at this point as they have exited the consumer laptop market.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "Ryan Judy",
+      "helpful_votes": 0,
+      "publication_date": 20170419
+    },
+    {
+      "title": "Perfect travel for travel, fun to use, awesome screen resolution!",
+      "text": "I love this computer! Perfect for web surfing, email and communicating with friends and relatives. This is my 2nd chromebook. I bought one for myself and when my wife saw the screen (awesome) she wanted one for online movies. We love to travel domestic and international. I love the fact that after travel I can \"power wash\" it and start clean. It could have a bigger hard drive (it has 16 Gb and you get 100 Gb free for 2 years from Google). It is fun to use and super fast. It does have its limitation like printing, not a deal breaker. I have a MBP (late 2015) for financial stuff and for more memory intensive work so no worries.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Sandog",
+      "helpful_votes": 0,
+      "publication_date": 20160831
+    },
+    {
+      "title": "Illuminated keyboard was a no-brainer!",
+      "text": "Wow, the 4 GB RAM really improves the browsing performance, and the illuminated keyboard is a godsend. I bought the same model without the illuminated keyboard as a gift for my daughter, and they when I saw the backlit model, I bought one for myself. It's a joy to work with, with the enhanced browsing performance thanks to the 4GB RAM, and the convenience of the backlit keyboard for hunt-and-peck typists like myself! Why didn't they do this before?",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Chaz4",
+      "helpful_votes": 0,
+      "publication_date": 20160919
+    },
+    {
+      "title": "... Chromebook is my daily driver now and I absolutely love it. It is fast",
+      "text": "The Toshiba Chromebook is my daily driver now and I absolutely love it. It is fast, reliable and portable. I am always taken aback by its portability. You can lift it with one hand and carry it around easily. Not only is it portable but its not slippery and you can easily grip it. Another quality it has is how fast it updates. You turn off and turn on your Chromebook and BOOM! there is your update. Unless you want to download softwares, this laptop is great for anything else. I also really like its Sound on and off and screen brightness buttons up top. They are just the little things that make your experience great. I love it.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Isaac Abraham",
+      "helpful_votes": 0,
+      "publication_date": 20160511
+    },
+    {
+      "title": "Buy this chromebook!!!",
+      "text": "Love this chromebook! I leave it in my living room for use on the couch. SUPER fast to boot up, no crappy slow programs slowing it down. Updates itself, no silly Windows updates rebooting my computer overnight. Perfect for browsing the web, working in google docs, email, social media, hangouts, etc. Highly recommend! Also love the backlit keyboard. And the screen has incredible resolution, it's extremely clear!",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Amazon Customer",
+      "helpful_votes": 0,
+      "publication_date": 20170406
+    },
+    {
+      "title": "Excellent! Does exactly what I want it to do",
+      "text": "Excellent! Does exactly what I want it to do. I use this for internet browsing, blogging, social media, and audio recording. Screen is fantastic and the speed is phenomenal! The big surprise was the volume and clarity of the audio! Most laptops are lame. Skullcandy fit this little guy with some power. Also, the battery life is just as good as my iPad, if not better! The only thing I do not like about this product is the lack of a delete key, but the combo of backspace + ctrl accomplishes this for you. There are also combo keys galore to perform most other typical computing tasks.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "CM",
+      "helpful_votes": 0,
+      "publication_date": 20160321
+    },
+    {
+      "title": "Performance and security",
+      "text": "Our first Chromebook and a good choice. It's a bit more expensive than other books, but the quality is there. The keyboard is great. It takes a mouse, Logitech M305, no problem. It's blazing fast, runs YouTube videos without hesitation and supports many open tabs without delays. Screen is bright and images crisp. The only negative is it's hard to open; you can't tell which end is the hinge! For someone who wants to surf, do email and watch online videos, chromebook is the best way to go.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "RPH",
+      "helpful_votes": 2,
+      "publication_date": 20151120
+    },
+    {
+      "title": "This is a very good Chromebook and I have plenty of good things to ...",
+      "text": "This is a very good Chromebook and I have plenty of good things to say about it, but there is a major problem with the design, which is why it gets 3 out of 4 stars. The hinges on this Chromebook are very weak and cheaply attached. The hinges are metal, but glued onto plastic. Mine never saw any heavy use at all, but one day the back broke right off. The hinges have since been epoxyed back on, but it\u2019s a quick hack fix I never should have had to make in the first place. Bad call, Toshiba.",
+      "rating": 3.0,
+      "verified": true,
+      "author": "aragon81",
+      "helpful_votes": 0,
+      "publication_date": 20180814
+    },
+    {
+      "title": "Price and feature wise, this Chromebook is miles above ...",
+      "text": "Price and feature wise, this Chromebook is miles above the read. A 15 inch touch screen, backlit keyboard, decent key spacing (I do a lot of typing). The only thing I did to it to suit my needs waw replace the SSD (hard drive - be careful as doing it voids your warranty). But I have been doing this on Chromebooks for quite a while for my self and my friends (just look on YouTube and you'll find videos that show you how to do it,,,it really is ridiculously simple.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "S. Andrews",
+      "helpful_votes": 0,
+      "publication_date": 20180803
+    },
+    {
+      "title": "Better than a lap top computer",
+      "text": "My second chrome book. I loved my first one which is 5 years old and still works fine and this one is slightly larger and faster. Love it. I have owned Mac and other lap tops in the past. I have found the Chrome book much faster and better and trouble free. You don't get all those requests for updates of soft ware as it updates automatically. Also don't get those annoying adds from Norton antivirus as virus protection is built in already. Anyway , I have been very happy with he Chrome book experience .",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Kindle Customer",
+      "helpful_votes": 0,
+      "publication_date": 20160506
+    },
+    {
+      "title": "I'm Loving It!!!!!!",
+      "text": "WOW, WOW WOW! This is the best yet! The resolution is perfection. I have no problems with the touch pad, as some suggest it is stiff, however, I am used to using Chromebooks so this is a good feel. This is the best price ever, from Amazon Prime and no taxes, as I have researched many sites. It arrived quickly and NEW AND SEALED. There is so much more to say, however, it is well described on Amazon site. Rumors are that this model will have the availability of Google Play Apps at a future date! Will be a nice surprise if so.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "carolineTop Contributor: Pets",
+      "helpful_votes": 0,
+      "publication_date": 20160910
+    },
+    {
+      "title": "amazing screen",
+      "text": "this was definetly worth the money the screen is amazing, its fast for everyday usage, backlit keyboard is bright, it doesnt feel cheep, front facing camera is good enough for skype, touchpad is resposive (if you come from mac or windows then you will have to get used to some things) and the speakers are great. If you go to college you may want to look into the more expensive and faster version because it gets hot very quickly if you watching videos while having 4 or more tabs open, it's not deal braking but if you work you laptop to the fullest get the more capable version.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Amazon Customer",
+      "helpful_votes": 2,
+      "publication_date": 20160808
+    },
+    {
+      "title": "I love my Chromebook!",
+      "text": "A back-lit keyboard! Perhaps that's what I like most about this laptop. That's hard to find with most Chromebooks, but this one has bells and whistles others don't (thus the higher cost). Also nice to have a true HD screen. Faster processor means never having a freeze up or stuttering video. I'm not crazy about having the fan in the bottom, although it is very quiet. It's a compromise I'm happy to make for the faster (and hotter) processor, though.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Swish!",
+      "helpful_votes": 0,
+      "publication_date": 20170428
+    },
+    {
+      "title": "Loved the few weeks I used it",
+      "text": "Loved the few weeks I used it, but ultimately decided to go with the Dell 13 Chromebook due to its much better construction. Once you try the Dell's glass touchpad, you'll never go back!",
+      "rating": 4.0,
+      "verified": true,
+      "author": "Xen8",
+      "helpful_votes": 3,
+      "publication_date": 20160204
+    },
+    {
+      "title": "Died less than a month after I bought it.",
+      "text": "Died less than a month after I bought it. Set it on the table after I was done using it one night, then in the morning it would not power on. I was able to to get it repaired by Toshiba under warranty, but they took a long time - they said something went wrong with the battery. They keyboard is also very fragile. My semicolon key broke off after I dropped a book on my bed and it bounced a few inches onto the keyboard. Toshiba wanted $110 to repair that. Has a glossy screen, which I don't like.",
+      "rating": 2.0,
+      "verified": true,
+      "author": "Ryan",
+      "helpful_votes": 0,
+      "publication_date": 20160627
+    },
+    {
+      "title": "It's OK",
+      "text": "This computer is good. I'd give it 5 stars because it runs well and does what a Chrombook should do. The display and sound are great. HOWEVER, just over a year after I purchased this item (so the warranty had just expired), the battery stopped working. I can't afford to purchase another machine and the battery replacement is 1/3 the price I paid for this device to begin with. I'm very frustrated by that.",
+      "rating": 3.0,
+      "verified": true,
+      "author": "Alex",
+      "helpful_votes": 0,
+      "publication_date": 20170414
+    },
+    {
+      "title": "Superb with exception of how trackpad feels",
+      "text": "I've had this for close to a year now. Super display. Super battery life. Love the backlit keyboard. Really a nice device. To be honest, the only thing I didn't like was how the touchpad feels. Rather than being smooth like glass, it has a slight texture to it that is not satisfying from a tactile perspective. You get used to it, but I would far prefer a glassy smooth surface on the trackpad.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "J. Hanisch",
+      "helpful_votes": 0,
+      "publication_date": 20170821
+    },
+    {
+      "title": "Amazing except critical battery bug",
+      "text": "This is a fantastic computer, except for the fact that 6 months after I bought it the battery just stopped working and it will only turn on when plugged in. The battery is full, but if you unplug the power cord it immediately dies. Working with Toshiba support to get it repaired/replaced as it's under warranty.",
+      "rating": 2.0,
+      "verified": true,
+      "author": "jorlowitz",
+      "helpful_votes": 2,
+      "publication_date": 20161205
+    },
+    {
+      "title": "Notebook I've been waiting for, six month review",
+      "text": "It's quite expected with tech to come across excellent features and beautiful execution for a high price. What's unusual and unexpected is to see both functionality and beautiful industrial design come together at an affordable price. This Toshiba Chromebook is exactly such a marvel. The high res screen, the long battery life, and the lighted keyboard are my must-have features moving forward. I've bought and used quite a number of portable devices, such as notebook computers, but this Chromebook has been the best experience for me so far.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Amazon Customer",
+      "helpful_votes": 2,
+      "publication_date": 20160426
+    },
+    {
+      "title": "Nice.....",
+      "text": "Awesome for the price. Was looking for something faster than your average chromebook and this fit the bill. Got the Intel Celeron 3215U 1.7 GHz Processor version and it's great for everyday use. -Good battery life -Lit keyboard is great -fast booting -runs really fast. Got the Grey AmazonBasics 13.3-Inch Laptop Sleeve to go with itFits great.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Don O",
+      "helpful_votes": 0,
+      "publication_date": 20160518
+    },
+    {
+      "title": "and website maintenance and for that it is fine. Low cost and lightweight",
+      "text": "Chrome OS isn't as polished as Windows or Macintosh but it doesn't have to be. 95% of the time I use this to get online for email, web surfing, and website maintenance and for that it is fine. Low cost and lightweight. At first, I was concerned that the hard drive is fairly small, but most of the apps I download from the Chrome Web Store are only links to online versions of the programs - meaning the download is only a few K in size. I use a stubby 128 GB USB drive for extra storage for photos and video so hard drive space is not an issue. The screen is bright and colorful.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Bill W NMB",
+      "helpful_votes": 0,
+      "publication_date": 20170512
+    },
+    {
+      "title": "Addicted to this Chromebook....UNTIL.....!",
+      "text": "Addicted - use it 90% of the time - instead of my Windows laptop. Crushed when it started to crash 13 months out. Some sort of battery issue. Now begging Amazon to help a Brother Out from the Customer Service end of things. $300 bucks for one year of use is not acceptable. CB was a life-changer - never expected it would die such a sudden death. Amazing machine while it lasted, so disappointed.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "DeanMerrill2000",
+      "helpful_votes": 0,
+      "publication_date": 20170906
+    },
+    {
+      "title": "Great replacement for my 2009 Toshiba",
+      "text": "Quick, light weight with no bloatware, ~10 hours battery life and will be updated to have the Google Play Store. I am contemplating on getting one for my parents as everything is basically a button press away. VPN was a bit tricky but it works well and auto connects. It does at times make a strange clicking noise but it may just be the fan. Will update review when it fails =)",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Matthew Neill",
+      "helpful_votes": 0,
+      "publication_date": 20160721
+    },
+    {
+      "title": "Love my chromebook.",
+      "text": "I bought this to use for load planning for a trucking buisness. I am blown away by this Chromebook. There is no learning curve here just open it up and start using it. I can be sending emails, pulling up web pages and working on PDFs all at the same time and switch back and forth with no problems. The battery life is phenomenal. I work my chromebook from 8am to 6pm and still have charge left at the end of my day. The backlit keyboard is perfect too. This is one of the best electronics I have purchased in a long time. Worth every penny.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Michael",
+      "helpful_votes": 2,
+      "publication_date": 20160823
+    },
+    {
+      "title": "I am in love with this chromebook",
+      "text": "I am in love with this chromebook. It's fast, it charges quickly, I've noticed zero lag when browsing with multiple tabs (right now I have about 10 or so open with zero lag). With so many ways to work online (word online, excel online, even visual studio online), I have been able to maintain a solid level of productivity. If only I could get my server up and running so I can remote into it and get some real programming done... Oh, not to mention, there is no real set-up...you cut it on, log into the Chrome and you're off...awesome Toshiba and Google!",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Amazon Customer",
+      "helpful_votes": 2,
+      "publication_date": 20160301
+    },
+    {
+      "title": "Unreliable product - avoid",
+      "text": "This chromebook worked beautifully for two months. Then, it failed to boot. It also failed to charge (the light wouldn't display). It was sent to a toshiba repair center (at cost) and after over two weeks arrived back. After five minutes out of the box, the screen blacked out again and is unresponsive.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "Amazon Customer",
+      "helpful_votes": 4,
+      "publication_date": 20160716
+    },
+    {
+      "title": "having fun getting to 'know' my first computer in years (think ...",
+      "text": "having fun getting to 'know' my first computer in years (think dos) besides a smartphone! quite capable on its own with a beautiful (full hd) display, very nice sound (skullcandy tuned from under the keyboard), nice feeling keyboard, very responsive trackpad and the broadwell processor makes for fast enough connection! being able to install linux is just the icing on the cake.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "13iron",
+      "helpful_votes": 3,
+      "publication_date": 20160420
+    },
+    {
+      "title": "Great little laptop",
+      "text": "This little power machine gets the job done. If you are looking for a computer on the go then that it is: light, easy to operate and does the basic functions such as writing or attaching documents via email. Battery life is great, it last at least 2-3 days without charge, graphics are wonderful and media plays fairly well. Once in awhile youtube video won't play fully (freezes) however it might be the internet connection - not sure. All in All - great purchase!!",
+      "rating": 4.0,
+      "verified": true,
+      "author": "Jazzie",
+      "helpful_votes": 0,
+      "publication_date": 20160717
+    },
+    {
+      "title": "Great screen and awesome performance",
+      "text": "I love this Chromebook a lot, starting with the screen, which is brilliant and ended up with the keyboard, which is soft and responsive, not saying about LED-Backlit. Swift, Solid and well designed. The only downside is a trackpad - it's a bit rattletrap. However, it's a big deal, since mostly I use my mouse instead. So, if you are looking for a good and solid laptop for surfing the Web, working with google docs - that's a very good option, especially if you need such great screen.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Sniipo",
+      "helpful_votes": 0,
+      "publication_date": 20160804
+    },
+    {
+      "title": "This is my first experience with Chromebooks and I was very pleased with Toshiba 2 performance",
+      "text": "The Chromebook arrived today and I was blown away by the value of this item. This is my first experience with Chromebooks and I was very pleased with Toshiba 2 performance. The screen is another vocal point of my satisfaction with this item. Sharp, crisp, accurate, deep colors and just simply beautiful picture. The web browsing is fast. I highly recommend this item. Hard to beat this machine in terms of the value.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "M. Bekishev",
+      "helpful_votes": 0,
+      "publication_date": 20160525
+    },
+    {
+      "title": "This Chromebook is simple to use, and it did ...",
+      "text": "This Chromebook is simple to use, and it did not come with a lot of programs on it which I did not need. The one thing which I forgot to check before buying is the disk drive. There is not a disk drive on this edition. However, I believe this helps to make the laptop lighter, and not add extra weight. Also, one of the positive things which I have noticed, is that it this computer can open nearly any documents. All in all, this is a very sleek computer, and I frequently use mine !",
+      "rating": 4.0,
+      "verified": true,
+      "author": "Amazon Customer",
+      "helpful_votes": 0,
+      "publication_date": 20160601
+    },
+    {
+      "title": "Convenient, light-weight, great display - in an inexpensive package",
+      "text": "This is my second Chromebook. For three years I've used a Samsung Chromebook, which has been great (even smaller and lighter than the Toshiba), but I sometimes wanted a larger display and occasionally more speed. The Toshiba Chromebook 2 has met both of those needs nicely. The standout feature has to be the 1920x1080 display. I use the shell and Crouton a lot, and being able to have a pair of large-sized terminals open simultaneously is very useful. The two minor negative points are (1) the case has enough flex that it seems the processor fan can rub against the case if the machine is in your lap in certain orientations and (2) the need for yet another unique charger.",
+      "rating": 4.0,
+      "verified": true,
+      "author": "Jim Tittsler",
+      "helpful_votes": 0,
+      "publication_date": 20151120
+    },
+    {
+      "title": "Great laptop at a great price",
+      "text": "Excellent laptop. Works great for accessing Internet, using Plex, google docs, etc. The only negative is more an issue with ChromeOS as we are unable to play some of our movies on either the native movie player or VLC. VLC actually crashes quite a bit and won't play a lot of the native audio for movie files. Overall, super happy with the purchase. Does everything expected of a low cost laptop and more.",
+      "rating": 4.0,
+      "verified": true,
+      "author": "Sean",
+      "helpful_votes": 0,
+      "publication_date": 20160625
+    },
+    {
+      "title": "I love this thing",
+      "text": "I love this thing. It's really only good for net surfing and writing, but I use it everyday. It's almost too simple yet somehow complicated to learn the interface. Best part is it's so light. I can carry it when I travel and it's not a burden.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "P",
+      "helpful_votes": 2,
+      "publication_date": 20160411
+    },
+    {
+      "title": "I've used some google tools like its documents feature and they do well for what ...",
+      "text": "This is my first chromebook. It does exactly what I want with web browsing and online entertainment. I've used some google tools like its documents feature and they do well for what i need. I like that this is a useful device that does what I need and doesn't include a bunch of bloat slowing it down. My favorite feature is it takes less that 5 seconds to boot when I turn it on, really only 3 seconds in my experience. I've only had it for a little while and I'm still learning the tricks of Chrome but so far I'm a very satisfied customer.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Bill S Preston",
+      "helpful_votes": 0,
+      "publication_date": 20160313
+    },
+    {
+      "title": "Very good computer, but not for handling large photographs.",
+      "text": "Pros: Very quick boot-up, surprisingly sharp monitor, long battery life, noiseless fan, and all the other pros listed by other reviewers. Cons: No <delete> or <home> keys. I can download, view, and delete large (36+ MB) RAW photographs with this computer, but it is slow. I have given up on the available image editor for this reason.",
+      "rating": 4.0,
+      "verified": true,
+      "author": "Greg",
+      "helpful_votes": 0,
+      "publication_date": 20160503
+    },
+    {
+      "title": "Good battery life and great speed",
+      "text": "This is my first Chromebook, so it took me a little while to get used to some of the changes from my old Macbook. I love it, though. It's very light. The battery lasts through multiple hours of video streaming. I regularly use it with 10-12 browser tabs open at the same time. The only time I've had any issues with speed was when I was uploading my iTunes music library to Google Play.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Nora L.",
+      "helpful_votes": 0,
+      "publication_date": 20160821
+    },
+    {
+      "title": "An Excellent Buy for Most Anyone",
+      "text": "There's a reason this went up in price. It feels and acts like an extremely expensive machine. Everything is very quick, fluid, seamless. The screen is phenomenal - absolutely crisp, vivid, accurate. I love to look at it, unlike most laptops. The keyboard and mouse are top notch, the right travel, spacing, layout, and smoothness. I write papers on it for grad school, and do everything else I normally do on a computer aside from major photo editing (picasa). One of my happiest all time purchases!",
+      "rating": 5.0,
+      "verified": true,
+      "author": "T. Laux",
+      "helpful_votes": 0,
+      "publication_date": 20160114
+    },
+    {
+      "title": "Does What It Should.",
+      "text": "2017 Update: After ~16 months, the battery has malfunctioned. The Chromebook will only work if it's being charged. Once I unplug the charger, it turns off. RIP. The size, battery power, display, performance, are all in line with my expectations. I wanted to give it 4/5, but I can't do 4/5 based on my personal demands. By demands, Chrome OS doesn't support a load of file formats I would like for it to run. Maybe in another 1-2 years the OS will support what I use on Windows.",
+      "rating": 3.0,
+      "verified": true,
+      "author": "Jeff Yih Lee",
+      "helpful_votes": 0,
+      "publication_date": 20160322
+    },
+    {
+      "title": "You pay a little more but this is a fantastic laptop. I had bought a Google Pixel for ...",
+      "text": "You pay a little more but this is a fantastic laptop. I had bought a Google Pixel for $999 but sent it back. I could not get used to the small screen. This wider Toshiba screen is so much easier on the eyes. The speed on this machine is very fast with a quick boot-up time. Battery life I can live with. Four of my friends came over and fell in love with it. They are all ordering one. This should do me for quite some time. I'm in love with Chromebook. For what I do... it fits the bill! Dave, Santa Rosa Beach, Florida",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Amazon Customer",
+      "helpful_votes": 2,
+      "publication_date": 20160111
+    },
+    {
+      "title": "Makes a great tablet replacement system for me",
+      "text": "Great battery life and mostly good performance. Minor problems when using Chrome remote desktop if you leave Chrome browser pages open. The browser tabs often crash during the remote desktop session and need to be reopened. Surprising that this happens, as I expected the system had enough processing power and memory to handle these tasks simultaneously. Overall it is a great system, and I use it in place of iPads because it is compatible with almost any website, and it websites load their main pages instead of mobile ones that the iPad often defaults to.",
+      "rating": 4.0,
+      "verified": true,
+      "author": "WMH",
+      "helpful_votes": 0,
+      "publication_date": 20161120
+    },
+    {
+      "title": "Very nice chromebook!",
+      "text": "The chromebook seems to be completely new (I was buying manufacturer refurbished from the seller \"Side Deal\"). The little disappointment is the inappropriate clicking sound in the lower left part of the trackpad. The trackpad itself, also, seems to be not completely fixed. It looks like it is \"not in place\" correctly. I really hope I will just get used to it. On the other hand the device is nice, fast, with an extremely nice screen and keyboard. The sound is mediocre. Also, the upcoming possibilty to install Google play apps is much expected! For the price i bought (299$) - much recommended!",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Vlad Kiev",
+      "helpful_votes": 0,
+      "publication_date": 20161231
+    },
+    {
+      "title": "The screen is great and the keyboard works well enough",
+      "text": "Unpacked today - 10/15/2015 - and it is faster than I would have imagined. Just casted from Pandora while playing a netflix video with a few more tabs open, still zipped along. The screen is great and the keyboard works well enough. Waited for the 3300 version and was well worth it. Just redeemed the google goodies at  - great deal, too.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "mercin",
+      "helpful_votes": 4,
+      "publication_date": 20151015
+    },
+    {
+      "title": "The most perfect non touch chromebook Available",
+      "text": "There are certainly higher grade chromebooks available, such as the Pixel & Samsung plus but this Toshiba Chromebook 2 with its amazing contrast in color's, back-lit key board (super helpful in the dark) & skullcandy speakers is just awesome. The only downside may be that it's build is plastic. So be careful but other than thatt this chromebook is fast and amazing.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Alex Thorn",
+      "helpful_votes": 0,
+      "publication_date": 20171118
+    },
+    {
+      "title": "Squishy keyboard, excellent display.",
+      "text": "Keyboard is a bit squishy, but overall it's a great little machine for the price. I was particularly impressed with the quality of the display. I got the Celeron model and was a bit concerned that it might be underpowered, but so far it hasn't been an issue at all - I wouldn't spend the money to upgrade beyond that if I were buying again. (I've been using about 6 tabs and 1-3 Chrome Remote Desktop sessions at a time.)",
+      "rating": 4.0,
+      "verified": true,
+      "author": "Bryan C. Mills",
+      "helpful_votes": 0,
+      "publication_date": 20160221
+    },
+    {
+      "title": "Love it , love it , love it",
+      "text": "I love it! I have last years model and fell in love with the screen but the speed annoyed me... I picked up the i3 version and its soooo fast! Same great IPS screen ,a new backlit keyboard - love it! Also, these use the exact same power supply as last years so if you have extra's like I do they work on this one too!",
+      "rating": 5.0,
+      "verified": true,
+      "author": "John H.",
+      "helpful_votes": 2,
+      "publication_date": 20151210
+    },
+    {
+      "title": "Green line on screen after 2 weeks, completely dead after 2 months",
+      "text": "After only two weeks of light use a thick green line of dead pixels appeared on the screen. If you google this issue you will find pages and pages of people complaining about the same problem and their stories about Toshiba support refusing to help. After about one month the machine started running hot and automatically shutting down. After it cooled down I could turn it back on the first few times, but eventually it shut down and did not turn back on. It is now completely dead. All this was with plenty of airflow to the fans and no blockages of any kind.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "Imran",
+      "helpful_votes": 0,
+      "publication_date": 20161221
+    },
+    {
+      "title": "This Toshiba looks good and does surf the web pretty quickly",
+      "text": "It makes an awful fan noise. I returned it once thinking it was defective, but the problem persisted with the 2nd one. I gave up on trying to find an inexpensive chromebook. This Toshiba looks good and does surf the web pretty quickly, but the noise is often unbearable, embarrassing, and just annoying. I would not recommend it.",
+      "rating": 2.0,
+      "verified": true,
+      "author": "Jennifer",
+      "helpful_votes": 0,
+      "publication_date": 20170309
+    },
+    {
+      "title": "Broke after a year and 2 months",
+      "text": "Broke after a year and two months....works when plugged in but powers off when unplugged.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "Marc",
+      "helpful_votes": 3,
+      "publication_date": 20170303
+    },
+    {
+      "title": "Battery issue after less than two years.",
+      "text": "Be very careful, my toshiba started acting up after less than two years. I treated this laptop with kid gloves and then in less than two years, the battery stopped charging. Tried all the troubleshooting but no luck. This laptop costs too much to fall apart. Was hoping Chromebook would be a good laptop and save money. Oh well, don't buy this.",
+      "rating": 2.0,
+      "verified": true,
+      "author": "C. Less",
+      "helpful_votes": 0,
+      "publication_date": 20180117
+    },
+    {
+      "title": "This is an awesome machine. It's so quick to power on and ...",
+      "text": "This is an awesome machine. It's so quick to power on and the battery is great. The screen resolution is absolutely incredible!. My one complaint is that the trackpad feels a little cheap. It clicks quite loud and just has a feeling of 'this is where they cut costs'. It's not a deal breaker as we use a wireless mouse instead. I seriously think this is the future of laptops. Light, quick, powerful.",
+      "rating": 4.0,
+      "verified": true,
+      "author": "CB Jack",
+      "helpful_votes": 0,
+      "publication_date": 20160517
+    },
+    {
+      "title": "Display died after 2 months!",
+      "text": "The display died less than 2 months after purchase. The cost to replace is more than the laptop is worth. Be Leary of purchasing refurbished computer items where you have no warranty. The standard Amazon return policy of 30 days is not long enough to cover expensive items that fail so quickly. Very dissatisfied.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "Amazon Customer",
+      "helpful_votes": 0,
+      "publication_date": 20171208
+    },
+    {
+      "title": "Best laptop I have ever owned",
+      "text": "Best laptop I have ever owned. I am a computer geek and did lots of research - best Chromebook around. Feels like you have a little mackbook. No viruses, always up to date, lightning fast, compact, etc - so cool!",
+      "rating": 5.0,
+      "verified": true,
+      "author": "TopoD",
+      "helpful_votes": 0,
+      "publication_date": 20170706
+    },
+    {
+      "title": "This is by far the best chromebook out on the market especially for the price",
+      "text": "This is by far the best chromebook out on the market especially for the price, we plan on getting the I3 version as well once it is in stock with amazon. We previous got the 2014 edition, but this one is definitely superior and only $30 more. Great display, so clear and crisp, and the keyboard feels really nice. I have a laptop, but this is so much easier to use and carry around all day at school.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Bryan Beckstrom",
+      "helpful_votes": 0,
+      "publication_date": 20151124
+    },
+    {
+      "title": "I'd definitely recommend this laptop",
+      "text": "I bought the 2014 version of this laptop as soon as it came out. It was better than most cheap Chromebooks, but it was a tad bit slow. The 2015 version (I got the i3 version) is a remarkable improvement over the 2014 version. I haven't had to wait for the laptop in my day-to-day usage, which is great. I'd definitely recommend this laptop.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Manki",
+      "helpful_votes": 2,
+      "publication_date": 20151213
+    },
+    {
+      "title": "Very fast and great screen, to be honest I can't tell a ...",
+      "text": "Very fast and great screen, to be honest I can't tell a huge difference between this screen and the one on a MacBook. The only reason it doesn't get a five star is the fact that it is made up from a very cheap feeling plastic all over the outside. It feels like it is very fragile and I am trying get to be very very careful when I move it. None of the outer pieces are made of metal and this is a cause for concern. But for the price and what it's supposed to be it is a great laptop.",
+      "rating": 4.0,
+      "verified": true,
+      "author": "Amazon Customer",
+      "helpful_votes": 0,
+      "publication_date": 20160817
+    },
+    {
+      "title": "Faulty Components in My Chromebook 2 2015 Edition",
+      "text": "Bought this Oct 2015, Mother board went out Sept 2016 and was replaced by Toshiba.. Oct 2017 computer died again and warranty was no longer valid. Be wary if you buy this item.",
+      "rating": 3.0,
+      "verified": true,
+      "author": "Amazon Customer",
+      "helpful_votes": 0,
+      "publication_date": 20171124
+    },
+    {
+      "title": "Super quick and clear laptop",
+      "text": "Superb product. The screen is fabulous and it is really quick. There is essentially no boot time and so easy to start running applications, doing your work, browsing etc. The sound is also great (though not excellent). The keyboard is very good, but could be much better. But for the price, this is a fantastic product. I hope it lasts a few years!",
+      "rating": 5.0,
+      "verified": true,
+      "author": "abdMtnView",
+      "helpful_votes": 0,
+      "publication_date": 20160902
+    },
+    {
+      "title": "Wish it had more buttons",
+      "text": "My first chromebook. O like it. But mine seems to overheat or something, it makes a buzzing or running sound at times. It's annoying ther is no CAPS LOCK button, you have to hold down shift, and there no delete button just a backspack. Besides that it is everything I expected and helps me keep my google life organized without the hold up and weight of a laptop.",
+      "rating": 4.0,
+      "verified": true,
+      "author": "Camon Schneider",
+      "helpful_votes": 0,
+      "publication_date": 20160920
+    },
+    {
+      "title": "Died mysteriously in about a week",
+      "text": "It was nice when it worked, but only worked for ten days before becoming a shiny paperweight. Toshiba forums are filled with complaints about mysterious failures, and their support was useless.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "Atlas Pilates",
+      "helpful_votes": 6,
+      "publication_date": 20160427
+    },
+    {
+      "title": "Good while it lasted.",
+      "text": "This was a fine laptop I just wish it was a bit more reliable. After only one year it suddenly will not work unless the power adapter is plugged in. The battery reports that it's fully charged, but as soon as the power adapter is unplugged the computer shut down. It won't operate on battery power anymore even though the battery is fully charged. I bought it last December, I was hoping to get at least two years out of it. Oh well. Time to look for a more reliable manufacturer.",
+      "rating": 2.0,
+      "verified": true,
+      "author": "T. Wilson",
+      "helpful_votes": 0,
+      "publication_date": 20161201
+    },
+    {
+      "title": "You wont be sorry!!",
+      "text": "2nd Toshiba Chromebook for me. Great as expected.. Processor generates a bit of heat but as others have noted the fan runs quietly and infrequently, hardly noticeable. The lighted keyboard is a big improvement too! I added flash memory to download content and now have loads of reading material whilst out of WIFI range. Great alternative to a Windows based laptop.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Cabitto",
+      "helpful_votes": 0,
+      "publication_date": 20160430
+    },
+    {
+      "title": "Light, bright and detailed 1080P screen and a back-light keypad.",
+      "text": "IMO it's the best chromebook out there for the price. Manufacturers are finally producing well appointed small machines. A back-light keypad and a 1080p in a 13 inch screen with a unencumbered Chrome OS. Bloatware begone. Chromebook are the best and this is one of the best of them. The Acer 14 doesn't have a SD card reader not back-light keypad. It is less money, but the extra cash buys you a lot of comfortable extras. The next comparable is the Pixel at 1200. Enjoy,",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Catch the Moment",
+      "helpful_votes": 0,
+      "publication_date": 20160730
+    },
+    {
+      "title": "Just buy it.",
+      "text": "It's awesome. I did my research, and it's the best chromebook available now. I was happy to pay a bit more for something that wouldn't feel cheap, and it really doesn't. Love the display. The obvious downsides to the chromebooks are: no real gaming options, and very little storage. Get a couple of nice usb drives, and play games elsewhere, and it's a sweet, cheap laptop with a really great battery life.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Travis Major",
+      "helpful_votes": 2,
+      "publication_date": 20160611
+    },
+    {
+      "title": "Great device, lightweight with great battery life",
+      "text": "Great device, lightweight with great battery life. The screen resolution is beautiful. My only complaint is in native resolution the test on the tabs of chrome and the bookmark bar can be really tough to read. While the page text font size is easy to change, they text outside of the pages are not. But it's not something you're focused on most of the time.",
+      "rating": 4.0,
+      "verified": true,
+      "author": "Amazon Customer",
+      "helpful_votes": 0,
+      "publication_date": 20160616
+    },
+    {
+      "title": "Love it. Hands down the fastest and best web browsing experience ever.",
+      "text": "If you're spending most of your PC time browsing the web, this is the machine for you. It's light and fast with an excellent screen. Reboots within seconds. No worries about viruses. I have not touched my win 10 laptop since I got this one. I would highly recommend it.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "sduel",
+      "helpful_votes": 2,
+      "publication_date": 20160211
+    },
+    {
+      "title": "This little thing is the best \"laptop\" I've ever used",
+      "text": "This little thing is the best \"laptop\" I've ever used. I like how light it is, the size of the screen and how well it is on battery life. The back light keys are also a plus. I'm so happy with this purchase. I would recommend it to anyone. I can watch movies on it, write a paper, research anything, and also listen to music. I would buy it again.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Amazon Customer",
+      "helpful_votes": 0,
+      "publication_date": 20160724
+    },
+    {
+      "title": "Unreliable Battery",
+      "text": "Worked great until I was 2 months past the warranty expiration date. Now computer says battery is 100% full but turns off when unplugged. Toshiba charges $131 just to make an initial diagnosis of the problem.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "Erin",
+      "helpful_votes": 0,
+      "publication_date": 20170525
+    },
+    {
+      "title": "Great while it worked",
+      "text": "I loved this chromebook until the display stoped working after less than 3 years. I have used it lightly and expected a longer life.",
+      "rating": 3.0,
+      "verified": true,
+      "author": "Ramon Igarreta",
+      "helpful_votes": 0,
+      "publication_date": 20181202
+    },
+    {
+      "title": "I have had this for 3 years",
+      "text": "I have had this for three years and it still works perfectly! I love the Chromebook, it is lightweight, fast processor, and if you love google then this will integrate your google account into everything. Nothing bad to say about this chromebook.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Lindsey Mayle",
+      "helpful_votes": 0,
+      "publication_date": 20200505
+    }
+  ],
+  "product_meta": {
+    "title": "Toshiba Chromebook 2 - 2015 Edition (CB35-C3350) Full HD, Backlit Keyboard",
+    "description": "Toshiba Chromebook 2 CB35-C3350",
+    "rating": 4,
+    "feature_bullets": [
+      "Intel Core i3-5015U 2.1 GHz Processor",
+      "13.3-Inch Full HD IPS Display",
+      "4 GB RAM / 16 GB Solid-State Drive",
+      "LED-Backlit Keyboard",
+      "Chrome"
+    ],
+    "specifications": {
+      "Standing screen display size": "13.3 Inches",
+      "Max Screen Resolution": "1920X1080 Pixels",
+      "Graphics Coprocessor": "Mobile Intel HD graphics",
+      "Chipset Brand": "Intel",
+      "Card Description": "Integrated",
+      "Wireless Type": "802.11ac",
+      "Number of USB 3.0 Ports": "1",
+      "Average Battery Life (in hours)": "11 Hours",
+      "Brand": "Toshiba",
+      "Series": "Toshiba Chromebook 2 CB35-C3350",
+      "Item model number": "CB35-C3350",
+      "Operating System": "Chrome OS",
+      "Item Weight": "2.9 pounds",
+      "Product Dimensions": "8.4 x 12.6 x 0.76 inches",
+      "Item Dimensions  LxWxH": "8.4 x 12.6 x 0.76 inches",
+      "Color": "Ice Silver",
+      "Processor Brand": "Intel",
+      "Flash Memory Size": "16",
+      "Batteries": "1 Lithium ion batteries required.",
+      "ASIN": "B015806LSQ",
+      "Customer Reviews": "4.0 out of 5 stars956 ratings4.0 out of 5 stars",
+      "Best Sellers Rank": "#40,853 in Computers & Accessories",
+      "Date First Available": "September 26, 2015"
+    },
+    "categories": [
+      "Computers & Accessories",
+      "Laptops",
+      "Electronics",
+      "Traditional Laptops",
+      "Computers & Tablets"
+    ],
+    "price": ""
+  }
+}

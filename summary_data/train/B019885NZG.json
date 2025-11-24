@@ -1,0 +1,958 @@
+{
+  "website_summaries": [
+    {
+      "verdict": "Rachio is a smart device that genuinely feels smart and is well worth the upgrade from an ordinary sprinkler controller.",
+      "pros": [
+        "The Rachio Smart Sprinkler Controller will help you set a watering schedule based on your needs and preferences, then will watch the weather for you and adapt accordingly",
+        "The intuitive app nicely balances a wealth of options for customization with a quick and easy setup process"
+      ],
+      "cons": [
+        "Most of Rachio's flaws amount to nitpicks, but there are several: the voice controls aren't great, you can't run multiple zones at once, the watering history section in the app is confusing, the onboard controls are limited, and waterproof casing costs extra"
+      ],
+      "aspects": {
+        "Features": 9.0,
+        "Usability": 8.0,
+        "Design": 8.0,
+        "Performance": 8.0
+      },
+      "publication_date": 20170808,
+      "rating": 8.3,
+      "source": "cnet"
+    }
+  ],
+  "customer_reviews": [
+    {
+      "title": "So far so good. Easy setup as long as you have some ...",
+      "text": "So far so good. Easy setup as long as you have some basic understanding of your network. The app is nifty and responsive. My only complaint is that even though I have renamed the zones to things like \u201cfront lawn\u201d or \u201cflower bed\u201d when using Alexa I have to say the zone number rather than the friendly name. I\u2019m hoping they update this as the system matures. Overall I\u2019m very happy and I think it will pay for itself with water savings because it knows when it rains close by. You can also hook up an external rain sensor, but I\u2019ve opted for just using my closed weather station for climate information.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "2a-anon",
+      "helpful_votes": 88,
+      "publication_date": 20180228
+    },
+    {
+      "title": "So easy now. I couldn't never figure out how to ...",
+      "text": "Wow, this thing changed my life. So easy now. I couldn't never figure out how to work the standard system with the schedules. This makes it so easy. Plus the feature that automatically turns it off it it rains is amazing.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Jan",
+      "helpful_votes": 23,
+      "publication_date": 20180430
+    },
+    {
+      "title": "Save money on water bill",
+      "text": "Best way to save water. Set it and forget it.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Sergio R",
+      "helpful_votes": 21,
+      "publication_date": 20180227
+    },
+    {
+      "title": "Buy the external cover if you're installing outside",
+      "text": "Easy install, my only hiccup was I didn't buy the external cover, which you will absolutely need if you install outside. Apt installed easily on my android phone. Zones and times were easy to install. Coolest thing is you can run the zones with your phone by remote while looking at them.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Franklin",
+      "helpful_votes": 15,
+      "publication_date": 20180422
+    },
+    {
+      "title": "I would recommend this to others",
+      "text": "Received item quickly and as described. I would recommend this to others. Very easy to install and setup; definitely one of the best irrigation controllers in the market.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "P. Duarte",
+      "helpful_votes": 16,
+      "publication_date": 20180426
+    },
+    {
+      "title": "my husband is loving the new controller. He can ...",
+      "text": "my husband is loving the new controller. He can adjust it as needed from his phone.Hopefully it will help save on the water bill this summer but watering more accurately.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "TexasTater",
+      "helpful_votes": 16,
+      "publication_date": 20180424
+    },
+    {
+      "title": "Great product!",
+      "text": "Easy installation and works perfectly. My only regret is that a new version came out shortly after I bought this one. The phone app makes managing my sprinkling system a breeze.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "KmB",
+      "helpful_votes": 13,
+      "publication_date": 20180424
+    },
+    {
+      "title": "Great WaterSaver",
+      "text": "No need to go into the basement to turn the control for the sprinkler on. I can regulate it on my phone. Great water-saver.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Gramma",
+      "helpful_votes": 14,
+      "publication_date": 20180129
+    },
+    {
+      "title": "... so I never had the opportunity to utilize the smart watering features",
+      "text": "Installed this last fall before I seeded so I never had the opportunity to utilize the smart watering features. This controller is incredible. It has been scheduling for the last month all based on my inputs on the daily flex schedule. It\u2019s amazing how it breaks up various zone watering and allows for soak time. The smart features to skip when wind is too high, temperatures too low, or incoming weather have saved me tons of water this month alone. Couldn\u2019t be happier, this is a must have.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Weston M. White",
+      "helpful_votes": 11,
+      "publication_date": 20180415
+    },
+    {
+      "title": "Awesome controller!  Quick and easy setup!",
+      "text": "I got rid of my Skydrop controller that was constantly disconnecting from WiFi. Skydrop blamed it on my WiFi and wouldn't honor their warranty. So, I switched to Rachio. The Rachio controller has had NO issues at all! Plus, it was much easier to set up than the Skydrop.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Braden",
+      "helpful_votes": 11,
+      "publication_date": 20180401
+    },
+    {
+      "title": "Great controller, terrible security flaw",
+      "text": "Just discovered a frankly unbelievable issue with Rachio irrigation controllers. If someone takes a photo of your controller, Rachio will transfer ownership of the controllers to that person WITHOUT NOTIFYING THE ACTUAL OWNER! My landscaper keeps transferring control of my controllers to him, when I notify Rachio, they say they have no way to lock down my account and they don't email or otherwise notify the owner. Essentially someone can steal my controllers and transfer ownership to themselves, and I can do nothing about it. This needs to be fixed \u2013 how difficult would it be to require an email or app confirmation from the rightful owner? I mean think McFly!",
+      "rating": 1.0,
+      "verified": true,
+      "author": "Derek Footer",
+      "helpful_votes": 6,
+      "publication_date": 20191011
+    },
+    {
+      "title": "Easy to setup, easy to use, and looks nice!",
+      "text": "I'm a gadget-gal, so I like anything geeky. This works great, you can manage your sprinklers from your phone, and it looks cool. It's a slender box, and the lighted logo indicates status with different flashing light options. You also setup the sprinkler system with your phone when installing. It's easy to setup!!!",
+      "rating": 5.0,
+      "verified": true,
+      "author": "ShannonG",
+      "helpful_votes": 10,
+      "publication_date": 20180414
+    },
+    {
+      "title": "Serious Wifi connection issues",
+      "text": "I bought the Rachio Smart Sprinkler Controller, WiFi, 8 Zone 2nd Gen, on Jun-10-2018, today Aug-11-2018, I've spent the last 5 days trying to get the wifi reconnected without success. I'm fairly good on the IT front and after many days and interaction with Tech support I have nothing but wasted hours and a lot of frustration. Exactly 30 days after my return option end with Amazon this device Fails !!. If I get some resolution I'll update this......",
+      "rating": 1.0,
+      "verified": true,
+      "author": "Kenneth",
+      "helpful_votes": 11,
+      "publication_date": 20180811
+    },
+    {
+      "title": "Love it",
+      "text": "This is a great product to help manage watering your lawn. With the ability to control zone from a smart phone, I was able to easily program each zone and take a photo of the area. In the fall, I cycled the zones using my phone as I blew out my system instead of having to run in to the basement like my old timer.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Mike P. Shaw",
+      "helpful_votes": 11,
+      "publication_date": 20180127
+    },
+    {
+      "title": "Smart Sprinkler system!",
+      "text": "Smart sprinkler system that works on your cell phone. Makes it a breeze to water your garden with multiple stations as you wish, and even senses rain. Great investment.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Clara",
+      "helpful_votes": 10,
+      "publication_date": 20180423
+    },
+    {
+      "title": "Awesome product.",
+      "text": "Dude. This is sweet! Love it, but poor instructions for wiring a 12 zone system. Should be more explicit and a separate video for both types of systems. Perhaps just put the instructions on the controller itself.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Brian P.",
+      "helpful_votes": 9,
+      "publication_date": 20180324
+    },
+    {
+      "title": "Flawless Operation",
+      "text": "I bought this 1 1/2 years ago. I moved to a new house that had more zones and Rachio support upgraded my controller. The new controller arrived in perfect condition. Ive never had a problem in these couple years I\u2019ve had Rachio. They have a great product and treat customers better than they deserve. Rachio has my undying loyalty!",
+      "rating": 5.0,
+      "verified": true,
+      "author": "John",
+      "helpful_votes": 19,
+      "publication_date": 20180305
+    },
+    {
+      "title": "The best IoT device in my house",
+      "text": "Spectacular! The best IoT device in my house. The new software update has the well pump delay. Changing the order of the deployed sprinklers is an underrated feature. Liked Racio before the well pump feature, now I love it. A must have device. It is worth mentioning that the controller is kind of flimsy plastic, but you never touch it once it is installed.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "nutwitskil",
+      "helpful_votes": 8,
+      "publication_date": 20180421
+    },
+    {
+      "title": "The final solution to manage sprinklers",
+      "text": "Excellent smart sprinkler solution. Very easy and fast to install It saves water taking decision on when to run the sprinklers. Avoid to use it when it is raining or too cold.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Corbellini",
+      "helpful_votes": 11,
+      "publication_date": 20180117
+    },
+    {
+      "title": "im watering my yard 3 times a week just like before and already saved about 300+",
+      "text": "I already saved 1/3 of what i spent in water before!!! im watering my yard 3 times a week just like before and already saved about 300+ gallons",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Edo",
+      "helpful_votes": 11,
+      "publication_date": 20180216
+    },
+    {
+      "title": "My life gets easier daily!",
+      "text": "I can honestly say it took some convicting to buy this and after I installed it I was on cloud 9. My old \u201cdumb\u201d timer was just a timer, this is a complete system with a little work and tweaking I was able to save my yard and money at the same time. Being able to only water when needed is a great money saver. I highly highly recommend this item to those who want a beautiful yard!",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Addict in NE Florida",
+      "helpful_votes": 7,
+      "publication_date": 20171231
+    },
+    {
+      "title": "Five Stars",
+      "text": "the best sprinkler controller. easy to setup, great app. Excellent",
+      "rating": 5.0,
+      "verified": true,
+      "author": "szusz1962",
+      "helpful_votes": 10,
+      "publication_date": 20180218
+    },
+    {
+      "title": "Piece of junk. Quit working and wouldn't connect to wifi",
+      "text": "Worked well for a year or so then couldn't connect to the wifi. No matter what I did it wouldn't connect. I called customer support and they gave me the usual wifi is complicated, blah blah...lots of interfere, blah blah. Mind you NOTHING had changed with my router, house, etc. Furthermore, it wasn't like it would connect then lose connection, they could just never get the device to connect properly. I would recommend looking for a different manufacturer. This was seems very finicky and the customer support was useless",
+      "rating": 1.0,
+      "verified": true,
+      "author": "JTB",
+      "helpful_votes": 6,
+      "publication_date": 20190114
+    },
+    {
+      "title": "I love this thing.",
+      "text": "App is great. Set up was a breeze. Programming irrigation controllers absolutely sucks. everyone knows this. this unit fixes the problem. Get it, you wont be sorry. Plus, if you're in SoCal you may qualify for a rebate of up to $120 from metropolitan water district on this controller making it a steal. go to SoCalWaterSmart dot com to check it out.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "db",
+      "helpful_votes": 7,
+      "publication_date": 20180106
+    },
+    {
+      "title": "Four Stars",
+      "text": "Love everything about this except for the app. It is ultra unintuitive.",
+      "rating": 4.0,
+      "verified": true,
+      "author": "Magfl38",
+      "helpful_votes": 9,
+      "publication_date": 20180410
+    },
+    {
+      "title": "Best home automation device yet",
+      "text": "Of all the gadgets and home automation I've added to the home, this is by far my favorite. Very easy to install and setup. No more rain sensor!! This thing knows the weather that just happened, is happening, and will happen and will adjust your watering automatically. If it rained all night, but stopped an hour before the cycle, it will skip the cycle. When the summer months get super hot, this thing will automatically bump up the water as needed. Last summer, I saved more water with this than what I used. Nice app too. Makes it nice to turn on and off zones from your phone when in the yard. Love it!! Thank you Rachio!",
+      "rating": 5.0,
+      "verified": true,
+      "author": "seanm",
+      "helpful_votes": 6,
+      "publication_date": 20180104
+    },
+    {
+      "title": "It works great. I love the way it works with iPhone ...",
+      "text": "It works great. I love the way it works with iPhone and lets me control the schedule as I please",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Amazon Customer",
+      "helpful_votes": 9,
+      "publication_date": 20180401
+    },
+    {
+      "title": "Awesome !!!",
+      "text": "Get this. So awesome ! The app is the best.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Znt",
+      "helpful_votes": 9,
+      "publication_date": 20180331
+    },
+    {
+      "title": "Takes the Chore out of Watering & Works with Alexa",
+      "text": "I use this for 2 zones (because I only have 2 zones). Set up and installation was a breeze. The app is very good - intuitive and user friendly. I set mine up with Amazon Alexa and it works perfectly. The only downside is if you have to mount it outside you must purchase the separate housing for it - so that will cost another $50 or so. I\u2019m in Texas (south) where it gets to over 100 F and I\u2019ve had no issues so far with it sitting in direct sunlight for the entire summer.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "StormingShadow",
+      "helpful_votes": 6,
+      "publication_date": 20180105
+    },
+    {
+      "title": "Great smart device",
+      "text": "Great smart device. I no longer have to go to the side of my Jose to turn off sprinklers on a rainy day (even though I have a rain bird rain sensor).",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Scar",
+      "helpful_votes": 8,
+      "publication_date": 20180118
+    },
+    {
+      "title": "Super easy install, great documentation, ALexa integration is meh",
+      "text": "Let start with installation - could not be easier. From the drywall screw stud layout, to the straightforward directions to the online help - solid five stars. Not a single hiccup, I had my 14yo son do the install himself. The app is great. I'd like to see IFTT integration and the Alexa app is pretty weak, but overall this is a fantastic, simple, friendly to use app. Even the manual controls are simple and accessible. I had tried to use a cheaper knockoff (rhymes with \"oh behave\") that was a a stinky pile of regret, for another $40 the Rachio is a steal. Bite the bullet and buy Rachio (as I was previously advised by my friends).",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Meyer",
+      "helpful_votes": 0,
+      "publication_date": 20191005
+    },
+    {
+      "title": "Five Stars",
+      "text": "Love it! Got a rebate from the SoCal Water District and pretty much paid for itself already.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Jorge d'Argence",
+      "helpful_votes": 9,
+      "publication_date": 20180119
+    },
+    {
+      "title": "Great sprinkler timer",
+      "text": "I had reviewed other products before purchasing this one. I really wanted the spruce irrigation but it was never sold with prime shipping. And I only buy with prime. Works great, simple to install and setup, only downside is that if it's cold outside, you lawn will not get watered automatically. I live in california. It's not that cold.",
+      "rating": 4.0,
+      "verified": true,
+      "author": "FireTyrant",
+      "helpful_votes": 6,
+      "publication_date": 20171226
+    },
+    {
+      "title": "FINALLY!  Awesome!",
+      "text": "I've been looking to make the transition to a smart sprinkler for years. This time, I got it specifically to help deter animals. Yep! This is what SMART home stuff is all about. Paired up with my ring doorbell and an app called 'Stringify' Any time there is movement at my doorbell cam at night time, zone 1 turns on for 1 minute. Why? Cats no longer crap in my flower bed :) Freaks out visitors sometimes though. Additionally, the intelligent weather skipping seems to be working well too. We'll see how good it really performs in summer.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "AV",
+      "helpful_votes": 2,
+      "publication_date": 20190210
+    },
+    {
+      "title": "Easy to connect with my phone",
+      "text": "IDK why other reviewers had a hard time installing it. You don\u2019t need to be an expert to install it. Easy to connect with my phone. Found my wifi at home right away. And I can control it anywhere I go. Plus it updates me through email about the weather and suggestions on how much water it is saving. The best product I\u2019ve seen so far. Thank you for the innovation and ingenuity of the design.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "e.",
+      "helpful_votes": 13,
+      "publication_date": 20180302
+    },
+    {
+      "title": "Utterly incompetent software",
+      "text": "I went on a three week vacation a couple of days after the summer schedule expired. Rachio stopped all watering because the fall schedule only applied to LAST YEAR. Why does a seasonal schedule need a year? Why doesn't this \"smart\" device say, \"Hey, I'm not going to water your lawn ever again unless you intervene. Is this OK?\" All of my landscaping is dead. Thanks, Rachio.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "J. Margarit",
+      "helpful_votes": 2,
+      "publication_date": 20191028
+    },
+    {
+      "title": "Awesome interface",
+      "text": "Good so far, was super easy to set up. I\u2019ve got two years worth of water Bill data that I can report later in the summer. The only issue I had with this is the connectors. They were such a pain, and I have a lot of experience with Phoenix type of connectors. It does master valve.",
+      "rating": 4.0,
+      "verified": true,
+      "author": "judith",
+      "helpful_votes": 6,
+      "publication_date": 20180318
+    },
+    {
+      "title": "Love that I can program it from my iPad",
+      "text": "So so much easier to program than my former controller. Love that I can program it from my iPad. Also, the WiFi makes it easier to activate and test. One thing I\u2019d change is power connection. The power supply wire plugs in instead of connecting like the zone connectors. This makes it challenging to get optimal cord length or longer, if needed.",
+      "rating": 4.0,
+      "verified": true,
+      "author": "InAustin",
+      "helpful_votes": 6,
+      "publication_date": 20180120
+    },
+    {
+      "title": "Four Stars",
+      "text": "love to be able to control it from my phone as i walk in the yard",
+      "rating": 4.0,
+      "verified": true,
+      "author": "Toby Miller",
+      "helpful_votes": 11,
+      "publication_date": 20180224
+    },
+    {
+      "title": "So far so good.",
+      "text": "So far so good. Physical install went well. Electronic was a bit of a pain to set up zones and times. Wanted to set on the daily setting but it decided to run for over 9 hours with 6 zones. That's a bit much. Switched to monthly setting and it was closer to what was needed. fiddled with the times on each zone and seems to be working. Raining lots here and has not come on which is why i bought it. Will see...",
+      "rating": 4.0,
+      "verified": true,
+      "author": "Lars1y",
+      "helpful_votes": 4,
+      "publication_date": 20180321
+    },
+    {
+      "title": "Love it. Easy to use and works as advertised.",
+      "text": "This thing works great! Love the connectivity and ability to bypass schedule much more easily than my older hunter. It cut my water bill by $40 per month simply by letting it follow its directions. Already paid for itself in 6 months. There were a lot of negative reviews on this but I think they either didn't follow the instructions or they have pumps, which I think would have been harder to use. I have a generic suburban yard in a big city and it was a snap. Had to fiddle getting the leads into the holes but still took me about 45 minutes from start to finish and I am not a home repair expert.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Dannette Nichols",
+      "helpful_votes": 12,
+      "publication_date": 20180304
+    },
+    {
+      "title": "Should have gone Gen 3",
+      "text": "It is a great improvement from my manual controller, and I love having iPhone integration for easier management. The station it uses for weather data is a few miles away, which can be surprisingly inaccurate in Florida: an isolated thunderstorm can be very small but bring a lot of rain. I suspect the third generation product would handle this much better out of the box. Update: After two months of our rainy season, I am feel like the Gen 2 weather data is useless to counterproductive for my location, and the only advantage over my old unit is that I can update the schedule remotely. I will probably have to buy a personal weather station or disable Weather Intelligence.",
+      "rating": 3.0,
+      "verified": true,
+      "author": "Brian J. Wiley",
+      "helpful_votes": 0,
+      "publication_date": 20190714
+    },
+    {
+      "title": "Five Stars",
+      "text": "Looks good in box when winter is over we will see lol ( stars for packaging",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Jim Haworth",
+      "helpful_votes": 8,
+      "publication_date": 20180131
+    },
+    {
+      "title": "easy install and relatively affordable",
+      "text": "Simple, easy install and relatively affordable. Replaced my old manual Rainbird and the install took about ten minutes including setting up the watering schedule.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "CameronC",
+      "helpful_votes": 7,
+      "publication_date": 20180108
+    },
+    {
+      "title": "Great product. Takes the guesswork and time off your ...",
+      "text": "Great product. Takes the guesswork and time off your hands using the old style of turning knobs and pushing buttons to set times and zones. Very user friendly. Didn\u2019t hook up any rain sensor since this goes off your current location and weather. And the best part you can water your grass anywhere anytime from your phone. Technology has finally made this aspect easier for this product. Great product overall and best one for the price.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "adam",
+      "helpful_votes": 7,
+      "publication_date": 20171117
+    },
+    {
+      "title": "Unrelible Product",
+      "text": "What a horrible product. It works fine for about two weeks and then just dies. Of course it dies after the return window has closed so I am stuck with this hunk of junk. Not sure why it refuses to connect anymore to my wifi router. Worked fine for several weeks and then it didn't. I did not have a power outage & I have numerous wifi devices that all work just fine. But not this brick. Do yourself a huge favor and avoid this product.....",
+      "rating": 1.0,
+      "verified": true,
+      "author": "David Hawk",
+      "helpful_votes": 2,
+      "publication_date": 20190516
+    },
+    {
+      "title": "Pays for itself: Saves water, saves money, saves my sanity",
+      "text": "I couldn't love Rachio any more than I do. Not only does it do all of the normal things an irrigation system would do, but it automatically reduces the amount of water it gives on a given day based on rainfall that has happened AND rainfall expected (since it's wifi enabled). It makes it so easy to keep my garden perfectly watered, without me thinking about it, and without wasting water. It's paid for itself many times over with the cost of water saved.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Kol Birke",
+      "helpful_votes": 0,
+      "publication_date": 20200717
+    },
+    {
+      "title": "Awesome next generation smart irrigation controller - will pay for itself",
+      "text": "This totally changes irrigation for the better - no more watching the sprinklers go off when it is due to rain all day. This will more than likely pay for itself in water savings (for me it definitely will, I am in SW Florida and water is very expensive). Super easy to set up and program - the only negative is the pin terminals to insert the wires are hard to insert (my opinion) - Their customer support is great - I had pin inserts break at install - they are replacing the unit. Make sure to buy 2nd generation or above (whenever it comes out)",
+      "rating": 5.0,
+      "verified": true,
+      "author": "jack Sparrow",
+      "helpful_votes": 11,
+      "publication_date": 20180223
+    },
+    {
+      "title": "SHAM!!",
+      "text": "I am so angry, difficult to write review. Plugged Controller in outside to get WI-FI signal, got signal, scanned barcode several times with Samsung Mobile phone and Samsung Fire 10\" tablet neither connected via barcode because was not recognized. Then, tried to download app via Google/ play app store; No app there. Then tried rachio.com/download. No luck. Then, just sent email relating problems but is after 6pm here and they do not respond till tomorrow between 8am and 5 pm. Hoped to install in morning. Installer needs to come back. Because of COVID 19, I have had this item two months but could not have anyone install till now. TOO LATE to return!!!",
+      "rating": 1.0,
+      "verified": true,
+      "author": "Kat Lady",
+      "helpful_votes": 0,
+      "publication_date": 20200512
+    },
+    {
+      "title": "Must have if you have a yard with a watering system - No Joke.",
+      "text": "One of the best investments you can make for conservation, optimal yard outcomes and ease of use. This is how a product should work today and they exceed expectations.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Rick Dugan",
+      "helpful_votes": 7,
+      "publication_date": 20180108
+    },
+    {
+      "title": "Five Stars",
+      "text": "I absolutely love this thing. So easy to use via the APP. Set schedules, set weather station. Its awesome",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Chris & Sara",
+      "helpful_votes": 8,
+      "publication_date": 20171118
+    },
+    {
+      "title": "Easy Installation",
+      "text": "I replaced my Hunter Irrigation Controller with the Rachio. Installing it was simple and I took a picture of the old wiring just in case. You basically connect each zone from your system to the corresponding zones on the Rachio. You don\u2019t need to connect the rain sensor as it isn\u2019t applicable to the Rachio. One aspect that I like is that the system splits the watering time to give a small break for water to limit runoff. For example, you set it to water for 40 min and it will water for 20, pause for 15 and then water again for 20 min. Overall, it\u2019s a great unit and I wish I had installed this originally.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Vick",
+      "helpful_votes": 0,
+      "publication_date": 20190706
+    },
+    {
+      "title": "Impressive",
+      "text": "So much better than my old dumb \"Hunter Pro\" unit. I love being able to control the sprinklers from my smartphone, especially when I'm doing sprinkler maintenance. Before it was a pain to get to and from the controller because of the way my garage is packed with stuff. I can also choose my own weather station to help prevent or reduce watering when it's already rained. There are some minor tweaks I would make to the app but it's pretty good as it is. So 5 stars for me.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Lantana Al",
+      "helpful_votes": 0,
+      "publication_date": 20191001
+    },
+    {
+      "title": "Works way better than model 1",
+      "text": "Works way better than model 1. I have had both and the difference is huge. This device is perfect for home owners.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Dragon Herbs",
+      "helpful_votes": 7,
+      "publication_date": 20180220
+    },
+    {
+      "title": "neighbors were jealous",
+      "text": "neighbors were jealous and after months of them watering their lawns in the rain and over and under watering their yards, they all bought their own.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "beef",
+      "helpful_votes": 7,
+      "publication_date": 20171228
+    },
+    {
+      "title": "Five Stars",
+      "text": "this is a great product. its also great the app can do more then one home",
+      "rating": 5.0,
+      "verified": true,
+      "author": "GD",
+      "helpful_votes": 8,
+      "publication_date": 20180116
+    },
+    {
+      "title": "Rachio helped me realize I know nothing about irrigation",
+      "text": "purchased this through a local water district rebate (southern california). After installing I realized I was watering my landscaping completely wrong (settings via previous landscaper). In short I have a combination of sloped lawn, trees and vegetable garden all previously watering three days a week for 15 mins. The orange trees were always wilting, back lawn was always dry while the front looked ok. Within a month of Rachio doing it's thing ( I set to max flexibility) the lawn and trees look a whole lot better. Setup was surprisingly easy, liekwise scheduling was just a matter of adding lawn type, sprinkler type. I can easily decrease or increase watering.",
+      "rating": 4.0,
+      "verified": true,
+      "author": "RowanR",
+      "helpful_votes": 0,
+      "publication_date": 20200701
+    },
+    {
+      "title": "Buyer Beware",
+      "text": "Bought this controller 3+ yrs ago and it has functioned properly most of the time. However it has a very irritating feature - it won\u2019t operate without an internet connection AND connection to Rachio\u2019s servers. If Rachio\u2019s servers are down, you can\u2019t operate the system with the app. This happened to me today. My internet connections is fine but Rachio\u2019s servers are apparently down. The app just says that it can\u2019t retrieve my account settings. 95+ degree temps today and I can\u2019t operate my sprinkler system. I would be very cautious about buying this controller due to this design flaw.",
+      "rating": 2.0,
+      "verified": true,
+      "author": "Bigfilo",
+      "helpful_votes": 0,
+      "publication_date": 20200530
+    },
+    {
+      "title": "Beam me up, Rachio...remote control is gr8!",
+      "text": "Easy to set up, easy to program. Very, very easy to use. I love the rain awareness that adjusts the schedule. So easy to spot water a zone. Heading out the front door and see that bed needs a good soak. Just run a quick zone from your phone. If you do self maintenance it is great for checking for bad heads and then verifying your fix without having to run to the garage to turn on back to the sprinklers and then back to the garage.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "R. Beck",
+      "helpful_votes": 3,
+      "publication_date": 20180522
+    },
+    {
+      "title": "Rachio has a new fan",
+      "text": "I replaced my 25-year-old Rain Bird system with this Rachio unit and I couldn't be happier. Gone are the days of messing with dials and limited function. This Rachio unit allows me to pause scheduling and allows access to the local weather so that it doesn't waste water. It is easy to use and frankly, I love it. Rachio has recently changed their app for the better, as well. The functionality when setting it up couldn't be easier and the user interface is great. The way in which you can input grades/hill angles to adjust how water sits is visionary. A worthy investment not only in water conservation, but also in the equity in my home.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "D. Steele",
+      "helpful_votes": 0,
+      "publication_date": 20200219
+    },
+    {
+      "title": "Great product.",
+      "text": "Great product! Easy to use and understand. Set up was fairly easy. You will need a rain proof out door installation box not included. No more guessing which program is which to turn on your lines. Easy to turn on or off systems from any where. This will definitely save you money!",
+      "rating": 5.0,
+      "verified": true,
+      "author": "red",
+      "helpful_votes": 7,
+      "publication_date": 20171226
+    },
+    {
+      "title": "Don\u2019t know how I lived without it",
+      "text": "If you\u2019ve been thinking about buying this, but hesitating just buy it! I was on the fence for like 6 months. I have lots of smart things...thermostats, light bulbs, cameras, smart locks...Rachio was the best purchase out of all of them. Installation and initial pogramming are super easy. I laugh every morning it\u2019s raining and my neighbors\u2019 sprinklers are running. No more with Rachio. It\u2019s also nice to be able to check out and troubleshoot my system just turning zones on and off with my phone while I\u2019m out in the yard.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "CDS",
+      "helpful_votes": 4,
+      "publication_date": 20171109
+    },
+    {
+      "title": "Can't believe I waited so long to replace my sprinkler controller!",
+      "text": "We've had the same controller for 20+ years. It's always been a bit of hassle to reprogram it when the seasons change and I've known about my water company having a rebate for a new controller for at least a year now. Finally bit the bullet and ordered one and WOW, it's just so much easier to deal with! Husband installed it in about 15 minutes and it took a few tries to connect to the wifi but then it's worked great since. Website and app are both easy to set up and adjust zones as needed. We also have an Ecobee 4, with Alexa, and it was easy to sync up so they can both talk to each other.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "iced_coffee",
+      "helpful_votes": 0,
+      "publication_date": 20181231
+    },
+    {
+      "title": "Super convenient.  Super smart.",
+      "text": "RECOMMEND: Absolutely! PROs: \u2022 Super easy to install. 15 minutes max. \u2022 The Rachio app and Alexa integration are flawless. \u2022 \"Smart Skip\" feature will save you money. \u2022 Based on the Rachio's built-in wizardry, it said I have been under-watering my grass. Guess what? It was right! My lawn looks way healthier today. \u2022 No more going into the garage to configure your water settings. Now you can do it in the comfort of your living room, or while you're on vacation. CONs: \u2022 Although the \"Smart Skip\" feature will save you money, be prepared to pay a little more on your water bill.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Richard Montoya",
+      "helpful_votes": 0,
+      "publication_date": 20191212
+    },
+    {
+      "title": "Enormous pain cumbersome",
+      "text": "Just an enormous pain in the a$$ ridiculously cumbersome to get working with wifi horemdous trying to Adjust wateringtimes not even remotely user friendly. Changed my wifi name and password took Hours trying to reset devices ( yeah I was dumb enough to buy 3 of these) nothin works landscaper hates it wont deal with it. Cusyomrr serbice unresponsive wants \u201cproof of purchase before answering or helping really there a big black Market for these things- Rachio no problem Ill take the photo and report back to you after all I work For you right? My Time is nothing right?",
+      "rating": 1.0,
+      "verified": true,
+      "author": "Kathy Fischer-Colbrie",
+      "helpful_votes": 0,
+      "publication_date": 20190426
+    },
+    {
+      "title": "The future of home gardening is here!",
+      "text": "This is the best home purchase for landscaping I\u2019ve made thus far. It physically installs very easily. The WiFi connection is very reliable and even if the WiFi goes down it simply reverts to being a traditional sprinkler system and runs its preprogrammed watering times. When connected to WiFi, the sprinkler adjusts it watering times seasonally, push notifications inform you when it is watering and it will adjust its watering times depending on the type of watering you desire ...sprinkler, drip...etc. the Rachio App is very simple and easy to use. I would definitely recommend this product and wish I had purchased it sooner.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Samson Gebre",
+      "helpful_votes": 0,
+      "publication_date": 20200224
+    },
+    {
+      "title": "Very pleased with upgrading from my old Rainbird system to Rachio",
+      "text": "I have really enjoyed the Rachio irrigation controller. Wherever I have a WiFi connection - at home or traveling - I can control the irrigation system. What's really handy is the ability to control the system when I am out in the yard. This allow me to test the sprinklers to make sure everything is working. The Rachio controller has the brains to figure out when to irrigate, using information from the nearest Weather Service station. This is a huge upgrade over my old analog controller where I had to turn a switch on or off, depending on the weather forecast. I got a small price break by purchasing a remanufactured system.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "andyho",
+      "helpful_votes": 3,
+      "publication_date": 20170709
+    },
+    {
+      "title": "NOOOOOOO DOOOOOOOON\u2019T",
+      "text": "Total garbage, terrible customer support. If you have a WiFi router that is from the Jurassic period then it might work but set up with any assemblage of a modern router is nothing short of a disaster, and the customer support if you manage to get someone is literally half a sleep!!! I\u2019m livid The only pro is their hold music is not offensive which is a big deal considering how much you\u2019re waiting to talk to their inept staff!",
+      "rating": 1.0,
+      "verified": true,
+      "author": "CHARLES S BALDASSANO",
+      "helpful_votes": 2,
+      "publication_date": 20190701
+    },
+    {
+      "title": "Does what it is supposed to",
+      "text": "I have installed and service lawn sprinkler systems for over 30 years, this is a great controller.Installed this for a customer at their request, I had never seen one before. Easy to set up and very easy to use. Does a fantastic job of managing the system and watering only as needed. Only downside I have seen is it does not have a terminal strip, I do not like wire clips. It makes it more difficult for service and to troubleshoot. That is enough for me to discourage customers from having one installed.",
+      "rating": 4.0,
+      "verified": true,
+      "author": "Martin L. Thomas",
+      "helpful_votes": 3,
+      "publication_date": 20171021
+    },
+    {
+      "title": "Great purchase really can't recommend it enough!",
+      "text": "Have had this item for over two years now. Love it. Much easier to set than my old mechanical unit. I travel during most of the summer and early fall to get out of the Florida heat and this does a very good job of regulating irrigation. My neighbor purchased also, so we can both just use our tablets or smartphone to access each other settings in those rare instances when you may need to override the established ones. Pretty easy to install, enough features in the software to handle most situations, and generally you can pretty much set up and let it work for you.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Mickey B",
+      "helpful_votes": 0,
+      "publication_date": 20190423
+    },
+    {
+      "title": "Excellent",
+      "text": "Works well, easy to set up and I love that it is wifi connected for weather and remote control",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Optioner",
+      "helpful_votes": 7,
+      "publication_date": 20180111
+    },
+    {
+      "title": "Works well - has minimized our water consumption",
+      "text": "Simple installation. Link to local weather center and separate water sensor (not included) has significantly cut our water consumption. Realized water sensor is probably overkill as the weather center linkage provides both historical (rained yesterday) and future (going to rain tonight) info, ensuring you minimize the number of times you run the system. If you are far from a station or weather is very localized, the sensor may be add value, but far from essential. I'm not home for long periods , so email and remote monitoring is comfortable to have.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Dave",
+      "helpful_votes": 6,
+      "publication_date": 20161004
+    },
+    {
+      "title": "Could be more simple (faster) setup",
+      "text": "I do not need any \"smart\" things but just standard sprinkler schedule with Wi-Fi connection. In any case, it works very well and especially soaking feature is +++. Very good after spreading granular fertilizer. Wi-Fi connection is stable. Most of faster devices such as smart phones/tablets are connected through 5GHz so 2.4GHz only is not an issue (preferable for me). Update (5+ months): Still working without any problem. Wi-Fi connection is solid.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "TS",
+      "helpful_votes": 2,
+      "publication_date": 20180829
+    },
+    {
+      "title": "Real peace of mind",
+      "text": "This is an amazing device that will save you a ton of time and water! A real peace of mind! It gives you reports of watering times and you can rest assured that your lawn gets the water it needs. I am traveling for a long time and know that this device will take care of the watering for me! The price is really cheap considering the conventional options for controllers.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Amazon Customer",
+      "helpful_votes": 2,
+      "publication_date": 20190412
+    },
+    {
+      "title": "This thing is AMAZING! Works exactly as described",
+      "text": "This thing is AMAZING! Works exactly as described. I really needed it to troubleshoot and fix my sprinkler system, but to run back and forth constantly between my old manual RainBird controller was a headache! Installed this bad boy and, WHAM! On and off, on and off as I went around my yard...perfect! Saved me TONS of TIME! And, also got it to work with Alexa flawlessly. FINALLY a homerun product out there!",
+      "rating": 5.0,
+      "verified": true,
+      "author": "H. Dubitzky",
+      "helpful_votes": 5,
+      "publication_date": 20171128
+    },
+    {
+      "title": "Go ahead and get it...",
+      "text": "I wish other products were this well designed and thought out. It Installed and worked like advertised. Easy to install and well thought out instructions. Web app is easy to customize and navigate. Attached skill to Alexa and all works well. ROI~ the money you save will pay for the unit in several months.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Kirsten M Olsen",
+      "helpful_votes": 7,
+      "publication_date": 20180401
+    },
+    {
+      "title": "Vast improvement over traditional controllers",
+      "text": "I'm really happy with this sprinkler controller. It was SUPER easy to install and set up and it really makes the programming of the different stations easy and user friendly. The app lets you take pictures and customize the name of each station, so no more trying to remember if station 4 is the front or back. Allows you to be really specific about how much water each station needs, adjusts for weather and soil condition. The customer service is amazing. Online chat and phone support available all the time and they're actually, truly, helpful. My water department also gave me an $80 rebate, so it made the thing an easy justification.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Jessilee99",
+      "helpful_votes": 2,
+      "publication_date": 20170828
+    },
+    {
+      "title": "Amazing and fun",
+      "text": "Makes it easy to control your sprinklers with your phone--or with Alexa. A major convenience, and we got a rebate for almost the full purchase price if not the full purchase price. I would definitely recommend. The bottom line is that the controller give you more control over your watering with less effort.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Amazon Customer",
+      "helpful_votes": 12,
+      "publication_date": 20180223
+    },
+    {
+      "title": "Believe the hype it\u2019s a great buy......No WiFi problems here.",
+      "text": "Excellent buy I seen them seen it in Lowe\u2019s for years and finally decided to buy it. I had it for a whole season now and it\u2019s working fine. I see some \u201cexpert\u201d WiFi technologist say they could not get it set up. I suggest setting up your WiFi prior to the install and not at after its already installed. My only suggestion is to make the cover a little more easier to open.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "bigwev",
+      "helpful_votes": 5,
+      "publication_date": 20171108
+    },
+    {
+      "title": "Good Upgrade",
+      "text": "Rachio Smart Sprinkler controller was easy to install and works very well. The ability to review/control sprinklers from my phone is great although looking for UI improvements for manual control and system testing. The product appeared to have been repackaged although it was indicated as new when ordered. All components, instructions, etc. appeared to have been provided.",
+      "rating": 4.0,
+      "verified": true,
+      "author": "Phillip M Englert",
+      "helpful_votes": 5,
+      "publication_date": 20171106
+    },
+    {
+      "title": "Love it!!!",
+      "text": "I could write a super long review on how badass this thing is, coming from a Rainbird blah blah controller. But I will just say this: Buy one - you'll be glad you did. Wire it up yourself - you'll be amazed how easy it is. I have an Amazon Echo, but I dont use it for connecting to this controller. I do, however, use the app on my phone at time. Especially since I'm still dialing in my schedule and getting all of my zones dialed in. There's not much that can be improved upon here. Pretty darn cool.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "JM",
+      "helpful_votes": 3,
+      "publication_date": 20170809
+    },
+    {
+      "title": "Easiest programming ever!!",
+      "text": "I was kind of worried reading some of these reviews. Loss of connection, no historical data etc. but I was able to install it in my garage at the farthest point away from my router and am having zero issues. Setup was literally the easiest time I have ever had setting up a watering schedule and physical installation only took me about an hour (my wires wouldn\u2019t reach no matter what I did so I had to do a bunch a splicing) from box opening to exiting the app fully setup. Hopefully I get a solid decade out of it.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Pauzuolis",
+      "helpful_votes": 11,
+      "publication_date": 20180217
+    },
+    {
+      "title": "Easy to install and use",
+      "text": "I am not sure if this is going to save me any money as the features to automatically adjust my watering based on the weather does not work well in my area of San Antonio - the closest station to sync it to is 8 miles away, and that can mean the difference between 4 inches of rain there and 0 inches where I am. The ease of setting the zones and being able to start and stop them anyway is fantastic and especially comes in handy when making repairs as I do not need to keep running back into the garage to start and stop a zone. Highly recommended",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Me",
+      "helpful_votes": 0,
+      "publication_date": 20200119
+    },
+    {
+      "title": "My best smarthome purchase yet",
+      "text": "Super easy to install and wifi setup was a breeze. No issues. So far I've had the system up and running almost 60 days and the weather prediction and water saver features are spot on. We get rain here in South Florida almost every day and this decice has already started saving me money. No more manual dial timer and wasted power and water. Great investment and will pay for itself soon. You can impress your neighbors or ward off unwanted critters or guests at push of a button",
+      "rating": 5.0,
+      "verified": true,
+      "author": "erik e",
+      "helpful_votes": 3,
+      "publication_date": 20170930
+    },
+    {
+      "title": "Best investment in quite a while",
+      "text": "Best investment in quite a while. The app works great and I can't believe I waited so long to get this.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Don H",
+      "helpful_votes": 7,
+      "publication_date": 20180109
+    },
+    {
+      "title": "Does not work with Eero wireless mesh system",
+      "text": "This will NOT stay connected or will not connect at all to the Eero mesh wireless router! Rachio is aware of this and now told me it doesn't work with a mesh system. Funny, it worked for two years! After months of not having a working system and going back and forth with support, nothing changed. I am DONE! Bought an Orbit B-Hyve...perfection! Anyone need a $250. paperweight?",
+      "rating": 1.0,
+      "verified": true,
+      "author": "Two01098",
+      "helpful_votes": 0,
+      "publication_date": 20191121
+    },
+    {
+      "title": "Questionable security / privacy",
+      "text": "I just installed this. Functionality wise it seems fine; time will tell (and I may update this review to include my experience). Setup was more troublesome that it needed to be. In particular, the device is very picky about which WiFi networks it will connect to. Hidden or open networks are a no-go. From their website: \"Network must use WPA or WPA2 Personal security encryption. This helps ensure your network and connected devices stay safe while online. Rachio will not connect or display without this.\" Translation: These guys don't know how to properly secure a networked device. WPA/WPA2 does absolutely nothing for end-to-end security, and this is probably yet another IoT device where security came as an afterthought.",
+      "rating": 3.0,
+      "verified": true,
+      "author": "Mr.Fox",
+      "helpful_votes": 0,
+      "publication_date": 20190119
+    },
+    {
+      "title": "I'm really impressed!!!",
+      "text": "I had very high expectations for this controller and it did not disappoint. I replaced a Hunter unit when it failed on me last week. The instructions could be a little better but overall it's very easy to install. Set-up was very easy and very customizable including taking pictures of your yard zones to personalize the interface. That's a nice touch. I'll update my review if anything changes but I am very pleased so far.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "utmikeg",
+      "helpful_votes": 2,
+      "publication_date": 20190403
+    },
+    {
+      "title": "Simply the best.",
+      "text": "I recently added this device and have to admit it was one of the best decisions I've ever made regarding Lawn Care. The device is amazing, but surpassed by the quality customer care and information-sharing I continue to receive from the company. Rachio is giving customers exactly what they need; a quality product, excellent customer service, and user-friendly information that allows customers to use the full capacity of a great device. Frank Williams",
+      "rating": 5.0,
+      "verified": true,
+      "author": "F. H. Williams",
+      "helpful_votes": 0,
+      "publication_date": 20190409
+    },
+    {
+      "title": "Easy solution for automated sprinkler control.",
+      "text": "Pro's: Water District reimburses me for the cost of the controller and the set up was super easy. I have 15 stations at my house and the app works great, adds water on hot weeks, cuts the water when it rains or is cold. Some small tweaks but now I never even worry about the sprinklers. Integrates well with home wifi and even alexa.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Robert Snow",
+      "helpful_votes": 4,
+      "publication_date": 20171129
+    },
+    {
+      "title": "Good, but very, very detailed.",
+      "text": "Loving how it runs my zones and the easy setup and configuration. It's also a good looking unit It even sends me a notification after it's completed a cycle. Biggest downside: it measures water by in/hr. So, it can be irritating to have to do the conversion math to make sure you get the right data back. So I'll save you time for when you make custom nozzles for your drip zones: 1 GPH = 1.60 in/hr (typical) 2 GPH = 3.21 in/hr (medium) 3 GPH = 4.81 in/hr (heavy flow) I wish I could post more but the unit does what it's supposed to, interfaces with the iPhone well, and hopefully will take care of my yard!",
+      "rating": 4.0,
+      "verified": true,
+      "author": "B.H.",
+      "helpful_votes": 2,
+      "publication_date": 20170523
+    },
+    {
+      "title": "Easy to use interface, saves lots of water",
+      "text": "Just installed in my backyard sprinkler system. It was very easy to set-up and has saved me significant amounts of water based on Rachio's ability to check my areas rain forecast and skip scheduled watering if sufficient rain is expected. Highly recommended!",
+      "rating": 5.0,
+      "verified": true,
+      "author": "utche96",
+      "helpful_votes": 5,
+      "publication_date": 20171101
+    },
+    {
+      "title": "Great sprinkler controller!",
+      "text": "I have had this controller for a little over a year now. Setup was super simple and connecting my existing zones was even easier. I really like the way the app is set up. I currently have the controller set to water \"as needed\" and it does a very good job compensating for weather. When it rains, it delays the watering schedule, when its hot, it may water a little extra. Happy I made this purchase, and dont forget to check your local utility company for rebates. I was able to get a pretty nice rebate from my water company for this sprinkler controller. It also works with Alexa!",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Nic",
+      "helpful_votes": 2,
+      "publication_date": 20170920
+    },
+    {
+      "title": "Great Product",
+      "text": "I am very pleased with this controller. Way easier to use than the Hunter manual controller that it replaced. Install was easy, just make sure you label each wire as you remove from the old controller and leave a little room between the bottom of controller and top of conduits that wires are in so you can snap/unsnap cover for controller. App usage is extremely easy and offers several different options for watering. Install and setup on the app took an hour total.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "OKSooner22",
+      "helpful_votes": 0,
+      "publication_date": 20190801
+    },
+    {
+      "title": "Very easy to install; simple to run; UI is so-so",
+      "text": "This came after a long delay (probably a seasonal delay). But it\u2019s extremely easy to install. Instructions were excellent and it was up and running in about 10 minutes. WiFi connection is a breeze. My only complaint is the user interior the app. It\u2019s overly complicated and not super intuitive. But it does have a smart feature where it turns off the sprinklers when there has been or will be rain. So it is \u201csmart.\u201d I got it on sale, so it was a great value. I would recommend this!",
+      "rating": 4.0,
+      "verified": true,
+      "author": "D.",
+      "helpful_votes": 0,
+      "publication_date": 20200903
+    },
+    {
+      "title": "best sprinkler timer",
+      "text": "I bought this mostly due to my state having a rebate where they paid 50% of the price. Setup was pretty slick, very easy to connect to my network. I have also enjoyed turning the sprinklers on from work, then showing my coworkers my dog running through them via my security system... This has some nice water saving features that you can setup and use, or just opt out. This is a nice system, and the rebate from my local government made it affordable.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Grease Monkey",
+      "helpful_votes": 3,
+      "publication_date": 20170814
+    },
+    {
+      "title": "Great deal on Gen 2 vs Gen 3",
+      "text": "This is not the latest version, but the latest features are not important to me. This unit is 1/2 the price. I owned 2 other gen 2 controllers (sold the houses) and loved this controller and it's interface. It is a little finicky if more than 25 feet from your router, so placement is important.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Bruce S",
+      "helpful_votes": 2,
+      "publication_date": 20190428
+    },
+    {
+      "title": "Where's the Cover?",
+      "text": "I bought this last September on sale and waited until this spring to actually start replacing my old controller. I felt pretty safe doing this because it was said to be new and because Amazon was the seller, but it seems I made a mistake. Upon opening the box, I found that the cover is missing (and of course my return window is long since closed). Very disappointing!",
+      "rating": 1.0,
+      "verified": true,
+      "author": "Power Engineer",
+      "helpful_votes": 0,
+      "publication_date": 20200411
+    },
+    {
+      "title": "Wish i bought this sooner",
+      "text": "Set it and forget it. Oh, and save water versus the traditional sprinkler controllers. Took about 5 minutes to install, and another 10 to configure. From then, I barely touched the thing all season. I was out of town and had someone come replace a broken head for me. Instead of trying to get him access to the house, I had him call me when he needed to test the system and I activated it remotely. Amazingly convenient.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "A. Zeckel",
+      "helpful_votes": 5,
+      "publication_date": 20171107
+    },
+    {
+      "title": "Great technology, easy to install and program!",
+      "text": "This replaced a 2 year old Hunter Pro-C controller. That unit was very confusing to program even though I have only 2 zones. The Rachio was very easy to install (However, I wish Rachio would have included the outdoor box! $30 seemed a lot for a plastic enclosure.). Programming was a breeze. I did the programming before I installed the unit which was a good suggestion from Rachio. Works great and provides an easy to understand app with quite a few options. But when it came to soil type, I was at a loss. Hopefully this will last, but for now, a good buy!",
+      "rating": 5.0,
+      "verified": true,
+      "author": "LJ",
+      "helpful_votes": 2,
+      "publication_date": 20170828
+    }
+  ],
+  "product_meta": {
+    "title": "Rachio WiFi Smart Lawn Sprinkler Controller, 16-Zone 2nd Generation, Alexa and Apple HomeKit Compatible with Rain, Freeze and Wind Skip",
+    "description": "Size:2nd Gen, 16 ZoneThe Rachio Generation 2 Smart Sprinkler Controller automatically creates watering schedules that lower your water bill and ensure a beautiful yard, while the mobile app lets you manage your sprinkler system from anywhere. Transformer Power Input - 120V AC / 60Hz",
+    "rating": 4.6,
+    "feature_bullets": [
+      "5-STAR RATINGS. Amazon\u2019s most- and highest-rated WiFi sprinkler controller.",
+      "Avoid watering in the rain. Exclusive weather intelligence automatically skips unnecessary watering with features like rain skip, wind skip, freeze skip, and more.",
+      "Control from anywhere with the easy-to-use app. Run sprinklers, view upcoming schedules, and observe your estimated outdoor water usage.",
+      "Experience fast DIY installation. Rachio Smart sprinkler controllers replace 99% of existing sprinkler controllers. Install in 30 minutes or less with no special tools needed. Our in-app installation tutorial helps you get online and watering in no time!",
+      "Deliver all the water your plants need; no more, No less. Rachio creates tailored Smart schedules based on the specific needs of your lawn, including plant type, soil type, sun exposure, and more."
+    ],
+    "specifications": {
+      "Product Dimensions": "9.25 x 1.5 x 5.5 inches",
+      "Item Weight": "2.5 pounds",
+      "Department": "Lawn and Garden",
+      "Manufacturer": "Rachio",
+      "ASIN": "B019885NZG",
+      "Item model number": "16ZULW-B",
+      "Batteries": "6 AA batteries required.",
+      "Customer Reviews": "4.6 out of 5 stars3,907 ratings4.6 out of 5 stars",
+      "Best Sellers Rank": "#2,344 in Patio, Lawn & Garden",
+      "Is Discontinued By Manufacturer": "No"
+    },
+    "categories": [
+      "Patio, Lawn & Garden",
+      "Garden & Outdoor",
+      "Watering Equipment",
+      "Automatic Irrigation Equipment",
+      "Gardening & Lawn Care",
+      "Irrigation System Controllers"
+    ],
+    "price": ""
+  }
+}

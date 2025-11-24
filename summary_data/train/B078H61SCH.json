@@ -1,0 +1,585 @@
+{
+  "website_summaries": [
+    {
+      "verdict": "The best reference and guide book on Java programming written in a more practical, real world way.",
+      "pros": [
+        "Teaches many concepts of how Java works behind the scenes of the code itself, into how the language works",
+        "Provides guidelines and tips for cleaning programming with the language"
+      ],
+      "cons": [
+        "The author takes more time to explain the \"why\" behind things than other quick-learning books"
+      ],
+      "aspects": {},
+      "publication_date": "",
+      "rating": "",
+      "source": "bestreviews"
+    }
+  ],
+  "customer_reviews": [
+    {
+      "title": "A great explanation of not only the how, but the why",
+      "text": "I read this book with almost no background in Java. I've been programming for more than a decade, so picking up the semantics of a language like Java isn't particularly time consuming. What DOES take time is learning best practices and developing an understanding of what makes them best practices. This book delivers both again and again. More than any other object of study, it accelerated my understanding of the language.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "B. Beck",
+      "helpful_votes": 25,
+      "publication_date": 20180409
+    },
+    {
+      "title": "Makes me a little unsure about Java",
+      "text": "There are several formatting issues (indentation) in the Kindle edition in almost every code snippet. Several years ago I read the previous edition; I learned this is the best book for relearning those little bits and pieces that make Java... Java. This edition is no different. I noticed this edition spends a lot of time discouraging several obsolete practices and framework classes. More what not to do than what to do. Has an overall negative vibe throughout.",
+      "rating": 3.0,
+      "verified": true,
+      "author": "Travis Parks",
+      "helpful_votes": 15,
+      "publication_date": 20181209
+    },
+    {
+      "title": "Solid Improvement On A Great Resource",
+      "text": "Josh Bloch hasn't lost his touch! He's added many improvements to a valuable resource for Java developers. 1) Try with resources and AutoCloseable. This is an important edition to a Java dev's toolkit since Java 7 and it reduces the possibility of resource allocation and exception handling errors. 2) Stream, and lambdas: Bloch talks about best practices for the most important additions to Java since generics, including, interestingly enough, avoiding using Streams *too much*. 3) Optional and static methods in interfaces. Bloch asks developers to consider usage of Optional carefully for performance reasons. Oddly enough, he doesn't discuss Java 9 modules that much, but personally I don't mind as I have issues with the way they were implemented.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Luke",
+      "helpful_votes": 6,
+      "publication_date": 20181221
+    },
+    {
+      "title": "Good content, but don't buy the Kindle version",
+      "text": "This is a solid book on Java and worth reading. Sadly, the Kindle version has some serious bugs. If you touch any code sample, the device jumps you to a very far away location in the book (e.g. from 11% to 97%) and there is no way to get back. You just have to reconstruct where you were, which is a slow process on an e-reader. I wish I could say that the problem is avoidable, but I find that I frequently touch the code snippets by accident as I click from page to page or just unintentionally brush the screen. Clearly, this wasn't tested very well!",
+      "rating": 2.0,
+      "verified": true,
+      "author": "Aaron Lipeles",
+      "helpful_votes": 5,
+      "publication_date": 20200109
+    },
+    {
+      "title": "Great update to the essential classic",
+      "text": "Essential update to the classic. If you are like me and you'd been waiting for the update to this - covering additions in the Java language since it was written, here it is! As interesting as the additions are the removals. Instead of showing you the old, double-locked singleton - the advice is to not do that at all, and use dependency injection. I don't disagree.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Porter Woodward",
+      "helpful_votes": 9,
+      "publication_date": 20180219
+    },
+    {
+      "title": "I feel like I get something more out of it every time ...",
+      "text": "This comes in handy every day at work. I feel like I get something more out of it every time I read it. I'm a fairly new engineer but this is effectively the bible of Java (no pun intended)",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Archana Burra",
+      "helpful_votes": 9,
+      "publication_date": 20180721
+    },
+    {
+      "title": "This continues to be authoritative. It is the Bible ...",
+      "text": "This continues to be authoritative. It is the Bible on Java programming. I cite it often to my Java students. Get it and dog-ear it to death.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "J. M. Morrison",
+      "helpful_votes": 8,
+      "publication_date": 20180423
+    },
+    {
+      "title": "Core book to have",
+      "text": "The principles presented in this book is core to being a good Java developer. Joshua Bloch knows his stuff and I've ended up with multiple editions of this book over the years. The digital version is nice since you can have it anywhere, but I started with the paperback version and thumbed through the physical book in a dedicated setting. That helped making it stick. The code is easier to read on paperback than a Kindle, so if you've digital version, try to read it on a bigger computer screen.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "AnotherUser",
+      "helpful_votes": 0,
+      "publication_date": 20201021
+    },
+    {
+      "title": "Great book",
+      "text": "Great Java insights for a Java professional. Absolutely not for a beginner.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Temamen",
+      "helpful_votes": 2,
+      "publication_date": 20190903
+    },
+    {
+      "title": "A lot of good information on design patterns too",
+      "text": "This book actually have a lot of content of design patterns, and unlike the gang of four design patterns, these are very practical. I applied these patterns in my recent work and the result is very satisfying",
+      "rating": 5.0,
+      "verified": true,
+      "author": "sally",
+      "helpful_votes": 0,
+      "publication_date": 20191120
+    },
+    {
+      "title": "Already a new classic",
+      "text": "A new edition of a classic. Bloch delivers, again, a wide and clear explanation of how to do effective when it comes to programming in Java.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Goku",
+      "helpful_votes": 0,
+      "publication_date": 20180703
+    },
+    {
+      "title": "Great advice and guidelines in this new edition",
+      "text": "Great advice and guidelines in this new edition that I've used and referred to countless times. A classic for the Java programmer of any level.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Gary D. Gregory",
+      "helpful_votes": 0,
+      "publication_date": 20200120
+    },
+    {
+      "title": "Effective java is effective for who knows java already but not for Beginners",
+      "text": "This book is not for beginners, it\u2019s for who already known java with good extent. Book is nice and provided in depth concepts for middle/senior level programmers but will not work who want to start/learn first time with straight forward descriptions with simple explanations and examples.Thanks",
+      "rating": 4.0,
+      "verified": true,
+      "author": "Deepthi.P",
+      "helpful_votes": 0,
+      "publication_date": 20190513
+    },
+    {
+      "title": "Great Book",
+      "text": "It's a very good book. It deals about problems that I had never thought about in past, but it's very specific about OOP implementation in Java.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "marco",
+      "helpful_votes": 0,
+      "publication_date": 20180725
+    },
+    {
+      "title": "must read",
+      "text": "I highly recommend this book to everyone who has already got some understanding of Java and eager to write production code. It contains practical knowledge improving low-level design skills. Probably the chapter about serialization will become redundant in the nearest future. I would skip it at all.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Amazon Customer",
+      "helpful_votes": 0,
+      "publication_date": 20180810
+    },
+    {
+      "title": "This should be in every Java programmer's tool box",
+      "text": "This is an excellent book that focuses on the best ways to use Java. It bridges the gap between the language reference manuals and practical design and implementation.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Leslie R. Hayden",
+      "helpful_votes": 0,
+      "publication_date": 20200105
+    },
+    {
+      "title": "Very Nice Experience",
+      "text": "Like: 1. Perfect Delivery time 2. Item Exactly as described",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Hala3amme",
+      "helpful_votes": 0,
+      "publication_date": 20190503
+    },
+    {
+      "title": "Java Bible",
+      "text": "I can't say enough how much this book has helped my career! It's a must-have if you work with Java and it stands alone as the definitive guide if you're starting out in the language or are well experienced. Must-buy.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Nelson",
+      "helpful_votes": 0,
+      "publication_date": 20190224
+    },
+    {
+      "title": "you better read this",
+      "text": "one of the best books out there if you want to improve your skill in java and programming overall.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "vishnu meduri",
+      "helpful_votes": 0,
+      "publication_date": 20190807
+    },
+    {
+      "title": "Awesome book",
+      "text": "Awesome book, explains a lot of programming problems that you will face every day, and show several solutions which progressively explains with pros and cons which one is the best one.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Tony Brice\u00f1o",
+      "helpful_votes": 0,
+      "publication_date": 20190331
+    },
+    {
+      "title": "Great java book.  Recommend to all java devs.",
+      "text": "Used this as source material in a professional programmers' book club. It's very dense, but that's engineering for ya. Great examples and written in the classic opinionated programmer style. Overall, his positions are well argued and concise.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Steve French",
+      "helpful_votes": 0,
+      "publication_date": 20181228
+    },
+    {
+      "title": "Does exactly what the previous two editions did for Java ...",
+      "text": "Does exactly what the previous two editions did for Java up through Java 9. This should be considered essential reading for anyone doing significant Java programming.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "M. Lewis",
+      "helpful_votes": 2,
+      "publication_date": 20180502
+    },
+    {
+      "title": "Great advices on lambda",
+      "text": "This is third version of old classic. Great advices on lambda, streams and other new things since Java 7 and beyond.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Vitaliy Lerner",
+      "helpful_votes": 3,
+      "publication_date": 20180228
+    },
+    {
+      "title": "Great book for Java developers",
+      "text": "Great book for Java developers. You may need some industrial experience to really understand the importance of the advices in the book.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Sen",
+      "helpful_votes": 0,
+      "publication_date": 20180704
+    },
+    {
+      "title": "Java Bible for developers",
+      "text": "One of my friends recommend me to this book I\u2019m really glad that it has second edition. This is basically the Java Bible book that Every Javadeveloper needs to read.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Megan Lee",
+      "helpful_votes": 0,
+      "publication_date": 20190110
+    },
+    {
+      "title": "A great book for an experienced java developer!",
+      "text": "An excellent book for advanced java programming! It lets you correct mistakes you were doing without noticing while it gives you a set of proper pattern approaches for many different circumstances!!!",
+      "rating": 5.0,
+      "verified": true,
+      "author": "kostis kagiambakis",
+      "helpful_votes": 0,
+      "publication_date": 20190519
+    },
+    {
+      "title": "Just an amazing book.",
+      "text": "3rd edition of the Java developers bible. Just an amazing book.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "B. Meike",
+      "helpful_votes": 0,
+      "publication_date": 20180617
+    },
+    {
+      "title": "Good to have if you want to increas your Java skill",
+      "text": "It is nice book. Lot of things I didn't know before",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Jason",
+      "helpful_votes": 2,
+      "publication_date": 20180716
+    },
+    {
+      "title": "AWESOME LITERATURE",
+      "text": "I am a fan of this book since its first edition! Perfection!",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Sherwin John C. Tragura",
+      "helpful_votes": 0,
+      "publication_date": 20200312
+    },
+    {
+      "title": "Fantastic!",
+      "text": "This book is a real guide in programming world. Stuff that I\u2019ve already known and repeated as well as things I\u2019ve just learned made me question myself when coding.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Maciej",
+      "helpful_votes": 0,
+      "publication_date": 20180515
+    },
+    {
+      "title": "This book is fantastic",
+      "text": "I have no idea what I'm doing, but I know that I'm doing it confidently as I read this book.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Remi",
+      "helpful_votes": 0,
+      "publication_date": 20181227
+    },
+    {
+      "title": "The book I always recommend for java developers",
+      "text": "This book is fantastic for an intermediate java developer looking to improve their skills.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "GhostKing",
+      "helpful_votes": 0,
+      "publication_date": 20180928
+    },
+    {
+      "title": "Great information for experienced Java programmers",
+      "text": "I have been programming in Java for years but I still learned a ton from this book.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Amazon Customer",
+      "helpful_votes": 0,
+      "publication_date": 20180901
+    },
+    {
+      "title": "Best Java book ever",
+      "text": "I don't know any other book better than this one",
+      "rating": 5.0,
+      "verified": true,
+      "author": "HaoHao",
+      "helpful_votes": 0,
+      "publication_date": 20181212
+    },
+    {
+      "title": "A must-read book for any Java developer.",
+      "text": "Very informative and delving into details that are very important and most developers forget about them.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Ibrahim Abedalaziz",
+      "helpful_votes": 0,
+      "publication_date": 20191102
+    },
+    {
+      "title": "Elegant and Clear,",
+      "text": "In-depth but not verbose, one of the best Java books.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "L. Z.",
+      "helpful_votes": 0,
+      "publication_date": 20191013
+    },
+    {
+      "title": "Free ebook version with purchase of physical!",
+      "text": "You can go to their website, register the product and get the ebook for free! Sadly, no DRM-less downloadable version. But you can probably return the physical afterwards :P",
+      "rating": 5.0,
+      "verified": true,
+      "author": "hl",
+      "helpful_votes": 0,
+      "publication_date": 20200916
+    },
+    {
+      "title": "Very usefull",
+      "text": "Very usefull for Java developers with some experience to upgrade their skills on writing good Java programs.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Nick den Hartog",
+      "helpful_votes": 0,
+      "publication_date": 20190728
+    },
+    {
+      "title": "Bible for Java",
+      "text": "One of best books that Java programmer should read and learn",
+      "rating": 5.0,
+      "verified": true,
+      "author": "WonJae Lee",
+      "helpful_votes": 0,
+      "publication_date": 20190812
+    },
+    {
+      "title": "Essential reading if you code in Java programming language.",
+      "text": "High quality information packed resource you'll find yourself constantly getting back to in order to deepen your knowledge on the subject while on the path to mastery in your craft even if you're an advanced Java programmer already.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Amazon Customer",
+      "helpful_votes": 0,
+      "publication_date": 20181017
+    },
+    {
+      "title": "Takes your Java to a whole new level",
+      "text": "I've been programming java for 11 years....wow....did I have lots to learn!",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Kindle Customer",
+      "helpful_votes": 0,
+      "publication_date": 20180725
+    },
+    {
+      "title": "books that should definitely be read for software eng.",
+      "text": "books that should definitely be read for software eng. do not miss!",
+      "rating": 5.0,
+      "verified": true,
+      "author": "bilge",
+      "helpful_votes": 0,
+      "publication_date": 20190904
+    },
+    {
+      "title": "Every programmer worth a penny must read this",
+      "text": "Really great book. A true eye opener to a junior java developer.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Haris Koktsidis",
+      "helpful_votes": 0,
+      "publication_date": 20180812
+    },
+    {
+      "title": "Getting old",
+      "text": "The book is good! But it keeps talking about old stuff. It should be renewed.",
+      "rating": 3.0,
+      "verified": true,
+      "author": "Jonathan Loyola",
+      "helpful_votes": 0,
+      "publication_date": 20181127
+    },
+    {
+      "title": "Great content really bad material quality",
+      "text": "For a book that costs nearly $50, the paper quality of the book and the overall quality is too low. Book's pages were rumpled when I received them. The book has great content though.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "Aaditya Chauhan",
+      "helpful_votes": 0,
+      "publication_date": 20200922
+    },
+    {
+      "title": "Great book",
+      "text": "Great book, if you're looking to sharpen your skills or refresh them. Definitely recommend this book to everyone in the field.",
+      "rating": 4.0,
+      "verified": true,
+      "author": "Carlos",
+      "helpful_votes": 0,
+      "publication_date": 20190511
+    },
+    {
+      "title": "Outstanding well packaged book shipped at time!",
+      "text": "Absolutely met my expectations! The book was carefully packaged and arrived at time. A content of the book itself doesn't need to be presented! Distinguished as always!",
+      "rating": 5.0,
+      "verified": true,
+      "author": "KirylDrabysheuski",
+      "helpful_votes": 0,
+      "publication_date": 20190513
+    },
+    {
+      "title": "Book delivered with a tear",
+      "text": "There was a tear on the cover page when it was delivered",
+      "rating": 1.0,
+      "verified": true,
+      "author": "D",
+      "helpful_votes": 0,
+      "publication_date": 20200924
+    },
+    {
+      "title": "Five Stars",
+      "text": "A necessity for anyone with slightly more than a basic understanding of the Java language.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Drew",
+      "helpful_votes": 0,
+      "publication_date": 20180918
+    },
+    {
+      "title": "Still a masterpiece",
+      "text": "Well, although some could argue that there is nothing revolutionary and that it is \"only updated for Java 8+\" it still does not neglect that this book still is masterpiece and must a read for every serious JVM developer. I say JVM because I strongly recommend it to be read by any developer working on Java Platform regardless his/her primary language is Java, Clojure, Scala, Kotlin etc.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Rastko Soskic",
+      "helpful_votes": 5,
+      "publication_date": 20180321
+    },
+    {
+      "title": "Best handbook for a java dev",
+      "text": "Good book for people looking to get deeper into java.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "vikram ramachandran",
+      "helpful_votes": 0,
+      "publication_date": 20181224
+    },
+    {
+      "title": "Five Stars",
+      "text": "Classic book just got better. I was waiting for this one quite a bit.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Norbertas",
+      "helpful_votes": 0,
+      "publication_date": 20180517
+    },
+    {
+      "title": "Excellent update to a classic",
+      "text": "Having had the first edition of this book, so much has changed in the Java world since then. This update does an excellent version of incorporating new Java 8/9 features and idioms.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "mrnuxi",
+      "helpful_votes": 3,
+      "publication_date": 20180227
+    },
+    {
+      "title": "Very disappointed",
+      "text": "code snippets.... I hate code snippets. I need working code examples. Very disappointed!",
+      "rating": 1.0,
+      "verified": true,
+      "author": "Leonard J. Turrietta",
+      "helpful_votes": 0,
+      "publication_date": 20180825
+    },
+    {
+      "title": "Five Stars",
+      "text": "Great update to a useful reference to reflect changes in Java 8 and 9.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "MysteryGuest",
+      "helpful_votes": 2,
+      "publication_date": 20180118
+    },
+    {
+      "title": "Solid Gold",
+      "text": "Dear Joshua Bloch: Please. Keep. Writing. Books. The world still needs more books like this one.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "person4321",
+      "helpful_votes": 5,
+      "publication_date": 20180121
+    },
+    {
+      "title": "Five Stars",
+      "text": "Have been waiting for version 3 to be available for a while. Can't wait to read it.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Eve S",
+      "helpful_votes": 0,
+      "publication_date": 20180207
+    },
+    {
+      "title": "Should not buy it since I have 2rd edition.",
+      "text": "Kind of too similar to 2rd edition. I should not buy this version.",
+      "rating": 3.0,
+      "verified": true,
+      "author": "fatman1986",
+      "helpful_votes": 0,
+      "publication_date": 20180424
+    },
+    {
+      "title": "An established best practices guide",
+      "text": "A remarkable and established best practices guide got even better. An absorbing coverage of the new platform features adheres to the spirit of the previous editions.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Viacheslav Tarasov",
+      "helpful_votes": 5,
+      "publication_date": 20180113
+    },
+    {
+      "title": "Must read for any Java professional",
+      "text": "If you've ever questioned java programming standards you will either learn why they're important or why they're wrong (or outdated).",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Michael Kotlikov",
+      "helpful_votes": 0,
+      "publication_date": 20190107
+    }
+  ],
+  "product_meta": {
+    "title": "Effective Java",
+    "rating": 4.8,
+    "specifications": {
+      "Publication Date": "December 18, 2017",
+      "File Size": "30772 KB",
+      "Print Length": "414 pages",
+      "Word Wise": "Not Enabled",
+      "Publisher": "Addison-Wesley Professional; 3rd Edition (December 18, 2017)",
+      "Language:": "English",
+      "ASIN": "B078H61SCH",
+      "Text-to-Speech": "Enabled",
+      "Enhanced Typesetting": "Enabled",
+      "Simultaneous Device Usage": "Up to 5 simultaneous devices, per publisher limits",
+      "X-Ray": "Not Enabled",
+      "Lending": "Not Enabled",
+      "Customer Reviews": "/** Fix for UDP-1061. Average customer reviews has a small extra line on hover* https://omni-grok.amazon.com/xref/src/appgroup/websiteTemplates/retail/SoftlinesDetailPageAssets/udp-intl-lock/src/legacy.css?indexName=WebsiteTemplates#40*/.noUnderline a:hover {text-decoration: none;}"
+    },
+    "categories": [
+      "Kindle eBooks",
+      "Computers & Technology",
+      "Kindle Store"
+    ],
+    "price": ""
+  }
+}

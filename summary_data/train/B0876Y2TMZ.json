@@ -1,0 +1,958 @@
+{
+  "website_summaries": [
+    {
+      "verdict": "The Ryzen 3 3100 is a stellar CPU for budget gamers and content creators who have a dedicated video card, bringing major multi-threaded pep to the $99 price point. Even so, many shoppers will be better off springing another Jackson for AMD's great Ryzen 3 3300X instead.",
+      "pros": [
+        "Great gaming performance on a budget",
+        "Four cores and eight threads for under $100",
+        "Peppy content-creation potential for the price"
+      ],
+      "cons": [
+        "No on-die graphics",
+        "A bit too close in price to the superb Ryzen 3 3300X"
+      ],
+      "aspects": {},
+      "publication_date": 20200507,
+      "rating": 8.0,
+      "source": "pcmag"
+    }
+  ],
+  "customer_reviews": [
+    {
+      "title": "Great CPU.",
+      "text": "Bought 3700x as a replacement for my Ryzen 5 1600 and put it in my ASUS Prime B350-Plus running the latest BIOS (Version 5007). Out of the box the 3700x hits the max boost of 4.4GHz when not all cores are needed and when all cores are under load mine settles at 4.1GHz. Idle temps do seem to bounce around somewhat with it constantly settling between 36c and 43c and under load running Prime 95 the processor settles around 62c. Of course it is hard to show any sort of performance increase over the R5 1600 without many benchmarks etc but take my word for it the Ryzen 7 3700x is worth the investment.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "MrBelter",
+      "helpful_votes": 79,
+      "publication_date": 20190720
+    },
+    {
+      "title": "3200g. Failed to install drivers. No support from AMD",
+      "text": "Bought this as a test APU for B450 motherboards. Clean install of Windows 10. Every time I attempted to install the graphics driver from AMD, the system would restart and I'd get artefacts all over the screen and the system froze. Tried multiple times - same result. Contacted AMD support, waited 2 weeks and heard nothing. Returned item.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "Mr. B. to you",
+      "helpful_votes": 67,
+      "publication_date": 20190713
+    },
+    {
+      "title": "The new \"sweet spot\" CPU.",
+      "text": "Worthy upgrade from the Ryzen 5 1600. Gaming performance is a leap forward and overall desktop speed increase is also very noticeable. I dropped this into my MSI B350 Tomahawk Arctic motherboard, after installing the latest beta bios and it runs like a dream and lets me overclock my 3200 MHz Crucial Ballistix ram to 3600 MHz, without issue. Overall, very impressed.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "DW",
+      "helpful_votes": 11,
+      "publication_date": 20190730
+    },
+    {
+      "title": "amd exaggerated clock speeds and AMD Rewards scam",
+      "text": "This CPU barely if at all hits speeds on box, worst of all AMD rewards process, after providing proof of purchase still cannot redeem rewards offered with this product. Amazon should be ashamed advertising this with the AMD rewards as it is a borderline fake offer in my experience.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "D Morgan",
+      "helpful_votes": 12,
+      "publication_date": 20190821
+    },
+    {
+      "title": "Very fast!",
+      "text": "This is the best high end desktop CPU on today market which is not overpriced! For gaming or work, with the 3700X you can NOT go wrong! I building PCs over 20 years, and I'm super impressed.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "FeRRaR1",
+      "helpful_votes": 10,
+      "publication_date": 20190803
+    },
+    {
+      "title": "Good value for money",
+      "text": "This cpu has more power than most people can use, I upgraded from an fx 8350 and most of the time my cpu usage is 20 to 30 % on all cores and it's pushing my rx590 to 100% all the time very good value for money you really can't go wrong if you need to get up-to-date",
+      "rating": 5.0,
+      "verified": true,
+      "author": "GEDuk",
+      "helpful_votes": 7,
+      "publication_date": 20190809
+    },
+    {
+      "title": "Missing processor",
+      "text": "Be careful! I received mine opened and with the processor taken! Currently waiting on a replacement.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "Amazon Customer",
+      "helpful_votes": 11,
+      "publication_date": 20190928
+    },
+    {
+      "title": "fast",
+      "text": "I've had an i7 6850k for ages, it's fast, cost me a fortune, then thought I wanted something modern, so plunged for this 5 3600x Ere what can I say it's fast, a blinking lot faster the the i7 6850k.even keeps up with my work i9 9900k, wtf, and dirt cheap It just does 4k gaming with ease ( paired with an rtx 2080), for the price to performance it can't be touched, rip Intel. Great processor, great price, good cooler included, even on an msi b450 board it flys.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "norman b.",
+      "helpful_votes": 8,
+      "publication_date": 20190810
+    },
+    {
+      "title": "Extremely Great Value",
+      "text": "Compared to many of the intel chips, the performance over value is amazing and i would 100% recommend for a mid to high end budget gaming PC. Only thing to check is that you motherboard is compatible, many B450 motherboards require a previous gen chips (like a 5 2600) in order to bios update. So make sure your motherboard is ready out the box or has flash USB bios compatibility.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Jimi Di Griz",
+      "helpful_votes": 5,
+      "publication_date": 20190830
+    },
+    {
+      "title": "Bye Intel",
+      "text": "bought this to replace my aging I5 2400 and well it seems technology has moved on a fair bit in teh last 9 years :)",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Andrew",
+      "helpful_votes": 8,
+      "publication_date": 20190717
+    },
+    {
+      "title": "Don't use standart cooler if you plan to boost!",
+      "text": "Ok fox. With good cooling like Noctua nh-d15 or be quiet! Dark Pro 4 you will get 4.4Ghz on stock settings. That letter \"x\" mean automatic boost.Bottle neck of speed can be: Temperature of CPU (standart cooler for topical standart user - by the way fox termal pasta not hi quality better take mx-4) Motherboard VRM should have minimum 6 power phases. If you got smaller VRM will overheat in boost after you'll get throttling. And best and easy way to run on maximum or overlock from start it's good DDR4 ram speed from 3600 and minimum CL18. That's it fox. I tune CL Timming in XMP profile and put lower on 2 (exmpl standart is CL20 i put CL18)",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Kim",
+      "helpful_votes": 2,
+      "publication_date": 20191230
+    },
+    {
+      "title": "This more than halfed build times from my work stuff! Highly recommend over i7 6700k :)",
+      "text": "I had an i7 6700k and my build time of my work C++ project was approximately 5 minutes. The build time with the Ryzen 7 is 2 minutes. This makes my change iteration a lot faster and I am really enjoying it. Works fine in Manjaro Linux :) Thank you AMD. <3",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Gordon MacPherson",
+      "helpful_votes": 5,
+      "publication_date": 20190809
+    },
+    {
+      "title": "New CPU ruined existing parts. Seller didn\u2019t even bother to initiate refund upon return of item.",
+      "text": "The CPU arrived in visually good condition but when placed in the motherboard socket the pc would not turn on even though a prior BIOS update did occur, when the old CPU was placed back in the motherboard the PC turned on but would not POST, this implies that not only was the product faulty but it also ruined existing hardware as I have not been able to return functionality to the PC since placing the old cpu back in. Edit: Once the item was returned the seller didn\u2019t even bother to initiate a refund and had to contact amazon directly to get a refund",
+      "rating": 1.0,
+      "verified": true,
+      "author": "Thomas S.",
+      "helpful_votes": 4,
+      "publication_date": 20200620
+    },
+    {
+      "title": "Brilliant",
+      "text": "Exactly what I looked for, arrived in great time, be CAREFUL in ONE aspect. IF you use a Driver Installer Program to update all your PC drivers it may update your IDA ATA/ATAPI controllers to an AMD driver that DOES NOT WORK ON WINDOWS 10. This will make your system stutter. This is a common issue but the customer's fault. Simply go to Start and Search for Device Manager, Select IDA ATA/ATAPI Controller and if anything below that says anything other than \"Standard SATA ACHI Controller\" right-click it and select roll back. IF it DOES say \"Standard SATA ACHI Controller\" then you're okay. 10/10 great provider.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Eanna",
+      "helpful_votes": 2,
+      "publication_date": 20200724
+    },
+    {
+      "title": "Works extremly fast!",
+      "text": "You need last Windows update before installation any drivers, especially with x570 chipset motherboards plus updated BIOS. I wast struggling for two days, before doing that. After update installation was smooth like a butter. Of course could be faster, but to be honest are you going to use 100% of capability anyway?",
+      "rating": 5.0,
+      "verified": true,
+      "author": "ADAM WARZOCHA",
+      "helpful_votes": 5,
+      "publication_date": 20190809
+    },
+    {
+      "title": "False advertisement.",
+      "text": "Not value for money given it won't boost anywhere close to 4.4, regardless of BIOS config.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "Aaron Ferris",
+      "helpful_votes": 8,
+      "publication_date": 20190823
+    },
+    {
+      "title": "Great value, rip intel",
+      "text": "Remind me again why intel is the leader un Market share. AMD are dominating the market from budget CPUs all the way up to top tier many core workstations processors. This cpu destroys the I9 9900k by 50% in most workstation loads and only falls back by almost a margin of error in gaming due to Intel's higher clock speed on the i9. An absolute bargain and well worth the peice over intel. Also incredibly easy to overclock and undervolt to get temps lower as the default voltage is 1.43v which is a bios issue with x570 boards, not the cpu to be clear.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "SpazticBacon",
+      "helpful_votes": 2,
+      "publication_date": 20200331
+    },
+    {
+      "title": "Undoubtedly the best value for money gaming CPU",
+      "text": "I paid about \u00a3167 for the Ryzen 5 3600 including a decent cooler where as the Intel equivalent, the i5-10600K costs \u00a3249 without a cooler. Admittedly the Intel I5 is slightly better in benchmarking but it's at least \u00a3100 dearer including a cooler. The only downside is the supplied Wraith Stealth cooler is a bit fiddly to install although that's maybe because I've never fitted a CPU & cooler before. It's remarkably good for a bundled cooler as it looks good and it's quiet. Support AMD and the competition will force Intel to stop charging a fortune for it's products.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Ian R Humphrey",
+      "helpful_votes": 0,
+      "publication_date": 20200829
+    },
+    {
+      "title": "Good processor, noisy cooler fan",
+      "text": "You probably know all about the processor so I'm not going to write about it. The thing is, it comes with a cooler. It's good so you can use the processor right out of the box. On the other hand the cooler is so so and, crucially, the fan is very noisy. I replace the fan with an 80mm Noctua fan within 48h and that made a huge difference. Bottom line: You're going to replace the fan, if not the whole cooler, so AMD could really sell this with the cooler and drop a tenner from the price and everyone would be happy.",
+      "rating": 4.0,
+      "verified": true,
+      "author": "Prime Candidate",
+      "helpful_votes": 0,
+      "publication_date": 20200629
+    },
+    {
+      "title": "Great budget cpu. Be warned if you use a descrete GPU in a x16 pcie slot it will only run at x8",
+      "text": "Had to send back as ordered wrong item. Be warned this cpu only provides a x8 pcie on your x16 slot for let's say a graphics card. And if you use a pcie nvme ssd this reduces even more.. Great budget cpu. Be warned if you use a descrete GPU in a x16 pcie slot it will only run at x8 if your using GPUs and nvme ssds you need Ryzen 5, 7, 9 I'm buying the 3700x or 3800x",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Steven L",
+      "helpful_votes": 3,
+      "publication_date": 20191006
+    },
+    {
+      "title": "Very versatile all round CPU",
+      "text": "What can I say. For the price - amazing. If you want to run Minecraft at 140fps without a graphics card, the built in vega gfx on this are heaven sent. I paired it with an x470 motherboard on offer for about \u00a355. By the time I had bought memory, a 1tb hard drive, a case and a power supply, I had built an entry level gaming PC for my son for about \u00a3220. We already had an OS though. It will even run more proper games at mid to low settings at 1080p. These AMD APU\u2019s really are impressive little bits of kit for the price.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Mr. P. D. Clarke",
+      "helpful_votes": 0,
+      "publication_date": 20200207
+    },
+    {
+      "title": "Amazing value for money",
+      "text": "Bought this to replace an old build with an ageing 4690k and not disappointed. Absolute stellar performance for the money. Intel doesn't even come close in performance per pound. AMD have got all CPU tiers locked down and with the (admittedly hard to find) 3100 and 3300X release they've given themselves a bit of a headache - can't make them fast enough! Don't worry about waiting for Zen3; It'll be Socket AM4 so a 4000 series chip will drop right in if you fancy it down the line. Point worth noting, if you purchase this cpu and plan on upgrading to Zen3 make sure you put it in a X570 or soon to be released B550 motherboard.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "MrsC",
+      "helpful_votes": 2,
+      "publication_date": 20200509
+    },
+    {
+      "title": "An excellent cpu",
+      "text": "Probably the easiest CPU installation I've ever done, coming from the blue side. Paired with an x570 matx mobo and 32gb DDR. The included cooler works ok, but is a little noisy under load. If you are looking to OC I'd investigate aftermarket solutions but for the general users it would suffice. Performance has been excellent, especially in core heavy tasks like photo editing. Gaming performance is good, with my graphics card now being the limiting factor at Ultra wide settings.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Adrian",
+      "helpful_votes": 0,
+      "publication_date": 20200114
+    },
+    {
+      "title": "Very impressive",
+      "text": "Just upgraded from a 1600 to a 3600. Works fine on a Asus ROG X370-F motherboard, all you need is the latest BIOS and just drop this bad boy in. The processor is an absolute powerhouse at this price point and coupled with a Radeon 5700 XT provides the best balanced 1440p gaming system at this time.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Mr. N. J. Maclean",
+      "helpful_votes": 4,
+      "publication_date": 20190909
+    },
+    {
+      "title": "Budget build champion",
+      "text": "This CPU is excellent choice for a budget / entry level gaming PC, as it offers you so much choice in terms of upgrade paths. The onboard graphics are capable enough you can do some basic gaming on the onboard graphics initially, until you've saved enough money so that you can upgrade your PC by installing a dedicated graphics card at a later date. There are also a wide range of CPUs that will work in the AM4 socket, so you even have the option to upgrade the CPU itself in the future.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Timbudong",
+      "helpful_votes": 0,
+      "publication_date": 20200730
+    },
+    {
+      "title": "awesome!",
+      "text": "6cores, 12 threads and 4.3ghz performance boost? and cheaper than the intel counter part? it's an instant yes.. performance is fantastic and pairs well with a GTX 1080 or higher (ti, 20 series)",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Matthew Kaye",
+      "helpful_votes": 3,
+      "publication_date": 20190818
+    },
+    {
+      "title": "Not bad...",
+      "text": "The CPU, though almost 4 years old is great for running many modern games and even for emulation. My only complaint is that the cooler supplied in the box isn't quite powerful enough to match the Ryzen's heat output with temperatures reaching as high as 70 C under a moderate load. If you're going to purchase this with the intention of running higher end games, be sure to purchase a decent cooler to go with it.",
+      "rating": 4.0,
+      "verified": true,
+      "author": "Max Nicholson",
+      "helpful_votes": 2,
+      "publication_date": 20200103
+    },
+    {
+      "title": "I think I got lucky with mine",
+      "text": "Not having any of the issues others have had. Boosts to 4.65GHZ Under an all core workload maintains 4.2GHZ Paired with an X570 Taichi with ABBA agesa If you are gaming at 1440p there will be NO real difference between this and a 9900KS Whereas productivity wise it beats the snot out of it.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Mr. G. A. Tallowin",
+      "helpful_votes": 3,
+      "publication_date": 20191107
+    },
+    {
+      "title": "Performance",
+      "text": "Good bye intel, i sold my i7 7700k, and i start use amd ryzen 7 3700x. Very happy",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Lauris",
+      "helpful_votes": 4,
+      "publication_date": 20190815
+    },
+    {
+      "title": "What a BEAST honestly.",
+      "text": "16 Cores, what else can I say? The price is good because at the end of the day this is a great Ryzen CPU and not a TR which might seem overpriced or maybe too powerful and expensive. I got this CPU water-cooled with the DeepCool Captain 360 mm and it doesn't go over 50C ever. Amazing. I run 2-3 Virtual Machines at the same time and with this CPU I can easily give each machine 2/4 cores to run well, I'm in love with AMD products and what they've been doing so far. Amazing work AMD, keep it up.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Stefan P. Bargan",
+      "helpful_votes": 0,
+      "publication_date": 20200501
+    },
+    {
+      "title": "So happy I made this purchase",
+      "text": "I bought this CPU in exchange for my AMD Ryzen 1700. I installed the 3900x in a x470 TUF Motherboard with no problems what so ever. All is needed is for the BIOS to be updated so it can run 3rd gen AMD CPUs. For gaming and streaming abilities this CPU is insane and I highly recommend this. You don't need to go for a x570 mobo it will save you money if you just go for a x470 and update the BIOS. So proud I purchased this and I even learn't how to do it myself.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Dylan",
+      "helpful_votes": 3,
+      "publication_date": 20200105
+    },
+    {
+      "title": "Zen 2 architecture is awesome",
+      "text": "Upgraded from a ryzen 1700 and still noticed the difference in the Zen 2 architecture, Gaming is better with the single threaded improvements, productively is up also, I do a lot of video editing and this chip is nice and quick and I'm able to keep on top of everything more easy. The best bang for the buck CPU I've ever bought considering how long it will be relevant for & how much performance you get across all work loads. I got it shortly after launch date and haven't had any issues",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Tek Evolved",
+      "helpful_votes": 0,
+      "publication_date": 20191226
+    },
+    {
+      "title": "Very Fast",
+      "text": "It is very very good so far no problems with it, but you would be advised not to get a X470 motherboard or below if you want to get this, unless you want a great deal of running around with AMD. Two major snags with it, updating the BIOS and getting the Boot Kit from AMD, and the length of time it took them to get it out to me, I was waiting for a month.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Fear",
+      "helpful_votes": 2,
+      "publication_date": 20190901
+    },
+    {
+      "title": "Great CPU.",
+      "text": "Whats various videos and benchmarks. Unless you have money to burn, going for higher cpu's for todays games seems a tad pointless, this can handle all of them fine, and while some titles do run faster on higher cpu's you seem to be spending a premium for very little extra performance. (Though obviously if you have money to burn......) I upgraded from an fx8350 which seemed to be doing the job, however I have noticed a big increase in a lot of games, in particular older games that generally do most of the work on a single core. (this has twice the single core performance over an fx, for the same ghz). Very happy at my upgrade.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Mr. C Cowey",
+      "helpful_votes": 0,
+      "publication_date": 20191117
+    },
+    {
+      "title": "Get the 3600.",
+      "text": "Only boosts to 4.25Ghz, not 4.4 as stated. I'm on a x570 board, and userbenchmark results confirm it's working as it should. I suspected after reading reviews, but the 3600 was sold out everywhere at the time. In spite of this the chip itself is excellent. Cpu intensive games like AS Oddessy fly along. Leaves the i5 8400 in the dust for the same money. Runs a little hot, but I suspect that will change with bios updates for the 570 chipset.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Mr. R. L. Vandenbergh",
+      "helpful_votes": 0,
+      "publication_date": 20190827
+    },
+    {
+      "title": "Ideal starter CPU !!!!!",
+      "text": "I bought this CPU for a basic pc with a little bit of graphical power (Intel don't offer that yet !!). The cpu features 4 cores and 4 threads. Under normal desktop operation the cpu performed very well. It will run older games at 1080p with low settings. Capable of running fortnite decent at 720p also. Most recent titles I have tried run at 720p low settings and are very playable. This processor is ideal for anyone on a low budget and just starting a gaming pc. It has enough power to be paired with a dedicated graphics card once your budget allows. Overall I'm impressed with the performance of this CPU for the price.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Craig",
+      "helpful_votes": 0,
+      "publication_date": 20200529
+    },
+    {
+      "title": "A bit slow",
+      "text": "I\u2019m afraid in benchmarks I got 0 FPS. No amount of overclocking would help. Might be explained by the fact there was only a block of foam in the box.  \u0304\\_(\u30c4)_/ \u0304",
+      "rating": 1.0,
+      "verified": true,
+      "author": "Kih",
+      "helpful_votes": 5,
+      "publication_date": 20200425
+    },
+    {
+      "title": "Serious issues with Vengence LPX RAM! (CMK16GX4M2B3200C16W )",
+      "text": "The good stuff: Excellent value for money, perfect performance for needs, reasonable power consumption. The bad stuff: Had some serious issues with my Ryzen 3600X build on a B450 due to Corsair Vengence LPX RAM! (CMK16GX4M2B3200C16W ) System started off by crashing frequently then stopped posting altogether after XMP mode was enabled at rated speed. No amount of resets/bios flashes would recover the system. Same on X570. Is posting ok with G.Skill RAM but are yet to test fullly.",
+      "rating": 4.0,
+      "verified": true,
+      "author": "Mr. Flux",
+      "helpful_votes": 0,
+      "publication_date": 20191128
+    },
+    {
+      "title": "A very good APU for a very reasonable price.",
+      "text": "After trying other APUs, this is by far the best one in this price range. I used it to build a small business workstation, and it's running really well. I had to place an older Ryzen 7 CPU in the motherboard so that I could upgrade the BIOS to take this APU. I havent tried it on games, but it plays 1080p video with no problems. It runs quite cool and a heavy load would only take it to 42\u00b0, so the included 'Wraith' cooler seems to be doing the job. Be aware that this APU will 'steal' 2GB of your system RAM to use for graphics.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "SoupPatLip",
+      "helpful_votes": 0,
+      "publication_date": 20200110
+    },
+    {
+      "title": "Great performance for the price",
+      "text": "Use my pc for work but mainly for gaming (mostly CS:GO), and this more than delivers. I coupled it with an RX590 graphics card, and at peak, it never reaches more than 70% usage (and maxes out at 67\u00b0C) while the graphics card gets to 100% regularly (and reaches up to 74\u00b0C). Using it as a normal workstation, it performs perfectly with no complaints at all. So far no issues whatsoever, really happy with it.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Hazem",
+      "helpful_votes": 0,
+      "publication_date": 20200809
+    },
+    {
+      "title": "AMD Rysen 5, needs graphic card to use",
+      "text": "Needed a low cost fast system. This only works with extra graphics card as none build in, with 2 different Motherboard's, despite previous research and assured worked \" Straight out of the box with MBrd without mentioning Graphics card. Also get annoying messages with Windows 7, that this \"CPU IS ONLY SUITABLE FOR A LATER VERSION OF WINDOWS\" Finally got rid of message, by applying various drivers to board. Best buy a CPU with graphics builtin, although this one probably ok in short term for \"Games Machine\" with high cost Graphics card as norm, but gamers keeping up speed would go for a later model.",
+      "rating": 4.0,
+      "verified": true,
+      "author": "Amazon Customer",
+      "helpful_votes": 0,
+      "publication_date": 20200419
+    },
+    {
+      "title": "RETURNED",
+      "text": "Not too sure what to say except, initially everything worked fine then i started having many different issues, my setup was x470 mb and r5 3600. I had to reinstall windows 10 3 times (bearing in mind i have 20+ years software/hardware experience) and really could not understand \"why\" the only logical explanation was compatibility with windows?? This is my personal experience and implies nothing detrimental towards AMD after all I have used them for 20 years, buying 95% of my components from Amazon - BUT decided, regardless of benchmarks to give Intel a go, ie i7 9700-Happy",
+      "rating": 3.0,
+      "verified": true,
+      "author": "jon peter",
+      "helpful_votes": 0,
+      "publication_date": 20200108
+    },
+    {
+      "title": "Best bang for buck -future proof CPU out there as of Mar2020",
+      "text": "Best bang for buck -future proof CPU out there as of Mar2020 Does this multi task - Yes! Running on the stock cooler, using ARCTIC MX-4, happily overclocks, the performance is beast like. & with the soon to appear next generation consoles running CPU's with 16 threads, I'd recommend having the extra threads to deal with the Windows bloat. (the days of single core thread performance is going the way of the dinosaur, don't pay out extra for an extinct feature). This is AMD's time to shine, enjoy, hopefully Intel will be back with something to compete 2023+",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Dizzy Dave Willis",
+      "helpful_votes": 0,
+      "publication_date": 20200313
+    },
+    {
+      "title": "The best in its category",
+      "text": "I bought this CPU because, according to all the reviews, it is the best choice if you. Want a well balanced CPU for gaming to do some occasional heavyweight work. With its 6 cores and 12 threads It is not only quicker that the corresponding i5 but also beats in a lot of benchmarks some core i7. I'm using it mainly for gaming and I'm very happy about its performance ( with an rtx 2060 is able to run games at 144p without any problems) In the box you will find also a stock heat sink I have also received an Xbox pass for 3 month",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Peppe",
+      "helpful_votes": 0,
+      "publication_date": 20191230
+    },
+    {
+      "title": "Fantastic budget processor!",
+      "text": "Bought for a build to sell, combining it with a GTX1660 super. It's a really good match and doesn't bottleneck the GPU. It's about \u00a325 cheaper than the next best 3300x, which I also own, and there's probably a 10-15% difference in performance, but in most 1080p gaming situations you won't notice any difference. It runs quite cool and is sufficiently cooled with the supplied cooler (unlike the last 3600 I bought!). Definitely my go-to CPU for doing a budget build. I'd recommend this to anyone. Quick delivery too. Thanks.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Mr. Kane",
+      "helpful_votes": 0,
+      "publication_date": 20201008
+    },
+    {
+      "title": "Caution when ordering (even direct from Amazon)",
+      "text": "I've just received a supposed delivery of a 3900x today from Amazon (not a third party seller). The box was in perfect condition and the \"seal\" was intact. Upon opening though the CPU itself was missing and the box only contained the heatsink. When looking at the seal it's just a regular sticker that would take no effort to remove and replace. Be careful and make sure you can see the CPU through the plastic window on the top of the box (I was in such a hurry that I didn't check).",
+      "rating": 1.0,
+      "verified": true,
+      "author": "Buck Russell",
+      "helpful_votes": 0,
+      "publication_date": 20200718
+    },
+    {
+      "title": "Best bang for buck",
+      "text": "There isn't a lot to say about this, for \u00a3150 this is the best CPU you can buy in 2019-2020, no question. It was a great upgrade over my 1600, with an easy 20-30% extra FPS in games. The stock cooler is just about doing the job, but it's noisy, and with 50-60C idle, 85C under load, you might want to get a cheap \u00a330 tower cooler and bring the temps down.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Q. Coret",
+      "helpful_votes": 0,
+      "publication_date": 20200620
+    },
+    {
+      "title": "Extremely unhappy!",
+      "text": "Was looking forward to putting together my new PC but when I checked what had been sent, I noticed it was a used FX8350 in the ryzen 3600 box. Minus star option not available. I'm sure when I do get a proper 3600 I'll be able to give it 5 stars.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "Ciaran",
+      "helpful_votes": 4,
+      "publication_date": 20190930
+    },
+    {
+      "title": "Excellent Mid range Processor,",
+      "text": "Had to replace my old Intel Core i7 Extreme Processor with something new as my Mobo didnt support Windows 10 when Windows 7 ended in January. Chose a mid range processor for Value and Speed. Worked out of the Tin. Comes with a AMD Cooler as well which I didn't use (shame AMD don't provide one without to reduce the cost, packaging and save the environment) for people using third party coolers such as I have, so I have knocked a star off for that, otherwise an excellent processor that can stand up to whatever I have thrown at it so far!",
+      "rating": 4.0,
+      "verified": true,
+      "author": "S. Little",
+      "helpful_votes": 0,
+      "publication_date": 20200326
+    },
+    {
+      "title": "A very solid CPU for 1080p gaming",
+      "text": "I bought this CPU with an RTX2060 to play max setting games at 1080p with a frame rate above 60FPS. I found it incredibly easy to install with very clear instructions, despite this being the first ever CPU I had installed. The product is clearly of good quality and I used the stock CPU fan which looks very nice. I overclock this product to 4200Mhz with this fan with no problems at all and excellent performance. Excellent value for money as a mid-range performance CPU. I would recommend this product for a medium range gaming PC running at 1080p. Good value for money and very easy to install. Great stock CPU fan that looks great and performs well with overclocking.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "David G",
+      "helpful_votes": 0,
+      "publication_date": 20200325
+    },
+    {
+      "title": "Blazingly fast, incredible powerful",
+      "text": "The Ryzen 9 3950X surpassed all my expectations. It tears through multi-threaded workloads at an immense speed. It has a great single thread performance too. With liquid cooling (Corsair H100i), it keeps well below its thermal throttling limit even at full workload. I thought it looked pricey at first, but then I threw demanding work at this CPU and saw how well it tore through it. Now I honestly think they could charge \u00a3900 for it and it would still be worth the money. If you are doing any demanding tasks such as content creation, training AI, or data science, this CPU will serve you very well indeed.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "michaeljtbrooks",
+      "helpful_votes": 0,
+      "publication_date": 20200803
+    },
+    {
+      "title": "Absolute monster for a good price",
+      "text": "I wanted to wait for 4xxx to upgrade my 4790k, but my motherboard started dying so I decided I might as well buy this one, for the price it's a great deal and will last for years. Great for any work relying on CPU, compiling large codebases, encoding videos, multitasking in general. You can play a game and run something resource heavy in the background, and it matches or beats i9s in games as well. The only downside is that you really need a good cooler but with 12 cores running above 4GHz most of the time it's not really surprising.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Kamil",
+      "helpful_votes": 0,
+      "publication_date": 20200618
+    },
+    {
+      "title": "Excellent value for money",
+      "text": "Awesome Apu. The games actually look alot better than u would expect for an Apu. To be fair I only put a hat in time and slime rancher on it as well as Minecraft. My son likes to use Firefox and Chrome at the same time while having 20 tabs open. He also watches videos on MPC and converts videos at the same time. The processor handles it no bother . His ram must hate him tho . This is a great entry level chip for basic gaming at very low graphic settings . It's comparable to a PS4 or Xbox one for graphics .",
+      "rating": 4.0,
+      "verified": true,
+      "author": "Tracy Phimister",
+      "helpful_votes": 0,
+      "publication_date": 20200206
+    },
+    {
+      "title": "CPU",
+      "text": "Very easy to install if you ever build a pc, super fast for multitasking and its pretty fast with games too. A lot of room to upgrade as all you need is a dedicated Graphics card and this CPU will take in any game in full hd paired with rtx 580/590.(just for example)",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Lukasz Galon",
+      "helpful_votes": 2,
+      "publication_date": 20200713
+    },
+    {
+      "title": "Great product at a fantastic price",
+      "text": "Great product at fantastic price. I have managed to overclock it to 4.1Ghz all cores at 1.3v but cannot get 4.2ghz without using very high voltages and high temperature. I have tried Default, pbo and auto oc settings and it does boost to 4.2ghz on one core but multi core workloads it only goes to 3950mhz all core.",
+      "rating": 4.0,
+      "verified": true,
+      "author": "Thomas Ian Wrann",
+      "helpful_votes": 2,
+      "publication_date": 20190808
+    },
+    {
+      "title": "Amazing!",
+      "text": "I upgraded from an FX8350 and the difference is astonishing. My whole computer just got a massive refresh.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Amazon Customer",
+      "helpful_votes": 4,
+      "publication_date": 20190830
+    },
+    {
+      "title": "The Wraith Prism cooler",
+      "text": "This is purely for the attention of anyone interested in controlling the RGB of the cooler. If you use the RGB header cable to connect to your motherboard, you will only be able to control the FAN COLOUR ONLY! The ring colour and the AMD logo colour will NOT be controllable! If you want to control ALL of the RGB (Fan, ring and logo), you MUST use the USB header cable! (and then use separate AMD/Coolermaster software to control it) Absolutely ridiculous. I only found this out after I had fully finished my build, so now I have to disassemble it and rebuild (in order to cable manage properly) Hope that saves someone some heartache!",
+      "rating": 4.0,
+      "verified": true,
+      "author": "Gavin Gallagher",
+      "helpful_votes": 0,
+      "publication_date": 20200809
+    },
+    {
+      "title": "Good start for 3rd Generation",
+      "text": "Chip performs as stated, your basic Quad-Core with graphics. All you need for PUBGLite",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Mr David Gibbs",
+      "helpful_votes": 3,
+      "publication_date": 20200430
+    },
+    {
+      "title": "A beast of a cpu without breaking the bank.",
+      "text": "From such a small box great things do come. The AMD Ryzen 9 3950X 3.5 GHz 16-Core AM4 Processor is a powerful 16-core processor with 32 threads, designed for socket AM4 motherboards. Built with Zen 2 architecture, the third-generation 7nm Ryzen processor. It has a base clock speed of 3.5 GHz and can reach a max boost clock speed of 4.7 GHz. This is the best value to performance cpu in the market rite now. I would highly recommend it as my machine is now running like an unstoppable beast.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Jamie Mc Dermott",
+      "helpful_votes": 0,
+      "publication_date": 20200803
+    },
+    {
+      "title": "I'm talking like I know, but I dont",
+      "text": "Beginner builder. Simple, just throw up a youtube how to, you'll be fine. Its straightforward, and this will handle your average nerdy processes. Unless you have like a 4 screen setup, stream in 2million pee, have multiple rigs for crypto mining and provide half of the state of Nevada with their news and weather then ya know... Should go the one up maybe???",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Nova-Ryu",
+      "helpful_votes": 0,
+      "publication_date": 20200209
+    },
+    {
+      "title": "Buggy (or possible faulty CPU)",
+      "text": "Lovely processor but unfortunately seemed to have a huge bloody meltdown and ceased. Had an error come up 'Kernel Security Error' BSOD boot loop that has been nothing shy of an absolute pain in the arse to find due but after stripping out old computers and rebuilding over the last few days, testing every part of my computer for this error, it (oddly) manifested from this faulty CPU. Real weird but at least I've found the culprit! For anyone info, this was put onto a B450F ROG MoBo. :(",
+      "rating": 1.0,
+      "verified": true,
+      "author": "Mr.Thom",
+      "helpful_votes": 0,
+      "publication_date": 20201016
+    },
+    {
+      "title": "Not for gaming but fine for everything else",
+      "text": "I bought this because I wanted a desktop that didn't require a graphics card. For that, it's excellent, but if you do want to push the chip, and do some intensive gaming, move up to the Ryzen 3600x and beyond. For day to day use, it's fantastic (including using VM machines), for gaming, buy the processor that's higher up the food chain, even the 2600x. For ervery day use, this is a superb processor, especially if you're not in the market for a kicking graphics card.",
+      "rating": 4.0,
+      "verified": true,
+      "author": "Stewart K.",
+      "helpful_votes": 0,
+      "publication_date": 20200929
+    },
+    {
+      "title": "It's an AMD Ryzen 5 3600, yeah.",
+      "text": "This was CPU bought for a \"ground up\" new PC build as, in my estimation at the time, this was a good balance between price and available performance. In reality it would have been just as effective for me to utilise one of AMDs smaller (and cheaper) Ryzen processors, as it has proved quite difficult for me to get as many as half of the threads working at any time. One the plus side, with the stock cooler under \"normal\" loads, this CPU claims to be operating at between 40 and 50 Deg C which I still find amazing.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Amazon Customer",
+      "helpful_votes": 0,
+      "publication_date": 20200709
+    },
+    {
+      "title": "ITS A BEAST",
+      "text": "RYZEN 3 WAS PART OF MY 4K UPGRADE AND ITS RUNNING WIN10 LIKE A DREAM AGAIN BUT REMEMBER YOU NEED A GOOD MOTHERBOARD FOR THIS CPU GRADE",
+      "rating": 5.0,
+      "verified": true,
+      "author": "TEKK9",
+      "helpful_votes": 3,
+      "publication_date": 20190818
+    },
+    {
+      "title": "Just What. A Budget Gaming PC Needs!",
+      "text": "Son building a budget gaming PC and the budget wouldn\u2019t stretch to a top processor and separate graphics card. This latest Ryzen APU combines a super fast processor with a graphics card in one, making it perfect for the budget gamer. Once installed, combined with 16gb of RAM, it was able to play all the latest games at very good frame rates. Highly Recommended.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "A Family Man!",
+      "helpful_votes": 0,
+      "publication_date": 20191028
+    },
+    {
+      "title": "Excellent fast processor and value for money!",
+      "text": "I am very pleased with this processor, the AMD 3700X for my new PC build. Installation was a breeze with no issues, simply plug and play. The Wraith Prism cooler is nice and the RGB functions are a bonus. It can be a bit loud by default but you just need to tweak the settings. I love the lighting settings, it looks so much better in real life, photos and videos don't do this justice. The variation of the RGB is nice and the effects are many to choose from if you install the Wraith Prism software from Cooler Master. Overall recommend this to anyone looking for a great value CPU that does everything!",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Ajay",
+      "helpful_votes": 0,
+      "publication_date": 20200427
+    },
+    {
+      "title": "Game changer",
+      "text": "Good cpu got it paired up with a rtx 2060 flys through games at 1440p bit more money over the standard 3600 & 3600x but does use the newer silicone and more overclock potential stock cooler isn't up to much but I always change it eventually but does the job for now good mid range build on the B550m gigabyte ds3h worked out of the box even though mobo was on F1 bios first build updated to F10 no issues good board and bios as well future proof to for now anyway",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Stu",
+      "helpful_votes": 0,
+      "publication_date": 20200928
+    },
+    {
+      "title": "Great price! Great performance!",
+      "text": "Just superb processor for the price. So pleased having upgraded from an i7 2nd gen. Installed easily into a B450 board, upgraded the fan to an RGB prism (usually sold with R7 2700) for extra prettiness. Do note you must have a graphics card to use this. Also note that some b450 boards will need to be updated to work. Suggest MSI boards for this purpose. Used for videography and gaming with vega56. Example: 230fps on overwatch epic settings.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "RH",
+      "helpful_votes": 0,
+      "publication_date": 20191222
+    },
+    {
+      "title": "Good CPU but think about why you need it.",
+      "text": "Coming from a Ryzen 7 2700k I wasn't expecting to see a massive difference and up to now I was right. In fact I'm disappointed that the only area that seems better is video encoding. I've used a faster board, ram and a better video card and whilst it's definitely an upgrade it hardly makes a difference. My old machine has gone to my son as he needed a new one so there was a good reason to upgrade. But, I would be just as happy if I kept the 2700k.",
+      "rating": 3.0,
+      "verified": true,
+      "author": "J. Watkin",
+      "helpful_votes": 0,
+      "publication_date": 20200924
+    },
+    {
+      "title": "Best value gaming CPU Q1 2020, Amazon UK had better price than OCUK or Scan.",
+      "text": "Bought it here instead of Overclockers UK and SCAN due to list price, shipping price, and ease of returns. Item itself is as expected, runs kinda hot at stock so I set an offset undervolt. I appear to have not won the silicon lottery and it struggled to boost itself to over 4.1 for any length of time on more than one core, but it doesn't really matter in games. Still a huge improvement in minimum fps over my old X58 6-core Xeon which was overclocked to 4.2 GHz, so the frequency isn't everything.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Luke",
+      "helpful_votes": 0,
+      "publication_date": 20200627
+    },
+    {
+      "title": "Great value CPU for gaming and more",
+      "text": "Bought this CPU as part of my first gaming build. Though by any means it is not the fastest CPU on the market, it packs more than enough processing power for gaming on my build at 1440p. Installing onto my motherboard (X570) was mostly straightforward, the chip itself clips in nice and simply. I'm using the stock cooler that comes with the chip, getting all the screws in place and tight was a little tricky but I got it fixed on eventually (tip: screw opposite corners in first!).",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Ryan C",
+      "helpful_votes": 0,
+      "publication_date": 20200815
+    },
+    {
+      "title": "AMD Ryzen 5 3600x",
+      "text": "Intel sucks and AMD is amazing for price and performance and Intel sucks again",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Recatch ",
+      "helpful_votes": 6,
+      "publication_date": 20190820
+    },
+    {
+      "title": "Value for Money at its finest",
+      "text": "3600 is a fantastic CPU for gaming especially for the price. installs very easily (providing you have the right mobo). I replaced the standard wraith cooler with a Hyper 212 RGB Black cooler and would recommend an alternative CPU cooler if you plan on gaming heavily as the CPU can run hot! fits in my b450-f gaming mobo, with no need to flash the bios, and it sits alongside an rx 5700 and does the job. For price to performance, definitely well worth it!",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Dean M.",
+      "helpful_votes": 0,
+      "publication_date": 20200303
+    },
+    {
+      "title": "Reaches 4.4Ghz easily!",
+      "text": "Thus processor is very good and fast. I've gotten lucky my CPU in light work loads hits 4,375mhz all cores and one bounces from that to 4.4ghz so it's reaching advertised boosts easily. I highly recommend this processor or the model below the 3600 not only are these very power efficient but also monsters for gaming and even production on a budget like me. My System Seasonic Focus 650w gold B450 Tomahawk 32gb Corsair Dominator Platinum Ryzen 5 3600x Noctua NHU12A Cooler Master H500 RX590 Red Devil",
+      "rating": 5.0,
+      "verified": true,
+      "author": "CiaranGou",
+      "helpful_votes": 0,
+      "publication_date": 20191028
+    },
+    {
+      "title": "Worth every penny",
+      "text": "My previous processor was a Ryzen 3 1300 barely capable of working with 1080p according to Black Magic Raw Speed Test. A two minute upgrade to a processor now easily capable of working with 4K and it appears 6K after running the speed test again. Overall the system is much quicker, mouse clicks open apps with barely a delay, everything just seems a whole lot more responsive and supercharged as a result. Hopefully editing in Davinci Resolve shouldn\u2019t be a problem!",
+      "rating": 5.0,
+      "verified": true,
+      "author": "D. Nixon",
+      "helpful_votes": 0,
+      "publication_date": 20200601
+    },
+    {
+      "title": "Blistering performance out the box",
+      "text": "This was a replacement CPU for my sons rig. Upgraded from 1700 to 3800, wow, what a transformation in performance from the whole system. More FPS from RTX2070 - More performance from Corsair Vengence RGB PRO 32GB 3600Mhz C18 OC@4200Mhz, More speed out of WD Blue 250GB M.2 NVMe SSD. Well impressed",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Mark @ WillBytes",
+      "helpful_votes": 0,
+      "publication_date": 20200424
+    },
+    {
+      "title": "3700x review",
+      "text": "Upgraded from an R7 1700 to the 3700x the difference is night and day. I wasn't sure it would be worth the upgrade but I'd recommend it if your on first gen ryzen. Handbrake and 7zip finish much faster than the 1700 the biggest difference is the stuttering on the first gen which this one doesn't suffer from. If your overclocking the max all core overclock voltage should be no more than 1.325v I managed 4.3Ghz at 1.225v.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "gp",
+      "helpful_votes": 0,
+      "publication_date": 20200107
+    },
+    {
+      "title": "Good performance at reasonable price!!!",
+      "text": "Thought swapping my 2nd gen Ryzen to this third gen was going to be easy but no..thought bios was ok but my pc was black screening etc..eventually after updating bios which I've never done before and fingers crossed all worked sometime later thank god. I have a rgb pc setup and the spec for this 3600x says comes with rgb cooler but it doesn't, no lighting at all. I found the purchase a little disappointing but the cpu performs well..",
+      "rating": 3.0,
+      "verified": true,
+      "author": "Jasbo72",
+      "helpful_votes": 0,
+      "publication_date": 20200511
+    },
+    {
+      "title": "Brilliant mid- hi level experience now.",
+      "text": "This chip turned my base level AMD A8 machine in to a mid level gaming platform. Runs well on a AsRock A320 Rv4 motherboard and sucks the data from SSD\u2019s. Running with a gtx1050ti card as no built in GPU frame rates and response time make for a balanced performance and excellent all round power house. Idle temperatures seem fine compared to others and being supplied with thermal paste and cooling fan make it ready to roll from the box.",
+      "rating": 4.0,
+      "verified": true,
+      "author": "Amazon Customer",
+      "helpful_votes": 0,
+      "publication_date": 20200222
+    },
+    {
+      "title": "Top end cpu",
+      "text": "The value of this thing is immense when you look at it compared to the intel counterparts. I upgraded from a ryzen 5 2600 and everything is just smoother. It does run abit hotter and i cant comment on the included cooler as i use a water cooler but it is biiiiig so i expect it works fine. If you want a cpu that can keep up in years to come then get this. Any streamers or gamers out there need this affordable beast of a cpu.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Ryan",
+      "helpful_votes": 0,
+      "publication_date": 20200601
+    },
+    {
+      "title": "Excellent processor",
+      "text": "Excellent processor that tears through anything I throw at it. Combined with an rtx 2070 super and 16 GB of ram I have been able to attain a solid 60+ FPS (I never drop below 60 FPS with vsync enabled) in a number of games on maximum graphics settings. Also handles my usual daily usage (chrome, Spotify and Microsoft office and a dozen background apps) with no problems whatsoever.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Oliver Longley ",
+      "helpful_votes": 0,
+      "publication_date": 20200505
+    },
+    {
+      "title": "These dont hit the advertised clocks half the time",
+      "text": "AMD straight up pulled the boost clocks out of their arse, it never hits them even when hooked up to an AIO. on stock settings it never goes over 60C in temps and never boosts past 3.8GHZ, to get anywhere near the advertised multi and single core boost clocks (4.1ghz and 4.7ghz respectively) you need to enable PBO and crank up the power limitations and even then it will not hit those clocks most of the time even with thermal headroom and with expanded power budget. AMD, please dont lie to consumers about performance of your chips, its a great chip but lying isnt good.",
+      "rating": 2.0,
+      "verified": true,
+      "author": "Harvey",
+      "helpful_votes": 0,
+      "publication_date": 20200618
+    },
+    {
+      "title": "Good value for money.",
+      "text": "Good value for money for the performance, downside is the AMD Wraith Prism stock cooler performs very poorly and is extremely loud. CPU temperature reaching 70 Degrees C when browsing internet and playing games the temperature comes close to 85 Degrees C. I had to buy another CPU cooler and the temperature comes down to 36 Degrees in Windows and 50 Degrees C when playing games. Would of been an easy 5 Stars if AMD chosen a quality cooler for their CPU's.",
+      "rating": 3.0,
+      "verified": true,
+      "author": "Amazon Customer",
+      "helpful_votes": 0,
+      "publication_date": 20200319
+    },
+    {
+      "title": "Box came with no CPU",
+      "text": "Opening the box found all the instructions and packaging, the fan but no actual CPU. Looking further noticed that the bottom looked tampered with and trying it myself i could easilily open the box from the bottom without having to take off the security tape from the top.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "Ben",
+      "helpful_votes": 3,
+      "publication_date": 20200424
+    },
+    {
+      "title": "AMAZING",
+      "text": "Amazing - replaced an i5-4960k and its night and day. PUBG, whilst not the most demanding out there used to be sitting my CPU at 95-100% and therefore was stuttering. This happily sits 20-30%, ultra settings with a GTX1070 and no problems at all. AMD you have converted me!",
+      "rating": 5.0,
+      "verified": true,
+      "author": "ben5560",
+      "helpful_votes": 0,
+      "publication_date": 20200518
+    },
+    {
+      "title": "An absolute powerhouse \u26a1",
+      "text": "Various reviews and YouTube PC builders aren't wrong about this processor, it absolutely tears through modern apps and games with enough headroom to run background media and other things. I feel like its overkill for my usage but the future proofing and overclock potential is a massive plus! A side note for anyone buying this, it does come with a wraith RGB cooler which looks pretty snazzy but depending on case and cooling factors it may not keep temperatures low enough to be comfortable, it did run mine a little too hot. Recommended hunting for a different cooler of choice by Noctua / Be Quiet / Corsair etc is well worth doing :)",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Matthew",
+      "helpful_votes": 0,
+      "publication_date": 20200701
+    },
+    {
+      "title": "Very happy with mine.",
+      "text": "I won't attempt a full review, for that I'd recommend the video by Gamers Nexus on YouTube. Very happy with mine, it does everything I hoped for.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Adrian Warner",
+      "helpful_votes": 2,
+      "publication_date": 20190809
+    },
+    {
+      "title": "UPDATE BIOS ON MSI MOTHERBOARDS...",
+      "text": "I'd love to inform anyone whom might buy this processor for himself with combination of this \"Dedicated\" motherboard MSI B450 GAMING PLUS Socket AM4 ATX Motherboard for AMD Ryzen Processors. Before buying this processor and motherboard ask amd or msi to either send u older version of processor for free or force MSI to Update BIOS on all motherboards on stock across world. Pc doesnt start up untill you will update bios that means untill you're gonna put OLD amd processor for example 1st gen, then start up pc, than update bios... otherwise motherboard doesnt see DESIGNATED PROCESSOR.",
+      "rating": 2.0,
+      "verified": true,
+      "author": "Krzysztof Tarczynski",
+      "helpful_votes": 0,
+      "publication_date": 20190905
+    },
+    {
+      "title": "Very good choice",
+      "text": "I bought this CPU for my Asrock A300 barebone PC. It working well and I have changed the stock cooler to Noctua NH-L9A. Its very silent and running below 50 Degree celsius. I will recommend for those who interested in moderate gaming and and graphical work.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Rakesh Krishna",
+      "helpful_votes": 0,
+      "publication_date": 20191214
+    },
+    {
+      "title": "Brilliant CPU",
+      "text": "this AMD CPU rocks you need to read the spec and compare with others everything you read now is aimed at gamers, most of it is full of bull**** Im not a gamer but need a fast processor this does the job perfectly, quick delivery from amazon",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Kempy",
+      "helpful_votes": 0,
+      "publication_date": 20200814
+    },
+    {
+      "title": "rysen 7 3700X",
+      "text": "Very good processor, installed on a card Aorus X470 ultra gaming, it gives me complete satisfaction. The best quality / price of the moment.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Squall",
+      "helpful_votes": 2,
+      "publication_date": 20190830
+    },
+    {
+      "title": "A beast!",
+      "text": "I bought this for my home studio audio workstation computer as an upgrade from the Ryzen 2400g. On paper it should be able to handle at least 3 times the workload. To my surprise... It does exactly that! Even on my a320 chipset a stable 4.2ghz-4.3ghz. I'm not a gamer so YMMV, but for my use, this thing is a beast. Money well spent.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "David Dunne",
+      "helpful_votes": 0,
+      "publication_date": 20200305
+    },
+    {
+      "title": "Perfect Processor for gaming",
+      "text": "After doing much research, I found that the AMD Ryzen 5 3600X to meet the specs I needed to meet. It was already to install when opened as it had the heat paste already adhered to the unit. My gaming experience has increased to a very high level and within the Bios, I am able to change many factors to govern my PC. Very happy with purchase and would highly recommend.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Gavla",
+      "helpful_votes": 0,
+      "publication_date": 20200426
+    },
+    {
+      "title": "My First Beast Octa processor",
+      "text": "I am in love with the speed and multitasking capabilities of this processor. I was going to go for the Ryzen 9 3950x but I thought what am I going to do with 16 cores? I have never used a computer with more than 4 cores so I though that might be overkill. I am able to run any game I want at 60FPS and I can still do other tasks while the game is running. Very worth the price tag.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "NetworkTech4000 ",
+      "helpful_votes": 0,
+      "publication_date": 20200420
+    },
+    {
+      "title": "Amazing performance for gaming.",
+      "text": "This CPU is amazing for the price/performance, for gamers it's very good, for streamers btw maybe i would recommend the ryzen 7 2700 for the same price, as has 8 cores and is better for multitasking, this one gives more fps but has 6 core that makes it good for gaming, also for streaming is good, it runs above my expectations, with the stock cooler at 30-45\u00b0C idle and 50-80\u00b0C during stress or games.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Vasile",
+      "helpful_votes": 0,
+      "publication_date": 20200113
+    },
+    {
+      "title": "Perfect option for price and performance with gaming and productivity workloads",
+      "text": "Great price for performance and a good overclocker. The 6 cores are enough for gaming and most productivity workloads, only get the 8 core 3700 if you really need those extra two cores. My advice though would be pair this with a good cooler like a Evo 212. You don\u2019t technically need to as Ryzen run at good temps, but a good idea and gives you headroom for overclocking. This CPU will achieve (in my case also) a solid 4.4ghz on an overclock if not more.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Amazon Customer",
+      "helpful_votes": 0,
+      "publication_date": 20200521
+    },
+    {
+      "title": "Very fast, and excellent value for money",
+      "text": "An excellent product, through and through. Much faster than my old i5-4440, and uses far less power. My first time with a high end AMD CPU, and I am not disappointed. It's much cheaper than an equivelant Intel counterpart. My only complaint is that there don't seem to be any drivers for Linux to read the CPU temperature, but I think that's more my motherboard's fault (an ASRock Phantom Gaming 4).",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Hamish McIntyre-Bhatty",
+      "helpful_votes": 0,
+      "publication_date": 20191008
+    },
+    {
+      "title": "For the money best CPU you can get at the moment.",
+      "text": "As I had few problems with my bit older system I have upgraded it using this CPU. Previously had Ryzen 7 1700 (8 Core 16 Thread) This CPU with 2 less cores (6 cores 12 Thread) is faster than my older one. My system has become more responsive, loading times has dropped, web browsing on Chrome is much faster and it's great for gaming. AMD is overtaking their main competitor without a doubt. If you are looking to upgrade and have limited budget go for this CPU. You'll be surprised with performance you get.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Greg",
+      "helpful_votes": 0,
+      "publication_date": 20191124
+    },
+    {
+      "title": "Incredible value processor!",
+      "text": "Fantastic processor. Most games I throw at it barely make a dent on processor usage. The clock speed and amount of cores certainly help with modern games, more so in open world games. I upgraded from a Ryzen 2600x and have observed more consistent frame rates in games like Far Cry 5 and Assassin\u2019s Creed Odyssey. The fan, while not particularly loud, can be pretty irritating as the processor very regularly spikes up and down in temperature as it shifts in and out of idle/active use. It\u2019s worth enabling fan smoothing in the BIOS to mitigate this annoyance somewhat.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Declan",
+      "helpful_votes": 0,
+      "publication_date": 20200604
+    },
+    {
+      "title": "Worth it!",
+      "text": "Ooooooooh! What a treat. Upgraded from Xeon E3 1230 v2. First couple of boots things were slower but Windows has adapted and now no lag or blurry transitions (not that they were evident...it\u2019s just so much snappier now comparing it to old chip). The cooler is a revelation! So quiet it\u2019s literally a low hum whisper even at 4Ghz. So far, so fab!",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Hatton106",
+      "helpful_votes": 0,
+      "publication_date": 20200109
+    }
+  ],
+  "product_meta": {
+    "title": "AMD Ryzen 3 3100 Processor (4C/8T, 18 MB Cache, 3.9 GHz Max Boost)",
+    "description": "Size Name:Processor Only| Style Name:Ryzen 3 3100The Ryzen 3 3100 has 4 cores and 8 threads, with a 3.9 GHz boost, with 3.6 GHz base clock, 18 MB total cache and 65 W TDP.\n\nBOX CONTAINS\n\n\n * Ryzen CPU\n * Bezel sticker\n * Instructions/Warranty sheet\n * Thermal cooling solution",
+    "rating": 4.8,
+    "feature_bullets": [
+      "4 cores, 8 threads, 3.9 GHZ boost clock, 65 W TDP",
+      "Compatible with 500 and 400 chipset Series AM4 motherboards",
+      "Wraith Stealth cooler included",
+      "One of the world\u2019s most enhanced desktop processor, ultramodern, ultrafast, enabling modern gaming desktops",
+      "New rules, no rivals \u2013 PCs powered by 3rd Generation AMD Ryzen processors elevate your game; one of the world\u2019s most enhanced desktop processor powers ground-breaking gameplay"
+    ],
+    "specifications": {
+      "Brand": "AMD",
+      "Product Dimensions": "13.1 x 7.1 x 13.4 cm; 440 Grams",
+      "Item model number": "100-100000284BOX",
+      "Manufacturer": "AMD",
+      "Series": "Ryzen 3 3100",
+      "Processor Brand": "AMD",
+      "Processor Type": "Ryzen 3 3200X",
+      "Processor Speed": "3.9 GHz",
+      "Processor Socket": "Socket AM4",
+      "Processor Count": "4",
+      "Wattage": "65 watts",
+      "Item Weight": "440 g",
+      "ASIN": "B0876Y2TMZ",
+      "Customer Reviews": "4.8 out of 5 stars21,069 ratings4.8 out of 5 stars",
+      "Best Sellers Rank": "4,066 in Computers & Accessories",
+      "Date First Available": "21 April 2020"
+    },
+    "categories": [
+      "Computers & Accessories",
+      "Components & Replacement Parts",
+      "CPUs"
+    ],
+    "price": 127.67
+  }
+}

@@ -1,0 +1,960 @@
+{
+  "website_summaries": [
+    {
+      "verdict": "The affordable Seagate Central delivers as a fast and easy-to-use network storage device for home backup and entertainment purposes.",
+      "pros": [
+        "The Seagate Central is fast, easy to use, and comes with many options for media streaming, both locally and via the Internet"
+      ],
+      "cons": [
+        "As a single-volume server, the Central offers no data protection should its internal hard drive fail",
+        "its remote feature is very sluggish and limited when accessed via a browser"
+      ],
+      "aspects": {
+        "Setup": 8.0,
+        "Features": 8.0,
+        "Performance": 8.0,
+        "Support": 7.0
+      },
+      "publication_date": 20130620,
+      "rating": 7.9,
+      "source": "cnet"
+    }
+  ],
+  "customer_reviews": [
+    {
+      "title": "11 Months",
+      "text": "Worked OK, if a bit dodgy, for 11 Months. Possibly less, since the last logged backup was 2 months back. Now it has a permanently flashing green LED, my computers and router can't see it. I did the restart, new cable and secret reset button routines, no change. Their online help is as slim as their product documentation. A backup is something that needs to work with NO DRAMA and for years, not months. At least it was cheap! Sadly, it looks like Seagate is attempting to Astroturf the Amazon reviews by responding with kind condolences, but how about on their support site? Nothing - not ONE CLUE is provided for my symptoms, which seem to be pretty common.",
+      "rating": 2.0,
+      "verified": true,
+      "author": "charles ross",
+      "helpful_votes": 4,
+      "publication_date": 20150215
+    },
+    {
+      "title": "Bad Purchase",
+      "text": "I have had this drive for 1 1/2 years and it just died on me. No power to the drive. I tested the power supply and it is fine. On a hunch I took the drive out of the enclosure and sure enough, the drive spins just fine, so it looks like the little motherboard that runs whatever flavor of Linux has died. I am going to try to recover my data. I would not recommend one of these drives...1 1/2 years is not acceptable in my book. Period.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "KnuckleHead",
+      "helpful_votes": 5,
+      "publication_date": 20150708
+    },
+    {
+      "title": "Worked great, while it lasted, which was not long",
+      "text": "Less than 9 months is as long as this drive lasted. I kept unplugging it during the work week, since it was spinning all the time. When it worked, it took about 30 seconds to boot, and work reliably. The connection utilities are good. But the life of this drive is shorter than any internal or external drive I have owned. It is now blinking red, and I can't connect to it. I thought it was a good deal for a network attached drive. Oh well, back to USB attached drives.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "Eric P. Shade",
+      "helpful_votes": 3,
+      "publication_date": 20160331
+    },
+    {
+      "title": "The vendor was pretty much no help",
+      "text": "Worked well for the 34 months it lasted. The unit wouldn't boot up, green light kept blinking. The vendor was pretty much no help, they said the unit was bad and asked if I'd would you like them to recover my data for a fee. I passed. I took it apart and learned that the HDD was ok, so I pulled that out to use as another drive in my PC. Seagate makes a good HDD, but these network units are less than par. Would I buy another, probably not. I opted for a QNAP 231+ and 2new Seagate Ironwolf 4TB drives to run as RAID1. Much more money, but recoverable if the unit dies. Live and learn....",
+      "rating": 2.0,
+      "verified": true,
+      "author": "Steve Tkachuck",
+      "helpful_votes": 0,
+      "publication_date": 20161202
+    },
+    {
+      "title": "Wouldn't Recommend it....",
+      "text": "This is the second one of these that I bought. I bought the second one in hopes that my problem with the the first one was the enclosure, and not the actual drive. When searching SeaGate support, it wasn't real helpful, and all of the WEB articles about the issue, had different fixes for the same symptoms. Additionally, based on what I read on the WEB there is very high probability that the second one will crash soon. The good news is that I did end up recovering my data, I just needed to put the original drive in an external drive enclosure, and then it took about a week for a data recovery utility to recover the data.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "Eric Whelpley",
+      "helpful_votes": 0,
+      "publication_date": 20170905
+    },
+    {
+      "title": "Wish there was a better software solution",
+      "text": "Wish there was a better software solution. WD seems to have a better one, but being just a NAS hard drive there is no reason why there can't be more control over the hard drive. Although the hard drive does basically set itself up, confusion kind of sets in between user names and passwords between Seagate Central and Tappin. Only one user name and password should be necessary. The drive itself seems to work fine as expected although a little slower than I had hoped it would be. I have yet to test it out remotely as it always connects through my local network.",
+      "rating": 4.0,
+      "verified": true,
+      "author": "J. Adams",
+      "helpful_votes": 0,
+      "publication_date": 20151007
+    },
+    {
+      "title": "installed a Bot-Net",
+      "text": "Got a virus on this almost immediately. If I wasn't using a Linux computer to check on it it would have installed a Bot-Net on my computer. Lots (I mean LOTS) of people are having this problem. As it is you can NOT use the remote access features, one of the reasons I bought it in the first place. Now I am stuck with it, with reduced functionality. Do not waste your money on this, stick with a Western Digital instead.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "Reverend Chris",
+      "helpful_votes": 0,
+      "publication_date": 20170511
+    },
+    {
+      "title": "Good",
+      "text": "This has proven to be a good product. The setup is pretty easy although I have not had any success with getting the mobile app for you phone to allow you to move stuff back and forth from your phone. To be fair though I have not done a lot of research on their site to see what may be causing it, but I am a firm believer in making everything as simple as possible so I don't have to go look for the solutions because there are not complicated problems from the get go, which is why this is a four star rating. Works really well to move files from computer to the backup driver through wireless connection though",
+      "rating": 4.0,
+      "verified": true,
+      "author": "ThenTheresThat",
+      "helpful_votes": 0,
+      "publication_date": 20131007
+    },
+    {
+      "title": "Easy set up apps work great",
+      "text": "Being a couple that like to take lots of pictures on our vacations, my laptop was becoming dangerously low on disk space. This seemed the logical answer as it holds mountains of data and can be accessed remotely by an Ipad, smart phone and the home laptops. Sometimes seems a little slow, haha, we have become so jaded to speed anymore, that everything has to be race car fast, however, files are huge, so I am happy with it.",
+      "rating": 4.0,
+      "verified": true,
+      "author": "Joseph D. Herr",
+      "helpful_votes": 4,
+      "publication_date": 20140124
+    },
+    {
+      "title": "made it almost 4 and a half years...",
+      "text": "...but went bad very suddenly, & w/o warning :( Luckily it's SATA and a recognizable filesystem but it's hard to say whether I'll be able to recover things notwithstanding. Don't use this as a backup\u2013IT needs to be backed up itself.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "irunin2things256",
+      "helpful_votes": 0,
+      "publication_date": 20200718
+    },
+    {
+      "title": "no lights displaying after 1.5 years use",
+      "text": "After 1.5 years usage, Seagate Central is now dead. The green light on top of the device is not lighting up, the Ethernet lights are not lighting up, and the hard drive is not making its spinning sound. I have plugged the Seagate Central into another working electrical outlet; I'm still getting the same results, the Seagate Central does not turn on. All my data is now gone ! not sure whether it has any problem with power adapter...",
+      "rating": 1.0,
+      "verified": true,
+      "author": "Sundar Kothandaraman",
+      "helpful_votes": 2,
+      "publication_date": 20150211
+    },
+    {
+      "title": "Great to have access away from home",
+      "text": "Hooked this up and everything loaded fast but for some reason that Seagate couldn't figure out, I could not set up the remote access so I had to erase all the backups that I had done and start over again. Finally got the remote access but have lost all the stuff that was backed up and have to redo all that from all my computers, phones and tablets. Wasted time I could have used on other things but at least it's fixed for now.",
+      "rating": 4.0,
+      "verified": true,
+      "author": "Fly Bye",
+      "helpful_votes": 0,
+      "publication_date": 20150522
+    },
+    {
+      "title": "Spend the Extra and get a WD",
+      "text": "I have gotten both the unit Seagate and WD. By far the WD is far better. The setups is simple, but always seem to have and issue with my pc. The Android app really is not much of an improvement. Can view folders separately, and can't upload to an individual folders. To much time waste setting and getting everything to work like I want to. Going back to WD life was simple. Update still using this drive as secondary. DON'T WASTE YOUR MONEY",
+      "rating": 1.0,
+      "verified": true,
+      "author": "Honest Reviewer",
+      "helpful_votes": 2,
+      "publication_date": 20150330
+    },
+    {
+      "title": "not worth the dirt it would take to bury it",
+      "text": "it is slower than any facility i have ever seen. I have been in computing for 35 years and can not image why this thing could take 6 days to backup 60% of my disk drive. online backup on a dialup line like would be faster. I can't see why or how they could have something this poor and expect to sell more than one of them. I have owned another seagate NAS that worked perfectly. someone at seagate needs to debug this thing or stop production ASAP.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "DonewithNAS",
+      "helpful_votes": 3,
+      "publication_date": 20130817
+    },
+    {
+      "title": "Failed",
+      "text": "NIC failed after only a couple years' use. Worked great until then. It is my understanding that Seagate no longer makes network drives.",
+      "rating": 2.0,
+      "verified": true,
+      "author": "L Rogers",
+      "helpful_votes": 0,
+      "publication_date": 20200805
+    },
+    {
+      "title": "Great drive, make physical copies.",
+      "text": "Yes, it was perfect. It was ordered to fix an issue with another if these Seagates. The housing for the drive failed and the data on the drives cannot be read (raw partition). I ordered this hoping that the drive was not damaged and it worked. Seagate does not sell the housings for the drives separately. Make sure you have a physical copy of the data or store it in the cloud as a backup to the Seagate.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Derek Stewart",
+      "helpful_votes": 0,
+      "publication_date": 20170625
+    },
+    {
+      "title": "Great Functionality at a Budget Price",
+      "text": "I've owned several Western Digital NAS devices, and inevitably, they became difficult for our computers to recognize on our network. This one has worked flawlessly since I installed it, and it has an amazing 3 TB of storage. The Dashboard software works quite well for realtime automatic backups, although Windows treats it like just another external hard disk and allows you to manually backup or transfer files to and from it as well. I've only had it for a few days, and may update this review as I get into the details of streaming media from it to our TV.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Paul A. Skinner",
+      "helpful_votes": 0,
+      "publication_date": 20140207
+    },
+    {
+      "title": "no wonder is was such a great deal.",
+      "text": "crashed after getting about 50% full and then Seagate wants $599 to recover data that was on it... no wonder is was such a great deal.. they crash and pop you have to pay out the nose for recovery.. almost sounds like Ransomware hmmm should I bring this up with BBB of FBI does anyone know if you are some one else gone thought this??",
+      "rating": 1.0,
+      "verified": true,
+      "author": "Willjhoffa",
+      "helpful_votes": 0,
+      "publication_date": 20161208
+    },
+    {
+      "title": "Slow and Slower, NO SUPPORT !",
+      "text": "Very poor product. Absolutely no support for this on Seagate website, if you do a search with the product name you can't find anything at all. I wanted to watch videos and pictures on a Roku connected TV, it connects to Roku but does not play the videos or show pictures. Does not even connect to AppleTV. I have a very fast home network that I use to stream Netflix video to both a Roku and AppleTV with no problems. I will be returning this promptly and not buying Seagate products again.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "go gadget go",
+      "helpful_votes": 0,
+      "publication_date": 20150426
+    },
+    {
+      "title": "Drive Software Problems",
+      "text": "Works ok on my home Network. But and a big but you can't access this drive with Internet Explorer remotely. This was what I was told by Seagate but I was able to get on with explorer through a friends pass word who I had shared my drive with. Go figure. I couldn't use it but he could. This might help:[...] This drive is so slow over the internet that you could burn your data (larger files) on a DVD and send it VIA U.S.Mail and have it delivered by a blind Postman quicker. On your local network not bad.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "DTaff",
+      "helpful_votes": 0,
+      "publication_date": 20140619
+    },
+    {
+      "title": "Good transfer speeds",
+      "text": "It's a good \"cloud storage\" device and performs well, but the stock firmware lacks a lot of functionality. You can't change many settings and you HAVE to have a password. It seems to turn itself on randomly and makes me wonder what it is doing. The remote access features don't seem to work very well. Despite all this it does perform well (fast transfers.) If you are looking for a pure NAS, I would recommend looking elsewhere, unless a third party firmware starts supporting this.",
+      "rating": 3.0,
+      "verified": true,
+      "author": "Kasey Sterling",
+      "helpful_votes": 0,
+      "publication_date": 20140715
+    },
+    {
+      "title": "Unreliable NAS",
+      "text": "Pure junk!!!! Similar to several other reviews, this NAS failed after 6 months. It exhibits no sign of life: all LEDS, status indicators, etc. are off. A DVM test of the wall-wart power supply shows 12VDC unloaded.I'm hesitant to disassemble the drive and troubleshoot, but I may have to as returning the NAS under warranty guarantees the loss of all my music on it.The Seagate data recovery service for this NAS is far too expensive as well. I'd rather fix what appears to be a power issue, void the warranty, and transfer all the data to a new NAS. Trust me, the new NAS will absolutely NOT have a Seagate logo on it!!!",
+      "rating": 1.0,
+      "verified": true,
+      "author": "John LaViola Jr.",
+      "helpful_votes": 0,
+      "publication_date": 20140925
+    },
+    {
+      "title": "failed during first backup. couldnt recover, sending back!",
+      "text": "I should have listened to the reviews. hooked up, was doing backup of my PC. at around 70% it failed and couldnt see the HardDrive in the device. Horrible setup guide. No good support on line. tried all the support and tried to restore the device and re-did the setup. its running on the latest firmware. first thing i did was firmware update. sending back and probably go with my second choice, the WD My Cloud.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "russell robinson",
+      "helpful_votes": 0,
+      "publication_date": 20141025
+    },
+    {
+      "title": "I bought the Seagate Central Personal Cloud Storage for its ...",
+      "text": "I bought the Seagate Central Personal Cloud Storage for its brand, now I understand why the device is cheap. It's not user friendly device. It's extremely slow to transfer files. Doesn't allow to set your workgroup. Now I notice that it's free remote access for 3 years, after that you will need to pay for the use of it every year. After 2 days I need to put a fan since it got hot and couldn't access the drive.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "Carlos S.",
+      "helpful_votes": 3,
+      "publication_date": 20150523
+    },
+    {
+      "title": "Worst product I've ever used!",
+      "text": "Ok as a aux. hard drive, but not even closed to the advertised product. I tried several times to use the recommended product (Seagate dashboard) without success - crashed every time. The most frustrating thing is that after creating \"private\" folders, there is no way to access them locally! You can access them over the internet, but in order to add anything over the internet takes forever. Why can't I just copy to my private folders after providing the proper password? Seagate's online help is useless. Searches lead to information that has nothing to do with the Seagate Central product.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "Amazon Customer",
+      "helpful_votes": 0,
+      "publication_date": 20140116
+    },
+    {
+      "title": "Good investment when a real NAS is not affordable.",
+      "text": "Great speed on wired gigabit connections, but don\u2019t expect too much on wireless. Not so silent as expected, makes loud noises when backing up automatically (especially at night). The remote access via Seagate webpage must to be improved, have only the basic settings as \u201cupload\u201d and \u201cdownload\u201d, and the speed is not so fast, but actually does his job. The iPhone/iPad/Android app is very limited, but it is OK. Maybe more improvements are coming in future updates.",
+      "rating": 4.0,
+      "verified": true,
+      "author": "Tiny Muffin",
+      "helpful_votes": 0,
+      "publication_date": 20130909
+    },
+    {
+      "title": "Is it me or is it you?",
+      "text": "This is a preliminary report. I followed the setup procedures and got everything working. The next day I couldn't access the device from outside. This is what happened with the last Seagate NAS drive I bought. It could be operator error, but I followed the directions. I just don't have time to troubleshoot to figure it out right now.",
+      "rating": 3.0,
+      "verified": true,
+      "author": "Mando Guy",
+      "helpful_votes": 0,
+      "publication_date": 20150516
+    },
+    {
+      "title": "very unfriendly device",
+      "text": "This is a horrible product. I have struggled with it for over a year. When you try to copy files to it, it will stop in the middle, report some kind of error (different every time- things like \"file not found\") and stop copying. It will sometimes copy folders but not their contents. It is slower than a snails pace. And I consider myself fairly tech savvy. It claims to have an iTunes library server but iTunes cannot find it. It will not accept a Mac TimeCapsule backup. The remote app loses contact frequently so you really can't listen to music via the media server. I rarely comment on Amazon but this has been a total disappointment.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "Kyle Forinash",
+      "helpful_votes": 0,
+      "publication_date": 20160219
+    },
+    {
+      "title": "Great way to add storage to your network!",
+      "text": "I purchased this to add storage to my home computer system. It connects directly to the router. It was immediately recognized by my computers as being on the network and available for storage. There are multiple ways to configure the NAS including making it your own personal cloud device or a media streamer.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "KYWes",
+      "helpful_votes": 0,
+      "publication_date": 20150716
+    },
+    {
+      "title": "Its a great drive for price but drive went bad within a week.",
+      "text": "The drive was very cheap for a NAS Drive. It uploaded my data files around 30mb/sec which is about decent speeds. The major issue why I am giving 2 stars is how severely noisy the drive is. The downside is you can't remove the drive from this device. (You probably can but need to get in there or snap off the cover etc). I returned it defective because it constantly made rubbing noise which tells me it was a bad drive. I went ahead with the WD My Cloud EX2",
+      "rating": 2.0,
+      "verified": true,
+      "author": "Rachelbee",
+      "helpful_votes": 2,
+      "publication_date": 20150710
+    },
+    {
+      "title": "The best Product for security camera",
+      "text": "I bought this product to setup for the storage of my security camera footages. Its awesome now i can access my footages from anywhere in the world and i will highly recommend this product. since i am not getting paid for this review this is all i have to say. if you have IP camera this is the best way to go. The seagate app for the iphone is a peace of s...t. I downloaded Tappin for iphone and its a lot better thats all peaces",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Angel Q",
+      "helpful_votes": 0,
+      "publication_date": 20140323
+    },
+    {
+      "title": "Still working on understanding software, switching from USB drives for backup",
+      "text": "I've used SyncToy, RoboCopy and other utilities for backup onto USB drives. But I've been slow to get up to speed on the Seagate software for automated backup. This may well be like my struggle with Windows 7 libraries. If you don't already have USB drives adequate for backup this is certainly a step up from storage onto CD or DVD. Unless you are very disciplined in a routine, consider this NAS.",
+      "rating": 3.0,
+      "verified": true,
+      "author": "David Bird",
+      "helpful_votes": 0,
+      "publication_date": 20130915
+    },
+    {
+      "title": "This is a great product, it replaced my old NAS devices and ...",
+      "text": "This is a great product, it replaced my old NAS devices and once everything was in sync, I don't have to worry about accessing data from anywhere and all my data from my pcs and Apple products are backed up. It's a bit slow in the beginning to sync but once done I can now travel and sync all my photos from any location that I have internet access to/from. No more ftp to my home server/pcs. Fairly simple to use and really a multi-purpose device.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "MikyeeD",
+      "helpful_votes": 0,
+      "publication_date": 20141118
+    },
+    {
+      "title": "Don't Bother",
+      "text": "I bought this product in hopes of having something reliable and accessible from anywhere - I was sorely disappointed. I purchased the product about 7 months ago and noticed it couldn't be \"found\" a lot of the time (from my network or my phone). Eventually, the product gave me a flashing green light and, despite the efforts of Seagate technical support (no real complaint from them), it's dead. So, after having this product for a whopping 6 months (terrible warranty, too), I was faced with the option of paying to have Seagate restore my drive or, buy a new networkable drive. Welcome Western Digital, let's hope you're better!!",
+      "rating": 1.0,
+      "verified": true,
+      "author": "Amazon Customer",
+      "helpful_votes": 0,
+      "publication_date": 20160127
+    },
+    {
+      "title": "An excellent, low cost NAS with good performance",
+      "text": "An excellent, low cost NAS with good performance. I get consistent 25 - 28 MB/s transferring files to the device. FTP speeds are even faster. Super easy to set up and register, I had it up and running in just a few minutes. I do wish it had a few more features such as BTSync and the ability to access/upload/download personal folders from the mobile application. DLNA and iTunes server work perfectly out of the box. I can stream media to any device in the house.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Jeremy Lawson",
+      "helpful_votes": 0,
+      "publication_date": 20141104
+    },
+    {
+      "title": "works GREAT as WIRED music streamer",
+      "text": "Yes, wireless file transfers are slow. However, I am using this in WIRED connection to stream my music files to Musical Fidelity M1 Clic media player, using the seagate built in streaming server, and it works EXCELLENT for that use case. I am also using a high quality ethernet cable, that might be helping. If the wireless was faster I would give it 5 stars.",
+      "rating": 4.0,
+      "verified": true,
+      "author": "K. Ambrose",
+      "helpful_votes": 0,
+      "publication_date": 20140524
+    },
+    {
+      "title": "The software it comes with isn't super speedy either",
+      "text": "Seems to operate very very slowly. The software it comes with isn't super speedy either. Didn't go to the trouble of configuring my router to work with it for internet access. I don't use it often and won't use it for remote access.",
+      "rating": 3.0,
+      "verified": true,
+      "author": "P. Davenport",
+      "helpful_votes": 0,
+      "publication_date": 20150926
+    },
+    {
+      "title": "Great drive!",
+      "text": "Utilities fairly easy to use, just pay attention to the directions. Internet access relatively easy to set up. Per the instructions, for maximum I/O and transfer rates connect both the Seagate Central drive and laptop to a 1Gb switch for maximum transfer speeds; true to the instructions the transfer rates were unreal! I like the drive, easy to set it up and would recommend it to other buyers looking for a relatively fast, intuitive and fast networked drive.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "TWShovel",
+      "helpful_votes": 0,
+      "publication_date": 20131026
+    },
+    {
+      "title": "Not so happy with it",
+      "text": "I bought this for my iMac. I asked my friend to get it from US. I reside in India. For a not so technically inclined person the set up was not an issue. It took nearly 20 hours to back up the first time in the time machine for about 200GB. This is not a very great speed. I am able to access it from my office, however I haven't still tried any upload or download. Secondly the Dashboard is supposed to help to control the power settings, but I can't find any settings for that. The drive seems to be primarily designed for Windows and not far iMac. Therefore I would not recommend this for a Mac owner.",
+      "rating": 3.0,
+      "verified": true,
+      "author": "P.Arulanandham",
+      "helpful_votes": 0,
+      "publication_date": 20130831
+    },
+    {
+      "title": "Got MyCloud on Tuesday... So Far ABSOLUTELY ...",
+      "text": "Got MyCloud on Tuesday...So Far ABSOLUTELY loving it...Doesn't make sense to put your data out there on the web when you can have your OWN Cloud server...deleting ALL of the sensetive data posted on Sky Drive & Google Drive now that we have MyCloud 4TB... Gregg Huestis www.b2bablessing.org",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Gregg N. Huestis",
+      "helpful_votes": 0,
+      "publication_date": 20150131
+    },
+    {
+      "title": "Used for scanner Ops and site antenna equipment to stream ...",
+      "text": "Used for scanner Ops and site antenna equipment to stream and archive audio over IP. Purchased many of these for the network for BRADYCOMM, a communications company that uses, in this case, radio scanners to stream public safety, law enforcement, EMS info from BRADYCOMM servers to radio and television broadcasters, and enthusiasts.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Brady Communications",
+      "helpful_votes": 0,
+      "publication_date": 20150101
+    },
+    {
+      "title": "Drive is alright but Seagate support experience was terrible",
+      "text": "Seagate has some big problems with their customer support system. Wouldn't have been a problem if the software to set up users had worked out of the box but it didn't and I had to go through a lot of runaround just to get the drive working so I could access it from outside of my home (cloud-like).",
+      "rating": 3.0,
+      "verified": true,
+      "author": "Ravie13",
+      "helpful_votes": 0,
+      "publication_date": 20141002
+    },
+    {
+      "title": "it's just that the initial file transfer of (just) 200 GB of data was painful. I only got abut 15mb/sec over wifi using ...",
+      "text": "Slow transfer speeds as others have noted. I am using this for storing data files and backups so it's probably not that big of a deal; it's just that the initial file transfer of (just) 200 GB of data was painful. I only got abut 15mb/sec over wifi using windows based file copy and about the same with sftp. I did not try ftp and I also did not try wired LAN. I may try that for my next sizable transfer. I can't speak on reliability as the device is new, but so far no other complaints except for slow data transfer.",
+      "rating": 3.0,
+      "verified": true,
+      "author": "Kindle Customer",
+      "helpful_votes": 0,
+      "publication_date": 20150519
+    },
+    {
+      "title": "Three Stars",
+      "text": "Was useless but just removed the hard drive and use it in my computer to this day",
+      "rating": 3.0,
+      "verified": true,
+      "author": "Amazon Customer",
+      "helpful_votes": 0,
+      "publication_date": 20171002
+    },
+    {
+      "title": "Read the online directions",
+      "text": "Some reviews complained about this device being less than easy to set up. If you read the online directions, you'll find it's rather easy to set up. I like not having to be tied to my backup disc in order to run Time Machine. This does it OTA and is far more convenient. Security is easy to set up, so you can rest assured that you've got it under hand.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "The Magic Christian",
+      "helpful_votes": 0,
+      "publication_date": 20131007
+    },
+    {
+      "title": "I'm glad I backed up everything, BUT",
+      "text": "I found it to be very slow as it seemed to want to back up everything everytime I downloaded a picture. So I don't know if I need to change settings or what, but for now I've backed everything up and unplugged it. I'll plug it back in and let it run again soon. It also slowed down connection speed as everything was going back and forth from the router to my computer, back to router to the hard drive.",
+      "rating": 3.0,
+      "verified": true,
+      "author": "Scott Von G Alaska",
+      "helpful_votes": 0,
+      "publication_date": 20130730
+    },
+    {
+      "title": "product was in perfect condition. I gave it 1 star because this ...",
+      "text": "Shipping was fast and reliable, product was in perfect condition. I gave it 1 star because this is my second one... The network card failed, so I bought this one to swap the drives out. This way I could recover my data. Only if this product had multiple ways to access the data.",
+      "rating": 2.0,
+      "verified": true,
+      "author": "David Gardyasz",
+      "helpful_votes": 2,
+      "publication_date": 20150906
+    },
+    {
+      "title": "Quiet Okay!",
+      "text": "It took a while to set it up. Once everything was set, this was the best external storage device for me. Just a bit slow via wireless if you are transferring videos, that is to be expected. One drawback is that I couldn't play my recordings from my video files and couldn't play the files on ROKU.",
+      "rating": 4.0,
+      "verified": true,
+      "author": "Anusha Iyer",
+      "helpful_votes": 0,
+      "publication_date": 20140121
+    },
+    {
+      "title": "easy setup, great accessibility",
+      "text": "Set this up from a mac and couldn't have been easier. Installed the apps on ios and droid and can view and push media easily. Connected a dlna blu ray, the seagate was immediately recognized and the content playable. I debated between this and the wd and I couldn't be happier. Great easy storage at a great price.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Nittany1",
+      "helpful_votes": 0,
+      "publication_date": 20141016
+    },
+    {
+      "title": "Storage accessible from any computer - Fantastic",
+      "text": "I have several computers and wanted a central access device. This one meets my needs exactly. It was easy to set up and it immediately appeared on my home network. A pleasant benefit: I can access it from other people's homes as well - wherever I have Internet access. I even accessed it using my smartphone.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "D. L. Gibbons",
+      "helpful_votes": 0,
+      "publication_date": 20130809
+    },
+    {
+      "title": "Certainly easy to plug in and get going",
+      "text": "Certainly easy to plug in and get going, but the account configuration is not as clear as it could be. You need one setup for local access and another for remote and the \"public\" folder name is a poor choice for the one that is simply shared. Once past these quirks the unit runs well.",
+      "rating": 4.0,
+      "verified": true,
+      "author": "M. L. Smith",
+      "helpful_votes": 0,
+      "publication_date": 20141108
+    },
+    {
+      "title": "Very easy to install",
+      "text": "I originally purchased the WD My Cloud EX2 4 TB drive. I returned it because the I had trouble with the setup of the drive, the software was glitchy and the drive would disconnect for no apparent reason. I ordered this and it has met my expectations. Very easy to install, runs great, and cost over $200 less.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "SRupley",
+      "helpful_votes": 0,
+      "publication_date": 20141230
+    },
+    {
+      "title": "Seagate Central provides home file and picture security",
+      "text": "I did not want to use the cloud to save my files and photos so I bought the Segate Central 3TB. Absolutely remarkable for my purposes. A little slow when pulling files by WiFi. Takes a few hours to start up. But Seagate provides video and other help info though a little confusing sometimes. After a couple of attempts it works extremely well.",
+      "rating": 4.0,
+      "verified": true,
+      "author": "NEZ_ADP 555_Man",
+      "helpful_votes": 0,
+      "publication_date": 20131003
+    },
+    {
+      "title": "Awesome while it worked",
+      "text": "Awesome while it worked... Didnt last long so had to take out hd and put in enclosure. Too bad, if it hadnt died on me so quick- it would been awesome.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "TK",
+      "helpful_votes": 0,
+      "publication_date": 20160924
+    },
+    {
+      "title": "A nice item and pretty easy to set up",
+      "text": "A nice item and pretty easy to set up. However, I was a bit shocked how long it took to transfer a 288 MB file from my computer to the drive. Over an hour! I did not matter since I just let it do it's thing while I did other things.",
+      "rating": 3.0,
+      "verified": true,
+      "author": "Randy B",
+      "helpful_votes": 0,
+      "publication_date": 20150509
+    },
+    {
+      "title": "Love it!",
+      "text": "I've had this for over a year now and have had no problems. It's a great NAS for streaming, backups, or whatever. I have it connected directly to my TV via the network and can stream to multiple devices simultaneously without a problem.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Bradley Irby",
+      "helpful_votes": 0,
+      "publication_date": 20141021
+    },
+    {
+      "title": "It was not advertised as the (OLD MODEL) when I purchased it!!!!!",
+      "text": "I did not know it was the \"OLD MODEL\" when I purchased it. I had a hard time getting it to work when first installed and still get some kind of error message when I open Seagate Dashboard software. The explanation between back up times, daily monthly and continuous does not exist. I tried \"weekly\" and on the back up it took just short of 3 hours. I then change to \"Continuously\". Now I hope everything is working properly.",
+      "rating": 4.0,
+      "verified": true,
+      "author": "Larry E.",
+      "helpful_votes": 0,
+      "publication_date": 20150830
+    },
+    {
+      "title": "Very easy to setup and does what it's supposed to do",
+      "text": "Very easy to setup and does what it's supposed to do. The only gripe I have about it are the power saving features. The drive shuts off when not in use. The ramp up time to access it isn't too bad, but for me it's very annoying. For others, it may be a good feature.",
+      "rating": 3.0,
+      "verified": true,
+      "author": "Neosum",
+      "helpful_votes": 0,
+      "publication_date": 20141004
+    },
+    {
+      "title": "Broke right out of the box",
+      "text": "Very easy to connect, but the connection keeps dropping. Called customer support who listened to the device over the phone and diagnosed crashing read/write head. I asked about exchanges, and he told me that they will send me a refurbished one. I was shocked. I said I just got this out of the box and I'm getting a REFURBISHED unit as a replacement? He said he'll leave them a note. I said no thanks. Returned it through Amazon, got my money back. Bought a Synology 2-bay with disc pre-installed. It works beautifully. Stay clear from this machine and the company.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "C. Yu",
+      "helpful_votes": 0,
+      "publication_date": 20131226
+    },
+    {
+      "title": "RUN AWAY NOW!",
+      "text": "I purchased this and have not been able to access it from any of the PC's in my house. It randomly quits accepting my admin password and has only once let me log on from the website. Sending this POS back.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "Palmetto Dan",
+      "helpful_votes": 3,
+      "publication_date": 20130813
+    },
+    {
+      "title": "SeaGate Central is worth the Price!",
+      "text": "I would like to go ahead and Thank SeaGate for coming up with a product like Central with amazing storage capabilities for a decent price tag. Its been over a month and SeaGate customer service have greatly helped me in setting up my own cloud and use it regularly. I hope the product is durable and will recommend this for everybody!",
+      "rating": 4.0,
+      "verified": true,
+      "author": "Kailash",
+      "helpful_votes": 0,
+      "publication_date": 20131111
+    },
+    {
+      "title": "Dropped dead after 13 months of light use.",
+      "text": "I purchased two of these, one in June, and one in December of last year. The 13 month old unit just stopped working. I'm using it for very simple task: time machine backups on two networked macs. Performance has been fine, but now one of the units has just dropped dead. It will not spin up. Tried swapping power supplies and everything. I will give seagate a call, but this is pretty disconcerting.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "James B. Sly",
+      "helpful_votes": 2,
+      "publication_date": 20140803
+    },
+    {
+      "title": "Pay close attention to the reviews",
+      "text": "This device is great if you just want to use it in your house, external streaming or download is very slow. Getting your media on it is painful 1.8 tb took 3 days on a 1gb network. Would only upload at 10 mb p/sec.",
+      "rating": 2.0,
+      "verified": true,
+      "author": "Tracy Singley",
+      "helpful_votes": 5,
+      "publication_date": 20140108
+    },
+    {
+      "title": "Not Working",
+      "text": "Initially, Seagate was recognized & working. I called Seagate customer 5 different times & they were telling me that My Antivirus program OR My Latest Linksys Router is blocking the Seagate to be recognized. I called Linksys & Antivirus McAfee & they did NOT find any problem with neither of them. Seagate is still NOT recognized in my laptop & NOT working. so 2 yr warranty does not work with this product. Seagate said product is NOT faulty or defective. Unfortunately, I cannot return it to Amazon. WASTE OF MONEY !!",
+      "rating": 2.0,
+      "verified": true,
+      "author": "Vijay J.",
+      "helpful_votes": 0,
+      "publication_date": 20150506
+    },
+    {
+      "title": "Huge amount of storage for a good price. It's also very easy to set up ...",
+      "text": "Huge amount of storage for a good price. It's also very easy to set up although it didn't let me use the access anywhere part at first. I just needed to set up the account again, which took me a week to figure out.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "paul",
+      "helpful_votes": 0,
+      "publication_date": 20141008
+    },
+    {
+      "title": "Easy to Setup and use",
+      "text": "I purchased the Central 3TB external hard drive, and was impressed at how easy it was to set up. The connection speed isn't quite as fast as I had expected. Transferring 1.5 TB worth of data onto the disk took a total equivalent of 2 days. The accessing your files using the Seagate Media App on your IOS devices is easy and quick, but the remote access from other locations isn't always reliable.",
+      "rating": 4.0,
+      "verified": true,
+      "author": "Seaitrec",
+      "helpful_votes": 0,
+      "publication_date": 20140104
+    },
+    {
+      "title": "Terribly Disappointed",
+      "text": "The software is terrible. It is too slow to stream video or music. This product lasted just over a year. Now ALL the data and family pictures I presumed would be safe are lost. Don't waste your money.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "TreeTopFlyer",
+      "helpful_votes": 0,
+      "publication_date": 20180101
+    },
+    {
+      "title": "Works well w/ Apple TV",
+      "text": "Awesome! Easy to setup! Works extremely well with Apple TV and is easily controlled by an iPhone/iPad. Returned the Apple external drive because this seems far superior for 1/3 the price.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "M. Knutson",
+      "helpful_votes": 0,
+      "publication_date": 20150514
+    },
+    {
+      "title": "Great For Streaming & Backup But....",
+      "text": "this can essentially only be used within your home network. Don't expect to be able to stream to your devices remotely/outside of your local network. Otherwise, it's great for streaming to your home entertainment system and the backups are great.",
+      "rating": 4.0,
+      "verified": true,
+      "author": "David Rosenbaum",
+      "helpful_votes": 0,
+      "publication_date": 20130829
+    },
+    {
+      "title": "STOPPED POWERING ON!!! JUST STOPPED WORKING :(",
+      "text": "I bought one this drive (from NewEgg, not Amazon) and it stopped powering on. I went to the website to see if I was still in warranty...and it says I am not. Great. I had transferred all 1T of my home business work files from my laptop to this cloud drive and now it is all lost (unless I want to pay an obscene --to me-- amount of money to TRY to have this repaired). I thought I could trust the Seagate name brand. I wish I had done more homework :(",
+      "rating": 1.0,
+      "verified": true,
+      "author": "Candace Brown",
+      "helpful_votes": 0,
+      "publication_date": 20151223
+    },
+    {
+      "title": "Didn't work for me",
+      "text": "My Windows 8.1 never found the device. During setup, the device never showed anything but a solid amber LED. I tried all the troubleshooting steps including a direct plug in to the computer's ethernet . Returned and ordered a different product.",
+      "rating": 2.0,
+      "verified": true,
+      "author": "boatman",
+      "helpful_votes": 0,
+      "publication_date": 20150505
+    },
+    {
+      "title": "because I couldn't get it to work to see if I hated it. I ended up returning 2 defective cloud ...",
+      "text": "I wont give one star, because I couldn't get it to work to see if I hated it. I ended up returning 2 defective cloud storage units. I have better luck with western digital.",
+      "rating": 2.0,
+      "verified": true,
+      "author": "richard",
+      "helpful_votes": 0,
+      "publication_date": 20160229
+    },
+    {
+      "title": "Do not buy this piece of junk, pure garbage.",
+      "text": "The worce drive you can buy. Period!!! It crashes and Seagate will not offer any support. This drive it's pure garbage, do not buy it.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "Dariusz Bialowas",
+      "helpful_votes": 0,
+      "publication_date": 20171223
+    },
+    {
+      "title": "Great back-up equipment",
+      "text": "We bought this to use to back up our files from our laptops to another source. We were using a \"plug in\" external hard drive and it worked fine but was a bit of a pain to find a handy spot for it and then have to plug it in each time. It made us \"put off\" doing what needed to be done in a timely fashion. With this wireless storage device, we simply sit at our computers and send the files via the wireless router right to the back-up drive. So far, we're loving it.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Katybug",
+      "helpful_votes": 7,
+      "publication_date": 20140607
+    },
+    {
+      "title": "It can be a bit finicky, but I have ...",
+      "text": "It can be a bit finicky, but I have also pushed this thing to the limits, very fast transfer rate, usually in the 90Megabyte range, which is the maximum speed for the harddrive. This has well outperformed the TurboNAS we were using.",
+      "rating": 4.0,
+      "verified": true,
+      "author": "Joshua Tarzia",
+      "helpful_votes": 0,
+      "publication_date": 20140907
+    },
+    {
+      "title": "Few days ago I received a email saying that the \"remote acess\" was going down and I must use somethin like dropbox or something like that",
+      "text": "I bought to use as a cloud because Segate promisse it war. Few days ago I received a email saying that the \"remote acess\" was going down and I must use somethin like dropbox or something like that.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "Tiago",
+      "helpful_votes": 0,
+      "publication_date": 20180414
+    },
+    {
+      "title": "Simple, easy backup especially after a few tweaks",
+      "text": "I bought this drive as me and my wife's personal backup drive. It is a little slow as described, however it gets the job done. I got some better transfer times after reading some suggestions from online forums and Seagate's site. Several months in, the drive works with no problems. It works in the background without making a sound. Everyone needs a backup plan for your data and I have no problem suggesting this drive as an option.",
+      "rating": 4.0,
+      "verified": true,
+      "author": "HR",
+      "helpful_votes": 0,
+      "publication_date": 20131122
+    },
+    {
+      "title": "Do not buy",
+      "text": "Very slow. Backups consistently stop working automatically and have to be done manually. Virtually no customer support, just a handful of web pages that do not suggest a fix for your problem and leave you in a deep, dark bad place.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "Trish",
+      "helpful_votes": 0,
+      "publication_date": 20170302
+    },
+    {
+      "title": "Died Three times",
+      "text": "This thing blew up, got a replacement. The replacement blew up. Got another replacement, it blew up. sent back to amazon for refund. end",
+      "rating": 1.0,
+      "verified": true,
+      "author": "Harvey C.",
+      "helpful_votes": 3,
+      "publication_date": 20140101
+    },
+    {
+      "title": "I backed up all of my movies as mp4 & ...",
+      "text": "I backed up all of my movies as mp4 & avi and cuts out looking for a physical disc. Just relax and let your technology work for you!!!",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Dan",
+      "helpful_votes": 0,
+      "publication_date": 20160711
+    },
+    {
+      "title": "Didn't last long before it became unreliable",
+      "text": "Drops connections off my network way too often. Has to be rebooted, etc. Had to be replaced within 3 years just because it became really unreliable.",
+      "rating": 2.0,
+      "verified": true,
+      "author": "Sil in Ohio",
+      "helpful_votes": 0,
+      "publication_date": 20160227
+    },
+    {
+      "title": "Works great stores windows and mac files in one place",
+      "text": "I wish the read/write speeds were a little bit faster but I use it to back up my Windows PC and Mac. It stores all of it in one place so it is very convenient. I really enjoy this drive.",
+      "rating": 4.0,
+      "verified": true,
+      "author": "Whitley",
+      "helpful_votes": 0,
+      "publication_date": 20150326
+    },
+    {
+      "title": "Buy the extended warranty product will only last 2-3 years",
+      "text": "Buy extended warranty mine lasted 3 years then just stopped working. If it\u2019s out of warranty is $700.00 to attempt to recover data, so don\u2019t store anything you can\u2019t loose on it.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "Rodney Wagner",
+      "helpful_votes": 0,
+      "publication_date": 20180318
+    },
+    {
+      "title": "Great product",
+      "text": "it's been a couple weeks already and so far no problem. I pretty much leave it on the whole time. It doesn't run hot at all. The Seagate Media App is useful, but it limits the types of movie format you can view; even though, your television allows for more video format. Furthermore, the hard drive capacity is reduced by about 300 GB.",
+      "rating": 4.0,
+      "verified": true,
+      "author": "My World \"GBJCC\"",
+      "helpful_votes": 0,
+      "publication_date": 20131027
+    },
+    {
+      "title": "Not so happy!",
+      "text": "While it is durable, it is not very quick, responsive or available. I realize that it is on the network, but it would seem that it should be quicker than it really is. It never seems that the device is available on the network. Once I click on it, it takes a bit of time but mostly becomes available after selection.",
+      "rating": 3.0,
+      "verified": true,
+      "author": "Greg Parkes",
+      "helpful_votes": 0,
+      "publication_date": 20150511
+    },
+    {
+      "title": "Not easy",
+      "text": "I would not call this an easy setup or use. The software was okay to install, but the setup and use is a pain specially the online access. We basically use it for adhoc backups. The over the network sharing is slow so we rarely use it.",
+      "rating": 3.0,
+      "verified": true,
+      "author": "D. Lawrence",
+      "helpful_votes": 0,
+      "publication_date": 20131029
+    },
+    {
+      "title": "Everything in one place - you cant go wrong with this drive!",
+      "text": "Works on home network as described. Works with Android App as described. Everything in one place - you cant go wrong with this drive!",
+      "rating": 5.0,
+      "verified": true,
+      "author": "G-man",
+      "helpful_votes": 0,
+      "publication_date": 20140830
+    },
+    {
+      "title": "Nice Unit - Stopped working after 1-1/2 days",
+      "text": "It only worked for a day and a half. Unit gets very hot and stops working. Once I unplugged it and let cool off, it works only until it gets hot again. On its way back to Amazon.",
+      "rating": 2.0,
+      "verified": true,
+      "author": "AM56",
+      "helpful_votes": 0,
+      "publication_date": 20140718
+    },
+    {
+      "title": "Not a NAS unless you consider that term to apply to any storage with an ethernet connection.",
+      "text": "Very disappointing. This product really has no right to be called a NAS. If you only need smb (Windows) file sharing it seems like a nice device. Here's some of what you don't get: nfs, iscsi, jumbo frames.",
+      "rating": 2.0,
+      "verified": true,
+      "author": "fluxsmith",
+      "helpful_votes": 0,
+      "publication_date": 20140709
+    },
+    {
+      "title": "Great NAS!",
+      "text": "I chose this product because I wanted to hook up a hard drive so that I could play my tv shows on almost any device on my network. So far haven't had any problems with it. I use this to stream movies to my xbox360, PS3, computers, and my IPAD.",
+      "rating": 4.0,
+      "verified": true,
+      "author": "Youwontgnomeme",
+      "helpful_votes": 0,
+      "publication_date": 20140626
+    },
+    {
+      "title": "Perfect for backups",
+      "text": "I use this solely for backups and it does this well. Transfer speeds are slow and the interface and web portal and app are very laggy making much else unbearably frustrating.",
+      "rating": 3.0,
+      "verified": true,
+      "author": "ATechnoholic",
+      "helpful_votes": 0,
+      "publication_date": 20160108
+    },
+    {
+      "title": "Backups and sharing media made easy, but bad transfer speeds.",
+      "text": "Setting up the HDD was pretty easy. I am able to connect and share via all the devices in my house (Macbooks, iPad- via the Seagate Central app, Windows laptop, PS3). Setting the HDD up for use with Time Machine was surprisingly easy. My only beef with this is that transfer speeds are really really slow. I rarely get above 6-7 MBPS, wired and wireless. I would really recommended if I had the transfer rates that the reviewer Eric W gets (~22MBPS).",
+      "rating": 3.0,
+      "verified": true,
+      "author": "Macneil E. Fernandes",
+      "helpful_votes": 0,
+      "publication_date": 20130816
+    },
+    {
+      "title": "I use this as my home network. It works ...",
+      "text": "I use this as my home network. It works very well with both Apple and Windows computers. You can remote access your files with an internet connection even when you aren't at home. Money well spent.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Anthony C Rodriguez",
+      "helpful_votes": 0,
+      "publication_date": 20140913
+    },
+    {
+      "title": "Kept disconnecting from the WiFi. I returned it and ...",
+      "text": "Kept disconnecting from the WiFi. I returned it and got very prompt credit. I got a 4TB WD external drive and set it up as a network share on my desktop.",
+      "rating": 2.0,
+      "verified": true,
+      "author": "Donald A. Holzworth",
+      "helpful_votes": 0,
+      "publication_date": 20150516
+    },
+    {
+      "title": "Documentation issues",
+      "text": "The drive works great once you figure how to set it up to get your backups to go to private folders instead of the public one. Had to contact tech support and after two unclear emails, I finally realized what they were trying to say. After I figured it out, the drive works as described.",
+      "rating": 3.0,
+      "verified": true,
+      "author": "SC",
+      "helpful_votes": 0,
+      "publication_date": 20140226
+    },
+    {
+      "title": "The Seagate Central",
+      "text": "This really works for us. We run laptops,, and now we have a central place to view our files. Running laptop backups automatically did not work. We can do it manually, which will have to do. It does help save space on the laptops, and keeps them fully portable.",
+      "rating": 4.0,
+      "verified": true,
+      "author": "Cheryl Gwinn",
+      "helpful_votes": 0,
+      "publication_date": 20130529
+    },
+    {
+      "title": "No problem using the unit for my macbook's time machine back up",
+      "text": "No problem using the unit for my macbook's time machine back up - would like lights in front to tell me it's working. Can't tell if there's a NAS option",
+      "rating": 4.0,
+      "verified": true,
+      "author": "jeff parnes",
+      "helpful_votes": 0,
+      "publication_date": 20150413
+    },
+    {
+      "title": "Good, but not great.",
+      "text": "A bit tricky, as it will sometimes kick itself off of my network! Also, it is hard to access files remotely. Overall, when you take the time to understand it, it is a nice device.",
+      "rating": 4.0,
+      "verified": true,
+      "author": "Stephen F. Yosh",
+      "helpful_votes": 0,
+      "publication_date": 20140804
+    },
+    {
+      "title": "Does the job very well",
+      "text": "We have gone through several hard drives for storage. This one meets our requirements. It is on the network and so far hasn't let us down. Easy to install and use.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Cherri W.",
+      "helpful_votes": 0,
+      "publication_date": 20150105
+    },
+    {
+      "title": "Works fine on Seagate Central Remote Access (webpage) though which means ...",
+      "text": "Set up is OK on day one. And starting from day two, my iPhone can no longer connect to the Seagate Central 4T server. Error message is \"Failed to connect\". Works fine on Seagate Central Remote Access (webpage) though which means the connection is good. But with my iPhone not able to connect basically it fails my purpose of purchase.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "Sai",
+      "helpful_votes": 0,
+      "publication_date": 20150427
+    }
+  ],
+  "product_meta": {
+    "title": "(OLD MODEL) Seagate Central 3TB Personal Cloud Storage NAS STCG3000100",
+    "description": "Capacity:3 TBNAS server - 3 TB - HD 3 TB x 1 - Gigabit Ethernet",
+    "rating": 3.2,
+    "feature_bullets": [
+      "Access your personal cloud from anywhere with a Web browser or the free app for tablets and smartphones",
+      "Automatically back up multiple PC and Mac computers",
+      "Upload and back up photos/video from tablets and smartphones anywhere you have an internet connection",
+      "Wirelessly stream your media library to gaming consoles, media players, Smart TVs, and connected devices",
+      "Experts love it: a PCMAG.com Editor's Choice award winner"
+    ],
+    "specifications": {
+      "Brand": "Seagate",
+      "Item model number": "STCG3000100",
+      "Hardware Platform": "PC, Mac",
+      "Item Weight": "2.2 pounds",
+      "Product Dimensions": "5.7 x 8.5 x 1.7 inches",
+      "Item Dimensions  LxWxH": "5.7 x 8.5 x 1.7 inches",
+      "Flash Memory Size": "3 TB",
+      "Manufacturer": "SEAGATE",
+      "ASIN": "B00ARB5FLQ",
+      "Is Discontinued By Manufacturer": "No",
+      "Date First Available": "June 28, 2017",
+      "Customer Reviews": "3.2 out of 5 stars767 ratings3.2 out of 5 stars",
+      "Best Sellers Rank": "#88 in Network Attached Storage"
+    },
+    "categories": [
+      "Computers & Accessories",
+      "Devices",
+      "Data Storage",
+      "Electronics",
+      "Network Attached Storage"
+    ],
+    "price": ""
+  }
+}

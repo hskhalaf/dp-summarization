@@ -1,0 +1,590 @@
+{
+  "website_summaries": [
+    {
+      "verdict": "A good performer, the Seagate Business Storage 2-Bay NAS would be fine for the smaller end of the SMB. However, there are speedier two-bay NASes, and the Seagate lacks some of the extra features in other NASes in its class.",
+      "pros": [
+        "Easy setup and HDD installation",
+        "Sharp, user-friendly interface",
+        "Anywhere, anytime remote access for users",
+        "Good drive recovery",
+        "Affordable"
+      ],
+      "cons": [
+        "Performance lags a bit behind some competing NASes",
+        "Poor online documentation"
+      ],
+      "aspects": {},
+      "publication_date": 20130912,
+      "rating": 8.0,
+      "source": "pcmag"
+    }
+  ],
+  "customer_reviews": [
+    {
+      "title": "Phasing out of Hardware support",
+      "text": "Failed twice each within a year. Lost all config on device (after 11 months) Config reset to previous settings (after another 10 months) Makes me skeptical of Seagate NAS. Have to jump through hoops to reformat drives if something goes wrong(not built into their software). Firmware is not being updated for many years which shows phasing out of product. Had I known I would have purchased a different more current model.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "Paul Pedron",
+      "helpful_votes": 2,
+      "publication_date": 20170831
+    },
+    {
+      "title": "Our business owned two of these NAS systems, one ...",
+      "text": "Our business owned two of these NAS systems, one of which was bought a few months prior to the one we purchased from Amazon. Within a six months after purchasing the second drive on Amazon, both drives in each of the NAS systems had failed and the data held on the drives was unrecoverable. Upon further research, the drive used in the NAS systems we purchased had been found to have a 32% failure rate. Never buying from Seagate again.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "Tyler",
+      "helpful_votes": 3,
+      "publication_date": 20161103
+    },
+    {
+      "title": "It's good quality, run cool most of the time and ...",
+      "text": "I've been heavily using this for my HTPC for 2 years now. It's good quality, run cool most of the time and is relatively quite, The biggest issue i have with it is the very VERY slow file transfer rates. i have a 1 Gb switch connecting all my devices, yet the average transfer rate i get out of this NAS is 2-4 MB! The HDDs are all WD Red 4TB drives so they have no issues, but the seagate NAS is not only slow, but a nightmare to manage as well.",
+      "rating": 3.0,
+      "verified": true,
+      "author": "Khalid",
+      "helpful_votes": 0,
+      "publication_date": 20150716
+    },
+    {
+      "title": "Beware....",
+      "text": "Out of three of these that have been online for less than 6 months, 2 have developed problems that require an RMA. The last issue took out three of 4 drives. One was under warrantee, the other two are door stops now. Buy at your own peril. To add insult to injury, they are closed for the holidays. Business critical files on your box? too bad...see you after the party folks.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "tdlivings",
+      "helpful_votes": 2,
+      "publication_date": 20131225
+    },
+    {
+      "title": "Compact unit with an pretty straightforward interface, solid featured software suite and overall good design",
+      "text": "Only had this unit for a few months. File transfer speeds seem fairly slow, but that could be my network (I haven't had time to troubleshoot further). I was not able to find a way to migrate my drives over without completely reformatting them. This made for a lengthy process of copying over 4TB of data over to other hard drives, formatting (wiping) the ones I planned to use in this unit and copying them back over. If there was a way to migrate the drives without losing the data, it wasn't straightforward.",
+      "rating": 4.0,
+      "verified": true,
+      "author": "Matthias Wholley",
+      "helpful_votes": 0,
+      "publication_date": 20130727
+    },
+    {
+      "title": "Raid5 status: Failed.",
+      "text": "Seagate Business NAS, so your data is safe! Well, 13 month later the Raid5 simply shows \"Failed\", where all four drives are shown as healthy. No file system recognized, 3TB of data gone without a sign of problem prior to that. The Seagate website doesn't recognize the serial number. Support is limited to change failed drives. Unbelievable..",
+      "rating": 1.0,
+      "verified": true,
+      "author": "McZaustria",
+      "helpful_votes": 0,
+      "publication_date": 20160315
+    },
+    {
+      "title": "Unfortuantely this product sucks. I bought a two bay NAS to make ...",
+      "text": "Unfortuantely this product sucks. I bought a two bay NAS to make sure all my pictures would be save with RAID, but in reality after a power loss all my data was gone, I had to clean the disks and reinstall. That happened to me 2 times, if you ask for Seagate support they will try to sell you a very expensive recovery service, disapointing. After discussing with IT experts and reaching Seagate support I was informed a simple feature that could resolve the problem (auto-mount disks) can't be enabled, so I had to choice rather than selling the NAS as junkyard and by a WD one. Get away from this crap.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "Amazon Customer",
+      "helpful_votes": 0,
+      "publication_date": 20160206
+    },
+    {
+      "title": "This is an unfinished product",
+      "text": "This is an unfinished product, I'm wondered why amazon sells it. I feel as if someone had stolen my money Hoping they update the firmware... some missed elementals function like user private folders the device can't turn off and get stuck/freeze Seagate don't reply my emails Why amazon!!!!! why!!!!",
+      "rating": 1.0,
+      "verified": true,
+      "author": "H\u00e9ctor",
+      "helpful_votes": 0,
+      "publication_date": 20141205
+    },
+    {
+      "title": "Could of been great!",
+      "text": "This could of been a great unit, but it has many problems, which have been noted, such as it does not follow the Power Save Schedule Power On/Off. It works the first time you shutdown and restart the system, then it does not follow schedule. There are other problems. I don't know why Seagate of all people would let this product fail.",
+      "rating": 3.0,
+      "verified": true,
+      "author": "RonS",
+      "helpful_votes": 0,
+      "publication_date": 20131210
+    },
+    {
+      "title": "Less than two years in and this piece of equipment ...",
+      "text": "Less than two years in and this piece of equipment has completely quit. The power button is stuck on. Reset won't work. Online research has yielded many other users having similar problems over the last two years. And, to get the data off of the drives requires a complicated process using Linux. This is a problem considering the plan was to have one drive mirror on the other so that I always had a backup. I would look elsewhere for a network drive until Seagate fixes their hardware problems.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "Brian F.",
+      "helpful_votes": 0,
+      "publication_date": 20151120
+    },
+    {
+      "title": "Do not Buy!",
+      "text": "Very slow when trying to put 4tb of files on it, was only uploading about 35mb per second. I was using it for a video server to view videos off my Samsung TV. It constantly kept disconnecting during the movie and the drive would often not even connect or be found on my computer and TV.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "Stephen R. Keierleber",
+      "helpful_votes": 0,
+      "publication_date": 20140810
+    },
+    {
+      "title": "Get a different brand",
+      "text": "Spend a little more money and get a Synology. Falls off the domain almost every time it reboots. And sometimes in the interim.",
+      "rating": 2.0,
+      "verified": true,
+      "author": "Danny A Stewart",
+      "helpful_votes": 0,
+      "publication_date": 20150712
+    },
+    {
+      "title": "Bugs every where!!!",
+      "text": "The administrations sucks, I've start to create my users and shares 21 to be specific after that, the users and share can not be accessible because for any reason the NAS start to do weird thinks. I talk to support and they told me that for some reason that they do not know yet is doing that, so they recommend me to erase 11 users to get 10, no more. I did and I have the same problem. Be careful with this product.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "Adrian Ventura",
+      "helpful_votes": 3,
+      "publication_date": 20130902
+    },
+    {
+      "title": "I like it, but Seagate need to improve sync tools.",
+      "text": "Fine, but need to improve the Mac compatibility and sync tools (Mac and PC). For example: if you want to use like private drop box, you need to manually move the files from your computer to NAS and viceversa.",
+      "rating": 4.0,
+      "verified": true,
+      "author": "Diego Raul Calvo Etcheverry",
+      "helpful_votes": 0,
+      "publication_date": 20150120
+    },
+    {
+      "title": "Hardware ok -  Software obsolete",
+      "text": "My previous SeaGate NAD device lasted 3 years and broke down just after the warrantee expired... So bought a new device. Good unit - didn't realize it was made in 2013.. The software that comes with it doesn't install on Windows 8.1 - that wasn't very obvious (Black Armor Backup). AFter contacting SeaGate support , they were kind enough to provide a limited version of Acronis Backup - I ended up upgrading that to the full product (at a reduced cost).",
+      "rating": 3.0,
+      "verified": true,
+      "author": "TT459",
+      "helpful_votes": 0,
+      "publication_date": 20150125
+    },
+    {
+      "title": "Easy to set up and use",
+      "text": "This is the 2nd unit I've bought to hold multimedia files. Easy to set up and use, but since I've been working with computers and network devices for 3 decades, it might not be for others. I'm looking forward to buying the 20tb unit this year. Yes, I have too many files.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Lunar",
+      "helpful_votes": 0,
+      "publication_date": 20150226
+    },
+    {
+      "title": "Great BU Storage",
+      "text": "This is a great device for backing up your computer and others on the network. I like the hot swappable feature for the hard drives although hope to never use it. Lot's of good features.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Matthew Morris",
+      "helpful_votes": 0,
+      "publication_date": 20140411
+    },
+    {
+      "title": "Great NAS Box !",
+      "text": "Great price and I love it. Thank you Seagate and Amazon for getting it to me so fast! I am actually about to order two more for gifts. The backup software that comes with it is fantastic as well, I did have to register the NAS Box before I received the 5 licenses that comes with it.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "M GARRETT",
+      "helpful_votes": 2,
+      "publication_date": 20140501
+    },
+    {
+      "title": "I really wanted to believe it would be good",
+      "text": "I went through the setup, followed the instructions, even forced myself to used supported browsers to do it. But so many things in the application were glitchy as hell. And after I finally went through it all, the Global Access thing just plain refused to work. Persevered for a few hours, but am going to send it back and get something better.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "Pixie",
+      "helpful_votes": 0,
+      "publication_date": 20140324
+    },
+    {
+      "title": "The one I ordered died because of file witting errors ...",
+      "text": "The one I ordered died because of file witting errors. Seagate replaced the drives but wanted $8,000.00 to recover the data. The second one they sent me seems to work for now.",
+      "rating": 2.0,
+      "verified": true,
+      "author": "The Actor's Photo lab",
+      "helpful_votes": 0,
+      "publication_date": 20140812
+    },
+    {
+      "title": "Limited functionality",
+      "text": "We got this for backing up Linux machines using NFS. The NFS functionality appears to be poorly implemented. It will connect, but with very poor thoughput rates and lots of errors. I'm assuming this is mainly for Windows shares, and we'll try to use it for that.",
+      "rating": 2.0,
+      "verified": true,
+      "author": "J.C. Reid",
+      "helpful_votes": 2,
+      "publication_date": 20131031
+    },
+    {
+      "title": "works great, backs-up as desired (found out it can back-up ...",
+      "text": "The fan is a bit noisy, works great, backs-up as desired (found out it can back-up redundantly). Great buy.",
+      "rating": 4.0,
+      "verified": true,
+      "author": "Michael Pierce",
+      "helpful_votes": 0,
+      "publication_date": 20150105
+    },
+    {
+      "title": "Don't do it !!!",
+      "text": "35 year technology veteran speaking. The drive crashed while updating the bios on installation, then destroyed the volumes after a power failure. It would also never see the removable drive that was bought with it, so a backup was impossible. After looking at the operating system written by Seagate (on top of Linux) it is weak at best. Poorly written and slow. Strongly recommend against the drive until Seagate addresses the many issues that can (and most likely will) lose your data. Oh, their support offered to recover the data for a charge! Nice business model, destroy my data and then charge me to recover it. Back to a standard Linux box with mirrored drives.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "WestCoasters",
+      "helpful_votes": 13,
+      "publication_date": 20131016
+    },
+    {
+      "title": "Jury still out",
+      "text": "Unit was working perfectly for a week, then all of a sudden it could not recognize the drives. Had to send drives to Seagate for data recovery. Did not know the cost would be a mortgage payment to recover data.",
+      "rating": 2.0,
+      "verified": true,
+      "author": "Deborah W. Brown",
+      "helpful_votes": 3,
+      "publication_date": 20130808
+    },
+    {
+      "title": "Love the hardware, hate the software",
+      "text": "Software included is obsolete, 3 years old. The hardware portion is wonderful. Too bad Seagate doesn't update the included Black Armour 2011 software.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "Scott Pearson",
+      "helpful_votes": 0,
+      "publication_date": 20131207
+    },
+    {
+      "title": "Don't waste your money",
+      "text": "We lost our data with this NAS, and technical support only want to get a new business with Seagate Recovery Services. Don't waste your money, don't waste your data.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "GUSTAVO FLORES - UNIVERSIDAD VERITAS",
+      "helpful_votes": 0,
+      "publication_date": 20150916
+    },
+    {
+      "title": "Works great",
+      "text": "A little hard to set up, but after I managed that it works just as desired.",
+      "rating": 4.0,
+      "verified": true,
+      "author": "The German",
+      "helpful_votes": 0,
+      "publication_date": 20141029
+    },
+    {
+      "title": "Just like new",
+      "text": "just like new works to perfection installed drives very nice",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Blake Connell",
+      "helpful_votes": 0,
+      "publication_date": 20151113
+    },
+    {
+      "title": "The NAS worked great and my customer was very satisfied.",
+      "text": "I purchased this for a sign company who has several designers who need to access data across the network. This worked out great for them because this unit also has a drive bay so they can have offsite backup too just incase of disaster.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Tony",
+      "helpful_votes": 2,
+      "publication_date": 20131225
+    },
+    {
+      "title": "Seagate - Very poor product !!!!",
+      "text": "I purchased the Seagate Business Storage 2-Bay hoping to be able to back up everything on my system. I was able to get it to work for the first day and then turned off the unit to save on power. Two days later I turned it back on, the unit is working, but I can't get the network connection to work. I have deleted the software and have re-installed it 3 times and it still is not recognizing the storage unit. So now I have an oversized paper weight with blue lights. I would not recommend the Seagate Business Storage for the simple reason of the software interface!",
+      "rating": 1.0,
+      "verified": true,
+      "author": "Keith B.",
+      "helpful_votes": 2,
+      "publication_date": 20130710
+    },
+    {
+      "title": "Works Great",
+      "text": "Backup storage networking capabilities and not too noisy this is a product I'm going to recommend over and over again.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "rkw2345",
+      "helpful_votes": 0,
+      "publication_date": 20130701
+    },
+    {
+      "title": "Five Stars",
+      "text": "Love the fact and can easily take in and out the hard drives.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Steven Abney",
+      "helpful_votes": 0,
+      "publication_date": 20150807
+    },
+    {
+      "title": "for a business system the connection is very poor and slow",
+      "text": "for a business system the connection is very poor and slow, and the system was very loud after operating for about an hour or so.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "lucien stclair",
+      "helpful_votes": 0,
+      "publication_date": 20140721
+    },
+    {
+      "title": "i am not able to use the same on windows ...",
+      "text": "i am not able to use the same on windows 8 unfortunately after updating the computer from windows 7 to windows 8 it stopped working and I cannot get the update from seagate. I hope Seagate helps me in that matter",
+      "rating": 1.0,
+      "verified": true,
+      "author": "kevin crasto -  India",
+      "helpful_votes": 0,
+      "publication_date": 20140825
+    },
+    {
+      "title": "Five Stars",
+      "text": "Great storage unit, easy to set up, lots of room for everything, good security at a good price.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Mike",
+      "helpful_votes": 0,
+      "publication_date": 20150120
+    },
+    {
+      "title": "Perfect Fit",
+      "text": "Working better than I hoped for. Delivery was very timely",
+      "rating": 5.0,
+      "verified": true,
+      "author": "KN",
+      "helpful_votes": 0,
+      "publication_date": 20150603
+    },
+    {
+      "title": "Terrible for MacOS",
+      "text": "It's awful for MacOS, lion half works with time machine, mountain lion doesn't - documentation is terrible. I'm in the IT field and I found it hard to even get setup serving files. I still haven't got the 'discovery' software working on my mac, which means I couldn't migrate my existing drives, I had to wipe and start again. Very disappointed.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "B. Frank",
+      "helpful_votes": 5,
+      "publication_date": 20130510
+    },
+    {
+      "title": "So far it works like a charm",
+      "text": "I ordered this drive to store all my music files and as a place to backup my laptop. So far it works like a charm.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "T. White",
+      "helpful_votes": 0,
+      "publication_date": 20150303
+    },
+    {
+      "title": "Don't buy",
+      "text": "Very dissatisfied! Software got corrupt within weeks and now it's useless. Not much help from support either.",
+      "rating": 2.0,
+      "verified": true,
+      "author": "Amarnath Jasti",
+      "helpful_votes": 0,
+      "publication_date": 20150305
+    },
+    {
+      "title": "great little NAS for a great price",
+      "text": "Biggest issue I have is the admin password cannot contain symbols. Otherwise, great little NAS for a great price.",
+      "rating": 4.0,
+      "verified": true,
+      "author": "Wally Bahny",
+      "helpful_votes": 0,
+      "publication_date": 20141229
+    },
+    {
+      "title": "Plug and Play",
+      "text": "Always have been a Seagate fan. I am able to access it across the network and out from the web too!",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Steven Abney",
+      "helpful_votes": 2,
+      "publication_date": 20131003
+    },
+    {
+      "title": "Drives is very slow over internet",
+      "text": "I purchased this drive to use as a NAS drive. It worked ok on my local computer, but once I tried to access via the internet remotely. It failed numerous times or was very slow.",
+      "rating": 3.0,
+      "verified": true,
+      "author": "Jose G Cortez",
+      "helpful_votes": 0,
+      "publication_date": 20140209
+    },
+    {
+      "title": "Very satisfied with price and performance",
+      "text": "Bought it for our campground to provide audio for their outdoor theater and for outside activities center. Was so impressed, I bought one for our campsite and use it for karaoke. The only think I added was a pair of wireless mikes. Very satisfied with price and performance.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Wendell M.",
+      "helpful_votes": 0,
+      "publication_date": 20150815
+    },
+    {
+      "title": "Disapointed- had to return the unit and lost $25 in the process",
+      "text": "I could not get my system to recognize the NAS 1-Bay unit ---I tried for two days (4Hr each day) and got so frustrated - gave up! I had a Seagate 1TB unit, (2 Yrs old),-connected it and the first time worked fine. I bought a WD 4TB unit for less than the Seagate 3TB,-connected and it was reconized by my system on the first try.",
+      "rating": 2.0,
+      "verified": true,
+      "author": "Kate Y.",
+      "helpful_votes": 0,
+      "publication_date": 20140419
+    },
+    {
+      "title": "Not as good as the single drives",
+      "text": "Bought it thinking the drives would be better but it will not work over a network like the single drives will. It would drop the connection and calling customer support was no help would not suggest buying this drive",
+      "rating": 1.0,
+      "verified": true,
+      "author": "Don Terrell",
+      "helpful_votes": 7,
+      "publication_date": 20130608
+    },
+    {
+      "title": "Perfect Central Storage",
+      "text": "Worked perfectly. Used this device to replace all local storage in small network. Could benefit from allowing a USB connection for large file moves, other than that it is perfect.",
+      "rating": 4.0,
+      "verified": true,
+      "author": "D. Weaver",
+      "helpful_votes": 0,
+      "publication_date": 20140725
+    },
+    {
+      "title": "Great for sharing data in the office",
+      "text": "Using this as a short term solution for sharing data that our team in working with. Works great and transfer speeds are nice on Gigabit network.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Tim T.",
+      "helpful_votes": 0,
+      "publication_date": 20130726
+    },
+    {
+      "title": "Very disappointed that 1 One version removed hardware gets nothing from ...",
+      "text": "Don't bother buying it. Seagate even though device is still listed on their site, and can purchase it. Does not support updating the firmware. What does this mean? You are maxed out to 16TB. They already offer 5TB drives, but choose to not even update the firmware for these drive. They quoted back EOL(End of Life). Hmm. I understand EOL, but 1. Not when you are still selling it. 2. It's is under warranty still. This is about pushing any customer to buy their newer product. That is all it is. No customer loyalty at all. I have 7 Seagate NAS, and now must look to WD. Very disappointed that 1 One version removed hardware gets nothing from them already.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "Michael A Gunther",
+      "helpful_votes": 0,
+      "publication_date": 20150316
+    },
+    {
+      "title": "hated it",
+      "text": "tons of issues, and after i got it working all my data got deleted.... seagate customer service was 0 help and there community forums are a bunch of jerks. I returned both of mine",
+      "rating": 1.0,
+      "verified": true,
+      "author": "Simpuhl",
+      "helpful_votes": 0,
+      "publication_date": 20130620
+    },
+    {
+      "title": "Five Stars",
+      "text": "Received item in about a week. Is as described and works well.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Stacey",
+      "helpful_votes": 0,
+      "publication_date": 20140713
+    },
+    {
+      "title": "Poor Documentation but seems to be a good product.",
+      "text": "I purchased this NAS to use as a Time Machine for my five Apple computers. Included documentation was non-existent for setting this system up to support Apple Time Machine. After spending some time digging through Seagate website, I found documentation for how to set up a NAS based time machine for older firmware. I had to interpret the available documentation to finally figure out how to enable Time Machine support on this NAS. After that, things were smooth and simple. I have all of my systems smoothly backing up to this NAS. The NAS itself is fairly quiet with some fan noises but not bad.",
+      "rating": 4.0,
+      "verified": true,
+      "author": "David C",
+      "helpful_votes": 7,
+      "publication_date": 20130304
+    },
+    {
+      "title": "It works ok",
+      "text": "We didn't use the android apps yet, but it's useful if you have private information, that you don't want to be in dropbox or another webserver.",
+      "rating": 4.0,
+      "verified": true,
+      "author": "German",
+      "helpful_votes": 0,
+      "publication_date": 20140311
+    },
+    {
+      "title": "Excellent NAS device!",
+      "text": "This device is a little hard to setup if you are technically challenged and/or don't like reading instructions. But if you aren't, this thing ROCKS! About the bad reviews: Seems most of them are because of user error. If you work patiently through the instructions this device will do what you need it to!",
+      "rating": 5.0,
+      "verified": true,
+      "author": "J. Ward",
+      "helpful_votes": 2,
+      "publication_date": 20130920
+    },
+    {
+      "title": "NAS 220 slow, now DEAD",
+      "text": "Okay, it's official. I don't like it. It's always been slow. Now it is dead. I'll see if I can rescue & repurpose the the disks and investigate NAS vendors more thoroughly.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "Prescott C Grey",
+      "helpful_votes": 6,
+      "publication_date": 20130822
+    },
+    {
+      "title": "Had to return to factory",
+      "text": "I had to return the device to the factory because the web GUI would not load (Dead on Arrival). There is a good troubleshooting flash presentation on WDs website. I paid $10 for expedited shipping of the replacement and received a 'order out of stock' from WD, once the item was in stock they sent it 2 business day. Now the device is in place and rock solid but getting a working one was a process.",
+      "rating": 4.0,
+      "verified": true,
+      "author": "Eric Beckman",
+      "helpful_votes": 0,
+      "publication_date": 20131009
+    },
+    {
+      "title": "Works Great",
+      "text": "Seagate's 2-Bay 4TB Network Attached Storage did the trick. I just plugged it into my home network and all my computers were able to see the storage. The configuration software isn't intuitive, but I think anybody with a bit of patience (and google) would be able to figure it out just fine. Highly recommended for redundancy backup!",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Christopher Geen",
+      "helpful_votes": 0,
+      "publication_date": 20130715
+    },
+    {
+      "title": "Works Perfect!",
+      "text": "I really like this product and it was at a great price. It did everything I wanted it too and more. I would buy again.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "mrtremble1",
+      "helpful_votes": 0,
+      "publication_date": 20130721
+    },
+    {
+      "title": "Five Stars",
+      "text": "Excellent NAS if you know what the hell you are doing.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Stevon Gardner",
+      "helpful_votes": 0,
+      "publication_date": 20140818
+    },
+    {
+      "title": "Five Stars",
+      "text": "the Item Excellent and the seller is good thank you",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Triplett 3275 SatAlign 2 Digital Satellite Signal Strength Meter with Tone",
+      "helpful_votes": 0,
+      "publication_date": 20171221
+    }
+  ],
+  "product_meta": {
+    "title": "Seagate Business Storage NAS 1-Bay 3TB Network Attached Storage STBM3000100",
+    "description": "Capacity:3 TB| Style:1-BayThe Seagate Business Storage 1-bay NAS is a complete network storage solution designed to keep businesses with up to 10 employees productive by creating a secure private cloud. With the included backup software for Windows , Time Machine compatibility and hardware encryption technology, keep your critical business files protected. The Business Storage 1-bay NAS creates a shared space to collaborate by storing files centrally. With the Global Access service, you can stay connected to your business from anywhere in the world with free apps for iPhone , iPad and Android devices. The Business Storage 1-bay NAS features a Web interface to securely download and upload large files. The included BlackArmor backup software for Windows PCs will take the hassle out of backing up multiple computers by automating the process. The software helps you protect data by backing up not only the files you store, but also the programs, settings, email and even the operating system on your local PCs. With this level of protection, you can restore the entire hard drive on a PC that has suffered a hardware failure. By supporting Time Machine software, the Business Storage 1-bay NAS offers the same level of data protection for Mac computers as well. System Requirements: Local area network (LAN), Internet connection, Wired or wireless router with an available 10/100/1000 Ethernet port, DVD-ROM drive for software installation (recommended), Mac on Network: Mac OS X 10.5.8 or later, Apple Safari 3.1 or later PC on Network: Pentium or equivalent processor (1GHz or higher), 512MB of RAM or higher, Microsoft Windows XP, Vista , 7 or 8, Internet Explorer 7.0 or later, or Firefox 3.0 or later. Inside the box: Seagate Business Storage 1-bay NAS, Quick start guide, Ethernet cable, 3-year limited warranty, Power supply, DVD-ROM with BlackArmor Discovery software for Windows and Mac, BlackArmor Backup software for Windows, System Recovery Boot software for Windows.\n\nFROM THE MANUFACTURER\n\n\nCOLLABORATE ANYTIME, ANYWHERE\nWith an easy ten-minute set up, you can now create your own private cloud storage without monthly fees. Back up multiple PC and Mac computers and protect your business-critical data in a central location that you can access anytime, anywhere.\n\nALL YOUR BUSINESS DATA\nAutomatically back up multiple PC and Mac computers (1-Bay NAS works with Time Machine) including the files, programs and OS.\n\nSECURELY BACKED UP HERE\nUp to 4TB of capacity to securely store all your business data including documents, photographs, and video footage.\n\nACCESSIBLE ANYWHERE\nSecurely access and upload files with Internet-connected tablets, smartphones and computers.\n\n\n\nALWAYS-ON DATA SECURITY\nGovernment-grade hardware encryption technology helps protect your business-critical data on the hard drive without slowing you down.\n\nWhen you upload and access files remotely, your data-in-flight is also protected by SSL/TLS, the same technology that secures your information when banking online.\n\nMANAGE FILES ON-THE-GO\nThe free Seagate Global Access mobile app makes it easy to upload and download using iPhone, iPad, and Android devices. You can also access and save files using Internet-connected computers, and you get an easy-to-use web interface for securely sharing large files with clients and coworkers.\n\nUSB 3.0 FOR MORE FLEXIBILITY\nThe built-in USB 3.0 ports make it simple to share a printer or add capacity with external drives. With portable USB 3.0 drives you can even create cost-effective offsite backups by taking copies of your data to a second location.\n\nSAVES POWER\nEfficient power management allows the 1-Bay NAS to automatically switch to standby mode and power up as needed. In its standby mode, the 1-Bay NA only consumes about as much power as a nightlight.\n\nWHAT'S IN THE BOX\n * Seagate Business Storage 1-Bay NAS\n * Ethernet Cables\n * AC Power Cord\n * DVD with Discover Software for Mc and Windows + Backup Software* and System Recovery Boot for Windows\n\n*Includes 5 licenses. Additional licenses available for purchase.\n\nWHETHER YOU WORK SOLO OR IN AN ORGANIZATION, THERE'S A SEAGATE BUSINESS STORAGE SUITED TO YOU\nSEAGATE BUSINESS STORAGE 2-BAY NAS\nThis scalable NAS solution features up to 8TB of storage in a flexible design that can grow with your small business.\n\nSEAGATE BUSINESS STORAGE 4-BAY NAS\nThis highly scalable solution delivers up to 16TB of storage and support for up to 50 computers. This model is perfect for small to medium businesses.\n\nMORE INFO\nLearn more technical specifications.\nView larger.",
+    "rating": 3,
+    "feature_bullets": [
+      "Centralize your storage to allow all the PC and Mac computers in your business to backup, access, collaborate and share files",
+      "The 1-bay NAS becomes your business\u2019s own secure and private cloud, enabling you to share files with colleagues and clients around the world",
+      "Stay connected to your files from anywhere with free apps for iPhone, iPad, and Android devices",
+      "Stream media to DLNA devices such as media players, Blu-ray players, game consoles and Internet TVs. Plus stream music to PC and Mac computers running iTunes software.",
+      "Specs: dual-core processor and 256MB of RAM, Gigabit Ethernet port, and (2) USB 3.0 ports. Supports DLNA, UPnP, iTunes streaming, Time Machine backup, iSCSI and more."
+    ],
+    "specifications": {
+      "Brand": "Seagate",
+      "Item model number": "STBM3000100",
+      "Hardware Platform": "Pc, Mac",
+      "Item Weight": "3.17 pounds",
+      "Product Dimensions": "5.8 x 2.4 x 6.8 inches",
+      "Item Dimensions  LxWxH": "5.8 x 2.4 x 6.8 inches",
+      "Color": "Black",
+      "Flash Memory Size": "3 TB",
+      "Manufacturer": "SEAGATE",
+      "ASIN": "B00B5Q7AII",
+      "Is Discontinued By Manufacturer": "No",
+      "Date First Available": "February 12, 2013",
+      "Customer Reviews": "3.0 out of 5 stars207 ratings3.0 out of 5 stars",
+      "Best Sellers Rank": "#5,239 in External Hard Drives"
+    },
+    "categories": [
+      "Data Storage",
+      "Computers & Accessories",
+      "Electronics",
+      "External Hard Drives"
+    ],
+    "price": 249.99
+  }
+}

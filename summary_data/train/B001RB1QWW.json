@@ -1,0 +1,691 @@
+{
+  "website_summaries": [
+    {
+      "verdict": "The Western Digital My Book World Edition is a fast, plug and play simple-to-use NAS server that unfortunately lacks many features and has subpar remote access performance.",
+      "pros": [
+        "Easy to use as shared storage",
+        "very fast performance",
+        "great design",
+        "affordable"
+      ],
+      "cons": [
+        "No RAID support",
+        "hard drive is not user serviceable",
+        "lack of common features found in many NAS servers",
+        "plug-and-play features only works with Windows Vista or Mac OS X",
+        "MioNet remote access service is useless"
+      ],
+      "aspects": {
+        "Setup": 6.0,
+        "Features": 5.0,
+        "Performance": 9.0,
+        "Support": 7.0
+      },
+      "publication_date": 20090227,
+      "rating": 6.6,
+      "source": "cnet"
+    }
+  ],
+  "customer_reviews": [
+    {
+      "title": "Quick and Easy",
+      "text": "There are lots of NAS products on the market. Most fall into one of two categories. Either they support industry standards or they don't. Units like this one support industry standards, so there aren't special drivers, utilities, and the like require to see and use them. It's simply a plug it in, turn it on and get connected affair. Be careful of others that require special software, drivers, and configuration. They are nothing but trouble, likely lack support for anything but Windows and will wind up not being used. It's an industry standard supporting NAS, it works, it's 1TB, what else can you expect it to do?",
+      "rating": 4.0,
+      "verified": true,
+      "author": "C. Gahagan",
+      "helpful_votes": 0,
+      "publication_date": 20110110
+    },
+    {
+      "title": "Pretty Nifty Unit...",
+      "text": "Here are my thoughts on this unit: Primary Goal: -Provide backup location for all computers on my small home network. Pros: -Super easy setup (Plug in and it is discoverable on all computers on network). -Reasonably priced for 1GB storage. -You can add a USB External Hard Drive for additional storage directly into the unit. -Backup software runs in the background and does its job well. Cons: -The transfer speed is not great, but certainly adequate. Recommendation: -I would recommend this solution for those who are looking for an inexpensive way to backup data on a small network.",
+      "rating": 4.0,
+      "verified": true,
+      "author": "Rock O Ages",
+      "helpful_votes": 0,
+      "publication_date": 20100210
+    },
+    {
+      "title": "The way all things should work!",
+      "text": "I've been in the IT field since 1993 and have worked with a wide variety of products. So, I speak from experience when I say that this product is EXCELLENT! Extremely easy and intuitive setup, and it works flawlessly as one would expect. It's also extremely quiet. One drawback: I'm not sure if this is due to purchasing the drive on Amazon, but it arrived with no installation CD, manual, or backup software. However, I easily obtained all three from WD's web site which is very easy to navigate and I was up and running in no time.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Tom",
+      "helpful_votes": 6,
+      "publication_date": 20090629
+    },
+    {
+      "title": "Good with Windows",
+      "text": "No issues getting it setup and working on Windows; however, I read some reviews that said it worked on Linux. I'm running Ubuntu 11.10 and can see, read, and delete files from the drive; however, am still having problems writing files to it. Other than that, no complaints. For the nerds, if you are doing a ROBOCOPY mirror to the drive, you'll have to add /FFT to the end of the line due to time stamp issues where it will continue to re-copy everything.",
+      "rating": 4.0,
+      "verified": true,
+      "author": "M. Svensson",
+      "helpful_votes": 0,
+      "publication_date": 20111129
+    },
+    {
+      "title": "Love it!",
+      "text": "It is so awesome to be able to access all of our little one's pictures that were stored on my other laptop. It is really quick to browse through too. It's great to know that my stuff is backed up automatically too. I love that I dont have to go plug it in to the unit because I know I would never remember to do it. I highly recommend this to anyone that uses a laptop or who has multiple computers in your household.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Keeley",
+      "helpful_votes": 0,
+      "publication_date": 20091211
+    },
+    {
+      "title": "Does what expected",
+      "text": "This is a great little NAS. I have it connected through a wireless router, we use four laptops (two windows and two linux) in the house. Setting up was easy even on linux for which you don't get instructions (you basically just access it as a samba share). One drawback is the remote access on linux through the internet: The client that installs on your computer doesn't support linux, which is weird because it's a java app so it should be platform independent. The download/upload speed depends on your connection, if you need to copy GigaBytes of data than you better connect through an ethernet port not the wireless. Overall it's a great home storage device for reasonable price.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Tamas Sandor Gal",
+      "helpful_votes": 0,
+      "publication_date": 20091030
+    },
+    {
+      "title": "Not recomended",
+      "text": "Purchased to back up family photos, music, etc... Have a Dynamic DNS server for web cams already. Was very difficult for a novice to add it in the network and get remote acccess going without a dedicated server. Started getting errors after 2 months, reboot to fix, updated etc... Now it's a freaking expensive paper weight, tkaes 10 min to transfer 1 MB ; tried troubleshooting etc... past Amazon 30 day return and will be contacting WD for help- not expecting much, but will post if anything good comes of it. Probably last electronic device I willorder through Amazon. Very little documentation and help. Decent web based menus and options.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "Andrew B.",
+      "helpful_votes": 0,
+      "publication_date": 20110227
+    },
+    {
+      "title": "The way plug and play should be",
+      "text": "This is my third WD external drive. Two USB and this Ethernet networked drive. I replaced a SimpleShare drive 250 GB I had for years and it was so easy to work I was afraid to switch to a new brand but WD make it a snap. It was easier than the old one both on my Macs a laptop and a G5 iMac my wife uses as well as my XP PC. All I can say is don't be afraid, get it and network away.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Terry C",
+      "helpful_votes": 0,
+      "publication_date": 20091027
+    },
+    {
+      "title": "Waste of money and important data",
+      "text": "I\u2019m really disappointed from this product because of two main reasons : 1. Overvalued and it doesn\u2019t deserve it\u2019s price 2. It\u2019s now, no longer can be used, I don\u2019t know why!!! I used this device for almost three months and it\u2019s just suddenly stopped working I can\u2019t access it any more. The device never been broken or even had a scratched it just suddenly stopped working I search for a solution for this problem and no help and I discovered that many people bought this device had the same problem. I recommend not to buy it and also I will never buy any device from \u201cWD\u201d ANYMORE",
+      "rating": 1.0,
+      "verified": true,
+      "author": "S. HARBI",
+      "helpful_votes": 0,
+      "publication_date": 20130624
+    },
+    {
+      "title": "Solid performer",
+      "text": "I simply plugged it into the wall and into an open network jack, loaded up the software on my primary PC, and I was good to go. Once I copied pictures and videos to the right directories, I was able to see them on the XBox 360. The backup software runs in the background and even though I've not had to restore, it's daily updates give me the impression it's working.",
+      "rating": 4.0,
+      "verified": true,
+      "author": "Andrew Beauchamp",
+      "helpful_votes": 0,
+      "publication_date": 20090928
+    },
+    {
+      "title": "Peace-of-Mind Backup",
+      "text": "Product was easy to setup and it really is plug and play for the basic backup. The drive automatically showed up in my Mac Finder window. Installation of the software to use the advanced options was not as easy. Setting up the auto backup was difficult and took time to figure out. It does provide \"peace-of-mind\" for protection of our data.",
+      "rating": 4.0,
+      "verified": true,
+      "author": "K. Gallagher",
+      "helpful_votes": 0,
+      "publication_date": 20100215
+    },
+    {
+      "title": "Love it",
+      "text": "I love having the NAS for my home computers. This has worked well with my primary Macs as well as my work PC laptop. Once in a blue moon, my Macs won't connect for some reason, and I have to spend a lot of time powering it off and powering it back up again - usually more than once to get it to finally mount on my Mac. But this is pretty rare.",
+      "rating": 4.0,
+      "verified": true,
+      "author": "J. C. Rahe",
+      "helpful_votes": 0,
+      "publication_date": 20130404
+    },
+    {
+      "title": "Easy to install and use, but needs updates for Win7",
+      "text": "This drive was easy to install and worked great with Vista. Once I installed on Windows 7 machine, backup worked, but wouldn't restore. I had to get an update from their tech support, because it wasn't available on their website. Also, I've never been able to access the drive remotely as advertised. However, as a central home backup, it seems to be carefree. I am using it to backup three computers in the home - all in the background.",
+      "rating": 3.0,
+      "verified": true,
+      "author": "T. Schriefer",
+      "helpful_votes": 0,
+      "publication_date": 20091210
+    },
+    {
+      "title": "Undendable",
+      "text": "Hardware and WD software OK, but the MEMEO backup software that comes with it is unreliable and unstable. All MEMEO wants to do is sell you the updated version and never offers free updates. Not recommended except for headaches.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "Whoody",
+      "helpful_votes": 0,
+      "publication_date": 20140428
+    },
+    {
+      "title": "Disappointed",
+      "text": "I was really excited to purchase a home NAS unit. I have multiple PCs and this would make storage and backup so much easier. Unfortunately, it did not work. For some reason the drive would not map to my PC. I have XP so there really shouldn't be any issues. I was able go into the drive but could not mapped to it. I spent 3 hours with WD technical support and they could not figure it out either. I had to return it which with Amazon was no problem at all. Eventually just purchased a standard USB external drive.",
+      "rating": 2.0,
+      "verified": true,
+      "author": "V. Thomas",
+      "helpful_votes": 2,
+      "publication_date": 20091216
+    },
+    {
+      "title": "Great product",
+      "text": "This product provides very flexible features, is realiable, and easy to use. I had a little issue with the backup software installation. I called technical support and got through quickly. My issue was resolved within 5 minutes. I recommned this product to someone that wants an easy to use NAS to backup up their files. The backup software runs in the backround and automatically performs a differnential backup. What I like best is that restoring the files does not require any complicated procedure. Simply find your file in explorer and copy it back.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "PD Reviewer",
+      "helpful_votes": 2,
+      "publication_date": 20091216
+    },
+    {
+      "title": "Upgraded the whole home computer enviorment",
+      "text": "after a long time of running between computers and non-ending backups and copies, the ultimate solution. had an WB passport of 1/2 TB, which was not enough, and had to move it between computers all the time. now it is only a secondary backup. this WD network storage is excellent. fast and convenient.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "O. Naftaly",
+      "helpful_votes": 0,
+      "publication_date": 20100425
+    },
+    {
+      "title": "works good. nice product",
+      "text": "I bought this product for my elder brother. So I used this only couple of days. Setup is easy. provides nfs, cifs and ssh access so works easily with Window, linux machines. Over all I am happy with purchase. Few cons: - front light is very bright which is irritating in night if you r planning to keep this in your bedroom - I found copying over Wi-Fi little slower than my expectations - It did not provide USB data copy option which will be very faster.",
+      "rating": 4.0,
+      "verified": true,
+      "author": "S. S. Godbole",
+      "helpful_votes": 0,
+      "publication_date": 20100917
+    },
+    {
+      "title": "Easy Installation - lots of space",
+      "text": "Connecting to my Access point was easy unlike a HP product that I purchased earlier. All 3 laptops at home backup automatically to this box and the backup runs smoothly. The MioNet remote access software is a great add on. With 1TB, I'll be using this product for some time.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Amazon Customer",
+      "helpful_votes": 0,
+      "publication_date": 20091115
+    },
+    {
+      "title": "Issues from the start",
+      "text": "Had to return it. I had issues right from the start. Software did not work, did not recognize the device. Called customer service, was not helpful. Returned to Amazon and bought the ReadyNAS, which is working without a hitch from day one. Thanks Amazon",
+      "rating": 1.0,
+      "verified": true,
+      "author": "ER",
+      "helpful_votes": 0,
+      "publication_date": 20120131
+    },
+    {
+      "title": "Very fast, very easy to install, just works!!!",
+      "text": "This is my third Western Digital external drive, but my first ethernet network drive. It works great, all my Macs can utilize the MyBook World Edition at the same time and I love that even my PlayStation 3 can also wirelessly open files (music, photos, videos) from it. The 1TB is so much space to work with and I love how quiet it is compared to my old Ximeta NetDisk. The other thing which is great is that I was able to connect another external drive to this drive via USB port in the back. Western Digital to hard drives is what Apple is to computers--quality!!",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Without Reservations ",
+      "helpful_votes": 16,
+      "publication_date": 20090304
+    },
+    {
+      "title": "My Book World Edition for home network",
+      "text": "This is great product. It is simple to install. It easily locates network computers and backs up selected files. Each computer require a simple software installation. It is also unobtrusive; it waits in the background until it can work without grabbing a lot of computer resources. I would recommend it for a home network application. D Stephens",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Amazon Customer",
+      "helpful_votes": 0,
+      "publication_date": 20090519
+    },
+    {
+      "title": "I can see my movies on my bluray through wifi",
+      "text": "I can now store many videos, pictures and music and access it using the network. I bought this item to be able to see media stored in it from my bluray player that access wifi. For video files (mkv) in 1080p, the streaming is not enought, but for videos in 720p it works perfectly. I really don't know if the problem is in the storage, in the wifi router or in the bluray player. Another issue is about the backup functionality. It is too slow! I'm using it for 2 weaks and it only backed up 16 Gb.",
+      "rating": 4.0,
+      "verified": true,
+      "author": "guerra",
+      "helpful_votes": 0,
+      "publication_date": 20110125
+    },
+    {
+      "title": "Love it",
+      "text": "I'm using this on my network to connect my iMac and PS3, it has worked fantastic, just remember that when you first plug it in it powers on then turns off. I first thought that it was broken but then realized I just needed to hold the power button to really turn it on. The WD anywhere backup leaves alot to be desired but it worked as a decent backup, thats the only reason I didn't give it 5 stars. I would recommend this to anyone.",
+      "rating": 4.0,
+      "verified": true,
+      "author": "Kindle Customer",
+      "helpful_votes": 0,
+      "publication_date": 20090709
+    },
+    {
+      "title": "Not Bad For The Money",
+      "text": "This is the first network drive I have ever purchased but my 3rd Western Digital Drive. I have been very happy with my previous WD drives so they were the first company I went to when I decided to buy a network drive. It was very easy to set up and I had it done within minutes. The itunes server works great and I have had no problems whatsoever with streaming music of videos. It is quiet, keeps cool, and is very attractive on my desk! I highly recommend this product to anyone who would like an intro level network drive with a great deal of reliable storage space.",
+      "rating": 4.0,
+      "verified": true,
+      "author": "Mark Kreitzer",
+      "helpful_votes": 0,
+      "publication_date": 20100227
+    },
+    {
+      "title": "Out of the box, onto the network",
+      "text": "This was my first network storage device. I am an \"end user\" and not very knowledgeable about network design, etc. The instructions for this network drive were very straightforward. Installation was very simple. Since the original install, it has just been there and operating.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Roger W. Huston",
+      "helpful_votes": 0,
+      "publication_date": 20091206
+    },
+    {
+      "title": "Western Digital My Book 1 TB Network Attached Storage",
+      "text": "I love it. Now I can access all my files through my wireless network. It works great attached to my router, plus I was able to attach a USB external drive to the NAS. For some reason, I had a problem installing it with the directions/program that came with it, but when I hooked it up and used it the way I wanted to, it works great.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Karen L. Marsh",
+      "helpful_votes": 0,
+      "publication_date": 20100509
+    },
+    {
+      "title": "Bricked by upgrade to Windows 10",
+      "text": "While it can be accessed in Windows 10, the included backup software will not work in Windows 10, making it nearly worthless to me. Cannot find any other backup software that works in Windows 10. Bricked.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "N. Bond",
+      "helpful_votes": 0,
+      "publication_date": 20121201
+    },
+    {
+      "title": "Works fine with Mac OSX Time Machine",
+      "text": "Great alternative to the Apple Time Capsule (for a fraction of the price). I only use it so far as a backup disk (Time Machine). You can put all your music, video on it and broadcast it using the iTunes protocol. The admin interface is nice (could be nicer and more responsive with some Ajax I guess). And there are tons of hacks on the web if you like to void warranties :)",
+      "rating": 4.0,
+      "verified": true,
+      "author": "Loic",
+      "helpful_votes": 2,
+      "publication_date": 20091213
+    },
+    {
+      "title": "Exceptional product with near zero setup required",
+      "text": "Out of the box and connect to your network hub and your up and running. Many tools for basic and advanced features/controls. PS3 picks right up as media server. Hope it lasts a long time without failing. Although it comes with a backup website, I would have gone with the Book World II set up to mirror each 1T drive in case of failure. Next purchase will be the BWII. Worth the extra $100.00 to have a backup drive.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Frank S. Czap",
+      "helpful_votes": 0,
+      "publication_date": 20091120
+    },
+    {
+      "title": "Great NAS!",
+      "text": "Great NAS drive! More than enough to back up my computer and more. Easy web based user interface.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Kim Schmidt",
+      "helpful_votes": 0,
+      "publication_date": 20150705
+    },
+    {
+      "title": "Item worked for a while, then died.",
+      "text": "This drive worked well with tiime capsule for my macs for about 1 year. It's been dead for a few months now, and I can't access the backup files. Now I'm thinking of how I can salvage the drive.",
+      "rating": 2.0,
+      "verified": true,
+      "author": "phil",
+      "helpful_votes": 0,
+      "publication_date": 20130109
+    },
+    {
+      "title": "Simple configuration, reliable operation",
+      "text": "I picked this up to back up two laptops & share files between computers. The setup couldn't have been easier, from the hardware perspective to mapping drives to the backup software. Well worth the money considering the amount of storage you get.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Phyregiver",
+      "helpful_votes": 0,
+      "publication_date": 20100120
+    },
+    {
+      "title": "Fast, Easy setup. Works great!",
+      "text": "It was fairly easy to set up and works great. I've consolidated all my music and photos from 3 different computers in the house to the new NAS and I'm very happy with it. It is also accessible through the web, but the web connection is a lot slower than the Wifi. Web takes a while to link up, then it works okay, but still not lightning fast. But it is awesome to be able to access my files from anywhere. I recommend this product.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "J. James",
+      "helpful_votes": 0,
+      "publication_date": 20100130
+    },
+    {
+      "title": "Difficult To Use on a Mac",
+      "text": "I have tried this drive twice. The first was defective upon arrival. The second was inconsistent with Time Machine on a Mac. The Western Digital tech service spent 4 hours on the phone with me trying to get it to work properly. It worked at times but would than fail. WD tech service was easy to contact and tried VERY hard to get it to function. The storage part worked well. Time Machine was advertised to work but in NOT dependable.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "Bill L",
+      "helpful_votes": 0,
+      "publication_date": 20100811
+    },
+    {
+      "title": "great product",
+      "text": "Fantastic product for network storage, excellent experience with the purchase of the product . I would highly recommend the sellar and their product.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Abbttb",
+      "helpful_votes": 0,
+      "publication_date": 20111003
+    },
+    {
+      "title": "Great, solid hard drive. Running for years so far.",
+      "text": "This product is the most bang for your buck when it came out. Western digital had something when they started this line of network attached storage.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Moball73",
+      "helpful_votes": 0,
+      "publication_date": 20160205
+    },
+    {
+      "title": "slows down computer",
+      "text": "After installing the software, my PC slowed down considerably during login and then while the synchronization process took place. The sync process is by no means a background task, unlike most anti-virus software updates. It runs only when users are logged in and will try running in any and every user instance (reminding that you are already running this in another user instance).",
+      "rating": 1.0,
+      "verified": true,
+      "author": "PatM",
+      "helpful_votes": 0,
+      "publication_date": 20110228
+    },
+    {
+      "title": "Stopped connecting to the network",
+      "text": "This product stopped working after I had it for 2 months. It stopped connecting to my home network. I had to return it to WD for a replacement.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "BP",
+      "helpful_votes": 0,
+      "publication_date": 20100630
+    },
+    {
+      "title": "Great compatible product",
+      "text": "This external hard-drive is easily networkable and is simple to use. My PS3 found it easily on my network and it allows me to view pictures, listen to music, or watch video on my tv through the system, this thing rocks.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "P. Craw4d",
+      "helpful_votes": 0,
+      "publication_date": 20101118
+    },
+    {
+      "title": "Amazing",
+      "text": "I've been using this HDD for a couple years now and it's still going strong. I use it to stream video and audio content to my PS3. Not only does it work flawlessly, but now my computer can continue to run uninterrupted while the HDD does all the work. I highly recommend it to anyone.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Rob Logan",
+      "helpful_votes": 0,
+      "publication_date": 20110115
+    },
+    {
+      "title": "So far so good",
+      "text": "I've had it a couple months, and so far it works great, both on the Windows desktop and on the wireless Mac laptop. My 9 mo old unplugged the power from the wall suddenly, and it came right back on the Windows machine without my having to do anything. Still have to reinstall (or whatever) on the Mac.",
+      "rating": 4.0,
+      "verified": true,
+      "author": "Nathan P. Edwards",
+      "helpful_votes": 0,
+      "publication_date": 20110314
+    },
+    {
+      "title": "They charge $29.95 for Software Upgrade",
+      "text": "This product only works well if you purchase the upgraded Memeo Premium software which will cost $29.95. I feel ripped off having to purchase a $29.95 software product to make the hardware I purchased work correctly. After installing this update the product works well, but I am giving it 1-star because out of the box it works terrible. The software that comes with the product is glitchy, error prone and highly unreliable. If you are inclined to purchase, figure in an extra $29.95 in the cost -- You will NEED to purchase this to make it work well. Western Digital should provide FREE software updates when they are critical to hardware functionality.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "stevezilla",
+      "helpful_votes": 3,
+      "publication_date": 20101124
+    },
+    {
+      "title": "More than just storage space",
+      "text": "Very happy with this 1TB drive, which we use as a network drive attached to the router and shared wirelessly. Now we have just one version of all our files, and no need to leave a computer on all the time. It's as quick as an internal drive, too. I like the ability to access files over the net, too. It isn't flawless, but has helped me out of a hole a couple of times.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Amazon Customer",
+      "helpful_votes": 0,
+      "publication_date": 20110418
+    },
+    {
+      "title": "Great features and easy setup!",
+      "text": "Really easy to install and setup! I love the download function, it's awesome because you don't need to let your computer turned on. The transfer speed depends on your network, so it's the only thing I don't like about it, but it doesn't matter to me. If you have the chance to buy it, do it!",
+      "rating": 4.0,
+      "verified": true,
+      "author": "Ariel Orozco Rivera",
+      "helpful_votes": 0,
+      "publication_date": 20100711
+    },
+    {
+      "title": "WD Network Backup drive",
+      "text": "Excellent product. Relatively easy install, (I got a little help from a local guru). It works so seamlessly, I do not know it is there - until I need to go get a backup copy of a file. Then, it is an easy thing to access any file from my entire main hard drive.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Daniel A. Lugar",
+      "helpful_votes": 0,
+      "publication_date": 20100205
+    },
+    {
+      "title": "Great device",
+      "text": "Works as advertised. Was easy to set up and configure and now able to access iTunes from anywhere, photos anywhere from my iPad, all media via xbox. Haven't set up backups yet but expect it will be equally easy to do.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "dwb01720",
+      "helpful_votes": 0,
+      "publication_date": 20100726
+    },
+    {
+      "title": "Don't recommend.",
+      "text": "I couldn't use this after two months. It just disappeared and couldn't connect. Don't recommend.",
+      "rating": 2.0,
+      "verified": true,
+      "author": "Casper",
+      "helpful_votes": 0,
+      "publication_date": 20160301
+    },
+    {
+      "title": "Perfect so far",
+      "text": "This Item is working perfectly so far , I cant see why some people are complaining about speed , you people are unfair , its a 10/100 for Christ sake not 100/1000.I only personal gruss is that the light at the front should be Blue and not White and then all my Technology equipment would blend together, lol.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "S. Dawkins",
+      "helpful_votes": 0,
+      "publication_date": 20091204
+    },
+    {
+      "title": "Good Product",
+      "text": "Easy to install and works very well. The other brand that I had purchased wouldn't work after installation and I had to replace 2 times and finally I gave up and switched to this product. I would recommand this product to everyone.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "F. wang",
+      "helpful_votes": 0,
+      "publication_date": 20100711
+    },
+    {
+      "title": "good NAS",
+      "text": "Good device for storing data and media. After updating firmware and connecting via gigabit router, it wirks well with DLNA samsung TV, support farst seek media and control action in video (pause FF, REV).",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Andrey Tuchak",
+      "helpful_votes": 0,
+      "publication_date": 20110304
+    },
+    {
+      "title": "WD My Book 1TB Network Drive",
+      "text": "AWESOME!!! I only wish I'd purchased this sooner. Easy installation, set-up, use! AUTOMATICALLY connected to my PS3...love it!",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Matthew N. Romero",
+      "helpful_votes": 0,
+      "publication_date": 20100801
+    },
+    {
+      "title": "works like a charm",
+      "text": "The WD My Book World works great with my computer setup. I am able to backup files from my desktop and laptop as well as share files between the two. I had no problems setting it up. I did a test restore and it worked fine. I'm glad I purchased it.",
+      "rating": 4.0,
+      "verified": true,
+      "author": "MCR",
+      "helpful_votes": 0,
+      "publication_date": 20091223
+    },
+    {
+      "title": "One Star",
+      "text": "To many set up issues and didnt work for me. Total waste",
+      "rating": 1.0,
+      "verified": true,
+      "author": "M. Mahapatra",
+      "helpful_votes": 0,
+      "publication_date": 20141122
+    },
+    {
+      "title": "It is crap so many problems",
+      "text": "Do not buy this. It is crap so many problems. Waste of time.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "Kindle Customer",
+      "helpful_votes": 0,
+      "publication_date": 20151017
+    },
+    {
+      "title": "Storage",
+      "text": "Excellent Works perfectly still after several month on the network This is actually my third one I've ordered for other customers and all have performed very well",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Amazon Customer",
+      "helpful_votes": 0,
+      "publication_date": 20101105
+    },
+    {
+      "title": "poor product",
+      "text": "I got this recently, and it took me 1 hr to install. The back up takes forever. And the setup and password are confusing. After I spent 3 hours and still could not get it work properly. I decided to return it, the time spending on this to setup is just not worth it. I recommended not to get this unless you are ready to spend a lot of time trouble shoot.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "Wei",
+      "helpful_votes": 0,
+      "publication_date": 20100627
+    },
+    {
+      "title": "Did not work for 64-bit computer....",
+      "text": "This drive did not work on my 64 bit computer. WD tech support was no help. Not sure if the unit was defective but it messed up my computer and I needed a system restore. I returned it. Last time I buy WD.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "Robert E. Hoffmann",
+      "helpful_votes": 0,
+      "publication_date": 20101109
+    },
+    {
+      "title": "Just what I hoped for.",
+      "text": "Was looking for a drive to back up my 3 computers onto (data, photos, videos and music.) I am also using it as primary storage. It is working great.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "w2atty",
+      "helpful_votes": 0,
+      "publication_date": 20100925
+    },
+    {
+      "title": "Flawless",
+      "text": "From the get go this has been easy. Was plug and play and have no issues whatsoever. I'm getting a second one as a back up. Really pleased.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "DesignerDeb",
+      "helpful_votes": 0,
+      "publication_date": 20090727
+    },
+    {
+      "title": "failed within months - impossible to troubleshoot",
+      "text": "I wasted enormous amounts of time trying to troubleshoot connection problems and incomplete backups before it became clear that the drive had failed.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "Amazon Customer",
+      "helpful_votes": 0,
+      "publication_date": 20111016
+    },
+    {
+      "title": "Network cannot find drive.",
+      "text": "My network does not recognize the drive a week after installation. Did find it on the network initially.",
+      "rating": 2.0,
+      "verified": true,
+      "author": "Dan The Man",
+      "helpful_votes": 0,
+      "publication_date": 20100816
+    },
+    {
+      "title": "Fine for home",
+      "text": "I am using it as share storage in home, and works perfect, the speed is fine for home purposes. I like it,",
+      "rating": 5.0,
+      "verified": true,
+      "author": "C. Piedra",
+      "helpful_votes": 0,
+      "publication_date": 20100316
+    },
+    {
+      "title": "New and improved",
+      "text": "I like this model much better. You have access to ssh out of the box. And you can turn off the status light.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "BSponaugle",
+      "helpful_votes": 0,
+      "publication_date": 20091025
+    },
+    {
+      "title": "good except for the ftp server",
+      "text": "overall experience is good except for the ftp (mionet) which is the worst among anything that I used in my life",
+      "rating": 3.0,
+      "verified": true,
+      "author": "Srikanth Pilla",
+      "helpful_votes": 0,
+      "publication_date": 20101212
+    },
+    {
+      "title": "Worst NAS hard drive you can find",
+      "text": "I bought this hard drive and I return it back on the 2nd day. I have a Macbook pro ( 2.4 ghz & 150 GB), I was trying to transfer about 75 GB the estimate time was 8 hours. I am very disappointment form the reputation of WD. Don't wast your time and your money.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "Ss",
+      "helpful_votes": 0,
+      "publication_date": 20100902
+    },
+    {
+      "title": "Easy to set up, but it takes a while....",
+      "text": "Was easy to set up, but it takes a while to install and figure out how it works...",
+      "rating": 4.0,
+      "verified": true,
+      "author": "Matthias",
+      "helpful_votes": 0,
+      "publication_date": 20100107
+    },
+    {
+      "title": "Great Job [...]!",
+      "text": "The item was shipped very promptly in exact condition specified. The hard drive works as expected. I am very happy with the seller. Would highly recommend this vendor.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "STC123",
+      "helpful_votes": 0,
+      "publication_date": 20100915
+    },
+    {
+      "title": "Perfect, if it weren't too slow",
+      "text": "I loved this drive, except that it was too slow over the wireless. I actually returned it because of that. I just don't have the patience. But the technology is getting close...",
+      "rating": 3.0,
+      "verified": true,
+      "author": "J Washburn",
+      "helpful_votes": 0,
+      "publication_date": 20090517
+    },
+    {
+      "title": "Dissappointing lack of connectivity",
+      "text": "I bought this product for use with the WD HD Media player, but they don't work together. Why? Quite simply because this My Book World Edition ONLY HAS AN ETHERNET CONNECTION. The USB connection only allows you to connect additional drives to the world book, not the world book to your computer (or the WD HD Media player). This basically means that your access times to your files are severly limited by your network speeds, which are painfully slow relative to USB. Maybe I should have done more research, but I was very dissappointed by the lack of connectivity.",
+      "rating": 3.0,
+      "verified": true,
+      "author": "Mcdonald Mirabile",
+      "helpful_votes": 8,
+      "publication_date": 20090501
+    }
+  ],
+  "product_meta": {
+    "title": "WD My Book World Edition 1 TB Network Attached Storage",
+    "description": "Simplified set up and best-in-class performance make My Bookq World Edition Home Network Storage the easy choice for centralizing data and backing up your home computers. Connect the drive to your network router and you\u00bfre up and running in minutes. Use the included back up software to protect your family\u00bfs PCs with automatic and continuous backup plans. Store all your digital media in one central location so everyone in the family can have access to it. Compatible with both Mac and Windows files.\n\nFROM THE MANUFACTURER\n\n\nCENTRALIZED STORAGE FOR EVERYONE TO SHARE.\nWD's My Book World Edition home network drive to makes it easy to store all your digital media in one central location so everyone in the family can have access to it. Simply connect the drive to your network router and you're up and running in just a few minutes. Store and share your media collection, back up data from any Mac or PC on your network, and stream media to your entertainment center. You can even view your stored photos with your iPhone.\n\nRelax.\nCentralized storage and backup for all the computers on your network.\n\nEnjoy.\nStream movies, music, and photos to your entertainment center.\n\nEscape.\nAccess your data anytime, anywhere. Show off your photos with your iPhone.\n\nFeatures at a glance\n * Store and backup photos, music, and video on your network\n * Protect your files wirelessly with automatic, continuous backup\n * Works seamlessly with both Windows\u00ae and Mac\u00ae computers\n * Stream your digital media to your entertainment center\n * View photos stored on the drive with your iPhone\u00ae or iPod\u00ae touch\n * 3-year limited warranty \n\nSimplified set up and best-in-class performance make the My Book World Edition home network drive the perfect choice for centralizing and backing up data on all the computers in your home. Automatic and continuous backup for all the computers on your network - Now you can easily back up data from all your home computers with the included continuous backup software. Set it and forget it; every time you save something it's instantly and automatically backed up.\n\nSimple file recovery - Restore lost, damaged or older files back to their original location with a couple of clicks. Backup files are stored in the same file structure that you originally saved them, so it's easy and intuitive to find files.\n\nCentralize all your family's digital content - Store or backup all your digital files and media in one central location so everyone can access and enjoy your collection from any computer in the home.\n\nStream digital media anywhere in your home - Built-in media server for streaming music, photos and movies to any DLNA certified multimedia device such as Playstation\u00ae 3, Xbox 360\u00ae, wireless digital picture frames, and connected audio receivers. DLNA 1.5 & UPnP certified.\n\nView your photo collection with your iPhone - Use your iPhone or iPod touch to get quick access to all the photos stored on your My Book World Edition home network drive. Download the free WD Photos photo viewer app and show off your entire photo collection without taking up tons of space on your iPhone or iPod touch.\n\niTunes\u00ae server support - Centralize your music collection and stream to a Mac\u00ae or Windows\u00ae PC using iTunes software.\n\nRemote access - Access your files anywhere, anytime using MioNet remote access technology from WD.\n\nWorks seamlessly with both Windows and Mac computers - Access and save files seamlessly from both your Mac and your Windows computers.\n\nBest-in-class performance - My Book World Edition uses cutting-edge technologies to deliver high performance read and write speeds ideal for the most demanding users.\n\nEasy to set up, easy to find on your network - Set up is a snap; in just a few minutes you're up and running. Mac and Windows Vista computers will automatically find your My Book drive in seconds. Our simple discovery software makes it easy to find the drive with Windows XP systems.\n\nShare your personal content - MioNet remote access technology makes it easy for you to securely share photos and documents with friends and family.\n\nUSB 2.0 utility port - Turn any USB drive into an instant network drive or extra capacity for your World Edition.\n\nCooler, quieter, eco-friendlier - Equipped with WD drives using WD GreenPower Technology, this system consumes significantly less power and delivers performance on par with power hungry network storage devices using 7200 RPM hard drives.\n\nCapacity gauge - See at a glance how much space is available on your drive.\n\nHigh-speed data transfer with Gigabit Ethernet - Gigabit networking and transfer rates are five to six times faster than other standard 10/100 Ethernet network storage systems. This performance is comparable to USB 2.0 direct-attached storage.\n\nIdeal for \n\n * Centralizing your photos, movies and music for everyone on the network to share\n * Automatically backing up data from all the computers on your network to one location\n * Seamlessly backing up and storing data from both Windows and Mac computers\n * Streaming media to your entertainment center\n * Retrieving files stored on the drive while at the office or traveling\n * Accessing photos stored on the drive with your iPhone or iPod touch\n\n\n\nWhat's in the box\nHome network drive, ethernet cable, AC adapter, software CD, Quick Install Guide.\n\nCompatibility\nWindows XP/Vista, Mac OS\u00ae X Tiger\u00ae, Leopard\u00ae, Snow Leopard\u2122.\nNote: Compatibility may vary depending on user\u2019s hardware configuration and operating system.",
+    "rating": 3.6,
+    "feature_bullets": [
+      "Automatic and continuous backup for all the computers on your network",
+      "Centralize all your family's digital content",
+      "Best-in-class performance cutting-edge technologies to deliver high performance read and write speeds ideal for the most demanding users.",
+      "Built-in media server for streaming music, photos and movies to any DLNA certified multimedia device",
+      "iTunes server support Centralize your music collection and stream to a Mac or Windows PC using iTunes software"
+    ],
+    "specifications": {
+      "Product Dimensions": "5.78 x 2.28 x 6.81 inches",
+      "Item Weight": "2.41 pounds",
+      "ASIN": "B001RB1QWW",
+      "Item model number": "WDH1NC10000N",
+      "Customer Reviews": "3.6 out of 5 stars182 ratings3.6 out of 5 stars",
+      "Best Sellers Rank": "#964 in Computer Network Attached Storage",
+      "Is Discontinued By Manufacturer": "No",
+      "Date First Available": "February 18, 2009",
+      "Manufacturer": "Western Digital"
+    },
+    "categories": [
+      "Data Storage",
+      "Computers & Accessories",
+      "Electronics",
+      "Network Attached Storage"
+    ],
+    "price": ""
+  }
+}

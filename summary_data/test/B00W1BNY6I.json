@@ -1,0 +1,958 @@
+{
+  "website_summaries": [
+    {
+      "verdict": "The Linksys WRT 1200AC is a moderately priced dual-band 802.11ac router that offered fast file transfer speeds and good 5GHz performance in testing.",
+      "pros": [
+        "Easy setup",
+        "Good 5GHz performance and speedy USB file transfers in testing"
+      ],
+      "cons": [
+        "Large footprint",
+        "Weak performance on our 2.4GHz tests"
+      ],
+      "aspects": {},
+      "publication_date": 20151028,
+      "rating": 7.0,
+      "source": "pcmag"
+    }
+  ],
+  "customer_reviews": [
+    {
+      "title": "Flash OpenWRT ASAP. And the Killer feature is redundent now.",
+      "text": "I knew this router had no website blocking and that the \"Killer Feature\" was a load of crap. But the router is cheap. But I flashed OpenWRT as soon as I got it. I now have total control over it. And I can block sites :) To people who don't know. When you flash Openwrt and something goes wrong. Just turn on/off the router 3 times to get back to the original firmware that it came with.",
+      "rating": 4.0,
+      "verified": true,
+      "author": "Tezz",
+      "helpful_votes": 13,
+      "publication_date": 20190310
+    },
+    {
+      "title": "What a difference this has made the the usability of the broadband in the house - signal's good in every room",
+      "text": "Used to replace BT business hub 3. We have fttp so it's just an Ethernet cable straight from the modem to this router. Took about 5 mins to set up, was fairly straightforward. Being used in a large 3 story farmhouse with thick stone walls and placed in the attic. What a difference this has made the the usability of the broadband in the house - signal's good in every room, and connection is very stable. 2.4ghz works better for us as there's very little interference. Around 6-7 devices connecting at any given point and manages traffic without a blip - the BT hub was very poor in this respect. Worth every penny, we can now use our fttp properly!",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Gwyn",
+      "helpful_votes": 5,
+      "publication_date": 20170829
+    },
+    {
+      "title": "Excellent router for  VPN",
+      "text": "I brought this router to use as a VPN router, the router works a treat and with the simple instructions from Express VPN, there firmware makes the router very easy to change location etc. I have now unlocked loads more content from Netflix, and I feel a lot more comfortable knowing that my internet use cannot be spied on by my ISP. I would highly recommend this router, it is easy to use and looks the part as well as performing excellently.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "R. Ogden",
+      "helpful_votes": 5,
+      "publication_date": 20170929
+    },
+    {
+      "title": "Flashed with DD-WRT: going strong",
+      "text": "Got this router in July '17 - writing this review in September '18. Never had any issues with this product whatsoever. Wireless range and speed is good. It's reliable too! I flashed it with DD-WRT so can't comment on the firmware it ships with but I bought the router for its \"open source\" support and advertised compatibility with DD-WRT. It lives up to it. No complaints here whatsoever. It is, however, a bit of a beast on the side unit. But the nerd in me likes a big chunky router.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Edan Brooke",
+      "helpful_votes": 2,
+      "publication_date": 20180915
+    },
+    {
+      "title": "very easy to install",
+      "text": "ive only had for a couple of days first impressions are very good the build quality of the unit is very good just plugged it into my modem and it worked and my line speed increased. can use dd-wrt without voiding the warranty linksys tec support told me this as I`m looking for a feature in the setup that they are working on adding. my last router a netgear that when i compare have to say is very poor wifi stopped working after a couple of days",
+      "rating": 2.0,
+      "verified": true,
+      "author": "chris",
+      "helpful_votes": 0,
+      "publication_date": 20190312
+    },
+    {
+      "title": "Linksys WRT3200ACM: Very fast but you'll need to mess around with it to get the best out of it.",
+      "text": "The built in Linksys firmware GUI is frustratingly slow but reliable. Once the firmware was changed to DD-WRT this router gets a whole lot faster. The GUI is instant on DD-WRT but you'll need to mess around with the settings to get the most out of it and \"apply + reboot every time !\" Very good value for money and it allows you to cover different rooms by angling the antennas. A lot better than your standard ISP supplied router.",
+      "rating": 4.0,
+      "verified": true,
+      "author": "Samauri",
+      "helpful_votes": 0,
+      "publication_date": 20181124
+    },
+    {
+      "title": "Works flawlessly with OpenWRT firmware.",
+      "text": "I bought this specifically to wipe out the inbuilt firmware, and thats where I hit the first snag. Upon powering it on, it tries to FORCE you to create a \"Linksys Cloud Account\", but beware, apparently if you do this, it locks down the router, and you can't blow new \"unapproved\" firmware onto it. It took a bit of googling, but I was eventually able to bypass this, and get to the firmware installation page. Once reflashed with OpenWRT, it is an amazingly powerful and incredibly versatile piece of kit.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Milambar",
+      "helpful_votes": 0,
+      "publication_date": 20181120
+    },
+    {
+      "title": "You wont regret buying this.",
+      "text": "Been a life saver. Im temporarily in the UK and still have my Xfinity cable TV service in Florida, USA. I was able to i stall Express VPN on this and now login to my existing Xfinity account in Apple TV and watch my programs. Plus I now have access to my Hulu account again. Yay!! One thing I did nitice before I did all of that was that once I had this hooked up and tried it with the standard \"Sky\" internet. The WiFi speeds I was getting were almost identical to the Ethernet speeds. This is a brilliant router. Do NOT regret buying this.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Pete",
+      "helpful_votes": 0,
+      "publication_date": 20170831
+    },
+    {
+      "title": "Unreliable and unusable",
+      "text": "I bought and subsequently returned this router because it failed to deliver a reliable connection. I tried various configurations with my virgin router including modem only mode as well as cascading router, but the WRT1900ACS would reboot within 24h and fail to provide connectivity. I tried reflashing the latest firmware but this did not make any difference. I found numerous people on the Linksys forums who had similar problems, mostly with v1 of the product. One suggested solution is to flash an open source firmware but I don't want to spend more time going down that route. Very disappointed after reading so many good reviews online.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "Search and Replace",
+      "helpful_votes": 0,
+      "publication_date": 20180303
+    },
+    {
+      "title": "Go elsewhere much better products around.",
+      "text": "Very very disappointing, the firmware is awful so full of bugs. A very simple example is the DHCP client list. The router gets confused and to make it more frustrating the only way to clear it is to factory reset... As for signal I did a test Vs the latest virgin media hub and there is no difference. I bought this to switch off devices to limit the teens in the house internet after 9pm it fails at this as well. Wish I had sent it back and not wasted my money. I may look at flashing it with the Open firmware at some point I guess.. that may help not what I had in mind",
+      "rating": 1.0,
+      "verified": true,
+      "author": "Amazon Customer",
+      "helpful_votes": 0,
+      "publication_date": 20190401
+    },
+    {
+      "title": "and it was a) very easy and b) works a treat",
+      "text": "Got this to install DD-WRT, and it was a) very easy and b) works a treat. Can now switch on/off VPN as I need to, and it hasn't once dropped offline in a month or more. Let this unit do the hard work of your home routing and you will not suffer the usual complaints of domestic broadband/cable. A heavy unit which underlies its suitability as a power device.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Richard D",
+      "helpful_votes": 0,
+      "publication_date": 20171122
+    },
+    {
+      "title": "poor wifi signal using optimal channels and the eSATA/USB light ...",
+      "text": "To many firmware issues, poor wifi signal using optimal channels and the eSATA/USB light would come on even though nothing was plugged into it. I returned one and amazon shipped out a replacement the following day (top marks amazon) but that one was behaving in a similar manor and returned. It was advertised as open source but installing 3rd party firmware was not a simple case of uploading and installing the firmware. Linksey may have resolved these problems now if that's the case I expect its a very capable router",
+      "rating": 3.0,
+      "verified": true,
+      "author": "Jeremy",
+      "helpful_votes": 0,
+      "publication_date": 20180315
+    },
+    {
+      "title": "It's consistently poor wifi connection that drops off regularly as well as ...",
+      "text": "purchased this to replace the Sky router as it just couldn't cope with the amount of devices connected throughout the house. This router has done nothing but be unreliable. It's consistently poor wifi connection that drops off regularly as well as the fact it leaves your speed at almost dial up speeds have left us back at square 1 using the Sky router and just getting on with it. We have 80mb speed and get ~70mb wifi, but ~10mb through this router! DO NOT BUY. Support on the website is unhelpful - I'm not a technology novice either, so if you haven't got a clue what you're doing stay away from this!",
+      "rating": 1.0,
+      "verified": true,
+      "author": "Sam",
+      "helpful_votes": 0,
+      "publication_date": 20180621
+    },
+    {
+      "title": "Device didn't work out of the box. Tried updating ...",
+      "text": "Device didn't work out of the box. Tried updating to the latest firmware as of posting this review, still didn't work. Tried updating to the open source OpenWRT firmware, still was locked in a boot loop. The device simply doesn't appear to be stable and clearly has a critical flaw, whether that's software or hardware based, it's hard to tell.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "Mr. C. Broughton",
+      "helpful_votes": 0,
+      "publication_date": 20180704
+    },
+    {
+      "title": "Do Not Buy!!!!!",
+      "text": "Do not buy, This is a v2 router which cannot be flashed to dd-wrt or openwrt at all, there is no firmware available for this router , false advertising on Linksys behalf",
+      "rating": 1.0,
+      "verified": true,
+      "author": "john kavanagh",
+      "helpful_votes": 4,
+      "publication_date": 20180211
+    },
+    {
+      "title": "Defective Router, wont work more than a few minutes",
+      "text": "The router stops working after a few minutes of operation. Setting it up was easy and straight forward, but once you turn it on it stops working after a few minutes. The wifi led and the internet led disappear and the power led starts blinking. Even if i switch it off and then on it doesnt work. I have to unplug it for a few minutes and then turn it on to work again. And after a few minutes it stops again.. I did reset it and done a second setup but the same happened again Updated to latest firmware but nothing changed. Returned it and waiting for replacement Hopefully the second one will force me to update the review",
+      "rating": 1.0,
+      "verified": true,
+      "author": "Antonis",
+      "helpful_votes": 0,
+      "publication_date": 20170930
+    },
+    {
+      "title": "Solid but a few omissions",
+      "text": "Solidly built and the various connections and wireless services are all present and correct. The admin interface is OK and easy enough to use but lacks the range of more in-depth or advanced options that I've found on other routers (including Linksys ones). The biggest pain in the a*se has been trying to find a simple modem that will work with it to connect it to my broadband line. It was not exacty flagged up in big letters that this is only a router and LACKS INBUILT MODEM! Probably a lesson to read the smallprint better. In the end I ended up buying a cheap router/modem (non-wirless) and using that in pass-through mode.",
+      "rating": 4.0,
+      "verified": true,
+      "author": "MC",
+      "helpful_votes": 0,
+      "publication_date": 20191119
+    },
+    {
+      "title": "Exceptional OpenWRT box",
+      "text": "Bought the gamery one because of a discount, I don't care at all about \"Killer\" placebo features (it's just QoS, guys). The default UI is again gamery, oversimplified nonsense. BUT this thing makes a *very* good OpenWRT box. Wifi hasn't suffered at all from the switch to OpenWRT, even though they're Marvell controllers. It handles NATing my 500mbit internet connection effortlessly (many routers I tried before did not). Lots of CPU/RAM to spare for adblocking or VPNs or whatever your heart desires.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Andreas H.",
+      "helpful_votes": 0,
+      "publication_date": 20190910
+    },
+    {
+      "title": "Suffers from inadequate firmware",
+      "text": "Initial installation seemed to go ok, then the firmware screwed up, so I had to reset and try again. Second time it worked ok. Limited features in the factory supplied firmware, but I am soon going to try it with DD-WRT or Open WRT to see if either of those makes it the router I really want.",
+      "rating": 4.0,
+      "verified": true,
+      "author": "Paul",
+      "helpful_votes": 0,
+      "publication_date": 20190113
+    },
+    {
+      "title": "Range rover",
+      "text": "Bought this to replace my ISPs terrible fibre hub and a series of powerline adaptors and a second WiFi access point. This has drastically simplified my home network and the range is fantastic. The open VPN setup works great when traveling to countries with dubious internet protections (such as the US)",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Thomas John Fleming",
+      "helpful_votes": 3,
+      "publication_date": 20170611
+    },
+    {
+      "title": "Really disapointing",
+      "text": "I'm not sure if I got a faulty hardware or this is how it was supposed to work, but the wifi signal range was dreadful. At few meters distance the signal was 1/2 and if there is even a door between the router and the device it simply wouldn't connect. Compared to our old linksys EA6900 the wifi of it was non existent. As commented many times before the GUI is also limited to the extreme. Had to be returned and really disappointing experience and a sharp reminder that this brand is no longer owned by cisco.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "ian",
+      "helpful_votes": 0,
+      "publication_date": 20190905
+    },
+    {
+      "title": "Parental controls DO NOT Work!",
+      "text": "Parental controls do not work. Worse, when I Googled it I found that this has been a known problem for years (try \"WRT1900ACS parental controls\" in Google). I also didn't like the scummy \"create an account with us to set up your router\" thing. Its possible to avoid it if you select local configuration, but they definitely try to steer you into handing over all your data and giving them access into your home network. The only thing this device has going for it now is the OpenWRT project. I'm installing that instead of the standard firmware.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "Paul Johnson",
+      "helpful_votes": 0,
+      "publication_date": 20181003
+    },
+    {
+      "title": "DD-WRT WiFi very unreliable, linksys firmware perfect",
+      "text": "Was unable to get DD-WRT working consistentl, Wifi dropping contenously which is unfortunate as the ability to use DD-WRT firmware was my main reason for purchasing this model. Works perfect with the linksys firmware and features although limited compared to DD-WRT are perfectly adequate for most users . Great device but disappointed I wasn\u2019t able to get DD-WRT working however I expect it to be only a matter of time as it\u2019s still in beta for this particular model.",
+      "rating": 4.0,
+      "verified": true,
+      "author": "Jason Keane",
+      "helpful_votes": 0,
+      "publication_date": 20180925
+    },
+    {
+      "title": "Excellent coverage",
+      "text": "Bought this to take over wifi from my BT hub 6. The BT unit does not have good wifi in my opinion, coverage is not good and it pauses a lot. This item has transformed the wifi in my house. I now have excellent overage all over the house. Very pleased with it. Quite easy to set up if like me you retain your BT fibre optic hub, and just link this to it for its wi fi capability.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Mr. D. Borrington",
+      "helpful_votes": 0,
+      "publication_date": 20190330
+    },
+    {
+      "title": "Mixed feelings.",
+      "text": "On one hand, really cool, powerful, cool features... On the other, I updated to latest version: 1.0.6.181063 and both WiFi networks became flaky failing few times a day having to restart router to recover. After some research I downgraded firmware to previous version: 1.0.5.179030. This seems to have resolved the issue.... Not impressed :(",
+      "rating": 3.0,
+      "verified": true,
+      "author": "Alvaro Retortillo Areces",
+      "helpful_votes": 0,
+      "publication_date": 20171214
+    },
+    {
+      "title": "Excellent choice",
+      "text": "For a short time I tried the Linksys software delivered with the router. It is very good and more than sufficient to cover the requirements from most users. Having a few special needs, I installed the DD-WRT firmware and now am no longer limited by the boundaries imposed by the ISPs. I am now in full control of my network and have at my disposal configuration options above and beyond my most detailed requirements. Needless to say, if you decide to follow the same road, you need to know what you are doing. The other important benefit are the quality and stability of the network traffic which are now almost perfect.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Oidipci",
+      "helpful_votes": 0,
+      "publication_date": 20160807
+    },
+    {
+      "title": "I should have trusted the reviews",
+      "text": "A lot of disappointment on this router. I was hunting for a router to boost the wifi signal, as the box router from Virgin Media was only half decent. But the WRT3200ACM was performing worse than the box router!!! I got similar signal level (1 floor up from router with one ceiling and one wall, approx. 7-8 meters p2p away) as the box router. Then there are the constant drop outs and password errors even though we had successfully connected to it before. I am now returning this back to Amazon and writing this review.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "Mr. Sheng Liu",
+      "helpful_votes": 0,
+      "publication_date": 20180918
+    },
+    {
+      "title": "Disappointing",
+      "text": "Returned for a refund after 5 days. Amazon as always excellent returns process. The router itself started alright, although the coverage wasn\u2019t as good as first expected. Problems arose after a few days when I experienced random drop outs. Looking onlinr this is common with the model. I returned as soon as this became apparent. I have since gone over to an Ubiquiti UniFi Access point which is infinitely better and I am going fully into their eco system now with the security gateway and ethernet switches very soon.",
+      "rating": 3.0,
+      "verified": true,
+      "author": "jgreg82",
+      "helpful_votes": 0,
+      "publication_date": 20180408
+    },
+    {
+      "title": "Openwrt installed and very happy",
+      "text": "Firstly I couldn't tell you what stock firmware is like as it was only on there long enough to install Openwrt and then Luci GUI via SSH. While the range isn't different on the wifi side of things, the throughput of the router is far better than ISP router with my server and about 20 devices connected. I opted for a vigor 130 and installed bt sin 458 firmware (openreach certified firmware) I have been pleased with results and if it is reliable then not cheap-but a better user experience. Amazing people buy cheap routers and expensive tablets and computers and then moan about bad internet.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Dan1el",
+      "helpful_votes": 0,
+      "publication_date": 20170119
+    },
+    {
+      "title": "Highly recommended.",
+      "text": "Easy to set up, with very good coverage. High speed file transfer in local network. I recommend it for large house with multiple smart devices (smart speakers, Google Home, smart light bulbs and such).",
+      "rating": 5.0,
+      "verified": true,
+      "author": "S. Czerwinski",
+      "helpful_votes": 0,
+      "publication_date": 20200306
+    },
+    {
+      "title": "a lot of configuration !! AMAZING",
+      "text": "Nice DD_WRT compatible router. For me works well, couple of moths now. Signal WiFi is OK - 5G iittle bit weaker than 2.4G If you want use default firmware - still this is good choice and a lot features. But for this price you can buy something more WiFi6 compatible with less features ;)",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Adam",
+      "helpful_votes": 0,
+      "publication_date": 20200917
+    },
+    {
+      "title": "One Star",
+      "text": "Worked for a while, but crashed eventually. Amazon refunded me fully though and thank you",
+      "rating": 1.0,
+      "verified": true,
+      "author": "stevenstcroix",
+      "helpful_votes": 3,
+      "publication_date": 20170714
+    },
+    {
+      "title": "Super!!! router",
+      "text": "Two months ago after my purchase, I am very happy with this router is fast and with upstanding quality. I use the stock firmware software and one think I don't like inittial is the set up. Now I see my connected devices on network and set the priority and all is fine. I use this router a year a go with stock firmware without problems, but a week a go install DDWRT firmware and is a charm. I recommend it.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Ak7777777",
+      "helpful_votes": 0,
+      "publication_date": 20190225
+    },
+    {
+      "title": "Avoid at all costs",
+      "text": "There is a reason why this is sold for 75% off - product is absolute garbage and should be avoided at all costs. Read user comments from Linksys forums, DD-WRT forums etc. and you will see what I mean. My experience is equally bad: my devices won't connect to 5 GHz network or connection is lost soon after. 2.4 GHz and 5 GHz range is worse than with my old router having internal antennas. Hence, this product is unusable for me.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "japjar",
+      "helpful_votes": 0,
+      "publication_date": 20191007
+    },
+    {
+      "title": "For small number of devices...",
+      "text": "A poorly performing wireless router. The loss of quality and connection when more than 5 devices were connected was quite noticeable. The default firmware has way to few options and settings to tweak around. Open source firmware like dd-wrt marginally improved the reliability of the connection, at the expense of reduced performance and countless hours of restarting and changing settings to stabilise around 10 devices. All around, if you only have a handful of devices and stone of them can use the killer engine, this router might be for you. Otherwise, there are better options for this price.",
+      "rating": 2.0,
+      "verified": true,
+      "author": "Amazon Customer",
+      "helpful_votes": 0,
+      "publication_date": 20190523
+    },
+    {
+      "title": "Oldie but Goodie",
+      "text": "This router is far from being \"state of the art\". If routers grew whiskers, this would have a full set. But it works. And it is the classic platform for DD-WRT. Ports are 100Mbps - but do you really need 1Gb? This replaced an Asus RT-N12E that I never got to work properly with a NanoBeam modem. It has a good solid MIMO WiFi and never needs resetting. Old technology - but reliable performance. Worth every penny. Quick update: Easy to load Tomato offers a better range of features than the standard software and seems to be rock solid.  Recommended.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "C. De Courcy-bower",
+      "helpful_votes": 0,
+      "publication_date": 20140824
+    },
+    {
+      "title": "Brilliant",
+      "text": "This is an excellent router. The fact that it's open to using DD-WRT makes it a winner for me. I wanted a router with open source firmware & gigabit support that didn't slow down when it was being hammered with multiple connections. This fits the bill nicely. I can't comment on the WiFi because I don't use it (dedicated Wireless Access Point for that). Performance wise it's coped with everything I've thrown at it so far and not broken a sweat. The 512MB of RAM definitely helps.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Milo",
+      "helpful_votes": 0,
+      "publication_date": 20170714
+    },
+    {
+      "title": "Easy set-up and blistering performance",
+      "text": "A solid piece of kit. This router redefines how a router should be. Easy set-up and blistering performance. Great GUI and managing your connected devices is a breeze from the informative and easy to understand graphics. This router knows everything and shows you all the devices that are connected to your network and you can tweak away to your hearts content from the comfort of your sofa knowing you are in control. Best thing of all, when you have it all set-up they way you want it, it just melts away into the background and works! Great work Linksys!",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Mr Incredible",
+      "helpful_votes": 0,
+      "publication_date": 20151123
+    },
+    {
+      "title": "Rubbish",
+      "text": "Bought this to replace a Sagecom router supplied by PlusNet. Am staggered to find its performance is far worse. Areas of the house where the Sagecom supplied a good signal at 2.4ghz are now dead zones, as are all the areas where I previously had a dodgy performance. Line-of-sight range through the window into the garden has dropped from 100ft to about 40ft (and even worse on 5ghz), and range through 1 solid wall is next to nil on both frequencies. This despite almost zero contention from neighbouring properties. Have tried changing the alignment of the aerials with absolutely no effect. Not sure where I go from here, but this rubbish is going back to Amazon",
+      "rating": 1.0,
+      "verified": true,
+      "author": "Amazon Customer",
+      "helpful_votes": 2,
+      "publication_date": 20160423
+    },
+    {
+      "title": "Product faulty on delivery",
+      "text": "Four hours trying to set this new device up, it said it lacked firmware updates which blocked all the instructions in the documentation. After 4 hours trying to download I called the helpdesk who established that that equipment was faulty-2 further hours wasted. These things happen but then, 24 hours later, I was asked by the 'customer service' to pack up and return the item and then, upon receipt, 24 hours later a replacement would dispatched which would arrive 5-7 days later . Shoddy goods does happen but faulty goods and shoddy customer service. I'll be getting my money back and re-ordering a different brand which will arrive tomorrow,.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "ChristopherD",
+      "helpful_votes": 0,
+      "publication_date": 20180921
+    },
+    {
+      "title": "I was given an old Product",
+      "text": "It was working fine and was extremely happy about it, until about a month ago, then it started going all haywire, then when I contacted Lynskys for support they had told me: \"the system has validated the entitlement status of your device and it shows that the warranty coverage and free support was valid until Apr. 1, 2014. But let me give you the link where you can find instructions on how to resolve the issue.\" so in other words I was given a product that was 5 years old.... I will be writing to request a refund as when I purchased it, it was listed as new",
+      "rating": 1.0,
+      "verified": true,
+      "author": "Amazon Customer",
+      "helpful_votes": 0,
+      "publication_date": 20190707
+    },
+    {
+      "title": "Slow Download Speeds",
+      "text": "I bought the Linksys WRT3200ACM to replace the Virgin Super Hub 3, which I put in modem mode. It's easy to set up and use, and the range is good. However I have vivid 200 which is 200mb download speeds and can only achieve 109 from beside the router on wifi on both 5ghz & 2.4ghz. When I disconnect it from the Super Hub and use that wifi, I get a steady 200mbs. It may be able to handle more devices and transmit for a longer range, but to be that much slower than the stock router is very disappointing, given the price.",
+      "rating": 2.0,
+      "verified": true,
+      "author": "Marcus O'Brien",
+      "helpful_votes": 0,
+      "publication_date": 20181218
+    },
+    {
+      "title": "Larger than I thought",
+      "text": "Setup was a breeze, as was downloading and installing new firmware. Now with a pihole connected and configured the amount of ads I see has drastically been reduced and. Faster device to device communication (on home network) has been realized",
+      "rating": 5.0,
+      "verified": true,
+      "author": "anonimouse",
+      "helpful_votes": 0,
+      "publication_date": 20190510
+    },
+    {
+      "title": "The user interface kinds sucks but the signal is strong.",
+      "text": "I ended up flashing it with openWRT because the stock version of the software is just too basic and doesn't make much sense. The signal is perfect, it covers the house from the first floor to the third without a problem. No need for signal boosters, extenders or mesh routers.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Del N.",
+      "helpful_votes": 0,
+      "publication_date": 20200902
+    },
+    {
+      "title": "Really good wireless router.",
+      "text": "To be fare I flashed OpenWRT as soon as I received it. Great router for the cost, wireless performance is great no issues with failures or reboots. I use to give WiFi to the all house and to bridge between parts of the house where I have a WRT1200AC with other wired network. Definitely value for money with OpenWRT installed.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Luis",
+      "helpful_votes": 0,
+      "publication_date": 20181225
+    },
+    {
+      "title": "Nice and quite",
+      "text": "Have had in service now for a few weeks and no issues. Nice and quite, despite what some other have reported. Plug her in and left her off. No overheating issues, but common sense prevails. Dont stack or block, and if using a server room, keep he heating off or very very low. Top of class wireless modem as far as i am concerned. I have 18 connections through it now via bridged switch and about 10 wireless devices. No problem to this beast.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "davidpmccarthy",
+      "helpful_votes": 0,
+      "publication_date": 20161128
+    },
+    {
+      "title": "Worthless piece of plastic",
+      "text": "Like other reviewers, this worked for approx 2 weeks and since then it will not stay on for more than a couple of minutes without crashing. When it does there is nothing you can do but turn it off, leave it for 15 minutes or so and turn it back on. It was easy to set up and get going initially with good signal but now totally useless. I have updated to the latest firmware with no better results. I got so frustrated with it, I just put it in a drawer and forgot about it but now having tried again with it I am very frustrated with how poor it is and what a waste of money.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "Amazon Customer",
+      "helpful_votes": 0,
+      "publication_date": 20180813
+    },
+    {
+      "title": "Internal speed checker",
+      "text": "Expired Licence The licence for this Speed Test has expired Please contact the webmaster of this site to let them know WHOOPS BRAND NEW PRODUCT OUT OF SEALED BOX. RUN UPDATE FIRMWARE UPDATED STILL ERROR MESSAGE.",
+      "rating": 4.0,
+      "verified": true,
+      "author": "Mr. P. G. Chapman",
+      "helpful_votes": 0,
+      "publication_date": 20200505
+    },
+    {
+      "title": "Super solid router",
+      "text": "Router is great has loads of features such as prioritization and dual band. The router really easy to setup and was extremely quick. I upgraded from a super hub 3 from virgin media the super hub was great in my opinion but this router is amazing compared to it.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Archie",
+      "helpful_votes": 0,
+      "publication_date": 20180101
+    },
+    {
+      "title": "Very effective.",
+      "text": "Most importantly it was very easy to set up. Not being technical, I despaired when I saw the instructions but it turned to be very easy. I cannot compare it with anything else but it works very well.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Bramley",
+      "helpful_votes": 0,
+      "publication_date": 20200929
+    },
+    {
+      "title": "I couldn't recommend, very poor!",
+      "text": "This was a nightmare to set up, kept forgetting my settings. Had to switch from chrome to edge to get it set up through the setup wizard. The phone app isn't supported with this model. Once I had managed to get it setup, it performed worse than my old Netgear router! It also had issues with connection dropping, and some devices. Gave up and sent it back.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "Jeff S.",
+      "helpful_votes": 0,
+      "publication_date": 20190811
+    },
+    {
+      "title": "terrible setup- could not work at the first time -Do Not BUY!",
+      "text": "I was happy to finaly get my router. Since I watched many streaming I was so anxio to get a fine decent modem which could tranfer a high-width connection through WiFi. How great wasmy disapointment that the product could work, the Wifi is not stable and more of that- i could not connect to the router and configure it- no by LAN and no by Wifi. It is a shame that a respectible comapny like Linksys could not stand a decent router even for basic needs. NOt WORTH THE MONEY AND NOT WORTH AT ALL",
+      "rating": 1.0,
+      "verified": true,
+      "author": "Shay ke",
+      "helpful_votes": 0,
+      "publication_date": 20180818
+    },
+    {
+      "title": "No good in stone / brick buildings - signal will not go through a single wall!",
+      "text": "Poor quality signal, actually more likely to pick up signal from the BT hub than this, attempted to restore / update / adjust settings / adjust antenna's, but signal from one room to next drops to one bar. Probably ok using in a clear open space, but any building with brick or stone walls forgot it you aren't getting a signal",
+      "rating": 2.0,
+      "verified": true,
+      "author": "Amazon Customer",
+      "helpful_votes": 3,
+      "publication_date": 20160701
+    },
+    {
+      "title": "Does the job",
+      "text": "works well and helps speed up the internet to a point. I needed it to speed up the internet having got a VPN which does slow the internet down. A pain to set up though, so had to ask for their assistance. Took a long long time but finally it was working.",
+      "rating": 4.0,
+      "verified": true,
+      "author": "Yup!!",
+      "helpful_votes": 0,
+      "publication_date": 20190830
+    },
+    {
+      "title": "WRT1200AC does the job",
+      "text": "This wrt1200ac has done everything I'd expect it to. It's a huge improvement over my previous router. No problems in either using the factory linksys firmware (if you want to use it as a basic router) or flashing it with dd-wrt (which I did) and having a little more control over it. Strongly recommended.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "G Bell",
+      "helpful_votes": 0,
+      "publication_date": 20170618
+    },
+    {
+      "title": "Disappointing range/speeds and limited management interfaces",
+      "text": "Expected more from what appears to be a high-end wireless router. We live in a small flat but the 5ghz was spotty with poor range. The 2ghz was good range but much slower. Tried using same ssid as well. Management interface was very limited. Was expecting much more options for a product branded \u201cgaming\u201d. I was hoping to use the virgin hub\u2019s 5ghz and this router\u2019s 2ghz but they removed the option to individually disable each band a few firmware versions back. Disappointed and returning.",
+      "rating": 3.0,
+      "verified": true,
+      "author": "Stephen J To",
+      "helpful_votes": 0,
+      "publication_date": 20180709
+    },
+    {
+      "title": "Use with LEDE (openwrt fork) and it's brilliant. It had driver issues with the main openwrt ...",
+      "text": "Use with LEDE (openwrt fork) and it's brilliant. It had driver issues with the main openwrt software so I would recommend LEDE instead.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Yhorian",
+      "helpful_votes": 0,
+      "publication_date": 20170929
+    },
+    {
+      "title": "Booster",
+      "text": "Bought this to help with our internet as the modem you get from the provider was failing. Didn\u2019t realise you had to keep the modem this is a booster. It definitely helps boost and I like the parent control settings that are on it though not 100% but is anything",
+      "rating": 4.0,
+      "verified": true,
+      "author": "Helen Barker",
+      "helpful_votes": 0,
+      "publication_date": 20180808
+    },
+    {
+      "title": "Great router",
+      "text": "Brilliant bit of kit and easy to setup; (this is a router only not a modem) I am using with Virgin Media; switch my Virgin kit to modem only and the rest done it's self.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Karl",
+      "helpful_votes": 2,
+      "publication_date": 20170221
+    },
+    {
+      "title": "The iPhone app and remote access via cloud service is a nice touch and very useful thou",
+      "text": "Ok, but a bit too big and as one major flaw , which is the total lack of event logging, so if you need to see what is happening on your network you cant and you cannot link to syslog server either... The iPhone app and remote access via cloud service is a nice touch and very useful thou. Don't think I would buy again thou..",
+      "rating": 4.0,
+      "verified": true,
+      "author": "Amazon Customer",
+      "helpful_votes": 0,
+      "publication_date": 20170117
+    },
+    {
+      "title": "Excellent",
+      "text": "Was a bit tricky accessing the setup module built in, as instructions say to connect via 192.168.1.1 this is incorrect as the ip address for the router is completely different it will show a blank window otherwise. Look in windows network to find the correct one then you can access setup, other than that it is perfect.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Richard Hickling",
+      "helpful_votes": 0,
+      "publication_date": 20200201
+    },
+    {
+      "title": "Works well, can be flashed",
+      "text": "Works well, can be flashed to run your VPN and controlled from your PC. I use it with Express VPN's software and it has been good for me for 6 months so far. Expensive unless you intend to take advantage of its features",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Amazon Customer",
+      "helpful_votes": 0,
+      "publication_date": 20180731
+    },
+    {
+      "title": "worth the cash super stable...",
+      "text": "really happy with this. wifi ramge hasnt improved massively over home hub, however it feels way faster with multiple devices on the network and havent had to reboot once since setting up. we were previously rebooting the homehub quite often (approx 15 to 20 active devices on our home network). have now setup homehub as the gateway and internal network is completely on its own internal subnet handled by this router.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Mr. J. R. Butler",
+      "helpful_votes": 0,
+      "publication_date": 20170913
+    },
+    {
+      "title": "Wireless signal is stronger than I'm accustom to and the smart app allows convenient remote access to admistration and settings",
+      "text": "Chunky beast that is about 250% larger than my previous Netgear router. Does everything that you expect. Wireless signal is stronger than I'm accustom to and the smart app allows convenient remote access to admistration and settings. My PC transfer rates have jumped from 100Mbps to 1Gbps. User friendly with easy access to setting blocking for specified users, and great value as the backbone to your home wireless network.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Mary Austin",
+      "helpful_votes": 0,
+      "publication_date": 20180422
+    },
+    {
+      "title": "Great router",
+      "text": "Best router I ever had. Wi-Fi reception is now available in each corner of my apartment, no more buffering while sitting next to the router, way better than may previous TP-LINK. Setup and management software very easy to use and straightforward(it could probably include more settings for advanced users, and other \"blink blink\" settings), USB 3 performance like stated in the specs, with a broadband connection of 1Gb/s it reached 941Mb/s with a test server nearby. Very pleased with it, and even with the aestetics.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Leon",
+      "helpful_votes": 0,
+      "publication_date": 20170830
+    },
+    {
+      "title": "Wifi just dies",
+      "text": "Every few hours the wifi just drops all connected devices and wont allow anything to connect until you power cycle the router. The user interface is missing the most basic of settings that are even provided on the crappy routers supplied by Internet providers as standard. You must install dd-wrt if you want any kind of functionality but sadly that doesn't fix the wifi issues. I will never buy another linksys router again.",
+      "rating": 2.0,
+      "verified": true,
+      "author": "Steven Brown",
+      "helpful_votes": 0,
+      "publication_date": 20190803
+    },
+    {
+      "title": "As much use as a ash tray on a motorbike.",
+      "text": "Absolute waste of money, just google this router about the WiFi problems, a year later and no firmware update. Avoid.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "Kerry",
+      "helpful_votes": 0,
+      "publication_date": 20190409
+    },
+    {
+      "title": "Used for VPN protection",
+      "text": "I use this router for running a VPN. I installed software from my VPN provider and have all devices in the property protected.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "R. MacDonald",
+      "helpful_votes": 0,
+      "publication_date": 20200328
+    },
+    {
+      "title": "A huge disappointment",
+      "text": "This router has the potential of being solid. However linksys decided to but the most BASIC user interface that doesn't even off you basic settings in order to connect to broadband through an external modem. No firmware updates since April last year and no support offered. It's trash. Don't bother and get a netgear. ZERO STARS",
+      "rating": 1.0,
+      "verified": true,
+      "author": "Taryn Crimson",
+      "helpful_votes": 0,
+      "publication_date": 20190718
+    },
+    {
+      "title": "Do not bother with this steaming pile of overpriced garbage",
+      "text": "Constant disconnecting every 2-5 minutes, DO not buy this garbage, linksys cannot even be bothered to configure a router with virgin modems \u00a3200, a price of a ps4, no graphics unit, yet linksys cant even create a usable router and you have to leave a bad review for them to get to help you OLD technology sold at a premium price",
+      "rating": 1.0,
+      "verified": true,
+      "author": "rishi 123",
+      "helpful_votes": 0,
+      "publication_date": 20180515
+    },
+    {
+      "title": "Great device for home network",
+      "text": "This router is great, it is very fast, easy to set up, even more easier to configure. Linksys phone app works great with it, there are so many options to configure from it so do not have to login to the router from the browser. I wish only that the wifi signal would be a bit stronger, then it would not have any weak points. Overal, 9.7/10. Worth its price. Highly recommended!",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Jacek",
+      "helpful_votes": 0,
+      "publication_date": 20190412
+    },
+    {
+      "title": "Nice router but disappointed",
+      "text": "Nice router but disappointed, theres no OpenVPN client, I had to install DDWRT which I should need to do, on a router this expensive, build quality very good, once I installed ddwrt, Openvpn client speed very very good 96 mbps",
+      "rating": 3.0,
+      "verified": true,
+      "author": "Richard P S",
+      "helpful_votes": 0,
+      "publication_date": 20170809
+    },
+    {
+      "title": "Hello, the increase of WIFI range to put the ...",
+      "text": "Hello, the increase of WIFI range to put the new antennas in my new router LINKSYS WRT3200ACM, has been very little, I expected much more, to know it before would not have bought them, since with the new router+ new antennas has a similar scope of my old WRT54G Regards",
+      "rating": 1.0,
+      "verified": true,
+      "author": "RADOFE",
+      "helpful_votes": 3,
+      "publication_date": 20170213
+    },
+    {
+      "title": "Exellent",
+      "text": "Good router at good price. Can be easily flushed with Open WRT firmware. No fans, good cooling and coverage.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Bobacho",
+      "helpful_votes": 0,
+      "publication_date": 20190808
+    },
+    {
+      "title": "Works will with dd-WRT latest biuld",
+      "text": "Once you install the dd-wrt latest build works well, the Linksys firmware is not as fast. The latest build works ok, except for port forwarding which needs 0.0.0.0/0 in the \"Source.Net\" field, took a while to find that. Yet to try the VPN server.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Mr. Jonathan V. Roberts",
+      "helpful_votes": 0,
+      "publication_date": 20180508
+    },
+    {
+      "title": "Solid and reliable.",
+      "text": "Put openwrt on first thing. Has been working great. However on one router I had to reflash for some reason as wireless was cutting out, but alas it has been working fine since. Solid routers been running one as VPN router and full 80/20 speeds VDSL.",
+      "rating": 4.0,
+      "verified": true,
+      "author": "ibzman",
+      "helpful_votes": 0,
+      "publication_date": 20190830
+    },
+    {
+      "title": "Coule be better",
+      "text": "Could be better. The main reason i gave 3 stars is because you can't manage your users within admin area for example disconnect them from the router etc.",
+      "rating": 3.0,
+      "verified": true,
+      "author": "Eddie",
+      "helpful_votes": 0,
+      "publication_date": 20190516
+    },
+    {
+      "title": "Very Good router and for DDR WRT",
+      "text": "This is a good router to use, veru simmple set up and can also use DD WRT firmware which is very easy to setup caompared with NETGEAR",
+      "rating": 5.0,
+      "verified": true,
+      "author": "ALIEN1X",
+      "helpful_votes": 0,
+      "publication_date": 20190429
+    },
+    {
+      "title": "Linksys wrt32x",
+      "text": "Rubish router . WiFi speed up and down. 1 time in the same place speed 90mb and another time only 2mb. Very disappointed .so now I\u2019m very happy with my old router ASUS 68 .",
+      "rating": 1.0,
+      "verified": true,
+      "author": "Mr. Dainius Motuza",
+      "helpful_votes": 0,
+      "publication_date": 20180812
+    },
+    {
+      "title": "Fab - once I got it set up!",
+      "text": "This router (this is coming from someone who's not a techy wiz) I think is great, I am downstairs on the other side of the house and I have 4/5 bars signal, which is great. It does not have many cables and it quite smart looking. The only problem I have with it is the set up instructions were very poor for an average joe, the set up CD was confusing and there were no written instructions, I found a couple of video's online to help me in the end! So great for people who are in the know but others will struggle, it took me a few hours to get it going!",
+      "rating": 5.0,
+      "verified": true,
+      "author": "S. Grant",
+      "helpful_votes": 0,
+      "publication_date": 20090730
+    },
+    {
+      "title": "WRT54GL for DD-WRT",
+      "text": "WRT54GL router bought just to run the DD-WRT router software, so only ran its own software for long enough to load DD-WRT. Then set it up to operate as a wifi client to give me wired network access. Reception is now great where all my wifi connections had been very patchy using built in devices. DD-WRT software works nicely with it. It was unbeleivably easy to set up",
+      "rating": 5.0,
+      "verified": true,
+      "author": "The Angry Druid",
+      "helpful_votes": 0,
+      "publication_date": 20141202
+    },
+    {
+      "title": "Small Office Router",
+      "text": "Awesome router. nice features and UI for the Admin console. So far it has been ultra stable, and have fast wifi all the time.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Doug C",
+      "helpful_votes": 0,
+      "publication_date": 20181220
+    },
+    {
+      "title": "Beats the BT home hub",
+      "text": "This was easy to set up and monitor, no issues at all. The coverage is good and the app works well on my iPhone. The only downside is it's size, you need a lot more space than my old BT home hub",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Bevy",
+      "helpful_votes": 0,
+      "publication_date": 20170522
+    },
+    {
+      "title": "It works, but...",
+      "text": "It's a decent and powerful router, BUT... Open source firmware won't simply work. Tried both OpenWRT and DD-WRT (correct versions), and it was a nightmare. Problems with wi-fi, network discovery, file sharing. If you're ok with stock firmware (Linksys smart wi-fi) buy this router, you won't regret it. If you want to customise your network and don't mind problems with wi-fi and media server, buy this router. It's still a high performance beast!",
+      "rating": 4.0,
+      "verified": true,
+      "author": "Klink",
+      "helpful_votes": 0,
+      "publication_date": 20170226
+    },
+    {
+      "title": "Works with DD-WRT.",
+      "text": "Immediately installed DD-WRT, I don't even think I configured the router with the stock firmware. But I can confirm this model (and version!) works with DD-WRT.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Mike",
+      "helpful_votes": 0,
+      "publication_date": 20180209
+    },
+    {
+      "title": "Easy set up",
+      "text": "Easy set up, I am an IT manager for a small business and have had no issues with this. I have both 2.4GHz and 5GHz bands activated to divide traffic. We have around 15 devices connected to each band and have no problems! Would highly recommend this router.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "D-ENERGi",
+      "helpful_votes": 0,
+      "publication_date": 20171206
+    },
+    {
+      "title": "24/7 switched on, still working strong",
+      "text": "This is still working after 24/7 use over the past year. Works great!",
+      "rating": 5.0,
+      "verified": true,
+      "author": "and wan",
+      "helpful_votes": 0,
+      "publication_date": 20190827
+    },
+    {
+      "title": "Need a good router that lasts longer than a year",
+      "text": "This broadband router is very easy to setup and use, but and it's a big but, it only lasts about a year. I have had 2 and both died after about 13 months. Given that the router is never moved, or touched, for both of them to die at the same time isn't a coincidence. For what you are paying there are better choices out there. Your money will be better spent not buying this if you want something that lasts longer than 1 year.",
+      "rating": 3.0,
+      "verified": true,
+      "author": "JG",
+      "helpful_votes": 3,
+      "publication_date": 20130825
+    },
+    {
+      "title": "Still going strong",
+      "text": "Bought when new extension completed couple of years ago set up was easy, never had to use their tech support and probably the most used network..",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Alan",
+      "helpful_votes": 0,
+      "publication_date": 20190814
+    },
+    {
+      "title": "Do not buy.",
+      "text": "Garbage: there is a known firmware issue with this router. I have the same problem like many others. This router keeps crashing every couple of hours.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "Jm Buckley",
+      "helpful_votes": 0,
+      "publication_date": 20180826
+    },
+    {
+      "title": "should have bought this earlier",
+      "text": "I bought this to replace my old rooter and wish I had made the move much earlier. For parents it's easy to control your kids access to the internet. It's ugly looking but performs brilliantly and covers the whole house unlike my old one.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "SLAPER-1",
+      "helpful_votes": 0,
+      "publication_date": 20170402
+    },
+    {
+      "title": "Double speed",
+      "text": "My BT home hub got me 37mbps down on speedtest.net. This combined with a Dreytek 130 modem gets me 78mbps down. What better review can I leave?",
+      "rating": 5.0,
+      "verified": true,
+      "author": "James Pirie",
+      "helpful_votes": 0,
+      "publication_date": 20190302
+    },
+    {
+      "title": "Got about the expected increase in signal as I expected ...",
+      "text": "Got about the expected increase in signal as I expected. These won't work miracles, but if your signal isn't quite upt o speed and strength, then these will help give it a small boost. Won't help much if the signal is completely non existant where you are trying to reach.",
+      "rating": 4.0,
+      "verified": true,
+      "author": "Gouldin",
+      "helpful_votes": 0,
+      "publication_date": 20160905
+    },
+    {
+      "title": "DO NOT PURCHSSE THIS GET THE WRT3200ACM",
+      "text": "Looks swanky - issue is it's limited on functionality. The WRT3200 router is far better, same spec but has more features",
+      "rating": 3.0,
+      "verified": true,
+      "author": "Batman",
+      "helpful_votes": 0,
+      "publication_date": 20181015
+    },
+    {
+      "title": "Bought this for dd-wrt / openVPN",
+      "text": "I already own a few of these routers. I love this router because it works well with dd-wrt and I depend upon openVPN for open ports (as my cellular internet provider doesn't provide this facility).",
+      "rating": 5.0,
+      "verified": true,
+      "author": "DangerMouse443",
+      "helpful_votes": 0,
+      "publication_date": 20200514
+    },
+    {
+      "title": "WARNING! MADE IN CHINA",
+      "text": "product manufactured in China. High probability of backdoor hardware chip. \"NOT SAFE\"",
+      "rating": 1.0,
+      "verified": true,
+      "author": "Ryan F.",
+      "helpful_votes": 0,
+      "publication_date": 20200531
+    },
+    {
+      "title": "Wow!",
+      "text": "Wow! What a brilliant router, easy installation speed instantly 100meg. Couldn't buy better I am sure.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Mawkin",
+      "helpful_votes": 0,
+      "publication_date": 20190311
+    },
+    {
+      "title": "Great signal",
+      "text": "Have used for while now, very good wifi signals trou the hole house",
+      "rating": 5.0,
+      "verified": true,
+      "author": "freddy",
+      "helpful_votes": 0,
+      "publication_date": 20190710
+    },
+    {
+      "title": "Linksys WRT1900ACS - seems unstable, crashes, reboots, even with latest firmware",
+      "text": "I\u2019ve been unable to connect to the internet or my network using this router for more than an hour at a time and in some cases just a few minutes before the internet and network connection drops. I\u2019ve followed the online setup process and advice on various technical forums, but this has not helped. I\u2019ve now returned router to Amazon for a refund.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "TimH",
+      "helpful_votes": 0,
+      "publication_date": 20171109
+    },
+    {
+      "title": "Had to reset on a daily basis.",
+      "text": "Not sure if it is the unit we received but this was a bad quality item. A hard reset had to be performed on a daily basis to have it work. Purchase a more reliable manufacturer.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "A&R",
+      "helpful_votes": 0,
+      "publication_date": 20200207
+    }
+  ],
+  "product_meta": {
+    "title": "Linksys WRT1200AC-UK Dual Band AC1200 Gigabit Smart WiFi Router (1.3 GHz Processor, 128 mb Flash, 256 DDR3 RAM, USB 3.0, eSATA, 4 x Ethernet), Open Source Ready",
+    "description": "Style Name:AC1200 RouterDelivering advanced network performance, the Linksys WRT1200AC Wireless AC Router provides secure, high-speed Wi-Fi connections with stability and extensive range.\n\nBOX CONTAINS\nLinksys WRT1200AC Wireless AC Router\nquick start guide\nCD-ROM with documentation\ntwo antennas\nEthernet cable\nUK power adapter.",
+    "rating": 3.9,
+    "feature_bullets": [
+      "Dual-band, wireless speeds up to N400 + AC867 Mbps with a 1.3Ghz dual-core ARM processor",
+      "Adjustable, high-gain antennas provide a strong, reliable signal",
+      "Linksys Smart Wi-Fi with Network Map enabled",
+      "WPA2 encryption, SPI firewall, and guest security features",
+      "USB 3.0 and eSATA/USB 2.0 ports for network sharing.Platform Compatibility: Windows XP Windows Vista 32/64 Windows 7 32/64 Windows 8 32/64 Windows 8.1 32/64 Mac OS X 10.5.8 Leopard Mac OS X 10.6.1 Snow Leopard Mac OS X 10.7 Lion Mac OS X 10.8 Mountain Lion Mac OS X 10.9 Mavericks Windows 10 32/64"
+    ],
+    "specifications": {
+      "Brand": "Linksys",
+      "Product Dimensions": "24 x 9 x 32 cm; 653.17 Grams",
+      "Item model number": "WRT1200AC-UK",
+      "Manufacturer": "Linksys",
+      "Processor Brand": "ARM",
+      "Processor Speed": "1.3 GHz",
+      "RAM Size": "256 MB",
+      "Computer Memory Type": "DDR3 SDRAM",
+      "Hard Drive Size": "128 MB",
+      "Connectivity Type": "Wi-Fi",
+      "Number of Ethernet Ports": "4",
+      "Are Batteries Included": "No",
+      "Item Weight": "653 g",
+      "ASIN": "B00W1BNY6I",
+      "Customer Reviews": "3.9 out of 5 stars684 ratings3.9 out of 5 stars",
+      "Best Sellers Rank": "113,980 in Computers & Accessories",
+      "Date First Available": "10 April 2015"
+    },
+    "categories": [
+      "Computers & Accessories",
+      "Routers",
+      "Networking Devices"
+    ],
+    "price": ""
+  }
+}

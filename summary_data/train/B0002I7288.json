@@ -1,0 +1,593 @@
+{
+  "website_summaries": [
+    {
+      "verdict": "A reliable, highly configurable VPN router that is powerful enough for smaller businesses\u2019 needs, but works well in the home, too.",
+      "pros": [
+        "Extremely fast router with a solid, secure firewall and a built-in VPN",
+        "Experienced users can quickly and easily set up VPN between multiple units and configure its security settings",
+        "Bandwidth management is a plus"
+      ],
+      "cons": [
+        "Router often needs manual updating, particularly when setting up VPN or DNS",
+        "Security certificate doesn\u2019t always work with newer browsers",
+        "Disconnects frequently",
+        "Can get overburdened in multi-device, high-bandwidth environments"
+      ],
+      "aspects": {},
+      "publication_date": "",
+      "rating": "",
+      "source": "bestreviews"
+    }
+  ],
+  "customer_reviews": [
+    {
+      "title": "Nightmare of a router",
+      "text": "I have been fighting with 5 of these routers for several years now because my client likes Cisco. We have VPN's between 5 locations that are a nightmare. I have updated the firmware religiously and read probably thousands of pages of documentation and forums to no avail. gateway to gateway VPN's drop regularly. I had to put a lamp timer on one to reboot it every morning because it locked up so often. Even their own QuickVPN client will not connect. I tried to like this router but I'm going to find something out there that works all the time, not just when it wants to work.",
+      "rating": 2.0,
+      "verified": true,
+      "author": "RottWhiler",
+      "helpful_votes": 12,
+      "publication_date": 20170211
+    },
+    {
+      "title": "Its ok, but has some flaws",
+      "text": "It works as Router as it should, the dual WAN option works... sometimes... if ur ISPs are stable enough the load balance works pretty well, but if you ISPs stops working often the router do not switch between WANs as advertized. Also sometimes the DHCP hans and need remote/local restarts. It should be better for the money",
+      "rating": 3.0,
+      "verified": true,
+      "author": "Osiricat",
+      "helpful_votes": 0,
+      "publication_date": 20190105
+    },
+    {
+      "title": "Highly Recommended Router for VPN",
+      "text": "Despite it being 10/100 it does its job perfectly, it still has support for Firmware upgrade. Option of VPN, Router, Firewall.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Shuanfa1985",
+      "helpful_votes": 0,
+      "publication_date": 20200718
+    },
+    {
+      "title": "Great but keep it cool",
+      "text": "I've not had any problems with this switch but note that it does get hot so you want to install it in a place where it would get plenty of air movement. I've installed nearly a dozen at different businesses and they all use VPN and they all been working more than 3-4 years without any hiccups. I've never had any problems with them and remote access allows me to change setting on the fly without going to the location....but that's a feature that all routers have. I started using these routers because they were the cheapest, reliable means of setting up a VPN between multiple site. Have not been disappointed yet and would buy again without reservation.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "b.deren",
+      "helpful_votes": 0,
+      "publication_date": 20140104
+    },
+    {
+      "title": "Excellent for experienced IT staff",
+      "text": "I am a Cisco Certified Network Engineer with over 20 years experience. This device is great for smaller installations (<250 users) because it has a nice web interface and is easy to configure. Of course this is a double edge sword because I have been back to my customer's office 3 times fixing issues caused by the customer's inexperienced in-house techs making changes they did not understand. If you need a basic router than great but if you need to load-balance multiple connections, manage VoIP traffic or handle inter-office VPN tunnels then hire and retain an experience network engineer. A good tech (with quality equipment) will save you time, money and reduce downtime.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Dave W",
+      "helpful_votes": 0,
+      "publication_date": 20100918
+    },
+    {
+      "title": "Total waste of money and time",
+      "text": "Unable to use for VPN connection all software listed in the package is no longer supported",
+      "rating": 1.0,
+      "verified": true,
+      "author": "R. Goad",
+      "helpful_votes": 2,
+      "publication_date": 20191111
+    },
+    {
+      "title": "Excelent router (good deal)",
+      "text": "This is a great product, make the job of another USD700 valued router. The suscription service is optional. Without suscription you can block pages, masking ports to remote desktop access, do DHCP, teaming two differents internet providors. The unit can works for months without stop, you can configure a logserver, there are documentation and forums for this product at Cisco site. For the price, is a good deal. Notice, at june 2013 was release a new firmware update.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "J. E. RIVAS",
+      "helpful_votes": 0,
+      "publication_date": 20130730
+    },
+    {
+      "title": "Won't redirect to a different port",
+      "text": "This is a very nice unit. Having VPN tunnels in the router is a great idea. But it can't redirect an incoming connection on port \"X\" to port \"Y\". You can configure port \"X\" to go to an internal IP address, but it must be on port \"X\". That doesn't work in my environment. This is a disappointing limitation on an otherwise excellent product. If you don't need this feature, there's no reason not to buy this.",
+      "rating": 3.0,
+      "verified": true,
+      "author": "Quayle Consulting Inc.",
+      "helpful_votes": 0,
+      "publication_date": 20121021
+    },
+    {
+      "title": "Initially worked great, than it started to disconnect from a remote ...",
+      "text": "Initially worked great, than it started to disconnect from a remote server at unpredictable times, was not able to figure out what is was or get any help on the matter. Found several posts of fellow users with the same problem, but no solution. So gave up on it bought two other single input routers. Quite disappointed with the matter. The problem start to occur within two months of operation.",
+      "rating": 2.0,
+      "verified": true,
+      "author": "Amazon Customer",
+      "helpful_votes": 0,
+      "publication_date": 20170409
+    },
+    {
+      "title": "Been happy with all Cisco products other than this incidence.",
+      "text": "Failed when I was setting it up. Even a hard reset wouldn't let me back in. I'm sure they are not all like this.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "HoneyDripper",
+      "helpful_votes": 0,
+      "publication_date": 20180331
+    },
+    {
+      "title": "Used This Many Times",
+      "text": "I've used this router with several clients -- it's a great product. Setting up a secure VPN between two locations with these is easy. The dual-WAN capability is nice if you have two internet providers either as a fall-back or load-sharing. (BTW...some IP phone systems don't like the dual providers, but having a 2nd provider as a fall-back may only require a phone reboot.)",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Amazon Customer",
+      "helpful_votes": 0,
+      "publication_date": 20130209
+    },
+    {
+      "title": "Switching from bad to good WAN is not smooth",
+      "text": "Used on 20 Mbit/sec cable as primary and 1-2 Mbit/sec 4G connection as secondary. With auto-fail-over it does switch from cable to 4G when cable stops working, but transition is not smooth - few seconds when connection to the world is not available. When both connections up - network tests show much lower speed than cable could do alone. Doing Skype is not smooth on this device.",
+      "rating": 2.0,
+      "verified": true,
+      "author": "Andy",
+      "helpful_votes": 0,
+      "publication_date": 20121228
+    },
+    {
+      "title": "Load Balance problem and FTP port forward error",
+      "text": "The good part: Easy setup Easy VPN setup THE BAD PART: - Ciscos' worst support EVER - Port Forward problem: If you try to setup a different port for FTP, it won't work as passive mode. It works only in port 21 - Load balance problem. You will not be able to use load balance if you have any tipe of incoming traffic like FTP. YOu will have to turn off load balance, otherwise, binding ou FTP server won't work correctly. don't waste your money.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "rafael51",
+      "helpful_votes": 0,
+      "publication_date": 20130326
+    },
+    {
+      "title": "Quality",
+      "text": "Setup up was very intuitive and easy. It has run very reliably. It is nice to have high quality equipment like this.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Mr. Simmons",
+      "helpful_votes": 0,
+      "publication_date": 20170122
+    },
+    {
+      "title": "Good router for the price",
+      "text": "A solid small business class router. Has a lot good features. Seems like you can overtax it if you try to much though. It has a bandwidth management feature there but seems to overburden the router if you try to much with it. Other than that, has a great firewall setup, a pretty robust VPN cabability, and seems to work pretty well.",
+      "rating": 4.0,
+      "verified": true,
+      "author": "Matt",
+      "helpful_votes": 0,
+      "publication_date": 20150303
+    },
+    {
+      "title": "Great but...",
+      "text": "The router works great and is easy to set up. Very nice utilization of Dyn DNS for assigning different FQDNs per external interface. The \"but..\" part is the VPN- I still havnt gotten it to work yet. Guess Im actually going to have to read something other than the provided docs on this one.... Great product though- totally happy w it!",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Ernie Edmonds",
+      "helpful_votes": 0,
+      "publication_date": 20100825
+    },
+    {
+      "title": "Excellent Dual Wan unit",
+      "text": "I bought this unit to load balance my two internet connections, ISDN and Cable. It's absolutely amazing for web surfing. Speedtest.net reports the total speed of the two interfaces. Unfortunately, as the excellent support specialist at cisco pointed out, load balancing doesn't work with most secure connections, like iTunes downloads. So I ended up configuring to use the second connection as a backup. Interestingly you can assign certain ports to use a single connection but we're using a wireless router behind this unit. If you have flaky internet where you live and a choice of providers, it's worth looking at using both. Cheers, Sam",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Sam from Santa Monica",
+      "helpful_votes": 2,
+      "publication_date": 20110124
+    },
+    {
+      "title": "Good product",
+      "text": "It was easy to install. I could easily configure NAT and VPN works fine as well. I can access to my work PC from home by using VPN software. I don't know how secure it is but my work does not require much security. I never call for support. So I don't have any comment or rate for Product Support. Actually, I've been using their forum to ask question and it's very helpful. You can answer pretty quickly from gurus as soon as you post your question. I would recommend this product to small office with dedicated internet line.",
+      "rating": 4.0,
+      "verified": true,
+      "author": "J. W.",
+      "helpful_votes": 0,
+      "publication_date": 20100812
+    },
+    {
+      "title": "Exactly what I was looking for",
+      "text": "Needed a dual WAN router to bridge two DSL lines simply for load balancing. I can only get a maximum of 3Mb. With the two DSL lines connected to the RV042 in load balancing mode I immediately was able to download files much faster using my download manager (that initiates up to 16 connections to download the same file). Setup was straightforward using the WEB interface.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Tommy ",
+      "helpful_votes": 0,
+      "publication_date": 20121203
+    },
+    {
+      "title": "Looses Programming.  Not good (Anymore)",
+      "text": "The RV042's in the past were fantastic. Circa start date to 2016. Now both of these have failed because the programming randomly gets wiped. No electrical surges...just goes flat line.",
+      "rating": 2.0,
+      "verified": true,
+      "author": "Richard Holliday",
+      "helpful_votes": 0,
+      "publication_date": 20180605
+    },
+    {
+      "title": "Beware of MTU issues.",
+      "text": "I've purchased this router a few month ago based on relatively good internet reviews. Everything worked Ok besides continuously dropped VPN connections, missing images, style sheets, broken internet pages..etc. I've tried to resolve this issue with CISCO support which is great btw, but was unuseful in my case. The replacement unit had exactly the same issue. It looks like those routers have serious MTU problem, which cannot be configured properly whatever it manual or auto configuration option. The problem could be ISP related (ATT Uverse in my case), however NETGEAR ProSafe VPN FVS338 which I've purchased a week ago works great so far and MUCH faster.",
+      "rating": 2.0,
+      "verified": true,
+      "author": "Joe",
+      "helpful_votes": 3,
+      "publication_date": 20100913
+    },
+    {
+      "title": "Using mine as a paperweight",
+      "text": "I've used Amazon for a decade now and almost never post a negative review. I bought this to allow VPN but to also consolidate a DSL and Cable incoming connection. I was never able to get it to work properly with my modems and my wireless routers on opposite sides of this thing. Connections to the outside world would get confused about where they were coming from one moment to the next. The whole experience was world's worse than I thought, and I never even got to the point of trying the VPN which sounds like it doesn't work quite right either.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "M. Casper",
+      "helpful_votes": 4,
+      "publication_date": 20100327
+    },
+    {
+      "title": "I should have read the reviews",
+      "text": "I sent this unit back and got the RV082 which works fine. The QuickVPN refused to work with this unit and LinkSys was no help. It does not support the Native VPN Client in XP either. I got the RV082 and use the Native XP VPN client. No extra software and works like a charm.",
+      "rating": 2.0,
+      "verified": true,
+      "author": "mswlogo",
+      "helpful_votes": 4,
+      "publication_date": 20060224
+    },
+    {
+      "title": "Reliable.",
+      "text": "This is a sturdy full featured VPN Router. I HIGHLY suggest this VPN router over the other RV1* devices. Leaps and bounds better than the RV4000, get this as a replacement when the RV4000 start to fail. Has a keep-a-live feature with the IPSEC VPN.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Daniel Rothman",
+      "helpful_votes": 0,
+      "publication_date": 20130610
+    },
+    {
+      "title": "Works well to manage kids at home",
+      "text": "I know this is targeted more for small business, but I am a high end home user (gigabit network, 2 WAP's and lots of devices). I most enjoy the fact that I can effectively do things like block my teenager's laptop (iPad, etc) from getting to Facebook with not a ton of work. It helps get homework done and keep harmony in the house.",
+      "rating": 4.0,
+      "verified": true,
+      "author": "djk",
+      "helpful_votes": 0,
+      "publication_date": 20121231
+    },
+    {
+      "title": "Incorrect Power Supply for this unit created an issue. ...",
+      "text": "Incorrect Power Supply for this unit created an issue. Unit would not stay on Power for longer than 1 minute. Unit only had Rev 1 installed but was not advertised prior to purchase.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "Kindle Customer",
+      "helpful_votes": 0,
+      "publication_date": 20140707
+    },
+    {
+      "title": "The product works exactly as it\u2019s supposed to.",
+      "text": "I have been using a RV042 router since 2006. However, it just recently failed. Therefore I replaced it with this new one because the previous one worked exactly as expected. Although I initially thought I only needed one port to create my VPN, which was the primary purpose for purchasing it, I later found the three additional ports to be quite useful for temporary, non-VPN use. I couldn\u2019t be happier. In addition, the delivery time was spot on.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "David G. Belo",
+      "helpful_votes": 0,
+      "publication_date": 20131208
+    },
+    {
+      "title": "Good overall",
+      "text": "This is a great product i have specifically used it to create vpn tunnels between small offices. I have purchased around 15 so far and all have worked just fine. One lost vpn tunnel info. Thats the only reason i did not rate it 5. Maybe the client is not so good but it works",
+      "rating": 4.0,
+      "verified": true,
+      "author": "Luis R",
+      "helpful_votes": 0,
+      "publication_date": 20140107
+    },
+    {
+      "title": "Good low cost router for small businesses",
+      "text": "Have used these for years and have several still in the field can only think of one that failed and it was actually the power cord that failed not the router itself. Had some issues with some voip providers with this device, but overall a good low priced router for small businesses.",
+      "rating": 4.0,
+      "verified": true,
+      "author": "chabomb0",
+      "helpful_votes": 0,
+      "publication_date": 20141221
+    },
+    {
+      "title": "Time it took to receive item",
+      "text": "I ordered this on a Friday in New Zealand. And it turned up on the Monday, impressive!",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Angus ",
+      "helpful_votes": 0,
+      "publication_date": 20181211
+    },
+    {
+      "title": "A workhorse SMB router",
+      "text": "I have deployed these to every SMB customer needing a router upgrade from a home product to a business class router. Very reliable and easy to configure for all the basic functions. The built-in VPN service and Dynamic DNS feature lets me set up easily for remote access support.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Amazon Customer",
+      "helpful_votes": 0,
+      "publication_date": 20140128
+    },
+    {
+      "title": "Solution",
+      "text": "Reasonably priced solution for off-site communication, controlled for security. Set up was simple enough for average person to do. Nice unit.",
+      "rating": 4.0,
+      "verified": true,
+      "author": "stu",
+      "helpful_votes": 0,
+      "publication_date": 20130517
+    },
+    {
+      "title": "Inexpensive, Reliable Dual-WAN firewall/router",
+      "text": "They work as advertised - and very few go back for RMA. Can be used in load-balancing or auto-failover mode, up to 50 VPN tunnels.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "OldBaldGuy",
+      "helpful_votes": 0,
+      "publication_date": 20140208
+    },
+    {
+      "title": "Emergency replacement",
+      "text": "Needed a replacement router fast and this model from Cisco is the best in it's price-point. However, I wish I'd kept the adapter from my old model because this one came with the European version and I have to wire-wrap the adapter and plug-adapter to the outlet just to keep it plugged in.",
+      "rating": 3.0,
+      "verified": true,
+      "author": "Robert K. Provost",
+      "helpful_votes": 0,
+      "publication_date": 20130201
+    },
+    {
+      "title": "Great Router",
+      "text": "This is the second one we have owned. The first one unfortunately hot hit with a power surge and this is why we had to replace it.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Rod",
+      "helpful_votes": 0,
+      "publication_date": 20130216
+    },
+    {
+      "title": "It works",
+      "text": "Still working and no issues with the install process. Good for small firms and bigger. Wish it was wireless for the same price.",
+      "rating": 4.0,
+      "verified": true,
+      "author": "O. K. Maharaj",
+      "helpful_votes": 0,
+      "publication_date": 20130128
+    },
+    {
+      "title": "Would recommend",
+      "text": "No issues. Have used almost a half dozen or so without a problem.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Chris Cory",
+      "helpful_votes": 0,
+      "publication_date": 20151216
+    },
+    {
+      "title": "and it was easy to setup",
+      "text": "We used this to connect to a remote tower site, and it was easy to setup. we received it in a very timely fashion.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "EUGENE B.",
+      "helpful_votes": 0,
+      "publication_date": 20170220
+    },
+    {
+      "title": "Outdated",
+      "text": "There were great firewalls of their time. The replacement is the RV180 nice system. Don't buy this unit, it's outdated.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "Robert Reviewer",
+      "helpful_votes": 2,
+      "publication_date": 20140507
+    },
+    {
+      "title": "Great product",
+      "text": "Very useful and a great deal. I recommend them for great this router. Thanks for the deal. Hope to buy more.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "JTWamazon",
+      "helpful_votes": 0,
+      "publication_date": 20130604
+    },
+    {
+      "title": "Works great with SonicWALL!",
+      "text": "I heard that others had luck getting this unit to work using site-to-site VPN with SonicWALL units, and for about 1/3 of the cost of a small SonicWALL, I thought it was worth a chance. After 3 hours of fiddling, I finally got it working and it seems to be very stable. This of course is time invested into future installations: now that I know the proper configuration, installations at future sites will fly by! We may never buy SonicWALLs for our remote sites again! Definitely check this unit out if you are looking for robust, reasonably-priced site-to-site VPN. About the only thing it doesn't support that I wish it did is XAUTH user credentials.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Andy M.",
+      "helpful_votes": 0,
+      "publication_date": 20091021
+    },
+    {
+      "title": "Reliable, fast 3des throughput",
+      "text": "Does its job, very easy to setup and configure if you know the basics of vpn and networking. I would highly recommend.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "tech-junkie2000",
+      "helpful_votes": 0,
+      "publication_date": 20130401
+    },
+    {
+      "title": "VPN Router",
+      "text": "This unit was purchased for connecting to a Sonicwall VPN system at a location where two remote users shared the same internet service. It was determined that a hardware device would be necessary as the pure internet connection would not work with two users connected simultaneously (one user at a time worked fine). The less expensive Linksys BEFVP41 did not work in that application after the Sonicwall system was installed. This Cisco unit did work when configured correctly to match the Sonicwall hardware, and permits two users to work with no dropouts. It seems to be a high quality piece of equipment and is much less expensive than the other brands considered.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "mjwallin",
+      "helpful_votes": 2,
+      "publication_date": 20110218
+    },
+    {
+      "title": "Excellent Product with outstanding support",
+      "text": "Great router for use by 20 people or less. Dual WAN function is very helpful to connect redundant ISPs. If you have more users, buy the RV082 or RV016.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Jpoldo J.",
+      "helpful_votes": 0,
+      "publication_date": 20130330
+    },
+    {
+      "title": "WORKS!",
+      "text": "I tried a couple RVS4000s to set up a VPN connection and I could not keep the darn thing connected. I decided to try out a couple RV042s instead, and BOOM! Same settings, it stayed connected though! It was like night and day. I heartily recommend the RV042 for anyone looking to set up a hardware VPN connection.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "K. Wiggins",
+      "helpful_votes": 0,
+      "publication_date": 20100921
+    },
+    {
+      "title": "spend 30 bucks more",
+      "text": "after losing one internet connection due to the ice in the area, I completely had to remove this pig from my network and put a plain router in. had used Cisco Dual Gigabit WAN VPN Router (RV042G-NA) twice previously with great success so was disappointed with this one. spend the extra 30 bucks. its worth it.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "dirkjal",
+      "helpful_votes": 0,
+      "publication_date": 20131210
+    },
+    {
+      "title": "The load balancer for the small network",
+      "text": "It's the only reasonably priced load balancer I was ever able to find, and it does that VERY well... I had several of those during the years, and the new cisco flavored UI is even clearer and faster",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Fabrice Harari",
+      "helpful_votes": 0,
+      "publication_date": 20131004
+    },
+    {
+      "title": "Great product",
+      "text": "Great product, recommended for other users. Met absolutly my expectations. - - - - - - - - - -",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Jorge Alexandro Ramirez",
+      "helpful_votes": 0,
+      "publication_date": 20130314
+    },
+    {
+      "title": "Used for site-to-site VPN",
+      "text": "It works well when using site-to-site VPN. Configuration: One site has static IP while the other site has dynamic IP.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Ronald Ramos",
+      "helpful_votes": 0,
+      "publication_date": 20140529
+    },
+    {
+      "title": "Worthless FIrewall",
+      "text": "It is widely reported throughout the forums and support areas at cisco that this router does not work with VOIP systems. It randomly closes ports--despite setting firewall rules that open ports. So, pretty useless.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "Michael S",
+      "helpful_votes": 0,
+      "publication_date": 20150306
+    },
+    {
+      "title": "Excelent Solution",
+      "text": "Solve my problem in a place with a poor connection. I've made the load balance successfully. It's a great product.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Eduardo Viana",
+      "helpful_votes": 0,
+      "publication_date": 20130714
+    },
+    {
+      "title": "Okay",
+      "text": "Hubby purchased this for home use. It does the trick. There have been no problems that I am aware of...",
+      "rating": 3.0,
+      "verified": true,
+      "author": "ralb123",
+      "helpful_votes": 0,
+      "publication_date": 20130320
+    },
+    {
+      "title": "Cisco RV042 4-port 10/100 VPN Router - Dual WAN...",
+      "text": "Cisco RV042 4-port 10/100 VPN Router - Dual WAN... Easy install and works great.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "DrGizmo2002",
+      "helpful_votes": 0,
+      "publication_date": 20150119
+    },
+    {
+      "title": "Fantastic",
+      "text": "Because of how things are laid out on this router it may not be preferred to a layman or somebody that has not setup a router before. However, for others that have done so many times and technical folk setting up this router will be a joy.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "R. Austin",
+      "helpful_votes": 0,
+      "publication_date": 20110816
+    },
+    {
+      "title": "fyi- no wifi with this unit but i knew that",
+      "text": "works great and lots of features like ip blocking. i hang a cheap linksys 3400 off of it for wifi",
+      "rating": 4.0,
+      "verified": true,
+      "author": "Eric J martens",
+      "helpful_votes": 0,
+      "publication_date": 20141208
+    },
+    {
+      "title": "Worse router EVER!!!",
+      "text": "This router is horrible. It didn't work. After many hours on the phone with very very incompetent tech \"support\" they gave me an RMA and sent me a new one about a month later. The new one doesn't work either. It is the slowest and most unstable \"router\"(if you can even call it a router) I have ever seen. It's actually slower when both wan lines are in use than if you used only one wan line. It does NOT load balance and tends to freeze up with more than one download going through it. NEVER BUY THIS PRODUCT!!!",
+      "rating": 1.0,
+      "verified": true,
+      "author": "J. Ritchie",
+      "helpful_votes": 2,
+      "publication_date": 20070103
+    },
+    {
+      "title": "Five Stars",
+      "text": "It's working came with good packing and received shipment fast.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Paresh",
+      "helpful_votes": 0,
+      "publication_date": 20140826
+    },
+    {
+      "title": "Best Internet Router under $1000.00",
+      "text": "Great Router. Tech Support is AWSOME! Built in RIP 1/2, Port Forwarding, Port Translation, NAT, Policy Based Firewall, VPN's, PPTP, And Much More... Put this unit between your system and the internet and you won't be dissapointed. Reliability is GREAT...Have several at differnet locations and work flawless for years!",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Bret Hedrington",
+      "helpful_votes": 0,
+      "publication_date": 20100203
+    },
+    {
+      "title": "Excellent item",
+      "text": "Used it to combine cable internet at 1 MBS and a DSL at 3MBS modem, Combined speed is as high as 14.29 MBS! Can't beleive how well this works.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Hercumer",
+      "helpful_votes": 0,
+      "publication_date": 20101024
+    },
+    {
+      "title": "Doesn't connect to the internt",
+      "text": "I thought I'd buy a new router to fully take advantage of the new DOCSIS 3 speeds so I bought this thing. Sadly it doesn't connect to the internet though. Back to using my Cisco 870 =)",
+      "rating": 1.0,
+      "verified": true,
+      "author": "Hellcat Greg",
+      "helpful_votes": 0,
+      "publication_date": 20110510
+    }
+  ],
+  "product_meta": {
+    "title": "Cisco RV042 4-port 10/100 VPN Router - Dual WAN",
+    "description": "Network connections are the backbone of business connections. One of the Cisco Small Business Routers, the RV042 Virtual Private Networking (VPN) Router supports up to four wired and 50 off-site connections. The latter allows users to connect into your network with secure access to your files and intranet. The RV042 comes with dual Internet ports that can serve as a failsafe system for 24/7 network uptime, or as a secondary connection to a separate Internet provider. Whether they're used for backup or speed boosting, the router's networking hardware will keep bottlenecks away from your network, period.\n\nAMAZON.COM\n\n\n\n\nFROM THE MANUFACTURER\n\n\n\nA secure network connection tying your company to the world is the backbone of your business. You need a combination of performance and security to help keep your employees connected to the assets they need to keep your business productive. The Cisco RV042 Dual WAN VPN Router is a proven solution that delivers highly secure, high performance connectivity at the heart of your small business network. Two connections to a service provider help support business continuity, while high capacity VPN capabilities enable other offices and employees working remotely to connect to your network.\n\n\n\nThe typical configuration for the RV042 Dual WAN VPN Router. View larger\n\n\nDelivering highly secure, high performance connectivity for your small business\n\nPROVIDE REMOTE ACCESS TO EMPLOYEES\nIncrease remote employee productivity through secure connections to your business network via Virtual Private Networks (VPN). The RV042 delivers high capacity and high performance IPsec VPN capabilities, including support for up to 50 QuickVPN tunnels for remote client access.\n\nSIMPLE SETUP AND ADMINISTRATION\nIntuitive, browser-based device manager and setup wizards get you up and running quickly. The easy-to-understand interface lets you monitor and adjust settings easily, from setting up remote access to content filtering and extensive activity logging.\n\n\n\nFeaturing a buil-in 4-port Etherenet switch for additional flexibility. View larger\n\nSTRONG SECURITY\nThe RV042 provides strong security with proven stateful packet inspection (SPI) firewall and hardware encryption. The built-in firewall also features protection against Denial of Service (DoS), Ping of Death, SYN Flood, Land Attack, and IP spoofing, and sends email alerts for outside hacking attempts.\n\nCreate up to 50 access rules, and employ powerful content filtering including static URL blocking and keyword blocking. Control filtering of Java, cookes, ActiveX plugins, and HTTP proxies.\n\nPERFORMANCE TO SUPPORT HIGH-BANDWIDTH APPLICATIONS\nThe Cisco RV042 Dual WAN VPN Router delivers proven, highly secure, high-performance connectivity to the Internet at the heart of the small business network to help employees stay productive. Redundant connections support load balancing for higher performance and contribute to business continuity, while a built-in Fast Ethernet switch connects devices in the office. High capacity IP Security (IPsec) VPN capabilities connect other offices and employees working remotely to files and data just as securely as if they were physically connected to the network. Other business-class security features, including available cloud-based web threat protection, help keep the network and business assets safe.\n\nDUAL WAN PORTS\nThe RV042 features dual fast Ethernet WAN ports, configurable for Smartlink backup or load balancing. A built-in 4-port fast Ethernet switch provides additional flexibility for connecting devices in your office.\n\nWHAT'S IN THE BOX\nCisco RV042 Dual-WAN VPN Router, CD with Administration Guide and QuickVPN client software, Quick Install guide, AC power cable, Ethernet cable.\n\nCOMPLETE YOUR BUSINESS NETWORK WITH THESE CISCO PRODUCTS\n\n\n\n\n\n\n\n\n\n\n\nSee more",
+    "rating": 4,
+    "feature_bullets": [
+      "LAN Ports - 4 10/100 Mbps RJ-45",
+      "WAN Ports - 2 10/100 Mbps RJ-45",
+      "Weight - 1.27 lbs."
+    ],
+    "specifications": {
+      "Product Dimensions": "7.87 x 5.12 x 38.5 inches",
+      "Item Weight": "4.3 ounces",
+      "ASIN": "B0002I7288",
+      "Item model number": "RV042",
+      "Customer Reviews": "4.0 out of 5 stars231 ratings4.0 out of 5 stars",
+      "Best Sellers Rank": "#55,321 in Electronics",
+      "Is Discontinued By Manufacturer": "No",
+      "Date First Available": "June 20, 2017",
+      "Manufacturer": "CISCO SYSTEMS - ENTERPRISE",
+      "Language:": "English"
+    },
+    "categories": [
+      "Computers & Accessories",
+      "Electronics",
+      "Routers",
+      "Networking Products"
+    ],
+    "price": 74.78
+  }
+}

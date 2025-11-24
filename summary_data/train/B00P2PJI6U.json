@@ -1,0 +1,607 @@
+{
+  "website_summaries": [
+    {
+      "verdict": "The Fibaro won't be for everyone, but its versatility and reliable design make it one of the best water sensors for homes at risk of flooding.",
+      "pros": [
+        "The Fibaro Flood Sensor combines clever design with an open interface, allowing users to creatively pair it with sirens, complementary sensors, and more"
+      ],
+      "cons": [
+        "The tilt sensor can be hit-or-miss, and the $60 price tag is definitely steep, especially if you want to monitor multiple areas at risk of water damage"
+      ],
+      "aspects": {
+        "Features": 7.0,
+        "Usability": 8.0,
+        "Design": 10.0,
+        "Performance": 9.0
+      },
+      "publication_date": 20151107,
+      "rating": 8.4,
+      "source": "cnet"
+    }
+  ],
+  "customer_reviews": [
+    {
+      "title": "Looks Pretty, Behaves Strangely, and Works--In that order.",
+      "text": "These are \"pretty,\" but the temperature reporting through the zwave is sporadic. The water sensing works, but the battery level plummets from 100% to 30% after just a few tests. I first thought the sensor was defective, but the second one I bought has similar behaviors. I don't believe the battery level reading because I think the battery would explode if it was discharged as quickly as the reading indicates. Next, I wish to the touted programming features of these sensor was more open so that I could actually try adjusting parameters. Finally, like 90% of the zwave devices out there, it is finicky to set up. Contrary to what many claim, zwave is harder to set up than zigbee.",
+      "rating": 3.0,
+      "verified": true,
+      "author": "cr",
+      "helpful_votes": 8,
+      "publication_date": 20180112
+    },
+    {
+      "title": "Works with RING Alarm!",
+      "text": "No longer waiting for RING to offer a water sensor. This one works perfectly with RING alarm. Easy setup ONLY after you discard the included instructions and download clearer instructions online. Basic steps: 1) Open RING App, and trigger Add Alarm Sensor Manually 2) Twist the dome about a 1/4 turn to open top of sensor 3) Remove battery tab to activate the battery 4) tap the black momentary switch next to the battery, 3x times 5) The RING App should now discover the sensor and add it. Done",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Max",
+      "helpful_votes": 5,
+      "publication_date": 20181224
+    },
+    {
+      "title": "It has its pluses but ....",
+      "text": "When I finally got it paired to my SmartThings Hub, the sensor worked fine. I could have given it 5 stars for that. However, a battery monitor app I used showed the battery level has dropped sharply in only a few weeks. So I connected the sensor to a power cube. Even though it provides a terminals for external power connection, it does not provide a way to route the wires out of the sensor. Then I couldn't get the unit to pair to the ST hub as a moisture (flood) sensor. It wanted to pair as a generic switch. I finally took the device off external power and used just the battery. Pairing went fine then.",
+      "rating": 3.0,
+      "verified": true,
+      "author": "wrj",
+      "helpful_votes": 6,
+      "publication_date": 20180306
+    },
+    {
+      "title": "Slighty more expensive than the competition, but small and adequate water sensor with expansion capabilities for the DIY'er",
+      "text": "Manual needs updating: To open, you twist top and bottom counter-clockwise. Water sensing will automatically make it's \"alarm\" noise (high pitched, audible within 30-40'). It's alarm isn't loud like a Sirenz/burglar/smoke alarm. Moving the device will cause it to beep once, and reset for motion sensing 10 seconds later. Using Smartthings controller it does display the temperature, not sure how it's \"extreme temperature changes\" action will sound, hope I never find out :) Definitely a DIY project to wire A/C to the device. Will update battery life later. Started at 96% 2/27/2015",
+      "rating": 4.0,
+      "verified": true,
+      "author": "David Tr",
+      "helpful_votes": 20,
+      "publication_date": 20150227
+    },
+    {
+      "title": "Had nothing but problems from start to return.",
+      "text": "First get a good magnifying glass to read the instructions. Then the unit that arrived came in an opened box. Took over 1 hour to finally get it to sync, whereas I also purchased a Samsung water detector and in Synced 1-2-3. This device Used up 23% of the battery just to get it to start working. Then it constantly comes up not available and had to be reset. Also temperature never worked. PS: The video shows a wire probe that does not come with the unit. Also if you want to hard wire it you have to carefully drill a hole in the case.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "Richard A",
+      "helpful_votes": 4,
+      "publication_date": 20180328
+    },
+    {
+      "title": "Feature packed water sensor",
+      "text": "This is probably the most feature packed z-wave water sensor on the market. I chose it mainly because it can be mains powered. I'm going to use it behind the fridge with a power adapter so I don't have to worry about pulling the fridge out and replacing batteries. You can also connect leads to it to dangle down into a sump pit, tub, etc. Here is all this sensor supports: 1) Water detection 2) temperature 3) tamper alerts 4) battery % 5) optional mains powered 6) optional remote leads It connected quickly to my SmartThings hub without needing to add any custom device handlers, which is always nice.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "prjct92eh2",
+      "helpful_votes": 2,
+      "publication_date": 20171127
+    },
+    {
+      "title": "Buy stock in CR123 Batteries.",
+      "text": "The batteries in these units are poor, they only last 1-2 months. The description on Amazon states (battery which will last 2,5 years) which is false. Buy stock in CR123 batteries or you will go broke buying batteries for these. The units work well no problems after 2 months works as described with temp and tamper.",
+      "rating": 3.0,
+      "verified": true,
+      "author": "Agentsmith308",
+      "helpful_votes": 0,
+      "publication_date": 20181125
+    },
+    {
+      "title": "Full Featured, Well Constructed",
+      "text": "Nice, full featured moisture/water sensor for use with Samsung Smartthiings. I was surprised at how well the FIBARO Flood Sensor was built. It also has some great features - the ability to wire it direct to a 12V source, external water sensor and external alarm. Set up was quick and easy - paired quickly with Smartthing hub. Also, the ability to read and trigger based on temperature was a bonus!",
+      "rating": 5.0,
+      "verified": true,
+      "author": "JGMan",
+      "helpful_votes": 0,
+      "publication_date": 20180302
+    },
+    {
+      "title": "Works great",
+      "text": "I have one in my basement and under my kitchen sink. I have been running around 9 months with the original batteries. I have never had connectivity or reliability issues with them. Both of them have alerted me about water leaks. They are great. They also provide a temperature reading. I am using them with a SmartThings hub.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Shaddy",
+      "helpful_votes": 0,
+      "publication_date": 20190109
+    },
+    {
+      "title": "Literally saved my first floor",
+      "text": "Went off in the middle of the night. I have it hooked up to Home Assistant which woke me up with lights and sound alerts in the bedroom. Went down and the garage/first floor was flooding full-speed because a sharkbite-style connector corroded away and blew off a copper pipe. Worth its weight in Plutonium!",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Nick T",
+      "helpful_votes": 0,
+      "publication_date": 20200510
+    },
+    {
+      "title": "It already saved me thousands multiple times",
+      "text": "I've had this flood sensor for about 3.5 years. I connected it to my smartthings hub and had ifttt call me and me dad each time it detected a leak. And it works great! I caught leaks early before they caused damage. The sensor is only as good as the notifications you set up for your hub.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Nicholas Joseph Matulich",
+      "helpful_votes": 0,
+      "publication_date": 20200904
+    },
+    {
+      "title": "Used Items without Batteries",
+      "text": "2 out of the three I bought was used, one of the two used ones has the letter Z ingraved on the bottom part. I had to master reset these two in order to pair, because they were used. The used pieces came without batteries, so I had to buy batteries. The third one was new and battery was included.",
+      "rating": 2.0,
+      "verified": true,
+      "author": "Layth Albayaty",
+      "helpful_votes": 0,
+      "publication_date": 20180811
+    },
+    {
+      "title": "Works With SmartThings",
+      "text": "I'm using this flood sensor with SmartThings, and setup was simple. And I tested it to confirm it works. I don't love the design of this particular water sensor though. The contact points are a bit far apart, making it harder to trigger than some other sensors. I think this would be good for a smaller area, like under a sink.",
+      "rating": 4.0,
+      "verified": true,
+      "author": "PurelyNicole",
+      "helpful_votes": 0,
+      "publication_date": 20170908
+    },
+    {
+      "title": "Works great.",
+      "text": "I purchase 3 to detect if water is going into drain pan for each of our A/C units in the attic. After installation I tested and found that it takes only a small amount of water to trigger. I use them with Vera and set up so that I receive a text alert when triggered plus it automatically turns A/C off to limit the amount of water. Prior to this whenever one of the units would get clogged I wouldn't know until the drain pan was full. At this point it's hard to deal with because it's a lot of water and hard to address without disturbing guests that are in our business.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Jerry",
+      "helpful_votes": 0,
+      "publication_date": 20181025
+    },
+    {
+      "title": "don't get it wet",
+      "text": "Only lasted a year, apparently the sensor doesn't like getting wet. I used it to monitor my sump pump and the water rose above the top and kept getting the sensor wet. The sensor went haywire and kept alarming wet, then dry every other second.",
+      "rating": 3.0,
+      "verified": true,
+      "author": "M. James",
+      "helpful_votes": 0,
+      "publication_date": 20200522
+    },
+    {
+      "title": "Saved our basement",
+      "text": "I purchased this after a drain blockage caused dirty water to flood into my basement. It was quite easy to connect to my smartthings hub and set up push notifications. A year later, the drain clogged up again and I told everyone to stop using water and ran downstairs. The alarm sound is not very loud, but the connectivity to a smart home hub is awesome. It is still using the original battery (50% charge left) after a year.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Luminous",
+      "helpful_votes": 0,
+      "publication_date": 20190619
+    },
+    {
+      "title": "I use these to monitor potential leak/flood areas in my ...",
+      "text": "I use these to monitor potential leak/flood areas in my home through a VeraLite controller using UI7. If used on a concrete floor, they may need to be placed on a thin sheet of paper to prevent false alarms.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Alexander Waverley",
+      "helpful_votes": 3,
+      "publication_date": 20150908
+    },
+    {
+      "title": "Excellent!",
+      "text": "Excellent product, lots of features like external sensors and power options. Very flexible and works perfectly with SmartThings. Also provides temperature and tamper proof feature if moved or opened. Best leak sensor seen so far.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "SemoTech",
+      "helpful_votes": 0,
+      "publication_date": 20171230
+    },
+    {
+      "title": "Does Not Pair with Abode Security System",
+      "text": "I spent 5+ hours attempting to pair this with my security system without success; which seems to be a common complaint from other users. Customer service/message boards/reddit all surveyed and all I have in the end is a worthless appliance. I have returned less than 5 items in 10 years of ordering from Amazon and this was a no-brainer.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "Mikeyboy",
+      "helpful_votes": 0,
+      "publication_date": 20181004
+    },
+    {
+      "title": "Works With Veralite",
+      "text": "Works good on my Veralite setup. A little tricky to set up but once you get it it works. Battery life took a hit as I was testing but has leveled off. This thing is small but compact and with a host of features.",
+      "rating": 4.0,
+      "verified": true,
+      "author": "Billgon",
+      "helpful_votes": 0,
+      "publication_date": 20180219
+    },
+    {
+      "title": "Decent flood sensor",
+      "text": "What I'm a little concerned about is that when it senses water, sometimes it will say tamper alarm instead of water alert.I mean it work alerts you to something but I think it should say water when there's water and motion when there's motion. Fairly easy integration with zwave",
+      "rating": 4.0,
+      "verified": true,
+      "author": "Amazon Customer",
+      "helpful_votes": 0,
+      "publication_date": 20190503
+    },
+    {
+      "title": "Good but instructions are terrible",
+      "text": "Instructions for pairing to our Samsung smart home network are nonexistent. By trial and error I finally got it to work. Tested the product after I got it set up and it does work fine, although the audible alarm is so soft you can only hear it if you\u2019re standing nearby",
+      "rating": 3.0,
+      "verified": true,
+      "author": "joeyg461",
+      "helpful_votes": 0,
+      "publication_date": 20180605
+    },
+    {
+      "title": "See manual for additional features",
+      "text": "A valuable feature not mentioned in the short description is the connections provided for external power and probe, and NC terminals for communicating with a wired controller.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Chip T. Smith",
+      "helpful_votes": 0,
+      "publication_date": 20180117
+    },
+    {
+      "title": "One of the best !",
+      "text": "It is one of the best water sensors I have tried in the past two years. The activation can be a complicated process (and instructions are confusing ) but after spending 30 min I was able to include it on my zwave module. I only give 4 out of five stars for the the bad instructions write up. Regadles, the device works perfect when tested.",
+      "rating": 4.0,
+      "verified": true,
+      "author": "Nick K",
+      "helpful_votes": 2,
+      "publication_date": 20150611
+    },
+    {
+      "title": "Poor range and difficult to set up with Nexia",
+      "text": "Purchased tis on referral from NEXIA web site with is my home monitor station. With the Nexia system it will not display temperature or the motion warning despite what the web site says. much harder to set up the the fortress sensor and very poor range. IT WILL NOT reach my central station from the basement while all other sensors work. Would not buy this to ever use with Nexia",
+      "rating": 2.0,
+      "verified": true,
+      "author": "Eddy Fraifeld",
+      "helpful_votes": 0,
+      "publication_date": 20200604
+    },
+    {
+      "title": "Constant false leak notices.",
+      "text": "I couldn't get this to NOT send me false leak notices. Eventually gave up and bought the Samsung version that appears to work fine.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "Robert T.",
+      "helpful_votes": 0,
+      "publication_date": 20181230
+    },
+    {
+      "title": "works great with my aeotec z stick gen 5 on a ...",
+      "text": "works great with my aeotec z stick gen 5 on a raspberry pi. i was able to see tilt alarm and temperature. no idea on how to set Home Assistant to alert my email if water is detected. would appreciate if someone shows me how",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Tung Mau Vu",
+      "helpful_votes": 0,
+      "publication_date": 20170626
+    },
+    {
+      "title": "The sensor works very nicely. The alarm sound is not that loud and ...",
+      "text": "The sensor works very nicely. The alarm sound is not that loud and you have to be within a few feet to actually hear it. The sensor detects water very well, I placed it on a surface that was wiped by a moist cloth and it still detected it.",
+      "rating": 4.0,
+      "verified": true,
+      "author": "Mrutog",
+      "helpful_votes": 0,
+      "publication_date": 20180321
+    },
+    {
+      "title": "Best compact z-wave flood sensor",
+      "text": "I really like these z-wave flood sensors. They are super compact and were easy to setup and sync up with my Veraplus controller.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Dave and Ali",
+      "helpful_votes": 0,
+      "publication_date": 20180624
+    },
+    {
+      "title": "Works very well and it was easy to get it included with my VeraPlus",
+      "text": "Works very well and it was easy to get it included with my VeraPlus. Inclusion generated two devices: flood sensor and temperature sensor.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Michel Therrien",
+      "helpful_votes": 0,
+      "publication_date": 20171007
+    },
+    {
+      "title": "Two Stars",
+      "text": "False detections are making this sleek and pretty device unusable.",
+      "rating": 2.0,
+      "verified": true,
+      "author": "Gary",
+      "helpful_votes": 0,
+      "publication_date": 20180427
+    },
+    {
+      "title": "Quirks great with Ring security system.",
+      "text": "Works great with Ring security system. Out of box battery was at 50%.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Thomas Rizzo",
+      "helpful_votes": 0,
+      "publication_date": 20190721
+    },
+    {
+      "title": "One Star",
+      "text": "Did not work for my application. Had to return it.(ADT Pulse)",
+      "rating": 1.0,
+      "verified": true,
+      "author": "Jr",
+      "helpful_votes": 0,
+      "publication_date": 20180525
+    },
+    {
+      "title": "Unreliable for me...",
+      "text": "Sensor would not connect reliably with my Smartthings network nor sense a water spill. Returned it.",
+      "rating": 2.0,
+      "verified": true,
+      "author": "KLM",
+      "helpful_votes": 0,
+      "publication_date": 20190430
+    },
+    {
+      "title": "Looks nice, works ok.",
+      "text": "Sad, love design and idea, but does not give updates and went off line once or twice. It does detect water quickly.",
+      "rating": 3.0,
+      "verified": true,
+      "author": "Mark N.",
+      "helpful_votes": 0,
+      "publication_date": 20170914
+    },
+    {
+      "title": "Five Stars",
+      "text": "Easy to set up with Smartthings Hub, so far so good.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Gabe G.",
+      "helpful_votes": 0,
+      "publication_date": 20170306
+    },
+    {
+      "title": "Ok.",
+      "text": "Works as supposed too. But it would be nice if they included a battery",
+      "rating": 4.0,
+      "verified": true,
+      "author": "ssin",
+      "helpful_votes": 0,
+      "publication_date": 20180623
+    },
+    {
+      "title": "Good design, needs a little more.",
+      "text": "Uses weird connections for power. needs a MicroUSB power plug or something instead. using this near water heater and would like to forget about needing to check batteries every now and then.",
+      "rating": 4.0,
+      "verified": true,
+      "author": "M.P.",
+      "helpful_votes": 0,
+      "publication_date": 20161108
+    },
+    {
+      "title": "It detects leaks fine, but the reporting of the temperature is flaky",
+      "text": "It detects leaks fine, but the reporting of the temperature is flaky. My SmartThings hub receives only 1-4 temperature updates a day even though the sensor is near the hub.",
+      "rating": 4.0,
+      "verified": true,
+      "author": "Owen",
+      "helpful_votes": 0,
+      "publication_date": 20170924
+    },
+    {
+      "title": "Three Stars",
+      "text": "Was easy to set up. Works with Smart Things hub.",
+      "rating": 3.0,
+      "verified": true,
+      "author": "Bob Bell",
+      "helpful_votes": 0,
+      "publication_date": 20180110
+    },
+    {
+      "title": "Excellent detector for water leaks.",
+      "text": "Excellent detector for water leaks. Easy to install with Vera. Looks great.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Ogi",
+      "helpful_votes": 0,
+      "publication_date": 20170211
+    },
+    {
+      "title": "VERY EASY SETUP",
+      "text": "I love technology but HATE setup ... only because I can easily get confused and/or frustrated. This product is very easy to set up!! I connected it to the Samsung Smartthings Hub.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Wesley T.",
+      "helpful_votes": 0,
+      "publication_date": 20160601
+    },
+    {
+      "title": "Disconnects all the times",
+      "text": "No success after re-set and following instructions to re-connect. returned to FIBARO for RMA.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "Alfred M. Leuthold",
+      "helpful_votes": 0,
+      "publication_date": 20190610
+    },
+    {
+      "title": "Excellent Water Sensor",
+      "text": "This works great with the Smart Things Hub. It is a Z-wave device, but does work on it's own to alarm you if water is present. It has dry contacts inside to connect up to an alarm. I connected an external power supply. This allows for the battery to be just a backup during power failures. Once connected to the Smart Things Hub, I was able to configure the hub to text my cell phone when the sensor sensed water and the Smart Things Hub continues to alert you hourly via text until you clear the alarm. Worth the $60.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "CAH",
+      "helpful_votes": 0,
+      "publication_date": 20160104
+    },
+    {
+      "title": "Best Z-wave Water Sensor",
+      "text": "It's simple: Out of 5 different water sensors, this is by far the best. Fantastic features, great range, easy to setup and use, works great with SmartThings, etc. My only concern is that, like all water leak sensors, the batteries don't last as long as in other types of home security devices that use the CR123 lithium cells. Still, at most I'll need to change them only twice a year.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Ranger",
+      "helpful_votes": 2,
+      "publication_date": 20160421
+    },
+    {
+      "title": "More like 2-4 days",
+      "text": "Upon finally opening and setting up this sensor (ordered 3 of these), I noticed that the battery life in not even close to the stated 2 or more years!!!! More like 2-4 days! What a waste of money! Also not the easiest to set up with the Nexia system. Still have an unopened one left, but stuck with this junk because I didn't open and set them up within 30 days. Stay far away from this - get the FortrezZ sensor. While not as pretty, the battery on the FortrezZ has been functioning for 2 months and is at 99% yet.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "Michele B.",
+      "helpful_votes": 0,
+      "publication_date": 20150421
+    },
+    {
+      "title": "Not so great",
+      "text": "Just forgot about it. Otherwise I would had returned it.. Main problem water sensors are on bottom of unit. So has to lay of floor like hockey puck. Been nice if also came with a wired sensor so unit doesn't have to be on floor no good for bathroom. Mother has Alzheimer's and leaves tub water on.",
+      "rating": 3.0,
+      "verified": true,
+      "author": "Peter U.",
+      "helpful_votes": 0,
+      "publication_date": 20171213
+    },
+    {
+      "title": "Not compatible with Alarm.com systems",
+      "text": "Probably great for the Fibaro system. However, do not buy for Alarm.com / 2gig control panel services. Device is discovered, but not supported for status or notifications.",
+      "rating": 3.0,
+      "verified": true,
+      "author": "JPEG",
+      "helpful_votes": 0,
+      "publication_date": 20180529
+    },
+    {
+      "title": "... in the owners manual and instructions are no longer good I highly recommend staying away from this product as ...",
+      "text": "No Technical Support is available the phone numbers listed in the owners manual and instructions are no longer good I highly recommend staying away from this product as I have bought three of them and I have no way of connecting them to a system and you cannot use a standalone devices as I thought",
+      "rating": 1.0,
+      "verified": true,
+      "author": "SCOTT CUTLIP",
+      "helpful_votes": 0,
+      "publication_date": 20180319
+    },
+    {
+      "title": "Excellent Device",
+      "text": "Works very well. Battery life seems okay but really too early to tell. Tampering sensor an interesting addition. I will be buying more.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "J. E. N.",
+      "helpful_votes": 0,
+      "publication_date": 20160418
+    },
+    {
+      "title": "Two Stars",
+      "text": "Could not get Smarthings to recognize it. Had to return and ordered another type of flood sensor.",
+      "rating": 2.0,
+      "verified": true,
+      "author": "Walter O.",
+      "helpful_votes": 0,
+      "publication_date": 20160723
+    },
+    {
+      "title": "Battery only lasted 30 days unfortunately...",
+      "text": "Does what it says but the battery only lasted 30 days. Look elsewhere.",
+      "rating": 2.0,
+      "verified": true,
+      "author": "SF Amazon Fan",
+      "helpful_votes": 0,
+      "publication_date": 20171126
+    },
+    {
+      "title": "Intergrates well",
+      "text": "Great Item. Works well with my Samsung smart things hub",
+      "rating": 5.0,
+      "verified": true,
+      "author": "not Mark Twain",
+      "helpful_votes": 0,
+      "publication_date": 20161202
+    },
+    {
+      "title": "Great sensor - not so great price...",
+      "text": "Excellent flood sensor. Much smaller than appears in photos. It actually is a flood sensor, tilt/motion sensor, and temperature sensor. Works great with my Vera 3 Z-wave controller. We'll see how long the CR123A lithium battery lasts. I dinged 1-star for the price. This thing is priced about twice what it should be.",
+      "rating": 4.0,
+      "verified": true,
+      "author": "Michael Brunetti",
+      "helpful_votes": 4,
+      "publication_date": 20141128
+    },
+    {
+      "title": "the product works and seems to be a good sensor. I probably will buy the one that ...",
+      "text": "Bought this product but didn\u2019t work with Apple house kit. So returned it, however, the product works and seems to be a good sensor. I probably will buy the one that works with Apple house kit.",
+      "rating": 3.0,
+      "verified": true,
+      "author": "Mario A Paredes",
+      "helpful_votes": 0,
+      "publication_date": 20180126
+    },
+    {
+      "title": "Does not work with Nexia",
+      "text": "Difficult to set up. Battery fails after 3 weeks. Never reported temperature. Nexia and Fabario support blame each other.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "SE",
+      "helpful_votes": 0,
+      "publication_date": 20161217
+    },
+    {
+      "title": "Will NOT WORK WITH WEMO HUB",
+      "text": "Can't get this to work with Wemo hub. I plan to return it for one that is compatible.",
+      "rating": 2.0,
+      "verified": true,
+      "author": "okinawahall",
+      "helpful_votes": 0,
+      "publication_date": 20161122
+    },
+    {
+      "title": "Not compatible with 2GIG",
+      "text": "Never worked. I had to return because it would not work with my 2GIG system",
+      "rating": 1.0,
+      "verified": true,
+      "author": "osagher",
+      "helpful_votes": 0,
+      "publication_date": 20170327
+    },
+    {
+      "title": "When it will work with my smart phone I will buy it again",
+      "text": "Unable to use this device with out buying some home system. No thanks. When it will work with my smart phone I will buy it again.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "Swanny",
+      "helpful_votes": 0,
+      "publication_date": 20180321
+    },
+    {
+      "title": "Seems to be working, but I can't seem to ...",
+      "text": "Seems to be working, but I can't seem to clear the Low battery notice even after changing the battery (twice). Whatever.",
+      "rating": 4.0,
+      "verified": true,
+      "author": "Boyd Shermis",
+      "helpful_votes": 0,
+      "publication_date": 20180703
+    }
+  ],
+  "product_meta": {
+    "title": "Fibaro FGFS-101 ZW3 Flood Sensor Z-Wave 2016 Model, doesn't work with HomeKit, 3.80\" x 3.70\" x 1.40\", White",
+    "description": "TILT SENSOR Detects tilt and movement over 15 degrees. It will also alert you of any attempt to move or tamper with the device. ALARM SIREN Built in alarm siren will help you react quickly in case of a flood, rapid temperature change, or attempt to tamper with it. TELESCOPIC PROBES Fibaro Flood Sensor is the only one in the World to perfectly work on uneven surfaces thanks to gold telescopic probes, which are flexible enough to compensate for uneven surface levels. IN / OUT Input terminal allows for connecting an external probe and installing the sensor in any location. Output terminal allows for connection to an alarm system. VISUAL INDICATOR LIGHT Aside from the alarm siren, the device can alert you of a threat using colour displays from the built in RGB diode. TAMPER PREVENTION Specially designed enclosure contains a tamper button, protecting it from being opened unintentionally. BATTERY POWERED A single battery is enough to power the Sensor for 2. 5 years. TEMPERATURE SENSOR Built in temperature sensor may be used to manage a floor heating system or serve as a fire alarm sensor, by detecting rapid temperature rise. Hard wired Power or battery You can power the Flood Sensor by 12/24 VDC or a battery which will last 2, 5 years The Sensor allows for integration with almost any available wired alarm system on the market. The Sensor allows for sending alarm notifications via wires or wirelessly. Visual Colour Display One look is enough to find out what happened, thanks to the coloured indicator light. Depending on the Flood Sensor's built-in LED illuminated colour, you will know whether the Sensor has detected water, or a decrease / increase in temperature. With its built-in Z-Wave range tester you can easily determine whether the place you chose for the Sensor allows for communicating with the main controller or maybe you will have to use an external wired probe, to ensure the Sensor's proper operation.",
+    "rating": 3.5,
+    "feature_bullets": [
+      "The Ultimate Z-wave water leak sensor/detector, with temperature and tilt sensor. Hub required, sold separately.",
+      "Add it to your Z-Wave hub and get alerted immediately on your smart phone, tablet, or email when there is a leak. Trigger certain lights, activate specific scenes or even sirens to activate if there is a threat.",
+      "Three 24K plated gold telescoping feat always make sure its making contact even on uneven surfaces and never corrodes. Built for longevity. .",
+      "Built in temperature sensor alerts through your smart hub's app and visually/ audibly at sensor if there is a sudden rise or fall in temperature.",
+      "Z-Wave Certified Sensor: Certification ID ZC08-14070006 / Frequency Region: U. S. /Canada/Mexico, Z-Wave Library Version: 4. 55. 00. Does NOT work with Apple Home Kit."
+    ],
+    "specifications": {
+      "Manufacturer": "Fibaro",
+      "Part Number": "FGFS-101 ZW3",
+      "Item Weight": "3.2 ounces",
+      "Product Dimensions": "1 x 2.5 x 2.5 inches",
+      "Item model number": "FGFS-101 ZW3",
+      "Batteries": "1 CR123A batteries required.",
+      "Is Discontinued By Manufacturer": "No",
+      "Size": "3.80\" x 3.70\" x 1.40\"",
+      "Color": "White",
+      "Power Source": "Battery",
+      "Item Package Quantity": "1",
+      "Coverage": "300 Sq. Ft",
+      "Certification": "Not_applicable",
+      "Included Components": "Battery, Manual, Sensor",
+      "Batteries Included?": "No",
+      "Batteries Required?": "No",
+      "Battery Cell Type": "Lithium Ion",
+      "Warranty Description": "1 year",
+      "ASIN": "B00P2PJI6U",
+      "Customer Reviews": "3.5 out of 5 stars110 ratings3.5 out of 5 stars",
+      "Best Sellers Rank": "#257,920 in Tools & Home Improvement",
+      "Date First Available": "October 31, 2014"
+    },
+    "categories": [
+      "Tools & Home Improvement",
+      "Household Sensors & Alarms",
+      "Safety & Security",
+      "Water Detectors & Alarms"
+    ],
+    "price": 49.99
+  }
+}

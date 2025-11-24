@@ -1,0 +1,981 @@
+{
+  "website_summaries": [
+    {
+      "verdict": "The Netgear Nighthawk X6 AC3200 Tri-Band WiFi Router makes an impressive debut, proving the tri-band concept by deftly handling multiple wireless devices on a single network.",
+      "pros": [
+        "Excellent at optimizing performance of multiple devices on a single network",
+        "Simple setup",
+        "Solid throughput and NAS performance",
+        "Runs cool"
+      ],
+      "cons": [
+        "Network Map feature needs improvement",
+        "Lacks enhanced QoS feature of previous model",
+        "Some connection timeouts at 30 feet and beyond in testing",
+        "Pricey"
+      ],
+      "aspects": {},
+      "publication_date": 20140826,
+      "rating": 8.0,
+      "source": "pcmag"
+    },
+    {
+      "verdict": "Excellent throughput and range at the 5GHz band, lots of features (including full VPN)?plus a cool name?all make the Nighthawk one of the best routers we've seen from Netgear in a while, despite a few annoyances.",
+      "pros": [
+        "Sharp design",
+        "Great throughput at 5GHz",
+        "Excellent range",
+        "Wonderful QoS",
+        "Full VPN capability"
+      ],
+      "cons": [
+        "Less-than-expected throughput at 2.4GHz band",
+        "Painful Bridge mode configuration",
+        "Slow to apply settings changes"
+      ],
+      "aspects": {},
+      "publication_date": 20131025,
+      "rating": 8.0,
+      "source": "pcmag"
+    }
+  ],
+  "customer_reviews": [
+    {
+      "title": "Bt where provided me with very very poor speeds but when I plugged the Nighthawk in that ...",
+      "text": "I purchased this router because I was getting tired of using the standard one that bt provides, Bt where provided me with very very poor speeds but when I plugged the Nighthawk in that solved all of my issues, It was quite highly priced but I do have to say it is 100% worth the money, The ammount of features that the nighthawk offers is amazing. Even the app being able to restart the router with out even leaving my chair!, I have so much more to say but don't have time as I'm at work, hope this helps.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Jamie Shatford",
+      "helpful_votes": 74,
+      "publication_date": 20170317
+    },
+    {
+      "title": "Slow start but Steady going now",
+      "text": "I bought this to replace a tplink840 , If I had reviewed this in the first few days ,it would have got 1star,dropping connections ,not being able to share media over network ,couldn't connect certain devices.was seriously thinking of sending it back ,, But reset router to factory settings then reinstalled up to-date firmware and changed settings one by one , took a few days but now seems stable ,good coverage and good control over. Very happy with router now and know there's a lot more under the hood it will run ,,extras like port forwarding ,VPN , good value .I will say the browser tool is a bit slow on opening",
+      "rating": 4.0,
+      "verified": true,
+      "author": "PeterElliott",
+      "helpful_votes": 21,
+      "publication_date": 20180102
+    },
+    {
+      "title": "Perfect!",
+      "text": "This router is amazing! Before I had an apple AirPort Extreme AC and it was good but could hardly get a signal in the garden or bedroom but now I get perfect signal everywhere even in the garden I get 66mbps on speed test that the max my line can handle! It is a bit big and not as good looking at apple router for example, I set this up with the wizard in just a few minutes connected it to my sky Q hub (rubbish) with Ethernet with no issues at all now I\u2019ve turned off WiFi on my sky Q hub and this hub is handling all the WiFi devices perfectly highly recommend",
+      "rating": 5.0,
+      "verified": true,
+      "author": "joanne jackson",
+      "helpful_votes": 12,
+      "publication_date": 20180520
+    },
+    {
+      "title": "Bricked after 2.5months",
+      "text": "For no apparent reason woke this morning to no internet. Rebooted the router no success unable to even get to web interface. Attached old R7000 all was OK and able to connect to internet. Re-attached the R7800 again nothing, even though all lights was solid white. Even tried to TFTP to reinstall firmware would not connect. Absolute garbage after 2.5 months I'm left with a brick. Couldn't even register the product on Netgear site. Avoid at all cost.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "Steve Anderson",
+      "helpful_votes": 7,
+      "publication_date": 20180916
+    },
+    {
+      "title": "NOT Open VPN as described.",
+      "text": "I spent several fruitless hours attempting to set this up, troubleshoot it and contact Netgear support, in the final analyses Netgear stated: \"With regards to adding another VPN client is not supported by the router. It only supports PureVPN\". So in other words, they hard wire THEIR provider so you must subscribe to PureVPN. Where does it say this on the product description. I made a complaint to Amazon, but as you can see they are still selling it. I have contacted my Lawyers.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "Gordon McIntosh",
+      "helpful_votes": 6,
+      "publication_date": 20190611
+    },
+    {
+      "title": "OK I suppose, but VERY expensive",
+      "text": "It's OK but for the price, I would have gone for something else. Had to switch to Kong firmware as signal kept dropping, and a lot of functions don't seem to work. I think it depends on what you want it for - but for example, couldn't get the Plex side working at all for me - and the USB drives were beyond me (can only use one and the list of compatible ones is very short!)",
+      "rating": 3.0,
+      "verified": true,
+      "author": "Pete",
+      "helpful_votes": 4,
+      "publication_date": 20180909
+    },
+    {
+      "title": "If you want more than just a router, R9000 is perfect!",
+      "text": "Although the R9000 is still work in progress (the user interface is from the 90s and lacks some fine tuning), it's highly capable and more than just a wireless router. It is now my local and cloud backup server and I have decommissioned my NAS and home server, saving power and complexity. My local backup speeds have almost tripled to 600Mbps when compared with my old NAS. It is also a very good media server as well as a home file server. The wifi is noticibly better even with older devices but I would not buy this router just for its wifi capability. The Plex capability works but too slow. Overall a very good device and well worth the price.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Nick",
+      "helpful_votes": 4,
+      "publication_date": 20170607
+    },
+    {
+      "title": "Not worth it.",
+      "text": "It looks nice don't get me wrong. My mates have something similar and their wifi is blindingly fast. Not when I put it up. Tech support tried bless him, but in the end even he couldn't sort out a defective product. I should've taken heed from the negative reviews. Packed it and sent it back for a refund then bought a little gem of a wifi extender at a mere fraction of the price - it boosted my wifi like a joke. I actually laughed when suddenly I have Perfect wifi all round my house + plus garden for less than 50 quid, as opposed to an overpriced paperweight with blinkers. Sort it out Netgear.",
+      "rating": 2.0,
+      "verified": true,
+      "author": "Marlon Mudz",
+      "helpful_votes": 0,
+      "publication_date": 20200513
+    },
+    {
+      "title": "Range is amazing",
+      "text": "Range Is Fantastic. Switching from the Virgin Superhub 3. The only issue I found is when i put the router into Smart Connect mode (puts all wifi bands into one instead of separate) my Amazon Alexa couldn't find the wifi. Once I disabled it found it. The router has a little switch on the back to turn off the lights on the router apart from one power light (Handy if the routers in a bedroom) and the nighthawk app used to set up the router is fantastic.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Jack",
+      "helpful_votes": 2,
+      "publication_date": 20190306
+    },
+    {
+      "title": "Wonderful wireless signal all round the house",
+      "text": "Wonderful wireless signal all round the house. It was so easy to set up, I just put my Virgin router into modem mode then turned it off. Then I plugged all the cables into the R9000, turned on the Virgin box, waited for it to settle down and than fired up the R9000. The setup wizard is easy to follow and the app I downloaded onto my I-pad makes it very easy to manage. Really good buy from Amazon",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Denis G. Jones",
+      "helpful_votes": 5,
+      "publication_date": 20180129
+    },
+    {
+      "title": "Great Tech",
+      "text": "This router has improved my wireless signal and the speeds by just allowing it to manage the wireless part of my network. It was very easy to setup. Best to use the mobile app. The router interface is similar to previous netgears and you have loads of functions to use. I have not touch the surface of what this router can do. Please be aware this is large and you do need some space to sit it on the desk, also the antenna's also require space and you do need to adjust these on an individual basis. Ideally I think the router would be better to be wall mounted.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "John",
+      "helpful_votes": 0,
+      "publication_date": 20200529
+    },
+    {
+      "title": "Perfect replacement for my Super hub 3",
+      "text": "Like so many people on virgin media I was paying for super fast broadband but had a terribly unstable connection. After doing some research I realised that once you have more than a few devices the super hub 3 is basically useless. So I turned my super hub 3 into a modem this is really easy to do, just connect to it, the instructions are on the base of the hub and plug this router into the super hub 3.. and my problems were solved overnight..I get the connection I pay for and its super reliable.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Bhav",
+      "helpful_votes": 0,
+      "publication_date": 20200417
+    },
+    {
+      "title": "Great router. Bought to replace my stock Hyperoptic router ...",
+      "text": "Great router. Bought to replace my stock Hyperoptic router which was a pile of rubbish (couldn't even do port forwarding). Overall very impressed at the features and the speeds that I'm getting through both wired and wireless. The benefit of having two 5Ghz bands and the option of smart joining them is very nice. The only thing that surprised me was the size of this router - it's massive and takes up quite a lot of space. The design is amazing though - like something out of space.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Hinks",
+      "helpful_votes": 3,
+      "publication_date": 20180105
+    },
+    {
+      "title": "Not recommended -  better than my VirginMedia smarthub2 but ruined by rubbish firmware updates",
+      "text": "I can't recommend this. After a year of flawless operation, Netgear has released one bad firmware update after another. The router reboots several times a day causing drop-outs in connectivity for wireless devices. Unfortunately, the router isn't physically faulty - Netgear is to blame and many have had this problem on their forums. I'd recommend buying a different brand - one where firmware updates are tested before release. I can only give this product one star because the constant dropping of the connection drives me mad - and not what you expect from a premium router...",
+      "rating": 1.0,
+      "verified": true,
+      "author": "Mr Robert Butler",
+      "helpful_votes": 4,
+      "publication_date": 20170701
+    },
+    {
+      "title": "Not compatible with VPN services",
+      "text": "You can't flash 2019 versions of this router with your preferred vpn/parental control tools, such as Tomato. So you cannot protect your household with this router. It's the same with all new (2019) Netgear routers. The built in parental control system (called Circle) is not worth the \u00a35/month subscription. And you can't install a VPN on it at all. It uses dated technology so is really overpriced. Other than that, it's pretty okay.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "Amazon Customer",
+      "helpful_votes": 0,
+      "publication_date": 20190826
+    },
+    {
+      "title": "Incredible Router",
+      "text": "Bought this after my netgear X4 failed after 3-4 years of use... didn\u2019t think this would be any improvement as that one was very good... but wow! Internet connection is getting full speed actually slightly faster than what i was experiencing with my last router. But Internal connections are wicked fast, but also seeing them handle around 15 concurrent devices (I have a lot of Wi-Fi enabled devices within the home). Highly recommended for anyone that maybe running something like a Plex server internally or simply has many fireTVs or something, the response and loading times of connections are amazing. Well worth the money for this router.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Josh",
+      "helpful_votes": 0,
+      "publication_date": 20200711
+    },
+    {
+      "title": "Powerful, yet easy to use, router",
+      "text": "Virgin installed their kit at one end of my house, which is an old building with solid brick internal walls. Virgin's signal wouldn't reach the rooms at the other end of the house. So I bought this router and a couple of good powerline adapters. I put this router in a more central position and connected it to the Virgin router through the powerline, and now have Internet access throughout the house. The router is easy to configure, made easier because it can be done from your phone with the 'genie' app. I pushed my budget a little to buy this over a lesser router, but absolutely have no regrets in buying it.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "wibs",
+      "helpful_votes": 0,
+      "publication_date": 20190712
+    },
+    {
+      "title": "So simple to use",
+      "text": "This router was so simple to set up and the guides are so easy to follow. My WiFi & internet speeds have dramatically increased. Prior to this I a download speed of 37mbps now I am never below 60mbps. I can also command it using my Amazon Echo. Anytime I have people who visit me I just ask Alexa to enable guest mode. WiFi is amazing with no drop outs or black spots. I also find Netgear Genie so handy and simple to use. I would recommend anyone to buy this router.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Mr. R. Smith",
+      "helpful_votes": 3,
+      "publication_date": 20180306
+    },
+    {
+      "title": "Absolutly great!",
+      "text": "I've had BT and now have SKY. Both with their original routers and the results... pathetic. The wifi coverage in home was really bad. Even in the same room you could get 60% signal strength. I purchased this Netgear out of dispair and the results are amazing. Coverage is perfect and signal strength is in the high 80s-90s in all the house and bandwidth rates are well over 100 Mbps on the 5Ghz network. Circle also which is embedded is amazing if you have children and want an active internet filter that actually works and MDM that truly is simple",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Maurizio G.",
+      "helpful_votes": 0,
+      "publication_date": 20190223
+    },
+    {
+      "title": "Lives back in order",
+      "text": "Easy to set up, slick mobile app. Then I let it update its firmware... which bricked the device. Netgear support were online immediately to guide me which required reuploading the firmware via tftp. That fixed it. Now I have decent wifi. The speed is very good and reliable on the twin 5G wifi networks; it is not as good on the slower 2G wifi network. The key fact is that this has solved my family's daily, repeating, frustrating, career damaging disconnection that I'm used to with my Virgin Media Superhub for the past years. Now that is is modem mode and the Nighthawk does the Wifi, our lives are back in order.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Nick Parkes",
+      "helpful_votes": 0,
+      "publication_date": 20201003
+    },
+    {
+      "title": "Expensive ornament",
+      "text": "Terrible product in my experience, owned 3 within 6 months all with different faults ranging from no 5ghz wifi output to overheating every other day. It is also rated at 7200mbps transfer speeds but bare in mind over 4000mbps of that is through the 60ghz signal which is currently pretty much redundant as im yet to find anything thats compatible. Also forget about after care as netgear support did not once reply to any of the 3 cases I raised on line for help. Some great features and future proofed, pity it doesnt work.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "Vinny",
+      "helpful_votes": 3,
+      "publication_date": 20190217
+    },
+    {
+      "title": "Great WiFi range and super fast internet speeds.",
+      "text": "Was experiencing lots of problems with the Super hub 3 from Virgin Media. The WiFi continually dropped out and slow speeds even though the router said 100mb was the speed. Bought this router after reading the reviews and it is great. The WiFi has not dropped out at all. All devices had super quick internet speed. It has three WiFi SSIDs, so plenty of devices can connect. My old Note 2 connected too, which was an issue previously. Easy to install and get working.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "A.N.",
+      "helpful_votes": 2,
+      "publication_date": 20190411
+    },
+    {
+      "title": "Awful Router",
+      "text": "Ok so first the pros. *Superb wifi signal *Lots of cool features *Superior LAN throughput The cons. *Often drops internet connection *Random devices lose internet access while others have intermittent access!? * Expensive! * Netgear support is shockingly bad. Its no surprise you only get 90 days complementary support. They dont know nothing all they tell you to do is reset config / reboot the router lol \ud83d\ude06 My advise is to consider another router manufacturer as its clear Netgear isn't good. Check the other reviews if you think im bias.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "hal",
+      "helpful_votes": 0,
+      "publication_date": 20201017
+    },
+    {
+      "title": "Rubbish",
+      "text": "I REFUSE TO SPEND HOURS TRYING TO GET THIS CR-APP TO WORK.. MY WIFI IS CONNECTED BUT WHEN I WANT TO LOG INTO THE NETGEAR APP TO SET UP SOME SETTINGS IT SAYS \" TROUBLE CONNECTING TO THE INTERNET\" AND WILL NOT ALLOW ME INTO THE APP. THE INTERNET IS WORKING BUT SETTING UP IS A NO NO. THEREFORE I AM NOT WILLING TO SIT HERE TRYING OVER AND OVER AGAIN. THE NETGEAR NIGHTHAWK WILL NOT RECOGNISE ANY OF MY \"WIRED\" IP CAMERA'S I HAVE... MY PC AND MY 2 IP CAMERAS RUNNING WITH ETHERNET BUT WHEN I OCCAISIONALLY GET INTO THE APP IT ONLY SHOWS ME MY PC AS A WIRED CONNECTION AND I CANNOT VIEW MY CAMERAS...",
+      "rating": 1.0,
+      "verified": true,
+      "author": "Dean L",
+      "helpful_votes": 0,
+      "publication_date": 20200904
+    },
+    {
+      "title": "Best router I have owned",
+      "text": "I've had this router 2 months now & what can I say. Wireless network speed dramatically improved, broadband stability dramatically improved. Running 2 Xbox ones without constant disconnections & now constantly open NAT's on both consoles. It may be a more costly unit but the lack of network issues using this is worth the outlay. Overall great reliability & product, even the stealth bomber look is growing on me & the ability to switch off the led lights is an added bonus",
+      "rating": 5.0,
+      "verified": true,
+      "author": "stylistic",
+      "helpful_votes": 3,
+      "publication_date": 20170703
+    },
+    {
+      "title": "Works with BT but you may need a little help.",
+      "text": "Purchased to replace my BT hub. NOTE: If you are buying this to replace your own BT hub then following the setup instructions provided won\u2019t necessarily work. After having initial problems I phoned BT to get the code and it then set up really quickly. > The strength is a lot better than the BT hub I had and has a much better range. > There is a downloadable app to help you control the access each device in your home/office can have. Verdict. Not the newest of technology, however, at this price it is a great value product, which works well.",
+      "rating": 4.0,
+      "verified": true,
+      "author": "Jeff T.",
+      "helpful_votes": 0,
+      "publication_date": 20200913
+    },
+    {
+      "title": "Great up to now",
+      "text": "Only been running for a few weeks, but seems really good up to now. Followed recommendations from others, to work with my new Virgin Media 3 hub. It gives v good speeds and signal, even where was 'black spots' before. The app for iphone/ipad is great too, with its own speed test, which is handy and ability to see at ease what is on your network at any time. You can also reserve IP addresses, so the DHCP will only ever give that address to that device (saved having to make static addresses). All in al, lots of pluses and no negatives, as yet. Good old Netgear!",
+      "rating": 5.0,
+      "verified": true,
+      "author": "gtx",
+      "helpful_votes": 0,
+      "publication_date": 20190614
+    },
+    {
+      "title": "Best router I've used",
+      "text": "This router has SAVED the \"signal drop out blues\" WOO HOO! We are Virgin customers, so you know we are supplied with the worst router to ever leave a factory, right? (According to every other Virgin customer's review on here!) So, this little beauty has saved the day, signal strength is great all round the house but drops a good bit at the end of the garden, but that's to be expected. For years we've struggled with WiFi dropping out, loosing streaming services whilst streaming etc etc, this router has completely blown that into the past!",
+      "rating": 4.0,
+      "verified": true,
+      "author": "Billy McAuley",
+      "helpful_votes": 0,
+      "publication_date": 20200904
+    },
+    {
+      "title": "Avoid if you use Airplay or have Sky Q",
+      "text": "I purchased this to improve connectivity/wifi issues with my Sky Q boxes and Airplay - well seems that this device does not like either! Despite changing various settings and re-boots my airplay devices were shown but failed to connect, and despite a few setup issues with Sky Q with the main box, was unable to connect the mini boxes to the same network, so this was pretty useless as a wifi router/extender as both the jobs I wanted to improve on were not possible. I did see a few other comments on these particular issues, some resolved, but most of them not resolved.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "G. Jones",
+      "helpful_votes": 0,
+      "publication_date": 20191003
+    },
+    {
+      "title": "Firmware lets it down",
+      "text": "Using with Virgin fibre 350mb broadband. Decent router, crippled by poor firmware. Attached a seagate USB 3 external HDD but the router regularly forgets it's connected to it and the only way for it to recognise it again is it disconnect and reconnect it. WIFI regularly falls over and either won't let known or new devices connect or simply allows devices to connect with no internet connectivity. For the price, I expected much more from Netgear. I'll definitely choose a different manufacturer next time.",
+      "rating": 3.0,
+      "verified": true,
+      "author": "MJ74",
+      "helpful_votes": 0,
+      "publication_date": 20200915
+    },
+    {
+      "title": "Definitely worth the price so far",
+      "text": "Someone in my road uses a nighthawk router and after a week of consistent terrible internet from PlusNet that is constantly going off every couple of minutes I decided to splash out and try it The router is expensive but so far I think it\u2019s 100% worth the money as the internet speed is so fast and loads pages within a second It was also really easy to install through the mobile app and I had it up and running within minutes. If you\u2019re having problems with your ISP/broadband then I definitely recommend investing in this. It\u2019s such a relief to finally have good internet after struggling with it for so long",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Ellie",
+      "helpful_votes": 0,
+      "publication_date": 20200731
+    },
+    {
+      "title": "Surpasses VM Hub.",
+      "text": "Bought to replace Virgin Media's Hub. Far superior. We have over a dozen devices connected at any one time. Tablets, Chromecasts, phones, laptops, Echo Dots with no devics dropping off. In a 3 up 2 down mid-terrace the signal strength is great throughout. Those devices slightly further away are connected to the normal WiFi, those closer to the router are connected to the two 5G bandwidths. I can pick up the signal 20 meters down the garden (add another 6 to go through the conservatory). Very handy app for keeping track of devices and diagnostics. I would not go back to using the Hub as my WiFi router ever again.",
+      "rating": 4.0,
+      "verified": true,
+      "author": "Amazon_Shopper_101",
+      "helpful_votes": 0,
+      "publication_date": 20200627
+    },
+    {
+      "title": "Very impressive and easy to use router.",
+      "text": "Really great router, didn\u2019t quite reach the distance advertised but good WiFi coverage over our whole 2 bedroom flat nicely. Router placement really makes a difference, so if your not getting good coverage move your router. Even a few inches can help, but don\u2019t expect good coverage of your router is behind your TV. If a router isn\u2019t visible then you\u2019re not going to get a good signal, it\u2019s that simple. The app is easy to use, router took 5 mins to set up using my virgin hub as the modem. Speeds are the exceeding the suggested maximum speeds from virgin so am a very happy customer.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "mr.Robot",
+      "helpful_votes": 0,
+      "publication_date": 20191226
+    },
+    {
+      "title": "Very easy install with the phone App",
+      "text": "This is a great example of technology that just works straight out of the box. I downloaded the Nighthawk app on my iphone and it took me through step by step of what I had to do, and it worked first time, no issues at all. I went from the Virgin Media Hub 3 to using this router and the difference is very good. I can now use the internet in my Kitchen. Only thing I changed in the router settings was turning on Smart connections.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Mr. L. Jackson",
+      "helpful_votes": 0,
+      "publication_date": 20190227
+    },
+    {
+      "title": "Terrible Router-Dont Bother",
+      "text": "Bought this router to replace Virgin Superhub on a vivid 300 connection. Firstly I found it quite difficult to set up (I'm normally pretty decent with this sort of thing). Then the problems, the endless problems. The 5Ghz band constantly disappeared, disconnecting all my devices. A reboot sorted it out but this kept happening over and over again. I simply grew weary of this utter nonsense and returned the router. Replaced with a slightly more expensive Asus RT-AC88u which thankfully has been flawless thus far.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "Daniel Greenwood",
+      "helpful_votes": 0,
+      "publication_date": 20190213
+    },
+    {
+      "title": "May or may not work I don't know",
+      "text": "I bought this to go with the DM200 Modem but couldn't get that to connect properly anyway. So I tried disabling my current wifi [that has been the problem] and plugged it into my existing router which kindly gave it an IP address. That was the end of the success really. The setup is via an app despite it having 4 rj45 sockets there's no wired setup instructions just wonderful wifi. The app was lousy anyway and couldn't connect despite my phone being 3 inches away. On the whole a wasted afternoon and evening, both returned.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "Jake",
+      "helpful_votes": 0,
+      "publication_date": 20190728
+    },
+    {
+      "title": "Nice little router",
+      "text": "Just another router. Good config, NAT, VLANs, built in VPN and many more. Plenty of configurations and settings to play with. WiFi signal though? As good as my \u20ac20 worth TP-Link. Yeah, I get it, it's fast when you're close to it - nature of the protocols it supports - no surprise here, but 1 or 2 walls and it drops down dramatically. Just like my cheap TP-Link. Overall it's a good router, but if you considering buying it just because you have issues with your WiFi signal, coverage in particular, I seriously wouldn't bother for the money.",
+      "rating": 4.0,
+      "verified": true,
+      "author": "Public Name",
+      "helpful_votes": 0,
+      "publication_date": 20200507
+    },
+    {
+      "title": "Very good replacement",
+      "text": "I bought this to replace a router that I had had for a while and which suddenly and completely failed. Having done some research, I'm not surprised that it's an excellent router: very easy to set up and provides a very strong wifi signal. I live in an old house with stone walls but get a good signal in most rooms (a powerline adapter coves the others). User interface is clear and straightforward and I have got used to the `dead spider' look of it too. I have not needed tech support but there does seem to be a good online user community presence.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Peter Ross",
+      "helpful_votes": 0,
+      "publication_date": 20191022
+    },
+    {
+      "title": "Non-existent Customer support from Netgear",
+      "text": "Signal quality was great and the router seemed to work well enough, but the user interface, when compared to Linksys or ASUS, is not great. I tried to contact Netgear support, to try and find out the best way to set up time schedule for specific devices, but after 3 attempts to call, each time, being left hanging on the phone, unanswered, for more than 20 mins, I gave up and returned the product. Have now opted for the ASUS RT-AC3200, which seems to be a far superior product, in my humble opinion.",
+      "rating": 3.0,
+      "verified": true,
+      "author": "Mr C.",
+      "helpful_votes": 2,
+      "publication_date": 20170815
+    },
+    {
+      "title": "Virgin - no signal. Net gear - Still no signal!",
+      "text": "What...a...waste...of...money. I\u2019m with Virgin and, big surprise, the internet cuts on and off all day long. Virgin Support are about as useful as a Santa in July. So thought after years of trying to sort it out with Virgin and getting absolutely nowhere, that I\u2019d spend a stupid amount of money trying to fix it myself. Why did I bother! Not sure if this hasn\u2019t done anything or has made it worse, but it\u2019s one of the two. So annoying and proper waste of money.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "Sarah Whitehead",
+      "helpful_votes": 0,
+      "publication_date": 20201009
+    },
+    {
+      "title": "Router",
+      "text": "Reasonably easy to set up once you understand how it works. Excellent live chat service to help with setup through the App. Thought may have better coverage throughout the home but so I understand, it depends on the layout of your home and position of the router. I think it would be excellent if your home is more open plan. Overall I am pleased.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "clare howlett",
+      "helpful_votes": 0,
+      "publication_date": 20200721
+    },
+    {
+      "title": "It works",
+      "text": "Easy set up, replacing my Apple based wireless system. So far it appears to give greater coverage than my combined two Apple wireless routers. No drop outs experienced on devices or TV. It seems to do what I needed. It\u2019s a much bigger unit than Apple obviously necessary to do the work needed. Conflicting setup software, stick to Netgear Nighthawk set up app. Easy peasy.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Mike S",
+      "helpful_votes": 0,
+      "publication_date": 20181219
+    },
+    {
+      "title": "Fragile plastic space-toy",
+      "text": "Ordered as a replacement for a similarly priced, similarly specified router. On testing I found the signal weaker and less stable than the alternate. The build quality was also surprisingly poor for Netgear. Very lightweight product that felt like it wouldn't survive being dropped on the floor (which happens frequently when you have cables connected to a very lightweight device). The aesthetic of the design is also a bit worrying. It looks like some kind of (bad/boring) space-toy for a child. I would be embarrassed to show up with this in any sort of business environment.",
+      "rating": 2.0,
+      "verified": true,
+      "author": "JB",
+      "helpful_votes": 0,
+      "publication_date": 20171122
+    },
+    {
+      "title": "Wanted this to be so much better than it is",
+      "text": "I class myself as very tech-savvy, having worked in IT for the past 28 years. I love netgear as a brand, but the wifi router is so unstable, requiring monthly power cycling and provides very little wifi signal gain vs the NowTV router which had it's wifi disabled to replace with this. The positives are that I can manage some of the family requirements to block sites and limit access to social media by time, but it's not flexible enough to be useful. For gaming I haven't noticed any real differences to ping or speed",
+      "rating": 2.0,
+      "verified": true,
+      "author": "Mr. S. Mcdonald",
+      "helpful_votes": 0,
+      "publication_date": 20190828
+    },
+    {
+      "title": "Great router, slightly worried I may have called in an air strike......",
+      "text": "Easy to set up, fast, great range and looks like something the US millitary have been hiding at Area 51. Whilst it's amusing to have something called Nighthawk in your house, it's a bit OTT. It's a router for gods sake not a stealth bomber. Kinda reminds me of 50cc scooters called \"Speedfight\". Really? Another thing, the led lights, it illuminates the whole town, I mean dear god, it's almost visible from space! I wish there was an option to switch them off. Have used stealth tape (that's black insulation tape) to dim them. Having said that it's a truly great router, with loads of extras.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Gareth F.",
+      "helpful_votes": 3,
+      "publication_date": 20170417
+    },
+    {
+      "title": "This router was easy to setup and works extremely well",
+      "text": "This replaced the Netgear WNDR3700. I had to replace my previous router as it wasn't working the my new Sky Q setup which requires the Sky Q Mini boxes to use WiFi to stream from the main Sky Q Silver box. This router was easy to setup and works extremely well. Its been hidden away for 6months now and I haven't had to touch it once since setup. Wireless speeds are impressive and gaming on my PS4/PC is lag free and no NAT issues either.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Michael",
+      "helpful_votes": 2,
+      "publication_date": 20170324
+    },
+    {
+      "title": "Works like a dream with Virgin Super Hub",
+      "text": "Amazing. My signal now is full bars around the house. I have this hidden on top of the fridge. The handy button on the back is good as it allows the LED lights on the front to be switched off. The app is good too. Allows me to give house guests easy use of the WiFi. Little tip. Change the name and password to that of your old router and it will save you having to go round the house changing passwords and joining new networks.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "BobbyLove",
+      "helpful_votes": 0,
+      "publication_date": 20200714
+    },
+    {
+      "title": "Amazing",
+      "text": "So I bought the Netgear Nighthawk because I've been trying to run about 12 different devices off of the standard wi-fi modem/router supplied by my internet service provider (ISP). While trying to run 12 different devices, my household wasn't able to benefit from the bandwidth we pay for. What the Netgear Nighthawk has done for me is to unlock the full potential of my network bandwidth making my internet faster and being able to support my many wi-fi devices. AMAZING, 11/10 would recommend.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Alex",
+      "helpful_votes": 0,
+      "publication_date": 20200912
+    },
+    {
+      "title": "Easy to set up",
+      "text": "Lots of features, but I found it easy and obvious to navigate and set up the technical configuration which I need via the web interface. I especially like the free personalised \"mynetgear.com\" url that is provided, whch provides a dynamic DNS capability for free (again very easy to set it up). I have yet to try out other features (like the print server, PC backup, etc). Wifi signal is great, and this router does a lot for the money. I have always bought Netgear equipment for my home network, and this purchase re-inforces that great choice !",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Adrian",
+      "helpful_votes": 0,
+      "publication_date": 20181130
+    },
+    {
+      "title": "Kept dropping internet connection",
+      "text": "Had high hopes of this router given reviews and router level security provided by Bitdefender. After several weeks of having to re-boot the router on at least a once-daily basis because the connection was dropped I swapped to the router provided by my ISP and haven't had a dropped connection since then. The home wifi mesh also seems more stable now I have replaced the Netgear. It's possible that a setting somewhere could have resolved the problem but I spent several hours trying to problem solve the Netgear to no avail.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "dmreview",
+      "helpful_votes": 0,
+      "publication_date": 20200103
+    },
+    {
+      "title": "Beware regular and frequent drops",
+      "text": "We are a family of 5. Having used a telecom provider modem/router and Apple timemachine for WiFi for years we thought we\u2019d upgrade. Buying this was a big mistake. Constantly dropping out, unreliable speeds, slow or absent. Kids moaning and all of us frustrated. Do not buy. We\u2019ve had ours installed for just about 2 weeks and will be requesting a refund and reverting to our old single band WiFi. What a complete waste of time and money don\u2019t know how it\u2019s got any good reviews.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "Hunka Munka",
+      "helpful_votes": 4,
+      "publication_date": 20180324
+    },
+    {
+      "title": "Improvement on my virgin hub 3 but not as much as I expected",
+      "text": "Bought this as signal of virgin hub wasn\u2019t getting to the corners of the house or the summerhouse at the end of the garden. Signal greatly improved now but it still struggles a bit to get to the end of our garden. Wish there was more adjustability to the aerials and some kind of picture to show where the signal waves come out. Maybe then I could point an aerial the correct way towards the weaker spots. You have to just have them all pointing the same way! But I am still pleased with purchase and the family have stopped moaning at me that the WiFi is ****!",
+      "rating": 4.0,
+      "verified": true,
+      "author": "DJ DEMON",
+      "helpful_votes": 0,
+      "publication_date": 20190411
+    },
+    {
+      "title": "Looks Mean but is a bit soft on wifi signal",
+      "text": "i had a ac1900 netgear r6800 upgraded to this one as it had better processor and better ram. Its Big Unit so your thinking powerful wifi well i was wrong. It had same issue as my other router could only get a weak signal in loft and other side of house so when it said great coverage it flopped. Wifi speeds where terrible and i could not change the channel of the 2.8ghz mode. 5g was decent but wifi speeds where not great. i dont used any wired devices but i was disappointed with the coverage this router could give i life in a three storey. it jus about got to the 2nd floor.",
+      "rating": 2.0,
+      "verified": true,
+      "author": "FASIL M.",
+      "helpful_votes": 0,
+      "publication_date": 20191126
+    },
+    {
+      "title": "Big improvement on Virgin hub wifi. (uses Virgin hub in modem mode.)",
+      "text": "Bought this unit to replace the wifi function of Virgin SuperHub2C (at 200Mbs) and to be able to allocate fixed IP addresses on network with some 30 connections,SH2C won't do fixed addresses. The R7000 works fine but the SH2C kept on hanging. Got Virgin to replace SH2C with SH3. Not a single dropout since (1 month). Comes with a 30 day Bitdefender trial. Very pleased with the R7000. Also, can remote control from app. Plus, can turn off all the flickering lights!!",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Eddie 2000",
+      "helpful_votes": 0,
+      "publication_date": 20191217
+    },
+    {
+      "title": "Great product, wish I bought a router years ago",
+      "text": "I have a Virgin V6 box and for WIFI for more than a few devices its not great. Speed drops off. I have had this about 3 weeks now and its great. All devices have gone from 30MPS to 280MPS (I am supposed to have 350MBS but I do have ethernet stuff also plugged in) I love that I can have different \"sub networks\" so I can give my son who does a lot of online gaming his own network so he doesnt interfere with my use and I for my work with his. And there are guest channels as well. I get 75MBS about 70 feet away which is through 2 thick walls as well. Good product",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Scott",
+      "helpful_votes": 0,
+      "publication_date": 20200813
+    },
+    {
+      "title": "Great if you can get it on offer! Would question full price.",
+      "text": "Great router which pushes out 3 bands of WiFi all over our 3 story townhouse without an issue (4 if you include the guest WiFi network!) Setup seemed simple but have had a few freeze ups which required a restart and one issue where it wiped its setup and went to default settings! Other than that it is far more efficient than the previous virgin super hub 3. Point of note. With the virgin hub in modem mode and this managing the wireless, my download tests now come in 10% above the package speed I am subscribed to. An extra 20mbps! Can\u2019t argue with that!",
+      "rating": 4.0,
+      "verified": true,
+      "author": "BoyDunGood",
+      "helpful_votes": 0,
+      "publication_date": 20190831
+    },
+    {
+      "title": "routed",
+      "text": "A great router and highly recommended. I've always found the Netgear GUI intuitive and understandable. Easy to setup (I have an internal network and servers). Nice to get off the VM Superhub (2ac as the 3 was not compatible) and have more choice and the options I need. I warn you though, it's big for a home router. I don't know if the antenna are a gimmick, but they unfortunately feel cheap and plastic.",
+      "rating": 4.0,
+      "verified": true,
+      "author": "cdstealer",
+      "helpful_votes": 2,
+      "publication_date": 20180325
+    },
+    {
+      "title": "Fast transfer, but less range then the R7000.",
+      "text": "A bit disappointed, it's fast, and the interface loads a lot quicker then the old R7000, but range seems less? :-( Don't know if Mu-mimo (think that's how it's spelt) actually makes a difference, Beamforming might be better, but again shorter range than the old R7000 I had. Apart from that, speed is very good, just don't expect it'll boost your range, unless you have a cheap router.",
+      "rating": 4.0,
+      "verified": true,
+      "author": "Paul",
+      "helpful_votes": 2,
+      "publication_date": 20180215
+    },
+    {
+      "title": "Seemed good, but...",
+      "text": "I set this up and all seemed well, with it connecting to my Android phone and a strong signal, but I was unable to connect to my MacBook (wrong country code apparently) nor to my iPads (kept saying password was wrong). The Netgear phone support was good and concluded that the problem may be with my Apple devices, but I do not feel up to attemting to get any support out of Apple (!) so I have returned the router.",
+      "rating": 4.0,
+      "verified": true,
+      "author": "Melissa Mercer",
+      "helpful_votes": 0,
+      "publication_date": 20190726
+    },
+    {
+      "title": "Great connection and easy set up",
+      "text": "I bought this router because I was sick and tired of Virgins abysmal 3.0 hub - connection dropped constantly especially on the 2.4ghz. The set up of this device is as easy as anything, the app takes you through the directions if you have trouble. Our download speed went from around 60mbps to 110mbps so I'm very happy with that. NETGEAR have always been good especially their nighthawk brand. Even if you have no networking background you can still easily install this, so don't worry.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "KS",
+      "helpful_votes": 0,
+      "publication_date": 20190514
+    },
+    {
+      "title": "Great for Virgin broadband woes",
+      "text": "This system is simple to setup, and provides good solid very fast broadband speeds. The standard Virgin hub just can\u2019t handle WIFI in any standard house, so set the hub as a slave and use the Nighthawk to provide broadband throughout the house. Expensive, and Virgin equipment should work, but if like me your tired of repeated visits by virgin engineers without improvement I\u2019d strongly suggest Nighthawk.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "N. Edwards",
+      "helpful_votes": 0,
+      "publication_date": 20200915
+    },
+    {
+      "title": "Decent Wi fi Signal",
+      "text": "As with other reviews on Virgin and their router is awful. Could not get a decent signal upstairs. Plugged in Netgear router and bam a full 5G signal upstairs. Getting 150mbps upstairs rather than the paultry 30mb before. Have updated firmware to a newer version and works flawlessly. Be advised though when changing superhub 3 to modem mode wait 30 secs before turning back on or it will constantly drop out as only picking one connection up.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "B.Perry",
+      "helpful_votes": 0,
+      "publication_date": 20200421
+    },
+    {
+      "title": "At last a reliable network!",
+      "text": "Bought this to replace the Virginmedia Hub3 which was consistently dropping connections and buffering on 200MB. Since installed it has worked flawlessly maintaining fast reliable connections on Ethernet and wifi with no buffering. 2.4GH isn't as fast as I would have hoped but 5GH is spot on. Guest account is included and USB for NAS too. A great purchase.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Alan Spellman",
+      "helpful_votes": 3,
+      "publication_date": 20180118
+    },
+    {
+      "title": "Great Router Which Is Easy To Set Up",
+      "text": "I used the router to create a sub-network in my study at end of garden to avoid latency issues on main network. Using the set up wizard was a breeze and recognising IP of primary network configured the alternate 10.0.0.0. The GUI is clear and intuitive. Simple display showing the connections to the ethernet or WiFi side of the router. Easiest router to set up and operate that I have used.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Ralph T.",
+      "helpful_votes": 0,
+      "publication_date": 20201012
+    },
+    {
+      "title": "Very happy customer",
+      "text": "This thing sells itself! It is the best thing I've ever done buying this! My internet was so sh*t before buying this and now I get all the internet that I pay for and that little bit more. I camt be happier. Also it has 2 different wifi bands so that devices that need that extra bit of wifi can be put on it's own band not taking it away from others. I seriously highly recommend this product you wont regret it!",
+      "rating": 5.0,
+      "verified": true,
+      "author": "gamergirl",
+      "helpful_votes": 0,
+      "publication_date": 20200113
+    },
+    {
+      "title": "Superb router for fast Broadband and/or DD-WRT",
+      "text": "If you have a super fast broadband you need a super fast router. This is it! You will of course need devices with AC WIFI take advantage of the speed this router offers. For advanced users like myself wishing to squeeze out the max stock firmware is not going to cut it and I am pleased to say that DD-WRT works very well. Which means you have a linux based box that can do most things linux can do! That means countless Entware packages for pretty much any purpose you can think of.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Mr. Andrius Stanaitis",
+      "helpful_votes": 0,
+      "publication_date": 20190807
+    },
+    {
+      "title": "Up to thi shappening the unit was very reliable and have a good range and performance",
+      "text": "After 17 months the unit developed a fault that affected the wireless, which appeared to have corrupted the password authentication. The only way to resolve this was to reset the device back to factory settings and reconfigure the unit. This took several attempts before it became stable and usable. This lasted 48 hours and the fault developed again. Up to thi shappening the unit was very reliable and have a good range and performance.",
+      "rating": 2.0,
+      "verified": true,
+      "author": "Frank wadmore",
+      "helpful_votes": 2,
+      "publication_date": 20171019
+    },
+    {
+      "title": "Performance very Deceiving",
+      "text": "I've bought this router in the hope to increase my ISP but I've been really disappointed. The performance is definitely not here. I need to reboot the router every 2 days to enjoy a temporary full Wi-Fi speed which decreases dramatically after few days of usage (hence the regular reboot). If you are connected through the wire it will work fine. Also the Wii-Fi range is not that good. I don't have a big house and have problem to connect from a side room. I don't recommend at all to buy this product which I find very expensive for what it is...",
+      "rating": 1.0,
+      "verified": true,
+      "author": "Reida",
+      "helpful_votes": 0,
+      "publication_date": 20200513
+    },
+    {
+      "title": "Great value, stable connection",
+      "text": "It's a fantastic router. The signal is decent but not as strong as I expected even with 6 antennas The app that comes with it is amazing. So intuitive and alerts of you malicious behavior on the network. The multiple wifi options is so good, being able to have 3 dedicated networks for different reasons (gaming,streaming, kids etc). Being able to control devices ability to connect via the app. Also the app works from remote, so when I'm at work I can still monitor etc",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Thomas L",
+      "helpful_votes": 0,
+      "publication_date": 20200208
+    },
+    {
+      "title": "better QA required",
+      "text": "Hey, Netgear, this is a 400 pounds router, better QA might be required. Wifi antennas never worked (ethernet connections were fine, and the router menu said the antennas were supposed to be on - but they were decidedly not). After searching online, it appears this is a common problem. Embarrassing.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "TW",
+      "helpful_votes": 4,
+      "publication_date": 20180925
+    },
+    {
+      "title": "Great Upgrade",
+      "text": "Bought to replace a Netgear D6200, the setup was a breeze, and I'm seeing considerably faster speeds on both 2.4 and 5 GHz bands, as well as longer range. The mobile app isn't great, and there's very little difference in the router admin pages, but all that meant I was able to swap routers (without copying the setup from router to the other) in less than 5 minutes. I'd have liked an internal power supply, and it's huge. I've yet to use the Bittorrent app, but ReadyShare works as expected. Recommended at \u00a3119...",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Tony",
+      "helpful_votes": 2,
+      "publication_date": 20170516
+    },
+    {
+      "title": "Great router",
+      "text": "Unless you have full fibre at your property you will need a modem to use with this. ( You can use your old router for this by disabling WiFi on it and using it as a modem). Took a while to set up, but now it's working we can see the difference. No WiFi dead spots around the house, and much faster. Much clearer picture from our WiFi security cameras. Expensive but it does the job.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Sue",
+      "helpful_votes": 0,
+      "publication_date": 20191217
+    },
+    {
+      "title": "Bit over kill but a beast it is!",
+      "text": "Don't lots of reseach into what was the best to buy and this one kept on being mentioned. I had Virgin media internet installed and was only getting 40m upstairs and had already brought this router so put virgin box into modem mode and hooked this up, speed went straight up to 180m so a stark improvement. WiFi not great in the rest of the house as still got building works ongoing so once set up in its final living place, reckon it will be even better than it in living on the floor in a box at the moment",
+      "rating": 5.0,
+      "verified": true,
+      "author": "andi",
+      "helpful_votes": 0,
+      "publication_date": 20200920
+    },
+    {
+      "title": "It is ok",
+      "text": "It is easy to use, it has a nice app. I expected to see more advanced settings. It didn't fix my WiFi issues, I have the virgin media super hub 2 and the WiFi in some parts of the house is a bit slow/disappearing. This router was not able to fix that. Near the router I got a slower speed than the super hub 2 for some reason, I did the test 3 times.",
+      "rating": 3.0,
+      "verified": true,
+      "author": "Radoslav Radev",
+      "helpful_votes": 0,
+      "publication_date": 20181125
+    },
+    {
+      "title": "Nice bit of kit",
+      "text": "I'm probably not using the router to its full potential but my we were constantly getting disconnections from my vodafone router, so far its been great signal is not a strong as other reviews I've seen I live in a 1950's semi-detached house but at least the issues with disconnects resolved. please note is you will need a modem as well as this router you cant plug you directly into your telephone socket. easy enough to set up but I have plenty of experience only bad point is the user interface is very very slow considering the spec of this device",
+      "rating": 4.0,
+      "verified": true,
+      "author": "Tony Carey",
+      "helpful_votes": 0,
+      "publication_date": 20190905
+    },
+    {
+      "title": "I would definitely recommend",
+      "text": "I had a Netgear dgnd3700v2 DSL router adsl2+ . This unit was okay until I moved to a bigger house. The wifi struggled. Once I had virgin media broadband installed I pulled the trigger and purchased this unit as it was on discount.WOW. Night and day. If you have virgin media and not working, you have to switch all devices off. Put virgin media router in modem mode and boot modem first. I followed this rule and had no issues. My other half's raspberry pi 3 internet radio is now very stable. I would definitely recommend",
+      "rating": 5.0,
+      "verified": true,
+      "author": "LordVader",
+      "helpful_votes": 2,
+      "publication_date": 20170610
+    },
+    {
+      "title": "I used to have an admiration for netgear",
+      "text": "The 2.4g signal was rubbish it kept dropping off. The internet connection on the 2.4g connection kept informing me that there was no connection. The 5.0g connection was good but as I have lots of 2.4g appliances this was no good and if you amalgamated both signals then you had an internet connection but none of the 2.4g appliances would connect. All in all a disappointing router.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "harry",
+      "helpful_votes": 0,
+      "publication_date": 20190716
+    },
+    {
+      "title": "Boom! Best upgrade to Sky.",
+      "text": "Boom! Best upgrade to Sky (along with its sister Netgear Modem) I could have done. Wired connections are much faster. WiFi conections fly. No more lagging on video streaming. Bought the R7800 when on deal. Glad I did. It was easy enough to migrate Sky log-on to to the Netgear Modem. Once done... Boom!",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Alltrades1967",
+      "helpful_votes": 4,
+      "publication_date": 20170929
+    },
+    {
+      "title": "It's ok and does the job. WiFi restored.",
+      "text": "Bought this to replace the unreliable Virgin media hub 3. Seems to do the job, WiFi is much better all over the house now, although there are still a couple of weeks spots, but these were dead zones previously. It wasn't particularly straightforward to setup, but I got there in the end. The kit is somewhat too pricy IMO.",
+      "rating": 4.0,
+      "verified": true,
+      "author": "Amazon Customer",
+      "helpful_votes": 0,
+      "publication_date": 20200716
+    },
+    {
+      "title": "Know the difference between a router and a modem router",
+      "text": "Mistakenly I thought I'd bought a modem router so when I couldn't connect to the internet I felt a bit stupid. However I soon realised that I could plug it into the rubbishy ISP supplied router modem to get the connection. What a difference it made. Fast wifi throughout the house but now two bits of hardware not one.",
+      "rating": 4.0,
+      "verified": true,
+      "author": "barclay",
+      "helpful_votes": 0,
+      "publication_date": 20200913
+    },
+    {
+      "title": "Great product",
+      "text": "Great product. Had a lot of issues with internet speed before. Was calling the provider (Virgin) almost weekly. They of course never volunteer the fact that their router are complete rubbish but I read about it and decided to buy this. Never had an issue since.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "F D",
+      "helpful_votes": 0,
+      "publication_date": 20190404
+    },
+    {
+      "title": "UNRELIABLE",
+      "text": "While it was working it was great but now it resets to factory default at random (it's done it 3 times now) with 7 WiFi cameras and a complete smart home full of sockets and lights it's a 3 day job to resetup !",
+      "rating": 1.0,
+      "verified": true,
+      "author": "Anonymous shopaholic",
+      "helpful_votes": 0,
+      "publication_date": 20191108
+    },
+    {
+      "title": "Highly recommended",
+      "text": "Highly recommended By DMW 12345 Highly recommended, with constant low WiFi speeds with the Virgin media hub 3 installed this and now have 3-4 time WiFi speeds (ping12-download 298-uploads 36) and also maximum speeds via Ethernet. Should have installed this ages ago. Well worth the expense and cannot recommend enough.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "DMW74",
+      "helpful_votes": 0,
+      "publication_date": 20201013
+    },
+    {
+      "title": "Brilliant Router - Tech Support tad rubbish though",
+      "text": "It's an amazing piece of kit. Purchased to extend the range of the wifi in my house as the virgin media hub was having trouble penetrating the concrete walls. An OTA update rendered it useless though. Tech support were unable to help and suggested I return it for a replacement. Managed to manually re-flash the firmware within 30 mins after a little research online. Working great again.",
+      "rating": 4.0,
+      "verified": true,
+      "author": "Shoaib Khan",
+      "helpful_votes": 0,
+      "publication_date": 20200114
+    },
+    {
+      "title": "BEST ROUTER IVE EVER HAD!",
+      "text": "NETGEAR R78OO UK . Bought this to improve my wifi signal and also to use as VPN. Ive flashed the firmware with DD-WRT which has made this router even better as it no longer has standard stock firmware. It was easy to then use my vpn (ipvanish). This router now provides full vpn coverage for my entire house both wired and wireless. The QoS is also great for my Ps4 and SmartTV.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Dazz",
+      "helpful_votes": 0,
+      "publication_date": 20190330
+    },
+    {
+      "title": "Disappointing wifi reliability",
+      "text": "Spent \u00a3120 on this router thinking it would solve all my troubles! Unfortunately there appear to be a number of buggy problems with the wifi and firmware. The 2.4Ghz wifi network was very unreliable and kept dropping out (5Ghz was solid). The firmware also has an issue reserving fixed IP addresses, it ignores the setup. Internet also drops out from time to time. Spoke to Netgear support, they asked me to update the firmware (they acknowledged that the auto-firmware update feature doesn't work). When I google the issues I see I am not alone and the firmware updates don't ever fix it. All in all, not good.",
+      "rating": 2.0,
+      "verified": true,
+      "author": "Amazon Customer",
+      "helpful_votes": 0,
+      "publication_date": 20180509
+    },
+    {
+      "title": "Excellent router for both first time and advanced users",
+      "text": "Having gone through a number of wired and wireless routers over time, the Nighthawk does outperform any single one of them straight out of the package. Setup is straightforward and well documented, while giving easy access to all advanced features to tweak and customise settings for expert users. Range in my old house with rather solid walls is excellent, ease of setting up guest networks and managing resources makes it very versatile. The additional option to streamline backing up through the router is the cherry on top. Very happy customer and at long last a router that does not require any compromise between speed, security and ease of management.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "stefan_reis",
+      "helpful_votes": 0,
+      "publication_date": 20180605
+    },
+    {
+      "title": "Amazingly easy to use with incredible strength",
+      "text": "This is stunning! I'm finally rid of the VM hub 3 beyond it being dumb modem in the corner and I let the Nighthawk do ALL the talking. I cannot be happier. Its so easy to use too, it does its own thing right from the off. It deals with the speed of my internet admirably and shares it fairly so no one can hog it all. Oh and i manage to get at least 200mbps in my garage now, where I dropped off the Hub 3 map before. Easily recommended. The WiFi strength is staggering so if you're on the fence, so was I until I took the plunge. Do it!",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Pete",
+      "helpful_votes": 0,
+      "publication_date": 20200718
+    },
+    {
+      "title": "Reaches every corner of 4 bed detached house",
+      "text": "Great coverage and doubles the coverage of our virgin media router",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Jon P.",
+      "helpful_votes": 2,
+      "publication_date": 20190915
+    },
+    {
+      "title": "Great WIFI signal, but that is all.",
+      "text": "Quite pricy for what it actually is. WIFI signal is great (2.4g and 5g) both in router and A.P. mode. Though it does something strange to the packets whilst using pass through VDSL modem (so the router handles PPoE). I had to revert back to standard WAN interface configuration and put up with dual NAT (between external modem and router itself). Interface appears to be quite clunky, most of the router config changes cut off internet/require a reboot. A long way to go Netgear.",
+      "rating": 3.0,
+      "verified": true,
+      "author": "PW",
+      "helpful_votes": 0,
+      "publication_date": 20200102
+    },
+    {
+      "title": "All I ever needed",
+      "text": "We run a B&B and needed a router the could handle 16 guests perhaps all online at the same time and through a large property. I still needed enough speed to run my other internet based company. It was easy to set up correctly and after some initial teething problems I contacted support. Within minutes they identified the problem (I was spreading out my devices on different bands). This was easily corrected and now I have no drop outs or speed issue. In fact my WiFi facilities are getting 5* reviews from my guests. This is great news because before installing the R 8000 my reviews for Wi-Fi were average.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "BoBoater",
+      "helpful_votes": 0,
+      "publication_date": 20161209
+    },
+    {
+      "title": "This works very well",
+      "text": "I work with wireless solutions and chose this as it gives a good general overall signal with a reasonable interface and some nice features (dlna, file storage, VPN etc). It is quite big, but then I knew that from the measurements and it doesn't annoy the wife, as you can turn off all the lights from the software, so it doesn't illuminate the whole living room as it tends to do out of the box.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "shaun",
+      "helpful_votes": 0,
+      "publication_date": 20170719
+    },
+    {
+      "title": "Good piece of kit",
+      "text": "Excellent unit, setup not as plug and play as first thought. Took a bit of time setting this up. Used the tech support helpline, absolutely superb. Solved my dead Wifi spots at home, purchased mainly to reach Sonos in not so strong Wifi areas. Replicated the SSID and passwords, all working great. Highly recommended.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "M Steed",
+      "helpful_votes": 0,
+      "publication_date": 20191002
+    },
+    {
+      "title": "Good and Bad",
+      "text": "I got this in order to improve the speeds of my WiFi on Sky Broadband. It\u2019s certainly done that. Speeds are about 99% of that with an Ethernet cable, so does exactly what I hoped. However, given the size of the thing and the fact it has 6 antenna the size of Stealth Bomber wings, the range of WiFi is pretty poor. So whilst it does what I bought it for, it looks like I\u2019m going to have to add range extenders to get the the finished article.",
+      "rating": 3.0,
+      "verified": true,
+      "author": "Mr W.",
+      "helpful_votes": 0,
+      "publication_date": 20200822
+    },
+    {
+      "title": "Great",
+      "text": "Decided to buy this as we were having issues with our Virgin Media superhub 3.. Devices kept dropping connection and wired devices would not be assigned an IP address (Also didn't work with static IP). Since installing the netgear and placing the superhub in modem mode, all devices have connected without any issues. Wifi signal is very strong, we have full bars for both the 2.4GHz and the 5GHz all over the house.",
+      "rating": 4.0,
+      "verified": true,
+      "author": "Amazon Customer",
+      "helpful_votes": 0,
+      "publication_date": 20190407
+    },
+    {
+      "title": "Missing a few necessary features.",
+      "text": "Very good router for internet use with great WiFi, however the lastest firmware has removed the DNLA and UPNP features which for me are a must. They have been replaced with Armour (built in AV) that you have to pay for. For these issues I am returning the router and looking for an alternative. User interface is a bit clunky as well. The mobile, however, is really good. If you do not need DNLA or UPNP then it is very good indeed.",
+      "rating": 3.0,
+      "verified": true,
+      "author": "Graeme",
+      "helpful_votes": 0,
+      "publication_date": 20200418
+    },
+    {
+      "title": "Buy it, you won\u2019t regret it.",
+      "text": "Amazing difference. Virgin media used to output on average 70mb on a 108 line. Tests show that it went from 70mb to 111mb permanently with no throttle or slow down once I turned the virgin hub into a modem and used this beast of a router. Wifi now reaches my Ring camera at the front, back garage and covers the whole house even upstairs (3bed semi) for 4K Wi-Fi streaming and even the Xbox streaming works with no lag. Excellent purchase well worth the outlay.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Ben",
+      "helpful_votes": 0,
+      "publication_date": 20200225
+    },
+    {
+      "title": "Could be so much better, save your money",
+      "text": "Bought to replace a virgin media hub 3 and a booster, (still using the booster) absolutely great when works but signals drop out for no reason every few days for no reason requiring a reconnect or reboot. Smart connect and QoS poorly optimised putting high priority devices onto 2.4ghz band. Not worth the high purchase price and not a big improvement over the VM hub 3",
+      "rating": 1.0,
+      "verified": true,
+      "author": "Mr",
+      "helpful_votes": 0,
+      "publication_date": 20200618
+    },
+    {
+      "title": "Brilliant but not for people with no knowledge of setting up routers and needs separate modem.",
+      "text": "Takes some setup so not for amateurs and you must have a separate modem for your dsl but other than that no fault at all with the product. Wifi is brilliant kids are now playing both their xbox one's online with no lag or dropping on wifi where before with the homehub from BT we had to run cables for both. Coverage in all of house is now full signal.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "J. Whiteaway",
+      "helpful_votes": 0,
+      "publication_date": 20191204
+    },
+    {
+      "title": "Helps improve Bose Speakers",
+      "text": "I was having problems with my Virgin Superhub router, my interconnected Bose Speakers kept dropping connections, and I was thinking it was a problem with the speakers. Since i have had this router, the wifi is quicker and reaches all parts of the house and the Bose Speakers have stayed connected. Well worth the money",
+      "rating": 5.0,
+      "verified": true,
+      "author": "The Smith Clan",
+      "helpful_votes": 0,
+      "publication_date": 20190913
+    }
+  ],
+  "product_meta": {
+    "title": "NETGEAR Nighthawk X6 Smart Wifi Router (R8000) - AC3200 Tri-band Wireless Speed (up to 3200 Mbps) | Up-to 3500 sq ft Coverage & 50 Devices | 4 x 1G Ethernet and 2 USB Ports | Armor Security",
+    "description": "Size Name:Nighthawk AC| Style Name:AC3200\n\nNETGEAR R8000 NIGHTHAWK X6 TRI-BAND AC3200 (3.2 GBPS) SMART WI-FI ROUTER - CIRCLE PARENTAL CONTROLS AND ALEXA ENABLED\nThe Nighthawk X6 AC3200 Router with breakthrough Tri-Band Wi-Fi technology was built to connect to each and every device in your home automatically and simultaneously. Laptops, tablets, phones, TVs, game consoles, music streamers, cameras if it\u2019s Wi-Fi enabled, it\u2019s X6 accelerated. A powerful combination of features provides wireless speed of up to 3.2 Gbps, three Wi-Fi bands, smart connect intelligence and Dynamic QoS ensures every device is assigned the fastest Wi-Fi connection possible and optimised for maximum speed. Using Amazon Alexa, control your home network with voice commands.\n\n802.11AC TRI-BAND GIGABIT\nThe Nighthawk X6 AC3200 router with tri-band Wi-Fi technology was built to connect to each and every device in your home - automatically and simultaneously. Laptops, tablets, phones, TVs, game consoles, music streamers, cameras \u2013 if it\u2019s Wi-Fi enabled, it\u2019s X6 accelerated. With a massive combined wireless speed of up to 3.2 Gbps, three Wi-Fi bands and smart connect intelligence, every device is assigned the fastest Wi-Fi connection possible and optimised for maximum speed.\n\nFEATURES\n * Get fast Wi-Fi speeds \u2013 Up to 3.2 Gbps\n * Tri-Band Wi-Fi delivers more Wi-Fi for more devices\n * Six high performance antennas for enhanced range\n * Smart-connect designates slower and faster devices to separate Wi-Fi bands\n * 1 GHz dual core processor with three offload processors\n * Beamforming+ improves wireless range and reliability\n * Easily manage your home network with the NETGEAR genie app\n\nCONNECT MORE | DO MORE\n4 Gigabit Ethernet Ports allow you to stay wired for the most stable and uninterrupted connectivity. Access your media and backup your data with an attached USB hard drive connected to the super-speed USB 3.0 and 2.0 ports.\n\nSPEED | RANGE | RELIABILITY\nWith Beamforming+ the router and device communicate with each other, so the router can directly beam the Wi-Fi signal to the device which boosts speed, reliability, and range.\n\nTRI-BAND WI-FI\nNighthawk X6 enhances Wi-Fi performance by intelligently assigning every device to an optimal Wi-Fi band and doing so allows devices to connect at their maximum speed. You'll enjoy seamless clarity and minimal lag.\n\nNIGHTHAWK APP\nEasily setup your router. Manage Internet access by pausing and resuming internet instantly. Run a speed test. All from your mobile device!\n\nNote: Lights now showing on the front could be that the light switch on the back of the router has been turned off or from the GUI.\n\n\n\nLEGAL DISCLAIMER\nProduct is sourced and shipped from the European Economic Area (EEA). Product is genuine original from manufacturer authorized distributors.\n\nBOX CONTAINS\nNETGEAR Tri-Band WiFi Router\nPower Adapter\nEthernet Cable\nUser Documentation\n\nSee more",
+    "rating": 4.1,
+    "feature_bullets": [
+      "CIRCLE APP PARENTAL CONTROLS: Pause device internet access, view site history usage, and filter websites for free. Set online time limits, schedule device internet access, and more.",
+      "ADVANCED CYBER THREAT PROTECTION: NETGEAR Armor (powered by BitDefender) is network wide anti virus, anti malware, fraud/phishing/ransomware security on an unlimited # devices for a 30 day free trial. Note: Netgear technical support number 03448754000",
+      "FAST Wi-Fi PERFORMANCE: Get up to 3500 sq ft wireless coverage with AC3200 speed (Tri band up to 600 + 1300 + 1300 Mbps)",
+      "RECOMMENDED FOR UP TO 50 DEVICES: Reliably stream videos, play games, surf the internet, and connect smart home devices",
+      "WIRED ETHERNET PORTS: Plug in computers, game consoles, streaming players, and other nearby wired devices with 4 x 1 Gigabit Ethernet ports",
+      "LOADED WITH ADVANCED TECHNOLOGY: Designed with a 1GHz dual core processor, 6 amplified antennas, Beamforming+, Dynamic QoS, Smart Connect, Amazon Alexa Voice Controls, and more",
+      "USB CONNECTIONS: Share a storage drive and printer with any connected device, and create a personal cloud storage to access from anywhere, using the 2 x 3.0 USB ports"
+    ],
+    "specifications": {
+      "Brand": "NETGEAR",
+      "Product Dimensions": "29.55 x 22.68 x 5.45 cm; 1.1 Kilograms",
+      "Item model number": "R8000-100UKS",
+      "Manufacturer": "Netgear",
+      "Series": "R8000-100UKS",
+      "Color": "Black",
+      "Connectivity Type": "Wi-Fi",
+      "Wireless Type": "802.11n, 802.11b, 802.11a, 802.11g",
+      "Operating System": "Yes",
+      "Are Batteries Included": "No",
+      "Item Weight": "1.1 kg",
+      "ASIN": "B00TDV2IS4",
+      "Customer Reviews": "4.1 out of 5 stars2,228 ratings4.1 out of 5 stars",
+      "Best Sellers Rank": "1,303 in Computers & Accessories",
+      "Date First Available": "4 Feb. 2015"
+    },
+    "categories": [
+      "Computers & Accessories",
+      "Routers",
+      "Networking Devices"
+    ],
+    "price": 199.46
+  }
+}

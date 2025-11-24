@@ -1,0 +1,896 @@
+{
+  "website_summaries": [
+    {
+      "verdict": "The AMD Radeon R7 260X is a good\u2014not great\u2014graphics card for users on a budget, but there are better bargains on the market.",
+      "pros": [
+        "Has double the previous generation's GPU RAM",
+        "Supports AMD's Mantle API"
+      ],
+      "cons": [
+        "Lags behind the competition in performance",
+        "No included softare bundle"
+      ],
+      "aspects": {},
+      "publication_date": 20140214,
+      "rating": 6.0,
+      "source": "pcmag"
+    }
+  ],
+  "customer_reviews": [
+    {
+      "title": "Can't find its limit",
+      "text": "I got this for my new rig. I expected it to be good, but not great. Right when I got it, I overclocked it slightly past its peak just for fun. I decided to test it by throwing every single Skyrim graphics mod I could find, fully expecting it to be choppy at best. There were NO hitches in performance whatsoever. It was beautiful. I think I may have cried a bit. Bottom line: Outperforms anything I've gotten my hands on, and it's not terribly expensive. AMD pumping out cheap graphics cards that do what they're supposed to, like always.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Ben",
+      "helpful_votes": 61,
+      "publication_date": 20140225
+    },
+    {
+      "title": "Great Video, Linux Software Tweak Needed for Audio (pulseaudio)",
+      "text": "This was a nice upgrade for a failing Radeon 4670 I have had for many years. It works very well under Linux with the xorg driver rather than the proprietary ATI driver. I am running Linux Mint 17 Qiana and I had to search for a minor tweak for the HDMI audio because the audio was scratchy and distorted. The tweak required modifying two files: The file /etc/pulse/default.pa need one line modified. The line reading: load-module module-udev-detect needed to be modified to read: load-module module-udev-detect tsched=0 The file /etc/modprobe/alsa-base.conf needed the following line added to the end of the file: options snd-hda-intel vid=8086 pid=8ca0 snoop=0 The sound was flawless after those modifications and a reboot.",
+      "rating": 4.0,
+      "verified": true,
+      "author": "Tyrin R. PriceTop Contributor: Chess",
+      "helpful_votes": 2,
+      "publication_date": 20141217
+    },
+    {
+      "title": "There is not a dramatic difference in price and it is a better card from a performance and connectivity perspective",
+      "text": "This is a solid budget card that will give you a lot of mileage for the price. However, I would caution prospective budget buyers to consider the slightly more expensive Gigabyte R9 270 GDDR5-2GB 2xDVI/HDMI/DP OC Graphics Card instead of this one. There is not a dramatic difference in price and it is a better card from a performance and connectivity perspective, especially if overclocked. I ended up returning this one and getting the Gigabyte.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "J Lam",
+      "helpful_votes": 2,
+      "publication_date": 20141026
+    },
+    {
+      "title": "Doesn't last long.",
+      "text": "Ordered this, installed it and within 10 minutes the card died. I thought maybe something was damaged during shipping so I had Amazon exchange it. Received the new one, worked amazing. Ran WoW on ultra at 97FPS average, 45FPS average in high population areas. Less than 30 days the card died again. If you get this card expect a gamble. If/when it works it is an amazing card for the money. However do not buy this thinking you will be lucky enough to get one that will last. That's what I did and I am glad Amazon has a terrific return policy.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "BLot",
+      "helpful_votes": 2,
+      "publication_date": 20150505
+    },
+    {
+      "title": "Awesome card, great price",
+      "text": "I upgraded from a Radeon 5750. I can see a big difference in my game graphics. It installed without a single problem. I mainly bought it to play GTA 5, can't play on max settings, but it still looks awesome playing GTA 5 on high. You do need to plug it in to your power supply, so be prepared if your current card isn't. I do love he fact I no longer need my audio card, I took it out. Audio and video both run through this awesome card using a HDMI hooked up to a TV. If you can't afford a R9, give a R7 a try.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Steve Kendig",
+      "helpful_votes": 0,
+      "publication_date": 20150920
+    },
+    {
+      "title": "5/5 WOULD BUY AGAIN",
+      "text": "For the money this graphics card has got some serious power. The 2 gb of ram is plenty for a lot of game. Your not going to be able to play Ultra graphics, but if your looking in this price range then you'll understand its not really possible for that performance that cheap. Seriously, it plays GTA 5 on moderate graphics (N/A fps). Witcher 2 (N/A fps) on somewhat high graphics. Tomb Raider on high with Tress FX @ 45 avg 60 without TressFX. Super modded Skyrim at 60 FPS. Dirt 3 at 80 fps.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "RailgunOS",
+      "helpful_votes": 0,
+      "publication_date": 20150517
+    },
+    {
+      "title": "Decent low cost upgrade card for an older computer, using in crossfire is near wothless.",
+      "text": "It just ok. Lots of cards are better for not much more. I have two of these becasue another computer deal I got off Newegg came with one of these, I put them in crossfire but the performance was only about 20% better. Not a bad card if you need a cheap upgrade with HDMI DVI/VGA and Displayport. But not a super gamer, though also not bad I can play new games just definately not close to max.",
+      "rating": 3.0,
+      "verified": true,
+      "author": "Nixon Percutio",
+      "helpful_votes": 0,
+      "publication_date": 20150717
+    },
+    {
+      "title": "High quality and reliable performance.",
+      "text": "I used this to run my new 4K monitor under Win-64-8.1. After a month of use all appears to run correctly and provides me with very good performance. I am not a gamer so I rate on general quality and reliability. It is best to uninstall any previous drivers that you might have from your previous graphics card. I did an update of my previous ATI drivers and later had to remove and install fresh as there were some small issues. Very good value and quality.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Zeb",
+      "helpful_votes": 0,
+      "publication_date": 20140701
+    },
+    {
+      "title": "Absolutely Outstanding.",
+      "text": "I bought this for my new gaming I built which also is my first gaming rig, and i could not be more satisfied! every game i throw at it i can run ultra settings at 60fps! Well, besides DayZ, i get 60 fps when i'm running from town to town but about 45-50 while in cities. but i have a feeling that its because that game is unfinished and is still really glitchy. nonetheless every other highly demanding game gets 60fps or over, like bioshock infinite, Battlefield 3 and skyrim all have zero problems maintaining 60fps. This is an outstanding card i highly recommend it to gamers on a budget.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Anonymous",
+      "helpful_votes": 0,
+      "publication_date": 20140313
+    },
+    {
+      "title": "product review.",
+      "text": "Graphics card does the trick, it really helped out in performance, and push my custom build to the limits, even for an entry level graphics card (imho), even when it's my first EVER custom build. Got a lot of design work done faster, and in half the time, especially while rendering basic 3D shapes in illustrator. Thanks Sapphire company.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "TheComicNut",
+      "helpful_votes": 0,
+      "publication_date": 20150523
+    },
+    {
+      "title": "Outstanding gaming!!!",
+      "text": "I've had this card for a good 4 months and this card is amazing compared to integrated graphics(piece of s***) and I used to play outlast on low with like 20 fps and now I play it on ultra with 70-100 fps. Same with bf4 I can play it on ultra with 50-60 fps. I can't tell you guys how much I love this card. Price wise this thing is excellent I love this card I recommend it to people who have a AMD processor! I have a AMD A10 quad core 3.9 ghz and THEY DO WORK!!!! 5 stars all the way!!!",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Eli",
+      "helpful_votes": 0,
+      "publication_date": 20141217
+    },
+    {
+      "title": "Great price/performance ratio",
+      "text": "Top of the R7 line, and under $150. Breathes new life into older systems. Fan runs reasonably quiet as well. I installed this in my older Phenom II X4 based system and suddenly Skyrim can be played on MAX. At this price point, Crossfire is a real possibility as well for those of us who have to budget our funds across real life. :)",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Jay",
+      "helpful_votes": 0,
+      "publication_date": 20140425
+    },
+    {
+      "title": "Disappointed in the MB but not the graphics or sound ...",
+      "text": "ASUS M5A99FX PRO R2.0 AM3+ AMD 990FX SATA 6Gb/s USB 3.0 ATX AMD Motherboard didn't perform very well. Additional and upgraded graphics and sound cards made things OK. The additions saved the day. I wouldn't have expected the addition expense thought. Disappointed in the MB but not the graphics or sound cards.",
+      "rating": 4.0,
+      "verified": true,
+      "author": "David C.",
+      "helpful_votes": 0,
+      "publication_date": 20151009
+    },
+    {
+      "title": "If you need a GPU ASAP for a low price that will get the job done, look no further.",
+      "text": "For its price, nice performance. Not ideal for intensive games, but has the most bang-for-buck ratio in this price range. I plan on upgrading in 5 months or so, but this is surprisingly nice for overclocking, and you can control the fans if your into soundproof. If you need a GPU ASAP for a low price that will get the job done, look no further.",
+      "rating": 4.0,
+      "verified": true,
+      "author": "Brendan Christopher Sturgeon",
+      "helpful_votes": 0,
+      "publication_date": 20141120
+    },
+    {
+      "title": "Solid performance",
+      "text": "I am an NVIDIA guy be default, but I wanted to try something else. I run this in a AMD A10 machine and it seems to play all the games I've put through it at max resolution. I run this in a mini-itx system with hardly any room and hardly the best air flow, but this card stays running at relatively cool temperatures.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Amazon Customer",
+      "helpful_votes": 0,
+      "publication_date": 20140804
+    },
+    {
+      "title": "witcher 3? check.",
+      "text": "good ol' GPU. it still gives the best, letting me play games as Witcher 3 beautifully and without any problem (even paired with a kaveri A8 7800!!!). <3",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Roberto Scattini",
+      "helpful_votes": 0,
+      "publication_date": 20171118
+    },
+    {
+      "title": "Very pleased!",
+      "text": "Great card, I have had it for about 6 months now and it does very well with a Q6600 CPU. It is running games that I would think my system could not handle so I am pretty happy with this card. I am getting ready to build a new systems and this card is going into it.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "A. Whyte",
+      "helpful_votes": 0,
+      "publication_date": 20150517
+    },
+    {
+      "title": "Great replacement for my original Dell XPS PC's graphics card.",
+      "text": "I bought this card to replace a \"factory\" card from my Dell XPS desktop. The cooling fan seized up. I did a ton of research and this was as close a replacement as I could find. The replacement card was an exact match (physically) to the card I removed. The added bonus it that it has twice as much RAM as my original. Windows 7 Ultimate, drivers installed without any fanfare. Recognized my dual monitors and has been flawless since. Great value for what I was looking for.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Don Bauer",
+      "helpful_votes": 0,
+      "publication_date": 20150710
+    },
+    {
+      "title": "Fast and Good Temps.",
+      "text": "Very fast graphics. First time building my Pc with this. Played a couple of source games and League of Legends running with i5 4670k not OC and getting 200+ fps maxed out settings. While on high load, I'm only getting around 50C in Temps and 30-40C when idle. I am happy with this card.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Jimmy",
+      "helpful_votes": 0,
+      "publication_date": 20141210
+    },
+    {
+      "title": "Great low-to-mid range graphics for a great price!",
+      "text": "Chose this card for the performance benchmark at this price point and have not been disappointed. Definitely recommend for the semi-serious home gamer on a budget.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Amelia H.",
+      "helpful_votes": 2,
+      "publication_date": 20140505
+    },
+    {
+      "title": "Good linux support!",
+      "text": "Using it with the proprietary Catalyst driver currently, haven't tried the open source driver yet (not sure I will). Works great though. Highly recommend for anyone looking for affordable performance and good linux support",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Johan",
+      "helpful_votes": 0,
+      "publication_date": 20150406
+    },
+    {
+      "title": "Great gaming card!",
+      "text": "This video card works GREAT! I am not a real gamer, but my son is and it is installed in his computer. He plays some really intense 3D graphic games and they seem to run fine to my eyes. He hasn't complained, so I take that as a good sign.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Kindle Customer",
+      "helpful_votes": 0,
+      "publication_date": 20141129
+    },
+    {
+      "title": "Great sound card for the money",
+      "text": "Great sound card for the money. It has been able to play every game I threw at it at 60 fps using fairly decent settings, sometimes even Ultra settings. Played Alien Isolation, Shadow or Mordor, Far Cry 3, Minecraft, etc. Surprising how well it performs for the money.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "CJ",
+      "helpful_votes": 0,
+      "publication_date": 20150408
+    },
+    {
+      "title": "Surprisingly good performance for the money",
+      "text": "Surprisingly good performance for the money. Though be sure to use the ASUS GPU tweak software to turn up the clock speed for 2d mode; there is a known problem with screen-blanking during fullscreen video otherwise.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "DSimon",
+      "helpful_votes": 0,
+      "publication_date": 20150223
+    },
+    {
+      "title": "Much improved user experience",
+      "text": "I didn't realize how much this would improve my user experience. I had a 512 MB video card before. I don't use my pc for gaming, but this card help speed up working with pictures,and using PDF documents.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "jeffkoe",
+      "helpful_votes": 0,
+      "publication_date": 20150607
+    },
+    {
+      "title": "... the same price but sapphire and amd did a great",
+      "text": "this card has been a tank the whole time I've owned it overclocking and taking it apart multiple times I cant recoment buying it in 2017 because there are much more powerful cards for around the same price but sapphire and amd did a great job",
+      "rating": 5.0,
+      "verified": true,
+      "author": "nire05",
+      "helpful_votes": 0,
+      "publication_date": 20170807
+    },
+    {
+      "title": "Very cost effective.",
+      "text": "This card is very cost effective considering the price. I installed this in my computer as soon as I got it. It was easy to get the drivers and everything up and running, and I noticed a SIGNIFICANT boost in performance in all of my games!",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Alec",
+      "helpful_votes": 0,
+      "publication_date": 20140630
+    },
+    {
+      "title": "Pretty, Easy & Powerful",
+      "text": "Not a technical guy but this seemed like a generally best value for the buck graphics card in the ~$100 range (got it on discount!). Showed up lookin all pretty, installation was easy, had no problems. Use it to play Civilization: Beyond earth with no issues. Even play Star citizen which requires significantly more firepower - and this can handle with no trouble. Happy customer :)",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Shubhankan",
+      "helpful_votes": 0,
+      "publication_date": 20141210
+    },
+    {
+      "title": "Works great out of the box.",
+      "text": "Got this for my daughters computer and she loves the upgrade from a 640. First tried the DVI and nothing happened but then realized the the adapter in the box was different then the one we were using so switched them and no problems.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "11Western",
+      "helpful_votes": 0,
+      "publication_date": 20140808
+    },
+    {
+      "title": "Radeon customer support was horrible and after verifying that my machine could handle the ...",
+      "text": "Product was not compatible with my system, although it met all system requirements. Radeon customer support was horrible and after verifying that my machine could handle the card only gave me the suggestion to \"take it to a friends house and try it on their computer to verify that it was defective.\". Trying a MSI Geforce 650 Ti, and waiting on that to come in.",
+      "rating": 2.0,
+      "verified": true,
+      "author": "Erin Wasson",
+      "helpful_votes": 0,
+      "publication_date": 20141116
+    },
+    {
+      "title": "Pretty good!",
+      "text": "So far this graphics card has been running great. Haven't pushed it to the max yet to see what it can handle. Will update my review once I do.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "David",
+      "helpful_votes": 0,
+      "publication_date": 20150323
+    },
+    {
+      "title": "It would have been a nice card. Sadly if failed after 3",
+      "text": "It would have been a nice card. Sadly if failed after 3.5 months, so fan/cooling is stopped working and the card overheats and reboots the PC.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "Jaminton",
+      "helpful_votes": 0,
+      "publication_date": 20150327
+    },
+    {
+      "title": "Good 1080P card for most titles.",
+      "text": "Good card for most 1080P game play on most modern titles. Still worth picking up if on sale.",
+      "rating": 4.0,
+      "verified": true,
+      "author": "tORN TV",
+      "helpful_votes": 0,
+      "publication_date": 20151118
+    },
+    {
+      "title": "VERY FAST",
+      "text": "MUCH MORE THAN I EXPECTED! I can run Minecraft between 250-500 fps on high settings!",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Seth A.",
+      "helpful_votes": 0,
+      "publication_date": 20150423
+    },
+    {
+      "title": "Very solid, Nice GPU overall",
+      "text": "Super quiet, eats most of my games without a flinch and does what I want it to really fast. Solid GPU for the price, don't regret my decision Protip: Make sure to change yur BIOS setup to Legacy if yur motherboard is beeping at you, foxed the issues I had with this GPU",
+      "rating": 5.0,
+      "verified": true,
+      "author": "James H.",
+      "helpful_votes": 0,
+      "publication_date": 20150408
+    },
+    {
+      "title": "Great video card",
+      "text": "Great video card, so far all i have played have runnedsmoothly and it sells for a really good price. Totally recommended for budget gamers looking for the best price-perfomance ratio.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Veronica",
+      "helpful_votes": 0,
+      "publication_date": 20150421
+    },
+    {
+      "title": "Awesome card, used to play mid-low high gaming",
+      "text": "Awesome card, used to play mid-low high gaming :D very useful for those that don't plan to play full max on newer games. :D",
+      "rating": 5.0,
+      "verified": true,
+      "author": "JAN",
+      "helpful_votes": 0,
+      "publication_date": 20150520
+    },
+    {
+      "title": "Good value GPU",
+      "text": "Good value GPU, however, I assume you're here for Austin's Photon Build, a much better GPU to install would be an EVGA GTX 750 TI FTW. Still good though.",
+      "rating": 4.0,
+      "verified": true,
+      "author": "Cheeto",
+      "helpful_votes": 0,
+      "publication_date": 20150623
+    },
+    {
+      "title": "Great Card!",
+      "text": "I have had this card for a year and it soon being replaced by a GTX 960 100ME. The only reason it will be replaced is my determination to have a better PC than my buddies. This card is great and does everything I could ask and more. The only problem I had with it was my own fault of not buying a big enough power supply (Corsair CX430).",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Britt K.",
+      "helpful_votes": 0,
+      "publication_date": 20150602
+    },
+    {
+      "title": "Good video card",
+      "text": "A great product at a great price. It was an upgrade for me and I love it.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Chevy Man",
+      "helpful_votes": 0,
+      "publication_date": 20141013
+    },
+    {
+      "title": "but the performance is fantastic for the price",
+      "text": "The HDMI port is kinda finnicky in whether it wants to give signal, but the performance is fantastic for the price.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Ryan Suarez-Melcon",
+      "helpful_votes": 0,
+      "publication_date": 20150426
+    },
+    {
+      "title": "Five Stars",
+      "text": "Great Card to start out with but I highly recommed the R9 270x card too.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Josh Cordero",
+      "helpful_votes": 0,
+      "publication_date": 20150204
+    },
+    {
+      "title": "Loved this one",
+      "text": "Great graphics card, easy install, works great, great picture. Would buy again. Worked on a new computer built as hoped",
+      "rating": 5.0,
+      "verified": true,
+      "author": "A Chronic Wanderer",
+      "helpful_votes": 0,
+      "publication_date": 20140513
+    },
+    {
+      "title": "Excellent",
+      "text": "Fits perfectly in very low profile computers and has specs to spare for days.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "SpectrHz",
+      "helpful_votes": 0,
+      "publication_date": 20150729
+    },
+    {
+      "title": "Does everything I want and need it to without having ...",
+      "text": "Does everything I want and need it to without having to spend all my money on one computer part. For Battlefield Hardline I average about 30-40 fps with this.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "John LeSage",
+      "helpful_votes": 0,
+      "publication_date": 20150617
+    },
+    {
+      "title": "Very nice",
+      "text": "Put this in my new gaming rig, and it is great! I am new to PC gaming so I don't have very many games yet, but the ones I do have run very nicely at max settings.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Kindle Customer",
+      "helpful_votes": 0,
+      "publication_date": 20140703
+    },
+    {
+      "title": "they were just what I need to upgrade my computer ...",
+      "text": "they were just what I need to upgrade my computer for a new game (Far Cry 4) that I had purchased..thanks",
+      "rating": 5.0,
+      "verified": true,
+      "author": "orville toles",
+      "helpful_votes": 0,
+      "publication_date": 20150331
+    },
+    {
+      "title": "Respectable card",
+      "text": "This card has a great bang for its buck, Im able to play most of my games on high/ultra its a great budget pc.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Daniel Gil",
+      "helpful_votes": 0,
+      "publication_date": 20140617
+    },
+    {
+      "title": "Five Stars",
+      "text": "Running all my games on ultra and getting good framerates. For the price it's a really solid deal.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Aarron M Dixon",
+      "helpful_votes": 0,
+      "publication_date": 20140918
+    },
+    {
+      "title": "Great value gaming card",
+      "text": "Not really a hardcore gamer, but adds a lot of zip to my games.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "DC Guy",
+      "helpful_votes": 0,
+      "publication_date": 20140714
+    },
+    {
+      "title": "Great card. Could use better cooling though",
+      "text": "Great card. Could use better cooling though; I easily hit late 70s while playing demanding games. While that may be \"safe\", it makes me feel a little edgy. Otherwise, great performance for the price tag: I can play Total War: Rome 2 and Company of Heroes 2 at 50+ FPS on high settings @ 1440x900.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Aamir Khan",
+      "helpful_votes": 0,
+      "publication_date": 20141002
+    },
+    {
+      "title": "Works awesome with my 6-core",
+      "text": "Downloaded the current drivers from AMD instead of using the CD.. Works awesome with my 6-core AMD",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Matthew Stone",
+      "helpful_votes": 0,
+      "publication_date": 20141011
+    },
+    {
+      "title": "All of my basic computer and casual gaming desires met with this card.",
+      "text": "Easy to install, no driver issues, all desktop and casual and more demanding games perform very well. Don't expect to use this for BF4 or some modern game, but it can handle them.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "First Cool Guy",
+      "helpful_votes": 0,
+      "publication_date": 20140602
+    },
+    {
+      "title": "He is very happy.",
+      "text": "Got this for my son's birthday. He is very happy.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Michele R",
+      "helpful_votes": 0,
+      "publication_date": 20150411
+    },
+    {
+      "title": "Ultra Quality Visuals for $100",
+      "text": "Useful for modern gaming needs, plays every game at ultra settings and uses very little power. I have this paired with a 430watt power supply and a Haswell i5 and it is a perfect solution for my gaming needs.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Becca",
+      "helpful_votes": 0,
+      "publication_date": 20141130
+    },
+    {
+      "title": "Good value",
+      "text": "I found this to be a pretty dang good card. For the price, you can't beat it. It will run some really good looking games on ultra settings really well.",
+      "rating": 4.0,
+      "verified": true,
+      "author": "Nathen Zook",
+      "helpful_votes": 0,
+      "publication_date": 20140915
+    },
+    {
+      "title": "Five Stars",
+      "text": "Its a pretty good graphics card and plays every game I like so far no problem!",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Kelli",
+      "helpful_votes": 0,
+      "publication_date": 20141202
+    },
+    {
+      "title": "Great budget card for a beginning gaming rig",
+      "text": "Great budget card for a beginning gaming rig. Ran Shadows of Mordor on a custom setting with a mix of medium and high at about 45fps.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Arthur",
+      "helpful_votes": 0,
+      "publication_date": 20150730
+    },
+    {
+      "title": "... these for upgraded computers and the graphics are very nice.",
+      "text": "Bought 2 of these for upgraded computers and the graphics are very nice.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Kindle Customer",
+      "helpful_votes": 0,
+      "publication_date": 20150523
+    },
+    {
+      "title": "Awesome GPU",
+      "text": "I had it for a month now and it's performing great. Awesome gpu. It plays most of the game currently out now and i ask for nothing more. I highly recommend it",
+      "rating": 4.0,
+      "verified": true,
+      "author": "gaetan",
+      "helpful_votes": 0,
+      "publication_date": 20141227
+    },
+    {
+      "title": "Awesome gpu, runs most all new games at decent ...",
+      "text": "Awesome gpu, runs most all new games at decent if not better settings. dayz, rust, minecraft, theif, murdered soul suspect etc...",
+      "rating": 5.0,
+      "verified": true,
+      "author": "joanna torres",
+      "helpful_votes": 0,
+      "publication_date": 20140824
+    },
+    {
+      "title": "Five Stars",
+      "text": "This is amazing I plug my pc right into my hdmi tv and play",
+      "rating": 5.0,
+      "verified": true,
+      "author": "derrek thompson",
+      "helpful_votes": 0,
+      "publication_date": 20140818
+    },
+    {
+      "title": "... using it for several months now and it works great. If you're looking for a quality video card ...",
+      "text": "been using it for several months now and it works great. If you're looking for a quality video card at a decent price, this is a great option. I don't overclock it and I can play all of my games at max graphics without any problems. I play Smite, Payday 2, Team Fortress 2, Trove, and Skyrim with it.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Shlean",
+      "helpful_votes": 3,
+      "publication_date": 20141222
+    },
+    {
+      "title": "Great cheap graphics card",
+      "text": "Has a lot of power for its price. I bought this for the PC version of dragon age inquisition and it runs well on high",
+      "rating": 5.0,
+      "verified": true,
+      "author": "J Shaw",
+      "helpful_votes": 0,
+      "publication_date": 20150214
+    },
+    {
+      "title": "Decent card, although if you are a heavy gamer ...",
+      "text": "Decent card, although if you are a heavy gamer, I would rather suggest to get a video card with more memory.",
+      "rating": 4.0,
+      "verified": true,
+      "author": "Alim",
+      "helpful_votes": 0,
+      "publication_date": 20150623
+    },
+    {
+      "title": "Not a good transaction",
+      "text": "Not happy with this transaction item was not as described.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "Marc30",
+      "helpful_votes": 0,
+      "publication_date": 20151107
+    },
+    {
+      "title": "Needed a mid range video card",
+      "text": "My video card died and I needed a mid range card quickly. Thanks to Prime I received this next day. I do not play video games, I need fast screen refresh and VM compatibility. This card fills the bill. It also uses less power then the card it is replacing. Over all, I am very happy.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "coach georgeTop Contributor: Photography",
+      "helpful_votes": 0,
+      "publication_date": 20140316
+    },
+    {
+      "title": "Compatible with 8 year old system and yes, this works with the old PCI express x16",
+      "text": "Works with Core 2 duo, socket 775, CPU Intel 8600, PCI Ex x16. Win 7 ultimate. 4 gig memory. 256 gig SSD, 430 watt gold supply, and an old faithful ASUS P5GC-MX 1333 mobo. Graphics and 3D performance both went from 3.5 to 7.7. Memory is 5.9, Processor 6.7, and SSD is 7.4 I'm a little amazed at the backwards compatibility and will put off updating my mobo for a while. When I update, this GPU and SSD will be compatible with anything, which is what I wanted to do. Run this old system till it falters. I will post any problems if they come.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Tom K.",
+      "helpful_votes": 10,
+      "publication_date": 20140726
+    },
+    {
+      "title": "Good card",
+      "text": "Love it, i was needing a good videocard to play games this works great",
+      "rating": 5.0,
+      "verified": true,
+      "author": "jmoney",
+      "helpful_votes": 0,
+      "publication_date": 20150831
+    },
+    {
+      "title": "Good but buggie drivers",
+      "text": "Good but still has some buggy drivers. Sometimes it goes black, but it is random so it isn't overheating or such. The drivers are just still being stabilized.",
+      "rating": 4.0,
+      "verified": true,
+      "author": "Teresa Lemarroy",
+      "helpful_votes": 0,
+      "publication_date": 20140903
+    },
+    {
+      "title": "Fantastic card!",
+      "text": "It was a great card! can run most games on medium to high settings I love it",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Andrew S.",
+      "helpful_votes": 0,
+      "publication_date": 20140821
+    },
+    {
+      "title": "Perfect for the price",
+      "text": "Works exactly as I wanted it to. Perfect for the price.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Tommy K",
+      "helpful_votes": 0,
+      "publication_date": 20150218
+    },
+    {
+      "title": "Very good",
+      "text": "5 Stars because it ran all my games maxed out. ran a bit hot ~70C at full speed but that's my towers fault Would recommend to everyone",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Vajeeh Siddiqui",
+      "helpful_votes": 0,
+      "publication_date": 20140612
+    },
+    {
+      "title": "Sapphire Radeon R7260X OC",
+      "text": "I got this GPU for $130 a few months ago, and its a good card. Along with a FX 4100, it runs Arma 3 at (almost) max settings, and titanfall at medium-high settings @ 60-70 fps. Skyrim runs beautifully, along with most other games i throw at it (all at 1920x1080). This is the perfect entry-level card, and i regret not getting it earlier. It could probably run other games at the same resolution, with Antialiasing turned down, along with shadows. 4.5 / 5.",
+      "rating": 4.0,
+      "verified": true,
+      "author": "Amazon Customer",
+      "helpful_votes": 3,
+      "publication_date": 20140429
+    },
+    {
+      "title": "I can finally play all my steam games",
+      "text": "Works great, it's everything I wanted for gaming on my computer at a good price.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Frank",
+      "helpful_votes": 0,
+      "publication_date": 20140828
+    },
+    {
+      "title": "Five Stars",
+      "text": "Best card i have ever had. Plays all the games i have on high settings.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Riley C.",
+      "helpful_votes": 0,
+      "publication_date": 20150128
+    },
+    {
+      "title": "Entry level card for a great price.",
+      "text": "An amazing small form factor card for the budget gamer. Runs all games new and old very well on high and even ultra with no problems whatsoever paired with a 3.8ghz Richland CPU. Stock fan is relatively quite and should fit in almost all small form factor PCs. Great entry level card to get the job done!",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Mason Jordan",
+      "helpful_votes": 13,
+      "publication_date": 20140403
+    },
+    {
+      "title": "Great card for the price",
+      "text": "Very nice GPU for the price I paid. It is nice to have a cheaper high performance option from ATI.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "M. Kendrick",
+      "helpful_votes": 0,
+      "publication_date": 20140422
+    },
+    {
+      "title": "Very nice performance, quiet, and cold video card!!!",
+      "text": "I bought this card and was able to compare to ASUS 650ti boost oc 2gb and I can say that R7-260x pretty close or may be similar to 650ti boost, but more quieter and colder. I had just some problems with drivers (windows installed drivers by default), but after updating drivers from disc, which was in a package with this video card, everything worked fine. I would recommend this product to everyone!",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Yury",
+      "helpful_votes": 20,
+      "publication_date": 20140213
+    },
+    {
+      "title": "Two Stars",
+      "text": "Not great to be honest, I returned for a Geforce 750Ti and I've never been happier.",
+      "rating": 2.0,
+      "verified": true,
+      "author": "Colin B.",
+      "helpful_votes": 0,
+      "publication_date": 20151128
+    },
+    {
+      "title": "Was pretty good to start as an upgrade",
+      "text": "Was pretty good to start as an upgrade, however don't get this if you are planning to play graphic intensive games as they will chug alittle on the frames with the current standard.",
+      "rating": 4.0,
+      "verified": true,
+      "author": "Arma",
+      "helpful_votes": 0,
+      "publication_date": 20170322
+    },
+    {
+      "title": "Good for 4k TVs",
+      "text": "I got this to run my new 50 inch Seiki 4k TV as a monitor. The combination does a great job and it makes all my DSLR pictures look terrific also I can't believe how clear and precise text looks on this monitor. 3840 X 2160, 50\" no motion blur on video. If you've got the space for this larger monitor, this is the way to go for a desktop computer.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Amazon Customer",
+      "helpful_votes": 13,
+      "publication_date": 20140317
+    },
+    {
+      "title": "is a good video card and I can play bf4 ultra set",
+      "text": "is a good video card and I can play bf4 ultra set. but when my pc is idle the video turns off after 5 minutes and my pc freezes then I have to reboot it",
+      "rating": 2.0,
+      "verified": true,
+      "author": "Stanislao",
+      "helpful_votes": 0,
+      "publication_date": 20140801
+    },
+    {
+      "title": "Deal",
+      "text": "Amazing difference from an integrated gpu. I like it so much I convinced my buddy to buy the same one and he loves his to",
+      "rating": 5.0,
+      "verified": true,
+      "author": "John",
+      "helpful_votes": 2,
+      "publication_date": 20140302
+    },
+    {
+      "title": "One Star",
+      "text": "One power outage and now it catches on fire. Plugged into a power surge protector as well.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "Malik Anderson",
+      "helpful_votes": 0,
+      "publication_date": 20170519
+    },
+    {
+      "title": "Best Performance For The Price",
+      "text": "This R7 260X GPU is simply beautiful for an entry level card. It's been rock solid ever since I put it in and runs nice and cool even under some load. It beats the older, outdated Sapphire Radeon HD 7770 with 10% higher clock speed, way higher memory clock speed, 1.5x GFLOPs, higher memory bandwidth, more compute units, more shading units, and slightly more texture mapping units, not to mention double the graphics memory. And yes, don't worry, it handles Minecraft like a dream even on maxed out settings. ;)",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Joshua L. Beckett",
+      "helpful_votes": 14,
+      "publication_date": 20140318
+    },
+    {
+      "title": "Great upgrade from ATI HD 5670",
+      "text": "This card runs games on ultra settings with good frame rates and you only need a 500 Watt power supply to run it.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "william jason stephens",
+      "helpful_votes": 14,
+      "publication_date": 20140318
+    },
+    {
+      "title": "Doesn't play nice with Nvidia.",
+      "text": "Could not get it to work. I have a Nvidia chip mother board and for whatever reason this card did not want to play nice. With no drivers it would load windows. But put a load on (play a movie) CRASH BLUE SCREEN. With drivers BLUE SCREEN. Tried this on TWO different computers. Both have run Radeon cards. One I took a Radeon out to try this card, Crash. Sent the first card back and got a replacement. Waited for help on the next card install but was two days late to return the last card. Gave it away.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "Dan",
+      "helpful_votes": 0,
+      "publication_date": 20140831
+    },
+    {
+      "title": "Excelent!",
+      "text": "Excelente card, pretty fast, it runs Battlefield 4 in ultra settings perfectly I also used it for 3Ds max model and Zbrush 3D models, and it runs great big projects with alot of polygons without lag. above my expectations!",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Manuel M.",
+      "helpful_votes": 0,
+      "publication_date": 20140406
+    },
+    {
+      "title": "I like it.",
+      "text": "Bought it as a replacement for my older Nvidia GTX550. A nice mid-range card that doesn't break your wallet. Haven't noticed anything wrong with it yet.",
+      "rating": 4.0,
+      "verified": true,
+      "author": "Richard Johnson",
+      "helpful_votes": 0,
+      "publication_date": 20140207
+    },
+    {
+      "title": "Loud fan vibration started within 3 months, Amazon policy ...",
+      "text": "Loud fan vibration started within 3 months, Amazon policy for return is only 1 month?! No repair or return... I'm stuck with no other avenue to follow. Wonder what the electronic stores offer?",
+      "rating": 1.0,
+      "verified": true,
+      "author": "Bruce R. Staubitz",
+      "helpful_votes": 0,
+      "publication_date": 20141013
+    },
+    {
+      "title": "Disappointed",
+      "text": "I am thoroughly disappointed with my first Radeon card. Performance is alright, some modern games require pretty low graphics to play smoothly and I've had other issues that I suspect are related to the card. Linux support is abysmal; in fact, I was not successful in getting any of a number of distributions to run stable. Readers will have to take my word that I am computer software/hardware savvy. I will not boycott Radeon just yet but this card was an awful disappointment.",
+      "rating": 2.0,
+      "verified": true,
+      "author": "Kyle",
+      "helpful_votes": 0,
+      "publication_date": 20140422
+    },
+    {
+      "title": "Amazon should not be selling this...",
+      "text": "Unless your`re lucky to make this work from the start, this card its a total nightmare... Since i bought this card i have been experiencing tons of problems like black screen freezes, video flickering, BSOD that happens randomly. I took my PC to tech help and they haven`t seen anything like this before! Its not like the card is DOA, i can flawlessy run some benchmarks, but the drivers are completely messed up!! None of them works properly, and i have tried them all!! If you google 270X Problems you will see many guys with the same problem as i. If you don`t want to waste your money... Don`t buy this.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "Samuel Lobao",
+      "helpful_votes": 2,
+      "publication_date": 20140408
+    }
+  ],
+  "product_meta": {
+    "title": "Sapphire Radeon R7 260X 2GB GDDR5 HDMI/DVI-I/DP OC Version PCI-Express Graphics Card 11222-06-20G",
+    "description": "SAPPHIRE R7 260X with new AMD True Audio Technology, enable games feature more realistic environmental dynamics, sound effects, and directional audio. With new AMD Infinity Technology, R7 260X now supports up to 3 monitors without Display Port connected. With 2GB of the latest GDDR5 memory and 896 stream processors, and support for DirectX 11.2, the architecture is built to play the very latest games with perfectly smooth action even at higher resolutions.",
+    "rating": 4,
+    "feature_bullets": [
+      "128-bit GDDR5",
+      "1 x Dual-Link DVI-I",
+      "1 x HDMI",
+      "1 x Display Port"
+    ],
+    "specifications": {
+      "Standing screen display size": "8.5 Inches",
+      "Max Screen Resolution": "2560 x 1600",
+      "Memory Speed": "1500 MHz",
+      "Graphics Coprocessor": "AMD Radeon",
+      "Chipset Brand": "AMD",
+      "Graphics Card Ram Size": "2 GB",
+      "Brand": "Sapphire Technology",
+      "Item model number": "11222-06-20G",
+      "Item Weight": "1.8 pounds",
+      "Product Dimensions": "10.5 x 2.5 x 6.5 inches",
+      "Item Dimensions  LxWxH": "10.5 x 2.5 x 6.5 inches",
+      "Manufacturer": "SAPPHIRE",
+      "ASIN": "B00HJOKCZI",
+      "Is Discontinued By Manufacturer": "No",
+      "Date First Available": "December 24, 2013",
+      "Customer Reviews": "4.0 out of 5 stars153 ratings4.0 out of 5 stars",
+      "Best Sellers Rank": "#1,531 in Computer Graphics Cards"
+    },
+    "categories": [
+      "Computers & Accessories",
+      "Internal Components",
+      "Computer Components",
+      "Electronics",
+      "Graphics Cards"
+    ],
+    "price": ""
+  }
+}

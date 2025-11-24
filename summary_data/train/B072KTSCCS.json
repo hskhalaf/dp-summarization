@@ -1,0 +1,957 @@
+{
+  "website_summaries": [
+    {
+      "verdict": "Intel's Core i9-7900X features a 10-core processor at a significant discount compared with last year's Extreme Edition processor. It heralds renewed competition between AMD and Intel for the high-end PC buyer.",
+      "pros": [
+        "10 cores and 20 processing threads for $999",
+        "Speedy single-threaded performance"
+      ],
+      "cons": [
+        "Relatively pricey",
+        "Requires new, expensive motherboard",
+        "Not the fastest at Full HD gaming",
+        "Runs hot"
+      ],
+      "aspects": {},
+      "publication_date": 20170630,
+      "rating": 8.0,
+      "source": "pcmag"
+    }
+  ],
+  "customer_reviews": [
+    {
+      "title": "no complaints here",
+      "text": "thought i was going to miss my 2 xeon 5650's but with this i've noticed no major loss (apart from heavy CAD type things) but it seeems to like being slightly over-clocked seems more stable at 4Ghz just got to have the cooling for it. It will qite happily boost itself to 5ghz with no issues either",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Goodwww1n",
+      "helpful_votes": 0,
+      "publication_date": 20180820
+    },
+    {
+      "title": "Awesome chip if you have the cash",
+      "text": "I paired it witha corsair H150i rgb pro cooler and its temps sit around 30 deg on idle and 50 ish under load. I coudlnt quite get mine to 5ghz under overclocking but I'm happy with 4.8 over 8 cores and 16 threads. I feel that this chip sits right on the balance point of price versus performance for the x299 chips. Highly recomended.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Ashley",
+      "helpful_votes": 0,
+      "publication_date": 20190223
+    },
+    {
+      "title": "this is a very good processor",
+      "text": "i cant really complain, i got it for a fraction of its price on the sale, really stable, not the best for gaming tbh, if you are searching something for games pick up a K processor instead of an X",
+      "rating": 4.0,
+      "verified": true,
+      "author": "Yelnur",
+      "helpful_votes": 0,
+      "publication_date": 20181105
+    },
+    {
+      "title": "Not to buy one",
+      "text": "Got this home and didn\u2019t work in my sons pc it specifies fits a i5 mother board but it doesn\u2019t",
+      "rating": 1.0,
+      "verified": true,
+      "author": "christina",
+      "helpful_votes": 2,
+      "publication_date": 20181208
+    },
+    {
+      "title": "Work horse, reliable and powerful.",
+      "text": "I bought the i7-7800x, I overclocked it to 4.9Ghz using a 360mm water cooler and I'm using it for CFD simulations using small meshes, where parallelisation does not benefit much from 4-6 cores. The poor chip has been running full load 24/7 since I bought it (about a month ago) and its still going strong. Thoroughly impressed.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Darren",
+      "helpful_votes": 0,
+      "publication_date": 20180408
+    },
+    {
+      "title": "Great CPU but X299 board is expensive",
+      "text": "Great CPU, awesome paired with GTX1070. Bought when on offer which helped offset the cost of X299 board. Not sure I would have paid full price though as z270/370 boards so much cheaper and there is almost no difference in performance between this and 7700k",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Martin H.",
+      "helpful_votes": 5,
+      "publication_date": 20180115
+    },
+    {
+      "title": "Amazing Amazon Prime Deal",
+      "text": "Amazing price for Prime subscribers, bought to upgrade a PC that was running a older i7 that my new Rift didn't get on with too well. VR is now a dream, you can really get lost in the world and it's as smooth as anything. Please remember to get a decent cooler to use this with though, you don't want to get it too over-heated",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Charles Astwood",
+      "helpful_votes": 3,
+      "publication_date": 20180105
+    },
+    {
+      "title": "Not happy I put in an order for a NEW Un ...",
+      "text": "Not happy I put in an order for a NEW Un opened NEW i7-7820X Processor and the one that comes today is an opened and you can see were the past has been.",
+      "rating": 2.0,
+      "verified": true,
+      "author": "emma",
+      "helpful_votes": 8,
+      "publication_date": 20180618
+    },
+    {
+      "title": "Great CPU",
+      "text": "The processor itself has worked wonderfully, the only reason I gave 4 rather than 5 stars was the delay in receiving the CPU and having to re-order it. Amazon, as usual, were brilliantly helpful when aiding me",
+      "rating": 4.0,
+      "verified": true,
+      "author": "Kam",
+      "helpful_votes": 2,
+      "publication_date": 20180105
+    },
+    {
+      "title": "Worth the money spent",
+      "text": "Just upgraded from AMD one and what a diff in the fps reached in the gsmes",
+      "rating": 5.0,
+      "verified": true,
+      "author": "ManSil",
+      "helpful_votes": 5,
+      "publication_date": 20170912
+    },
+    {
+      "title": "Great chip if you are happy to get an x299",
+      "text": "Amazing price, I picked this up for 179.99. Powerful chip 4.3ghz to a boosted 4.5. Only downside is the x299 mobo requirement.",
+      "rating": 4.0,
+      "verified": true,
+      "author": "chris everitt",
+      "helpful_votes": 5,
+      "publication_date": 20171218
+    },
+    {
+      "title": "Superb. Beats the competition hands down.",
+      "text": "Top CPU in 12 out of 16 reviews of games and equal second or third in others. Not so quick as the multicore CPUs as you'd expect so you pays your money and takes your choice. Takes 112W so you'll need a good stable powerful PS and fan/cooler. For the money you cannot find a more potent chip. Very overclockable with the right board they say.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "DNY",
+      "helpful_votes": 9,
+      "publication_date": 20180111
+    },
+    {
+      "title": "Decent",
+      "text": "Had issues with this and not as good as it's twin brother 7800x",
+      "rating": 2.0,
+      "verified": true,
+      "author": "Sam Young",
+      "helpful_votes": 0,
+      "publication_date": 20180124
+    },
+    {
+      "title": "Do your research, please!!!",
+      "text": "Not worth the at all, just buy i7 7700K and will thank me later.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "Ivo",
+      "helpful_votes": 2,
+      "publication_date": 20180507
+    },
+    {
+      "title": "THIS ITEM HAS BEEN USED. NO MENTION IN DESCRIPTION.",
+      "text": "This item just arrived and is an OPEN BOX and you can clearly see the that thermal paste was wiped off and this CPU was previously installed. Amazon Customer service will let me install and I hope it is fully functional. Great price if item was new but not so much with a used processor. Serial numbers do match with outside box. This is completely unacceptable to not mention that the item is open box... Good Luck!",
+      "rating": 1.0,
+      "verified": true,
+      "author": "Mark G.",
+      "helpful_votes": 21,
+      "publication_date": 20190124
+    },
+    {
+      "title": "Not what expected",
+      "text": "When we received the chip it was in an I9 box and it look official from Intel. But when we tried to put it into the motherboard, we noticed that all the code numbers had been buffed off and it was a complete counterfeit. Pretty bad to fake a $2K chip. Be on the look out here for this.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "Preston Smith",
+      "helpful_votes": 10,
+      "publication_date": 20190130
+    },
+    {
+      "title": "What the heck?!?",
+      "text": "I\u2019m afraid to open it. Holy crap. I think they kicked this thing down the road a few times.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "B3L13V3R",
+      "helpful_votes": 9,
+      "publication_date": 20190102
+    },
+    {
+      "title": "Great processor, fast!",
+      "text": "Probably my favorite processor to date and I have owned many over the years, the thing is fast, has lots of cores, handles my heavy workloads and games with ease. I am so much more efficient than coworkers compiling code. I love it. Get it when it is clearanced price...Full price I would probably get something else as full price on this is too much.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Amazon Customer",
+      "helpful_votes": 4,
+      "publication_date": 20180812
+    },
+    {
+      "title": "I had a hole in my pocket, now I'm without a job.",
+      "text": "You ever just think life is going to be awesome and nothing will change? After I clicked order some medical expenses came up and I was like... why did I just drop 2grand on a CPU when I could have bought 5 8700K's and still had money left over? Either way, I think it's a great processor for Video/Compression/Uncompressing so I might just have to dump this build to a PLEX/Emby server and let the bullet just be bit.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "NegroISO",
+      "helpful_votes": 0,
+      "publication_date": 20180920
+    },
+    {
+      "title": "Horrible processor.",
+      "text": "Horrible processor. Do not ever buy Intel. AMD makes processors with more cores for 75% less of the price. 2 cores are dead only after a month of zbrushing 14 hours a day. That should not be a problem. None of them are overheating. I keep a good eye on them. go with the x399 motherboard series and save a couple grand.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "anonymous32",
+      "helpful_votes": 0,
+      "publication_date": 20190520
+    },
+    {
+      "title": "THIS CPU did not work, I bought it new ...",
+      "text": "THIS CPU did not work, I bought it new and received a beat up box and looked slightly different than pictures. This is so frustrating!",
+      "rating": 1.0,
+      "verified": true,
+      "author": "Ezequiel",
+      "helpful_votes": 2,
+      "publication_date": 20180914
+    },
+    {
+      "title": "Eight codres, 16 threads, what's not to like?",
+      "text": "Darn thing is fast. Going from an old Nathelhem chip to this monster, what a difference! A video file conversion that used to take about 2 minutes to achieve, I ran in 39 seconds. Love it!",
+      "rating": 5.0,
+      "verified": true,
+      "author": "video_man",
+      "helpful_votes": 2,
+      "publication_date": 20180526
+    },
+    {
+      "title": "Wow... 7980XE",
+      "text": "Never can beat it !!! It would appear that thy i9 9980xe is not able to handle temperature as thy i9 7980XE (I have this)... What am I to think when thy temperature says 84 Celsius and 94 Celsius for thy 7980XE????? I guess it does not take thy heat very well? I now need a custom cooling loop yet I chose \"hybrid\" w/ i9 7980XE this is thy better processor!!!!! I am grateful to intel for this if it is true, I have desire to OC, ty intel... Even Kingpin does OC w/ i9 7980XE! We shall see.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Amends-1",
+      "helpful_votes": 0,
+      "publication_date": 20180621
+    },
+    {
+      "title": "Amazing processor - finally an upgrade worth doing from my ...",
+      "text": "Amazing processor - finally an upgrade worth doing from my 3930K. About 3-4 times faster in Cinebench than I was getting before.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Ben Jackson",
+      "helpful_votes": 3,
+      "publication_date": 20180808
+    },
+    {
+      "title": "Reliably Overclocks To 4.6GHz",
+      "text": "Installed in an ASROCK Taichi XE motherboard with a large Noctua cooler and used the BIOS' built-in auto-overclocking feature to push the CPU to 4.6GHz and it performed flawlessly under several stress tests. Recommended for setups where clock speed is more important than the number of cores",
+      "rating": 5.0,
+      "verified": true,
+      "author": "MadRhino",
+      "helpful_votes": 0,
+      "publication_date": 20180716
+    },
+    {
+      "title": "Monster Processer",
+      "text": "Just absolutely powerful. This will stand the test of time for many years to come.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "mike covello",
+      "helpful_votes": 0,
+      "publication_date": 20190826
+    },
+    {
+      "title": "I won the Lottery",
+      "text": "first time I got a great chip and won the silicone lottery, it OC's very nice with low voltage and stays pretty low in temp even under load, water cooling is a must of course",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Det",
+      "helpful_votes": 0,
+      "publication_date": 20190731
+    },
+    {
+      "title": "Works Great",
+      "text": "Nice value for the money. It's super fast. I have it OC'ed to 4.9Mhz at 71*C. Very stable at that speed and temp. Great CPU if you don't want the absolute newest available.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "EH",
+      "helpful_votes": 0,
+      "publication_date": 20190114
+    },
+    {
+      "title": "Awesome",
+      "text": "Computer boots in no time, runs as much stuff as I like without slowing down.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Mark",
+      "helpful_votes": 0,
+      "publication_date": 20190624
+    },
+    {
+      "title": "It's fast. But, as far as single core ...",
+      "text": "It's fast. But, as far as single core performance goes (mostly for thermodynamic calculations and some Monte Carlo analysis in Excel) it is not faster than my 4 year old i7-4770. For certain calculations it is actually slower, though not so much that you would notice if not timing it. But, the additional cores and more memory capacity of the X299 platform will be helpful for running more VMs which is why I bought it. If you don't need all of the cores don't buy this, it's much cheaper to just go with a non-HEDT i7.",
+      "rating": 3.0,
+      "verified": true,
+      "author": "dajasc",
+      "helpful_votes": 6,
+      "publication_date": 20171120
+    },
+    {
+      "title": "Insane workhorse.",
+      "text": "I upgraded from the 7700k. This processorbis a beast. Only issue is cooling. Use conductonaut.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Jonathan",
+      "helpful_votes": 2,
+      "publication_date": 20180629
+    },
+    {
+      "title": "Excellent processor, but pricey",
+      "text": "Excellent processor. It runs very cool with a corsair h100i cooler. I haven't stressed it yet. On a somewhat unrelated note, thank you Amazon for your return policy. The first processor was the wrong one (correct box, but Xeon processor), and the second was faulty/damaged. While it was a bit stressful on my end, Amazon didn't give me any trouble with two returns for this one item.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Kindle Customer",
+      "helpful_votes": 6,
+      "publication_date": 20171229
+    },
+    {
+      "title": "Intel i7 7800x",
+      "text": "Intel is way overpriced but this 7800x does perform very well if money isn\u2019t a huge factor for you.",
+      "rating": 4.0,
+      "verified": true,
+      "author": "Trystn Taylor",
+      "helpful_votes": 0,
+      "publication_date": 20181025
+    },
+    {
+      "title": "Keeps your computer running smooth.",
+      "text": "Lovely little piece great for 3d workstation power and just keeping the computer running smoothly.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Mech Man",
+      "helpful_votes": 0,
+      "publication_date": 20180311
+    },
+    {
+      "title": "Very solid and powerfull CPU. I had i7 6700 ...",
+      "text": "Very solid and powerfull CPU. I had i7 6700 overclocked to 4.6 but with 7820x even basic tasks are very smooth and fast. Worth it every penny, no regrets.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "DMA",
+      "helpful_votes": 0,
+      "publication_date": 20180227
+    },
+    {
+      "title": "Nice CPU but now outdated",
+      "text": "Nice processor, but PCI-E line limit is 28, now 9800X best choose.",
+      "rating": 4.0,
+      "verified": true,
+      "author": "AVC",
+      "helpful_votes": 0,
+      "publication_date": 20190407
+    },
+    {
+      "title": "So fast",
+      "text": "Raise the Hat for Intel on this one With 6 cores and 12mb I'm so happy with it man it's so so fast on games and programs Great job Intel",
+      "rating": 5.0,
+      "verified": true,
+      "author": "alnawaris cafe",
+      "helpful_votes": 0,
+      "publication_date": 20190107
+    },
+    {
+      "title": "Be careful when installing the cpu. it is an expensive loss if you short it out.",
+      "text": "Since I have this CPU I adore it. It brings me nothing but joy.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Amazonthegreatestbernard",
+      "helpful_votes": 0,
+      "publication_date": 20191011
+    },
+    {
+      "title": "i7-7800x idle temps usually in the 20c range",
+      "text": "i7-7800x. Runs well, and stays around high 20s to low 30s idling, and no higher than 60c gaming. Using a Noctua NH-U14s cpu cooler.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "J Prince",
+      "helpful_votes": 0,
+      "publication_date": 20180413
+    },
+    {
+      "title": "great, and have not had any problems with the ...",
+      "text": "Works fast, great, and have not had any problems with the processor.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Steffen B",
+      "helpful_votes": 0,
+      "publication_date": 20180625
+    },
+    {
+      "title": "As high as I could go...",
+      "text": "Powerful, Stable and Responsive. Little overkill for me, but wow!",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Pariah",
+      "helpful_votes": 0,
+      "publication_date": 20180321
+    },
+    {
+      "title": "Seams to work as advertised. I overcooked it to ...",
+      "text": "Seams to work as advertised. I overcooked it to 5Ghz on accident, let it run for an hour that way, it didn't even balk. I will not push it that hard again, but will start pushing when I have the time.",
+      "rating": 4.0,
+      "verified": true,
+      "author": "Sheri L Black",
+      "helpful_votes": 4,
+      "publication_date": 20180301
+    },
+    {
+      "title": "Five Stars",
+      "text": "Works smoothly, with a water pump cooling system works at 25-27 degree Celsius",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Jairo Lugo",
+      "helpful_votes": 0,
+      "publication_date": 20180125
+    },
+    {
+      "title": "Wrong chip sent inside i9 packaging",
+      "text": "An i7 chip was inside the packaging of the i9 processor I purchased. The least I can expect is to receive the correct product. Extra strange it was in put inside the i9 packaging. Pretty messed up.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "Chad Weber",
+      "helpful_votes": 0,
+      "publication_date": 20190206
+    },
+    {
+      "title": "Impressive",
+      "text": "Video editing is very fast with this CPU, render times are very impressive.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Kindle Customer",
+      "helpful_votes": 0,
+      "publication_date": 20171018
+    },
+    {
+      "title": "Peppy Punch for the Price",
+      "text": "Had this for about 1.5 months. I was strongly considering the 7940, but it was rarer/harder to find, and about 50% more expensive (which is a lot at this level). This one seemed to have good scores, comparably, so I took the chance. Not disappointed. It runs great, especially overclocked. I'm still not sure the turbo boost software does much for me, but I use it. It's nice not having to wait on my computer much now. Most things are more or less instant.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Ambrose",
+      "helpful_votes": 0,
+      "publication_date": 20171218
+    },
+    {
+      "title": "I got the approximate AMD equivalent of the 1800x. ...",
+      "text": "I got the approximate AMD equivalent of the 1800x. It kept rebooting for no reason. I sent it all back and got this. It's faster (4.1 ghz with a simple xmp profile), 10 degrees cooler with the same cooler, and completely stable. Now if the Spectre and Meltdown fixes don't kill it.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Adam Conrad",
+      "helpful_votes": 2,
+      "publication_date": 20180624
+    },
+    {
+      "title": "Great CPU and Great Platform!",
+      "text": "This has proven to be an excellent upgrade for me. I moved from the X79 platform to the X299 platform, and I have been pleased so far with the performance improvement.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "No to Statism",
+      "helpful_votes": 2,
+      "publication_date": 20171228
+    },
+    {
+      "title": "Series speed",
+      "text": "Fast, very fast. Just make sure you get a proper cooling system, and test that it can be run under full performance to ensure it functions properly and can run all 32 threads.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Daggwood",
+      "helpful_votes": 2,
+      "publication_date": 20180502
+    },
+    {
+      "title": "This is a great all purpose CPU but like all other CPU's you ...",
+      "text": "This is a great all purpose CPU but like all other CPU's you buy you are playing the silicon lottery and I got the short end of the stick on this one better luck next tj.e j guess",
+      "rating": 4.0,
+      "verified": true,
+      "author": "ethan",
+      "helpful_votes": 0,
+      "publication_date": 20180411
+    },
+    {
+      "title": "It works for me.",
+      "text": "Pros, I like the reduced render times compared to my previous system a 3930k. The motherboard died on that system so I went for something I felt will be an upgrade from what I had. It checks all the boxes that matter to me. Cons The main one is the lack of PCI-E lanes but I would have went with something else if I really need the expansion. There some weird performance anomalies in older programs but no deal breakers. Other. The motherboard I purchased with it ASUS TUF MK1 was easy to figure out it how it operates and I have had no issues so far.",
+      "rating": 4.0,
+      "verified": true,
+      "author": "Ulysseus Thibodeaux",
+      "helpful_votes": 17,
+      "publication_date": 20171015
+    },
+    {
+      "title": "but it's fine.",
+      "text": "I replaced my broken 5820k with this, not a huge improvement in gaming to be honest, but it's fine.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Wang Linan",
+      "helpful_votes": 2,
+      "publication_date": 20180830
+    },
+    {
+      "title": "Fast.",
+      "text": "Outstandiing Chip, fast... Fast... FAST... what more can I say... Oh Very Fast..",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Ronald Albrecht",
+      "helpful_votes": 2,
+      "publication_date": 20180307
+    },
+    {
+      "title": "Five Stars",
+      "text": "There was life before my CPU. And then what came after",
+      "rating": 5.0,
+      "verified": true,
+      "author": "matthew",
+      "helpful_votes": 2,
+      "publication_date": 20180525
+    },
+    {
+      "title": "Fast and Hot",
+      "text": "Fast and hot. 24 cores unleashed sure makes things run fast. I thought it was pretty easy to install. Make sure to water cool this bad boy. Don't try to use traditional coolers on this.",
+      "rating": 4.0,
+      "verified": true,
+      "author": "John C.",
+      "helpful_votes": 0,
+      "publication_date": 20180118
+    },
+    {
+      "title": "Powerful CPU for the price.",
+      "text": "AMAZING CPU! I love it. I have mine clocked to 4.5GHz and with a H115i CPU cooler, it idles at 28C. Gaming runs flawlessly. What can I say, it is an incredibly powerful cpu for the price.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Nathan",
+      "helpful_votes": 0,
+      "publication_date": 20171226
+    },
+    {
+      "title": "Amazing product. Easy to over clock with EVGA boards",
+      "text": "Amazing product. Easy to over clock with EVGA boards. was able to get to 4.5 with the dummy overclock setting and is very stable. Windows will pick it up lower than 4.5 but if you open the task manager and manage the processor under load it will get up to 4.5 and stabllize without any problems.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Reynaldo Juarez",
+      "helpful_votes": 0,
+      "publication_date": 20180309
+    },
+    {
+      "title": "Wait for the motherboards catch up.",
+      "text": "When I find a stable motherboard update for this processor, I'll be able to give more detail. Worked great till the motherboard started crashing too much.",
+      "rating": 3.0,
+      "verified": true,
+      "author": "Joemac516",
+      "helpful_votes": 8,
+      "publication_date": 20171015
+    },
+    {
+      "title": "No issues so far. It performs well. 1080 ...",
+      "text": "No issues so far. It performs well. 1080 NVDIA graphic card. 16GB RAM. M.2 SSD. Fast windows loading and VirtualBoX VM performs flawlessly.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Q. Zhou",
+      "helpful_votes": 0,
+      "publication_date": 20180104
+    },
+    {
+      "title": "Super fast and running cool",
+      "text": "Super fast and running cool, I haven't gotten into the OC thing yet as this was my first build but give me a couple weeks and I will feel more comfortable doing that.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "db2471",
+      "helpful_votes": 0,
+      "publication_date": 20180308
+    },
+    {
+      "title": "Home built computer",
+      "text": "Works fantastic in new workstation board and trial copy of Windows. Once I have all the components and software I will replace my main computer's components with these.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "ChrisCrystalize",
+      "helpful_votes": 0,
+      "publication_date": 20180419
+    },
+    {
+      "title": "The CPU became mulfuction",
+      "text": "Both Windows and Linux crashes at the begin and can't boot up even tried multiple time system recovery by S/W. I had to replace the CPU to fix the issue. Sadly giving 1 star rating (I'd rather to give 0 star if such option exists).",
+      "rating": 1.0,
+      "verified": true,
+      "author": "J",
+      "helpful_votes": 0,
+      "publication_date": 20180910
+    },
+    {
+      "title": "Very happy with this chipset",
+      "text": "Very happy with this chipset. I sometimes render my video projects in real time! My only complaint is that its not $150 less after being out for 3 months...",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Jamarryan",
+      "helpful_votes": 0,
+      "publication_date": 20171217
+    },
+    {
+      "title": "Great processor for the price, just make sure your BIOS supports it!",
+      "text": "Great processor, but make note that this version may not work in every i7 based motherboard. It's 8 cores requires a BIOS to support its most efficient use of four memory access channels, vs the two memory access channels of 6 and lesser core CPUs. Also, I read many of the one-star reviews about bad thermal profiles. I'm running with a CPU-only ThermalTake 3-fan water cooler, and even under a stress test I never seen it run above 50C! My typical run average is 37C and that's overclocked!",
+      "rating": 5.0,
+      "verified": true,
+      "author": "ZacWolf",
+      "helpful_votes": 3,
+      "publication_date": 20171130
+    },
+    {
+      "title": "love it",
+      "text": "I love this cpu/ can do everything at once. I mine btc/surf the web with ten windows open/watch Netflix while apps and messengers are running etc etc",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Fred Louch",
+      "helpful_votes": 0,
+      "publication_date": 20180319
+    },
+    {
+      "title": "day two and this is the only part that doesn't annoy me, so for that you get 5 stars",
+      "text": "Spent about $3,000 on parts for an upgrade, day two and this is the only part that doesn't annoy me, so for that you get 5 stars!",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Miah",
+      "helpful_votes": 0,
+      "publication_date": 20180414
+    },
+    {
+      "title": "Five Stars",
+      "text": "Love the amount of cores and what it can handle.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "David Weinstock",
+      "helpful_votes": 0,
+      "publication_date": 20180915
+    },
+    {
+      "title": "Best CPU you can bargain",
+      "text": "Best cost/performance CPU you can get while using xTreme processor",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Kelly Chu",
+      "helpful_votes": 0,
+      "publication_date": 20180823
+    },
+    {
+      "title": "I used this cpu in my cading computer and it ...",
+      "text": "I used this cpu in my cading computer and it feels very fast and responsive. I used a asrock motherboard.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "C w",
+      "helpful_votes": 0,
+      "publication_date": 20171027
+    },
+    {
+      "title": "It's a Beast !!",
+      "text": "4.6GHz at 39C / 68C Load @1.14v 3.0 GHz core/ring must use a minimum AIO cooler(corsair H115i) with a push/pull configuration or keep it below 4.5",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Paul Rossi",
+      "helpful_votes": 0,
+      "publication_date": 20170915
+    },
+    {
+      "title": "Loving it",
+      "text": "So far Im loving the processor. I use 6 monitors so I am aleays multitasking and this thing is working great.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Milton",
+      "helpful_votes": 0,
+      "publication_date": 20171101
+    },
+    {
+      "title": "I just wish it had a few more PCI-E Lanes ...",
+      "text": "I just wish it had a few more PCI-E Lanes :( I skipped the 7000k and the 7700 K due to low PCI-E lanes. If I didn't need a new machine I would have waited for the AMD Thread ripper for more CPU lanes.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "James S. Outland",
+      "helpful_votes": 4,
+      "publication_date": 20170830
+    },
+    {
+      "title": "This CPU is perfect. I was able to overclock it to 4",
+      "text": "This CPU is perfect. I was able to overclock it to 4.7Ghz with a Corsair H101i Water Cooling Setup. It's stable, and provides plenty of horsepower for my long days working. Multitasks well.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Antivirus",
+      "helpful_votes": 8,
+      "publication_date": 20170926
+    },
+    {
+      "title": "power my server project just fine.",
+      "text": "this unit is more of a toy than production piece. I trust Intel and expect this CPU will, when I get one of them there round-to-its, power my server project just fine.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "DuGo2Guy",
+      "helpful_votes": 0,
+      "publication_date": 20171028
+    },
+    {
+      "title": "... chip about a month now and it still works like a champ",
+      "text": "I've had this chip about a month now and it still works like a champ.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "John W.",
+      "helpful_votes": 3,
+      "publication_date": 20170907
+    },
+    {
+      "title": "High quality space heater for mid-sized office, also does computer stuff",
+      "text": "It goes real fast and heats my office pretty good. I also found out it doubles as a thing you put in a computer.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Michael",
+      "helpful_votes": 5,
+      "publication_date": 20171230
+    },
+    {
+      "title": "Top-of-the-line products for bottom of the line prices",
+      "text": "Got this for the boys computer made it super fast",
+      "rating": 5.0,
+      "verified": true,
+      "author": "joe",
+      "helpful_votes": 0,
+      "publication_date": 20171213
+    },
+    {
+      "title": "... on this and didn't know there were other chips better suited towards gaming",
+      "text": "I jumped the gun on this and didn't know there were other chips better suited towards gaming. So far this hasn't disappointed me at all. I'm coming from an I7-4790k which is still great chip. This is billed moreso as the productivity chip for content creators. I play 1440p and 4k whenever possible. I haven't noticed any FPS drops outside of the norm or other problems while playing modern games all.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Almost satisfied",
+      "helpful_votes": 2,
+      "publication_date": 20171009
+    },
+    {
+      "title": "Fast",
+      "text": "I love it, I can run as many piogams I want to on six different screen's, no throttling.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Eugene",
+      "helpful_votes": 0,
+      "publication_date": 20171207
+    },
+    {
+      "title": "Fantastic processor for high-end motion graphics work",
+      "text": "Fantastic processor for high-end motion graphics work. Purchased it to do some 8K VR video work and it handled it as good or better than any workstation PC / MAC I've ever used. Love it.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Skylar",
+      "helpful_votes": 3,
+      "publication_date": 20171021
+    },
+    {
+      "title": "X99 to x299, the upgrade was seemless.",
+      "text": "Great CPU. Using the same heat sink is a big plus for me.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "phimac10",
+      "helpful_votes": 0,
+      "publication_date": 20170913
+    },
+    {
+      "title": "it was good at day 1 until all these Intel-only intentional security ...",
+      "text": "it was good at day 1 until all these Intel-only intentional security holes (Meltdown, Spectre, v1, v2, v3...etc) patches make the CPU super slow to the point that its performance is getting closer to Core Duo just with more cores because my main use is not gaming, but various I/O intensive works with virtual machines. I'm extremely regretting at getting Intel CPU with no performance warranty even at factory baseline when no overclocking is done Intel should be recalling these CPUs and swap with CPU/platform that will give you the original performance before the patch, but Intel just say \"sucks to be you\" to their customer. I guess Intel HEDT platform have really became Haha Eat Dirt Turkey platform",
+      "rating": 1.0,
+      "verified": true,
+      "author": "SU",
+      "helpful_votes": 4,
+      "publication_date": 20180903
+    },
+    {
+      "title": "Five Stars",
+      "text": "Love the bleeding edge of technology, I have it clocked at 4.6 ghz and it's super fast",
+      "rating": 5.0,
+      "verified": true,
+      "author": "KS",
+      "helpful_votes": 2,
+      "publication_date": 20170820
+    },
+    {
+      "title": "Five Stars",
+      "text": "It was extremely Fast and Good. It never need GELID. Good choice.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Amazon Customer",
+      "helpful_votes": 0,
+      "publication_date": 20180117
+    },
+    {
+      "title": "Good CPU, but not that cost effective",
+      "text": "It's good and fast, but the new i7 Coffeelake CPUs are cheaper and give about the same performance, if not better in some areas. The CPU really only shines if you have a lot of multithreaded workstation use cases. It's not the best for gaming or VR.",
+      "rating": 4.0,
+      "verified": true,
+      "author": "Richard",
+      "helpful_votes": 2,
+      "publication_date": 20171007
+    },
+    {
+      "title": "Best processor I've ever had",
+      "text": "An absolute beast of a processor. A huge upgrade from my old i5 3570. A perfect center for a gaming rig for someone who also enjoys video/photo editing, or streaming games.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Kyle Garcia",
+      "helpful_votes": 0,
+      "publication_date": 20171008
+    },
+    {
+      "title": "Never buy used.",
+      "text": "I accidentally bought a used one, worst decision ever. It doesn't work. I spent 3 months trying to figure out what is wrong with it. Even though my motheboard was the one not working. It turns out is the CPU, probably gor burn out by overclocking by the last user. I just wasted a lot of money, dont make the same mistake as me.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "Luuh Zavala",
+      "helpful_votes": 0,
+      "publication_date": 20180824
+    },
+    {
+      "title": "Wrong product in sealed box.",
+      "text": "Ordered an i9-7980xe in a supposed factory sealed box. Installed CPU and windows says it's an i5. Assume it's a driver issue and do some troubleshooting. Eventually pull CPU out of computer and lo and behold when I read the silk screen on the chip it is an i5. It's now long after the return window and I'm left holding a $200 CPU after paying $2000 for an i9.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "Brent",
+      "helpful_votes": 12,
+      "publication_date": 20180807
+    },
+    {
+      "title": "One Star",
+      "text": "Not sealed, discolor on top side but works so didn't bother.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "Hamad Younis Ali",
+      "helpful_votes": 0,
+      "publication_date": 20180828
+    },
+    {
+      "title": "Great CPU if you got the extra funds for it",
+      "text": "Works clean and performs well! Good speeds compared to my FX8350 which has comparable specs sort of.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Nick J.",
+      "helpful_votes": 0,
+      "publication_date": 20171109
+    },
+    {
+      "title": "My chip can hit 5ghz easy and if I had a delid along with my ...",
+      "text": "I bought a 7800x when they came out I got lucky coming from a respectable 2500k @ 4.7. My chip can hit 5ghz easy and if I had a delid along with my big water setup I could get 5.2. That is a 100th percentile CPU!. If you are looking at it as of Oct 5 2017 get a coffeelake instead save the power.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Brian",
+      "helpful_votes": 3,
+      "publication_date": 20171005
+    },
+    {
+      "title": "The box was nice, and I would love to try the processor",
+      "text": "The box was nice, and I would love to try the processor, but for the second time, the CPU was stolen. The Intel factory seal was (first try) cut open and (second try) ripped open and the CPUs were missing from the boxes. The shipping envelopes were intact and sealed. Someone stole the CPUs at the fulfillment center prior to placing the (empty) box in the shipping envelope. This is the second time we have received an empty CPU box from your Las Vegas fulfillment center.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "marie",
+      "helpful_votes": 34,
+      "publication_date": 20180124
+    },
+    {
+      "title": "6ghz easily on all cores at stock voltage",
+      "text": "Overclocks to 4.6ghz easily on all cores at stock voltage, idles under 30 degrees c with h100i v2.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "James A.",
+      "helpful_votes": 0,
+      "publication_date": 20171005
+    },
+    {
+      "title": "Ordered an 18 core i9 - got a core i5 instead",
+      "text": "When I received this CPU the box had clearly been tampered with. When I opened the box I observed that the CPU had been replaced with a core i5.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "Emcello",
+      "helpful_votes": 8,
+      "publication_date": 20180606
+    },
+    {
+      "title": "Screams",
+      "text": "Easy install, overclocks well, great performance for gaming and virtualization.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Kenneth",
+      "helpful_votes": 6,
+      "publication_date": 20170718
+    },
+    {
+      "title": "Been great so far",
+      "text": "Been great so far! Over clocked and stable now at 4.5ghz on custom water cooling loop. Doesn't seem to get that hot over clocked as well.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Alex",
+      "helpful_votes": 6,
+      "publication_date": 20170722
+    },
+    {
+      "title": "I really like this CPU but Amazon destroyed my happiness",
+      "text": "I really like this CPU but Amazon destroyed my happiness. This cpu was in order over 2.000$ and after this order Amazon closed my credit cards so I can't finish my computer build. After weeks emailing and talking I am very disappointing with Amazon service.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Pall",
+      "helpful_votes": 0,
+      "publication_date": 20171116
+    },
+    {
+      "title": "Four Stars",
+      "text": "Nice CPU with flat price. As t he i7 7820x price droped, it is recommend to buy a i7 7820x.",
+      "rating": 3.0,
+      "verified": true,
+      "author": "Zhoumingyan",
+      "helpful_votes": 6,
+      "publication_date": 20170907
+    },
+    {
+      "title": "My First Order Doesnt Fit asus strix x299e gaming motherboard ...",
+      "text": "My First Order Doesnt Fit asus strix x299e gaming motherboard was smaller for some reason & apparently , they're compatible we'll see when my new one arrives",
+      "rating": 1.0,
+      "verified": true,
+      "author": "osvaldo",
+      "helpful_votes": 2,
+      "publication_date": 20180512
+    },
+    {
+      "title": "WARNING: THESE CHIPS HAVE HEAT ISSUES (X-SERIES / SKYLAKE-X)",
+      "text": "Be very careful when purchasing any chips in the x-series, particularly the i9, as they have known heat issues. Unless you have a really good AIO cooler or a custom-built cooling solution, you'll likely run into problems. I got the i9 and with a Corsair H100i my cpu sat at 34C idle but quickly climbed to 95C - 105C while gaming. I'm returning mine for an i7-8700k and suggest others do the same unless you're willing to shell out more money to solve the heat problems. Google the following article titles to see more of what I'm talking about: \"The Skylake-X Mess Explored: Thermal Paste And Runaway Power\" \"Intel Core i9-7900X Review: Meet Skylake-X\"",
+      "rating": 1.0,
+      "verified": true,
+      "author": "Kevin",
+      "helpful_votes": 4,
+      "publication_date": 20180611
+    }
+  ],
+  "product_meta": {
+    "title": "Intel BX80673I97900X Core Processor i9-7900X 3.3 GHz",
+    "description": "Style Name:I9-7900X processorWelcome to the world of high-end processors and high performance. The Intel Core i9-7900X Skylake X processor is: Ultra-fluid games, extraordinary overclocking capabilities and unprecedented creative ability. With its new processors you can do everything, even faster than before and with a level of performance worthy of a professional. Play intensely. Share it. Post. Encode. Go to high resolution without slowdowns. Perform many tasks with ease. PC gaming is at its peak and the future looks even more exciting with Intel technology.\n\nBOX CONTAINS\n1 x Processor",
+    "rating": 4.4,
+    "feature_bullets": [
+      "Unlocked Core Multiplier",
+      "Intel Turbo Boost Max Technology 3.0 & 2.0"
+    ],
+    "specifications": {
+      "Brand": "Intel",
+      "Product Dimensions": "10 x 11 x 4 cm; 28 Grams",
+      "Item model number": "BX80673I97900X",
+      "Manufacturer": "Intel",
+      "Color": "Black",
+      "Processor Brand": "Intel",
+      "Processor Type": "Core i7 6600U",
+      "Processor Speed": "4 GHz",
+      "Processor Socket": "LGA 2066",
+      "Processor Count": "10",
+      "Wattage": "140",
+      "Are Batteries Included": "No",
+      "Item Weight": "28 g",
+      "ASIN": "B072KTSCCS",
+      "Customer Reviews": "4.4 out of 5 stars258 ratings4.4 out of 5 stars",
+      "Best Sellers Rank": "137,515 in Computers & Accessories",
+      "Date First Available": "19 Jun. 2017"
+    },
+    "categories": [
+      "Computers & Accessories",
+      "Components & Replacement Parts",
+      "CPUs"
+    ],
+    "price": 1137.15
+  }
+}

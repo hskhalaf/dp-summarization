@@ -1,0 +1,953 @@
+{
+  "website_summaries": [
+    {
+      "verdict": "Transparent case is great for seeing kit components in action. An excellent kit at a good price point.",
+      "pros": [
+        "Quad-core processor and 1GB RAM yield a good level of power",
+        "Includes micro USB cable",
+        "Allows for both Ethernet and WiFi connectivity",
+        "MicroSD memory card slot included",
+        "Has HDMI, 3.5mm audio, and 4 USB ports"
+      ],
+      "cons": [
+        "May experience intermittent power supply issues",
+        "Must buy your own memory card"
+      ],
+      "aspects": {},
+      "publication_date": "",
+      "rating": "",
+      "source": "bestreviews"
+    }
+  ],
+  "customer_reviews": [
+    {
+      "title": "Sweet kit for all types of tech lovers",
+      "text": "This is my first Rasperry Pi and I am really impressed by how much is packed into this little board. It has all the standard stuff you will find in most compact computers such as HDMI, USB, LAN, WiFi, Bluetooth, 3.5 audio jack, SD card, and even Camera Serial Interface (CSI) + Display Serial Interface (DSI). It was fairly easy to assemble and there are plenty of guides and videos on getting it setup with Linux or anything else your heart desires. You will need to get a fast SD card (purchased separately) or you will notice performance issues.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Dad's Dojo",
+      "helpful_votes": 2,
+      "publication_date": 20190611
+    },
+    {
+      "title": "It's just fine",
+      "text": "Cana v. Vilros. Simple Facts. I'm not reviewing the Pi, just the kit. The case fit the Pi perfectly which is good because it only came with two screws to attach it to the case, and neither fit, too small. But the board snapped into the lower very tight. It didn't come with the little rubber feet, like the CanaKit, not a big deal for me. The cutout for the pins is larger than the CanaKit so that may be a plus for builder wanting that access. I've bought one Cana and one Vilros, for cases, I'll probably keep looking, but I'd buy the Cana before this again.",
+      "rating": 3.0,
+      "verified": true,
+      "author": "Lady J",
+      "helpful_votes": 4,
+      "publication_date": 20170108
+    },
+    {
+      "title": "Media server (Raspbian and Plex server)",
+      "text": "This RPi3 works great, that's my second Pi and I'm using this one as a media server with all my vast DVD collection in a external drive and using Plex. Way faster than my RPi2 we can actually see the difference in speed between both boards. Came with a case but I'm using one I 3D printed with a 40mm fan to keep the temperature low (24 hours, 7 days on all the time) and never goes over 35C. Also I would like to note that my external 2t hard drive doesn't have any external power and all the power comes from the board through the USB.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "slanwar",
+      "helpful_votes": 3,
+      "publication_date": 20161112
+    },
+    {
+      "title": "Easy to set up and works for its intended purpose",
+      "text": "I bought this kit because I needed a Raspberry Pi to run software that acts as a Squeezebox player which Logitech stopped making a number of years ago. Used Logitech players are available on eBay for $$. It only took about 20 minutes to unpack the kit, attach the heat sinks, put the Raspberry Pi into the case, download the Squeezebox software, write the SD card, insert the SD card, attach keyboard and monitor, and boot up. The Logitech Media Server immediately recognized the Raspberry Pi as a Squeezebox player and I was able to start using it to play music from my collection.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "risabq",
+      "helpful_votes": 0,
+      "publication_date": 20171019
+    },
+    {
+      "title": "Lots of potential",
+      "text": "Foremost, this is my first Raspberry Pi, therefore, I don't have a lot of experience to speak of (yet) -- although, I have used a distro of Linux before. Nevertheless... As a mini-PC, it's capable of many things, from being a Web access point to a media or print server. Additionally, the low power requirement, including via an external battery with USB ports, plus Wi-Fi connectivity adds placement versatility.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Casey T.",
+      "helpful_votes": 0,
+      "publication_date": 20181022
+    },
+    {
+      "title": "Good kit for a media server setup",
+      "text": "The kit was delivered quickly and in excellent condition. The plastic case is good quality. I had no difficulty fitting the Raspberry Pi into it and snapping it together. It's a tight fit so you must exercise some care, but that's better than having it flop around loose. I appreciate the screw slots on the back. I set it up with Plex and remote desktop, mounted it on a board along with a network switch and surge protector power strip, and hung that in my laundry room with my NAS drives on a shelf above. Now it's a whole house media server. It draws so little power that I don't mind leaving it on all the time.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "MacFast",
+      "helpful_votes": 3,
+      "publication_date": 20160615
+    },
+    {
+      "title": "Performance is really amazing for the price/size",
+      "text": "I loaded RaspbianPi on an SD card and connected to a HD LCD monitor, keyboard and mouse, and you could swear you were running a desktop PC with Linux. Performance is really amazing for the price/size. I used it to develop a Python app in two days which acts as a rather sophisticated \"photo viewer\" driven by remote control. It displays EXIF, captions, etc and works WAY better that any Smart TV or standalone version of a photo display I have seen. This was for an aged relative to be able to view my (and others) photo collections. I ordered a second one for another app I am going to write.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "S. W. Conley",
+      "helpful_votes": 0,
+      "publication_date": 20170615
+    },
+    {
+      "title": "Great product, great support!",
+      "text": "I had a small issue at first with the unit (hardware) but once I contacted the seller it was swiftly taken care of. Customer support was top notch - just like the kit I received. First time user of the Raspberry pi, so I wasn't sure what I needed but this kit came with everything needed to get started (except the mirco SD card). This unit is currently connected to my 3d printer for remote controlling and watching the print via video feed (also got the raspberry v2 cam) and it has not let me down so far. Run's 24/7 without an active fan creating noise and has plenty of resources to handle the tasks.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Sheldon",
+      "helpful_votes": 0,
+      "publication_date": 20180320
+    },
+    {
+      "title": "Great project computer for tinkering and low-I/O servers",
+      "text": "The Pi is excellent, and seems to be gaining popularity in use cases it was not imagined for. I use mine as a Plex server and a pihole, and the included case + heatsink + instructions made setting it up a breeze. The hard part is deciding what other crazy things to use it for, and with it being as good as it is, it is difficult to find areas it can be improved without overlapping into the HTPC space. This replaced 2 virtual machines for me, which is great since I can save electricity by not having to run the big desktop when I need my servers' content.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Amazon Customer",
+      "helpful_votes": 0,
+      "publication_date": 20180304
+    },
+    {
+      "title": "Case + PSU is what you need!",
+      "text": "Without a good case or power supply, many hobbyist projects with Raspberry Pi seem unfinished. However, this Vilros kit includes a convenient clear case, heat sinks and a 2.5A power supply. You can easily kit out your Pi, add heat sinks (if your project will tax the processor or I/O ports) then park it somewhere convenient. If nothing else, buying this kit for the power supply itself is a wise choice.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "KARL LEWIS",
+      "helpful_votes": 0,
+      "publication_date": 20200518
+    },
+    {
+      "title": "Lots of I/O ports for such a small computer",
+      "text": "I'm a retired engineer and started missing the fun of tinkering with electronics. I bought this for fun and haven't been disappointed. This board has lots of I/O ports to try ideas on. The Raspbian version of Linux works great on this board. Give it a try. You won't regret it.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Roy the reader",
+      "helpful_votes": 4,
+      "publication_date": 20161102
+    },
+    {
+      "title": "It's a nice kit.  I'd buy again if I need another Pi kit for something else..",
+      "text": "I bought this for a family member to use as a RetroPie Arcade. It's great so far. The heat sinks are an added bonus, as I overclocked the Pi3. I've had no heating issues with the overclock using the included heat sinks. The power adapter is good and not a wallwart. The clear case is cool, as you can see it blinking or not blinking if you are copying ROMS with a thumb drive (or letting RP create directories to copy ROMS to). I'm happy with the purchase, and my current purpose for this kit far than exceeded my expectations. I'd buy it again if I find another project I'd like to try.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Sean S",
+      "helpful_votes": 0,
+      "publication_date": 20170115
+    },
+    {
+      "title": "Alan Jay Weiner) Everything came and worked fine as expected",
+      "text": "(posted by Annette's husband, Alan Jay Weiner) Everything came and worked fine as expected. No instructions in the box, but there's plenty of information online. Vilros emailed a 209-page PDF entitled \"Raspberry Pi User's Guide\". I've only skimmed it, but looks like lots of good information there. Have to say the Raspberry Pi 3 is delightful and fun to work with. It's fast (boots in seconds) and can do a surprising amount. It's running Linux Debian. One thing it won't do: open lots of tabs in the web browser. It quickly runs out of memory and gets unhappy (non-responsive). I tend to have lots of tabs open; have to watch that. Otherwise, It's quite a capable little box.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Annette Weiner",
+      "helpful_votes": 0,
+      "publication_date": 20170228
+    },
+    {
+      "title": "Good value, Case was a bit hard to assemble, most likely buy again",
+      "text": "Decided to try a low cost solution to display room availability for conference rooms at work. Everything has gone pretty smoothly looking at guides, but have not had a chance to complete every customization I need. Pretty simple to follow online instructions for setup. May take some people who are not computer savvy a bit longer to setup. Case didn\u2019t fit a seamlessly as I would have liked, but finally finagled it in. Once completed with the project, will most likely order a few more and duplicate the process.",
+      "rating": 4.0,
+      "verified": true,
+      "author": "Amazon Customer",
+      "helpful_votes": 0,
+      "publication_date": 20190717
+    },
+    {
+      "title": "Really nice having it there in booklet form instead of having ...",
+      "text": "Not only does this kit come with an attractive and seemingly durable case as well as two easy-to-use heat sinks and a charger, all in hefty shipping material, but it also has Vilros' own Quick Start Guide for installing and running Raspbian Linux, the OSMC media player so you can play movies off of a USB flash drive, and RetroPie. Really nice having it there in booklet form instead of having 10 tabs open. Also, maybe not everyone's experience, but mine was available for free same-day delivery with Prime. Kick ass. I received the PRC version of the Raspberry Pi 3.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Happy",
+      "helpful_votes": 0,
+      "publication_date": 20170819
+    },
+    {
+      "title": "A Winsome Gadget",
+      "text": "So I spent entirely too much time trying to configure Octopi (3-D printer software) on anything but the Pi I did not actually own. Finally I decided to get a Pi 3. The USB camera (Logitech C-270) worked without really trying, the wireless network worked with minimal fuss, the plastic box provided snaps together just fine. I installed the heat sinks in about a minute (not my first rodeo). So far all the Vilros stuff I have is like this, it works fine and is what it needs to be, no unfortunate shortcuts anywhere.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "David",
+      "helpful_votes": 0,
+      "publication_date": 20180112
+    },
+    {
+      "title": "Best solution for a low maintenance always on server",
+      "text": "Grabbed this to set up a my media server for Alexa, letting me stream my library to my Tap and Dots. wanted a basic low energy option. Used one of my class 10 microsd (64gb, follow special instructions to format fat32), and once I got everything running set it up for remote access with vnc viewer (read instructions on the raspberry website). Now its always on and I don't have to worry about all that Windows crap running in the background for basically a simple music server.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Edgar",
+      "helpful_votes": 0,
+      "publication_date": 20180320
+    },
+    {
+      "title": "Received 0.4 Amp Power supply instead of 2.5 Amp",
+      "text": "I purchased my kit last September and used it for infrequent light duty exploration of Raspian Linux. A few weeks ago I began a major project converting my Pi into an SDR receiver. At that time I discovered my Pi having difficulty and seemed under powered. I checked my Vilros USB power adapter and discovered it was rated at 0.4 Amps instead of 2.5 Amps advertised. Otherwise the kit seems OK.",
+      "rating": 2.0,
+      "verified": true,
+      "author": "Curmudgeon",
+      "helpful_votes": 0,
+      "publication_date": 20190104
+    },
+    {
+      "title": "Bluetooth died, I just got a bad one",
+      "text": "Bluetooth died on my unit. I tried everything even completely rebuilding the bluetooth database. I know two other people who purchased this same kit and have had no problems, so maybe I just got a bad one. Price is great though for what you get.",
+      "rating": 3.0,
+      "verified": true,
+      "author": "McGlynn",
+      "helpful_votes": 2,
+      "publication_date": 20171119
+    },
+    {
+      "title": "Good starter kit for kids and adults.",
+      "text": "Bought this for my nephew's son. This starter kit is perfect for him. I put together other essentials from my boxes of spare parts - keyboard, mouse, HDMI cable. The real benefit to kids is that there are breadboard kits available that will hopefully move their interest from video games to the processors and code that makes the games possible. The support for this product in print and on the net is excellent. This comes with a wonderful startup guide.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Dan Manturi",
+      "helpful_votes": 0,
+      "publication_date": 20180117
+    },
+    {
+      "title": "Otherwise I like the RPi",
+      "text": "The user manual that comes with this version of the RPi 3 B is actually written for the RPi 2 and thus some of the explanations and diagrams are wrong. Keep this in mind if you are a complete beginner, I'm hoping that the company will update their PDF guide(s) for the newer model, perhaps just with an addendum? Otherwise I like the RPi, it's small, fast, and very capable. It runs Linux distros and even Windows 10 IoT which you can get for free from Microsoft. Pretty sweet, I wish I had more time to experiment and build stuff around it!",
+      "rating": 4.0,
+      "verified": true,
+      "author": "Mushu",
+      "helpful_votes": 0,
+      "publication_date": 20170214
+    },
+    {
+      "title": "although it does take a bit of adjusting to get the board in there nicely. I was also able to get two SNES ...",
+      "text": "This is the starter kit to get! Add it with the Samsung 32GB 95MB/s (U1) MicroSD EVO Select (green) microsd that's going for $10 and you have a full system ready to go. Everything came packaged neatly and the user guide helps with installation of NOOBS/OSMC/Retropie/etc. The case is compact and has plenty of holes/space for air flow, although it does take a bit of adjusting to get the board in there nicely. I was also able to get two SNES controllers bundled with this for 75% off, so even better deal :)",
+      "rating": 5.0,
+      "verified": true,
+      "author": "imyourpal",
+      "helpful_votes": 0,
+      "publication_date": 20171230
+    },
+    {
+      "title": "Nice kit that contains everything you need",
+      "text": "Nice kit that contains everything you need, all in one box. Love the fact they include the heatsinks, which is very important. I love using the Pi as a fanless, affordable solution for using Kodi as a beautiful, user-friendly way to stream movies and other media across my local network to multiple rooms in my house. Grab one of the wireless USB remotes (now in a backlit version!) to complete the package, and you're good to go......",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Scott Z.",
+      "helpful_votes": 0,
+      "publication_date": 20180122
+    },
+    {
+      "title": "Simple and cost effective. Just buy it",
+      "text": "As advertised. All you'll need to get started is a memory card and some kind of initial peripheral input device. Can't really speak for the benefit of the heatsinks but they are included so why not use them. The case is \"good\" as in it works and hold securely but I can see where there isn't very tight tolerances and some people may have a snug or loose fit. The power supply is more than adequate and doesn't get hot. If you're looking to buy a Pi, you might as well just get this kit because you will end up buying it all anyways.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Josh S",
+      "helpful_votes": 0,
+      "publication_date": 20160714
+    },
+    {
+      "title": "undervoltage from power supply, poor airflow",
+      "text": "The powersupply with this kit is awful, continuous undervoltage on my Pi 3B+. The case is simple enough to use, but processor is easily 5 - 10C warmer at idle with this case than with others. Main problem is that undervoltage though, it will damage your board and potentially corrupt your SD Card.",
+      "rating": 2.0,
+      "verified": true,
+      "author": "Steven M.",
+      "helpful_votes": 0,
+      "publication_date": 20200701
+    },
+    {
+      "title": "Awesome kit!",
+      "text": "I got this to make a Pi-Hole DNS server on my network with blacklists. It goes together nicely, works perfectly and stays cool! Very impressive power in this little thing. If you are making a Pi-Hole for your home or business network get your pre-configured blacklists from this guy - they work! h t t p s://v. firebog . net/hosts/ I'm a new recruit into the world of Pi, but I am sold on them bit time after testing and using this one.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Nicolas E. Kaiser",
+      "helpful_votes": 0,
+      "publication_date": 20171001
+    },
+    {
+      "title": "Excellent device.",
+      "text": "The device arrived in a timely fashion. Heat sinks fit prior to starting the device. Imaged the SD card and booted the device with ease. Connected to local wired and wireless network successfully. Ran Ubuntu Mate for a brief period. The imaged was corrupted so Firefox browser was not functional. Reimaged with Raspian and all works as expected. Excellent device.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Amazon Customer",
+      "helpful_votes": 0,
+      "publication_date": 20180107
+    },
+    {
+      "title": "Perfect for HTPC and Retro gaming platform!",
+      "text": "Ordered two of these, I used one as a media center for one of the rooms in my house. I have a central Linux server configured as a NAS. This Pi kit was able to take a KODI based image and works beautifully as a home entertainment center! OSMC on a 16gb card (smallest I could find) Works beautifully! The second got an image of RetroPie and I'm rocking out to some Atari, Sega, and Nintendo classics! Have had NO complaints what soever.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Jesse Knott",
+      "helpful_votes": 0,
+      "publication_date": 20170720
+    },
+    {
+      "title": "Good kit except card",
+      "text": "microSD card is absolutely not suitable for this device. Even small applications run slow, device hang, i had to reformat it several times until i realized that sdcard is fake or damaged from the beginning (used h2testw found a lot of errors) after i got normal (like a sandisk class 10 16gb) everything works smoothly even retropie better to get PI standalone (or with authentic card)",
+      "rating": 4.0,
+      "verified": true,
+      "author": "Alex Z.",
+      "helpful_votes": 0,
+      "publication_date": 20190507
+    },
+    {
+      "title": "3 stars because the included power supply does not output ...",
+      "text": "3 stars because the included power supply does not output anything near 2.5amps. I run demanding tasks on this rasp-pi, and I was having intermittent issues with this kit, I replaced this power supply with the one I use to charge my tablet and the issues went away entirely. Now I am using the included power supply to charge my tablet instead, and the tablet reports \"Warning - Slow charging detected\" Dissapoint in Vilros, maybe don't buy the kit and buy a different, more trustworthy power supply.",
+      "rating": 3.0,
+      "verified": true,
+      "author": "Amazon Customer",
+      "helpful_votes": 2,
+      "publication_date": 20170319
+    },
+    {
+      "title": "Great customer service!",
+      "text": "Initially received my package with a damaged Pi in a crushed box. Header pins were broken, corner of the board was chipped, the wifi/Bluetooth module was torn loose, and the display port was bent pretty badly. All other items were in pristine condition, though. I contacted the seller with pictures and got a reply with a tracking number to my replacement within two hours. Customer service was friendly and excellent, and really makes buying from this seller a great idea! The power supply seems sturdy and the heat sinks work well. Buy without a worry knowing you are getting good value and are guaranteed an intact product.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "David",
+      "helpful_votes": 0,
+      "publication_date": 20190810
+    },
+    {
+      "title": "Best deal ever! Great product and service :)",
+      "text": "Great product, this kit was best value for money since you can get SD cards for cheap elsewhere. The clear case is a solid build quality and looks great. Port cutout sizes were perfect. I got a complimentary guide/manual in my email a week later (I had already set it up but it was great to have to tweak additional options.) I've got 2 other friends already in line to buy this exact deal! Even after the currency conversion its the cheapest kit compared to what's available in Canada. I even paid overnight shipping and it came on time as promised. 10/10 - seller 10/10 - product",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Waqas K",
+      "helpful_votes": 0,
+      "publication_date": 20160808
+    },
+    {
+      "title": "If you're looking for a Raspberry Pi this is a good deal for the money.....",
+      "text": "I have owned, and still do own several Pi's over the years. The nice thing about this deal is that it's a whole kit for a very reasonable price. I think if you bought all the pieces individually it would cost more than this kit. So this kits is a pretty good deal. Also all the pieces seemed to fit together singly so over all the kit seemed like all the pieces were tested to be a good fit.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "anthony p glaser",
+      "helpful_votes": 0,
+      "publication_date": 20190618
+    },
+    {
+      "title": "Quick, Simple project",
+      "text": "I got this to build with my son. It's SUPER easy, (almost too easy). The only thing to do really is to hook up the heat sinks and screw the board to the case. The case is a cool touch, although it doesn't seem to be nearly sturdy enough for a device so small. It also lacks covers for the ports which is a bit disappointing. If you're going for a more portable raspberry pi I would get a different case. As far as the device itself I'm using mine as network storage for a couple of home computers and a minecraft server for the kids. So far so good.",
+      "rating": 4.0,
+      "verified": true,
+      "author": "Aaron S",
+      "helpful_votes": 0,
+      "publication_date": 20160729
+    },
+    {
+      "title": "Seller makes good on missing items",
+      "text": "This is an update to my previous rating of 3 due to missing heatsinks. Seller mailed missing item and am quite happy that they went to the trouble as in theory they are not really required unless operating the device 24/7. Would highly recommend purchasing again from seller and start your own projects with this well thought out kit.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Jackdef",
+      "helpful_votes": 0,
+      "publication_date": 20170227
+    },
+    {
+      "title": "Great package at a great price!",
+      "text": "I purchased this kit to upgrade my old Raspberry Pi Model B. Wow. This kit is fantastic and at a really great price. The heat sinks were very easy to install by just peeling off the backing and placing them on the large chips on the board. The case easily snapped together and the power supply has worked flawlessly to give the correct amount of power to the Raspberry Pi 3 board. I had nothing but problems finding a good power supply for my old Model B but this one is rock solid! This an extremely good deal.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "D. Fontenot",
+      "helpful_votes": 0,
+      "publication_date": 20160826
+    },
+    {
+      "title": "Great little kit, has nearly everything you need",
+      "text": "Set aside an afternoon and you can build pretty much anything with one of these kits. All the basic parts you need or there (excluding an SD card, but I knew that before hand). Works great for the project I needed. Would buy again in the future.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "DemWoodchucks",
+      "helpful_votes": 0,
+      "publication_date": 20200724
+    },
+    {
+      "title": "You will want this Raspberry Pi 3",
+      "text": "Excellent computer. Remember to put in SD micro card before turning on. I used a 32 GB SanDisk with no issues. Then put operating system onto the card, from other computer I got rasbian, and used Win32DiskImager to transfer operating system to the card. Works very well. Put on a new Chromium version for browser, and you are good to go. Look up stuff on the web for this. Purchase this product with the case and power supply here so you don't need to get this elsewhere. Best simple computer to take anywhere and hook to HDTV. Also, get a Bluetooth keyboard and mouse and you can surf the web from a distance. Enjoying it all.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "AllComputersAllDay",
+      "helpful_votes": 0,
+      "publication_date": 20161014
+    },
+    {
+      "title": "Take a sweet bite out of this Pi",
+      "text": "For anyone new to the Pi community (like myself), I definitely recommend this starter kit as opposed to trying to buy everything separately. First of all, I found it to be a better value to get it all together. And secondly, I didn't have to worry about the specifics of getting it protected (with the case) or supplying the right Volts/Amps to the unit with the power cable. Unit itself runs great. Do make sure you have a way to transfer the image onto the microSD card (no SD card adapter is provided). NOOBS is fine I'm sure or I chose to use an image writing program to install Raspbian.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Matthew I",
+      "helpful_votes": 0,
+      "publication_date": 20160811
+    },
+    {
+      "title": "Misleading \"Includes Raspberry Pi 3 [2017]\" - it is 2015.",
+      "text": "No issue with the hardware itself. Works fine. However, your claim that this kit \"Includes Raspberry Pi 3 [2017]\" is misleading. You sent me a 2015 model.",
+      "rating": 3.0,
+      "verified": true,
+      "author": "CyberYogi",
+      "helpful_votes": 26,
+      "publication_date": 20170206
+    },
+    {
+      "title": "Pi and Case are working great, Power Supply doesnt...",
+      "text": "All parts of the Pi appear to be functioning, the case fits nicely, however had to give only 3 stars as the Power supply was dead on arrival :-( I don't want to return the whole item, so hopefully the owner of the product will just send me a new one Update: Contacted company and they immediately rushed ordered a new working power supply. Adding another star",
+      "rating": 4.0,
+      "verified": true,
+      "author": "Livingintheheaven",
+      "helpful_votes": 0,
+      "publication_date": 20171016
+    },
+    {
+      "title": "Nice kit",
+      "text": "Everything came very quickly and all components worked out of the box. Threw in a microsd card and has been running pihole with no issues for a couple of weeks now. It was nice to have everything in a 'all in one' bundle. Documentation came with it explaining how to set it up as well.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Another One",
+      "helpful_votes": 0,
+      "publication_date": 20181013
+    },
+    {
+      "title": "Works great, after a bit of surgery on the case",
+      "text": "I had to increase the size of the opening for the SD card in the case slightly in order for the card to fit into the slot without breaking. I did this using a piece of sandpaper that I cut down to the size (width) of the opening. It was easy to do and only took a few minutes to remove the right amount of plastic. Other than this, the Pi itself works just fine. I would have given this product 5 stars if I hadn't had to modify the case.",
+      "rating": 4.0,
+      "verified": true,
+      "author": "rjoy205",
+      "helpful_votes": 0,
+      "publication_date": 20170806
+    },
+    {
+      "title": "defective -- replaced by customer service :-)",
+      "text": "Arrived with mangled power connectors on both the pi and the power brick. Both unusable. Unfortunately did not get around to trying until a week after the return window closed. #(*%^@#^(&@#!! UPDATE: called Vilros and they're sending a replacement :-) UPDATE: replacement arrived, with Vilros covering shipping both ways. Replacement works.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "TB",
+      "helpful_votes": 0,
+      "publication_date": 20200209
+    },
+    {
+      "title": "Great gift",
+      "text": "I enjoyed my raspberry pi so much that i got to of these to give to my nephews in college that are going for their IT degrees. They have been very creative in using them.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Don J",
+      "helpful_votes": 0,
+      "publication_date": 20190829
+    },
+    {
+      "title": "... a Pi-Hole and PiVPN server and could not be happier. Virlos contacted me a few days after purchase ...",
+      "text": "I bought specifically to set up as a Pi-Hole and PiVPN server and could not be happier. Virlos contacted me a few days after purchase to provide a product guide which was cool. This kit is one of the better ones as it includes the heatsinks for the CPU and GPU...Technically not required for basic purposes but very key for any overclocking or modifications made to the board. Case requires no tools to assemble.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Sheep",
+      "helpful_votes": 0,
+      "publication_date": 20170627
+    },
+    {
+      "title": "Very addictive and fun.",
+      "text": "Good times really like this little thing. I wish my parents gave me one when I was like 15. Not to say it's just for kids. But I would have gotten off to a better start on computers. Now I'm a professional builder. Just something different. Which is always good. KindA like some strange lol.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Pc builder ",
+      "helpful_votes": 0,
+      "publication_date": 20180428
+    },
+    {
+      "title": "Great Bundle, but don't forget the memory card.",
+      "text": "Really good Raspberry Pi bundle. I do wish it would have come with a good quality sd card, but at least this way, you can get the one that, in your opinion, is the best one. You find instructions on how to set it up online. It doesn't come with anything in the way of much instruction, including installing the heat sinks. Still, a good package overall.",
+      "rating": 4.0,
+      "verified": true,
+      "author": "C. Goad",
+      "helpful_votes": 0,
+      "publication_date": 20170603
+    },
+    {
+      "title": "Sweet little computer",
+      "text": "So i havent the chance to dive into this too heavily yet but firstly i can comment that it came packaged ready to go. No assembly required. Followed a tutorial for installing openhab. Piece of cake. As of now i am 90% sure i will buy another one for using Kodi. If you're a techie, ya gotta check it out! If not.....still check it out.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Sam Lemieux",
+      "helpful_votes": 0,
+      "publication_date": 20170416
+    },
+    {
+      "title": "Amazing little computer!",
+      "text": "I made a music server/renderer with mine in order to get my DAC off my PC's noisy USB. The little Raspberry plays music files (mostly lossless or 24/96 FLAC) and is dead quiet noise wise with my USB DAC. The kit went together solidly although it takes a bit of coaxing to get it to snap together, it finally did. Everything is made of good quality. Get a UPS for it as files can be corrupted if suddenly subjected to a power loss.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "eagles_nest1214",
+      "helpful_votes": 0,
+      "publication_date": 20161207
+    },
+    {
+      "title": "Perfect starter if you already have SD cards",
+      "text": "I really liked the look of the clear case. It was easy enough to fit the PI board and heat sinks. The kit was perfect for me since I had some micro sd cards already laying around and I wanted to try a couple different OS choices and go through the imaging process myself. After firing the Pi up for the first time I realized there were indicator lights on the board itself so the clear case was allowed me so see them and know something was happening.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Pamela Campbell",
+      "helpful_votes": 0,
+      "publication_date": 20161011
+    },
+    {
+      "title": "Terrible customer service",
+      "text": "I can\u2019t get it to display anything. Not sure if it\u2019s broke or something I\u2019m not doing right. I\u2019ve called customer support several times. They take my name and number and say they will get back to me but never do.",
+      "rating": 2.0,
+      "verified": true,
+      "author": "Mike",
+      "helpful_votes": 0,
+      "publication_date": 20200518
+    },
+    {
+      "title": "Know where my next parts will come from.",
+      "text": "I am familiar with the Raspberry Pi. I needed a new one for another project. This Raspberry Pi came with a great little Vilros case. Well made, packed well, and shipped fast. 5 Stars all around. This vendor also sent me a user manual for the Raspberry Pi that includes many projects and hot-to's. It is a great book with over 200 pages.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "George",
+      "helpful_votes": 0,
+      "publication_date": 20170610
+    },
+    {
+      "title": "Vilros is well worth the purchase.",
+      "text": "It's nice that the makers of the Raspberry Pi Computers sells the boards, but it's even better that Vilros sells an \"all you need\" kit to get you going. I've bought 2-RP3 kits and 1-RP2 from Vilros. Every single one of them are still working to this day. I will continue to buy the kits from Vilros as more Raspberry Pi's come out. It's also priced VERY WELL for what you get.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Paul",
+      "helpful_votes": 0,
+      "publication_date": 20170321
+    },
+    {
+      "title": "Amazing little cheap computer great for learning linux and doing ...",
+      "text": "Amazing little cheap computer great for learning linux and doing fun hobbyist projects. So far I've setup a LAMP server, networking with Mac computers on the network, ssh administration, and that's in just under a few hours. I think this kit is great for a beginner such as myself. Just remember you'll need an micro-sd card and reader along with this kit in order to get the operating system installed. Had to wait an extra day for my sd-card to show up!",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Tylerrrr",
+      "helpful_votes": 0,
+      "publication_date": 20160728
+    },
+    {
+      "title": "I was unable to get the microSD to take the ...",
+      "text": "I was unable to get the microSD to take the program. I had a former IT director attempt to help me with the same result. I suggest you buy a preprogrammed SD. Raspberry and case were ok although I am buying a new case with a fan as the Unit runs very warm.",
+      "rating": 3.0,
+      "verified": true,
+      "author": "David W.",
+      "helpful_votes": 0,
+      "publication_date": 20170811
+    },
+    {
+      "title": "Great starter pack",
+      "text": "Love love love!!! This is the 5th unit that I have setup and it's a great start pack. The clear case is my favorite. It snaps in easy and is very secure. The black case to me wasn't as lock tight secure as I would like but it got the job done. I would recommend this for beginners and the price was very reasonable.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Amy",
+      "helpful_votes": 0,
+      "publication_date": 20170123
+    },
+    {
+      "title": "Get one of these to play with!",
+      "text": "Perfect. Product was delivered on time and exactly as advertised. Worked perfectly. I opted to build my own SD card following the directions from the Raspberry.org site. The RPi connected to all the externals and started on the first pull. I recommend buying the heat sinks with the kit although I have been using the device for two weeks without them. The vendor was attentive providing updates during shipping and provided an ebook that was very helpful. The ebook covered the Pi 2 so it refers to bluetooth and wifi (dongle) that does not apply to the Pi 3, but overall I found the book to be helpful.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "STEVEN E ALLEN",
+      "helpful_votes": 0,
+      "publication_date": 20170130
+    },
+    {
+      "title": "save a few bucks, get the kit!",
+      "text": "I absolutely love this thing. The kit takes was handy and I saved a few dollars. Im using one as a media center with raspbian and kodi, then another one with retropie installed to emulate old games. I cant really believe how awesome the the Pi 3 is and the kit makes it so convenient to get started with projects. I wish I would have gotten one earlier.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Chris Collins",
+      "helpful_votes": 0,
+      "publication_date": 20160823
+    },
+    {
+      "title": "I needed this for an engineering school assignment and it did not disappoint. The case fit perfectly and looks great on ...",
+      "text": "the Vilros RPi 3 kit came as advertised and extremely quick. I needed this for an engineering school assignment and it did not disappoint. The case fit perfectly and looks great on the Pi and the power supply is more than enough for my purposes. The Pi itself ran like a charm. i would also like to note that the company emailed me a RPi3 user guide to use with my kit. i was very impressed at the customer service they provide. I will now be able to become more proficient at using this Pi thanks to the guide.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "JSP",
+      "helpful_votes": 0,
+      "publication_date": 20160919
+    },
+    {
+      "title": "Does not work",
+      "text": "I would suggest not bothering. I think this is honestly a scam. I worked through the set up step-by-step, plugged it into the power outlet and received no signal to my screen. I have a red light, but no information. I tried troubleshooting online and the only suggestion was to get a new SD card, but I purchased a brand new SD card with the Pi. Waste of $60 dollars when factoring the Pi and SD card. Very disappointing.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "kylmss",
+      "helpful_votes": 0,
+      "publication_date": 20190215
+    },
+    {
+      "title": "Good minimum kit, don't forget an SD card!",
+      "text": "Nice kit, just add an SD card and you are good to go. 2 heat sinks are easy to install with the adhesive already applied to them, clear case for the Pi fits great and does not restrict access to any ports. They only thing weird - I've got 2 tiny screws with the clear case but have no idea what to use them on? They are too tiny to fasten the board to the case itself. Seller also sent me a e-book (Raspberry Pi manual) free of charge which is pretty helpful.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Andrey",
+      "helpful_votes": 0,
+      "publication_date": 20161212
+    },
+    {
+      "title": "Quality Product with Unexpected Bonus",
+      "text": "A Pi 3 is a Pi 3, but it's the accessories that make each individual kit. The case that comes with this kit has an opening for GPIO cable, which is one of the main reasons I picked this kit. The included power cable is quality. And, as an unexpected bonus, Prestige Milano emailed a fairly complete Pi \"user manual,\" which included instructions for a ton of entry level projects, ranging from how to set up Retropie to how to set up the Pi as PBX for VOIP phone service. A top notch jumping off point and idea starter.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "J. Wielopolski",
+      "helpful_votes": 0,
+      "publication_date": 20170929
+    },
+    {
+      "title": "I'm not going to rate that raspberry pi. The ...",
+      "text": "I'm not going to rate that raspberry pi. The case, heatsinks, and power cord are all quality items. That are packaged very well as well. The entire kit came in a seal bag with everything individually boxed. The price is fair considering similar kits cost $15 to $20 more from other venders.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "J. Holt",
+      "helpful_votes": 0,
+      "publication_date": 20180302
+    },
+    {
+      "title": "So far, so good",
+      "text": "So far, so good. I loaded Hassio on an SD card and stared playing. Heat sink installation was easy, the board fit into case nicely and case top snapped on easily. Quickstart guide is well written and easy to follow, although in my case, not required.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Larry H. Wall",
+      "helpful_votes": 0,
+      "publication_date": 20180413
+    },
+    {
+      "title": "The instruction manual was a little awkward as it didn't mention finding and installing an os before being able to power it on l",
+      "text": "First time with a raspberry pi. This kit was everything needed since I already had the memory card. The instruction manual was a little awkward as it didn't mention finding and installing an os before being able to power it on leading me to briefly think that I had gotten a bad board when I plugged it in. But the pi seems rather well put together. The case is nice. And now I've got my very own little home arcade after installing the software that I wanted. Great build for the price. Would buy again.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Mark Anthony Westerman",
+      "helpful_votes": 0,
+      "publication_date": 20161207
+    },
+    {
+      "title": "Tech full stop",
+      "text": "For the price, this thing is just too complex. The connector was damaged and the plug was bent. Could have been a shipping issue but still could not get the thing up and running",
+      "rating": 1.0,
+      "verified": true,
+      "author": "Ashesh",
+      "helpful_votes": 0,
+      "publication_date": 20191220
+    },
+    {
+      "title": "Everything just worked.",
+      "text": "Perfect for a small linux system - works perfectly, no problems with the connectors, heat sinks and power supply. Was able to put everything together, install the OS and get it going.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Robert N.",
+      "helpful_votes": 0,
+      "publication_date": 20190209
+    },
+    {
+      "title": "Exactly what I need.",
+      "text": "Exactly what I need. This Pi3 is replacing my Pi2 to run my KODI and RetroPie setup. A Pi3, case, heatsinks, and power supply is all I need to get started. Great price for a great upgrade to my entertainment center. They also sent me a helpful Vilros user guide with plenty of useful information in pdf format.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Mikey Serrano",
+      "helpful_votes": 0,
+      "publication_date": 20161128
+    },
+    {
+      "title": "Packaged well and fast delivery was the perfect way to receive this new addition to the PI ...",
+      "text": "Packaged well and fast delivery was the perfect way to receive this new addition to the PI line of products.Predictably ,this Pi 3 is compact, user friendly , affordable . The range of applications are only limited to your imagination. If you don't have one already,don't hesitate to invest a small amount of money into a whole lot of endless fun. This seller offers excellent customer service, so buy with confidence.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Mothra Moth",
+      "helpful_votes": 0,
+      "publication_date": 20160506
+    },
+    {
+      "title": "Very nicely fit in the case",
+      "text": "Very nicely fit in the case! The Raspberry Pi 3 is quite easy to set up. This basic starter kit is very nice to have and more than enough for the beginners! If you have extra microSDHC and HDMI cable, no need to pay extra for more than this starter kit. The NOOBS is quite simple and straight forward to set up, except the download part took a little long (~10 mins). After that, it was quite fast to have the Raspian up and running even for a beginner (15 yr old kid with a little help from an adult).",
+      "rating": 5.0,
+      "verified": true,
+      "author": "a user",
+      "helpful_votes": 0,
+      "publication_date": 20160529
+    },
+    {
+      "title": "everything was fine. There are two heat sinks to stick onto ...",
+      "text": "This was my first raspberry pi experience. Next time I'll know that it doesn't boot at all without an OS-loaded micro SD inserted. I was expecting a bios report by just powering it on as-is, but you won't get a video signal, just a red light. Once I put NOOBS on the card and fired it up, everything was fine. There are two heat sinks to stick onto the chips, and the clear case was easy to use and mount to a wall. Great piece of hardware.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "T. Nichols",
+      "helpful_votes": 0,
+      "publication_date": 20160906
+    },
+    {
+      "title": "Raspberry PI 3 is the right choice.",
+      "text": "This is my second raspberry pi 3. I use my first pi3 as my home PC. It was a little sluggish and would not work well with my email account. When I configured the second pi3 I found that the operating system software had undergone major improvements, and so I reconfigured my original pi3. (much better now) I have outfitted the second one with cameras for my home security and environment controls. my only minor hangup is that it would be nice to have analog mic input.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Betsy Stock",
+      "helpful_votes": 0,
+      "publication_date": 20161119
+    },
+    {
+      "title": "I opted to install the ArchLinuxARM OS and install was relatively easy. I did have an issue with accessing my ...",
+      "text": "Kit had everything needed for my purposes. I opted to install the ArchLinuxARM OS and install was relatively easy. I did have an issue with accessing my DNS server where the /etc/resolv.conf symlink was referencing a location that was not there. After several troubleshooting attempts I was able to set the nameserver using the dhcp configuration file. I don't believe this was due to the hardware but a misconfiguration from the install. Now everything works great and the ARM programs run smooth from the pacman ARM repo. I did set a schedule to reboot daily to clear the memory. No other issues, good buy!",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Ben",
+      "helpful_votes": 0,
+      "publication_date": 20161211
+    },
+    {
+      "title": "Did not work for me!",
+      "text": "I'm unable to get it display on my monitor. Shows red light but nothing after that. Tried with multiple sd cards, 128/64/32 ...nothing worked.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "Bharadwaz",
+      "helpful_votes": 0,
+      "publication_date": 20180307
+    },
+    {
+      "title": "I love this thing",
+      "text": "I love this thing. Only one down side, the manual says it comes with an SD card with Raspbian pre-installed. I purchased a 32gb SD card (separately but as part of the same purchase). The Pi didn't come with an SD card at all. Please note the vendor does not include the SD card in the list of items therefore, one should not expect to receive one. It just an expectation thing when you read the manual and feel like \"Hey what's up with that?\".",
+      "rating": 4.0,
+      "verified": true,
+      "author": "Michael Doldan",
+      "helpful_votes": 0,
+      "publication_date": 20171030
+    },
+    {
+      "title": "Great kit to get started with",
+      "text": "Very happy with this kit! Everything arrived on time and as expected. The kit works and has been a lot of fun! The case is very solid and fits the Raspberry Pi well. Heat sinks were easy to install. Power supply seems well and has supplied enough power for the Raspberry Pi and some small projects I did on the breadboard.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Rowdy Dowdy",
+      "helpful_votes": 0,
+      "publication_date": 20170805
+    },
+    {
+      "title": "A good value for all that you get.",
+      "text": "Nice product. Everything sent was as promised, and received in 2 days. It fired right up, and has been working without any issues. The case is well built, and just snaps together. No need for screws. I would purchase from these folks again without hesitation.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "R. Scaffidi",
+      "helpful_votes": 0,
+      "publication_date": 20180624
+    },
+    {
+      "title": "Perfect as usual",
+      "text": "Second raspberry pi I have pruchased and as usual no issues at all. Great device with many possibilities.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Abel",
+      "helpful_votes": 0,
+      "publication_date": 20191114
+    },
+    {
+      "title": "Nice kit with best Pi yet",
+      "text": "This kit was just what I needed to try out the new version 3. I have 3 older Raspberry Pi's, and this one is really slick. It is much faster, and having the wi-fi built in is great. The case that comes with this kit is well designed, and since it is clear it is easy to see the status LED's from any angle. Including heat sinks is also a nice bonus, and the whole thing is reasonably priced.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "R. E. Jodoin",
+      "helpful_votes": 0,
+      "publication_date": 20160427
+    },
+    {
+      "title": "My husbands loves it",
+      "text": "He will use this to create new code and twist things to work his way, but he is an electronic engineer so not sure if it's easy for someone with no experience",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Cliente de Amazon",
+      "helpful_votes": 0,
+      "publication_date": 20190412
+    },
+    {
+      "title": "Its a tiny computer!",
+      "text": "Arrived on time and working. I have experience with Linux so this was easy for me to install an operating system. Raspian is a great OS. Also received an E-Book after I made my purchase. Thanks for the great product. I think this will become a storage server, or maybe just a fun toy to try new things with.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Pierce",
+      "helpful_votes": 0,
+      "publication_date": 20170313
+    },
+    {
+      "title": "Good pi, but case is crap",
+      "text": "Great kit other than the case tolerance being too tight. Once the board is in, the case wouldn't engage the latch, I had to add zip ties to keep it closed.",
+      "rating": 4.0,
+      "verified": true,
+      "author": "Ryan",
+      "helpful_votes": 0,
+      "publication_date": 20190906
+    },
+    {
+      "title": "Scratch the list goes on Clear case is very cool. Arrived quickly and as described",
+      "text": "This package plus a microsd card is all you need to open a world of possibilities - Ubuntu, RetroPie, LibreOffice, Python, Scratch the list goes on Clear case is very cool. Arrived quickly and as described. Would buy again without hesitation. Great product and seller",
+      "rating": 5.0,
+      "verified": true,
+      "author": "KMeyer",
+      "helpful_votes": 0,
+      "publication_date": 20170115
+    },
+    {
+      "title": "Product came as expected and was well packaged.",
+      "text": "Product came as expected and was well packaged. A quick start guide was included and would help if you have never setup a Raspberry Pi computer. The information is also on Raspberry's web site. I will purchase my next Pi from Vilros! 7/21/2017AD",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Sit",
+      "helpful_votes": 0,
+      "publication_date": 20170721
+    },
+    {
+      "title": "Great Starter Kit!!!!",
+      "text": "Love how little these things are. I used this one only for my media center in my entertainment center. Paired with Bluetooth keyboard and the Pi 3 stays hidden and you can't even tell that it is there. 4 stars because the package was damaged, probably due to shipping or packing.",
+      "rating": 4.0,
+      "verified": true,
+      "author": "Nash & Hope",
+      "helpful_votes": 0,
+      "publication_date": 20170302
+    },
+    {
+      "title": "Great Kit.",
+      "text": "Everything you need to get started with your Raspberry Pi projects. You will need to add your own memory card. The case fit the Pi nicely not covering any or the ports. My only complaint is that I wish the power supply had an on/off button. I'm using mine to build an Arcade Cabinet using RetroPi with MAME.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "JeffreyTop Contributor: Raspberry Pi",
+      "helpful_votes": 0,
+      "publication_date": 20170507
+    },
+    {
+      "title": "Good Kit!",
+      "text": "Nice product. Would be 5 stars but I mounted the case to the underside of my 3d printer and the raspberry pi overheated. I used the included mounting holes in the case, and I installed the heat sinks.",
+      "rating": 4.0,
+      "verified": true,
+      "author": "Eliot SimcoeTop Contributor: Sewing",
+      "helpful_votes": 0,
+      "publication_date": 20190801
+    },
+    {
+      "title": "Good starter kit, but not complete",
+      "text": "Excellent product, the pi is a wonderful computer. This kit comes with the pi, a power supply, a case, and two heat sinks that I couldn't figure out what to do with. The only downside to this kit is that it lacks an sd card for the OS. The current raspian image requires just over 4gbs sou I would recommend getting an 8 gb micro sd. I implore anyone who is interested in computers to look into the pi, and this is a good start!",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Daniel Smith",
+      "helpful_votes": 0,
+      "publication_date": 20160620
+    },
+    {
+      "title": "Had what I needed to get started",
+      "text": "Includes everything I needed besides a SNES controller and MicroSD to get my RetroPie up and running. Had a few MicroSDs sitting on desk so that wasn't a big deal and got a 2-pack of SNES pads for a good price on here. Love this thing. Also you can use different Micro SDs for different things. Got one setup to be a 'SteamLink' box.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Master Link",
+      "helpful_votes": 0,
+      "publication_date": 20170712
+    },
+    {
+      "title": "Easy, simple package.",
+      "text": "Product arrived as described. While I haven't tapped into actually using it for its intended purposes yet, the item will be a great testbed web server. I purchased a setup identical to what was sold here from the Adafruit website and paid $25 more. Will purchase again when the need arises.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "foible",
+      "helpful_votes": 0,
+      "publication_date": 20190824
+    },
+    {
+      "title": "Great starter kit",
+      "text": "Great starter kit! If you're not into flashing USB drives and all that, you might want to opt for the kit that comes with NOOBS pre-installed on a memory card. It's not that difficult to do, but I've done it a bajillion times and already had the apps available to do it. Either way, you can't go wrong with this kit.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Shoogle",
+      "helpful_votes": 0,
+      "publication_date": 20160818
+    },
+    {
+      "title": "Good Kit To Start With",
+      "text": "I received my Pi and love it! There are a ton of project you can do with it. I would commend going the Vilros Basic kit as you get everything you need. The case is nice, and you get the added heat sinks. (You'll be glad you got those) All you'll need to get is a micro SD card. The customer service was excellent. They checked up on me and even provided me with a Raspberry Pi guide.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Kyle B",
+      "helpful_votes": 0,
+      "publication_date": 20170323
+    },
+    {
+      "title": "Great Kit",
+      "text": "I love the Raspberry Pi, and this kit is everything a beginner needs to start using one",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Jonathan Ambrose",
+      "helpful_votes": 0,
+      "publication_date": 20190916
+    },
+    {
+      "title": "I feel that the case is to basic for the cost and the mounting screws are useless if they line up at all the screws are ...",
+      "text": "This Kit is okay. I feel that the case is to basic for the cost and the mounting screws are useless if they line up at all the screws are too small to grasp the plastic the are meant for anyway. The plus about this one is the power supply is really well built for not having an on/off capabilities.",
+      "rating": 3.0,
+      "verified": true,
+      "author": "Rogelio G",
+      "helpful_votes": 0,
+      "publication_date": 20161107
+    },
+    {
+      "title": "Love these mini-computers",
+      "text": "These are so great, I'm starting to buy too many of them to do different things. VPN servers, remote power / control devices in your home using the GPIO pins and relays (or other types of equipment.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "David Brown",
+      "helpful_votes": 0,
+      "publication_date": 20180420
+    },
+    {
+      "title": "Be careful with the case",
+      "text": "Kit is okay but the case. Micro USB input hole is too small. Because case thickness power plug doesn't fit all the way and a small movement may cause restart or power off",
+      "rating": 3.0,
+      "verified": true,
+      "author": "Amazon Customer",
+      "helpful_votes": 0,
+      "publication_date": 20180319
+    },
+    {
+      "title": "Don't open a lot of browser windows",
+      "text": "I desperately should have gotten the kit with the os installed already. That's still the bane of my existence",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Ben",
+      "helpful_votes": 0,
+      "publication_date": 20190813
+    },
+    {
+      "title": "A great package",
+      "text": "I bought this as my first Raspberry Pi. I wanted a case with my pi and this package is perfect. The case is very high quality. The Vilros Raspberry Pi User Guide is a very well written document on getting started and actually learning how to use the pi.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "IT Guy",
+      "helpful_votes": 0,
+      "publication_date": 20171014
+    },
+    {
+      "title": "I found the guide very helpful and a great assist for getting the Pi 3 up and running",
+      "text": "I found the guide very helpful and a great assist for getting the Pi 3 up and running. The inclusion of programming basics and project ideas is a plus. The guide includes the steps to install different operating systems based on your plans and even includes creating a media center and programming your own arcade game. I found it comprehensive in identifying and using the I/O pins of the PI 3 for expanding the system to the outside world. All in all, I found it a very valuable guide.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Starship_Trooper",
+      "helpful_votes": 0,
+      "publication_date": 20161123
+    }
+  ],
+  "product_meta": {
+    "title": "Vilros Raspberry Pi 3 Kit with Clear Case and 2.5A Power Supply",
+    "rating": 4.7,
+    "feature_bullets": [
+      "Includes Raspberry Pi 3 Model B Quad-Core BROADCOM 64bit ARMv8 1.2 GHz 1 GB RAM (RPi3)",
+      "Great Idea for the Technically Minded who enjoy Tinkering and Creating",
+      "UL Certified 2.5 Amp USB Power Supply with Micro USB Cable and Noise Filter - designed for the Raspberry Pi 3",
+      "Cool transparent case with all ports accessible for ease of use while providing ultimate protection",
+      "Order with confidence from Vilros the Raspberry Pi Authority"
+    ],
+    "specifications": {
+      "Product Dimensions": "7.2 x 5.8 x 1.5 inches",
+      "Item Weight": "8.8 ounces",
+      "Manufacturer": "Vilros",
+      "ASIN": "B01D92SSX6",
+      "Item model number": "4328435095",
+      "Customer Reviews": "4.7 out of 5 stars1,517 ratings4.7 out of 5 stars",
+      "Best Sellers Rank": "#240 in Single Board Computers",
+      "Is Discontinued By Manufacturer": "No",
+      "Date First Available": "March 21, 2016"
+    },
+    "categories": [
+      "Computers & Accessories",
+      "Electronics",
+      "Single Board Computers",
+      "Computer Components"
+    ],
+    "price": 59.99
+  }
+}

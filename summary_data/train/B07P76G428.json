@@ -1,0 +1,964 @@
+{
+  "website_summaries": [
+    {
+      "verdict": "Nvidia's latest mainstream GPU, the GeForce GTX 1660, aims for gamers who need solid 60fps-plus performance with AAA games at 1080p, and even higher frame rates for esports titles. Gigabyte's OC version hits those marks well.",
+      "pros": [
+        "Super-solid for 1080p gaming, and robust for some titles at 1440p",
+        "Fine price-to-performance equation versus competing AMD Radeon midrange cards",
+        "Low noise output"
+      ],
+      "cons": [
+        "Ran a little hot in stress tests",
+        "Overclocking the card further was rocky"
+      ],
+      "aspects": {},
+      "publication_date": 20190314,
+      "rating": 8.0,
+      "source": "pcmag"
+    }
+  ],
+  "customer_reviews": [
+    {
+      "title": "Best choice",
+      "text": "If you're looking for the intersection of cost and performance, you've found it. It's 80%+ of my $380 GTX 1070, but for $220. Can run most games on ultra with 100+fps. This is a great choice.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Henry Hauschulz",
+      "helpful_votes": 55,
+      "publication_date": 20190430
+    },
+    {
+      "title": "Good price for significant upgrade!",
+      "text": "This Graphics card was the perfect upgrade for my gaming pc! It is cheap, the fans are quiet and it offers a great performance boost that I really needed! I just upgraded from the gtx 1060 and it allows me to play all of my games such as Conan exiles and 7 days to die at the ultra settings at a solid 60 fps!",
+      "rating": 5.0,
+      "verified": true,
+      "author": "this is such a rip off!",
+      "helpful_votes": 31,
+      "publication_date": 20191031
+    },
+    {
+      "title": "great budget card!",
+      "text": "run every game at 1080p ultra. upgraded from a gtx970 .very quiet even at %100 fan speed,cant even hear it! stays cool around 60-75c with %50-60 fan speed while gaming and 33c idle with %25 fan speed. pretty great card!",
+      "rating": 5.0,
+      "verified": true,
+      "author": "adam",
+      "helpful_votes": 32,
+      "publication_date": 20190411
+    },
+    {
+      "title": "1050TI Upgrade",
+      "text": "Did an upgrade from the 1050ti so i could play cs:go (and a few other single player games) at 144hz 1080p and it definitely gets the job done. Matched with the i5-9400f I had no problem running GTA V at medium and hitting a constant 144hz @1080p",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Cody",
+      "helpful_votes": 29,
+      "publication_date": 20190427
+    },
+    {
+      "title": "Good card",
+      "text": "I built a computer for gaming and app building, this card's fans are barely audible when playing some pretty graphic intensive games.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "William T. Kenworthy",
+      "helpful_votes": 23,
+      "publication_date": 20190403
+    },
+    {
+      "title": "Great value. But does NOT work as an eGPU",
+      "text": "Great bang for the buck. However I bought this intended for use as an eGPU for my NUC but it constantly hung. Just thought it was worth mentioning. Ended up swapping this into a PC that had an older 1060 and the 1060 works in the eGPU case.",
+      "rating": 4.0,
+      "verified": true,
+      "author": "Tim Hoogland",
+      "helpful_votes": 17,
+      "publication_date": 20190322
+    },
+    {
+      "title": "Best value for my money",
+      "text": "It\u2019s quiet and works great compared to the 650ti I had before. It was a great start to upgrading my 10 year old gaming pc",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Sky what\u2019s reviews",
+      "helpful_votes": 13,
+      "publication_date": 20190809
+    },
+    {
+      "title": "Display Port didn't work",
+      "text": "I bought it and two new Sceptre curved monitors so I could run Display Port. Any time I tried to run Display Port the monitors said \"No signal\". It ran HDMI OK. I thought perhaps it was just a faulty card, so I returned it for the same card. It did the same thing. I then returned it and bought a Sapphire PULSE Radeon RX590 8GB for less money. It works great.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "genmar",
+      "helpful_votes": 3,
+      "publication_date": 20191102
+    },
+    {
+      "title": "Worthwhile upgrade !",
+      "text": "NOTE: Before anything, i wanted to say that you will need an 8 pin power connector for this card! This card needs power to operate, so make sure your power supply has an additional 8 pin cable available! REVIEW: I originally had a 1 gb graphics card before this and it would work okay, but even basic games would lag at high settings.... now... queue this card. This card was very affordable compared to its competition, it had a decent amount of video ram, and my games can now run at high quality, 60+ FPS easily. The fan is quiet and I think it was a worthwhile investment.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "shooluvr",
+      "helpful_votes": 0,
+      "publication_date": 20200311
+    },
+    {
+      "title": "Awesome Value; GREAT Performance!",
+      "text": "After my GTX 560 died I decided to upgrade my computer since it was pretty old. I was going to go 1440p. Well things happened and I have to put that upgrade off. I ended up buying this card for a temporary solution but to be honest I'm just going to stick with 1080p and my current system for now. This card is a tremendous value and I won't miss what I've never seen before. If all you want is 1080p then you couldn't really ask for more.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Mat",
+      "helpful_votes": 2,
+      "publication_date": 20191028
+    },
+    {
+      "title": "STAY AWAY",
+      "text": "BUYER BEWARE. bought this over a month ago and have tried installing it on multiple builds. Seems to be defective. Seller won't offer a refund because I am 32 days out, STAY AWAY FROM THIS",
+      "rating": 1.0,
+      "verified": true,
+      "author": "Slade",
+      "helpful_votes": 5,
+      "publication_date": 20190712
+    },
+    {
+      "title": "Great for 1080p gaming and linux steam big picture",
+      "text": "I selected this as best bang for the buck for a Linux steam appliance. A bit rocky at first, Valve Proton just gets better and better with every release. This video card has been extremely stable, and reliable. The cooling is very quiet and it turns the fans on and off very efficiently. It's in a mini-itx case with a ryzen 2600 and you can barely hear it over the hum of the powersupply. The NVIDIA linux driver works very well and the steam machine hooked up to a TV has been a great option for playing steam games and couch co-op.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Yan Li",
+      "helpful_votes": 0,
+      "publication_date": 20200511
+    },
+    {
+      "title": "Great performance for cost, quiet and lower power",
+      "text": "OK, so it's not the fasted card in the world! However, it's faster than my monitor and that's all that really counts. This card is well documented and well supported. Nvidia tech help was fast and accurate. I had my card running in less than 5 minutes after updating W10 to the proper level. It does run cool and quiet! System is X570 AMD with Ryzen 5 3600, 500GB M.2 and 16GM fast RAM. What's not to like?",
+      "rating": 4.0,
+      "verified": true,
+      "author": "Charlesa G",
+      "helpful_votes": 0,
+      "publication_date": 20191125
+    },
+    {
+      "title": "Best Card for 220$",
+      "text": "Runs any game maxed settings 1080p 60+fps I use a MSI 144hz monitor with freesync Great card TEMPS AND NOISE ARE BAD I run PUBG and the fans go to 100% when playing and temps stay around 80c UPDATE: I changed thermal paste and maxing around 78c and fan speeds are much quieter Though I'd recommend the RX 570 which is MUCH cheaper if you're on a tighter budget And maybe wait for new NAVI card if you want to",
+      "rating": 3.0,
+      "verified": true,
+      "author": "Hyoung Jin Kim",
+      "helpful_votes": 3,
+      "publication_date": 20190605
+    },
+    {
+      "title": "Not good!",
+      "text": "Upon install, started to smell an \"electrical type of burning\" odor! Not good. Thankfully did not damage my rig! Returned immediately.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "Allan",
+      "helpful_votes": 3,
+      "publication_date": 20190623
+    },
+    {
+      "title": "Makes my pc play games silky smooth",
+      "text": "With my stock graphics I couldn't play fallout new vegas without severe lag and delays. Installed this and now its buttery smooth. It took a little while to figure out how to install it and set it as the default graphics card but once I updated the game driver software it worked perfect. It says you need a 450 watt power supply, but I'm using the stock 250 watt that my hp pavillion came with and it hasn't burned any cables up yet. Also I had to buy a adapter power chord to go from (2) 4 pins to one 8 pin.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "ben",
+      "helpful_votes": 0,
+      "publication_date": 20191016
+    },
+    {
+      "title": "This. Click buy.",
+      "text": "This card ROCKS! If you are looking for an amazing graphics card on the cheap without having to worry about poor FPS, look no further than this card! This is exactly what my tower needed to give it the upper hand in all the games I play! PUBG, Apex Legends, GTA V, Minecraft, Subnautica, CS:GO, COD:MW! Runs them all on High - Max graphics! I did have to take the side panel of my tower during the summer with this beast but it\u2019s worth it!",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Bruce Vandyke",
+      "helpful_votes": 0,
+      "publication_date": 20200109
+    },
+    {
+      "title": "Geforce GTX 1660",
+      "text": "I love this new GPU after leaving the Geforce 770 (I think) I love this one. It lets me run the games smoothly with no problem. For $230, I can\u2019t complain. I had to update my GPU and didn\u2019t really trust this one, but after seeing the reviews I wanted to try it myself and couldn\u2019t be anymore happier. Here is a video to show you.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Richard",
+      "helpful_votes": 0,
+      "publication_date": 20200228
+    },
+    {
+      "title": "Great GPU",
+      "text": "Pros - Easy to install (As is the case with \"most\" GPU's) - Pretty sturdy - Performs well with multiple games BF4, R6S, Skyrim SE, Minecraft, etc. - Drivers are easy to install Cons - It's pretty thick for a GPU so keep in mind the ports it may obscure at the bottom of your Mobo. Final Score 9.5/10 (Though I'd look at the 2060 super models as I \"presume\" they're getting cheaper now?)",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Steven Vyse",
+      "helpful_votes": 0,
+      "publication_date": 20200722
+    },
+    {
+      "title": "Very good GPU for the Money!!!",
+      "text": "I cant say enough about how good Gigabyte products are. I have a Gigabyte H370 HD3 Motherboard, and the Gigabyte GTX 1660 OC GPU works flawlessly with my system. All my games run great on Ultra settings! I am running 3 Monitors and this card works like a Champ! no lagging at all. All in All This GPU give major Bang for the Buck! I HIGHLY recomend this GPU!!!!",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Michael Beatt",
+      "helpful_votes": 0,
+      "publication_date": 20200421
+    },
+    {
+      "title": "Problems with fans not running, BSOD's",
+      "text": "Temperatures were running too high, discovered that the fans were NEVER running. NEVER. finally had to install a seperate program to force them to run after reaching a certain temperature. Have also been getting the dreaded BSOD's since installing this card. Am currently looking for a decent replacement. Very disappointed",
+      "rating": 2.0,
+      "verified": true,
+      "author": "Steve M",
+      "helpful_votes": 0,
+      "publication_date": 20191111
+    },
+    {
+      "title": "Great budget option!",
+      "text": "I was advised to check out this graphics card for my first PC build, as it could handle modern game graphics and more involved CAD modeling software. I also utilize dual displays, so my BIOS is set to defer to this component for all graphics duties. It's a great piece! The shaders tend to catch up to an evolving landscape without lag, even on the highest game render settings. The fans do hum a bit when I'm playing, but hey, it's no louder than having a desktop fan nearby on \"low.\" All in all, I chose well!",
+      "rating": 5.0,
+      "verified": true,
+      "author": "I. Pinedale",
+      "helpful_votes": 0,
+      "publication_date": 20200904
+    },
+    {
+      "title": "Great value",
+      "text": "You get great bang for your buck with this GPU. I used it in my first PC gaming build, budget was around $1200. Do some research, this GPU is awesome",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Ben",
+      "helpful_votes": 0,
+      "publication_date": 20200813
+    },
+    {
+      "title": "Great so far",
+      "text": "Sharp and sleek, quiet but powerful graphics processing unit . Not bad at all for the cost. Check your local Microcenter or tech store first as they sometimes have deals for these GPUs (I wish I did, as I could have saved about $20-40). Most games will defaulted to High / Ultra settings. Make sure if you install it yourself, that you have enough power from your power supply unit. My PSU was orignally 460W and my new is Seasonic 750W.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Adam",
+      "helpful_votes": 0,
+      "publication_date": 20191015
+    },
+    {
+      "title": "The best card you can get for 1080p that wont break the bank.",
+      "text": "If you do your research you will find that this specific version of the 1660 benches the best. If you are only gaming in 1080p getting a 1660 ti is pointless. I have this paired with an i5 9400f/3000 ram on XMP settings, and i get 80-120 fps on all my games at 1080p high settings with dumb stuff like shadows etc turned off. Get this card.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "John",
+      "helpful_votes": 0,
+      "publication_date": 20190927
+    },
+    {
+      "title": "Worth It",
+      "text": "This is my first GPU that I've bought, ever since I've decided to move from console to PC. Unlike others, I was nervous because I didn't know this is would handle things like I expected. I love it when I'm proved wrong, this is an amazing GPU: no problems, temperature is stable, and this is an overall great component that should be acquired for efficient and productive gaming, streaming, designing, etc. If you're contemplating about this device, negatively, forget it. This device is worth it.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "ana mendoza",
+      "helpful_votes": 0,
+      "publication_date": 20201008
+    },
+    {
+      "title": "The packaging",
+      "text": "The card works great. Looks great. However, I am glad I was at home to get this package because it was delivered in the Gigabyte box you see in the photo. The package was not sealed, but thankfully when I lifted it open, the card was in the anti-static bag, secured with foam. and it had tape on it that had clearly not been tampered with.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Darryl Lee Cantu",
+      "helpful_votes": 0,
+      "publication_date": 20200124
+    },
+    {
+      "title": "FANS MAKING GRINDING NOISE",
+      "text": "The card works fine for production and gaming workloads, but the fans keep making a distinct grinding noise. This is unacceptable... its annoying, and is getting damaged every minute its on. I've seen many people complain about this. The build quality of this graphics card is NOT good. Don't buy this",
+      "rating": 3.0,
+      "verified": true,
+      "author": "Gideon A. Dunkley",
+      "helpful_votes": 0,
+      "publication_date": 20200511
+    },
+    {
+      "title": "Great GPU",
+      "text": "I picked this up a few weeks ago and love it. Im running Red Dead 2 max settings with a 4th gen i7 16gb of RAM. Pretty much silent, great deal",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Matt",
+      "helpful_votes": 0,
+      "publication_date": 20191120
+    },
+    {
+      "title": "A balanced choice of 200 USD cards",
+      "text": "According to several reviews on the Internet. 1660 is better than RX580 in both performance and power consumption. However, the price is a bit higher. On the other hand, 1660 is beaten by 1660Ti in performance but you may save 50 bucks. This gigabytes products is cheapest among graphics cards with 1660 chip. So I recommend it as a decent choice if your budget is about 200 USD.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "hanhan",
+      "helpful_votes": 0,
+      "publication_date": 20190624
+    },
+    {
+      "title": "Bought 2 and very happy",
+      "text": "I got 2 of these to upgrade my kids computers from 970's and they work very very well. Not noisy and plenty of juice to run ultra on COD. Excellent performance for the money and gives me a good year before I have to even contemplate replacement, probably 2 years.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "nickmarine",
+      "helpful_votes": 0,
+      "publication_date": 20191225
+    },
+    {
+      "title": "Quality",
+      "text": "More GPU than my FX6100 needs but I plan to upgrade CPU soon so this will be more than a match. I replaced two old amd cards to support three monitors this card runs all three and better. The Aorus control is neat you can customize the fan speeds and they are super quiet and the card cools extremely well. Great product!",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Car Guy",
+      "helpful_votes": 0,
+      "publication_date": 20191114
+    },
+    {
+      "title": "I don't play games but I had to vote.",
+      "text": "6BG memory and set up was really easy. The only thing I hated was the seller shipped in the retail box and it was open. WOW.... I can't believe it wasn't damaged. I would of liked a little more protection.",
+      "rating": 4.0,
+      "verified": true,
+      "author": "John",
+      "helpful_votes": 0,
+      "publication_date": 20200326
+    },
+    {
+      "title": "I regret this purchase, the fan is garbage",
+      "text": "Really thought I was getting a decent card here. Don't get me wrong, it seems to handle graphics just fine, but the fan makes obnoxious and repetitive revving noises when at low speed. It also rattles at high speed and sounds like its going to fall apart. Software helps keep it in the middle ground but does not work all the time. This problem did not surface until months after non-gaming use.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "Jay Pompa",
+      "helpful_votes": 0,
+      "publication_date": 20200710
+    },
+    {
+      "title": "Great replacement for my 2013 GeForce GPU at the same price",
+      "text": "I burned out my old GPU doing neural style transfer experiments in After Effects. That stuff hits the GPU HARD. This cost the same as the old one but it has much better features and performance. I don't game at all, but this is great for video editing, animation and effects work.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "FP",
+      "helpful_votes": 0,
+      "publication_date": 20191116
+    },
+    {
+      "title": "nvidia surround spanning across multiple identical monitors won't work properly!-  low res only!",
+      "text": "latest driver, everything works fine till you apply nvidia surround to span across identical monitors- only low resolution works - 5 hours wasted - FRUSTRATED - returning!",
+      "rating": 2.0,
+      "verified": true,
+      "author": "Stephen",
+      "helpful_votes": 0,
+      "publication_date": 20200822
+    },
+    {
+      "title": "best bang for the buck",
+      "text": "I feel this card gives you the most power for the dollar.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Zigma",
+      "helpful_votes": 2,
+      "publication_date": 20190407
+    },
+    {
+      "title": "Nice Card",
+      "text": "Nice card for the money. My system is perfectly stable unless I switch the view to portrait mode. The build continuously reboots if portrait mode is used. Could be the system, could be this card. I've docked it a star for instability.",
+      "rating": 4.0,
+      "verified": true,
+      "author": "A Buyer",
+      "helpful_votes": 0,
+      "publication_date": 20190820
+    },
+    {
+      "title": "Great value!",
+      "text": "This card plays modern titles at reasonable settings. The price was great and the performance beat my expectations. It's not a 2070, but does much better than I had dated to hope. Mid level gamers will love it.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "T. K. Sneed",
+      "helpful_votes": 0,
+      "publication_date": 20191213
+    },
+    {
+      "title": "Good for Destiny and Ununtu",
+      "text": "Runs Destiny 2 at 1080p on ultra wide with ease. No sense spending more on a higher card when this thing handles everything I do, with room to spare. Also works on Ubuntu after installing open source drivers.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "D00dleB0b",
+      "helpful_votes": 0,
+      "publication_date": 20191214
+    },
+    {
+      "title": "Love it better then my 1060 and cheaper than an rtx",
+      "text": "I have been struggling with an old gtx 1060 3 gb and I am on a Budget so those rtx house are out of the question however this gpu is freaking awesome it plays all my games at 60 + fps on ultra settings I am very pleased with my purchase owo",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Gamerghoul",
+      "helpful_votes": 0,
+      "publication_date": 20190826
+    },
+    {
+      "title": "Good buuut.",
+      "text": "It's great for the money, really quiet and even tho it's on the bigger side, it does not cause will issues with routing the other cables. While it does have multiple video out options, I would have liked 2 HDMI out slots instead of 1",
+      "rating": 4.0,
+      "verified": true,
+      "author": "Isai Castillo",
+      "helpful_votes": 0,
+      "publication_date": 20190630
+    },
+    {
+      "title": "1660 is a great gaming card on a budget.",
+      "text": "Used in my sons gaming rig. Plays all of his games very well. Terrific card for the money. I have a 1050TI and this way put performs that card. I also have a 1080 and its overkill for anything my kids play (warframe, Fortnite, geometry dash, etc.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Terry",
+      "helpful_votes": 0,
+      "publication_date": 20190723
+    },
+    {
+      "title": "excellent \"bang for your buck\" card",
+      "text": "I bought this to replace an aging gtx 970 and it performs wonderfully. No issues at all and games are running like butter!",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Dale T.",
+      "helpful_votes": 0,
+      "publication_date": 20190601
+    },
+    {
+      "title": "A lot has improved in the last 10 years...",
+      "text": "Finally replaced my creaky old Radeon 5950. OMG, what a difference 10 years makes! IMO, this is the best price/performance card out there. Quiet, fast, low power, high frame rate. All good.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "RickyPetite",
+      "helpful_votes": 0,
+      "publication_date": 20191106
+    },
+    {
+      "title": "Did not last 6 monthes",
+      "text": "Purchased 28 September 2019, certified dead on 15 April 2020. The capacitors blew, causing the monitor to turn on and off and a rapid rate. There really isn't a warranty.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "Not A Bear",
+      "helpful_votes": 0,
+      "publication_date": 20200415
+    },
+    {
+      "title": "product arrived without damage and is working properly.",
+      "text": "The shipping time was great! The product came safely. Seller wrapped it up well for its long journey to my location. It is working well. It was easy to install. My son plays shooter games and noticed a positive difference to the gameplay. So far the GPU has been doing its job! GPUs in general are very pricey, but I am glad it arrived without any ptoblems and is working! Thank you.",
+      "rating": 4.0,
+      "verified": true,
+      "author": "KJTP",
+      "helpful_votes": 0,
+      "publication_date": 20200812
+    },
+    {
+      "title": "140 FPS",
+      "text": "Glad I went with this over the RX570. great GPU for your first PC build or to just upgrade from a lower budget GPU. I get 140 fps on most games at high to ultra settings at 1080p.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Alex Flynn",
+      "helpful_votes": 0,
+      "publication_date": 20191202
+    },
+    {
+      "title": "Upgrade on a budget",
+      "text": "Instantly upgraded my graphics game for a decent price. Installation to a while, but that's nitpicking. Everything works great and all my games play on it easily.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Curtis R. Kendall",
+      "helpful_votes": 0,
+      "publication_date": 20200331
+    },
+    {
+      "title": "Works well with PUBG",
+      "text": "Great product. Runs PUBG steady frame rate at 120 on my setup Very high settings. Will do up 160 variable and depending settings.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "J.C.",
+      "helpful_votes": 0,
+      "publication_date": 20200229
+    },
+    {
+      "title": "No regrets.",
+      "text": "I gave this GPU a 4 star for the price but overall it runs everything on 1080p max settings, BF V, MHW, Dauntless, For Honor moved from Xbox one to pc no regrets, installed this in a rosewill srm-01 case.",
+      "rating": 4.0,
+      "verified": true,
+      "author": "Ali",
+      "helpful_votes": 0,
+      "publication_date": 20190525
+    },
+    {
+      "title": "Great Card for the Money",
+      "text": "This card is installed in an Intel Based i7 system that is used in a school environment for video editing. The card does a fantastic job and might even be overkill.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Dr. Spetter",
+      "helpful_votes": 0,
+      "publication_date": 20191104
+    },
+    {
+      "title": "Gigabyte GeForce GTX 1660 OC 6G Graphics Card, 2X Windforce Fans, 6GB 192-bit GDDR5",
+      "text": "This video Card was a huge upgrade to my pc. had to buy one with the display ports for my vr setup. thanks will buy from again.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Lastat",
+      "helpful_votes": 0,
+      "publication_date": 20200110
+    },
+    {
+      "title": "Great buy",
+      "text": "I love this card. I used it in my first ever PC build and every time I launch a game I scale the graphics as high as they go and this card always delivers. I play WoW on max graphics, I run Subnautica on max graphics, this card definitely suits my needs and more. And it was easy to install, like really really easy.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Dave",
+      "helpful_votes": 0,
+      "publication_date": 20200105
+    },
+    {
+      "title": "great for 1080p gaming",
+      "text": "upgraded from my gtx 950 evga ftw, just plug & play. chose this over rx580/590 as it consumes less power. received in abt 10days, 3 days ahead of schedule.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Sharon",
+      "helpful_votes": 0,
+      "publication_date": 20190823
+    },
+    {
+      "title": "Decent price for performance",
+      "text": "Performs great for its price, but Asus 1660 OC Super goes for only $10 more, better off buying that one.",
+      "rating": 4.0,
+      "verified": true,
+      "author": "Bing",
+      "helpful_votes": 0,
+      "publication_date": 20200111
+    },
+    {
+      "title": "Beast!!",
+      "text": "You cant beat the power for that price. very strong card.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Osiris",
+      "helpful_votes": 0,
+      "publication_date": 20190420
+    },
+    {
+      "title": "If you want a good card and dont want to spend much this is the one......",
+      "text": "Love the card. Had lag big time with my other card which was out of date anyways. Glad I bought this one works great and no more lag. Running everything at ultra graphics and it's still doing great.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Jmaro1990",
+      "helpful_votes": 0,
+      "publication_date": 20191022
+    },
+    {
+      "title": "Great starter GPU",
+      "text": "This is a great starter graphics card. It can keep up with any triple A game. But if get the itch to run ultra on everything you\u2019re going to want an upgrade.",
+      "rating": 4.0,
+      "verified": true,
+      "author": "Amazon Customer",
+      "helpful_votes": 0,
+      "publication_date": 20200110
+    },
+    {
+      "title": "Great board for the money.",
+      "text": "Was looking for a fast board for the money and settled on this one. Does all that I need it to do. Great buy for the money.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Keith Elbe",
+      "helpful_votes": 0,
+      "publication_date": 20190906
+    },
+    {
+      "title": "works with Linux",
+      "text": "... and finally something, which is good enough for KSP (Kerbal Space Program).",
+      "rating": 5.0,
+      "verified": true,
+      "author": "R. Garbacz",
+      "helpful_votes": 0,
+      "publication_date": 20200507
+    },
+    {
+      "title": "Nice upgrade",
+      "text": "Bought this as a gift for my brother. Major upgrade for him and no more online game crashes.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "JJ",
+      "helpful_votes": 0,
+      "publication_date": 20200107
+    },
+    {
+      "title": "Nice upgrade from a 1060",
+      "text": "Upgrade from 1060 card. This works better for Red Dead and GTA 5. Better frame rates.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Chuck A.",
+      "helpful_votes": 0,
+      "publication_date": 20200118
+    },
+    {
+      "title": "Perfect for the long-awaited upgrade without breaking the bank",
+      "text": "Great for gamers wanting to upgrade from 900-series or below cards. Don't recommend for the newest AAA titles, but I can run most games at max settings 120fps",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Reed",
+      "helpful_votes": 0,
+      "publication_date": 20191021
+    },
+    {
+      "title": "Great performance for the price.",
+      "text": "I had been saving to do a proper pc upgrade but couldn\u2019t pass up the value for the price compared to the 10xx series of gpu\u2019s. If you don\u2019t want the 20xx series for whatever reason and still want an upgrade then consider this.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Angerro",
+      "helpful_votes": 0,
+      "publication_date": 20190704
+    },
+    {
+      "title": "An excellent experience.",
+      "text": "While not as powerful as other cards on the market the 1660 is still a fine card that won't have you shilling over an extra 300$ for performance you won't need for most games. (That is of course, if you don't mind minor stutter at 60 fps in some newer games.)",
+      "rating": 4.0,
+      "verified": true,
+      "author": "Aiden R.",
+      "helpful_votes": 0,
+      "publication_date": 20190707
+    },
+    {
+      "title": "GeGorce GTX 1660 OC.",
+      "text": "I bought this for my son's first gaming pc build. Easy install. Good price. Great for a starting build. No problems.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Brian Saum",
+      "helpful_votes": 0,
+      "publication_date": 20200202
+    },
+    {
+      "title": "All around good deal",
+      "text": "Easy installation, decent software good updates, decent price for mid level card",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Edwin",
+      "helpful_votes": 0,
+      "publication_date": 20191125
+    },
+    {
+      "title": "if you're on a budget this is a great card for the money",
+      "text": "still cant quite pull ultra on GTA or CoD but Destiny and Fortnite run on Ultra. I'm using it with a Ryzen 5 2600 and Gigabyte Aorus B450. All in all very pleased with the setup.",
+      "rating": 4.0,
+      "verified": true,
+      "author": "Aaron Daley",
+      "helpful_votes": 0,
+      "publication_date": 20190806
+    },
+    {
+      "title": "Great product for the price",
+      "text": "Butter for my new computer has been working great graphics quality fantastic",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Rolando Dorta",
+      "helpful_votes": 0,
+      "publication_date": 20191228
+    },
+    {
+      "title": "Great for the price!",
+      "text": "A really great graphics card for the price, I\u2019m use it on casual 3d games, Roblox, Minecraft, Forkknife, and it runs really good. Barely gets hot, a tad bit louder than my last one but my last one had one small fan, so it\u2019s not half bad.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Marcus.O",
+      "helpful_votes": 0,
+      "publication_date": 20190804
+    },
+    {
+      "title": "Doesn't come with required cabling",
+      "text": "Was missing the POWER CABLE to POWER the video card. You would think this $3 cable could have been included since it seems to be required to use it.",
+      "rating": 2.0,
+      "verified": true,
+      "author": "Denver",
+      "helpful_votes": 0,
+      "publication_date": 20200120
+    },
+    {
+      "title": "the sweetspot for the money",
+      "text": "finally i can play all games with the resolution turned up all the way,also transcoding jobs are now 5 minutes instead of 45 !",
+      "rating": 5.0,
+      "verified": true,
+      "author": "nels johnson",
+      "helpful_votes": 0,
+      "publication_date": 20200125
+    },
+    {
+      "title": "Great Card",
+      "text": "Runs ARMA 3 on Ultra at 60fps can't be happier with this card for the price",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Conrad",
+      "helpful_votes": 0,
+      "publication_date": 20191204
+    },
+    {
+      "title": "\ud83d\udc4f\ud83d\udc4f\ud83d\udc4f\ud83d\udc4f",
+      "text": "Took a fat minute to install but was well worth it because it works perfectly",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Andrew ",
+      "helpful_votes": 0,
+      "publication_date": 20190723
+    },
+    {
+      "title": "Super quiet!",
+      "text": "Everything is great it is really quiet. Highly recommend this card!",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Paul Gambardella",
+      "helpful_votes": 0,
+      "publication_date": 20191007
+    },
+    {
+      "title": "Fast and Powerful.",
+      "text": "Needed a replacement video card for and this one was a great choice. Fast, quiet and powerful for most gaming needs. Has support for three direct monitor hookups and one HDMI. I did have to order new cables to utimize the new DisplayPort to DVI connections but works great.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "E. Bruce",
+      "helpful_votes": 0,
+      "publication_date": 20190718
+    },
+    {
+      "title": "High quality and works perfectly",
+      "text": "This product works exactly as expected. I'm getting the frame rates and temperatures that I would expect.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Susanna Bosted",
+      "helpful_votes": 0,
+      "publication_date": 20190918
+    },
+    {
+      "title": "So far I can run any game on ultra",
+      "text": "So far I can run any game on ultra. I'd say this is good enough.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "K. Swain",
+      "helpful_votes": 0,
+      "publication_date": 20190617
+    },
+    {
+      "title": "Great Value",
+      "text": "Had my old desktop shipped out to me so I could stop playing games on my laptop. Plan to build a new PC in a few months and hoped this one still worked, GPU died after a few days. 200 bucks got me up and running and better than before. Pretty good for just general gaming.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Jake",
+      "helpful_votes": 0,
+      "publication_date": 20190622
+    },
+    {
+      "title": "Love it",
+      "text": "Can't beat it for the price, a lot better than my GTX 1060",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Hurracayne",
+      "helpful_votes": 0,
+      "publication_date": 20190728
+    },
+    {
+      "title": "10/10",
+      "text": "It's more than enough if you like to play games casually, could even work with a 144Hz monitor for competitive games with graphics tweaked a little bit (even though I'd recommend you to go for te 1660 ti if that's what you want). No noise and great temps for now, fans are completely stopped at all times unless you start a game. Really happy with my 1660!",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Leonel",
+      "helpful_votes": 0,
+      "publication_date": 20190530
+    },
+    {
+      "title": "FANS DIDN\u2019T WORK!!!",
+      "text": "I would give it 1 star if i wasn\u2019t getting a replacement. I installed it in my PC, all cables connected, and the fans would work. Temperatures were getting up to 90 C and the fans would NOT turn on! Buyer beware!",
+      "rating": 3.0,
+      "verified": true,
+      "author": "Paul",
+      "helpful_votes": 0,
+      "publication_date": 20190923
+    },
+    {
+      "title": "Awesome",
+      "text": "You can't beat this for the price. Able to play every game I got, especially after overclocking it. It's almost discouraging me from buying a rtx 2080 later because this is doing the job just fine.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Tommy",
+      "helpful_votes": 0,
+      "publication_date": 20190527
+    },
+    {
+      "title": "It works great",
+      "text": "Although this GPU isn't for AAA Games, it works well in most games !",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Daniel Pexton",
+      "helpful_votes": 0,
+      "publication_date": 20200727
+    },
+    {
+      "title": "Great",
+      "text": "Iv has 0 issues with this GPU. And super quiet. Obviously I would get a super now but if you find a deal on this it\u2019s perfect.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Tyler",
+      "helpful_votes": 0,
+      "publication_date": 20200719
+    },
+    {
+      "title": "Good card...crap software.",
+      "text": "Just installed a couple days ago so I haven't pushed it yet but so far so good. This is my first Nvidia card and I'm really disappointed with the software. I've always used amd Radeon catalyst software and this is garbage in comparrison.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Stephanie",
+      "helpful_votes": 0,
+      "publication_date": 20200428
+    },
+    {
+      "title": "Feels bad",
+      "text": "Got a dead graphics card, which came brand new. Had to return graphics card to get another \"brand new one,\" which ended up working.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "Amazon Customer",
+      "helpful_votes": 0,
+      "publication_date": 20200101
+    },
+    {
+      "title": "End of CTD\"s",
+      "text": "Worked great in new build w/ Asus Tuf mother board and AMD 5 3600 processor",
+      "rating": 5.0,
+      "verified": true,
+      "author": "David P Gaugler",
+      "helpful_votes": 0,
+      "publication_date": 20190911
+    },
+    {
+      "title": "GREAT!!!",
+      "text": "Great card for the price upgraded from a GTX660 , huge improvement!!!!",
+      "rating": 5.0,
+      "verified": true,
+      "author": "R. Hernandez",
+      "helpful_votes": 0,
+      "publication_date": 20191217
+    },
+    {
+      "title": "Great for live encoding",
+      "text": "Loooove this card. Am able to stream to game like the new Call of Duty twitch with a one pc setup at amazing quality because of the awesome nvenc encoder! Get it. You will be pleased!",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Cary",
+      "helpful_votes": 0,
+      "publication_date": 20200307
+    },
+    {
+      "title": "Beast graphics card",
+      "text": "Does just as good as NVIDIA and half the cost",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Amazon Customer",
+      "helpful_votes": 0,
+      "publication_date": 20190712
+    },
+    {
+      "title": "best 1080p gaming",
+      "text": "the best gpu for 1080p gaming at 60fps or more (overwatch max settings 120+ fps). (fortnite best looks and performance settings 144+fps) (gta v max settings 30+fps)",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Miles",
+      "helpful_votes": 0,
+      "publication_date": 20190525
+    },
+    {
+      "title": "good card",
+      "text": "really good card good bang for the buck but for most games it lags",
+      "rating": 5.0,
+      "verified": true,
+      "author": "peter synk",
+      "helpful_votes": 0,
+      "publication_date": 20200324
+    },
+    {
+      "title": "Great for gaming",
+      "text": "Amazing. I upgraded from gtx1060 3gb and it's amazing.. getting 60fps on high setting on most games..",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Essak",
+      "helpful_votes": 0,
+      "publication_date": 20191022
+    },
+    {
+      "title": "Excellent!",
+      "text": "Product is working just as intended! I just wish the individual had followed the instructions because this order could've been stolen by any strangers walking pass the house.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Jafar",
+      "helpful_votes": 0,
+      "publication_date": 20200201
+    },
+    {
+      "title": "AMAZING!",
+      "text": "great value, great performance, came on the original package, I can play AAA games now.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "kluzma",
+      "helpful_votes": 0,
+      "publication_date": 20190531
+    },
+    {
+      "title": "No vga and avi !",
+      "text": "For that price I have to say the quality are very good !",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Jason G.",
+      "helpful_votes": 0,
+      "publication_date": 20190630
+    },
+    {
+      "title": "good mid range card",
+      "text": "gets great frame rates in all my games even at 1440p",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Amazon Customer",
+      "helpful_votes": 0,
+      "publication_date": 20200204
+    },
+    {
+      "title": "Just right.",
+      "text": "Easy to install. Bout for my step son for his gaming pc.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Tiffany Hatfield",
+      "helpful_votes": 0,
+      "publication_date": 20190618
+    }
+  ],
+  "product_meta": {
+    "title": "Gigabyte Gv-N1660OC-6GD GeForce GTX 1660 OC 6G Graphics Card, 2X Windforce Fans, 6GB 192-Bit GDDR5, Video Card",
+    "description": "Style:CardPowered by GeForce GTX 1660 integrated with 6GB GDDR5 Wind Force 2x cooling system with alternate spinning fans intuitive controls with a or us engine 6GB 192 Bit GDDR5 1 x HDMI, 3 x DisplayPort PCI Express 3.0 x16.",
+    "rating": 4.7,
+    "feature_bullets": [
+      "Powered by GeForce GTX 1660 integrated with 6GB GDDR5",
+      "Wind force 2x cooling system with alternate spinning fans",
+      "Intuitive controls with AORUS engine",
+      "6GB 192 bit GDDR5; 90 millimeter unique blade fans",
+      "1 x HDMI, 3 x DisplayPort",
+      "Core clock: 1830 MHz (Reference card is 1785 MHz)",
+      "A composite copper heat pipe direct touch GPU and 3D active fan functionality, together delivering an effective heat dissipation capacity for higher performance at lower temperatures"
+    ],
+    "specifications": {
+      "Memory Speed": "8002 MHz",
+      "Graphics Coprocessor": "NVIDIA GeForce GTX 1660",
+      "Chipset Brand": "Nvidia",
+      "Card Description": "Integrated",
+      "Graphics Card Ram Size": "6 GB",
+      "Brand": "Gigabyte",
+      "Series": "GV-N1660OC-6GD",
+      "Item model number": "GV-N1660OC-6GD",
+      "Item Weight": "1.74 pounds",
+      "Product Dimensions": "8.82 x 4.76 x 1.57 inches",
+      "Item Dimensions  LxWxH": "8.82 x 4.76 x 1.57 inches",
+      "Flash Memory Size": "6 GB",
+      "Manufacturer": "Gigabyte",
+      "ASIN": "B07P76G428",
+      "Is Discontinued By Manufacturer": "No",
+      "Date First Available": "March 14, 2019",
+      "Customer Reviews": "4.7 out of 5 stars705 ratings4.7 out of 5 stars",
+      "Best Sellers Rank": "#23 in Computer Graphics Cards"
+    },
+    "categories": [
+      "Computers & Accessories",
+      "Internal Components",
+      "Computer Components",
+      "Electronics",
+      "Graphics Cards"
+    ],
+    "price": 229.99
+  }
+}

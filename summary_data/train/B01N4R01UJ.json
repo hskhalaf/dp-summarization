@@ -1,0 +1,963 @@
+{
+  "website_summaries": [
+    {
+      "verdict": "TP-Link created a router that's the complete package for an affordable price. The hardware performed really well and its range was surprising. With the Archer C3150 V2, you get all the bells and whistles, plus an easy-to-use web interface.",
+      "pros": [
+        "The web interface is full of customizable features, the hardware performs like a high-end router, and link aggregation allows you to transfer files to a NAS device at 2Gb per second"
+      ],
+      "cons": [
+        "The app should have more customization options and the antennas come loose if you move them around too much"
+      ],
+      "aspects": {
+        "Setup": 9.0,
+        "Features": 8.0,
+        "Performance": 9.0
+      },
+      "publication_date": 20180307,
+      "rating": 8.7,
+      "source": "cnet"
+    }
+  ],
+  "customer_reviews": [
+    {
+      "title": "Fast, nice router but... read review",
+      "text": "I wanted to replace an existing router with several Port Forwardings, and Reserved IP. I started configuring this router on a different base LAN address using a LAN port to this, and a WiFi connection to my original router. All was going fine until I tried to change this BASE address from 172.16.43.1 to 172.16.42.1 like my existing router. ALL the forwardings and reserved addresses failed to work. Other routers understand that they are to move 172.16.43.105 to 172.16.42.105 for example, but this one doesn't support that critical feature. But it's fast and functional, but didn't do the address translations from one base address to another, my D-Link and Linksys routers handle this base address change perfectly.",
+      "rating": 4.0,
+      "verified": true,
+      "author": "Dr. Rogers JGT",
+      "helpful_votes": 3,
+      "publication_date": 20180807
+    },
+    {
+      "title": "Junk",
+      "text": "This thing was a flop, what a piece of junk. Soon as I pulled it out of the box and it felt like it was overnighted from China I was worried. Once I plugged it in, nothing but problems from setup. Did multiple methods, plenty of internal settings, everything, and I just couldn\u2019t get it to work with any consistency. Useless. Unplugged it and put my old nighthawk 7000 in and had everything back to running smoothly in minutes. I\u2019ll look somewhere else for my new gig router, definitely not this junk brand.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "illy480",
+      "helpful_votes": 2,
+      "publication_date": 20190305
+    },
+    {
+      "title": "Mine died in 15 months",
+      "text": "Had this for just over a year and it worked great. Then it just stopped mid morning. Nothing funky going on like power surge or lightning storms. Just an average Saturday morning. Lights blinking, flashing, rebooting. I gave it the old college try to reset, reboot and redo it all. I even tried a new power adapter but it's bricked. I will never buy another tp link product. Had an Asus router that worked great for 5 years this one hardly made it 15 months. Junk.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "KRS",
+      "helpful_votes": 2,
+      "publication_date": 20190209
+    },
+    {
+      "title": "The BEST!!",
+      "text": "Amazing!!! Before purchasing this router, I had bought several brands over the years. I always thought my dsl was simply horribly slow even though we pay for the highest speed. THEN I BOUGHT THIS ROUTER.... I live in a home with 3 separate levels which has always been a problem streaming live. NO MORE!! I can watch anything I want. I use YoutubeTv and other apps. Goodbye satellite!! You won\u2019t be disappointed. If you are frustrated with your router, try this one!!",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Honestly",
+      "helpful_votes": 0,
+      "publication_date": 20190131
+    },
+    {
+      "title": "Had an issue with USB storage",
+      "text": "TP-Link customer service rep tried a variety of things to get it to work with latest Win 10 upgrade which change some digital comm stuff. After not getting it to work, he told me he would move it up the chain. Two days later, I get an email from a TP-Link product engineer who would work with me if we could agree on a time. He was able to isolate the problem to the sign-in on the router. We set up a local router signin and it all worked. I got great service. I really feel the router is much better than my old AC-1750. It has a stronger signal and I experience less drop out of wi-fi.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Bert G. Penhollow",
+      "helpful_votes": 0,
+      "publication_date": 20191120
+    },
+    {
+      "title": "Original and RMA replacement drop signal (same as other reviewers)",
+      "text": "Great signal strength / speed when it works. But the wifi signal kept dropping out with rebooting the router being the only solution. After one RMA replacement (support was pretty helpful, and the process was relatively painless - they seemed to know this was happening) also exhibited the same issues, we bought another brand (Synology) and it has worked fine ever since. So it seems clear the problem was the routers. Hoping for a refund for the inital purchase. Won't get my troubleshoting time back...",
+      "rating": 1.0,
+      "verified": true,
+      "author": "Brendan Flynn",
+      "helpful_votes": 0,
+      "publication_date": 20200602
+    },
+    {
+      "title": "Did not extend Wi-Fi range",
+      "text": "I have a cheaper Nighthawk 6700 version 2, and tried this with the thought that it might extend the Wi-Fi range of my signal and allow my Roku to work better. No luck. I used various applications that measure signal strength and really found at a variety of locations around my home no difference at all, so this provided no advantage and I returned it. I discovered that the better way to improve the reception of my Roku was to buy a new one that was capable of receiving the faster Wi-Fi signal broadcast at 5.0. I hadn't realized that the Roku that I had was not.",
+      "rating": 3.0,
+      "verified": true,
+      "author": "Ira",
+      "helpful_votes": 0,
+      "publication_date": 20190719
+    },
+    {
+      "title": "Do not buy TP Link products!  No warranty coverage or support",
+      "text": "Do not purchase TP Link equipment! Bought it from TRW and found that it would not operate above 36mbps after upgrading my cable connection. Called for support... took days and multiple emails to get anywhere. Then, I get an email from TP Link that TRW is not an authorized seller, and therefore, TRW is the \u201coriginal owner\u201d and that they only offer warranty support to the \u201coriginal owner\u201d. They didn\u2019t even try to see if the issue could be resolved or troubleshoot it... router purchased 1/4/2019",
+      "rating": 1.0,
+      "verified": true,
+      "author": "Lawrence Mills",
+      "helpful_votes": 0,
+      "publication_date": 20190418
+    },
+    {
+      "title": "Super router, great and easy to use",
+      "text": "This router works wonderfully. I have had no issues in my six months of ownership and I am always pleased to have great WiFi even out into my backyard. I maintain my 150mbps (my max speed) all throughout the house and still get signal even outside when my router is placed centrally in the basement. The app is easy to use for router management. Setup was easy. I mean why mess with any other cheap router when you can have the solution you need.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Isaac",
+      "helpful_votes": 0,
+      "publication_date": 20180503
+    },
+    {
+      "title": "Definitely not a new product, read the fine print",
+      "text": "This is Consumer Reports best ranked router and when I bought, this is strangely the ONLY place on the internet to purchase it. Unfortunately it arrived in an unmarked box and upon opening I found the face of the router to be all scratched up. This gave concern for the overall condition and availability of a warranty so it was returned. I can't comment on the functionality. This begs the question, if this is the best wifi router, why isn't it sold as new anywhere at this time? Hmm...",
+      "rating": 3.0,
+      "verified": true,
+      "author": "Seth Fowers",
+      "helpful_votes": 0,
+      "publication_date": 20200522
+    },
+    {
+      "title": "We had good experience with TP-link in the past so it was ...",
+      "text": "Recently installed a new Docsis 3.1 modem. To keep up with current technology we replaced our old TP-link AC 1900 with this unit. We had good experience with TP-link in the past so it was only natural to stick with the brand again. Total time removing the old router and setting up the new 1 hour. Real good wifi signal to both levels of our home. The combination of the new modem and router increased our internet speed two fold.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "CN",
+      "helpful_votes": 0,
+      "publication_date": 20180424
+    },
+    {
+      "title": "Great router.",
+      "text": "This router seems to be working just fine. If your item takes 5g. then it hooks up automaticly. other wise it drops you back to 2.4g. Same if you have to many items on 5g all at once. But it does it automatic. Mine has been working great now for about 3 months. I checked the speed it is suppose to deliver and it tops out my speed that is coming into my house hold. Easy to set up also.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "David Grimes",
+      "helpful_votes": 0,
+      "publication_date": 20191203
+    },
+    {
+      "title": "Don't waste your time",
+      "text": "After only TWO DAYS, the router started dropping the 5Ghz signal. I rebooted several times, reset the router to factory settings, still nothing. I read the negative reviews to see if anyone else had had problems, and they sure have! I skipped talking to TP-Link Customer Service as the reviews make it sound like a complete waste of time. The product is faulty and it's going back.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "JJS",
+      "helpful_votes": 0,
+      "publication_date": 20190927
+    },
+    {
+      "title": "You Don't Have to Buy A Tp-Link Router for Kasa",
+      "text": "My old router was having a hard time keeping up, so I upgraded to a new TP-Link router to support my Kasa. It only two a few weeks before devices were dropping off again and not connecting. Eventually, the 2/4ghz band just seemed to stop broadcasting or would connect briefly and drop out again. I decided to just move all my devices to my Xfinity router (which I found out is compatible to Kasa devices) and the performance is so much better though I do max out the number of devices on occasion. I would steer clear of these TP-Link routers.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "CRVD",
+      "helpful_votes": 0,
+      "publication_date": 20200713
+    },
+    {
+      "title": "Great - when not dropping signal.",
+      "text": "As others have noted, this device shows brilliance in throughput, only to drop channels. This is especially the case with 5 GHz, less so with 2.5. In fact, I estimate the 2.5 GHz channel is 98% connected. The 5 GHz drops from every few days to 3-5 times a day. All tips and trouble shooting has been without long term results. Best I can offer is 3/5 stars. Hoping your results are better.",
+      "rating": 3.0,
+      "verified": true,
+      "author": "Rondo",
+      "helpful_votes": 0,
+      "publication_date": 20191121
+    },
+    {
+      "title": "Absolute Junk",
+      "text": "I've now had the displeasure of owning 3 TP-Link routers, including TWO of these, and two of their unmanaged 5-port switches. Without fail, EVERY one of these devices has died. Typically they just start refusing to switch packets anymore. Their costumer service doesn't care and won't bother to help, you can tell them exactly what the issue is, and that the hardware is physically broken and they'll attempt to have you fix software issues on it. They do not honor their warranty, and they do not build quality products. Buy at your own risk.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "Nicholas Sarles",
+      "helpful_votes": 0,
+      "publication_date": 20190519
+    },
+    {
+      "title": "Easy Setup, Super Fast",
+      "text": "I use my home wifi for home office, media streaming, home automation, gaming, you name it. I couldn't be happier with this router. I get MUCH better performance, both up and down, and the range covers my entire house. Having the 2G capability is good for home automation as most of the lights, switches, and plugs that are available can only work with a 2G network. Response on 2G is instantaneous. The 5G network does all of the streaming and office work, and it performs very well there, too. I would highly recommend this router.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "J. Eagar",
+      "helpful_votes": 0,
+      "publication_date": 20190111
+    },
+    {
+      "title": "Its only been a week so far but i am happy with it",
+      "text": "Purchased this to replace my 10 year old router. Its only been a week so far but i am happy with it. It reaches the farthest places in my house and i like that you can track everything (whos' on, what device is being used, etc..) from your phone. 5 stars so far but its new so will update if something changes.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "darrell",
+      "helpful_votes": 0,
+      "publication_date": 20180921
+    },
+    {
+      "title": "QUIT Working after ONLY 4 months. Customer Service update.",
+      "text": "I have this in use for ONLY 4 months and it just went out. Nothing is working accept the status lights. You know there is a big problem when even the wired connections are not working much less the WIFI. And it is just outside the Amazon return period. Updated: It took a little while and lots of going back and forth to try to resolve it by email. But at the Eleanor at TPLink was able to replace this router with a new one. I gave it 4 stars because of customer service (actually Eleanor). I hope the new one does not have any problems.",
+      "rating": 4.0,
+      "verified": true,
+      "author": "James K",
+      "helpful_votes": 3,
+      "publication_date": 20180509
+    },
+    {
+      "title": "Lasted one year and died.",
+      "text": "It was ok for what I was using it for before it died. 2200 sq feet home and a mountain of smart speakers, smart tv's, laptops, and various other smart devices. The router just stopped connecting to the internet. It sits on a cool metal cabinet with plenty of ventilation. Cabling switches, a firmware update and factory restores proved useless. I don't think I'm going to buy another tp-link router again. The troubleshooting and support system was not the easiest thing to navigate.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "indyflip",
+      "helpful_votes": 0,
+      "publication_date": 20200606
+    },
+    {
+      "title": "Best WiFi router I've ever had!",
+      "text": "I was not sure about ordering this - the price and specs were great but I never used a TP-Link product before. I was surprised how easy the setup was, the admin interface is simple but still gives control of nearly every aspect of the network, and the signal strength and speed is phenomenal! highly recommended",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Tim Loga",
+      "helpful_votes": 0,
+      "publication_date": 20181125
+    },
+    {
+      "title": "Easy setup, good range",
+      "text": "Setting up this router was a breeze after coming from Verizon's Actiontec nightmare. Especially setting permissions and configuring port forwarding was much more simple than what I was used to. The App that enables you to check on your home network from afar is a plus as well. Using the onboard printer driver to make my 20-year-old laser printer wireless also worked almost flawlessly.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "dmertsch",
+      "helpful_votes": 0,
+      "publication_date": 20190906
+    },
+    {
+      "title": "Pretty Good Device.",
+      "text": "I purchased this WiFi router with a few reservations since I tend to read product reviews. Since I didn't find another I thought would be a good fit, I made the purchase. I have had to restart the router several times but not sure what the issue is as I have not contacted the tech support. It's great when it works, which is most of the time.",
+      "rating": 4.0,
+      "verified": true,
+      "author": "PL",
+      "helpful_votes": 0,
+      "publication_date": 20191014
+    },
+    {
+      "title": "Great router, does everything I need!  Games, streaming, surfing, all work awesome.",
+      "text": "So far it's been an awesome router! I run a laptop (work from home), desktop computer (son loves online games), a Roku 3, Amazon Firestick, 2 smartphones, a security camera, and a tablet and everything in my house continues to run well! Easy setup, I rarely reboot it (probably every few months) and it's probably more Comcast than this device. Highly recommend!",
+      "rating": 5.0,
+      "verified": true,
+      "author": "M. Bauer",
+      "helpful_votes": 0,
+      "publication_date": 20180518
+    },
+    {
+      "title": "Lifesaver",
+      "text": "Was having issues with my WiFi. Always blamed it on my IP. Bought a brand new premium 4k TV and needed a better router to stream 4k content. After researching for about a month this router went on sale and I jumped on it. So glad I did! Not only do I get better coverage including in the basement but I also get a more reliable internet connection. Very rarely do I lose my connection now! This thing is also blazing fast! I do recommend this unit especially if it's on sale!",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Amazon Customer",
+      "helpful_votes": 2,
+      "publication_date": 20171207
+    },
+    {
+      "title": "TP-Link AC3150 Wireless Wi-Fi Router",
+      "text": "We live out in the country and high speed internet is hard to come by. Once we had our tech person from our internet company come out, we had very little issues and once again enjoyed our internet access. That is, until we had a severe thunderstorm and lightening hit our router and knocked it out! Not sure if the warranty that comes with the router will cover this or not, but I will check it out. I am just so bummed because we were finally able to stream movies without too much buffering, although there was still some.",
+      "rating": 4.0,
+      "verified": true,
+      "author": "Regina Forshee",
+      "helpful_votes": 0,
+      "publication_date": 20190711
+    },
+    {
+      "title": "Best bang for your buck.",
+      "text": "This has been a decently priced router that has over achieved. I use mine as an Access point, since my gateway is in the basement. It still produces internet speeds of 300mbps+. We have AT&T fiber 300 and this router handles all our devices with ease.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Michael Boxerman",
+      "helpful_votes": 0,
+      "publication_date": 20190611
+    },
+    {
+      "title": "Do not believe the reviews or you will get burned.",
+      "text": "This product completely stopped working after 3 months. Customer support can barely speak English so troubleshooting is tedious to say the least. After 2 HOURS with them we determined my router is not working and needs to be replaced. Ok nice right? Nope their software will not allow the process to complete and tech support is clueless. I did find out the If their replacement criteria goes through (which is a joke given these circumstances) I will receive my replacement in 2 weeks. Absurd to say the least",
+      "rating": 1.0,
+      "verified": true,
+      "author": "Matthew Highley",
+      "helpful_votes": 0,
+      "publication_date": 20190619
+    },
+    {
+      "title": "Works fine, it I will lost connection sometimes.",
+      "text": "I used it for gaming. Everything is great. The only problem is that I will be disconnected sometimes. I don't know if it is because of my internet provider or this router. So I give it 4 stars.",
+      "rating": 4.0,
+      "verified": true,
+      "author": "GogJeff",
+      "helpful_votes": 0,
+      "publication_date": 20190128
+    },
+    {
+      "title": "Buggy MAC address filtering",
+      "text": "After setting up MAC address filtering and playing with it a bit via the web interface and the tether app I started noticing some devices were blocked that should not have been and vice versa. I then started getting errors in the management interface. I decided to return the router since this basic functionality is not working reliably.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "Nano",
+      "helpful_votes": 0,
+      "publication_date": 20190623
+    },
+    {
+      "title": "Easy to setup and works great consistently",
+      "text": "Have had this for a little over a month now and it works great. Consistent signal and great speeds (I have Comcast 1gig internet). Was a breeze to setup and get all my smart devices reconnected. Not a WiFi6 router but will get the best speeds possible from my experience.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Kyle AE",
+      "helpful_votes": 0,
+      "publication_date": 20191102
+    },
+    {
+      "title": "5G network disappears.",
+      "text": "The 5G network on this router died after only 7 months of use. I called for service and am getting a replacement. I need to pay postage to send in the old router and do without my WIFI network BEFORE getting the replacement too. The service rep sounded like someone from India and couldn't speak English too well and took about a half hour on the phone before deciding the router was broken. I paid close to $200 for my router, and I expected a better quality product than this.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "Donald Burden",
+      "helpful_votes": 0,
+      "publication_date": 20191127
+    },
+    {
+      "title": "Check antenna ports for tightness",
+      "text": "My only issue is that when I rotated the antennas to 30 degrees, like the instructions said, the ports they screwed into became loose. I was able to tighten the nut but they are tiny so I don't have a wrench to get them tight enough to not come back loose. It's not a issue unless the antennas get moved, but it's a little frustrating for it to be new and have to work on it.",
+      "rating": 4.0,
+      "verified": true,
+      "author": "Doug",
+      "helpful_votes": 0,
+      "publication_date": 20200126
+    },
+    {
+      "title": "Great wireless router",
+      "text": "Excellent wireless router! I read reviews and did my homework. It's easy to setup and the range and strength are very good. Also, it's a great value. Probably one of the very best at this price.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Dmanning",
+      "helpful_votes": 0,
+      "publication_date": 20191118
+    },
+    {
+      "title": "Unboxed ran the update and it bricked.",
+      "text": "Literally just unboxed it and set it up. Was in the user interface and noticed an update and installed it. It completes the update and then just hangs during reboot. I contact customer support and they tell me that the updater is broken and my router is bricked and I have to return it. Decided to go with a different company",
+      "rating": 1.0,
+      "verified": true,
+      "author": "Patrick",
+      "helpful_votes": 0,
+      "publication_date": 20190530
+    },
+    {
+      "title": "Majority wins!  Most owners have found this device to be one of the \u201cbest\u201d",
+      "text": "For the money, probably one of the best router purchases available today. Has given me 3+ years of excellent service and reliability",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Tucker",
+      "helpful_votes": 0,
+      "publication_date": 20190623
+    },
+    {
+      "title": "Short lifespan for this piece of junk",
+      "text": "Like many other reviews have stated, this worked great for a few months and then died. 5ghz went out at 6 months and 2.4ghz started getting spotty month later. Based on other reviews I didn't waste time with tech support, just replaced it with another brand.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "GT Rhino",
+      "helpful_votes": 0,
+      "publication_date": 20190901
+    },
+    {
+      "title": "Junk",
+      "text": "This router came and worked for several weeks with acceptable performance. After two week period I had numerous devices that could not connect at all and had intermittent drops and reconnects. I called TP Link support and went through their troubleshooting steps which did not fix the issue. At one point, after making several setting changes I could not connect at all during the call and they stated that unless we could complete all steps they could not send a new router out.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "Daniel",
+      "helpful_votes": 0,
+      "publication_date": 20191005
+    },
+    {
+      "title": "Fast then Broken",
+      "text": "I bought this router because of a few good reviews. I was amazed when the 5g performance was near-line-speed. But then the 5g stoped working and a few days later the 2.4g broke. It was just over the return period for Amazon, so we went to TP-Link support. After hours of phone and text support discussions we got approved for a replacement. We mailed it in but haven\u2019t got a replacement back to us yet. So all of our IoT devices can\u2019t work. Given the choice again, I would never buy from TP-Link.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "Mike O",
+      "helpful_votes": 0,
+      "publication_date": 20191204
+    },
+    {
+      "title": "Great machine that is easy to set up and use.",
+      "text": "Love this Router! Bought it for my son, who uses it daily. Really easy to set up and start using. Great signal everywhere. Easy to go into the software and make changes. Very flexible. Small footprint. Perfect!",
+      "rating": 5.0,
+      "verified": true,
+      "author": "nurse2007",
+      "helpful_votes": 0,
+      "publication_date": 20200319
+    },
+    {
+      "title": "Fast, good uptime, cumbersome firmware updates",
+      "text": "I bought this to replace an AC1900 TP Link router. Router is better able to keep up with my connected household. Uptime and speed have been fantastic. My only dislike of this router is when it gets firmware updates. After updating, the settings are wiped on the device and I have to set it back up again as if I bought a new one. Still would buy again.",
+      "rating": 4.0,
+      "verified": true,
+      "author": "Michael G",
+      "helpful_votes": 0,
+      "publication_date": 20180404
+    },
+    {
+      "title": "Extremely happy with purchase",
+      "text": "I've been in search of a stable router for the better part of 15 years and tried about everything. Linksys, Asus, Netgear, lesser known brands like MoFi, etc. They've all had various problems, from regularly required reboots, poor WiFi coverage, connectivity problems to work using standard connectivity methods, poor performance, etc. So far I've only had this router for just over a week, but I couldn't be happier. It's an amazing feeling to go through the basics of configuration and everything now just works. I've had zero problems, great coverage, and haven't had to reboot yet. Highly recommend this router.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "KMH",
+      "helpful_votes": 0,
+      "publication_date": 20170725
+    },
+    {
+      "title": "Don't do it",
+      "text": "Stop producing reasonable speeds after just a few days. I had Comcast come out and check connectivity thinking that the internet was the issue. This thing wasn't even a week old before it decided to take a dump. Shame I wanted to like it",
+      "rating": 1.0,
+      "verified": true,
+      "author": "Ismael R.",
+      "helpful_votes": 0,
+      "publication_date": 20190805
+    },
+    {
+      "title": "Wifi failed after 1 month of operation!!!",
+      "text": "Both 2.5GHz and 5Ghz have stopped working at the same time during normal operation. Gives message - \"Error Code 9805: Corresponding Case Not Found\" and unable to use Wifi On/Off button on the side. Having searched the web for possible troubleshooting - found nothing but a reference to possible hardware issue.... wifi functionality is literally \"bricked\" - BEWARE of this issue ... seems like a common fault on this model.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "Baghir Akhundov",
+      "helpful_votes": 0,
+      "publication_date": 20190514
+    },
+    {
+      "title": "Broke after two weeks",
+      "text": "The QA on these routers seems to be awful. Mine broke after a little over two weeks. It keeps shutting itself off every ten minutes or so. There\u2019s no way this is user error, just a dead unit. Horrible router.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "Amazon Customer",
+      "helpful_votes": 0,
+      "publication_date": 20190823
+    },
+    {
+      "title": "For me, performs as advertised",
+      "text": "Great router. This replaces a 12 year old Cisco Linksys E-2000 flashed to dd-wrt. That was a great router for a long time but sadly, as time has changed and technology has advanced and throughput requirements have increased, an upgrade was desperately needed. So far this product is working as advertised and fulfilling my expectations. Time will tell how durable it is. I am very satisfied in the early going.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Abram",
+      "helpful_votes": 0,
+      "publication_date": 20190723
+    },
+    {
+      "title": "5 gHz band doesn't work",
+      "text": "5 gHz band stopped working after 2 days and never returned regardless of resets and setting adjustments. Other reviews say the same thing, faulty product",
+      "rating": 1.0,
+      "verified": true,
+      "author": "Chris G",
+      "helpful_votes": 2,
+      "publication_date": 20180810
+    },
+    {
+      "title": "Broke",
+      "text": "Working fine until just one day it started acting up, did hard reset but did not work. Had only it only for a couple of weeks to replace a AC 1900 Linksys router. Problem was the wifi was switching on and off.",
+      "rating": 3.0,
+      "verified": true,
+      "author": "Jesus Jacosalem",
+      "helpful_votes": 0,
+      "publication_date": 20191008
+    },
+    {
+      "title": "More than doubled my internet speed",
+      "text": "We have a bunch of devices on the network and my old linksys was not cutting it anymore. THis was easy to set up and we went from under 100 mbps to over 400 mbps. No issues with streaming and gaming at the same time.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Amazon Customer",
+      "helpful_votes": 0,
+      "publication_date": 20181226
+    },
+    {
+      "title": "weak wifi after product officially was declared end-of-life on TPLink  website",
+      "text": "the wifi was ok for this router for a while but it turned really crappy earlier this year. Looks like it was declared end-of-life around the same time on TPlinks website. Not sure if that is the reason for a sudden change in wifi performance, but just saying. After several resets to factory settings, updating to the latest firmware, still the same. just 6 months in use now have to buy another router ! Need a refund for this !!!",
+      "rating": 2.0,
+      "verified": true,
+      "author": "Amazon Customer",
+      "helpful_votes": 0,
+      "publication_date": 20200708
+    },
+    {
+      "title": "A great router at a great price",
+      "text": "I couldn't be happier with this router. After going through two different Asus routers that were constantly dropping the 2.4GHz network, I was recommended a TP-link router by a co-worker. This router gives me a strong signal, lots of configuration options, and a steady 2.4 and 5 GHz network. I get great speeds and it works with all my smart devices (nest, google home, wyze cam, game consoles, smart tv, etc.).",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Amazon Customer",
+      "helpful_votes": 0,
+      "publication_date": 20180403
+    },
+    {
+      "title": "Instant Improvement",
+      "text": "Old router couldn't keep up with our multi-device tech home (22 wifi connected devices). This router handles all connections with ease. Put the video streaming devices (TV's, Echo Shows, etc.) on 5G and everything else on 2G. We haven't add a glitch or buffering issue since. Great router!! No more swearing at the internet connection!",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Amy M. Piester",
+      "helpful_votes": 0,
+      "publication_date": 20190121
+    },
+    {
+      "title": "Automatic Firmware Update Bricks Router",
+      "text": "The router web interface recommended I update the firmware, which appeared to be several versions out of date. I let it run the self updating process and it bricked itself. Online research revealed that this is a common problem and the router updates itself with incompatible firmware. I returned it... incredibly stupid of TP-Link to do this.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "Giacomo",
+      "helpful_votes": 0,
+      "publication_date": 20190616
+    },
+    {
+      "title": "One disappionted customer,should have read the reviews first, dont be fooled by the 2000+ reviews",
+      "text": "bought brand new and installed smoothly for a customer , as a senior tech, i have used so many routers in the past, never have one died within 2 days. unit does nothing but keeps rebooting on its own, wont respond to any hard rest. wasted 2 hours of my time setting up a network and now i have to do it all over again.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "Justin Wu",
+      "helpful_votes": 0,
+      "publication_date": 20190620
+    },
+    {
+      "title": "Great router",
+      "text": "I care about the router more than the wi-fi, as I use address reservation, port forwarding and a few other features. Very happy with this one.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "C. Kotan",
+      "helpful_votes": 0,
+      "publication_date": 20190529
+    },
+    {
+      "title": "For me it works",
+      "text": "For me it works, we have lot of devices 10+ and bout powerful router. Previous did not have enough power and sometimes lost connection. This one works because it has two routers inside 2.4 and 5 GHz. Kids can play 2 iPad's on top of everything else.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Dmitry Firsov",
+      "helpful_votes": 0,
+      "publication_date": 20191019
+    },
+    {
+      "title": "great router, check the version you receive",
+      "text": "did not realize amazon sent v1 instead of v2 until return window had closed. otherwise its been a great router in a large house. the tether smart phone app is useful",
+      "rating": 4.0,
+      "verified": true,
+      "author": "Oli Phant",
+      "helpful_votes": 0,
+      "publication_date": 20190425
+    },
+    {
+      "title": "This is a good product for the most part and I am happy ...",
+      "text": "This is a good product for the most part and I am happy with it. The only problem that I have had is that when the power goes off it loses the custom LAN IP address we have to use because we have an environment with multiple routers. This is an irritation and is why I give it only 4 stars.",
+      "rating": 4.0,
+      "verified": true,
+      "author": "OldFart",
+      "helpful_votes": 0,
+      "publication_date": 20171106
+    },
+    {
+      "title": "Works well",
+      "text": "Great connection, but not very easy to set up for me. I had to enlist the help of my son-in-law. But if you know what you are doing it is fine",
+      "rating": 4.0,
+      "verified": true,
+      "author": "Rhonda Walker Footman",
+      "helpful_votes": 0,
+      "publication_date": 20190904
+    },
+    {
+      "title": "This router is awesome! I used to have to use a router ...",
+      "text": "This router is awesome! I used to have to use a router and a bridge to get coverage in my 2 bedroom home. At full power this reaches around the entire block i live on. It was super easy to setup and has dramatically increased my network speeds. One caveat, Make sure you do the firmware upgrade before setting up the router as the update will clear the settings.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Amazon user",
+      "helpful_votes": 0,
+      "publication_date": 20170717
+    },
+    {
+      "title": "Speed and Security",
+      "text": "Works excellent, great features, including the firewall, pair that up with ESET internet security w/firewall and it's unbelievable what the Archer blocks, Wi-Fi distance including 5ghz works excellent in two story 2200 sqft place. Average higher speeds than my ISP charges me for. 118MB /11 upload , on multiple devices.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "J",
+      "helpful_votes": 0,
+      "publication_date": 20180405
+    },
+    {
+      "title": "Good range and a good number of features",
+      "text": "Good range and a good number of features. The basic interface should be easy enough for most people and the advanced let me set the settings I needed to. I do wish the port binding supported the same protocol as their switches.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Mike",
+      "helpful_votes": 0,
+      "publication_date": 20180510
+    },
+    {
+      "title": "Easy set-up and works as promised",
+      "text": "Great upgrade and simple instructions. Definitely worth the money! There are not anymore arguments about lag time or being kicked off the internet because our wifi is too slow. However, we did use more data than usual and Comcast charges too much for the extra data and the overages. You do get two months without overages so it gives you time to figure out how much you use and when on what device. The parental controls are a bit complicated but extensive.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Serendipity",
+      "helpful_votes": 0,
+      "publication_date": 20171007
+    },
+    {
+      "title": "Great price, great job",
+      "text": "After returning 3 asus-brand, a netgear was too pricy and this fit my needs perfectly. 24/7 no issues. Setup was easy and it offers teaming-mode(called LACP) for my private server. Has antivirus(free) and other common router protections.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Doesitevenmatter",
+      "helpful_votes": 0,
+      "publication_date": 20190831
+    },
+    {
+      "title": "How can Verizon put such a crappy router with fiber optic",
+      "text": "Replaced the Verizon router, and I saw literally 8x faster speeds on speedtests. How can Verizon put such a crappy router with fiber optic? They should just supply AC3150's...",
+      "rating": 5.0,
+      "verified": true,
+      "author": "IBuyStuffOnAmazon",
+      "helpful_votes": 0,
+      "publication_date": 20170921
+    },
+    {
+      "title": "Works well! Needed an upgrade from my old Netgear ...",
+      "text": "Works well! Needed an upgrade from my old Netgear. This is now giving me full home WiFi and I have about 3500sq foot home. Now with a firmware update I am able to have it work well with Alexa. I will update more over the next few weeks if anything changes.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Duke",
+      "helpful_votes": 0,
+      "publication_date": 20180318
+    },
+    {
+      "title": "Worth the price.",
+      "text": "Had trouble with prior router so upgraded to this TP-Link that cleans up all my wireless units around the house. Everything communicates great.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "btshoe",
+      "helpful_votes": 0,
+      "publication_date": 20171201
+    },
+    {
+      "title": "Didn't work. Returned and Refunded",
+      "text": "I tried setting it up and did everything according the the instructions. The router didn't work so I spent a couple hours on the phone with TP tech support who agree it was a hardware issue. Returned it to Amazon and was refunded. I would not recommend buying this as it's a gamble if it will work at all.",
+      "rating": 2.0,
+      "verified": true,
+      "author": "Frank",
+      "helpful_votes": 0,
+      "publication_date": 20190923
+    },
+    {
+      "title": "Good price, good router",
+      "text": "Easy to set up and so on. Antennas, like most multi antenna routers, are kinda floppy",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Novasystems",
+      "helpful_votes": 0,
+      "publication_date": 20191009
+    },
+    {
+      "title": "Love this router",
+      "text": "Love this router, no issues so far. Also love the fact that there's a button that lets you switch off all the router activity lights in case you prefer to not have them lighting up a room or space at night.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "GamerOne",
+      "helpful_votes": 0,
+      "publication_date": 20180703
+    },
+    {
+      "title": "Great product at a good price",
+      "text": "Been using it for a week or two now and works great. Only negative is that it takes a few moments to coordinate with your modem so be patient. Once it clicks in then it works beautifully.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "JPT",
+      "helpful_votes": 0,
+      "publication_date": 20180721
+    },
+    {
+      "title": "Good performance and range",
+      "text": "Good performance for my purpose. Strength of signal is good and covers my whole house as well as my outdoor pool area. Streams movies without pauses. Worth the extra cost in my opinion.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Frederick  M  Corley",
+      "helpful_votes": 0,
+      "publication_date": 20170903
+    },
+    {
+      "title": "not doing the job",
+      "text": "The internet over wifi is very unstable, had problems with laps and phones, the only devices without trouble are those connected by ehternet, so what is the point of this product.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "Walter C. Ehrenstein",
+      "helpful_votes": 0,
+      "publication_date": 20200304
+    },
+    {
+      "title": "Rock Solid Performance",
+      "text": "After owning this router for a few months, it's given me nothing but rock solid performance. It's fast, I get signal half a block away, and I haven't had to reboot it in more than a month.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Paul E.",
+      "helpful_votes": 0,
+      "publication_date": 20171030
+    },
+    {
+      "title": "Must for You Tube TV",
+      "text": "It has made a huge difference in our home! We stream for our tv and have a 17 year old gamer. Was a must for You Tube TV",
+      "rating": 5.0,
+      "verified": true,
+      "author": "J. Grow",
+      "helpful_votes": 0,
+      "publication_date": 20191205
+    },
+    {
+      "title": "Very bad purchase",
+      "text": "Very bad purchase, after a few hours the 5ghz wifi disappeared and I could never make it work again, the technical support asked me for all the data, I gave them to them and they replied that they did not know what was happening and suggest me to change it. While in the tp-link forum there are a lot of cases like mine. It really is a big disappointment and I suggest not buying anything from this brand.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "Albertodh",
+      "helpful_votes": 0,
+      "publication_date": 20191227
+    },
+    {
+      "title": "Easy setup and great speed and more distance.",
+      "text": "Much faster than previous routers I have used. File transfers from a long distance sped up immediately after I installed it. I used it to replace an Asus router for my house and the reach is also much better than before.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Niels Andrew Olsen III",
+      "helpful_votes": 0,
+      "publication_date": 20180403
+    },
+    {
+      "title": "Exceptional performance for the price.",
+      "text": "Really great router for the price, but on occasion gets a little hot, though hasn't caused any problems. Rarely have to reboot and is screaming fast compared to my last router. Covers all areas of our 3 bed house without interruption or use of extenders. UI could use some work to be a little less clunky.",
+      "rating": 4.0,
+      "verified": true,
+      "author": "VicO",
+      "helpful_votes": 0,
+      "publication_date": 20190722
+    },
+    {
+      "title": "Much better than other routers I've used (Note that this review ...",
+      "text": "Much better than other routers I've used (Note that this review is short since Amazon tend to disallow anything I write in reviews, so I don't want to risk them doing this again)",
+      "rating": 5.0,
+      "verified": true,
+      "author": "tony-c",
+      "helpful_votes": 0,
+      "publication_date": 20180403
+    },
+    {
+      "title": "Pleased with purchase",
+      "text": "The router is great. We have multiple devices and have very little trouble with buffering. A good choice.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Ann",
+      "helpful_votes": 0,
+      "publication_date": 20190726
+    },
+    {
+      "title": "Value",
+      "text": "I really like this router. Stable, easy to configure, good range, prioritization. All above anything I had with the many Linksys routers I had before. I'm a fan. Thanks for a good product at a good price. That's the definition of value.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Adam",
+      "helpful_votes": 0,
+      "publication_date": 20180403
+    },
+    {
+      "title": "Performance meets value",
+      "text": "I have installed several router for myself, friends, and businesses. Setup was easy, If you have kids, the parental controls are very useful and easy to use. The router performs very well for multiple tv's streaming and gaming.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Donald",
+      "helpful_votes": 2,
+      "publication_date": 20180504
+    },
+    {
+      "title": "Beam forming and MU-MIMO make a huge difference!",
+      "text": "I am thoroughly impressed having upgraded from an aging Archer C7 router to the C3150. Since installing and setup I have seen a significant boost in both connectivity at a distance and sustained throughput when streaming video and large downloads. I highly recommend this for anyone looking to bring their home network up to snuff with the latest wireless networking standards!",
+      "rating": 5.0,
+      "verified": true,
+      "author": "galaxy_stars",
+      "helpful_votes": 0,
+      "publication_date": 20181127
+    },
+    {
+      "title": "Poor quality. Multiple hardware issues",
+      "text": "Terrible. First one returned due to 2.4 GHz signal would completely quit broadcasting after 4 days. Replacement worked great for 4 days and then started rebooting every 5 minutes. Returned for refund.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "SG",
+      "helpful_votes": 0,
+      "publication_date": 20191007
+    },
+    {
+      "title": "simple GUI",
+      "text": "7 weeks in, so far, so good. I like the GUI, easy to understand.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "KGM",
+      "helpful_votes": 0,
+      "publication_date": 20190706
+    },
+    {
+      "title": "Great Dual Band AC Router",
+      "text": "Replace an old Netgear N router. Tried a Linksys but had to return because 2.4 band did not work. Decided to go with this router and I have not been disappointed. Easy setup and a smartphone app to access router to make changes or monitor. The router has great distance on both bands in my home even with the router located on one side of the house.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Fred",
+      "helpful_votes": 0,
+      "publication_date": 20180404
+    },
+    {
+      "title": "Easy to configure router with strong WiFi performance",
+      "text": "I usually buy Netgear, but this was for my parents to save a few bucks. It works fantastic. Great router at a great price.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Supernaut70",
+      "helpful_votes": 0,
+      "publication_date": 20190902
+    },
+    {
+      "title": "DO NOT BUY this model.  5G no longer works, 2.4G does a little bit",
+      "text": "worst wireless router i have ever had. I will have to replace it. total piece of junk. I would give a negative 5 stars if i could. waste of money and waste of time spent setting it up. DO NOT BUY this model. I have had other tp-link routers that worked well, i thought this would too.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "Michael S Searer",
+      "helpful_votes": 0,
+      "publication_date": 20190702
+    },
+    {
+      "title": "Stopped after 5 1/2 months",
+      "text": "we have had it less than 6 months and it stopped working. Total let down :(",
+      "rating": 2.0,
+      "verified": true,
+      "author": "Layn3",
+      "helpful_votes": 0,
+      "publication_date": 20181225
+    },
+    {
+      "title": "It can handle EVERYTHING!",
+      "text": "This machine has been better than we could've ever expected! We just had 14 people here using it! Streaming, wi-fi, TV and internet all at the same time!",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Judi",
+      "helpful_votes": 0,
+      "publication_date": 20180405
+    },
+    {
+      "title": "our TP-LInk AC3150 is working great. Much longer range than our previous router",
+      "text": "After a month, our TP-LInk AC3150 is working great. Much longer range than our previous router, and no more dropped connections.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Gordon",
+      "helpful_votes": 0,
+      "publication_date": 20180502
+    },
+    {
+      "title": "Needed update. Well packaged.",
+      "text": "Easy to setup. Improved wifi every. I live on a acre and I can get signal most every where( not perfect at the edges but I can stream music) Happy face.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "me",
+      "helpful_votes": 0,
+      "publication_date": 20190119
+    },
+    {
+      "title": "Best Damn Router I've ever owned!!",
+      "text": "Best router I've ever owned. No issues from day one. Covers my entire 2500SF home with no drop in signal. Easy to set up, easy to use & easy to maintain.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "charityman",
+      "helpful_votes": 0,
+      "publication_date": 20180403
+    },
+    {
+      "title": "Impressive, reliable router",
+      "text": "Super impressed by this router. Signal is great throughout the house, and speeds over WiFi are consistently excellent. The router admin mobile app and web interface are both slick and easy to use. Very happy with this purchase!",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Cobra902",
+      "helpful_votes": 0,
+      "publication_date": 20191008
+    },
+    {
+      "title": "L33t router",
+      "text": "Pull solid speeds and easy to configure with the app",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Hunter",
+      "helpful_votes": 0,
+      "publication_date": 20191112
+    },
+    {
+      "title": "Five Stars",
+      "text": "Fantastic....never get booted off my Internet anymore. This baby handles many Wifi devices effortlessly.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Mark L. Appleby",
+      "helpful_votes": 0,
+      "publication_date": 20170827
+    },
+    {
+      "title": "Worth the Money.",
+      "text": "Great router. Really long rang. I have a booster installed 2 houses away and it pick up the signal and works perfectly. Coverage is great even in the basement.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Hamdy E.",
+      "helpful_votes": 0,
+      "publication_date": 20181227
+    },
+    {
+      "title": "Fast and easy to setup",
+      "text": "My old router couldn't handle my 150mb internet connection. This has no problems, I get great speeds wifi or wired. Very easy to setup.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Michael Weiss",
+      "helpful_votes": 0,
+      "publication_date": 20180711
+    },
+    {
+      "title": "Disappointed with range",
+      "text": "Disappointed with range of radio and speed. Decided on Desco M9.",
+      "rating": 3.0,
+      "verified": true,
+      "author": "Brownie",
+      "helpful_votes": 0,
+      "publication_date": 20180918
+    },
+    {
+      "title": "Unreliable",
+      "text": "The router stopped working after 2 weeks. The WiFi lights appeared to be on but the network completely disappeared. After 3 hours of back and forth with the manufacturer they have shipped a new one (3-5 business days). Wouldn\u2019t rely on this.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "WiFi purchaser",
+      "helpful_votes": 0,
+      "publication_date": 20200810
+    }
+  ],
+  "product_meta": {
+    "title": "TP-Link AC3150 Wireless MU-MIMO Gigabit Router, Archer C3150,black",
+    "description": "GAME MORE. WATCH MORE. SHARE MORE.\nNo more taking turns doing the things you love. The Archer C3150 V2 keeps everyone online at the same time, no matter what they\u2019re doing. Powerful XStream processing, 4-Stream, NitroQAM and Airtime Fairness all combine to make your Wi-Fi faster than ever. MU-MIMO lets your router talk to many devices at once, and Smart Connect makes sure each one has the fastest connection possible. With its advanced Wi-Fi technology and innovative antenna design, the Archer C3150 V2 creates powerful Wi-Fi coverage and lets more than 25 devices stay connected at the same.\n\n\nXSTREAM PROCESSING FOR SMOOTHER PERFORMANCE\n * With XStream processor architecture, the Archer C3150 V2 dedicates one processor to each of its Wi-Fi bands. These processors handle Wi-Fi traffic, freeing the router\u2019s dual-core CPU to take care of everything else.\n * All this extra brainpower keeps your Wi-Fi running smoothly so everyone in your home can enjoy what they love most, whether that\u2019s watching Netflix, gaming online, streaming music, or all of the above.\n\n\nNITROQAM AND 4-STREAM FOR FASTER SPEEDS\n * 4-Stream and NitroQAM work together to get your devices running faster. 4-Stream adds an extra data stream to each Wi-Fi band for four total streams per band, and NitroQAM helps each stream process data more quickly.\n * Combined, these two advanced features increase speed by 25% overall, letting you watch movies in 4K and game online at the same time without slowing down your Wi-Fi.\n\n\nMU-MIMO AND SMART CONNECT FOR BETTER CONNECTIONS\n * MU-MIMO lets the Archer C3150 V2 talk to several devices at once, and Smart Connect automatically places each device on the best available Wi-Fi band.\n * With both working together, everyone can hop online at the same time without having to wait, and each device can always get the best connection.\n\n\nAIRTIME FAIRNESS FOR DISTRIBUTED WI-FI\n * Older G and N Wi-Fi devices are slower and need more time to send data than newer, faster AC Wi-Fi devices. With Airtime Fairness, your router equally divides attention between newer and older devices improving overall Wi-Fi performance and reliability without letting older devices limit your network. \n\n\nQUALITY OF SERVICE FOR ASSIGNING BANDWIDTH\n * QoS lets you assign more bandwidth to your favorite devices, keeping them running smoother.\n * If you love watching Amazon Prime on your smart TV or game console, you can give more bandwidth to both so your favorite shows load quickly.\n\n\nLINK AGGREGATION FOR DOUBLED WIRED SPEEDS\n * Team two of the four Gigabit LAN ports for a single device for a faster wired connection with a combined speed of up to 2 Gbps.\n * Double the connection speeds to a Network Attached Storage (NAS) for even faster streaming and data backups than ever.\n\n\nBUILT-IN VPN SERVER\n * When using public Wi-Fi, establish an encrypted VPN connection to your router to enjoy safe and secure internet access.\n * Browse the web in a coffee shop, download important files while waiting for your flight at the airport, and access private router-connected hard drives at home from afar without worry or paid subscriptions.\n\n\nEASY FIRMWARE UPDATES\n * The Archer C3150 V2's Web UI provides easy access to the latest available firmware so you can always keep your network up to date. The router will immediately notify you if any critical updates are available for download.\n\n\nINNOVATIVE ANTENNA DESIGN\n * Four dual band antennas send strong Wi-Fi coverage, letting you enjoy what you love anywhere in your home, from your favorite spot on the couch to the comfort of your bed.\n\n\nMEDIA SHARING\n * USB 3.0 and 2.0 ports make it easy to share photos, videos, and music on your home network.\n * When away from home, a VPN allows you to securely access NAS drives and other devices connected to the router through USB.\n\n\nINTUITIVE TETHER APP\n * The Archer C3150 V2\u2019s web interface has been optimized for mobile devices, making setup on your phone or tablet simple. When your network is up and running, you can download the free Tether app to easily adjust network settings or manage your home network while away.\n\n\nFREE LIFETIME SUPPORT FROM THE WORLD\u2019S #1 CONSUMER WI-FI COMPANY\n * TP-Link is the world\u2019s number one provider of consumer Wi-Fi products, shipping half a million products to over a hundred countries every day. Unlike our competition, we believe support should be free, so our team is available 24/7 to provide no-cost technical service, including setup assistance, for the lifetime of our products. And for peace of mind, we back each of our products with an industry-leading two-year warranty.\n\n\n\n* Maximum wireless transmission rates are the physical rates derived from IEEE Standard 802.11 specifications. Range and coverage specifications are based upon test results under normal usage conditions. Actual wireless transmission rate and wireless coverage are not guaranteed, and will vary as a result of 1) environmental factors, including building materials, physical objects and obstacles, 2) network conditions, including local interference, volume and density of traffic, product location, network complexity, and network overhead and 3) client limitations, including rated performance, location, connection quality, and client condition. Two or more 1\u00d71 MU-MIMO-enabled client devices must be connected to achieve faster performance. ** To access remote network management features, customers must sign-up for a free TP-Link account *** According to latest published IDC Worldwide Quarterly WLAN Tracker Report, Q3 2016 Final Release.",
+    "rating": 3.6,
+    "feature_bullets": [
+      "Enjoy 4K HD video and play online games simultaneously with faster Wi-Fi to all your devices",
+      "NitroQAM and 4-Stream technology delivers up to 3150Mbps Wi-Fi speeds over dual 2.4GHz (1000Mbps) and 5GHz (2167Mbps) bands",
+      "AC3150 class MU-MIMO works with BCM/QCA-based MU-MIMO clients. Provides up to 3x performance boost",
+      "Powerful Dual-core 1.4GHz CPU for multi-tasking, such as USB storage and VPN connection",
+      "TP-Link HomeCare protects every single device on your network from the latest threats with powerful security, antivirus, and parental controls.",
+      "Custom Quality of Service (QoS) lets you prioritize bandwidth for your favorite activities and devices for faster performance",
+      "Router and AP Dual Mode to fit in any network environments",
+      "Industry leading 2-year warranty and 24/7 technical support"
+    ],
+    "specifications": {
+      "Wireless Type": "802.11ac",
+      "Number of USB 2.0 Ports": "1",
+      "Number of USB 3.0 Ports": "1",
+      "Brand": "TP-Link",
+      "Series": "Router Only",
+      "Item model number": "Archer C3150",
+      "Item Weight": "4 pounds",
+      "Product Dimensions": "7.8 x 10.4 x 1.5 inches",
+      "Item Dimensions  LxWxH": "7.8 x 10.4 x 1.5 inches",
+      "Color": "Black",
+      "Manufacturer": "TP-LINK USA",
+      "ASIN": "B01N4R01UJ",
+      "Is Discontinued By Manufacturer": "No",
+      "Date First Available": "January 24, 2017",
+      "Customer Reviews": "3.6 out of 5 stars500 ratings3.6 out of 5 stars",
+      "Best Sellers Rank": "#15,444 in Computers & Accessories"
+    },
+    "categories": [
+      "Computers & Accessories",
+      "Electronics",
+      "Routers",
+      "Networking Products"
+    ],
+    "price": 129.99
+  }
+}

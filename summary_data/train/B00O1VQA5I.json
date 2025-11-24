@@ -1,0 +1,357 @@
+{
+  "website_summaries": [
+    {
+      "verdict": "A sturdy router with a strong WiFi signal and a highly configurable, business-grade VPN. Its mostly manual configuration can be a challenge for newer users.",
+      "pros": [
+        "Plenty of functionality both as a router and VPN",
+        "WiFi signal is strong enough to go through most walls",
+        "Business-grade features are a nice plus",
+        "Works with iOS and Android clients"
+      ],
+      "cons": [
+        "Load balancing is so-so",
+        "VPN server name is limited to 12 characters",
+        "Most settings must be manually configured, making this a tough device for newer users to figure out"
+      ],
+      "aspects": {},
+      "publication_date": "",
+      "rating": "",
+      "source": "bestreviews"
+    }
+  ],
+  "customer_reviews": [
+    {
+      "title": "Solid Good Router A+++",
+      "text": "1st Day review: So far so good. Quality feeling build. Everything is working as it should. Setup was not too much effort. Running both channels. Streaming, gaming, dling without any issues. The packaging was nice. Everything was included. The interface is not as fancy as others like Trendnet or Linksys. However, because this is for business it has more actual features to adjust. Some I had to look up. This is not for a non techie. You need an understanding of networking or be able to do some googling to look up some settings. This does not do a lot of auto setup for you. You will need to configure 2/3rds of the settings.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Jennifer Napier",
+      "helpful_votes": 12,
+      "publication_date": 20160102
+    },
+    {
+      "title": "The best multi-WAN router in the consumer price range.",
+      "text": "I live in the boonies and need to load balance multiple DSL lines. I've tried several and can say definitively that this is the best, most stable multi-WAN router in the consumer price range. It just so happens to also be one of the least expensive. I replaced an Asus unit that cost 3 times as much with this unit and this one is far more stable. The only con is the UI could use some updating. However, that can be said of every router I've used. Network companies need to quit letting network engineers design their UI. I'm excited to setup the syslog feature. I just don't have a server setup for it yet.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Guy Sperry",
+      "helpful_votes": 2,
+      "publication_date": 20160518
+    },
+    {
+      "title": "Best router I have used, including the bigger name brands.",
+      "text": "This router has a lot of power. The RF (WiFi) side works great. I use it on a ship, and with the metal bulkheads (walls for you landlubbers) this thing has a great range. It also offers the user superb control over access to the network and the internet. Some of the menu items are more for China than anything else. That also makes you wonder how often it 'phones home' with your data. Having said that, I would still buy one again. When you have a question they are very quick to answer.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Jeff",
+      "helpful_votes": 0,
+      "publication_date": 20170407
+    },
+    {
+      "title": "The reason I gave 3 stars, because they are ...",
+      "text": "The reason I gave 3 stars, because they are so tricky with their answers about VPN. This router dose NOT support L2TP/IPsec client to server. It's ok for what you are paying for. Plus, this router not able to connect to Azure via VPN. I didn't try site to site with ASA yet, but I don't think it will be able to do that.",
+      "rating": 3.0,
+      "verified": true,
+      "author": "Baraa",
+      "helpful_votes": 0,
+      "publication_date": 20170504
+    },
+    {
+      "title": "We no longer need a booster upstairs!",
+      "text": "This router is great! We have a two story house and have had issues with getting enough strength upstairs with other products. This one has enough power that this is not an issue. The set up was a little challenging, but once that was done; we have had no complaints. We no longer need a booster upstairs!",
+      "rating": 5.0,
+      "verified": true,
+      "author": "sherwilson @ Simply Sherryl",
+      "helpful_votes": 0,
+      "publication_date": 20161107
+    },
+    {
+      "title": "Super:  4 WAN ports,  good interface,  many features,  great coverage,  supports repeating",
+      "text": "So far, day 3, this has been great. The interface seems to have been updated and works well-- and now allows me to open 4 WAN ports for bandwidth sharing or redundancy. Seems to cover three floors, almost 4000sf well, but can be paired with another unit as a repeater. Haven't tried remote management, shell or other features, but pleased so far.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "1kenthomas",
+      "helpful_votes": 0,
+      "publication_date": 20170504
+    },
+    {
+      "title": "Good, sturdy router",
+      "text": "The router's has a black metallic body, which looks heavy and sturdy. The setup wizard was easy and user-friendly, and the signals were quite strong: I can still receive an excellent wifi signal even behind a solid concrete wall, and after switching on turbo mode the signals can get even better. I tried the full load-balancing utility using two identical wan connection, and the speed was somewhere between 1.5x to 2x of the original speed. However, sometimes it will drop to a very low speed, slower than using a single WAN. It may still need some adjustments in the router or adapter configurations.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "czhang",
+      "helpful_votes": 0,
+      "publication_date": 20160818
+    },
+    {
+      "title": "High speed at last",
+      "text": "Great router - increased our streaming speed significantly from our old router. Easy installation - with the help of online comments/instructions (I'm not a techie). No problem with connection to all three levels of our home. Reliable so far - no interruptions or slow speeds.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Tante May",
+      "helpful_votes": 0,
+      "publication_date": 20160307
+    },
+    {
+      "title": "Works great with my Android phone and iPads",
+      "text": "Works great with my Android phone and iPads, but is abominable with my Macbook Air. After months of fussing with it I gave up. I had this attached to a Comcast cable modem. I'm very disappointed in this unit, as it had so many excellent reviews. For me it was a complete waste of money.",
+      "rating": 3.0,
+      "verified": true,
+      "author": "PMF",
+      "helpful_votes": 0,
+      "publication_date": 20160912
+    },
+    {
+      "title": "Great Access Point as Well!!",
+      "text": "I set this up as an access point in my clients home with her \"AT&T 2Wire 3600HGV DSL Gateway\" Wireless signal was an incredible improvement over the wireless \"G\" of the gateway. She wanted dual band wireless but replacing the AT&T gateway was not an option. UTT does it again! I love it!",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Joseph C. Young",
+      "helpful_votes": 0,
+      "publication_date": 20160317
+    },
+    {
+      "title": "I am very happy with this router",
+      "text": "I am very happy with this router! It works just as expected. The extra large antennas help with range issues I had with the previous router; I couldn't walk to the garage without loosing signal in my phone.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Amazon Customer",
+      "helpful_votes": 0,
+      "publication_date": 20170415
+    },
+    {
+      "title": "Ports are 100GB only",
+      "text": "Other than that, a breeze to set up and use for dual internet",
+      "rating": 5.0,
+      "verified": true,
+      "author": "UW",
+      "helpful_votes": 0,
+      "publication_date": 20190521
+    },
+    {
+      "title": "OLD Tech",
+      "text": "Even though current for sale, product is old. Still list WinXPWin7 as current and no Gigabit LAN port",
+      "rating": 2.0,
+      "verified": true,
+      "author": "William",
+      "helpful_votes": 0,
+      "publication_date": 20180731
+    },
+    {
+      "title": "it has a good signal and it has not crashed or had to ...",
+      "text": "I'm only using this as a wireless end-point. For this function, it has a good signal and it has not crashed or had to be rebooted in over three months.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "SteveS",
+      "helpful_votes": 0,
+      "publication_date": 20161005
+    },
+    {
+      "title": "Expected better range honestly as this was in a slightly higher ...",
+      "text": "Definitely not as user friendly as other routers. Expected better range honestly as this was in a slightly higher price bracket then the cheap stuff. The 5ghz has very little range at all. HOWEVER I now get 56mbs on my wifi Internet (50mbs package). The cable companies router couldn't even hold 40mbs.",
+      "rating": 4.0,
+      "verified": true,
+      "author": "Amazon Customer",
+      "helpful_votes": 0,
+      "publication_date": 20161126
+    },
+    {
+      "title": "Great wi-fi ever!",
+      "text": "After making the guided connections from the product guide, the Internet wi-fi was as best as ever. Consequently, It took me like 20 minutes to password the router from the UTT website. Great product to recommend to anyone.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Gnomie",
+      "helpful_votes": 0,
+      "publication_date": 20160127
+    },
+    {
+      "title": "WAY BETTER than my Linksys AC (SUPER EXPENSIVE) router",
+      "text": "WAY BETTER than my Linksys AC (SUPER EXPENSIVE) router. This thing has WAY better signal stregth and bandwidth than the other name brand pieces I have tried.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "PaleD",
+      "helpful_votes": 0,
+      "publication_date": 20160118
+    },
+    {
+      "title": "Pleasantly Surprised",
+      "text": "I have been working in IT for many years. I primarily use enterprise class routers but needed something for a small office with VPN support. Initial setup was quick and easy. VPN setup was also very straight forward and easy. So far it has been a good experience, we'll see how it goes with stability.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Steve Clemons",
+      "helpful_votes": 0,
+      "publication_date": 20160629
+    },
+    {
+      "title": "Great Product at a Great Price",
+      "text": "This unit has a great signal. I was a little confused about setup, but got great help from the technical staff.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Dwight Webster",
+      "helpful_votes": 0,
+      "publication_date": 20160419
+    },
+    {
+      "title": "Much better than consumer big box store routers.",
+      "text": "Better than consumer routers with the same specs. Many features. Metal construction with high gain antennas. Runs cool to the touch.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "ITRetiree",
+      "helpful_votes": 0,
+      "publication_date": 20160614
+    },
+    {
+      "title": "Best router for home to midsize business.",
+      "text": "I leave almost no reviews, but this product is that good. I have worked in mega networks and these routers are incredible for what they are. They are very simple, very easy to us. I just replaced three linksys AC1300 with these. Possibly the best investment I have bought for the networks I have at home and the office.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Lonnie Bozeman",
+      "helpful_votes": 0,
+      "publication_date": 20160623
+    },
+    {
+      "title": "Different looking router received",
+      "text": "Hard to set up and received a different looking router than one order.",
+      "rating": 2.0,
+      "verified": true,
+      "author": "Nathan L.",
+      "helpful_votes": 0,
+      "publication_date": 20180629
+    },
+    {
+      "title": "Five Stars",
+      "text": "Quite happy with this router. Lots of configurables and options, and a great support team.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Chris",
+      "helpful_votes": 0,
+      "publication_date": 20160217
+    },
+    {
+      "title": "Is the best option if you like to take control of your ...",
+      "text": "Is the best option if you like to take control of your network, I have two WAN ports in my office and this is great, I love it!",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Alec J",
+      "helpful_votes": 0,
+      "publication_date": 20160722
+    },
+    {
+      "title": "Five Stars",
+      "text": "Everything is great but it is much bigger than the one it replaced.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Amazon Customer",
+      "helpful_votes": 2,
+      "publication_date": 20150929
+    },
+    {
+      "title": "Five Stars",
+      "text": "Great control for QOS. Able to get wire speed over wireless",
+      "rating": 5.0,
+      "verified": true,
+      "author": "gumbedamit",
+      "helpful_votes": 0,
+      "publication_date": 20151123
+    },
+    {
+      "title": "Look elsewhere the unit I got was defective, support staff replied fast but lack tech. knowlege",
+      "text": "I spent two days trying to make this work. Numerous issues with the unit I received. I believe it was a hardware issue. Support was prompt but really no help, not understanding my technical reports I sent. I sent it back as I could not spend any more time on it. I've set up probably 50 routers, gatways and firewalls in my life this one just didn't work.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "MR BUMP",
+      "helpful_votes": 0,
+      "publication_date": 20170103
+    },
+    {
+      "title": "Love this router it has many features",
+      "text": "Love this router it has many features. You can have more than 1 internet connection, load balancing, QOS, just so many options and a great price. So far this thing has been flawless. I was a network admin many years ago and have tried several brands of routers. This has been better than the vast majority of routers you will find at someone's house. Buy this router with confidence, it does what it says.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Amazon Customer",
+      "helpful_votes": 0,
+      "publication_date": 20160121
+    },
+    {
+      "title": "it was a very nice product at the beginning but no longer",
+      "text": "update 8/25/2016 another failed router this is the 6th router that just drops out of configuration, it will drop out and broadcast hyper utt ssid. this allows everyone to gain access to the network when you are sleeping. i am serious, do not buy this product you will be running tech support or reconfiguring this unit randomly. as for the tech support, try calling this number and asking for tech support, they have an answering service and will send a message to have someone call you back. it was a very nice product at the beginning, but no longer worth the service calls.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "Fusion6",
+      "helpful_votes": 0,
+      "publication_date": 20160825
+    },
+    {
+      "title": "This unit is a fairly simplistic router/gateway. Lacks some ...",
+      "text": "This unit is a fairly simplistic router/gateway. Lacks some features of the big named network gear but works well so far and does offer up to 4 wan ports.",
+      "rating": 4.0,
+      "verified": true,
+      "author": "Carl S.",
+      "helpful_votes": 0,
+      "publication_date": 20160103
+    },
+    {
+      "title": "One Star",
+      "text": "Just after three months, the wireless connection has become extremely unstable.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "Nanpae",
+      "helpful_votes": 0,
+      "publication_date": 20170604
+    },
+    {
+      "title": "Not for personal use",
+      "text": "Not for personal use. Way to complex for me, and it constantly needed to be rebooted. I bought some cheapish run of the mill routers that are working better. Probably will toss this thing. This is for a techy person that wants to tinker with it constantly.",
+      "rating": 2.0,
+      "verified": true,
+      "author": "D. Lawrence",
+      "helpful_votes": 0,
+      "publication_date": 20160430
+    },
+    {
+      "title": "A Great Router at a Great Price",
+      "text": "Highly recommend this product! Got this router a couple of weeks ago and it's been very stable without any issue. The setup was easy. Flexibility includes IP/MAC binding and bandwidth control for each individual internal network user. Flexible firewall policy is another useful feature. The VPN feature allows easy and convenient access my company's internal network.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "SammiB",
+      "helpful_votes": 9,
+      "publication_date": 20141222
+    }
+  ],
+  "product_meta": {
+    "title": "UTT AC750W Dual Band Wireless WiFi Router AC 750 High Power \u2013 VPN \u2013 Load Balance & Failover \u2013 Ethernet \u2013 USB \u2013 Access Control \u2013 for Business",
+    "rating": 3.6,
+    "feature_bullets": [
+      "Wireless AC 750Mbps: Next-gen wireless standard. Simultaneous dual-band speed up to 450Mbps (5GHz) + 300Mbps(2.4GHz); 3 x 7dBi antennas ensure max range, especially in multiple-story buildings",
+      "Dual WAN+: Configurable up to 4 WAN ports. Optimize uplink throughput by load-balancing/failover multiple ISP connections",
+      "VPN Supported: Up to 10 IPSec VPN tunnels simultaneously; PPTP VPN server and client mode",
+      "Enterprise-Level Performance: Performance aligned with UTT enterprise-level wireless product line; highly robust and stable",
+      "Easy-to-Use: Intuitive web-based GUI offers simple setup and troubleshooting, either locally or remotely over the Internet"
+    ],
+    "specifications": {
+      "Wireless Type": "5.8 GHz Radio Frequency, 802.11a/b/g/n, 2.4 GHz Radio Frequency",
+      "Brand": "UTT",
+      "Series": "UTT AC750W",
+      "Item model number": "AC750W",
+      "Item Weight": "2.9 pounds",
+      "Product Dimensions": "9.2 x 1.8 x 5.5 inches",
+      "Item Dimensions  LxWxH": "9.2 x 1.8 x 5.5 inches",
+      "Color": "Black",
+      "Power Source": "DC",
+      "Voltage": "12 Volts",
+      "Manufacturer": "UTT Technologies Co., Ltd.",
+      "ASIN": "B00O1VQA5I",
+      "Is Discontinued By Manufacturer": "No",
+      "Date First Available": "September 30, 2014",
+      "Customer Reviews": "3.6 out of 5 stars59 ratings3.6 out of 5 stars",
+      "Best Sellers Rank": "#55,342 in Computers & Accessories"
+    },
+    "categories": [
+      "Computers & Accessories",
+      "Electronics",
+      "Routers",
+      "Networking Products"
+    ],
+    "price": ""
+  }
+}

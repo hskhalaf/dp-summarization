@@ -1,0 +1,781 @@
+{
+  "website_summaries": [
+    {
+      "verdict": "The DI-624 is fast, and it combines easy installation with advanced security options, making it a good choice for homes and offices alike.",
+      "pros": [
+        "Fast",
+        "long range",
+        "removable antenna",
+        "configurable firewall",
+        "compact"
+      ],
+      "cons": [
+        "Lacks stand for vertical positioning",
+        "poor throughput with 802.11b devices"
+      ],
+      "aspects": {
+        "Setup": 7.0,
+        "Features": 7.0,
+        "Performance": 7.0,
+        "Support": 8.0
+      },
+      "publication_date": 20031217,
+      "rating": 7.1,
+      "source": "cnet"
+    }
+  ],
+  "customer_reviews": [
+    {
+      "title": "Very poor quality product and almost non existing support",
+      "text": "Buy only if you do not need to use it or if you have lots and lots of time to experiment with settings yourself: -Worst customer service ever. -Technical support telephone wait time is horribly long. -Router reboots every few hours, even when there is no traffic. -Router drops wireless connection about once per hour requiring that VPN links be re-established. -Router cannot configure any wireless channel but 6 -Wireless link Indicator LEDs on both ends don't behave as manuals describe, so aren't much help in troubleshooting. -Advanced features are not well described in the documentation and there are no samples to use. -Signal strength and quality is very inconsistent",
+      "rating": 1.0,
+      "verified": true,
+      "author": "Leonid Aaron Dolbir",
+      "helpful_votes": 5,
+      "publication_date": 20040128
+    },
+    {
+      "title": "Only half the speed",
+      "text": "The product description is somewhat misleading when it says 108Mbps (referring to data transfer). Upon further reading it actually says: \"108Mbps with other D Link products...\" The user manual (available on the internet) lists the normal data transfer speed as 54Mbps and doesn't specify which \"other\" D Link products that you can obtain the blazing data transfer speeds with... Just be aware of this fact before buying, and be sure that this is the product you want. I am giving the product a lower rating for being casually misleading in the main item description and because most of you are not going to get 108Mbps, but only half that.",
+      "rating": 3.0,
+      "verified": true,
+      "author": "Maxx",
+      "helpful_votes": 0,
+      "publication_date": 20140529
+    },
+    {
+      "title": "Legendary router",
+      "text": "A heavy duty router. Worked for years. Easy to set up and people were well aware of its reliability. Outdated for modern standards but it would still be my choice for an used unit or for a low cost system.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "sejogue",
+      "helpful_votes": 0,
+      "publication_date": 20180213
+    },
+    {
+      "title": "Great Product",
+      "text": "I purchased a D-Link DI-624 router to set up a wireless network at home. I was originally running my network with just two wireless D-Link network cards. I was running in ad-hoc mode (peer to peer), but realized it would be better to purchase a router to share my printer and cable internet connection without worrying about both PCs being turned on. I haven't had any major problems at all with the router. Installation is simple if you follow the instructions provided. It is advisable to make sure you have the lastest OS software and router firmware updates for optimal performance. Overall, this is a great product.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "PaulWIII",
+      "helpful_votes": 0,
+      "publication_date": 20041214
+    },
+    {
+      "title": "Wonder router especially if you have a Toshiba A75 laptop",
+      "text": "I have been using this router for 3 months and never regret that I bought it. Things I like about it: 1)Signal strength: the connection sustains until I get about 50 meters away from my apartment. 2)Speed: I have a Toshiba laptop (A75 series) with built-in Atheros super-G wireless card (actually this is the main reason I went for this router). As I suspected, I get a stable connection speed of 108M bps out of it! So it is not true that a DLink super-G card is required to get the super-G speed. I would expect a Netgear super-G card can get 108M connection with this router too. 3)Stability: the router has not failed my connection once yet.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Guoqiang Wu",
+      "helpful_votes": 2,
+      "publication_date": 20041217
+    },
+    {
+      "title": "Buy another router-unstable connections",
+      "text": "DI-624 router frequently disconnects itself from all computers, wired and wireless, attached to it. What's more, it will reboot and might take up to 5 minutes to establish a connection, which may happen in the middle of a download. D-link suggests that you downgrade the speed to 10Mb which will reduce files transfer speed in your network by a tenfold. But the issue is not resolve. Upgrading to new firmware (2.50)won't resolve the issue either. Furthermore, replacing the network card for a new one won't resolve the issue. If you want to spend many hours fussing, calling & e-mailing tech support and rebooting a router and reconfiguring it until you are red in the face....go for it...",
+      "rating": 2.0,
+      "verified": true,
+      "author": "J. Salce",
+      "helpful_votes": 3,
+      "publication_date": 20041019
+    },
+    {
+      "title": "The Great Rebooting Router Mystery Tour",
+      "text": "This is an inexpensive, easy to setup router / firewall combo. You'll be fine if you do no online gaming or anything requiring consistent connectivity. There are ongoing, unresolved issues with DLink routers and how they handle a PADT packet from your ISP's equipment. This router handles the command by not only disconnecting, but by also REBOOTING itself. This leads to a 15-30 second disconnect condition while the device reboots. I'm sorry to say I really can't recommend this item (it's rebooted 3 times while writing this!)",
+      "rating": 1.0,
+      "verified": true,
+      "author": "Lurpe",
+      "helpful_votes": 7,
+      "publication_date": 20050502
+    },
+    {
+      "title": "Great Product/weak technical support",
+      "text": "If you're comfortable setting up your own wireless network, this is an amazing product. Coupled with the DWL-G650, and updated software, this connection screams! However, if you're looking for techncial support, be advised that the outsource technicians don't know what they're talking about, and you'll most likely need to get to Tier II level support before you hit the jackpot of someone actually knowing something about the software/firmware/OS interface. If you have McAfee Firewall installed, you may need to reinstall a .dll to make this work.",
+      "rating": 4.0,
+      "verified": true,
+      "author": "Ellen",
+      "helpful_votes": 0,
+      "publication_date": 20040130
+    },
+    {
+      "title": "Two strikes and it's out!",
+      "text": "I returned the first unit beacause it would not detect a connection. The connection was not detected whether it was set to DHCP or static. It also rebooted itself constantly and would not keep a set time but instead would reset the clock back to 1 April 2002! What the heck?! Technical support was useless; I'm convinced that they are min wage workers in some overseas location reading from a scripted algorithm, probably the quick set-up guide or online FAQ's. I returned the second one for the exact same reason. Amazon has been very good about the series of transactions; the return/replacement/refund process has been very easy.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "RU",
+      "helpful_votes": 2,
+      "publication_date": 20040531
+    },
+    {
+      "title": "Great for a newbie wifi user",
+      "text": "I bought this router in conjunction with a new notebook that is my first. It's meant to be a desktop replacement, so I still only have one computer hooked up. This router works great as an access point/wi-fi router! Even for someone with no experience, I was hooked up within 10 minutes out of the box. The software has a nice easy connection wizard. The signal is strong all through my 2 story house. I know I'm not using it to its full potential, but I highly recommend it for ease of use!",
+      "rating": 5.0,
+      "verified": true,
+      "author": "cmp",
+      "helpful_votes": 4,
+      "publication_date": 20050815
+    },
+    {
+      "title": "Lots of reboots, poor firmware upgrades, you can do better",
+      "text": "There's a good reason this router is so cheap. I agree with the other reviewers who have noticed that this router frequently either reboots itself or hangs and requires the user to unplug it and plug it back in. Even the firmware \"upgrades\" require you to completely shut the router down and wait 1 min and then plug back in, and hope it works... last upgrade I had to do this 5 times and finally it came back to life. I previously had a Linksys router and in retrospect wish I had stayed with that brand, though it wasn't perfect. Suggest you search on google and find some recommendations for a good, stable router.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "Goldengate",
+      "helpful_votes": 0,
+      "publication_date": 20060725
+    },
+    {
+      "title": "Very Nice Router",
+      "text": "I had zero problems setting up the DI-624. First thing I did was to update the firmware to latest version. No problem there either. The unit gave immediate top notch performance and I changed location from desktop to bottom shelf with no degradation. You need a matching 108mps adapter to get 108mps speed but for me, 54mps is fine. All the wireless routers work on 2.4ghz, so if you have a 2.4ghz wireless phone, then there is bound to be a problem. Price with rebate was also attractive. Don't forget to enable 'Block WAN Ping' which is disabled by default.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Robert",
+      "helpful_votes": 0,
+      "publication_date": 20040601
+    },
+    {
+      "title": "Over my head?",
+      "text": "Frustrating at first because it took me a little while to learn how to use the D-Link Router. Once I learned what all of the terms meant, it was smooth sailing. Now I have a safe wireless computer, am able to work outside or at a neighbor's house! One more thing I must say, this is working on an OS X v.10.3.9. This wireless system almost felt like it was made for my little Mac. I did a lot of research to find the best wireless router for this computer and this is the only one I could find that claimed to \"welcome Mac.\" computers.",
+      "rating": 4.0,
+      "verified": true,
+      "author": "Elise",
+      "helpful_votes": 0,
+      "publication_date": 20060818
+    },
+    {
+      "title": "Wonderful device, and wonderful service",
+      "text": "Excellent speed, with a very simple setup. Although I got into a problem with the install (no fault D-Link), I was able to quickly get through their helpdesk for tech support - and what I was helped by someone who I could actually understand (support was in California). Gotta love it when that is not outsourced! I used this in combination with the D-link 108 wireless NIC. Great range - easy to setup - easy to configure security.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Bromptonboy",
+      "helpful_votes": 5,
+      "publication_date": 20051017
+    },
+    {
+      "title": "D-Link DI-624 AirPlus Xtreme G",
+      "text": "This is a good by, especially with the rebate! I started out with the Microsoft MN-610, which is only 802.11b, but returned it to purchase this. For about $20 more, I was able to purchase this 802.11b & 802.11g compatible router. Router was very easy to set up. My only complaint is that I cannot figure out any method to stop broadcasting the SSID-this seems like it would help secure the system. Also, WEP should be enabled by default.",
+      "rating": 4.0,
+      "verified": true,
+      "author": "Don M.",
+      "helpful_votes": 0,
+      "publication_date": 20030515
+    },
+    {
+      "title": "Great buy.",
+      "text": "Pros: Strong signals throughout my whole house. Great speed. Reasonable price. Cons: Had problems setting up my wireless network with the CD provided. Needed to do it manually by searching for the default IP address/admin password on the net and it took me a few trials to get it to work. Can be problematic for novice users. Still a great buy if you don't mind setting it up manually.",
+      "rating": 4.0,
+      "verified": true,
+      "author": "George Shum",
+      "helpful_votes": 0,
+      "publication_date": 20061103
+    },
+    {
+      "title": "Good solid router",
+      "text": "Just plug in and go with this one. I got it because it supports 11b and 11g well as I have one Intel Centrino laptop which is 11b and a desktop and Apple Airport both of which are 11g. Not many routers handle this well. I have it going through two solid masonry walls and a huge refrigerator with no performance problems at all. For the price and performance you can't beat it. There are faster routers around but with proprietary protocols with non standard MIMO etc that just would not work well with my Centrino or Airport. Excellent tech support",
+      "rating": 5.0,
+      "verified": true,
+      "author": "S, de Korte",
+      "helpful_votes": 0,
+      "publication_date": 20070111
+    },
+    {
+      "title": "Love these older D-Link boxes",
+      "text": "God I love these older D-Link boxes. I used to be a Linksys bigot but around 2000 I noticed that my Linksys routers started having DNS errors after about a year of use. On a whim I bought a D-Link DI-604 back in 2003/2004. It ran great for many years and still runs great now. I decided that I wanted to use the wireless adapter in my laptop. After seeing people have mixed results with the newer routers I decided tried and true was the way for me so I bought a refurbished DI-624 and it runs as good as new. They're like the Energizer bunny with a Timex watch.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "BradM",
+      "helpful_votes": 0,
+      "publication_date": 20070727
+    },
+    {
+      "title": "D-link DI 624 Router",
+      "text": "I am pleased with the performance of the wireless router. I had a Westell 327 before, but it kept dropping the signal and had big problems getting connected if it was set for security. I am having no problems with the DI-624. I live in an old house. The router is on the second floor and my office is in the basement, so the signal has to go through 2 floors. I am getting 11 to 54 MBps, with an average of 36 MBps through the wireless. Our DSL line is at 100 MBps, so I am very pleased with the performance.",
+      "rating": 4.0,
+      "verified": true,
+      "author": "Agronoman",
+      "helpful_votes": 0,
+      "publication_date": 20070109
+    },
+    {
+      "title": "Reliable workhorse performer",
+      "text": "I have been running this unit for a couple of years, and have installed several of them at friends' houses without a hitch. This unit has always been reliable and easy to install for me. It offers WEP and WPA encryption, is easy to manage, and has simply worked without problems. I sometimes use D-Link's wireless range extenders for big houses, including mine. In general, I have had very good luck with D-Link products, and think of the DI-624 as a reliable workhorse.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Once a geek, ...",
+      "helpful_votes": 5,
+      "publication_date": 20060508
+    },
+    {
+      "title": "Not for the house wifi roamer.",
+      "text": "Not the product I thought it would be. Gave it a try and hatted. Went back to my Linksys which has proven to be the most stable at all distances within my house.",
+      "rating": 2.0,
+      "verified": true,
+      "author": "Jeff Hoban",
+      "helpful_votes": 0,
+      "publication_date": 20150711
+    },
+    {
+      "title": "3 Story Home and it works in every room",
+      "text": "This is my first wireless Router. I like the freedom that it gives me. I can take my laptop anywhere in my home,on the porch and even down the block. It does seem to need rebooting more than my wired router but, I'm getting good at reseting it. It disconnects all the time. I would NOT recommend this router to others.",
+      "rating": 2.0,
+      "verified": true,
+      "author": "Mark Artisan",
+      "helpful_votes": 0,
+      "publication_date": 20061103
+    },
+    {
+      "title": "Wasted my time and money.",
+      "text": "The unit would not connect to internet no matter what I tried in setup. Tried it on two different service providers' signal at two different residences. Wasted my time and money.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "Thomas P Kirby",
+      "helpful_votes": 0,
+      "publication_date": 20160404
+    },
+    {
+      "title": "Save my choppy cable internet service",
+      "text": "After having the SMC router for 3 years, I had an intermittent DNS lookup problem since few months ago after I had Vonage. Then I bought this router with the G650 802.11g card. It rocks! Somehow the DNS lookup problem is gone and it is extremely fast. The only issue is that I cannot get it to work in 108Mbps even with the newest firmware/driver...",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Kelvin Leung",
+      "helpful_votes": 0,
+      "publication_date": 20040408
+    },
+    {
+      "title": "Best I have found!",
+      "text": "I am not an IT person but this model was suggested to me by my IT person from work. This is the 3rd one I have purchased for myself and friends. I find it easy to set up and it just works well. I did have a Linksys and switched to this model and have been very happy. Buy it...you won't be dissapointed! '",
+      "rating": 4.0,
+      "verified": true,
+      "author": "L Hudson",
+      "helpful_votes": 0,
+      "publication_date": 20061109
+    },
+    {
+      "title": "Wasted my money",
+      "text": "Installation was quick but signal range is extemely poor. Unless you want to work in the same room or floor the signal will be single to two bars max. I am also losing internet signal every 30 minutes or so. Now I have purchased belkin from circuit city with two antenas (forgot the model #) and things are perfect.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "Rivu",
+      "helpful_votes": 0,
+      "publication_date": 20070829
+    },
+    {
+      "title": "Doesn't work for me",
+      "text": "I've been using a D-Link DI-614+ router and it works fine. I bought a DI-624 to upgrade from 11b to 11g. The 624 connected fine to the other machines in my home network and the computer showed an internet connection present, but no matter what I tried I couldn't access the internet. All the settings were the same as the 614. The computer would time out and offer to use my back up dial-up connection. I asked for help from D-Link tech support by email. They made a few very basic suggestions that didn't work, then stopped answering my emails. I gave up and returned the unit to Amazon for a refund. (Amazon's easy returns are great!)",
+      "rating": 1.0,
+      "verified": true,
+      "author": "HackZaw",
+      "helpful_votes": 2,
+      "publication_date": 20040511
+    },
+    {
+      "title": "broke after about a month",
+      "text": "This router worked ok for about a month and then failed when I was in the admin page. Still kinda works, but I can no longer get into the admin page, and it takes forever to boot the router. I tried resetting it to factory defaults, but it doesnt respond to the switch. I was happy with it when it worked, but it failed too fast to be satisfactory. I went and bought another one however.",
+      "rating": 2.0,
+      "verified": true,
+      "author": "Noel J. Mackisoc Jr.",
+      "helpful_votes": 0,
+      "publication_date": 20061102
+    },
+    {
+      "title": "Cost effective and technically strong choice",
+      "text": "The D-Link DI-624 Wireless Cable/DSL Router is probably the best you can buy for the money, and technically superior to all of its competitors in this price range. This is my 3rd purchase of this product --- one for myself a year ago, and two others for friends with a need for a secure wireless environment in their home offices. The documentation (pdf on CD-ROM) is excellent for both the novice and experienced tech. Strong WPA security with 128-bit encryption was a breeze by following instructions, and picking up a random key from \"Yellowpipe Internet Services\" at [...] I strongly recommend this product.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "BobHOKC",
+      "helpful_votes": 2,
+      "publication_date": 20070913
+    },
+    {
+      "title": "Router review",
+      "text": "I purchased this router based on price, capability and reputation. I plugged it into my Cable Modem and Mac and it worked perfectly in minutes. Additionally I used it to send music to a Roku music bridge about 50 feet away through 2 interior walls. Again it performed perfectly without a problem of any kind. I highly recommend it.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "RichS",
+      "helpful_votes": 0,
+      "publication_date": 20060829
+    },
+    {
+      "title": "ok",
+      "text": "At first didn't work, found connection shook loose in shipping, worked for two weeks and quit again. Not too bad for a used router at a cheap price. Guess I got my money worth.",
+      "rating": 3.0,
+      "verified": true,
+      "author": "kenn mohler",
+      "helpful_votes": 0,
+      "publication_date": 20130820
+    },
+    {
+      "title": "D-Link DI-624 Wireless Router Installed and Ran flawlessly",
+      "text": "TheD-Link DI-624 Wireless Router installed and ran flawlessly The Quick Installation Guide was outstanding. No problems whatsoever. The DI-650 Wireless Modem started up immediately in my laptop, and worked as smoothly as the direct Ethernet connection from my desktop machine. My laptops Windows 2000 Operating system warned that the drivers had not yet been certified by Microsoft. I decided to let the install proceed anyway. Didn't seem to matter. Everything worked perfectly. The wireless modem reported it was doing 54MBPS rather than the theoretical maximum of 108MBPS that one should get from a Super G Router.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "B. Gordon",
+      "helpful_votes": 0,
+      "publication_date": 20040314
+    },
+    {
+      "title": "Tech Support clueless",
+      "text": "I called Tech Support and they do not know their product. First they claim that the antenna on the DI624 can not be detached. When confronted with their website saying otherwise they say: \"yes it is\". Then they refer to pre-sales because \"they know\" and decline to answer anymore questions.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "Dr. No",
+      "helpful_votes": 3,
+      "publication_date": 20030909
+    },
+    {
+      "title": "Excelent Router",
+      "text": "I think this is an excelent router i recomended a lot i give it 4 stras because at thebegining i used to have the reebot problems but then i just run the wizard once and it wasll all great. It has an excelent speed and stability also has a very good range.",
+      "rating": 4.0,
+      "verified": true,
+      "author": "JPCV",
+      "helpful_votes": 0,
+      "publication_date": 20050407
+    },
+    {
+      "title": "Works flawlessly",
+      "text": "I have my 12\" PowerBook set to work off of this, while it is connected to my Window's XP desktop. No problems connecting or maintaining my wireless connection. Works well all over the house, even when the desktop is shutdown during storms. Highly recommend this product!",
+      "rating": 5.0,
+      "verified": true,
+      "author": "XP1083",
+      "helpful_votes": 2,
+      "publication_date": 20030617
+    },
+    {
+      "title": "It is a very good 802.11g/b router",
+      "text": "I have used DI-624 rev. C router with DSL to talk to my computers with standard 802.11g and 802.11b cards and I don't have 2.4GHz phones at home. It is compatible with VPN I need to connect to my company's computers. It is my 3rd router and 2nd wireless one. It is very easy to setup and very reliable. I have used it for one year without any problem. It also gives me better range comparing to my first wireless router - Linksys 802.11b router. I don't have any information regarding 108Mbps.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "cdljl",
+      "helpful_votes": 0,
+      "publication_date": 20050707
+    },
+    {
+      "title": "Glad I upgraded",
+      "text": "This is a great router for home networking. I upgraded from the D-Link 514 router and there is a marked improvement in the wireless networking speed. It's compact design and easy of installation makes for a hassle free network setup.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "T. Flemmons",
+      "helpful_votes": 0,
+      "publication_date": 20060814
+    },
+    {
+      "title": "Good in a pinch.",
+      "text": "O.K. router is good, but wireless too slow. Older model.",
+      "rating": 3.0,
+      "verified": true,
+      "author": "Amazon Customer",
+      "helpful_votes": 0,
+      "publication_date": 20160420
+    },
+    {
+      "title": "Excellent piece of Hardware",
+      "text": "This router is excellent, have it for 6 months. Bough it to replace one from other popular vendor. Noticed the change in speed immediately even on the cabled LAN ports, performance is incredible. Range is perfect, easy to setup security. I sure recommend it!!",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Joe Brawn",
+      "helpful_votes": 2,
+      "publication_date": 20041101
+    },
+    {
+      "title": "DEADLINK",
+      "text": "It has deadspots. I bought it for my daughter and you have to be in a certain spot in her bedroom in order for the wireless to work. Same applies for the guest bedroom. I bought it for her so she wouldn't have to extra on her cell phone bill as she always went over on her data usage. Now unless she stays out in the living room, she probably still pays extra. Ridiculous!",
+      "rating": 1.0,
+      "verified": true,
+      "author": "Mildred F. Hazen",
+      "helpful_votes": 0,
+      "publication_date": 20130508
+    },
+    {
+      "title": "BUY IT!!!",
+      "text": "I've had the d-link for about 2 months. I was confused as to whether to buy it based on the conflicting reviews, but I decided to go ahead. THIS PRODUCT RULES. I had 2 PCs(wired) and 2 laptops (wireless) configured within 1.5 hours with the WEP encryption. The router works great. My advise is check out the software emulator on the dlink website - this lets you play with all the possible configuration settings and lets you see what you are getting into.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "beefytummy",
+      "helpful_votes": 3,
+      "publication_date": 20041016
+    },
+    {
+      "title": "Works great",
+      "text": "It was easy to install (except for the password in the instructions was wrong) and in the month I've been using the router it hasn't given me one problem. Highly recommended.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Steve Taylor",
+      "helpful_votes": 0,
+      "publication_date": 20070726
+    },
+    {
+      "title": "Don't buy it.",
+      "text": "- The wireless range of this router in my house barely made it past 3 small rooms (about 40 ft) - This router frequently drops its wireless connection, and will sometimes reboot itself when both the wireless and wired connections are in use. - Latest firmware upgrade (v2.76) for this router locks out Xbox Live. Be prepared to open ports or use v2.75 - The interface for advanced features (firewall ports, MAC filtering) is a bit clunky. I switched to a Linksys WRT54G. Much better range, and so far, no dropped connections.",
+      "rating": 2.0,
+      "verified": true,
+      "author": "Wired Woodworker",
+      "helpful_votes": 6,
+      "publication_date": 20070307
+    },
+    {
+      "title": "Works fine for me.",
+      "text": "This device was very easy to set up and has worked great so far. I havent tried anything to technical so I wont comment on some of the features. However, if all you want is a router for the home that is easy to use this device works just fine.",
+      "rating": 4.0,
+      "verified": true,
+      "author": "Mr. Grant",
+      "helpful_votes": 0,
+      "publication_date": 20060911
+    },
+    {
+      "title": "Works flawlessly",
+      "text": "I have my 12\" PowerBook set to work off of this, while it is connected to my Window's XP desktop. No problems connecting or maintaining my wireless connection. Works well all over the house, even when the desktop is shutdown during storms. Highly recommend this product!",
+      "rating": 5.0,
+      "verified": true,
+      "author": "JDH",
+      "helpful_votes": 0,
+      "publication_date": 20030617
+    },
+    {
+      "title": "Works flawlessly",
+      "text": "I have my 12\" PowerBook set to work off of this, while it is connected to my Window's XP desktop. No problems connecting or maintaining my wireless connection. Works well all over the house, even when the desktop is shutdown during storms. Highly recommend this product!",
+      "rating": 5.0,
+      "verified": true,
+      "author": "JDH",
+      "helpful_votes": 0,
+      "publication_date": 20030617
+    },
+    {
+      "title": "Great product",
+      "text": "After owning us robotics wireless router, I almost gave up on wireless, but I gave this d=link a chance, It didn't work right away, but after calling there customer service, they had it up and running quickly",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Allan Pharmacist",
+      "helpful_votes": 0,
+      "publication_date": 20040225
+    },
+    {
+      "title": "Router On Point!",
+      "text": "I love this router so much, my original one broke and I had to seek one and Amazon had it big win!",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Pukefairy",
+      "helpful_votes": 0,
+      "publication_date": 20160614
+    },
+    {
+      "title": "Four Stars",
+      "text": "Works great but had to upgrade after Verizon upgrade there speed to Quantum speed. Thanks",
+      "rating": 4.0,
+      "verified": true,
+      "author": "Katrina Robinson",
+      "helpful_votes": 0,
+      "publication_date": 20150118
+    },
+    {
+      "title": "Excellent",
+      "text": "I have used many routers but this is the best so far. I had to replace my Netgear which stopped working after a year. This is one of the best. I use my PDA with WIFI and it works great. In my opinion DLink is the best company if you want to get a good Router.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Amir",
+      "helpful_votes": 0,
+      "publication_date": 20061122
+    },
+    {
+      "title": "Flawless out of the Box",
+      "text": "This worked right out the box. Plugged the vonage into the DSL into the router and the network setup. We don't need wireless security or anything so we leave it as is. Easiest install ever!",
+      "rating": 5.0,
+      "verified": true,
+      "author": "LTM",
+      "helpful_votes": 0,
+      "publication_date": 20060818
+    },
+    {
+      "title": "Works Great.",
+      "text": "I do a little bit of gaming and have compared wireless to running a hard wire and don't find any difference in speed or signal strength. It works well throughout my house (two story 2500 square ft).",
+      "rating": 4.0,
+      "verified": true,
+      "author": "S. Robinson",
+      "helpful_votes": 0,
+      "publication_date": 20070812
+    },
+    {
+      "title": "The price is right",
+      "text": "The D-link was easy to set up and is perfect for my wired/wireless network. My IP phone and cisco switch plugged right in and were up and running in no time and my wireless laptops worked great once I changed the encryption settings to match. For the price, I am very pleased.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "M. L. Beitz",
+      "helpful_votes": 0,
+      "publication_date": 20061112
+    },
+    {
+      "title": "Works well",
+      "text": "I have had no problems with this wifi router. The signal is strong and consistant. I'm using it with a Macbook.",
+      "rating": 4.0,
+      "verified": true,
+      "author": "Ron Lheureux",
+      "helpful_votes": 0,
+      "publication_date": 20070111
+    },
+    {
+      "title": "What Have I Done?",
+      "text": "I replaced a D-Link 802.11b router with this \"new - high performance - high speed\" router. What a mistake! Between the router and the included software (Network Magic) my network has slowed to a crawl. I am very seriously considering going back to my original setup. If I could rate this device at zero stars, I would.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "J. E. Blansett",
+      "helpful_votes": 0,
+      "publication_date": 20070109
+    },
+    {
+      "title": "What a big mistake!",
+      "text": "Guess what? The router did not work and it took me hours to figure that out! What a shame that I had to waste hours finding that out! I now have a high end Cisco and I am very happy. No more buffering, drops or any problems at all. I am sticking with Cisco for both my modem and router. No more D-Links for me! Spending a little more money was worth it.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Janice A. Wood",
+      "helpful_votes": 0,
+      "publication_date": 20111020
+    },
+    {
+      "title": "Works flawless!  Better than Belkin",
+      "text": "I had a Belkin, which I found out later was the \"Huffy\" of wireless routers. A friend of mine who is a network engineer recommended this model. The Belkin would work for an hour or so, then go down. Since I've plugged in the D-Link, we have had our connection since Nov 2006. Hasn't gone down once. I use this D-Link with my iMac and Macbook.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Creepy Green Light",
+      "helpful_votes": 0,
+      "publication_date": 20070901
+    },
+    {
+      "title": "Don't Waste your time or money",
+      "text": "This unit is terrible, its poorly made, cheap does not work well with Macintosh computers and the tech-support is terrible! The tech support - barely speaks english, is difficult to understand and the phone connections are awful - made me wonder why they even offer tech support. Trust me this is not a good product.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "rhodyfresh",
+      "helpful_votes": 0,
+      "publication_date": 20060811
+    },
+    {
+      "title": "D-Link DI-624 Review",
+      "text": "The router is exactly as advertised. Works great and easy to setup.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Rollie",
+      "helpful_votes": 0,
+      "publication_date": 20061109
+    },
+    {
+      "title": "Dlink Wireless Router Works Like a Charm",
+      "text": "The D-Link wireless router installed in a flash and was up and running in minutes. The only way to go when using satellite and wireless network (point access).",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Samuel Grow",
+      "helpful_votes": 0,
+      "publication_date": 20060829
+    },
+    {
+      "title": "Nice little router.",
+      "text": "I bought this router along with a D-Link DWL-G520 Wireless PCI Adapter, 802.11g, 108Mbps both for less than $ 50! The router was refurbished but so far it's worked flawlessly. Pretty decent signal strength, my computers are situated in opposite ends of my house and I really can't see any difference in download speed between either one. Thanks Amazon!",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Hamilton Castrillon",
+      "helpful_votes": 0,
+      "publication_date": 20071013
+    },
+    {
+      "title": "Superb Product",
+      "text": "After reading a lot of different reviews and examining other wireless products, decided to purchase the DI-624. Now that I have installed it and used it - wow - this is a great product. I recommend this wireless router to anyone. It took me all of 5 minutes to install and use it. Not to mention the numerous advanced features that even a rookie wireless person such as myself can use.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "A. Howard",
+      "helpful_votes": 0,
+      "publication_date": 20040830
+    },
+    {
+      "title": "great way to add a laptop at home",
+      "text": "This works very well and have had no problems,easy setup for broadband. I am very satisfied.Also great price",
+      "rating": 5.0,
+      "verified": true,
+      "author": "S. dyer",
+      "helpful_votes": 0,
+      "publication_date": 20070121
+    },
+    {
+      "title": "Router was broken in less than one month",
+      "text": "totally stopped working in about 4 weeks... the technical support is aweful, takes about 35 mins waiting time to get to the support, the phone connection can kill you, I have to hang it up and call again. I wil shun from D-link for everything from now.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "Eric",
+      "helpful_votes": 0,
+      "publication_date": 20060813
+    },
+    {
+      "title": "Works flawlessly",
+      "text": "I have my 12\" PowerBook set to work off of this, while it is connected to my Window's XP desktop. No problems connecting or maintaining my wireless connection. Works well all over the house, even when the desktop is shutdown during storms. Highly recommend this product!",
+      "rating": 5.0,
+      "verified": true,
+      "author": "JDH",
+      "helpful_votes": 0,
+      "publication_date": 20030617
+    },
+    {
+      "title": "Generally a good performer",
+      "text": "This was my first wireless router at home. It was fairly easy to set up, although the setup utility was a bit difficult to navigate at first. The performance has been good, except for occasional dropped connections.",
+      "rating": 4.0,
+      "verified": true,
+      "author": "Rick S.",
+      "helpful_votes": 2,
+      "publication_date": 20060328
+    },
+    {
+      "title": "Great Wireless Router",
+      "text": "Installation was a snap. Have been using it for 1 months now with no problems.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Sam G",
+      "helpful_votes": 2,
+      "publication_date": 20060804
+    },
+    {
+      "title": "Very fast router",
+      "text": "This router is super fast! I had some trouble setting it up, but the customer support line was very helpful and had me working fine in no time.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Surfing in Larchmont",
+      "helpful_votes": 0,
+      "publication_date": 20070109
+    },
+    {
+      "title": "DI-624 AND DWL-650",
+      "text": "I DID FOLLOW ALL THE RECOMENDATION BASE ON THEIR WEBPAGE IN HOW TO INSTALL THE SYSTEM. THE EQUIPMENT IS GOOD. HOWEVER THE SIGNAL OF THE EQUIPMENT IS VERY WEAK. I DID CONTACT THEIR TECH SUPPORT, BUT THE SITUATION WAS WORSE. BETWEEN 5 TO 7 FEET FROM THE BASE, I DID HAVE VERY GOOD SINAL, ONES A WAS MORE THAN 10 FEET FROM THE BASE SIGNAL WAS GOING LOW OR VERY LOW. I DID HAVE COMPAQ BEFORE AND THEIR SIGNAL WAS BETTER BUT THEIR EQUIPEMENT WAS BAD. TRY TO LOOK OTHER EQUIPMENT I WILL NOT RECOMMEND THIS ONE.",
+      "rating": 2.0,
+      "verified": true,
+      "author": "Zuhair Khatib",
+      "helpful_votes": 0,
+      "publication_date": 20040416
+    },
+    {
+      "title": "works but not at 108mps",
+      "text": "It has great range, and works well, but I was under the impression that I would get a 108mps signal, and I only get 54..but other than that it's a great product!",
+      "rating": 3.0,
+      "verified": true,
+      "author": "Beth DeCarlo",
+      "helpful_votes": 0,
+      "publication_date": 20070822
+    },
+    {
+      "title": "D-Link",
+      "text": "This was a very good purchase for an experienced user since I did have to know about the setup and downloading the software that didn't come in the box.",
+      "rating": 3.0,
+      "verified": true,
+      "author": "Carol L. Mclaughlin",
+      "helpful_votes": 0,
+      "publication_date": 20070831
+    },
+    {
+      "title": "Refurbushed D-Link DI-624",
+      "text": "The Router works but the it doesn't work properly. Both computers disconnects frequently while on line only. When I do not use the router, the main computer stays connected while on line perfectly. I should have probably purchased the router new instead of used. I am looking at the router right now and I can not use it! Sorry for the not so well review!",
+      "rating": 2.0,
+      "verified": true,
+      "author": "Stand-by",
+      "helpful_votes": 0,
+      "publication_date": 20100307
+    },
+    {
+      "title": "Whimpy",
+      "text": "Works good on short distance but not for the long haul. 30 foot ok 50 I wouldn't count on it.",
+      "rating": 2.0,
+      "verified": true,
+      "author": "Thrash Adams",
+      "helpful_votes": 2,
+      "publication_date": 20061111
+    },
+    {
+      "title": "Never got it...never heard from the seller.",
+      "text": "I ordered this, waited 30 days, and never got it. I emailed many times, and never heard a word from the seller.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "lcm",
+      "helpful_votes": 0,
+      "publication_date": 20101123
+    },
+    {
+      "title": "good product",
+      "text": "lo conecte\u0300 a mi modem zyxel y ya tenia internet en mi laptop, si funciono\u0300 en 5 minutos... i recommend this product",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Mr. Chopps",
+      "helpful_votes": 0,
+      "publication_date": 20040715
+    },
+    {
+      "title": "great buy",
+      "text": "i bought this for home use to replace my old router so i decided to try a cheep router and i got lucky , it was fast and it was very easy to set up",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Adam Perez",
+      "helpful_votes": 0,
+      "publication_date": 20100827
+    },
+    {
+      "title": "I don't expect it comes without a power adpter!",
+      "text": "I can not use the router because it comes without an power adpter! Need to pay additional 20 dollars to get an adpter before you can actually test its quality",
+      "rating": 1.0,
+      "verified": true,
+      "author": "Lydia335",
+      "helpful_votes": 0,
+      "publication_date": 20111106
+    },
+    {
+      "title": "Don't buy anything from Dlink",
+      "text": "This was a good router for almost 3 years, then it just stopped working one day. It froze up and the manual reset did nothing. The lights came on but I didnt have anything plugged in. It would not network LAN or send internet. All functions entirely DEAD. I think I'm not going to even try to get a replacement, but will buy a linksys or something. Pissed that I don't have wireless internet right now.",
+      "rating": 2.0,
+      "verified": true,
+      "author": "John Dandell",
+      "helpful_votes": 0,
+      "publication_date": 20061108
+    },
+    {
+      "title": "Good product",
+      "text": "Works as it should, no problems with so far and will continue to use or buy another if this one fails.",
+      "rating": 4.0,
+      "verified": true,
+      "author": "Tj Lemery",
+      "helpful_votes": 0,
+      "publication_date": 20121204
+    },
+    {
+      "title": "Damaged item",
+      "text": "This item arrived damaged and for this reason I decided to return it because I was scare to receive another damaged wireless router in case I decided to change it for another router. I really didn't like all the money I had to spent.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "Luis Bueno Wachmann",
+      "helpful_votes": 0,
+      "publication_date": 20070514
+    }
+  ],
+  "product_meta": {
+    "title": "D-Link DI-624 Wireless Cable/DSL Router, 4-Port Switch, 802.11g, 108Mbps",
+    "description": "D-Link continuously stands at the leading edge of wireless networking as it delivers the 802.11g ultra high-speed Wireless Router with up to 108 Mbps transfer speed at 2.4 GHz. The advance filter feature allows the user to predefine the filter to block any unwanted websites. The DI-624 features enhanced firewall security as the Network Address Translation allows you to share a single IP address and protects you from outside intruders gaining access to your private network. Several wireless client can also securely connect to the network using 802.1X for wireless user authentication, as well as WPA (Wi-Fi Protected Access) providing you a much higher level of security. When you have multiple VPN clients on your network, the VPN multiple/concurrent session helps give you better security.\n\nAMAZON.COM\n\n\n\n\nFROM THE MANUFACTURER\nNow the popular D-Link Xtreme G wireless just got faster, while maintaining adherence to the IEEE 802.11g standard.\n\nA new free firmware upgrades D-Link 802.11g Xtreme G products to deliver the Industry\u2019s fastest performance, up to 15 times faster than 802.11b. At 108Mbps data bandwidth the 802.11g D-Link Xtreme G DI-624 with enhanced 108 delivers excellent and consistent data rate throughput. \n\nThe D-Link Xtreme G with enhanced 108 features the industry\u2019s first default 108Mbps \"Dynamic Mode\" that allows clients to always operate at the highest possible speeds while automatically identifying and recognizing other D-Link Xtreme G products for highest performance capability and seamless access to the wireless network in a homogenous environment. \n\nExtensive performance and interoperability testing using standard based methods including NetIQ\u2019s Chariot software reveals a significant increase in performance of the D-Link Xtreme G over other 802.11g based competitors. \n\nThe D-Link Xtreme G DI-624 with 108 Mbps upgrade employs five cutting-edge hardware-based compression technologies to achieve a significant boost in performance within the 2.4 GHz frequency range. \n\n \n\n \n\n * Packet Bursting: The packet bursting technique puts more data into a single transmission, allowing more raw data to be stuffed into each packet and as a result not only delivers much more data, but also executes this process with less traffic on the network. Packet bursting transforms lengthy binary code into simple equations, resulting in an overall reduction in the number of 1s and 0s being sent over the network. It is also the technique defined as one of the methods for performance improvement in the IEEE 802.11e QOS draft standard.\n *  Fast Frames: The fast frames technique enhances data throughput by increasing the number of bits sent per data frame and accelerating the timing of a data frame with a dynamic transmit optimizations. This technology enhances the Packet Bursting capability synergistically to provide accelerated performance results. The fast frames technique is also based on the 802.11e QOS draft standard. \n\n * Hardware Compression and Encryption: Xtreme G uses the Atheros AR5002 chipset which employs special engines to compress and encrypt data. These hardware engines operate in real-time to enhance throughput by implementing standard algorithms and compressing data prior to transmission and after reception.\n * Multi-Channel Bonding: Multi-Channel Bonding embraces two radio channels simultaneously. It collapses the available channels from 12 to 6 for increased bandwidth on the available channels. Single and double channels are not run at the same time. This technology senses single channel and dual channel frames and negotiates time-based solutions with priority on single channel processing.\n * Select Mode: Select Mode gives users the option of locking the Xtreme G products into a Static mode (instead of the default Dynamic mode) for even higher performance within a complete D-Link 108Mbps Xtreme G environment.\n\n\n\nThe D-Link 802.11g DI-624 Xtreme G features robust security to protect the wireless network from intruders, complying with the latest wireless networking security protocols, including WEP encryption and Wi-Fi Protected Access (WPA) support for both 802.1x and WPA-PSK. The DI-624 is also capable of supporting the government-grade AES encryption and upcoming 802.11i standards. \n\nIn addition to being the industry\u2019s fastest wireless network solution, It includes management settings and policy-based content filtering for advanced network management. Filters can be set based on MAC address, IP address, URL and/or Domain Name. \n\n \n\nThe D-Link Xtreme G DI-624 with 108 upgrade is ideal for creating a fast and affordable wireless network, delivering the industry\u2019s fastest wireless network performance. D-Link Xtreme G is also the only 802.11g solution with 108Mbps mode that remains fully interoperable and compatible with all 2.4GHz devices, capable of creating one homogenous network environment for the multi-vendor environment. \n\nIMPORTANT NOTE: This 108 Mbps firmware upgrade is currently available for revision C (1 antenna) only. Firmware for upgrading to 108 Mbps is not yet available for Revision A & B.\n\nSee more",
+    "rating": 3.9,
+    "feature_bullets": [
+      "Up to 108 Mbps with AirPlus Xtreme G products",
+      "Advanced Firewall and parental control",
+      "Backwards compatible with all 802.11b and 802.11g products",
+      "Increased Security with 802.1X and WPA",
+      "Features robust security to protect the wireless network from intruders"
+    ],
+    "specifications": {
+      "Product Dimensions": "11 x 8.25 x 2.5 inches",
+      "Item Weight": "1.65 pounds",
+      "ASIN": "B00007LTBA",
+      "Item model number": "DI-624",
+      "National Stock Number": "7025-01-548-5044",
+      "Customer Reviews": "3.9 out of 5 stars431 ratings3.9 out of 5 stars",
+      "Best Sellers Rank": "#292,948 in Electronics",
+      "Is Discontinued By Manufacturer": "No",
+      "Date First Available": "May 2, 2006",
+      "Manufacturer": "D-Link Systems, Inc.",
+      "Language:": "English"
+    },
+    "categories": [
+      "Computers & Accessories",
+      "Electronics",
+      "Routers",
+      "Networking Products"
+    ],
+    "price": ""
+  }
+}

@@ -1,0 +1,965 @@
+{
+  "website_summaries": [
+    {
+      "verdict": "Tiny and affordable, the TP-Link 150Mbps Wireless N Nano Router makes a great companion for mobile users needing to share their hotel room's Internet with wireless clients.",
+      "pros": [
+        "The TP-Link 150Mbps Wireless N Nano Router (TL-WR702N) is really small, affordable, and flexible, and provides good performance"
+      ],
+      "cons": [
+        "The TP-Link 150Mbps Wireless N Nano Router doesn't work as a router out of the box, which potentially could make it hard to access its Web interface",
+        "The router, for now, doesn't support IPv6"
+      ],
+      "aspects": {
+        "Setup": 6.0,
+        "Features": 9.0,
+        "Performance": 7.0,
+        "Support": 7.0
+      },
+      "publication_date": 20120921,
+      "rating": 7.3,
+      "source": "cnet"
+    }
+  ],
+  "customer_reviews": [
+    {
+      "title": "Technical support is truly terrible",
+      "text": "I had to jump through hoops to de-conflict it's hard coded IP addresses with my somewhat elaborate network. At one point I seemed to have trouble configuring it (after an upgrade to the network) so I contacted support. I waited 30 minutes to speak to someone. Then, each time I asked a question I would wait 5 minutes for a response. Usually the responses were a link to an article. Then he would ask, have you tried \"192.168.0.254\" and I said yes, didn't work. Then 10 minutes later he says \"can we configure it\" and I responded that yes, that was my intention and he said to navigate to \"192.168.0.254\". Huh?",
+      "rating": 1.0,
+      "verified": true,
+      "author": "D. Roberts",
+      "helpful_votes": 0,
+      "publication_date": 20190628
+    },
+    {
+      "title": "So far so good... even w/ \"Client\" mode.",
+      "text": "Bought specifically for \"Client\" mode so I was a little worried because other reviews said they had trouble getting that mode to work. It seems to work fine. Once you change the Working Mode to Client, you have to restart the router. I actually had to also unplug, then replug in my network cable. Just rebooting didn't seem to be enough for my network adapter to grab an address on the bridged network. Once in Client mode, if you need to access the TP-Link router again, you'll need note its LAN address which is your laptop's gateway as shown in DHCP status. Firmware Version: 4.18.102 Build 141203 Rel.61146n Hardware Version: WR702N 1.0 00000000",
+      "rating": 4.0,
+      "verified": true,
+      "author": "Dan Miles",
+      "helpful_votes": 2,
+      "publication_date": 20160113
+    },
+    {
+      "title": "Very few times do I find something worthy to rant ...",
+      "text": "Very few times do I find something worthy to rant and rave about. This however is one device I certainly consider worthy. To preface this, I'm an IT guy who spends his days working on the computer infrastructure for a global company. That means I travel to a lot of datacenters with all kinds of configurations. This tool is priceless. It's AP mode is what I have been longing for. I've had several other similar products but this guy just works. In my case, where dhapke@gables.com doesn't exist, I preset the device the night before I arrived at the datacenter, and presto I plug up and I'm connected.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Kaleb Mercer",
+      "helpful_votes": 0,
+      "publication_date": 20160709
+    },
+    {
+      "title": "I love that it is USB powered so when the van ...",
+      "text": "Works decent. I'm using this when we travel long distances powered off of a laptop in the van partnered with Plex Server so my kids can watch movies and listen to TV from the laptop. It works well. No connection issues. I love that it is USB powered so when the van shuts off, like at rest stops, since the laptop is still running, there's no immediate loss of connection and no delay when connecting again after we head off again.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "PC Geek",
+      "helpful_votes": 2,
+      "publication_date": 20160217
+    },
+    {
+      "title": "Easy Addition to a Wired Network Only TV",
+      "text": "This product worked great to connect my Panasonic Viera TV to the internet. The TV only came with Wired networking standard, and their WiFi adapter was far too cost prohibitive. This product worked to get Netflix going on the TV and added a ton of functionality for a few year old TV set. I do imagine that this product would work with a variety of wired-only devices. I tried it with my laptop, a Ps3 with broken WiFi, and the Television set previously mentioned. I wish you the best of luck.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Mike Dare",
+      "helpful_votes": 0,
+      "publication_date": 20160304
+    },
+    {
+      "title": "A WiFi swiss army knife",
+      "text": "This minuscule device goes everywhere with me. Since it's usb-powered, you can operate it using a backup battery (e.g. a mofi) * in router mode, connect multiple devices (e.g. laptop, ipad, phone) to a single wired connection in a hotel. In this mode you save money, get better performance (hotel wifi is terrible but few visitors use the wired network these days), and better security (public wifi traffic is easily sniffed). * in client mode, activated internet access for my non-wifi blu-ray player to retrieve firmware updates. * in access-point mode, I set up an ad-hoc network to transfer files across devices",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Tony M.",
+      "helpful_votes": 0,
+      "publication_date": 20141228
+    },
+    {
+      "title": "Must have for international travelers",
+      "text": "I'm a believer in traveling light. This router is tiny. So it's perfect for travelers. It's powered by a micro usb cable connected to a wall plug, like a phone or tablet charger, or a usb battery pack. Some international hotels don't have wifi. Most provide a network cable in the room. That's not going to work if you just have a tablet. So this tiny little router will create your own wifi connection. It comes ready to go right out of the box. You plug it in and connect to it. The wireless name and password are printed on a tiny sticker on the back of the unit.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "ShutterBug",
+      "helpful_votes": 0,
+      "publication_date": 20150531
+    },
+    {
+      "title": "Signal cut out constantly even with the latest firmware update",
+      "text": "I really wanted to love this mini size router. My plan was to use it in my bedroom as a repeater to extend coverage of my other TP-LINK router to cover the rest of the house. That guy is in the a back corner of the house, while my wife likes to use her phone or tablet in the kitchen on the extreme other corner. From the get go, this router would constantly lose signal and cut out, dropping the internet completely. I made sure it was on different channel than my main router, but to no avail. I also updated to the latest firmware, but experienced the same issue, much to my wife's chagrin. So back it went.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "TG",
+      "helpful_votes": 0,
+      "publication_date": 20131021
+    },
+    {
+      "title": "Try it you'll hate it...",
+      "text": "I spend 6 very frustrating hours trying to set this thing up as a repeater. I finally returned it to Amazon. It would not recognize my ethernet network or password. When I tried to connect to their set up site:  Google said that the site was up for sale. I finally found a support contact who was very difficult to understand and they weren't able to help either. If you have lots of free time on your hands and want to test the limits of your frustration I highly recommend this little jewel.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "Jim",
+      "helpful_votes": 0,
+      "publication_date": 20150522
+    },
+    {
+      "title": "Will not work with U-Verse.",
+      "text": "As for what it was made for, it is a very good product. I bought it so I can make my network printer connect via WIFI to my AT&T U-Verse. It didn't work and it won't work... AT&T block any extension of such kind. Doing so, every time the TP-LINK is active, the AT&T will keep restarting and treating it as a threat. I contacted AT&T and they can't help as they don't see the issue at all. Tried it on a Comcast connection, it works perfectly. This device is really capable of doing a lot of things and the size makes it perfectly portable. I keep it to use in Hotels or in travel in general.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "S. Lee",
+      "helpful_votes": 0,
+      "publication_date": 20141112
+    },
+    {
+      "title": "Broken in a month!",
+      "text": "I bought this back in August/September because the wifi at my apartment complex is sketchy at best. Getting it, the set up is stupid. The website they gave me in the set up manual is nonexistent and when calling the support number you find that it's out of service! I figured this wasn't a huge deal as long as this worked and it did!...until yesterday. Now my laptop and phone refuse to connect to it and when they do, the wifi is slower than the alternatives! I definitely should've done more research on the company for the price of the product.",
+      "rating": 2.0,
+      "verified": true,
+      "author": "Becca_S",
+      "helpful_votes": 0,
+      "publication_date": 20151027
+    },
+    {
+      "title": "My home router is in the living room and the signal was terribly weak in the back bedroom 50 feet away",
+      "text": "Bought this router based on a tip from the Padre on the TWIT \"KnowHow\" show. It fills my need perfectly. My home router is in the living room and the signal was terribly weak in the back bedroom 50 feet away. Now with this TP-Link travel router situated halfway to the bedrooms and bridged, (Padre says avoid \"repeater mode\" and use \"bridge mode\" instead) the internet is very good and my internet radio works far better. A very handy router and a very good price.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Roger Hammer",
+      "helpful_votes": 0,
+      "publication_date": 20160815
+    },
+    {
+      "title": "Couldn't get it to work consistently",
+      "text": "This worked every once in a while. On such a whim, it worked well. It is cute and compact and powerful. However, there was something (likely related to IP address allocation) that I couldn't quite fix, and my computer only worked sporadically with this router. The real problem was when I wanted to use my personal and work computers simultaneously (not something that should happen). There is only one USB port on this device, so I could never use the internet AND connect the router directly to my computer to tinker with the settings. My boyfriend is pretty proficient with technology and he couldn't figure it out either. If you need it for >1 device, pick another router.",
+      "rating": 2.0,
+      "verified": true,
+      "author": "Sam",
+      "helpful_votes": 0,
+      "publication_date": 20131029
+    },
+    {
+      "title": "This is a great little device",
+      "text": "This is a great little device. There are different ways to use this, as the description says, but I primarily use this in router mode without connecting it to the wired internet so that I can continue to program on my Rasbperry Pi. The box that this came in neatly houses the Pi, this device and both chargers. This is especially useful when I travel by motorcycle, and don't want to bring a laptop for any projects I might be working on. Instead, I can use the tablet/keyboard to access the device and do what I need; it's a great space saver over packing a laptop in the bike luggage.",
+      "rating": 4.0,
+      "verified": true,
+      "author": "Mike",
+      "helpful_votes": 0,
+      "publication_date": 20150303
+    },
+    {
+      "title": "Flawed firmware cripples this cool little device.",
+      "text": "With the firmware that came installed, (4.19 (build 130528) it would not accept configuration as a repeater using the admin gui. As many reviewers noted, at this time,(7/5/14) the USA TP-Link web site is unavailable for support or firmware upgrade, but I discovered that the TP-Link Indonesia support site (www.tp-link.co.id) is up and I was able to obtain 4.20 (build 131211) It's labeled beta, but after downloading and installing it, the 702N accepted repeated config and worked pretty well as a repeater. As supplied, I'd give it 1 star as a repeater. If you can find the firmware upgrade I'd give it a 4 star.",
+      "rating": 4.0,
+      "verified": true,
+      "author": "L. Jones",
+      "helpful_votes": 0,
+      "publication_date": 20140707
+    },
+    {
+      "title": "Outdated tech now, but a very good travel router.",
+      "text": "I bought this to use as in my travels overseas. Plug it into the hotel free Ethernet and you don't have to pay for WiFi. It can also connect wired devices to your WiFi and served in that manner as my printer only had an Ethernet port. It is kind of outdated now and I have an unholy router addiction so it has been replaced by better ones in my possession. I've heard that it can run OpenWRT so I may have to look into that.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Michael",
+      "helpful_votes": 0,
+      "publication_date": 20160712
+    },
+    {
+      "title": "Awesome little router, works flawlessly all the time.",
+      "text": "This little guy is the best router I have ever had for my application, and I have thrown away three of them before this because they just did not work, or didn't work for very long. This one has been running flawlessly for months now. I have an outdoor IP camera, that sends video frames into this router, which then sends them to my main house router via wifi. I don't know why the others, including some big names, can't manage to make one that works, but this one works perfectly long term, and is very small and for a great price. Way to go, TP-LINK.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Kindle Customer",
+      "helpful_votes": 0,
+      "publication_date": 20141227
+    },
+    {
+      "title": "Great little router for the price!",
+      "text": "I've had this router for over 3 years and I'm SO shocked that it still works. It's a chinese company, so I just assumed it wasn't going to last long. I only expected to keep it for about 6 months or so, but I kept it with me while traveling overseas and it's never given up on me. I can't believe it lasted this long. I used it in America for 2 years (120V) and then in China for over a year (220V) and haven't had any problems with it. I love how easy it is to set up. I would have no problems buying another one of these if needed.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Jessica",
+      "helpful_votes": 0,
+      "publication_date": 20150915
+    },
+    {
+      "title": "Works well as a bridge for TV",
+      "text": "I bought this to connect a LG \"Smart\" TV to our network for streaming. So far it has been working great. The included wall-wart was a little bulky for me, so I have it powered with an old Bluetooth charger. If you are planning on powering this off the USB on a TV, it may or may not work. I tried to power this little thing with the USB ports on the TV, but the TV would search for network connection before this thing would fully boot and connect to the network. This resulted in the TV thinking that it was not connected to a network.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "torpex505",
+      "helpful_votes": 0,
+      "publication_date": 20140904
+    },
+    {
+      "title": "Own Two - Both Don't Work Properly",
+      "text": "Update (2016): Years after posting this review, TP-Link this year finally posted a firmware update that seems to be stable. I was stunned to see that an update had been churned out for a device this old, and updated my review accordingly. Surprised to see so many positive reviews. I have two of these and they may work right as routers - but as Wi-Fi client bridges they do not. I have updated them to the latest firmware, and they just don't work. Epic frustration ensued until I ordered alternative units from alternative brands.",
+      "rating": 4.0,
+      "verified": true,
+      "author": "C. Price",
+      "helpful_votes": 0,
+      "publication_date": 20140217
+    },
+    {
+      "title": "Works great for what we bought it for",
+      "text": "Works great for what we bought it for: waking up a computer over WiFi. This device makes both the router and computer think that they are directly connected by Ethernet cable, eschewing the difficulties and in some cases impossibility of waking the machine via its WiFi card. Once the machine is awake, actual internet access is handed off to the faster wireless card in the machine (just remove the gateway from the Ethernet's ip settings). This thing stays awake via USB when the computer sleeps. Problem solved.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "raphe",
+      "helpful_votes": 0,
+      "publication_date": 20150620
+    },
+    {
+      "title": "Excellent small travel router/range extender though a little difficult to set up",
+      "text": "I have had the Zyzel travel router for a couple years. It is an excellent small travel router but doesn't have the range extender function. I was on vacation and needed a range extender. This worked very well. It functions as well as the Zyzel. The only reason to knock off a star was because the manual is not as clear as it should be on how to set up the unit for its various functions. I have pretty savvy on setting up routers and networks and it took me several tries to understand how to set this up as a range extender. Once I got it set up, it worked well and functioned as advertised.",
+      "rating": 4.0,
+      "verified": true,
+      "author": "Recon",
+      "helpful_votes": 0,
+      "publication_date": 20131124
+    },
+    {
+      "title": "and are easy to reset when you need to change their working ...",
+      "text": "I have 3 of these things - One is a local area WAP at work so my phone doesn't struggle to connect to the work WAP which is unreliable, the other two are used in \"client mode\" - they simply act as WiFi to Ethernet adapters for older equipment that only has an Ethernet port. They work well, and are easy to reset when you need to change their working mode. I've also used them in hotels as APs connecting to hotel Ethernet ports.",
+      "rating": 4.0,
+      "verified": true,
+      "author": "D. Fick",
+      "helpful_votes": 0,
+      "publication_date": 20160806
+    },
+    {
+      "title": "Small and Light",
+      "text": "This unit is great for traveling as it is small and light. I travel overseas frequently and certain hotels still do not have wifi or very stable wifi - so I always bring this with me. It also helps when hotels restricts the number of connected devices, this router allows me to have multiple devices connected. Specially handy when my team needs to meet in my room. This is actually my 5th unit, as I have given two away... and the other two hummph.. I lost them 'cause they are so small! I simply forgot in the room when I was leaving in a hurry. Catching those 7am flight in a foreign destination can be very tricky.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "jackman",
+      "helpful_votes": 0,
+      "publication_date": 20150715
+    },
+    {
+      "title": "Good little gadget to bring on travel.",
+      "text": "Pretty pleased with this little guy. I travel quite a bit, and always have problems connecting to hotel wi-fi from my hotel room. I set this up at home in about 5 minutes to the SSID and password i wanted. Then when i travel, i plug this into the ethernet cable in the hotel room and now i have my own somewhat-private wi-fi. I get much better reception in the room on my phone/tablet/laptop, it's night and day. Very neat little gadget to have.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Brian Michael Connolly",
+      "helpful_votes": 0,
+      "publication_date": 20150709
+    },
+    {
+      "title": "EXCELLENT! Easy to Use.",
+      "text": "I travel to China a lot - and the people over there have these in their hotel rooms to get secured connection with otherwise open wifi. Works great - but only when there is ethernet to plug into - which isn't always the case where I travel in China. In the USA - you can usually plug into clear ethernet. This little baby gives you a secured connection if you want to check websites that you want to keep your passwords secure. Otherwise I would NEVER go to any of my secured sites (banking, credit card, etc) on open wifi.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Me",
+      "helpful_votes": 0,
+      "publication_date": 20141123
+    },
+    {
+      "title": "works well if you need an extra access point / client mode",
+      "text": "Documentation is not that great though. I ended up reading amazon reviews to figure out how to set this up; one reviewer very helpfully stated that the password very effectively protects against wifi thieves and people who cannot read near microscopic print (which the password is printed in on the label on the router). Also, I wasn't able to change the PW from the default setting nor log on, even though I followed the directions to the best of my abilities; trying repeatedly for 2 hrs. IMO: great product, lousy documentation and setup software.",
+      "rating": 4.0,
+      "verified": true,
+      "author": "Michael Scarn",
+      "helpful_votes": 0,
+      "publication_date": 20130730
+    },
+    {
+      "title": "Excellent as a Client!! Add wireless to wired TV",
+      "text": "Excellent product, Very easy and quick setup. (instructions said to wait for blue solid blue light it is actually green) connect to network fairly quickly and hasn't dropped since. Streaming netflix and amazon prime directly on Smart TV (Sony that would only use their expensive wireless USB.) on second floor with out problem at all. Small size allowed me to mount to back of TV so no one see's",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Nujackk",
+      "helpful_votes": 2,
+      "publication_date": 20150525
+    },
+    {
+      "title": "Great tiny travel router or tech router",
+      "text": "I occasionally travel and also occasionally do tech work for friends. This router is great to keep in the bag for both applications. It is very diverse and I use it in many situations from creating an AP, to using as a router, to using as a bridge. It is tiny and can be powered from the USB port of your computer. TP-Link GUI is decent as usual, it you have seen on TP-Link web interface, you have seen them all. It is not the most powerful wifi device, but you can only expect so much from a tiny USB powered puck. I dig it.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Justin K.",
+      "helpful_votes": 0,
+      "publication_date": 20140619
+    },
+    {
+      "title": "I travel a lot and most hotels have horrible wifi in the rooms and this has been very ...",
+      "text": "I travel a lot and most hotels have horrible wifi in the rooms and this has been very helpful. When I first tried it, the wifi was down in the lobby and I was on the 5th floor, hotel wifi had 1 bar and I could barely load Google homepage. This has been very helpful with giving me max wifi and making the internet useable. It also helps with devices that cannot accept the hotel tos (like roku device), only one device needs to accept it and all devices can connect without any issues.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "David Booher",
+      "helpful_votes": 0,
+      "publication_date": 20150512
+    },
+    {
+      "title": "Good idea, weak product.",
+      "text": "This may be convenient in a hotel for checking your email one time on a device with no Ethernet port or 3G/4G, but other than that, it maxes out at 54kb/s so you won't be able to get anything done. On my phone I wasn't even able to load news articles. Good idea, not nearly powerful enough to deliver the necessary speeds at any range to do much of anything on the internet.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "Adam",
+      "helpful_votes": 0,
+      "publication_date": 20160221
+    },
+    {
+      "title": "Great so far",
+      "text": "I haven't used this in the field yet but I am intrigued by the idea of never having to pay for terrible, slow internet at a hotel again. Just set it up in advance and save the network on your wireless devices. In theory all you should have to do is plug this baby in wherever there is an ethernet port and enjoy the instant wireless access. The only issue that I have had and the only reason for four stars is that I cannot change the network pass key! I have tried and tried but it will not let me access the Admin functions.",
+      "rating": 4.0,
+      "verified": true,
+      "author": "JK",
+      "helpful_votes": 0,
+      "publication_date": 20131213
+    },
+    {
+      "title": "Very good portable router",
+      "text": "The best thing of this router is the size, it is very portable and a must have if you travel a lot. The wireless range is very good in an open area, i can still use it (1 - 2 Bars) 25 meters far from the router, remember that this router is very tiny. I didn't use it as an wireless expander, only generating wireless from an cable connection. The software is good, has all the advanced features if you want to configure it, or you can use the wizard that with only some steps is already configured. Based on it's price i really recommend it.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "GD",
+      "helpful_votes": 0,
+      "publication_date": 20131222
+    },
+    {
+      "title": "which would normally be a bad thing. I guess I should probably preface this ...",
+      "text": "This thing died after about a year, which would normally be a bad thing. I guess I should probably preface this review with the fact that this thing lived for 8 months in a humid environment after having taken a saltwater bath. How did my router end up in seawater? I live an interesting life is how, and I also don't have time to tell stories here. In any case, do you need a simple router that can act as an AP point or a bridge onboard a classic sailing yacht? This one works great and has low power consumption to boot",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Jack P",
+      "helpful_votes": 0,
+      "publication_date": 20141230
+    },
+    {
+      "title": "Not stable, not useful",
+      "text": "Was using this as a bridge. Works fine for a week or two and then drops the connection. Rebooting it sometimes fixes it, other times it's necessary to go into the confirmation utility and reconnect manually. No other wifi device on the network has this problem. Probably would work ok as a tiny router, but that's not what I bought it for. Oh and the interface is chock full of incomprehensible Chinese-English. Last device I'm going from this brand.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "asdf",
+      "helpful_votes": 0,
+      "publication_date": 20150528
+    },
+    {
+      "title": "Small, affordable router powered by USB or power adapter",
+      "text": "It works as advertised- it's small, can be powered by USB or the power adapter (included) and quite easy to setup. I was a bit skeptical about the product due to its low price, but a week in I have to say it is not giving any issues. I took away a star because it took me a good half hour before I could configure it to work with my iPhone/iPad. Apparently Apple products need to have a special setting applied in terms of static IP, but none of this information was included. You can google for a manual online, which instructs you how to set it up.",
+      "rating": 4.0,
+      "verified": true,
+      "author": "Henry H. S. Yoon",
+      "helpful_votes": 0,
+      "publication_date": 20131013
+    },
+    {
+      "title": "Good travel router for the money. Delivered with Chinese firmware that needed to be changed.",
+      "text": "This router is great given the price. I wouldn't use this router for my house, or for any demanding applications, but as a travel router it really does the job quite well. Setup is simple, and for the most part it just works. The only issue I had, and I found this mostly funny, is that the unit was delivered with Chinese firmware. It still worked out of the box, but I had to locate and install English firmware before I could complete the configuration process. On the plus side, I now know the router is up to date.",
+      "rating": 4.0,
+      "verified": true,
+      "author": "Ted Kniazewycz",
+      "helpful_votes": 0,
+      "publication_date": 20160122
+    },
+    {
+      "title": "Great problem solver!",
+      "text": "A techie friend had me purchase this router. I am living in a condo that apparently has a firewall that prevents my laptop from communicating with my printer. The router arrived promptly and in perfect condition. My friend installed the router, performed a little magic, and now I have my printer in working order. Hooray! The router solved my problem!",
+      "rating": 5.0,
+      "verified": true,
+      "author": "jo",
+      "helpful_votes": 0,
+      "publication_date": 20160316
+    },
+    {
+      "title": "Works Great!",
+      "text": "Works as described, I have this connected to Yamaha RX-V473B Factory Refurbished 5.1-Channel Network AV Receiver so that the receiver can be connect to my home network and it working thus far. I've yet to stream any audio content saved on devices on my network but all of the computers on my home network can see the receiver and have the ability to share their audio content. I've been able to stream internet radio on the receiver so the TP-LINK TL-WR702N Wireless N150 Travel Router (which is configured as an access point) seems to be working!",
+      "rating": 5.0,
+      "verified": true,
+      "author": "IT Professional",
+      "helpful_votes": 0,
+      "publication_date": 20140906
+    },
+    {
+      "title": "Just set it up - works well so far",
+      "text": "Very easy to set up. I was amazed at how small the item actually is. It fits in the palm of my hand, and I have small hands. I only purchased it to use as a wireless access point (to convert wired to wireless in my room), so I cant comment on other applications. Fairly straightforward to configure, but the the quick access manual was of no use. I instead referred to the website here [...] How to Configure AP Mode on TL-WR702N Worked like a charm, and it was up and running in less than 5 minutes",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Nas",
+      "helpful_votes": 0,
+      "publication_date": 20130314
+    },
+    {
+      "title": "Unreliable when using as a wifi repeater.",
+      "text": "I got this as a repeater when traveling to extend wifi from existing APs to areas where it didn't reach well. e.g. outdoors at a rental cabin. Unreliable, sometimes repeater works fine, other times not. No clear reason why. I have other repeaters (including one from TP-link) that are more stable but not compact like this, so I feel like I know what I'm doing, just a problem with this unit. Regular client or AP from wired network seems a little more solid.",
+      "rating": 2.0,
+      "verified": true,
+      "author": "B. Roberts",
+      "helpful_votes": 0,
+      "publication_date": 20150419
+    },
+    {
+      "title": "Great device terrible directions",
+      "text": "This product works great, but the instructions are awful. My malware programed blocked the suggested website and the software that came with the device is useless without the website. I called customer service, and they were very nice, and got the device online after a few minutes. The device is very small, and I have an old printer hooked up to it which is now working flawlessly.",
+      "rating": 4.0,
+      "verified": true,
+      "author": "Richard S",
+      "helpful_votes": 0,
+      "publication_date": 20160731
+    },
+    {
+      "title": "Great wireless adapter for converting wired to wireless",
+      "text": "Inexpensive awesome solution to make my physical ethernet device wireless. Nothing else to say. Works every time I boot it up and communicates across my house to my wireless router. My router is fairly powerful but I did not expect this little device to be able to transmit back that far reliably. I purchased a 2nd one for traveling. Way cheaper than the Netgear version.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Marc",
+      "helpful_votes": 0,
+      "publication_date": 20160914
+    },
+    {
+      "title": "Great for travel",
+      "text": "Pros: Perfect for hotel rooms that don't have a good wireless signal but do have a wired connection or for conferences or other temp situation where the same applies. Has different modes depending on your needs. Cons: Took a minute to figure out how to set up but once I went to the website and read the instructions there the setup was easy. Thoughts: Great for hotels that want to charge extra for wireless but have a wired connection or that charge by the connection when you need to connect multiple devices.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Nugg",
+      "helpful_votes": 0,
+      "publication_date": 20130520
+    },
+    {
+      "title": "Perfect for home and travel",
+      "text": "Excellent product. Great price. This has the ability to act as a router, repeater or bridge(extends wifi range with different Ssid and password). Highly reccomended when travelling and wifi is poor. Let the tplink connect to the wifi where best and enjoy full bars in all your devices from the tplink.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Draj",
+      "helpful_votes": 2,
+      "publication_date": 20160820
+    },
+    {
+      "title": "Good enough for what I bought it for (Wifi router)!",
+      "text": "Awesome little portable router! Range is somewhat limited to one room (signal doesn't go well through walls). Probably not a good adhoc server, but good enough as wireless router. Low power as well (5V 500mA = <2.5W power usage on the wall). Comes with micro usb cable, LAN cable and power adapter. Connected it to my company LAN, and got 10MB/s out of this! Very happy! Just can't connect more than about 5 devices at a time to it.",
+      "rating": 4.0,
+      "verified": true,
+      "author": "H B",
+      "helpful_votes": 0,
+      "publication_date": 20140805
+    },
+    {
+      "title": "Excellent Device",
+      "text": "I am multimedia artist. Most of my work is done between different systems to facilitate different goals within my performances. One of the most common practices for establishing communication between devices is use of OSC communication protocol. When you work in environment where there is no WIFI, or were WIFI is segmented it is impossible to establish communication between devices. Normal workflow in this kind of environment is ADHOC network. The ADHOC network is unstable and buggy (there is also large amount of latency that I have observed) In this kind of settings you are forced to use your own WIFI network. TP-LINK is working excellent for this situation. USB Powered it is an excellent choice for me...",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Igor Molochevski",
+      "helpful_votes": 0,
+      "publication_date": 20140411
+    },
+    {
+      "title": "Very short range.",
+      "text": "This router can barely go through 1 wall. In the next room the signal is at 20-30% while I can see my neighbor 50 feet away at 80%. Also there is no way to plug in another device that only used Ethernet as it only has 1 Ethernet port IN. Although for the price it does work and I do like how small the device is, it is TINY but it does not do a good enough job and I will have to buy another router that can go more than 10 feet range.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "J. Boyd",
+      "helpful_votes": 0,
+      "publication_date": 20161002
+    },
+    {
+      "title": "... manual was all in Chinese and french but its pretty self explanatory on how to use the product",
+      "text": "the instructions manual was all in Chinese and french but its pretty self explanatory on how to use the product. the product itself is great for backpackers looking to get a stronger signal in those south american hostels. also can mask multiple devices under 1 ip so that you and some one else can connect to the internet when there is a limitation on how many devices u can have connected to their network at a time.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Amazon Customer",
+      "helpful_votes": 0,
+      "publication_date": 20160109
+    },
+    {
+      "title": "keep it with me all the time.",
+      "text": "Works great! I work on computers for a living and I'm constantly finding a need for this. My most common use is having this in client mode and tethering it via wifi to my phone to test routers/switches or to get Internet access to a device that does not have wifi (or wifi is not working). I've also had situations were I've only had a wired connection available for Internet and all I have to do is plug this guy in and configure it for AP mode for the convenience and mobility of wifi.",
+      "rating": 4.0,
+      "verified": true,
+      "author": "N Donathan",
+      "helpful_votes": 0,
+      "publication_date": 20150328
+    },
+    {
+      "title": "Couldn't get the bridge or client mode to work.",
+      "text": "This device did not work at all in the bridge or client mode. I followed all of the directions that came with it, I looked online for more help and made suggestions from online resources with similar issues. Two hours of wasted time later I finally decided to put it where it belongs, in the trash.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "Kindle Customer",
+      "helpful_votes": 6,
+      "publication_date": 20140806
+    },
+    {
+      "title": "Works for my needs.",
+      "text": "Worked great for setting up a wireless connection to my observatory. Now everything can be controled remotely from the house on these cold winter nights. Many modes to choose from. The instructions were not too clear as to what each mode was supposed to do. It took a little trial and error. Bridge mode turned out to be the best for me allowing direct remote connection to the telescope no LAN necessary, as well as connection over internet if a LAN is present.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Mr Cookie",
+      "helpful_votes": 0,
+      "publication_date": 20150207
+    },
+    {
+      "title": "Tiny but good USB-powered WiFi router",
+      "text": "This handy WiFi router does many things. The administration is a bit confusing, so I'd only recommend this to technical folks. I really like how it will power off of my laptop's USB port. I use it to host a WiFi network for small portable classroom environments, so students can log into a network and access my web applications. I also use it when I am on the road and I need to demonstrate an iOS or Android application accessing my laptop. It's so handy, I gave a second one to a co-worker.",
+      "rating": 4.0,
+      "verified": true,
+      "author": "DCGeek1",
+      "helpful_votes": 0,
+      "publication_date": 20131124
+    },
+    {
+      "title": "tiny, awesome, but not perfect",
+      "text": "This router is pretty cool, a really great price, but not perfect. Pros: tiny Usb powered Ethernet port can be a LAN or WAN many features Cons: sometimes randomly stops working and I have to restart it. I can't acces the router website tplinklogin.net while its in repeater mode. It has really bad range, this is ok and acceptable because of its size, but don't buy this as your only home router",
+      "rating": 4.0,
+      "verified": true,
+      "author": "nicholas",
+      "helpful_votes": 0,
+      "publication_date": 20150606
+    },
+    {
+      "title": "Amazing little Product.",
+      "text": "This thing is amazing. I am using it to serve up a website from an arduino micro controller and it works beautifully. Plus, with the different modes you can use it for anything. I have one as a signal booster due to the distance from my router being in another building and one to convert wireless to wired for my controller. Plus you can't beat the size of this thing, I carried one around for a while when I was in College just to boast my signal.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Tyler",
+      "helpful_votes": 0,
+      "publication_date": 20150526
+    },
+    {
+      "title": "Works well enough as a basic router",
+      "text": "I bought this industry prior to a cross country trip and was disappointed. The bridge mode which worked so well at home in testing did not function at all behind the hotels portaled WiFi. The firmware actually disables the DHCP server in bridge mode (which is exactly what you need running to make it work) I returned mine and will be buying a hootoo router that has a track record for bridging hotel WiFi successfully.",
+      "rating": 3.0,
+      "verified": true,
+      "author": "B. Shashinka",
+      "helpful_votes": 0,
+      "publication_date": 20150720
+    },
+    {
+      "title": "Convenient router on the go",
+      "text": "This router works well for me. I plug it in my car 12V socket and my kids can enjoy playing minecraft together in the car. It's small and easy to setup. I can bring it into a hotel and use it as a wireless router. It comes with adapter so you can plug in the wall outlet, My car has a USB auxiliary port so I just plug it in and it's up and running.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "JD",
+      "helpful_votes": 0,
+      "publication_date": 20160921
+    },
+    {
+      "title": "Range too short, or just plain doesn't work",
+      "text": "Don't confuse this for a full-strength client, bridge or repeater, or something that will be easy to set up. As others here have noted, you have to MANUALLY configure your computer's IP in order to connect to the router for anything other than plug-and-play setup. Ours worked...once. And then later, worked once again. But at no point could I get it to properly serve the LAN *and* the wireless needs of my living room. Returned for refund.",
+      "rating": 2.0,
+      "verified": true,
+      "author": "tweety",
+      "helpful_votes": 0,
+      "publication_date": 20130908
+    },
+    {
+      "title": "Not bad at this price.",
+      "text": "I thought the repeater mode and bridge mode should be pretty much the same thing. I was wrong. Apparently the bridge mode on this product is lousy and the repeater mode is OK. The bridge mode simply showed \"limited\" once I finished the setup, and it's very unstable. The repeater mode is OK. It enhanced the signal a little bit, and just enough for my phone to get the signal so... I'm not very satisfied with it, but I'm not too frustrated as well.",
+      "rating": 3.0,
+      "verified": true,
+      "author": "M. L. Lin",
+      "helpful_votes": 0,
+      "publication_date": 20131223
+    },
+    {
+      "title": "Great",
+      "text": "Just plug it into any ethernet source and connect your wifi devices. I don't like to leave wifi on all the time so I hooked it up to a remote control power plug system and I just flip the switch to have it come on when I need it. Tried that with an extra router I had laying around and tried to follow some walk-throughs on how to set up an extra router as an auxiliary source of wifi that i found online, but it never quite worked right. This was plug and play.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "DS",
+      "helpful_votes": 0,
+      "publication_date": 20140504
+    },
+    {
+      "title": "Godo router, but the router configuration website documentation and implementation leaves something to be desired.",
+      "text": "This is a decent router. Though, note that no matter how hard I tried, I could not reach the website to configure the router (Macbook Pro w/OS 10.9.3). Note that the manual did have some instructions for Mac users that didn't work (yes, I downloaded the most recent version after having trouble). Also, the router had a completely different IP address than any documentation found (including their most up to date documentation online). Finally, I was able to just look view my network settings to determine the router's IP address and then use that to visit the router's configuration website.",
+      "rating": 4.0,
+      "verified": true,
+      "author": "Sarah S.",
+      "helpful_votes": 0,
+      "publication_date": 20140626
+    },
+    {
+      "title": "Gets the job done wirelessly",
+      "text": "It's small and effective. I used to create a wireless access point. Needed to connect with wire directly to computer to configure properly. Could not do with wireless for access point, as it was a two step process. Firmware could be better. Overall performance is adequate, but this is probably the slowest N device I have in my repertoire. If you are planning to stream large data, then you might want to find a higher performance unit.",
+      "rating": 3.0,
+      "verified": true,
+      "author": "Craft Engineer",
+      "helpful_votes": 0,
+      "publication_date": 20141105
+    },
+    {
+      "title": "Even I am impressed",
+      "text": "Straight out of the box, this clever little thing sets itself up as a repeater - it is completely plug-and-play. You can do all of the other stuff you should be able to do with a router as well, but as that was all I needed, I didn't go in to test and futz (to use the technical term). Obviously, this doesn't have much of an antenna, so its reach is limited, but it is technically completely brilliant, and at the price you could even festoon your house with these babies. Have fun :)",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Menno Aartsen",
+      "helpful_votes": 0,
+      "publication_date": 20130914
+    },
+    {
+      "title": "Pretty Easy to Set Up, Totally Reliable, Great Range, TINY",
+      "text": "I travel for work and have to bring a lot of tools with me. One of the tools I need is a wireless router, and I try to keep all of my tools as small as possible. Boy does this fit the bill. It fits in the palm of your hand, and is totally reliable and easy to use. The only note I would make is that the default setting on a reset does NOT have the DHCP server turned on, so you'll need to set a static IP in the range of the router to connect. Very handy overall though, I wouldn't choose a different one.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Daniel Barry",
+      "helpful_votes": 0,
+      "publication_date": 20130612
+    },
+    {
+      "title": "TP Link N150",
+      "text": "I just received the TP Link, which was shipped really fast. I needed a wireless router for my trips and after reading all the reviews I decided to get this one. It works great! Just plug, add the password provided, and connect. I been using it all day with my Samsung Tablet and haven't had any problems so far. It even has more range than I thought (can move between 2 rooms). As for the other functions (bridge, client , repeater) I don't need them so I don't know how they work.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Pat",
+      "helpful_votes": 0,
+      "publication_date": 20130911
+    },
+    {
+      "title": "Perfect for Travel",
+      "text": "Works out of the box with no configuration! Traveled through Ireland for a week and had a mix of free WiFi and Wired internet. I preferred using this over the free WiFi. It has great speeds and worked flawlessly with out iPads/iPhones/Macbooks. I do recommend switching it to the \"Router\" mode instead of \"AP in hotels as we ran into some issues with that. It also uses very little power, I was able to run it for a few hours off a small (700mAh) cell phone charger battery pack.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "John R",
+      "helpful_votes": 0,
+      "publication_date": 20130611
+    },
+    {
+      "title": "Amazingly versatile little device",
+      "text": "This thing is very cool: a pocket wireless router with several other functions, for a very reasonable price. I was amazed at how tiny it actually was, perfect to go in the bag with my tablet and other accessories. Dead simple operation, plug it in and it operates according to its last configuration. Operation can be customized via a web browser (which takes a little getting used to, but is doable) Versatile and lightweight, I may pick up another for other uses...",
+      "rating": 5.0,
+      "verified": true,
+      "author": "J. Sims",
+      "helpful_votes": 0,
+      "publication_date": 20130824
+    },
+    {
+      "title": "Love it as a media bridge",
+      "text": "I bought this adapter with the intention of using it as a media bridge for my DirecTV DVR and could not be more satisfied. It is able to download just as fast as using a patch cable (my internet connection is 60Mbps) and can recommend it for anyone with this intent. I cannot really tell you how it performs as a router or access point since I haven't had the need but if time comes that I need it, I'll report back.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "L. Hank",
+      "helpful_votes": 0,
+      "publication_date": 20150420
+    },
+    {
+      "title": "works great. easy set up",
+      "text": "blimey, works a treat.use it to put wifi into a dead spot in my apartment...works great. easy set up, and such a tiny unit, will be great for travelling to use as wifi router in hotels etc. actually very surprised, as it is much better than i had anticipated. power from wall socket or usb outlet.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "David Tunnicliff",
+      "helpful_votes": 0,
+      "publication_date": 20170331
+    },
+    {
+      "title": "It Never worked for me. I mainly wanted to ...",
+      "text": "It Never worked for me. I mainly wanted to use it in hotel rooms that have a ethernet jack. I would plug in and set up my own wifi network I though. Nope! It never worked. Nothing. Not one ounce of internet out of this thing and I am afraid of buying another one. I thought it could be done, but I guess it either can't or it doesn't work.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "Harry R.",
+      "helpful_votes": 0,
+      "publication_date": 20160817
+    },
+    {
+      "title": "Nice, well made little product does the job",
+      "text": "Wow! The packaging on this thing is like buying the latest iPhone. I needed to connect my Ooma Telo via wifi to my home network. Their own wifi adapter was giving me problems so I bought this device to act in \"client\" mode (a wired Ethernet point on my wireless network). Setup was straightforward, instructions were clear. Great product.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Anthony",
+      "helpful_votes": 0,
+      "publication_date": 20150919
+    },
+    {
+      "title": "It works but it's frustrating to use",
+      "text": "It works well as an AP or router. I've tried bridging and I can't seem to bridge a WPA wireless network. I can do it with unsecured networks. It's a pain to change the settings once they're set (e.g. put in bridge mode and the device IP changes making it hard to change). It's not terribly fast, I measured the throughput at about 36 Mbps versus 284 Mbps of an Apple Airport. It gets the job done and it's portable.",
+      "rating": 3.0,
+      "verified": true,
+      "author": "Mark",
+      "helpful_votes": 0,
+      "publication_date": 20150206
+    },
+    {
+      "title": "Works great and easy to use (I use it as a ...",
+      "text": "Oh yea!!!! Works great and easy to use (I use it as a traveler), has been great for use at friend and relatives houses during overnight stays (some people after setting up their wireless network forget there wireless passwords or where they wrote them down), plug into a either net port on their wireless router and boom your in. Only downside as others have mentioned is the password label on the device is soooooo small that it is very hard to read",
+      "rating": 4.0,
+      "verified": true,
+      "author": "Gerard Flower",
+      "helpful_votes": 0,
+      "publication_date": 20140801
+    },
+    {
+      "title": "You need one of these!",
+      "text": "I've found this to be nearly invaluable traveling since I bought it. I've used it as an access point, and a repeater. Other than the fact it's a little finicky to set up at times, I love it. Word of advice though, use the setup wizard. I can do the same steps the wizard does, and ti won't work. Use the wizard, and modify the settings and it works beautifully. Also update the firmware first thing. It fixes some real annoyances.",
+      "rating": 4.0,
+      "verified": true,
+      "author": "pichinco",
+      "helpful_votes": 0,
+      "publication_date": 20140103
+    },
+    {
+      "title": "but this is still a nice portable router for other purposes",
+      "text": "Neat little router but I wanted something to set up a network in my hotel room so I could log my chromecast into it. For some reason it gives me trouble logging into hotel networks. I bought a Netgear N300 and that's my go-to travel router now, but this is still a nice portable router for other purposes.",
+      "rating": 3.0,
+      "verified": true,
+      "author": "Stuart N.",
+      "helpful_votes": 0,
+      "publication_date": 20170219
+    },
+    {
+      "title": "Client Mode Operation - Only with Fixed IP",
+      "text": "I could not get the Client Mode to work without statically assigning the IP address. It appears the DHCP client function was not working while in the Client Mode (the unit was not getting IP address from my home Router, instead showing a 192.168.0.x address). Once I did this static assignment the product seemed to perform fine. I am sure this must have been an isolated issue with my unit.",
+      "rating": 4.0,
+      "verified": true,
+      "author": "Terry Bond",
+      "helpful_votes": 0,
+      "publication_date": 20151109
+    },
+    {
+      "title": "Great Wifi-to-Ethernet-cable converter!",
+      "text": "This works great! It was a pain to set up, but I kept working at it and got it set-up the way I want. It operates just as well as having the Ethernet cable from my desktop computer plugged directly into the router. (By the way\u2014from my own experience\u2014only expect this wireless bridge to provide wired Ethernet to a single device. I was able to get it to work with more than one wired device through a hub, but come the next day, and only one of the devices was actually making contact with the Internet. I tried this repeatedly and repeatedly got the same outcome.)",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Scott",
+      "helpful_votes": 0,
+      "publication_date": 20140904
+    },
+    {
+      "title": "Connect your mobile hotspot to a tradtional router!",
+      "text": "Connect your mobile hotspot to a router! This is one cool gadget. I have really cut the cords - have HDTV antenna-style and two mobile hotspots. I wanted to set up a security system that required a wired router connection. I used this device on its \"bridge\" setting to connect my mobile hotspot to the router. Very easy set up and it works great.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Techie 29",
+      "helpful_votes": 0,
+      "publication_date": 20150717
+    },
+    {
+      "title": "great simple piece of gear",
+      "text": "This thing is great. I love the multiple functions. Be sure update to the current firmware. I have been using this for about 2 years now. I always get good steady speeds. I am the only one using it, so bandwidth has not been an issue. I do not think this would work well for more than one user at a time.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Morgan",
+      "helpful_votes": 0,
+      "publication_date": 20170211
+    },
+    {
+      "title": "Does the job...to a degree.",
+      "text": "Worked well as a repeater in a Comfort Inn out in the Middle of Nowhere, FL, using it as an AP however, wasn't straightforward. As other commenters said, the instructions are not the best. They also refer to a \"blue LED\" when the LED is only green. As for the \"nano size\", yep, it is tiny and therefore perfect for traveling. I'll definitely try it out again in a place with better public wifi.",
+      "rating": 3.0,
+      "verified": true,
+      "author": "E",
+      "helpful_votes": 0,
+      "publication_date": 20141206
+    },
+    {
+      "title": "No Customer Support and did not work as Repeater",
+      "text": "I bought this to be used as a Repeater with my Wireless Modem N 300 and it just would not work even if I was right besides the modem and connected the device as a LAN to my laptop I am using Windows 7 and this does not support IPV6 and when tried with IPV4 and configured everything manually, still would not work. Tried the ph no mentioned and nobody would answer for an hour. Bad UX",
+      "rating": 1.0,
+      "verified": true,
+      "author": "Jerry",
+      "helpful_votes": 2,
+      "publication_date": 20131114
+    },
+    {
+      "title": "Works great, is fast and reliable, quite cheap at $19, and super compact and portable -- perfect for travel AND home use!!!",
+      "text": "Works great, is fast and reliable, quite cheap at $19, and super compact and portable -- perfect for travel AND home use!!! I originally bought this for when I travel, but it works so great that I bought another one to use at home. It might be confusing to set up given the ghetto instruction manual, but I still give it 5 stars since other routers are just as confusing to set up anyway.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "SirLoin16oz",
+      "helpful_votes": 0,
+      "publication_date": 20150314
+    },
+    {
+      "title": "I love how small this thing is",
+      "text": "I love how small this thing is. Perfect for travel. Setup is very easy for using the default mode (bridging a wired connection for wireless devices). You simply power it up, plugin in the wired Internet connection and look for the SSID on your computer, tablet, or phone. A default SSID and password is printed on the label of the device, but you can change these via web browser if you want.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "randomdude1978",
+      "helpful_votes": 0,
+      "publication_date": 20150417
+    },
+    {
+      "title": "Small, Light, and Perfect.",
+      "text": "Tiny and light form factor, easy to configure, and it just works. Plus you can power it from your devices USB port instead of using the included plug. The only negative is that the signal range isn't amazing. For a device this small with no external antennae that shouldn't be surprising. If you wanted a long-range router this wouldn't be the pick. But for short-range needs this thing is excellent.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Julia and Jonathan",
+      "helpful_votes": 0,
+      "publication_date": 20140903
+    },
+    {
+      "title": "Great, Cheap Solution",
+      "text": "I have a stereo receiver that only accepts an Ethernet cable, and I only run wireless through the house. This was a simple solution - I set it up as a wireless adapter. Instructions were maybe a tad vague on this part, but anyone reasonably capable can figure it out. This is much cheaper alternative to getting an upgraded receiver ($100+ more) just for wireless and other features you don't need.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Sureshoe",
+      "helpful_votes": 0,
+      "publication_date": 20141115
+    },
+    {
+      "title": "Works well when it works",
+      "text": "Super easy to set up and works well as a repeater when it works. Unfortunately it is apt to drop the internet connection every so often (i.e., you're still connected to the network but it loses internet connectivity) and requires a restart. This problem has recurred with two different main routers and multiple different machines connecting. When it works, however, speeds are good.",
+      "rating": 2.0,
+      "verified": true,
+      "author": "NickSaban",
+      "helpful_votes": 0,
+      "publication_date": 20140708
+    },
+    {
+      "title": "A great way to turn your node wireless!",
+      "text": "About the size of a small Altoids tin, this little guy is very versitile. It functions as an Access Point, router, wireless bridge flawlessly. I'm looking into converting all my wired devices in my house to wireless, and so far I'm happy with the TP-Link products. I have NOT yet tested it's uptime yet, I hope these don't need resetting. Anyways, I'm going to order more of these to make my desktops, DVR, smart TV, IP phones all wireless!",
+      "rating": 4.0,
+      "verified": true,
+      "author": "Jonny B",
+      "helpful_votes": 0,
+      "publication_date": 20121207
+    },
+    {
+      "title": "Works surprisingly well",
+      "text": "Great for travelers who use hotels that have Ethernet cable. Many hotel WiFi networks are crowded, so if you have this and don't want to be forced to sit by the desk, this gives you freedom. The USB or AC power is a a great choice. The printing on the unit with the default password is too small to view in dim light, so I recommend you copy it elsewhere.",
+      "rating": 4.0,
+      "verified": true,
+      "author": "John Drake",
+      "helpful_votes": 0,
+      "publication_date": 20151020
+    },
+    {
+      "title": "Great idea, didn't work for me...tough setup and intermittent functioning.",
+      "text": "I really wanted to like this...I did...but it never worked well for me. I had purchased it to connect a printer to the wireless network in my school. It was a pain to setup...primarily due to the really bad instructions. Even after finally getting it on the network, it wasn't reliable...and I never could figure out why. Great idea...just didn't do what I needed it to do.",
+      "rating": 3.0,
+      "verified": true,
+      "author": "Timothy King",
+      "helpful_votes": 0,
+      "publication_date": 20141204
+    },
+    {
+      "title": "Great Little Problem Solver",
+      "text": "This thing is great. I plugged this into a network jack and instantly had an access point. I'm talking 1 minute. I then logged into the device and was able to customize the SSID and wireless password. Perfect. Speed was good, giving me 45 mb/s. The reviews said it comes configured as an AP, which is fine. I haven't tried it as a repeater, although I'm eager to give it a shot.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "D. Mei",
+      "helpful_votes": 0,
+      "publication_date": 20140430
+    },
+    {
+      "title": "Good product, bad instructions",
+      "text": "So if you don't mind chineese instructions. So first I hooked it up, then I found the hotspot in my list of wifi networks, I then set it up using the web browser and login of admin / admin. Note I had problems on windows it would not work, but it worked just fine with the browser on my iphone. Hooked it up to my xbox 360 in client mode, and walla, it works great. smaller than it looked in the picture, very nice.",
+      "rating": 4.0,
+      "verified": true,
+      "author": "steve eaton",
+      "helpful_votes": 0,
+      "publication_date": 20160216
+    },
+    {
+      "title": "Didn't work for me.",
+      "text": "Nice design but it couldn't behave and stopped working after about 2 weeks. I tried firmware updates which made it worse. Reloaded original firmware and behaved well for about a week then stopped. So, returned it. Just in case this is important I was using this as a repeater and my main router is very old, a Belkin 54g and that may have not been good enough for this little guy to work with.",
+      "rating": 2.0,
+      "verified": true,
+      "author": "Steve King",
+      "helpful_votes": 0,
+      "publication_date": 20141119
+    },
+    {
+      "title": "Cheaper than those Asus pocket routers I had been buying for many years",
+      "text": "I use such boxes like candy. These seem Ok. Price is unbeatable. Discovered sources of \"hacked\" versions Chinese resellers are hawking on the internet. Most just contain more dram memory... This model is becoming a favored platform for homebrew routers and security gateways. Always a good sign when hobbyists \"adopt\".",
+      "rating": 5.0,
+      "verified": true,
+      "author": "SSL",
+      "helpful_votes": 0,
+      "publication_date": 20151220
+    },
+    {
+      "title": "When finally got it successfully installed has worked great for several years",
+      "text": "Took a few weeks to get it to work. Company stayed with us each time we had trouble. When finally got it successfully installed has worked great for several years. Purchased another for laptop when traveling. Need patience, when installing. Don't be in a hurry. I was and it cost me a lot more wasted time. Would highly recommend it. Very high quality.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Mrfixit",
+      "helpful_votes": 0,
+      "publication_date": 20150519
+    },
+    {
+      "title": "Outstanding",
+      "text": "Excellent wireless product. Versatile and easy to configure. Anticipate buying more of these little gems. Read the instructions to determine which mode of operation works best for your situation. Five different modes makes this item handy in several scenarios. Useful at home, work, or travelling.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Highlander",
+      "helpful_votes": 0,
+      "publication_date": 20160908
+    },
+    {
+      "title": "Awesome little router",
+      "text": "I bought this little router to act as an access point to my wifi extender and it does an excellent job. The power consumption is almost non-existent which is perfect for my needs. I will say the signal isn't ultra strong, so using as a primary wifi router for the home wouldn't be the best, but as a repeater, guest network or close range access point - it's perfect!",
+      "rating": 5.0,
+      "verified": true,
+      "author": "R. Fosnaugh",
+      "helpful_votes": 0,
+      "publication_date": 20150729
+    },
+    {
+      "title": "Saved me hotel charges",
+      "text": "Needed to use this in my hotel where they charge per device. At first i could not get it to work in AP mode(hotel still saw the second device), but the rapid tech support suggested I use router mode. Changed the config, and it worked fine. Little weak on the signal strength, but not sure that mattered in the small hotel room. 1 bar at the furthest distance still allowed me to browse just fine.",
+      "rating": 4.0,
+      "verified": true,
+      "author": "Bill",
+      "helpful_votes": 0,
+      "publication_date": 20130608
+    },
+    {
+      "title": "What a great product for the Traverler.",
+      "text": "What a great product if you travel and stay at a hotel that does not have wifi or free wifi, you just connect it to the room wired LAN drop and you have your very own wifi in your room. Once you configure it at home be for you travel all you have to do is connect the LAN cord and power. I setup all my devices at home so they will auto connect to the device when traveling. Signal Strength is good and the device is very small.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Bigfoot8799",
+      "helpful_votes": 0,
+      "publication_date": 20140729
+    },
+    {
+      "title": "Great travel item",
+      "text": "I really love this wireless router for travel with my kids and wife. It is a really hndy device to plug into the wall in the hotel and allows the kids to use wifi. It is almost always faster than the freem wifi the hotels offer the customers to use. I have noticed that it has some intermittant connectivity issues at times.",
+      "rating": 4.0,
+      "verified": true,
+      "author": "Brandon Midboe",
+      "helpful_votes": 0,
+      "publication_date": 20151218
+    },
+    {
+      "title": "I wanted to use this for a wireless to wired ...",
+      "text": "I wanted to use this for a wireless to wired client. It would not work in that application. Tech support via email was helpful, but unable to resolve the issue. I could not get a connection to a public wifi hotspot via this device in client mode. This model does not support OpenWRT as it only has 2mb of ram. I might try another model with more memory.",
+      "rating": 3.0,
+      "verified": true,
+      "author": "Tim Hayward",
+      "helpful_votes": 0,
+      "publication_date": 20141030
+    }
+  ],
+  "product_meta": {
+    "title": "TP-Link | AC750 Wifi Range Extender | Up to 750Mbps",
+    "description": "The TL-WR702N is designed for use with tablets, smart phones, handheld game consoles and other portable electronic wireless devices. The device, which can be powered by an external power adapter or USB connection to a computer, can conveniently connect to the internet and share the connection around an average sized room at 150Mbps.The device's tiny size makes it ideal for use on the road and is powerful enough to satisfy almost any basic wireless application requirement.\n\nAMAZON.COM\n\n\n\n\nFROM THE MANUFACTURER\n \n\n\n\n\nThe TL-WR702N is designed for use with tablets, smart phones, handheld game consoles and other portable electronic wireless devices. The device, which can be powered by an external power adapter or USB connection to a computer, can conveniently connect to the internet and share the connection around an average sized room at 150Mbps.The device\u2019s tiny size makes it ideal for use on the road and is powerful enough to satisfy almost any basic wireless application requirement.\n\nPORTABLE AND COMPACT\u2014IDEAL FOR HOME AND TRAVEL USE\nTL-WR702N is the smallest wireless router in the world and is very easy to use. All you need to do is simply plug a hotel room\u2019s WAN cable into the port provided and enter a default password to instantly create a wireless hotspot. \nFLEXIBLE POWER SUPPLY\u2014EASY TO TAKE ON THE ROAD\nTL-WR702N has a Micro USB port that can be powered by an external power adapter or via a USB connection to a computer. When traveling, you can plug the TL-WR702N into your computer\u2019s USB port and share your Wi-Fi connection with family and friends. \nMULTIPLE OPERATING MODES\nTL-WR702N supports AP, Router, Bridge, Client and Repeater modes to enable various wireless applications. This gives you a more dynamic and comprehensive wireless networking experience. \nADVANCED SECURITY\nTL-WR702N provides WPA-PSK/WPA2-PSK encryptions, which can effectively protect your wireless network. Its' Pre-Encryption function sets the initial SSID and Password for users to protect their wireless security. \nFEATURES\n * Compatible with IEEE 802.11b/g/n\n * Wireless speed up to 150Mbps\n * Compact and portable, small enough to take on the road\n * Powered through a micro USB port by an external power adapter or USB connection to a computer\n * Compatible with almost all 2.4GHz Wi-Fi devices\n * Supports AP, Router, Client, Bridge and Repeater operation modes\n * Supports WEP, WPA/WPA2, WPA-PSK/WPA2-PSK encryptions \n\n\nAPPLICATION GUIDE\nAP MODE (DEFAULT)\nDefinition: The TL-WR702N is connected to a wired network and transforms the wired Internet access into wireless so that multiple devices can share the Internet. Application:\n1.Office, hotel and places where only wired network is available.\n2.LAN gaming party, small meeting and other situations where a temporary wireless network is needed.\n\n\nREPEATER MODE\nDefinition: The TL-WR702N copies and reinforces the existing wireless signal to extend the coverage of the signal. So the network name(SSID) and password don't change. This mode is especially useful for a large space to eliminate signal-blind corners. Application: Large house, office, warehouse or other spaces where the existing signal is weak.\n\n\nCLIENT MODE\nDefinition: The TL-WR702N is connected to another device via Ethernet core and acts as an adaptor to send/receive the wireless signal from your wireless network. Application: For a Smart TV, Media Player, or game console with an Ethernet port. Use the 702N to make your devices Wi-Fi enabled, granting them access to your wireless network.\n\n\nROUTER MODE\nDefinition: The TL-WR702N is connected to a DSL or cable modem and works as a regular wireless router. Application: Internet access from DSL or cable modem is available for one user but more users need to share the Internet.\n\n\nBRIDGE MODE\nDefinition: The TL-WR702N borrows existing wireless Internet and broadcasts it using a different network name(SSID) and password. This application can create two individual networks for two groups of users sharing one Internet. Application: Small restaurant, shop, bar, home, office and others where Internet service needs to be provided for guests without revealing the password of the existing network for hosts.\n\n\nMINI ROUTER COMPARISON CHART\n150Mbps Wireless N Mini Pocket Router 150Mbps Wireless N Nano Router Portable 3G/4G Wireless N Travel Router\n(This Product) Portable Battery Powered 3G/4G Wireless N Router Model TL-WR700N TL-WR702N TL-MR3020 TL-MR3040 Speed Up to 150 Mbps Up to 150 Mbps Up to 150 Mbps Up to 150 Mbps Dimensions 3.2 x 2.8 x 1.1 in 2.2 x 2.2 x 0.7 in. 2.9 x 2.6 x 0.9 in. 3.9 x 2.4 x 0.6 in. Wireless N Easy Setup Advanced Security Multiple Operating Modes HD Video Streaming & Multiplayer Online Gaming Good Good Good Good Power Supply Type Foldable Plug USB/power adapter USB/power adapter USB/2000 mAh Battery Flexible Power Supply 3G/4G Access Nano Size WISP Access \n\nSee more",
+    "rating": 3.9,
+    "feature_bullets": [
+      "Incredibly compact router, perfect for use at home and while traveling",
+      "Quickly create a secure Wi Fi hotspot to share with family and friends",
+      "150Mbps Wi Fi speed for video streaming, Internet calls, and online gaming",
+      "Micro USB port for flexible powering via an external adapter or USB port",
+      "Supports AP, Client, Router, Repeater, and Bridge modes",
+      "Compatible with 802.11b/g/n and 2.4GHz Wi Fi devices",
+      "Includes power adapter, USB cable, Ethernet cable, installation guide, and resource CD",
+      "150Mbps wireless data rates ideal for video streaming, online gaming and internet calling",
+      "Supports AP (default), Client, Router, Repeater and Bridge modes",
+      "Powered through a micro USB port by an external power adapter or USB connection to a computer",
+      "Compatible with almost all 2.4GHz Wi Fi devices",
+      "Tiny Ideal for home and travel use"
+    ],
+    "specifications": {
+      "Wireless Type": "802.11bgn",
+      "Brand": "TP-Link",
+      "Series": "Router 1",
+      "Item model number": "TL-WR702N",
+      "Item Weight": "8.8 ounces",
+      "Product Dimensions": "2.2 x 0.7 x 2.2 inches",
+      "Item Dimensions  LxWxH": "2.2 x 0.7 x 2.2 inches",
+      "Color": "Router 1",
+      "Power Source": "Ac",
+      "Manufacturer": "TP-LINK USA",
+      "Language:": "English",
+      "ASIN": "B007PTCFFW",
+      "Is Discontinued By Manufacturer": "No",
+      "Date First Available": "March 29, 2012",
+      "Customer Reviews": "3.9 out of 5 stars2,181 ratings3.9 out of 5 stars"
+    },
+    "categories": [
+      "Electronics"
+    ],
+    "price": 34.0
+  }
+}

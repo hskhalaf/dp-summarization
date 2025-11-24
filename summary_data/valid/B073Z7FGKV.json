@@ -1,0 +1,945 @@
+{
+  "website_summaries": [
+    {
+      "verdict": "Offers a low-profile design and a strong algorithm to protect against hackers.",
+      "pros": [
+        "High-precision algorithm guards against forged fingerprints",
+        "Compact design",
+        "Supports file and folder encryption",
+        "Up to 10 fingerprints can be registered",
+        "Works with Windows 10",
+        "360-degree detectability"
+      ],
+      "cons": [
+        "Some reports of this scanner not working well when a computer wakes up from hibernation or sleep mode"
+      ],
+      "aspects": {},
+      "publication_date": "",
+      "rating": "",
+      "source": "bestreviews"
+    }
+  ],
+  "customer_reviews": [
+    {
+      "title": "Great price for a quality product + troubleshooting tip",
+      "text": "The fingerprint reader works exactly as advertised. The packaging is nice and the product itself looks good. I don't see any issues with the build or finish of the reader. For some windows user who are a little more advanced, if you're having trouble with Windows Hello Setup crashing immediately as soon as you try to set up your fingerprint, check your group policy and re-enable UAC. There's been a bug that prevents the setup from running if you disable the UAC feature.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Michael Vayakornvichit",
+      "helpful_votes": 6,
+      "publication_date": 20180821
+    },
+    {
+      "title": "Won\u2019t be recommending this one",
+      "text": "Well, it seemed like a good idea. I was a little leary when the usb device came in and had no documentation. Once you use the QR code on the packaging, it sends you to an obscure website with pictures. The problem is, you\u2019ll be going nowhere fast with this because Windows 10 (That it says it is compatible with) does not work. Why? Because the device that \u201cneeds no drivers or software\u201d actually has the wrong driver and will NOT work with Windows 10. I ordered 2. Instead of wasting any more time on this, I\u2019ll thump both into my \u201cDrawer of Failures\u201d and move on. Recommend you do NOT even consider this one.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "Mikey",
+      "helpful_votes": 2,
+      "publication_date": 20190520
+    },
+    {
+      "title": "No longer works with \"Genuine win10\" as of May 2020",
+      "text": "I have had the finger print reader since 2017 and it worked great, I even purchased a 2nd one for another computer. Since 2020 though, after numerous Windows 10 updates, it no longer works. Installs as \"Goodix Fingerprint Device\" with an error of \"There are no compatible drivers for this device\". I have windows search for updated drivers and get \"Windows could not find drivers for your device\". I then go to benss-tech.com website and find two possible drivers, one from 2018 and another from 2020. The 2020 driver has a corrupted \"rar\" file so it will not open. The 2018 driver installs the \"Elan\" fingerprint drivers. These too do not work, resulting in same error.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "Michael G.",
+      "helpful_votes": 0,
+      "publication_date": 20200823
+    },
+    {
+      "title": "Excellent fingerprint reader!!",
+      "text": "This little device is amazing and it exceeded my expectation. I was skeptical at first, but then when I started using this fingerprint reader to sign in I realized how convenient it makes my life be. To get the user manual, you need to scan the barcode which is located on the back of the package. Setup process is easy. Just add your fingerprint and that's it! Instead of typing a long password, simply put your finger on the reader and the computer unlocks instantly, with no lag. I'm glad I made the purchase!",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Noiseproof",
+      "helpful_votes": 3,
+      "publication_date": 20180724
+    },
+    {
+      "title": "No software included, 20% to 30% average finger print read success rate.",
+      "text": "If the device worked I'd leave a 4 star review because the device has no finger print software. I am leaving a 1 star because the reader works maybe 2 or 3 times out of 10 attempts. My morning logon habit has changed from putting my finger on the reader to just putting in my pin number. I purchased this to save money over the Kensington finger print reader. Dont save money. There is a quality issue at heart with this reader. I have reset my fingerprint in windows 10 multiple times and it always starts failing to login within hours. Would not purchase again for any reason.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "Nathan and Amber",
+      "helpful_votes": 0,
+      "publication_date": 20200430
+    },
+    {
+      "title": "Works inconsistently, installation not automatic",
+      "text": "I have bought two of these fingerprint readers from separate companies and have set them up on different computers. I found that this fingerprint reader will often not work after putting my device to sleep, even though the other reader has no such problems. I may have received a faulty product, but I will definitely be returning it as I can no longer trust it on a day-to-day basis. I also wanted to mention to prospective buyers that you need to download drivers for this to work, whereas it may not be the case for other companies.",
+      "rating": 2.0,
+      "verified": true,
+      "author": "Kevin L.",
+      "helpful_votes": 2,
+      "publication_date": 20181115
+    },
+    {
+      "title": "Fast way to unlock your windows machine",
+      "text": "I have a corsair keyboard with a USB port on the back, this baby is plugged in to that and now I have a quick way to unlock my desktop. Support is built directly in to Windows 10 so there's no need to install any software. Configuration was quick and easy. Sometimes it refuses to read my finger and I have to fall back to entering a PIN, but I think that's more of an issue with the flow in Windows 10 than the reader itself, it gives up on prints too easily.",
+      "rating": 4.0,
+      "verified": true,
+      "author": "Tim G.",
+      "helpful_votes": 0,
+      "publication_date": 20200620
+    },
+    {
+      "title": "Has one job. Does it flawlessly.",
+      "text": "Not much to say! It's a fingerprint reader that plugs right in and (after driver a install, of course) works in a snap! Love this thing to bits! I always love showing off how fast and convenient it is to people. I have no need for two factor authentication or what-have-you that other people seem to care a whole ton about. So for that, I cannot comment. But for my purposes for just logging in? Best simple little product I may have ever gotten myself. If you're still looking, look no further!",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Fahren",
+      "helpful_votes": 0,
+      "publication_date": 20181030
+    },
+    {
+      "title": "Plug and play, this is great!",
+      "text": "My gf uses a Lenovo carbon laptop with a built in fingerprint reader. It's super slick and easy to use. So I wanted that feature on my new Lenovo laptop. I got this, turned laptop on, plugged this in after windows loaded up, went to settings, users logins and turned on fingerprint recognition. Entered a couple fingerprints into it. Logged out and now it works perfectly. Very easy, very secure, very happy",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Jaxsey X. Wells",
+      "helpful_votes": 0,
+      "publication_date": 20200624
+    },
+    {
+      "title": "Works great with Windows Hello",
+      "text": "As an IT pro, I lock and log into my work computer all day. With being security minded and forcing long complex passwords, I sometimes have to enter my password 2 or 3 times. With this and Windows Hello it's an instant login. My fingerprint and PIN options were grayed out so I had to enable 4 items in my local GPO to get it to work. Once my coworkers saw the ease of logging in, I ordered more for them.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "J. Johnson",
+      "helpful_votes": 0,
+      "publication_date": 20190404
+    },
+    {
+      "title": "Plug & play fingerprint reader! Make Windows 10 log you in with a swipe of your finger!",
+      "text": "This was a great upgrade! I know it's a simple thing, but adding the fingerprint login to Windows10 just makes me smile when I turn on my rig. It's very simple to setup and it's been working for months now with very high reliability. The only 'trick' I can suggest is making sure your setup is done slowly and methodically. Don't rush it, doing it right will give you months or maybe years of foolproof logins!",
+      "rating": 5.0,
+      "verified": true,
+      "author": "CarrotCakeClancy",
+      "helpful_votes": 0,
+      "publication_date": 20191209
+    },
+    {
+      "title": "Quality made and it works great.",
+      "text": "I haven't got this to work yet on my Windows 10 machine. The seller has gone out of their way to help me with this and I'm glad to announce it's now working perfectly. Thank you so very much and Kudos for your assistance.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Clayton Bruster",
+      "helpful_votes": 2,
+      "publication_date": 20180811
+    },
+    {
+      "title": "This was plug and play for me Dell laptop",
+      "text": "Windows 10 recognized it within seconds of inserting it into a USB slot. This type you don't roll your finger across it to get it to recognize your fingerprint. I was doing that and didn't get good results until I realized it worked differently than the one on my HP laptop. Once I understood how it worked, it worked great.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "T2000KW",
+      "helpful_votes": 0,
+      "publication_date": 20200722
+    },
+    {
+      "title": "Works with Windows 10, but not LastPass",
+      "text": "I was disappointed that I could not get this to work reliably with MFA on LastPass password management. It would work on 1 out of 100 attempts. Insufficient for my needs. It was highly effective with Windows 10 Hello. If all you want to do is unlock Windows 10, this should work for you. Beyond that, beware.",
+      "rating": 2.0,
+      "verified": true,
+      "author": "John P. Freymann Jr.",
+      "helpful_votes": 0,
+      "publication_date": 20190609
+    },
+    {
+      "title": "Best 1 I saw yet... :D",
+      "text": "There are many fingerprint readers on Amazon, but this 1 is 1 of the best I've seen yet. It's even better than my PQI reader, which is pretty decent. :) Perfect for logging into my tablet without having to put my PIN or password, which can be kind of risky when out in the public eye. 5 star product for sure... :D",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Technohead",
+      "helpful_votes": 0,
+      "publication_date": 20190712
+    },
+    {
+      "title": "Works transparently in Windows 10",
+      "text": "Device works perfect in a windows 10 laptop, no Driver\u2019s to install, just plug in and you are ready to register your prints with Windows Hello.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Arturo Batista",
+      "helpful_votes": 2,
+      "publication_date": 20181127
+    },
+    {
+      "title": "Works as expected, much more affordable than other options.",
+      "text": "Have this plugged into the USB port on the side of my Razer keyboard. It works perfectly, and is very quick. Getting Windows set up to allow a fingerprint login was a beast of a chore and a giant headache, but once I had it all configured correctly this little thing does its job without drama. I don't miss typing in a password at all!",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Kelso",
+      "helpful_votes": 0,
+      "publication_date": 20190309
+    },
+    {
+      "title": "10/10 would buy again",
+      "text": "Windows 10 plug and play -- everything is smooth on my custom build as well as my dell XPS. Works great plugged into my keyboard and passing through my KVM. My XPS laptop had an existing fingerprint reader which I can't easily access when it's docked -- I placed this on the full size keyboard and the authentication passes through perfectly. I did have to record another fingerprint, it seems the hardware must match the stored fingerprints differently.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "J H",
+      "helpful_votes": 0,
+      "publication_date": 20190206
+    },
+    {
+      "title": "It works sometimes!",
+      "text": "Installation is a breeze and setup in windows 10 is straightforward, but this is where the pleasure ends! If you place your finger not exactly a certain way twice, you will have to sign in! More than half the time I have to sign in. A great idea less elegantly executed.",
+      "rating": 3.0,
+      "verified": true,
+      "author": "Amazon Customer",
+      "helpful_votes": 0,
+      "publication_date": 20201021
+    },
+    {
+      "title": "Cannot get reader to work",
+      "text": "Cannot get the reader to work. Tried on 3 fully updated Win 10 Pro computers. Native Win 10 does not have drivers. None of the optional drivers work. Show as a device but none of the drivers will install. Support is nonexistent, web address on package is wrong. Actual web page is very crude and not helpful. Will waste a little more time on it and send it back.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "Don Nell",
+      "helpful_votes": 0,
+      "publication_date": 20190906
+    },
+    {
+      "title": "Extremely accurate and fast!",
+      "text": "What more could I say about a fingerprint reader that really matters? It is extremely accurate and fast! One minor issue I'm having is probably more a Windows 10 issue. After rebooting I have to use my password to gain access, the fingerprint reader doesn't work until after the first login. But I rarely reboot, so this doesn't bother me much.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "John",
+      "helpful_votes": 0,
+      "publication_date": 20190819
+    },
+    {
+      "title": "works great win10",
+      "text": "Works great on my docked Windows 10 laptop (using an AD/domain login - note that some companies may disallow hello/fingerprint login in group policy). Installed reader in rear USB slot of my external keyboard, windows 10 automatically recognized, and offered to setup windows hello. Unlocks quick and easy with a simple touch!",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Kevin",
+      "helpful_votes": 0,
+      "publication_date": 20200720
+    },
+    {
+      "title": "Worth buying for an add-on Window Hello solution.",
+      "text": "It works most of the time, but it can be a little flaky. It seems to work better with a swipe instead of a touch like with built in mobile device fingerprint readers, which makes it ever so slightly harder to use. It looks great and unobtrusive and I can leave it plugged into my laptop at all times even when I pack it up.",
+      "rating": 3.0,
+      "verified": true,
+      "author": "Kristy",
+      "helpful_votes": 0,
+      "publication_date": 20190524
+    },
+    {
+      "title": "It really does work, so HAPPY!",
+      "text": "After getting hassled by Windows about mid typing my codes or passwords I got fed up and decided to try one of these. It was soooo worth it. Now my logins go much faster and I can get to work that much faster. The setup was no hassle but it did take about five minutes, which was worth it, bc once it did what it needed to install and then scanned my finger prints in, bam! I was in! One my best purchases ever!",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Jonathan Todd Fenwick",
+      "helpful_votes": 0,
+      "publication_date": 20190103
+    },
+    {
+      "title": "Tiny and Subtle",
+      "text": "It's super tiny and hides away. I use it on my keyboard passthrough port so it's right at my fingertips. The device is tiny and works right out of the box. It's pretty quick too. It fails like every 2 out of 100 times. Wet or moist fingers don't do well on the scan.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Sanjay Soundarajan",
+      "helpful_votes": 0,
+      "publication_date": 20191209
+    },
+    {
+      "title": "Wonderful Product...",
+      "text": "I bought 2 of these - one for my laptop and one for my pc. These things are the bomb! Virtually idiot proof installation, totally reliable performance, and almost instantly responds to a touch. It doesn\u2019t get any better, folks, for this type of device. Buy one (or 4) and you\u2019ll love them. Highly recommended.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Spike",
+      "helpful_votes": 0,
+      "publication_date": 20190806
+    },
+    {
+      "title": "Not worth the cost",
+      "text": "The unit initially worked just fine. Then, today, it decided to simply die. It's supposed to have a two year warranty but that appears useless unless you speak Chinese. Looks like I got screwed again.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "James K. Hardy",
+      "helpful_votes": 0,
+      "publication_date": 20190705
+    },
+    {
+      "title": "They are pretty good l.",
+      "text": "Works awsome, I have 3 units for all of my computers, they work great, one started to malfunction and i got it replaced for free. It is pretty much plug and play, no step up required. They work flawlessly in colder environments, sweat might cause it to become slightly less reliable, like any fingerprint scaner, but they are much faster than a pin or password everytime. Definitely worth the 20 dollars.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Felipe",
+      "helpful_votes": 0,
+      "publication_date": 20181201
+    },
+    {
+      "title": "Don\u2019t waste your time",
+      "text": "I bought this because it was a relatively cheap fingerprint reader. I guess you get what you pay for. The reader barely works half the time. Even if you get it to read, it errors more often then not, prompting me to enter my alternate method of login. You also have to install their driver which is okay except for the fact that the package says nothing about it.",
+      "rating": 3.0,
+      "verified": true,
+      "author": "Aaron N.",
+      "helpful_votes": 0,
+      "publication_date": 20200816
+    },
+    {
+      "title": "Ultimate solution for Halo problem on Thinkpad x1 yoga Gen 3",
+      "text": "Although it is an external USB typed fingerprint reader, it didnt gave me any extruding feeling too much on the side of the computer, it is amazingly solved the persisting fingerprint problem of my Thinkpad x1 Yoga Gen3 because Lenovo seemed got a big problem on that piece of hardware, however, I chose to buy Benss before I offoically announced my self to give up that stupid stock fingerprint on that X1 yoga Gen3, I nearly made a new decision on changing to a Surface Laptop 2 instead. Thanks",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Junko",
+      "helpful_votes": 0,
+      "publication_date": 20190621
+    },
+    {
+      "title": "Works great with Windows 10",
+      "text": "I bought two of these, one is on a Dell 7050 and the other is on a Dell XPS. It is great to have by PC log me in within a second of reading my fingerprint. You are able to store multiple finger prints also.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "S_Henley",
+      "helpful_votes": 0,
+      "publication_date": 20190903
+    },
+    {
+      "title": "I couldn't make this work. .",
+      "text": "I wish I could review this but all I can speak to is my frustrations with the entire set-up. I didn't have windows drivers already that worked - so I downloaded what made sense - then nothing still. The \"genuine\" quality of the product per the information provided in the header paragraph leave me to wonder if this wasn't authentic for windows 10. sent from my HP Envy 2",
+      "rating": 1.0,
+      "verified": true,
+      "author": "Gregory J",
+      "helpful_votes": 0,
+      "publication_date": 20200222
+    },
+    {
+      "title": "Works effortlessly",
+      "text": "Well practically. Nothing to install, just plug in and configure Windows to use it. Then swipe every finger you want to use until it\u2019s happy and it works. I did notice sometimes when my laptop comes out of sleep I have to unplug this device and replug it. But, I expect that with Windows.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "rickatplay",
+      "helpful_votes": 0,
+      "publication_date": 20190903
+    },
+    {
+      "title": "PERFECT",
+      "text": "I love this because now with the way i have my laptop setup it requires a fingerprint and facial recognition to get in (I'm still in high school & don't want anyone getting into my laptop)",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Anthony DeVor",
+      "helpful_votes": 0,
+      "publication_date": 20181119
+    },
+    {
+      "title": "Doesn't Work on Windows 10 Pro 2004",
+      "text": "It was supposed to be plug and play, but the drivers did not install automatically. Windows Hello Fingerprint said no devices available. I manually installed the drivers from the website, and Windows Hello Fingerprint had a Set Up option, but clicking it opened a window which said no fingerprint devices available.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "Liquid",
+      "helpful_votes": 0,
+      "publication_date": 20200817
+    },
+    {
+      "title": "Will not complete finger print registration.",
+      "text": "I cannot register my finger print through Windows Hello. In the setup process it reads my print twice and then crashes with a \u201csomething went wrong\u201d message. I'm going to try it with another system. If that does not work then I will be sending it back.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "Radman61",
+      "helpful_votes": 0,
+      "publication_date": 20200213
+    },
+    {
+      "title": "Works ONLY at first",
+      "text": "Worked at first, then became much less likely to work. Had to keep re-registering fingerprints. Now finally, after a round of Windows Updates on 1909 Build 18363.535, it is no longer recognized as compatible by Windows 10. Do not waste your money...",
+      "rating": 1.0,
+      "verified": true,
+      "author": "Matthew Gardiner",
+      "helpful_votes": 0,
+      "publication_date": 20191215
+    },
+    {
+      "title": "Reliable and easy to use",
+      "text": "I've been using the fingerprint reader for over 7 months now and it has never failed to read my finger at all. It sometimes struggles with off-angles but other than that it's been very reliable, I haven't entered my password in forever and likely never will go back to typing out a password. I am not slow at typing at all, but the speed and ease of using this fingerprint reader is just so much better than having to re-type your password just because you missed a key.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Cicero",
+      "helpful_votes": 0,
+      "publication_date": 20190806
+    },
+    {
+      "title": "Not as easy to set up",
+      "text": "First, the website listed on the package is not valid. I plugged the device in the USB and nothing happened. Not as simple as stated. Windows 10 does not recognize the device. With a little on-line research, I was able to find the correct website and a software download was necessary for it to work.",
+      "rating": 3.0,
+      "verified": true,
+      "author": "TRUMP2020",
+      "helpful_votes": 0,
+      "publication_date": 20190618
+    },
+    {
+      "title": "Perfect!",
+      "text": "You plug it in, go to lock screen settings, swipe your fingerprint, done. It was much simpler than I thought. The device was instantly recognized and it takes less than a second to unlock your computer. I have not had one issue with this device yet. It is so easy to use that I would recommend anyone that is thinking about buying one to just buy this one!",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Aidan Lucas",
+      "helpful_votes": 0,
+      "publication_date": 20190126
+    },
+    {
+      "title": "Works as advertised",
+      "text": "This reader was simple to install since all I had to do was plug it into an open USB port and it self installed since Windows Hello recognized it immediately. After entering a few fingerprints all was done. It is also simple to add more fingerprints just by using the windows Key and typing \"fingerprint\" which takes you to the \"Sign in options\" dialog box where you can add and Delete fingerprints.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Lazarus Long",
+      "helpful_votes": 0,
+      "publication_date": 20190705
+    },
+    {
+      "title": "You have fingerprint readers for phones, why not your computer?",
+      "text": "This works just as well as the fingerprint reader on most modern phones. Enrollment process is very similar as well. This really needs to become a standard feature on laptops and keyboards. Login and unlock the system quick and easy! Price could come down a bit more.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "socos",
+      "helpful_votes": 0,
+      "publication_date": 20181226
+    },
+    {
+      "title": "Works great with Win10",
+      "text": "I have been using it for months and it works perfectly on a Windows 10 PC. Just like the fingerprint reader on a modern phone, it is fast and accurate. I have not had any issues.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Mildly Gruntled",
+      "helpful_votes": 0,
+      "publication_date": 20200316
+    },
+    {
+      "title": "Since I don't use MS Hello, doesn't for anything else.",
+      "text": "Thought I could use it to log in (Win10 local account), but can only use password, not fingerprint. Seems it only works with MS Hello and MS login.",
+      "rating": 2.0,
+      "verified": true,
+      "author": "Thompson",
+      "helpful_votes": 0,
+      "publication_date": 20200201
+    },
+    {
+      "title": "Fails to activate after return from Hibernate",
+      "text": "The fingerprint reader fails to respond after a return from Hibernate. The USB fingerprint reader must be removed and reinserted before it will respond. This problem needs to be fixed.",
+      "rating": 2.0,
+      "verified": true,
+      "author": "Eric G. Hanson",
+      "helpful_votes": 0,
+      "publication_date": 20190429
+    },
+    {
+      "title": "Excellent Fingerprint Scanner",
+      "text": "Excellent product, which arrived way sooner than I was expecting. Plugged it in and worked out of the box Windows 10 detected it. No need to worry about drivers as its done automatically. Excellent seller, highly recommend.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Wayne",
+      "helpful_votes": 0,
+      "publication_date": 20181125
+    },
+    {
+      "title": "Finger size!",
+      "text": "I think the construction of the dongle is incredible, the led is good and case it sturdy. The reader itself it's rather small to get a good image though so it takes a couple tries to have a good print taken.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Shaggy Rogers",
+      "helpful_votes": 0,
+      "publication_date": 20181019
+    },
+    {
+      "title": "Makes my Computer more private",
+      "text": "It gives me Security by not letting anyone access my computer without my permission. It was very easy to install",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Lamar",
+      "helpful_votes": 0,
+      "publication_date": 20181128
+    },
+    {
+      "title": "Never could get it to work",
+      "text": "Tried it on two computers. Reinstalled software, changed cables, plugged it directly into computer without any cables, etc. No go.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "MattK",
+      "helpful_votes": 0,
+      "publication_date": 20190420
+    },
+    {
+      "title": "Download the driver and it\u2019s cake!",
+      "text": "After downloading the driver, it really works and is super consistent for such a cheap windows hello device!",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Tyler M.",
+      "helpful_votes": 0,
+      "publication_date": 20190108
+    },
+    {
+      "title": "Needs work",
+      "text": "It actually works. But, not all the time. Not perfect or delightful. Mostly, after a few tries I'll get in. Using it with an HP Envy 13 laptop running Windows 10 Home.",
+      "rating": 3.0,
+      "verified": true,
+      "author": "nerdicon",
+      "helpful_votes": 0,
+      "publication_date": 20200405
+    },
+    {
+      "title": "PBenss fingerprint reader has been very helpful.",
+      "text": "The fingerprint scanner has been very helpful and makes login much easier. It was difficult to figure out how to use since there were no instructions but once I figure it out it has been extremely helpful.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Marcia Jones",
+      "helpful_votes": 0,
+      "publication_date": 20181208
+    },
+    {
+      "title": "Plug and Play",
+      "text": "Has worked perfectly. No need for set up or installation just plugin and it works. Has taken quite a few hits too and has not broken yet.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Amazon Customer",
+      "helpful_votes": 0,
+      "publication_date": 20190911
+    },
+    {
+      "title": "Fast and Super Easy",
+      "text": "Basically plug and play. Since I'm running Win 10 pro, I had to take a couple extra steps to enable biometrics (not sure if this is a common thing or not), but in the end it all worked out. Google's your best friend, with my particular problem, btw.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "MD",
+      "helpful_votes": 0,
+      "publication_date": 20190101
+    },
+    {
+      "title": "Works great!",
+      "text": "I apparently had a defective unit the first go around, as it barley worked at all. The seller insisted on shipping me a new one and this seems to work great! Reads fast, and was super easy to set up.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Z. Raizen",
+      "helpful_votes": 0,
+      "publication_date": 20191015
+    },
+    {
+      "title": "Easy setup",
+      "text": "Plugged in to USB port. Set it up in \"settings\"/\"windows hello Recognized reader Scanned fingerprint Ready to use!!",
+      "rating": 5.0,
+      "verified": true,
+      "author": "J. Ingber",
+      "helpful_votes": 0,
+      "publication_date": 20190709
+    },
+    {
+      "title": "Works as a charm",
+      "text": "My win10 desktop does not have face recognition. With this fingerprint reader login is even easier. Highly recommended.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Arne in Florida",
+      "helpful_votes": 0,
+      "publication_date": 20190905
+    },
+    {
+      "title": "Didn't work for me.  Return.",
+      "text": "I wanted this to work. Windows Hello recognized the reader but absolutely could not successfully register a finger print. No matter how many times I tried, registration of print failed at the third swipe. Update, the Seller's customer service has been excellent! They sent me a new fingerprint scanner.",
+      "rating": 4.0,
+      "verified": true,
+      "author": "Frank R.",
+      "helpful_votes": 0,
+      "publication_date": 20181114
+    },
+    {
+      "title": "Works great!",
+      "text": "I had to look up how to start it on YouTube, but that's all it took. It's wonderfully responsive and works every time with no fuss.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Child of the Pacific",
+      "helpful_votes": 0,
+      "publication_date": 20191007
+    },
+    {
+      "title": "Don't worry about it working right....",
+      "text": "This is a wonderful add on for your security. I had it running flawlessly in 5 minutes, and it reads my print in one second 90% of the time, then it takes 2. This IS a fine add on to help alleviate the password problems of todays internet.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "John Edgar",
+      "helpful_votes": 0,
+      "publication_date": 20190611
+    },
+    {
+      "title": "Low cost - works great",
+      "text": "Works as advertised. While setup was fairly easy, it would be beneficial if the vendor would better document the installation and setup process.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Mark W.",
+      "helpful_votes": 0,
+      "publication_date": 20181005
+    },
+    {
+      "title": "Computer would not recognize.",
+      "text": "Computer would not pick up device. ( On either my desktop or laptop.) Returned.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "RHF111",
+      "helpful_votes": 0,
+      "publication_date": 20200126
+    },
+    {
+      "title": "Not very relieable for a fingerprint.",
+      "text": "I tried many times to reprogram the fingerprint device but it's only about 50% accurate.",
+      "rating": 3.0,
+      "verified": true,
+      "author": "LuperAZ",
+      "helpful_votes": 0,
+      "publication_date": 20200506
+    },
+    {
+      "title": "Quick and accurate fingerprint recognition",
+      "text": "I've been using this fingerprint reader for a few months. Logging in through windows occurs almost instantly and I've only had one instance in which it wouldn't read my fingerprint multiple times in a row that required me to use my password. Afterwards I logged back out, tried again, and it worked fine. I'm not sure exactly why it failed that time, but it was the only occurrence out of several hundred login attempts.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Amazon Customer",
+      "helpful_votes": 0,
+      "publication_date": 20190302
+    },
+    {
+      "title": "Works as described. Good buy",
+      "text": "It works, be sure to enable Bluetooth first. This is the one with the lowest price when I bought it.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "K Blitz",
+      "helpful_votes": 0,
+      "publication_date": 20190705
+    },
+    {
+      "title": "unreliable",
+      "text": "Repeatedly fails some days, some-times. Other brands work far more consistently (we have tried 3 and won't return to this one).",
+      "rating": 2.0,
+      "verified": true,
+      "author": "Tobias L Merriman",
+      "helpful_votes": 0,
+      "publication_date": 20190214
+    },
+    {
+      "title": "Touch and Go!",
+      "text": "This was easy to use and works. I really like how you can just press your finger to log onto windows, compared to having to click the mouse to insert a pin/password.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Joel",
+      "helpful_votes": 0,
+      "publication_date": 20190823
+    },
+    {
+      "title": "Update.  Unreliable on Windows 10 notebooks",
+      "text": "Piece of crap. Doesn't work 70 percent of the time. Threw it away!",
+      "rating": 4.0,
+      "verified": true,
+      "author": "Niren",
+      "helpful_votes": 0,
+      "publication_date": 20190914
+    },
+    {
+      "title": "It\u2019s great",
+      "text": "I love it. It works great with windows hello on Windows 10. One the best third party fingerprint scanner on the market",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Allen",
+      "helpful_votes": 0,
+      "publication_date": 20181128
+    },
+    {
+      "title": "Amazing product",
+      "text": "I really love when companies make quality products ! very accurate, easy setup and tiny!",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Isaac",
+      "helpful_votes": 0,
+      "publication_date": 20190602
+    },
+    {
+      "title": "Works great but 1/2 ordered is the wrong color",
+      "text": "Would have been five stars except one of the two I ordered were the wrong color. No drivers were required and setup with Windows Hello was easy. 1password if far more convenient to use now.",
+      "rating": 4.0,
+      "verified": true,
+      "author": "Amos Manneschmidt",
+      "helpful_votes": 0,
+      "publication_date": 20180801
+    },
+    {
+      "title": "Works as advertised, but instructions are lacking",
+      "text": "Works great and does its job on a win 10 machine. Better instructions would be nice.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Sr Tech Guy",
+      "helpful_votes": 0,
+      "publication_date": 20190116
+    },
+    {
+      "title": "Benss Fingerprint Reader just works!",
+      "text": "I am using this reader for logging in to my desktop with Windows Hello on Windows 10. The item arrived on time as promised and only had to be plugged in to be recognized by the system. Then all I had to do was follow the directions to enable and use Windows Hello for sign in. Beats the heck out of passwords or pins!",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Robert Snyder",
+      "helpful_votes": 0,
+      "publication_date": 20181227
+    },
+    {
+      "title": "Just great.",
+      "text": "Does exactly what it says, and without an issue. Plug and play,... Really happy so far.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "harv",
+      "helpful_votes": 0,
+      "publication_date": 20190217
+    },
+    {
+      "title": "worth buying",
+      "text": "Things are very small, after plugging in, set it in Windows, enter your fingerprint and you can log in to the account. Super convenient! No additional drivers are required to download. Now I only use the fingerprint reader, I am too lazy to enter the password to log in to Windows. Things are also very cheap and worth buying.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "ZAKimmortal",
+      "helpful_votes": 0,
+      "publication_date": 20181207
+    },
+    {
+      "title": "Works Perfectly",
+      "text": "Makes logging in a breeze - if you don\u2019t like typing in that pesky password - this is the ticket",
+      "rating": 5.0,
+      "verified": true,
+      "author": "bbmartin",
+      "helpful_votes": 0,
+      "publication_date": 20190313
+    },
+    {
+      "title": "Simple and inexpensive solution",
+      "text": "I bought this to use fingerprint for the Windows Hello fingerprint logon option. This is inexpensive and serves the purpose well. It may not always logs me in on first attempt but usually does and meet my objective to not using password for login and in less time.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Gus",
+      "helpful_votes": 0,
+      "publication_date": 20181122
+    },
+    {
+      "title": "Love this fingerprint reader",
+      "text": "Works like a charm in Windows 10. It's attached to my monitor on my desktop, so it's pretty awesome/easy to use. Installed without me having to do anything and then just added my fingerprints.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "J. Fernando Cardenas",
+      "helpful_votes": 0,
+      "publication_date": 20190402
+    },
+    {
+      "title": "had to download and install a driver",
+      "text": "Once I got the driver from their website it worked flawlessly and unlocks windows VERY fast",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Rob C.",
+      "helpful_votes": 0,
+      "publication_date": 20190108
+    },
+    {
+      "title": "Hello Finger Sign-in",
+      "text": "This device works great, takes a little time to get your fingerprint scanned.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Richard A. Spengler",
+      "helpful_votes": 0,
+      "publication_date": 20201004
+    },
+    {
+      "title": "Not too bright.",
+      "text": "I don\u2019t know if it\u2019s good or not. I\u2019ve lost it someplace in the house.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Tom P.",
+      "helpful_votes": 0,
+      "publication_date": 20200111
+    },
+    {
+      "title": "What I use the Benss finger print reader for",
+      "text": "I use the Benss finger print reader for my laptop. Sometimes it works the first time, other times I will have to try 2 to 3 times . I had to install & then delete & reinstall to get it to work. I have found you have to place you finger gentle on the reader for it to work.",
+      "rating": 3.0,
+      "verified": true,
+      "author": "Amazon Customer",
+      "helpful_votes": 0,
+      "publication_date": 20190127
+    },
+    {
+      "title": "Great biometric security measure",
+      "text": "Works faster than my iPhone, and seems to get better recognition than it too! Works great on windows 10.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Tommy Baran",
+      "helpful_votes": 0,
+      "publication_date": 20191113
+    },
+    {
+      "title": "You have to re set up your fingerprint every couple days",
+      "text": "You have to re set up your fingerprint every couple days",
+      "rating": 1.0,
+      "verified": true,
+      "author": "Papasquat",
+      "helpful_votes": 0,
+      "publication_date": 20200201
+    },
+    {
+      "title": "Does what it says",
+      "text": "I have this on the side of my razer keyboard with usb pass through and it works great. Priced a little high when I bought. Paid $25, I think $15-$18 would be more reasonable but, solid product.",
+      "rating": 4.0,
+      "verified": true,
+      "author": "Brad",
+      "helpful_votes": 0,
+      "publication_date": 20190808
+    },
+    {
+      "title": "Works great",
+      "text": "this worked great right out of the box. Had to download the drivers for my laptop but was very easy. Have had this almost a month now and absolutely no issues.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "terri",
+      "helpful_votes": 0,
+      "publication_date": 20191102
+    },
+    {
+      "title": "Great for Windows Hello!",
+      "text": "I have had readers that I had to swipe my finger on previously, and they were problematic. This one has been fantastic! Just a tap is all it takes.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Cam Richards",
+      "helpful_votes": 0,
+      "publication_date": 20190716
+    },
+    {
+      "title": "ninja",
+      "text": "No more stupid password or PIN when logging into my PC. So long suckers!",
+      "rating": 4.0,
+      "verified": true,
+      "author": "C. Rodriguez",
+      "helpful_votes": 0,
+      "publication_date": 20190729
+    },
+    {
+      "title": "Great product",
+      "text": "Installed easy and works great. Took a few minutes to program it but it works like a charm.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "OW",
+      "helpful_votes": 0,
+      "publication_date": 20190308
+    },
+    {
+      "title": "Works well and for the price it's excellent",
+      "text": "It's a good product. Works well and quickly to unlock my computer",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Nicole Jabaay",
+      "helpful_votes": 0,
+      "publication_date": 20181211
+    },
+    {
+      "title": "Awesome",
+      "text": "All I had to do was plug it in and it was pretty much good to go. I have multiple users on my PC so this makes signing in a breeze. Beats typing in 24 characters everytime.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Kenny",
+      "helpful_votes": 0,
+      "publication_date": 20180826
+    },
+    {
+      "title": "Slow, but functional",
+      "text": "It works, but it's slower than some other ones that I've used",
+      "rating": 3.0,
+      "verified": true,
+      "author": "Lixian",
+      "helpful_votes": 0,
+      "publication_date": 20200227
+    },
+    {
+      "title": "performed as expected",
+      "text": "The Best for Me. The device works as described and does what I bought it to do, the price helps out a lot. it's performed as expected up to now, great performance and excellent speed.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "ilinuxkernel",
+      "helpful_votes": 0,
+      "publication_date": 20181029
+    },
+    {
+      "title": "Very quick logins",
+      "text": "My Windows 10 didn't recognize the device , I've just downlaoded the drivers for windows 10 and its working great. Very quick response time. Very satisfied.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Amazon Customer",
+      "helpful_votes": 0,
+      "publication_date": 20181006
+    },
+    {
+      "title": "easy to use",
+      "text": "Works as described. Very good product. Easy to use and no driver installation needed on Windows 10 HELLO. I am impressed with this fingerprint reader and would like to buy another one for my another Windows 10 desktop computer.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "yakira zhao",
+      "helpful_votes": 0,
+      "publication_date": 20180329
+    },
+    {
+      "title": "Junk, did work",
+      "text": "My computer locked me out of your website and told me it was insecure or bad reputation!",
+      "rating": 1.0,
+      "verified": true,
+      "author": "Sojourner",
+      "helpful_votes": 0,
+      "publication_date": 20181118
+    },
+    {
+      "title": "Works Great!",
+      "text": "It seems to be just as fast as my phone's fingerprint sensor, perfect!",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Matt",
+      "helpful_votes": 0,
+      "publication_date": 20190325
+    },
+    {
+      "title": "Arrived deformed, and works poorly",
+      "text": "Arrived bent. As in, the rectangle shape looked as though someone pushed on it very hard, crushing the metal. I straightened out the metal until it looked almost normal, and plugged it into my PC. Even after dozens of attempts to get it to recognize my fingerprint, going through Windows Hello over and over again, it fails more often than it works. So, in the end, it arrived crushed and when I did get it to plug in, it worked poorly. Not recommended",
+      "rating": 1.0,
+      "verified": true,
+      "author": "Techtesting",
+      "helpful_votes": 0,
+      "publication_date": 20180729
+    },
+    {
+      "title": "Works great and actually does get better over time",
+      "text": "It can be a little annoying in the beginning, but after a week or two it works every time!",
+      "rating": 5.0,
+      "verified": true,
+      "author": "JO",
+      "helpful_votes": 0,
+      "publication_date": 20181008
+    }
+  ],
+  "product_meta": {
+    "title": "Benss Fingerprint Reader Analyzer for Windows 7 8 10 Hello, Fingerprint Scanner Wireless Biometrics Computer Security Login Lock with WQHL Certification for PC Laptop, 2 Years Warranty Grey",
+    "description": "Color:GrayMore Feature\n\nSupport OS\nWindows 7 8 10 32/64-bits. Not compatible with the Linux/Mac/Android operating system.\n\nDesigned for Windows Login\nAdopting the uniqueness of one's fingerprint features to prevent unauthorized access to your computer\n\nSecure and Convenience\nTouch base Fingerprint dongle with great FAR(<0.002%) and FRR(< 3%), high secure but also easy-of-use (<1 sec. matching ). \n\nFingerprint Touch by any Direction\nAccept \"360 degrees\"fingerprint matching to free your finger touch scenarios.\n\nElegant, smallest and little weight Dimension: 0.83x0.55x 0.31inch\n\nMake Fingerprint Sensor Smart\nBuild-in \"Smart Learning\"algorithm to make your fingerprint matching faster and faster.\n\nWidely Captibility\nIt supports to encrypt of Windows Login, Screen Saver Lock, File/Folder\n\n\nThe Guidelines for Start your Fingerprint to Windows Hello\n1.Start from \"Settings\"=>\"Accounts\"\n2.\"Sign-in Options\", Fingerprint \"Setup\"\n3.Need PIN code first; if no PIN code yet, Windows Hello will guide you to setup\n4.Enroll and Register your fingerprint around 10~12 enrollments(touch, lift), Try to touch your finger by different area,not always touch by same finger area.\n\n\nIf you already installed previous version drivers\n1.Uninstall driver first\n2.Upgrade by INF(following Windows Hello Validation requirement)\n3.Since we insert \"Scheduler\" in by registry keys,please \"reboot\" system to make those \"run once\" effective.\n\n\nWarm Tips\n1.Windows Hello only allows 3 times fingerprint matching, If you failed to login in for 3 times or more, please switch to PIN code to login again.\n2.If any issues during the process, please feel free to leave us message directly. We'll be glad to show you in details.",
+    "rating": 4.1,
+    "feature_bullets": [
+      "Fastest fingerprint identification, automatically installation under good internet connection, safe and easy. Up to 10 fingerprint IDs supported, convenient for family laptop use in common.",
+      "360 degrees recognition, makes a more accurate and responsive performance than traditional optics.",
+      "Featuring a biological detection will high precision algorithm to detect the real fingerprint not the forged, protect your privacy better than passwords input. your fingerprint is stored on your computer, so the password will not be revealed.",
+      "Genuine win 10 don't need to download any driver file to make it work.(If it is not genuine, you need to download the driver).",
+      "If you have any questions or failed the installation, feel free to contact us. Full refund or a replacement will be offered if you are not satisfied with your purchase."
+    ],
+    "specifications": {
+      "Product Dimensions": "0.98 x 0.2 x 0.59 inches",
+      "Item Weight": "0.247 ounces",
+      "Manufacturer": "Benss",
+      "ASIN": "B073Z7FGKV",
+      "Item model number": "CA-101BK",
+      "Customer Reviews": "4.1 out of 5 stars518 ratings4.1 out of 5 stars",
+      "Best Sellers Rank": "#15,856 in Computers & Accessories",
+      "Is Discontinued By Manufacturer": "No",
+      "Date First Available": "January 24, 2018"
+    },
+    "categories": [
+      "Computers & Accessories",
+      "Electronics",
+      "Security Locks",
+      "Laptop Accessories"
+    ],
+    "price": 22.99
+  }
+}

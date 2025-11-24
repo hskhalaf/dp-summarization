@@ -1,0 +1,961 @@
+{
+  "website_summaries": [
+    {
+      "verdict": "The Cisco RV110W Wireless-N VPN Firewall would make a very good investment for a small business that needs an easy VPN solution for remote employees.",
+      "pros": [
+        "The Cisco RV110W Wireless-N VPN Firewall router offers a built-in PPTP VPN server and fast performance",
+        "The compact, IPv6-ready router is easy to use and comes with a well-organized, responsive Web interface"
+      ],
+      "cons": [
+        "The RV110W lacks support for dual-band and Gigabit Ethernet",
+        "Its VPN supports only up to five remote clients at time"
+      ],
+      "aspects": {
+        "Setup": 8.0,
+        "Features": 8.0,
+        "Performance": 8.0,
+        "Support": 7.0
+      },
+      "publication_date": 20110628,
+      "rating": 7.9,
+      "source": "cnet"
+    }
+  ],
+  "customer_reviews": [
+    {
+      "title": "Firewall logic buggy",
+      "text": "Serious flaws in firewall logic (i.e., design flaws by Cisco, which their lousy quality control didn't catch). Rules of precedence don't work. To wit: a highly specific \"allow\" does not override a broad \"block,\" even though the \"allow\" statement is of higher order. Yes, I'm using the word \"order\" instead of \"higher precedent\" or similar because the set up process offers the user the opportunity to \"reorder\" his rules of allowance and blocking. See picture. I have two of these RV110W routers; each has latest firmware, and each exhibits these design bugs. RV215W seems to be improved, on this point. But it has other problems. Quality control is wanting!",
+      "rating": 2.0,
+      "verified": true,
+      "author": "John Becich",
+      "helpful_votes": 3,
+      "publication_date": 20191216
+    },
+    {
+      "title": "Very satisfied for what I use this for",
+      "text": "Very satisfied for what I use this for, which is for basic firewall and as a wired router. I can get 94mb down on wired connections. Testing the wireless, it could only muster about 28mb. I was already using a D-Link Access Point (now connected the Cisco via ethernet) that can get me 38mb, so I disabled the wireless on the RV100W and using it only as a wired router and firewall, something I wanted to do anyway. I have no use for the VPN features so I cannot comment. Overall, very satisfied!",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Mark S. Detwiler",
+      "helpful_votes": 3,
+      "publication_date": 20160912
+    },
+    {
+      "title": "Stay away from this",
+      "text": "I work in IT and configure routers all the time. This thing is a piece of garbage. My $20 linksys router performs better than this. Right out of the box, my computer had some issues getting an IP assigned to it by the router. I went to the config page, and it LOADS SO SLOWLY. Every time you press you need to wait 4-5 seconds and it would KEEP disconnecting-- as in the router was straight up unpingable. After having to run through the config page about 6 times I decided to just say screw it and return this POS.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "Sysadmin",
+      "helpful_votes": 2,
+      "publication_date": 20180509
+    },
+    {
+      "title": "Great product at great price.",
+      "text": "Very great product at an incredibly low cost. I bought it so I could pass through specific ports to one of my internal computers, and I was impressed at the level of functionality of the UI. It's a bit slow to fully boot up, but otherwise I'll be purchasing more. I have only used it for about a week (starting Mid Jan 2016, but it will be running 24x7 at a customers facility passing through data for a dashboard TV. I will modify my review if anything happens to the device prematurely or it ceases to function well.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "James",
+      "helpful_votes": 2,
+      "publication_date": 20160131
+    },
+    {
+      "title": "DO NOT Buy this router or any Cisco Product",
+      "text": "From day one we had issues with this router--it had to be manually rebooted every day, every 19 to 22 hours, and then when we tried to get support it was a nightmare--support was externally rude and unhelpful and they also require you to give them all your personal information to get support and I mean everything--force you to create an online account and asks for way too much information just to want to get help.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "Africalion",
+      "helpful_votes": 0,
+      "publication_date": 20190108
+    },
+    {
+      "title": "You can do better.",
+      "text": "A major flaw in the firmware cause port forwarding to stop functioning on an almost daily basis, requiring reboot. Apparently this is occurs when a static IP is manually assigned to the destination computer. Initial setup and firmware update took multiple tries over days to finally take. Firewall function is not great. It has (barely) served it's purpose as a replacement for a router that failed after years of use. I would have returned this if I hadn't deployed it at a small remote office. I will definitely be replacing this in the near future when I make my next site visit. Pros: VLAN, multiple SSID, guest networks Cons: broken port forwarding, firewall exposes too much",
+      "rating": 2.0,
+      "verified": true,
+      "author": "Paul F",
+      "helpful_votes": 2,
+      "publication_date": 20150908
+    },
+    {
+      "title": "Router is excellent, wifi is decent",
+      "text": "Router is excellent, wifi is decent. Tons of business features that you don't find in a normal router: * guest wifi * vpn server (pptp) * port translation cons: attenas are not detachable.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Joyousdan",
+      "helpful_votes": 4,
+      "publication_date": 20161019
+    },
+    {
+      "title": "Stay away",
+      "text": "Business class for less than $100? I can understand why, its no good. I have to admit, the routers for home use constantly need to be rebooted to stay online. this does not, it does stay online even in bussy offices. BUT, if you do more complex things like port forwarding, then the router stops forwarding every 24 hours or so and needs to be rebooted. Also hair-pinning does not work on this router unless you update your firmware, and even that needs rebooting every once in a while.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "Soheil Sahimi",
+      "helpful_votes": 6,
+      "publication_date": 20121220
+    },
+    {
+      "title": "Your first indication that this equipment will suck is when they give you the reset directions before ...",
+      "text": "Doesn't work, call Cisco, they won't talk to you until you go online and register for a Cisco id first. Did that, had to enter a ton of information registering for an account, and in the end it didn't give me the required id, just said 'in a moment' so I told customer service, Gabriella, that I didn't get the id and she hung up on me. Your first indication that this equipment will suck is when they give you the reset directions before the install directions.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "carmolar",
+      "helpful_votes": 0,
+      "publication_date": 20180625
+    },
+    {
+      "title": "Solid router made by CISCO",
+      "text": "Used as a router in a small house and working well until now. a lot of features inside , I only needed it as router. easy to set up, works solid, I am looking for a new firmware in cisco page.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "J. Cardenas Rodriguez",
+      "helpful_votes": 0,
+      "publication_date": 20180309
+    },
+    {
+      "title": "Exceeded Expecatations",
+      "text": "I purchased this router for installation in a mobile communications center. The router has far exceeded our expectations. The wifi range is outstanding. It is stable and since it is a cisco product we gained access to the LAN we never had before on wifi. I liked it so much I replaced my home Belkin router with this one. I noticed that on some of the low reviews they were trying to do things you would need a much more expensive router to do.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Rmorgan",
+      "helpful_votes": 2,
+      "publication_date": 20150204
+    },
+    {
+      "title": "Unreliable, and needs to be rebooted one every day",
+      "text": "We run a Small Ofice with 4 Wifi Computer, 10 computers in the LAN and 2 Servers with Public Web Server The VPN IPSec Tunnilg was very hard to configure, but finally I get to make it work The DNS Service, very often stop working, so computers in the LAN start to get wrong address for a most URL, and to fixed the router has to be rebooted. The servers in the DMZ once every day stop getting conections from the Internet, and to fixed the router has to be rebooted. in conclusion is a veru Unreliable device, and it is updated to lates firmware.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "Roberto Sagastume",
+      "helpful_votes": 2,
+      "publication_date": 20130627
+    },
+    {
+      "title": "Flaky, poorly documented, bizarre configuration glitches",
+      "text": "This particular unit had some defect that caused it to reset itself sporadically and sometimes turn off altogether. Given that, I can't get too far into the functionality. The documentation is weak and often wrong. Some of the configuration options have bizarre side effects (as mentioned by other reviewers). For example, add a VPN user and it changes the router LAN address with a popup saying it is required. Then you get to guess what it changed to so you can reconnect and set it back. The admin interface was glitchy and slow and occasionally did not work at all. Maybe that was due to whatever physical defect was causing the reset.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "PNWConsumer",
+      "helpful_votes": 0,
+      "publication_date": 20130516
+    },
+    {
+      "title": "Not for small business but exceeds the average home router",
+      "text": "This product has all the features that is expected out of a home router and more. The router includes the VPN server feature that allows external connections to originate securely into the private network. The VPN feature also allows the router to connect to another VPN server as well. It allows multiple VLANs to separate the networks and the option to broadcast separate SSIDs to certain VLANs. As mentioned in the title, this model is low end for a small business but for the price, its a fantastic home router with added features.",
+      "rating": 4.0,
+      "verified": true,
+      "author": "TNT",
+      "helpful_votes": 23,
+      "publication_date": 20121211
+    },
+    {
+      "title": "More than capable small business router",
+      "text": "We've installed about a half dozen of these units over the last few months and have had no issues with them. We've used them for creating separate VLAN's for segmenting VoIP from data as well as separate VLAN's for guest networks. Once you learn the gui, they are a breeze to setup. We haven't used the VPN functionality, so I can't speak to that, but everything else is rock solid. I only dinged it a star because learning how to setup QOS for VoIP wasn't very intuitive and required some poking around on the Cisco forums. Otherwise, for a sub $100 firewall, it's hard to go wrong with this unit.",
+      "rating": 4.0,
+      "verified": true,
+      "author": "C. Ezell",
+      "helpful_votes": 0,
+      "publication_date": 20140208
+    },
+    {
+      "title": "Extremely reliable in a home network environment",
+      "text": "Great router. Super easy to set up with the fast Cisco web pages. Has been extremely reliable in a home network environment. It has a power on/off button which is great. Transmits by default a mixed mode of b/g/n network speeds or you can set it to only n speed if you desire.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Denver family",
+      "helpful_votes": 0,
+      "publication_date": 20160914
+    },
+    {
+      "title": "Lasted 4 years",
+      "text": "I purchased this router a little over 4 years ago and, while I loved all of the features and particularly the multiple networks, it died on me last night. My previous router lasted for 16 years. It's not the end of the world to replace it but I generally expect my purchases to last longer than this.",
+      "rating": 3.0,
+      "verified": true,
+      "author": "Will Maynard",
+      "helpful_votes": 0,
+      "publication_date": 20190916
+    },
+    {
+      "title": "Lot of features for the price",
+      "text": "For the price point this is a highly functional router supporting nice features like VLAN routing and VPN. It is configured via a web UI, no IOS command-line style capability in case you are wondering...The web interface is slow to respond, sometimes you have to click a link twice for it to pull up the page, but it is on par with similarly priced products with similar web interfaces.",
+      "rating": 4.0,
+      "verified": true,
+      "author": "Amazon Customer",
+      "helpful_votes": 0,
+      "publication_date": 20160820
+    },
+    {
+      "title": "This router is subpar in performance",
+      "text": "This router has a fine feature set, assuming it stays stable enough to use them.The performance, ie throughput, degrades over time and requires reboot. It degrades to the point where no device in my network can even sustain a 1Mb stream across a 50Mb fios connection. I would certainly not recommend this router to anyone who needs consistent performance neither would I purchase it again. Oh, also I have upgraded to the latest firmware to no avail.",
+      "rating": 2.0,
+      "verified": true,
+      "author": "Mr. T",
+      "helpful_votes": 0,
+      "publication_date": 20140715
+    },
+    {
+      "title": "Great  Features",
+      "text": "I have owned many routers/gateways. This one defiantly has more features than the previous. I mainly purchased for the VPN due to Apple's recent poor server upgrade to Mavericks. Took me a little while to get it configured but mostly due to my lack of knowledge. But Google is always there to rescue me. Many features that I will probably never use. It quick if not quicker than my Motorola cable modem built in router. (Which is the real reason I had difficulties configuring the Cisco) Its nice to have the features of a real router/gateway. Would recommend this product.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Nathan Erickson",
+      "helpful_votes": 0,
+      "publication_date": 20131105
+    },
+    {
+      "title": "Do not last and Cisco acts deft when you contact them",
+      "text": "These are not built tot last and will stop working after a year. Cisco acts as if they've never heard of the problem and of course don't want to help you if you don't have a service contract. Don't wast your money. If you do buy this router/firewall you will remember this review when yours fails.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "Frank",
+      "helpful_votes": 0,
+      "publication_date": 20160414
+    },
+    {
+      "title": "Great for small home network",
+      "text": "This is a great pickup for a small home/office setup. QoS seems to be a little flaky to setup but overall pretty good buy.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "James L Church II",
+      "helpful_votes": 0,
+      "publication_date": 20190430
+    },
+    {
+      "title": "For really small LANs only",
+      "text": "Only good for really small networks. Since it's based on 2011 tech, its underpowered for anything more than 10 clients",
+      "rating": 3.0,
+      "verified": true,
+      "author": "trilife",
+      "helpful_votes": 0,
+      "publication_date": 20190505
+    },
+    {
+      "title": "Great router but one 100Mb",
+      "text": "Great product if you don't need more than 100mb Ethernet. Tried this with FiOS and obviously it crumbled at the gigabit speed.",
+      "rating": 2.0,
+      "verified": true,
+      "author": "Edwin Peralta",
+      "helpful_votes": 0,
+      "publication_date": 20200310
+    },
+    {
+      "title": "never got the web config to work.",
+      "text": "Spent hours online trying to trouble shoot this thing. Can't connect to 192.168.1.1 to admin the thing. Tried multiple computers, resetting, all kind of IP4 configuration. Nothing.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "charles ernst",
+      "helpful_votes": 0,
+      "publication_date": 20190414
+    },
+    {
+      "title": "It's Cisco!",
+      "text": "One of the best routers for small business when it comes to bang for the buck.",
+      "rating": 4.0,
+      "verified": true,
+      "author": "Tim Smude",
+      "helpful_votes": 0,
+      "publication_date": 20180801
+    },
+    {
+      "title": "Garbage product and seller",
+      "text": "This router is only 3 months old and is already starting to fail. Cheap crap, and the seller won't accept returns.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "Kindle Customer",
+      "helpful_votes": 3,
+      "publication_date": 20160617
+    },
+    {
+      "title": "Good Product considering price.",
+      "text": "For the price, I'm happy with this product. That being said, it is lacking, (see other reviews) in what I expect from cisco. However, I expect a lot more from them in a much bigger price. So, in that regard, I'm happy. You want the best thing out there - Pay for it - You are looking for a router for your home that has more features for unique setups (like I need the different VLAN and Wireless networks - and a guest network), this is more than enough.",
+      "rating": 4.0,
+      "verified": true,
+      "author": "David Alan",
+      "helpful_votes": 0,
+      "publication_date": 20130305
+    },
+    {
+      "title": "This model is no longer supported",
+      "text": "Just bought this in March 2018 only to find out afterwards it has been end-of-lifed by Cisco and there's no support. Waste of money. Buy a 2018 model!",
+      "rating": 1.0,
+      "verified": true,
+      "author": "Susan B",
+      "helpful_votes": 0,
+      "publication_date": 20180402
+    },
+    {
+      "title": "85th Birthday",
+      "text": "My daughter gave me a KindleFire for my 85th BD. I love playing games and reading books, however it was frustrating not being able to read my email, because my home wasn't wireless - so my son-in-law helped me to install this great device. It was easier than I thought to install and now I can read me emails, order on-line and download books and music from the comfort of my easy chair in the living room.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Rock",
+      "helpful_votes": 0,
+      "publication_date": 20130619
+    },
+    {
+      "title": "The firewall works great but when i try to use the VPN i ...",
+      "text": "The firewall works great but when i try to use the VPN i run into all kinds of problems. i went on the Cisco site and even watch a video on how to set it up still didn't work so that's why i\"m giving it two start because that's the only reason why i got it and its still not working right.",
+      "rating": 2.0,
+      "verified": true,
+      "author": "Sandy Christian",
+      "helpful_votes": 0,
+      "publication_date": 20161202
+    },
+    {
+      "title": "Exceeded expectations",
+      "text": "I pretty thoroughly researched these devices before I purchased this. I was looking for a relatively cheap (<$125) firewall that still had good WAN-LAN throughput. I opted for this over the Zyxel USG20 and I'm thrilled with it so far. Arrived next day. It was easy to configure and I am getting 85Mbps throughput from WAN-LAN (limited by ISP bandwidth). This firewall is advertised at ~90Mbps and I'm happy to say it delivered. It's not often you purchase a product and it lives up to your expectations.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Nathan Durborow",
+      "helpful_votes": 2,
+      "publication_date": 20140430
+    },
+    {
+      "title": "Solid small business router.",
+      "text": "Works fairly well. The wifi is pretty good, and the product is easy to install and set up. Beware! Though this is a 'VPN' router, it will not do ipsec tunnels. You can only have client connection vpns plug in to it. As long as you aren't looking to run ipsec vpns this product should work well for you.",
+      "rating": 3.0,
+      "verified": true,
+      "author": "BeMobile",
+      "helpful_votes": 0,
+      "publication_date": 20140310
+    },
+    {
+      "title": "Great device purchased to eliminate the additional charge expense for ...",
+      "text": "Great device purchased to eliminate the additional charge expense for wireless service from my internet company. This router is so powerful and easy to install.................! made life much easier with all my wireless devices around the house I recommend highly this router to people who want to save $$ on wireless services",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Dora",
+      "helpful_votes": 0,
+      "publication_date": 20141105
+    },
+    {
+      "title": "Slow router at a very low price.",
+      "text": "Thought this was going to be an inexpensive way to upgrade security with great throughput. Can run faster than this device delivers the Internet. Gives electrons a bad reputation. Even tried Cisco Customer Support who suggested putting an inline switch that \"might increase your speed.\"",
+      "rating": 1.0,
+      "verified": true,
+      "author": "G. Eulo",
+      "helpful_votes": 0,
+      "publication_date": 20180618
+    },
+    {
+      "title": "Very unreliable for establishing VPNs between two private networks.",
+      "text": "I am an IT professional and this product is very unreliable for establishing VPNs between two private networks.",
+      "rating": 2.0,
+      "verified": true,
+      "author": "AARON P.",
+      "helpful_votes": 0,
+      "publication_date": 20180306
+    },
+    {
+      "title": "Excellent Cisco Standard Reliability",
+      "text": "Range is good (not the best) however the stability of the router's performance is up to other Cisco product standards (the best in class). Never have to reset and as easy to configure as mainstream routers. Highly recommended for users seeking reliability over range.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "TossedSalad",
+      "helpful_votes": 0,
+      "publication_date": 20160512
+    },
+    {
+      "title": "Limited VPN Client support - No Apple devices!",
+      "text": "While the description says IPSec and PPTP, the IPSec is only available for site-to-site tunnels, not VPN Clients. For VPN clients, they have their QuickVPN client (Windows only, unknown protocol), and PPTP, which is not secure and will not longer be supported in iOS 10 and MacOS Sierra. Since I'm using Apple clients, that leaves me with no way to connect.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "WB",
+      "helpful_votes": 5,
+      "publication_date": 20160831
+    },
+    {
+      "title": "Just okay",
+      "text": "Works well for multiple SSIDs (4) and VLAN management, but that is about it. Just enabling the bandwidth management chokes it and there is an issue with WDS, a feature I wanted but did not research it thoroughly enough with this product (search it in Cisco KB and see that they still cannot get it right). Latest IOS is no help. Too bad - waste of money.",
+      "rating": 3.0,
+      "verified": true,
+      "author": "Dropple",
+      "helpful_votes": 0,
+      "publication_date": 20120508
+    },
+    {
+      "title": "Great solid product for small businesses",
+      "text": "Does everything we need for a small business. VPN, DDNS (with a large selection of servers, such as no-ip.com) and so forth. Have three of those in my three locations, no-brainer, just does the job well. Wish Cisco would manufacture this for 19\" rack mount.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Solar_Ize",
+      "helpful_votes": 0,
+      "publication_date": 20140720
+    },
+    {
+      "title": "So far so good.",
+      "text": "Its been over 2 years since I bought it and still going strong.SA",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Crawdaddy",
+      "helpful_votes": 0,
+      "publication_date": 20180214
+    },
+    {
+      "title": "Good router but drops wireless with the latest firmware",
+      "text": "I just purchased this router. So far it's performance is really good. The only problem is that even with the latest review (1.2.0.9) it keeps randomly dropping the wireless connection. It might stay up for several hours or just drop it every 20 min. Since I've a NAS in my network I had to purchase a basic linksys to be able to have a reliable acccess to the NAS. I went to Cisco website and this product is not eligible to open a case nor to chat with a Cisco expert. I hope Cisco solves this problem soon.",
+      "rating": 3.0,
+      "verified": true,
+      "author": "vwrodrigo",
+      "helpful_votes": 2,
+      "publication_date": 20120723
+    },
+    {
+      "title": "Did not work properly",
+      "text": "Router stopped work after one month and I spent many hours talking from Cisco IT department. I called back after one month to Cisco IT department, my Wifi stopped working, One of girl from IT said call Amazon to get help then I return the product to Amazon.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "shah",
+      "helpful_votes": 0,
+      "publication_date": 20180208
+    },
+    {
+      "title": "Fantastic, cheap",
+      "text": "Purchased in 2011. Still going strong. Fantastic, cheap, wireless router with advanced features one might expect in a much more expensive package.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Druid",
+      "helpful_votes": 0,
+      "publication_date": 20171205
+    },
+    {
+      "title": "Another good Cisco Product",
+      "text": "Great little router and firewall by Cisco. The only issue is getting the VPN to play nice. It takes some time to set up but after that it works great.",
+      "rating": 4.0,
+      "verified": true,
+      "author": "TWDesigns",
+      "helpful_votes": 0,
+      "publication_date": 20161110
+    },
+    {
+      "title": "PIece of garbage",
+      "text": "Multiple failures, VPN setup (point to point) is crap and doesn't work. It would work one way, then we'd reboot and it'd work the other way, etc. Was a complete waste of time, for some reason I had hope Cisco made descent SMB equipment but please don't buy this if you need P2P VPN. Additionally, we had wireless printers that wouldn't keep their IP's with these models - we bought another device and it worked fine. Please don't waste your time buying this.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "Sean",
+      "helpful_votes": 7,
+      "publication_date": 20140622
+    },
+    {
+      "title": "This is a stable router. I have not used ...",
+      "text": "This is a stable router. I have not used the advanced features, but I have had this plugged in at my house for a year plus with no issues or resets.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Jake L",
+      "helpful_votes": 0,
+      "publication_date": 20160308
+    },
+    {
+      "title": "Do not buy",
+      "text": "Does not work it does not have vpn it is only a firewall for vpn completely sucks and Cisco is worse",
+      "rating": 1.0,
+      "verified": true,
+      "author": "AngevinVDVM",
+      "helpful_votes": 0,
+      "publication_date": 20180426
+    },
+    {
+      "title": "loved this router i have a small business",
+      "text": "loved this router i purchased it on May 4, 2016 and it pooped out on me a couple of days ago so it lived less then two years...",
+      "rating": 3.0,
+      "verified": true,
+      "author": "david.w",
+      "helpful_votes": 0,
+      "publication_date": 20160608
+    },
+    {
+      "title": "Very good and easy to use router",
+      "text": "Im an IT business consultant and have been buying this router for small businesses for years now. It will improve overall speed if you have a home router and security as well. Very easy to configure.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Castellanos Consulting",
+      "helpful_votes": 0,
+      "publication_date": 20180426
+    },
+    {
+      "title": "Good features poor documentation",
+      "text": "Router has a good set of features for the small business that wants to create a secure vpn. VPN setup using the QuickVPN client software is a bit of a trick involving software firewall settings on the remote computers. Documentation on this is poor but cisco's website has answers support forums.",
+      "rating": 3.0,
+      "verified": true,
+      "author": "Superiorfan",
+      "helpful_votes": 2,
+      "publication_date": 20131224
+    },
+    {
+      "title": "Works as advertised",
+      "text": "Bought this as a replacement for a Netgear firewall which periodically lost its Internet connection. As I received poor customer service from Netgear, I decided to try Cisco. This firewall works just as advertised and also has an on/off button so that you can turn it off instead of unplugging the power cord (which in the case of an old Netgear firewall led to the connector cracking on the power cord). This firewall was also half the cost of the Netgear firewall.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "lnbelvin",
+      "helpful_votes": 0,
+      "publication_date": 20130406
+    },
+    {
+      "title": "CISCO Systems Enterprise router",
+      "text": "This is so easy to set up. Just make sure you use [...] instead of 192.168.1.1 which NEVER works!",
+      "rating": 5.0,
+      "verified": true,
+      "author": "C. A. Brekke (nee Isbell)",
+      "helpful_votes": 0,
+      "publication_date": 20161112
+    },
+    {
+      "title": "Junk",
+      "text": "Bought to use at home to replace an older G router. I live alone and have 3 sonos devices, 1 ipad, 1 droid and a roku box all using the wireless connections. Typically I'd run either the roku or sonos device while using my ipad or droid. Not what I would consider heavy traffic. Product has good reviews, but right from the start the router would lockup and need to be rebooted weekly. Ended using powerline ethernet solution instead. Randy",
+      "rating": 1.0,
+      "verified": true,
+      "author": "Rvetter",
+      "helpful_votes": 0,
+      "publication_date": 20140610
+    },
+    {
+      "title": "My go to Router - NO ISSUES AT ALL!!!",
+      "text": "I am very Biased when it comes to this Router - I have ordered it before but will be utilizing the company again for orders. No issues with product or configuration. My customer is happy which makes me happy",
+      "rating": 5.0,
+      "verified": true,
+      "author": "LFord",
+      "helpful_votes": 2,
+      "publication_date": 20140730
+    },
+    {
+      "title": "Working Nicely!",
+      "text": "I needed to share my DSL connection with my Windows laptop and PC, my iPad, and my iPhone. After considerable research on Cisco's website, I selected this unit. It arrived promptly, setup was about ten minutes, and all my devices connected on the first try. The router has been up for a week or so with no interruptions or disconnects. I'll be purchasing another for my wife's business - five stars for this one!",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Robert",
+      "helpful_votes": 0,
+      "publication_date": 20121019
+    },
+    {
+      "title": "Priced right",
+      "text": "The key factor to this router for the two I purchased for small business was the ability to seperate the SSID in to multiple VLAN's. I have not used the VPN feature, so I can not comment about that. This has a great price for it being a Cisco product (who may be more known as Linksys for those not in the IT world). The two I have installed have had no issues & setup was a breeze.",
+      "rating": 4.0,
+      "verified": true,
+      "author": "Chris Bx",
+      "helpful_votes": 0,
+      "publication_date": 20130116
+    },
+    {
+      "title": "Five Stars",
+      "text": "Works great and no drop probs like we have with the old one. Yes, it is an awesome deal.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "John P. Wilkie",
+      "helpful_votes": 0,
+      "publication_date": 20160805
+    },
+    {
+      "title": "Cisco RV110W-A-NA-K9 Small Business RV110W Wireless N VPN Firewall Router",
+      "text": "Purchased this for my friend's home. It's used with DSL, and besides basic internet and VPN function, not much other functions are used. It's been about 6 month and this is working fine.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Sabako",
+      "helpful_votes": 0,
+      "publication_date": 20131212
+    },
+    {
+      "title": "Good in all ways working",
+      "text": "Good in all ways working, but very disappointed by the lack of password protection for the wifi. I live in the country, so not too big a problem, but it's worth noting for others buying.",
+      "rating": 4.0,
+      "verified": true,
+      "author": "Anne Solari",
+      "helpful_votes": 0,
+      "publication_date": 20150419
+    },
+    {
+      "title": "The signal is very robust",
+      "text": "We like the product, WIFI signal is reliable and strong",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Richard ",
+      "helpful_votes": 0,
+      "publication_date": 20181016
+    },
+    {
+      "title": "solid router, haven't tested vpn yet.",
+      "text": "great wireless throughput. faster than my netgear N150. It nearly doubled the transfer rate. It's what you want in a home router, boring and dependable.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Jeepboy1993",
+      "helpful_votes": 0,
+      "publication_date": 20140411
+    },
+    {
+      "title": "Working as advertised. Admin interface could be better. Average wireless range.",
+      "text": "Working as advertised. The admin interface could be a bit better but gets the job done. The wireless range is not the best either.",
+      "rating": 3.0,
+      "verified": true,
+      "author": "N3cr0n0Tr0n",
+      "helpful_votes": 0,
+      "publication_date": 20161104
+    },
+    {
+      "title": "Flexible security",
+      "text": "Simple setup with the ability to control numerous network aspects.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Tim Thornton",
+      "helpful_votes": 0,
+      "publication_date": 20161215
+    },
+    {
+      "title": "58/5000 I did not buy the right model had rather ...",
+      "text": "58/5000 I did not buy the right model had rather needed a rv130",
+      "rating": 3.0,
+      "verified": true,
+      "author": "Alain Lirette",
+      "helpful_votes": 0,
+      "publication_date": 20180424
+    },
+    {
+      "title": "Easy to set up, great range",
+      "text": "No complaints, set this up at a small business for a friend, and it took me all of ten minutes to have everything configured and running. Six months later, and he still loves it.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Anthony Tyler",
+      "helpful_votes": 0,
+      "publication_date": 20150202
+    },
+    {
+      "title": "Works as Advertised",
+      "text": "Works great but is hard to access once set up. I hope it never goes down because I can't get into it via the 192.168 etc",
+      "rating": 4.0,
+      "verified": true,
+      "author": "emklees",
+      "helpful_votes": 0,
+      "publication_date": 20151119
+    },
+    {
+      "title": "Good Router",
+      "text": "Bought this to replace an old router that kept going offline. This has been dependable and have not had any problems for the past 9 months. Very good range for my whole house. It is a little hard to setup, so read the instructions carefully.",
+      "rating": 4.0,
+      "verified": true,
+      "author": "Jim27KC",
+      "helpful_votes": 0,
+      "publication_date": 20150106
+    },
+    {
+      "title": "Did not have the latest software and continues to fail",
+      "text": "When I received it it did not have the latest software and caused my customer a lot of down time due to an issue with port forwarding. Even after the upgrade it still continues just not as often so I'm in the process of replacing it.",
+      "rating": 2.0,
+      "verified": true,
+      "author": "TaylorMadeMan",
+      "helpful_votes": 0,
+      "publication_date": 20140302
+    },
+    {
+      "title": "Great little small business router for not much more than the residential products",
+      "text": "This router has some great figures and configurability for the price. Out of the box plug-n-play probably works for most people, but if you're configuring your router for remote access or VoIP, the features are extensive. QoS has lots of options. I also like the fact that you can redirect ports. With all routers, you can redirect the IP address, but with many residential products you can't change the port number. You can with the RV110W, which makes configuring network devices a lot easier. Coming from NetGears, DLinks, and LinkSyses, there was a short learning curve trying to figure out Cisco's names for things, but once I figured it out configuration was easy.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "JaguarOT",
+      "helpful_votes": 0,
+      "publication_date": 20140412
+    },
+    {
+      "title": "Very good \"router\"",
+      "text": "Havent used all features but so far its a pretty good router.. Doesnt have Gb speeds its 802.11 g/n accessible.. Used GUI to configure it - very robust - many features - (havent bothered to see if a CMI using Telnet or SSH would work - maybe later)",
+      "rating": 5.0,
+      "verified": true,
+      "author": "EZ like All Day Sunday",
+      "helpful_votes": 0,
+      "publication_date": 20130528
+    },
+    {
+      "title": "what if I have three RV110W",
+      "text": "I have three locations to setup VPN connections, but RV110W is only providing one VPN Tunnel. What is the best model of VPN Router to place in the central location where I can connect with two other locations with RV110W installed? RV180W & RV220W seem to adopt a different VPN protocol with different configuration interface, and I failed to setup the VPN tunnel between RV220W & RV110W. This leads to my first question of choosing which router for the central VPN Tunnel location.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "YJ",
+      "helpful_votes": 0,
+      "publication_date": 20130219
+    },
+    {
+      "title": "Cisco RV 110W  Works well for my needs.",
+      "text": "Configured as a wired / wireless router and site to site VPN. ISP is Cablevision ... configured VPN with a Sonic wall NSA 2400. Used in a small remote office with 3 people. Also configured a local network printer on one of the lan ports. Also configured wireless for additional staff when visiting. Works well and considered for temporary setups of remote job sites.",
+      "rating": 4.0,
+      "verified": true,
+      "author": "Amazon Customer",
+      "helpful_votes": 0,
+      "publication_date": 20131208
+    },
+    {
+      "title": "GQ, much less expensive than other brands.",
+      "text": "Really love my new router, been holding out for the upgrade, so glad I chose this one. All the capabilities to play with half the cost of others.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "awsengr",
+      "helpful_votes": 0,
+      "publication_date": 20150714
+    },
+    {
+      "title": "Works great!",
+      "text": "I purchased this router based on a recommendation from my internet service provider's tech support. I had been having interruptions in service, and it was diagnosed as an attempted \"hack\" from someone using Yahoo Messenger. I don't know exactly how that works, but once I got this router installed the service worked fine and I did not get bumped off line anymore. I don't know much technical stuff, but it has some sort of a firewall in it that protects against that type of a hack. I don't know how any of this works, but I do know Problem Solved!",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Kathy",
+      "helpful_votes": 0,
+      "publication_date": 20120416
+    },
+    {
+      "title": "URL will not open to set password",
+      "text": "Never could setup router password, can\u2019t use it at all",
+      "rating": 1.0,
+      "verified": true,
+      "author": "Kristi wages",
+      "helpful_votes": 0,
+      "publication_date": 20180528
+    },
+    {
+      "title": "It's the real deal.",
+      "text": "Works great, never needs a reset, great range and it has more business class features that I can use, Very good value.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Dominic",
+      "helpful_votes": 0,
+      "publication_date": 20140731
+    },
+    {
+      "title": "Getting more fast speed down load.",
+      "text": "It is very easy to install from Cisco online guiding instructions and test the connection through the networks Wifi and security safety firewall.",
+      "rating": 4.0,
+      "verified": true,
+      "author": "dangf28",
+      "helpful_votes": 0,
+      "publication_date": 20140412
+    },
+    {
+      "title": "A great router",
+      "text": "This router worked perfect for what I needed it for. A good business-class router.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "crasagam",
+      "helpful_votes": 0,
+      "publication_date": 20150225
+    },
+    {
+      "title": "Three Stars",
+      "text": "too difficult to set up. tech support time is limited.",
+      "rating": 3.0,
+      "verified": true,
+      "author": "Amazon Customer",
+      "helpful_votes": 0,
+      "publication_date": 20160706
+    },
+    {
+      "title": "Good product. It works",
+      "text": "However, I was hoping the firewall was already preset. I had to create rules in order for the firewall to work. I would have preferred it with rules preset.",
+      "rating": 3.0,
+      "verified": true,
+      "author": "User",
+      "helpful_votes": 0,
+      "publication_date": 20140221
+    },
+    {
+      "title": "Worth a look at this price!",
+      "text": "The router is very good for a more secure home router. The quick vpn options are nice and it offers a lot of features. If you have trouble configuring routers or do not know what you're doing maybe keep looking. If you have some technical skill and are looking for a nice upgrade to an old or crappy router this is a great option.",
+      "rating": 4.0,
+      "verified": true,
+      "author": "Jacob Negrete",
+      "helpful_votes": 0,
+      "publication_date": 20131125
+    },
+    {
+      "title": "Five Stars",
+      "text": "cisco is always a top quality manufacture. Just what I expected for them.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "griman",
+      "helpful_votes": 0,
+      "publication_date": 20140716
+    },
+    {
+      "title": "Good for a small business that doesn't need a VPN.",
+      "text": "This unit does the job for the price at giving my client a decent firewall at a cheap price... too bad it is not worth much as a VPN device.",
+      "rating": 4.0,
+      "verified": true,
+      "author": "Mergathal",
+      "helpful_votes": 0,
+      "publication_date": 20140214
+    },
+    {
+      "title": "good router",
+      "text": "i use this in my home and it works pretty well but if the internet speed increases any more from where i am at 100mps then i will have to get a different one",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Bubba101",
+      "helpful_votes": 0,
+      "publication_date": 20140117
+    },
+    {
+      "title": "No VPN client software for Windows 8 o 10...",
+      "text": "Doesn't work at all with Windows 8 or Window 10... There is no software upgrade or VPN client software for this operation systems.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "Diego",
+      "helpful_votes": 0,
+      "publication_date": 20160121
+    },
+    {
+      "title": "Four Stars",
+      "text": "Works really well and is relatively easy to set up. It's a keeper.",
+      "rating": 4.0,
+      "verified": true,
+      "author": "Carl Val",
+      "helpful_votes": 0,
+      "publication_date": 20160516
+    },
+    {
+      "title": "Four Stars",
+      "text": "A little slow and quirky, but it gets the job done.",
+      "rating": 4.0,
+      "verified": true,
+      "author": ":pow",
+      "helpful_votes": 0,
+      "publication_date": 20150905
+    },
+    {
+      "title": "Excellent product",
+      "text": "Stay away from Lynksys but this one from Cisco (not Lynksys) still works very good in my huge 3 floors building with a longer of 300 feet.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "AnahoPrd",
+      "helpful_votes": 0,
+      "publication_date": 20120705
+    },
+    {
+      "title": "Good office WiFi router, works just fine for business applications",
+      "text": "No surprise Cisco-Linksys router for business/office use. Good router once it is configured right. I set up routers every week as an IT professional and I use a lot of equipment from Cisco-Linksys.",
+      "rating": 4.0,
+      "verified": true,
+      "author": "Amazon Customer",
+      "helpful_votes": 0,
+      "publication_date": 20130910
+    },
+    {
+      "title": "great router",
+      "text": "great router, easy to configure... dont know whay it has such a low rating",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Muru",
+      "helpful_votes": 0,
+      "publication_date": 20141115
+    },
+    {
+      "title": "Small Device, lots of options",
+      "text": "Totally recommended (affordable) wireless router for small business with secured guest wireless (separate VLAN) with login web page and limited/unlimited login time. Easy to install and configure for network knowledgeable person.",
+      "rating": 4.0,
+      "verified": true,
+      "author": "kimosabe",
+      "helpful_votes": 0,
+      "publication_date": 20130903
+    },
+    {
+      "title": "Great product",
+      "text": "I installed these in a public library and they work outstanding. Routing and firewall features all in one. I would definitely recommend it.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Ncharg",
+      "helpful_votes": 0,
+      "publication_date": 20130617
+    },
+    {
+      "title": "Great Throughput",
+      "text": "Wonderful and FAST wireless router, has many GREAT features! Speed up your switch or system with this fast little workhorse. Includes VPN feature set!",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Paul Atchison",
+      "helpful_votes": 0,
+      "publication_date": 20130929
+    },
+    {
+      "title": "Five Stars",
+      "text": "Amazing.. Running my own web server with this is super easy.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Tycho",
+      "helpful_votes": 0,
+      "publication_date": 20150317
+    },
+    {
+      "title": "CISCO RV110W-A-NA-K9",
+      "text": "It's used in a small office as a wireless router and for a remote VPN. Nothing fancy but works just fine.",
+      "rating": 4.0,
+      "verified": true,
+      "author": "Ken Robbins",
+      "helpful_votes": 0,
+      "publication_date": 20130112
+    },
+    {
+      "title": "Not really meant for normal users",
+      "text": "Brought this from Amazon under the *wrong* impression that I could access my VPN account on the router thus freeing a login on every client machine.This thing is apparently for incoming VPN connections only, not outgoing ones to non-cisco providers. There is no way to enter in a username and password for a service like private internet access or hide my a s s or other services. I also looked into getting a DDWRT binary for it but found none.",
+      "rating": 2.0,
+      "verified": true,
+      "author": "husainkb",
+      "helpful_votes": 0,
+      "publication_date": 20141222
+    },
+    {
+      "title": "Four Stars",
+      "text": "Great product does everything I need. Vpn works but is complicated.",
+      "rating": 4.0,
+      "verified": true,
+      "author": "Josh H.",
+      "helpful_votes": 0,
+      "publication_date": 20150214
+    },
+    {
+      "title": "Got what we needed, it is a good product",
+      "text": "Just what we expected good quality, I would order again from this vendor. if you are looking for good WiFi switch with firewall these do the job.",
+      "rating": 4.0,
+      "verified": true,
+      "author": "Sky",
+      "helpful_votes": 0,
+      "publication_date": 20131022
+    },
+    {
+      "title": "... Linksys WRT54GI have to say the feature set is awesome on this little router",
+      "text": "This was bought as a replacement of a Linksys WRT54GI have to say the feature set is awesome on this little router. And little is the keyword. Small but very powerful. Features like multiple SSID', guest networking, DMZ, VLAN, DHCP and a whole host of features make this in my opinion a best buy. The admin UI is intuitive if you've ever dealt with other Cisco products. Think about it, with VLAN, DMZ and a separate SSID you could even build your own honeypot.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "A. Pelliccio",
+      "helpful_votes": 0,
+      "publication_date": 20150530
+    }
+  ],
+  "product_meta": {
+    "title": "Cisco RV110W-A-NA-K9 Small Business RV110W Wireless N VPN Firewall Router",
+    "description": "The Cisco RV110W Wireless-N VPN Firewall combines simple, highly secure wired and wireless connectivity for small offices/home offices and remote workers with a high-speed, 802.11n wireless access point; a 4-port 10/100 Mbps Fast Ethernet switch; an intuitive, browser-based device manager; and support for the Cisco FindIT Network Discovery Utility, at a very affordable price. Its combination of business-class features, support for virtual networks to enable highly secure guest access, simple installation, and top-quality user experience takes basic connectivity for a small business with five or fewer employees to a new level. Cisco RV110W VPN Appliance RV110W-A-NA-K9 Network Security & Firewalls .\n\nAMAZON.COM\n\n\n\n\nFROM THE MANUFACTURER\n\n\nThe typical configuration for Cisco RV110W Wireless-N VPN Firewall. View larger\nOffering simple, affordable, highly secure, business-class connectivity The Cisco RV110W Wireless-N VPN Firewall provides simple, affordable, highly secure, business-class connectivity to the Internet for small offices/home offices and remote workers. The Cisco RV110W combines wired and wireless connectivity for small offices and remote workers with a high-speed 802.11n wireless access point, a 4-port 10/100 Mbps Fast Ethernet switch, an intuitive, browser-based device manager, and support for the Cisco FindIT Network Discovery Utility--all at a very affordable price. Its combination of business-class features, support for virtual networks to enable highly secure guest access, simple installation, and top-quality user experience takes basic connectivity for small businesses with five or fewer employees to a new level.\n\nConnecting multiple devices is easy with the integrated 4-port 10/100 switch. View larger WIRELESS VPN CONNECTIVITY\nThe Cisco RV110W Wireless-N VPN Firewall features high-speed, standards-based 802.11n wireless connectivity improves throughput and coverage, allowing employees to stay productive while away from their desks. Support for the Cisco FindIT Network Discovery Utility means your employees are never far away from a way to get more work done.\n\nWhen business clients come to you, the RV110W provides support for separate \"virtual\" networks, enabling you to control access to sensitive information and to set up highly secure wireless guest access.\n\nCONNECT MULTIPLE DEVICES\nThe integrated 4-port 10/100 switch, enabling you to connect to computers, printers, IP phones, cameras, and other devices. With support for IPv6, the latest Internet Protocol technology, your network can accommodate new technologies both inside and outside the office.\n\nCONFIGURABLE FIREWALL\nProven firewall with access rules support and advanced wireless security helps keep business assets safe. Quality of service (QoS) support ensures enhanced voice, video, and data traffic. IP Security (IPsec) and Point-to-Point Tunneling Protocol (PPTP) VPN support provides highly secure remote access connectivity for Windows and Mac OS computers. It's all handled via simplified configuration through an intuitive, browser-based device manager.\n\nWHAT'S IN THE BOX\nRV110W Wireless-N VPN Firewall, documentation and software on CD-ROM, network cable, power adapter, and quick-start guide.\n\nCOMPLETE YOUR SMALL BUSINESS NETWORK WITH THESE CISCO PRODUCTS\nThe Cisco NSS 322 2-Bay Smart Network Attached Storage. As the amount of electronic data your small business generates continues to grow the Cisco NSS 322 combines affordability with high performance to help you meet -- and exceed -- the data protection demands of your small business.\n\nThe Cisco SF 100D-05 5 Port Desktop 10/100 Switch. Eliminate the hassle of expanding your small business network by using the Cisco SF 100D-5 5-Port 10/100 Switch, a Cisco Small Business Unmanaged Switch, to connect your business for performance and ease of use.\n\nThe Cisco VC220 Dome Netowrk Camera. The Cisco VC 220 Dome Network Camera -- as a standalone camera or used with other cameras -- acts as an extra pair of eyes, providing a state-of-the-art surveillance solution at a price you can afford.\n\nWHICH CISCO SMALL BUSINESS ROUTER IS RIGHT FOR YOU?\n\nRV110W \nRV120W \nRV220W \nRVS4000 \nWRVS4400N \nRV042 \nRV082 \nRV016 Wireless b/g/n b/g/n b/g/n No b/g/n No No No WAN Ports 1 - 10/100 1 - 10/100 1 - 10/100/1000 1 - 10/100/1000 1 - 10/100/1000 2 - 10/100 2 - 10/100 7 - 10/100 LAN Ports 4 - 10/100 4 - 10/100 4 - 10/100/1000 4 - 10/100/1000 4 - 10/100/1000 4 - 10/100 8 - 10/100 13 - 10/100 Max VPN Connections 5 10 25 5 5 50 100 100 VPN Speed (Mbps) 5 25 90 2 2 59 97 97 NAT Speed (Mbps) 90 100 800 800 800 100 200 200 QoS IPv6 \n\nSee more",
+    "rating": 3.6,
+    "feature_bullets": [
+      "Integrated 4-port Fast Ethernet switch for connecting PCs, printers, and IP phones",
+      "Quality of service (QoS) support for enhanced voice, video and data traffic",
+      "Includes an intuitive browser-based device manager and setup wizards for easy configuration",
+      "Support for separate ?virtual? networks, enables you to control access to sensitive information and to set up highly secure wireless guest access",
+      "High-speed, standards-based 802.11n wireless connectivity provides better throughput and coverage,",
+      "Allows employees to stay productive while away from their desks",
+      "Enables you to access files on your business network securely when you are away from office",
+      "High-speed, standards-based 802.11n wireless connectivity provides better throughput and coverage,",
+      "IPv6 enabled to support the latest Internet Protocol technology, enabling your network to support new technologies",
+      "Support for IP Security (IPsec) and Point-to-Point Tunneling Protocol (PPTP) VPN for highly secure remote-access client connectivity"
+    ],
+    "specifications": {
+      "Product Dimensions": "5.91 x 5.9 x 1.18 inches",
+      "Item Weight": "9.8 ounces",
+      "ASIN": "B004ZMXE66",
+      "Item model number": "RV110W-A-NA-K9",
+      "Customer Reviews": "3.6 out of 5 stars239 ratings3.6 out of 5 stars",
+      "Best Sellers Rank": "#60,098 in Electronics",
+      "Is Discontinued By Manufacturer": "No",
+      "Date First Available": "October 21, 2017",
+      "Manufacturer": "CISCO SYSTEMS - ENTERPRISE"
+    },
+    "categories": [
+      "Computers & Accessories",
+      "Electronics",
+      "Routers",
+      "Networking Products"
+    ],
+    "price": 123.8
+  }
+}

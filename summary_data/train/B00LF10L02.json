@@ -1,0 +1,958 @@
+{
+  "website_summaries": [
+    {
+      "verdict": "The Samsung SSD 850 Pro is one of the best standard consumer-grade solid-state drives on the market, but there are cheaper alternatives with similar performance.",
+      "pros": [
+        "The Samsung SSD 850 Pro has fast performance, high endurance -- you can write a lot of data to it before it becomes unreliable -- and its 2TB capacity is the highest on the market",
+        "The drive comes with a lot of useful features, including encryption, and a great performance-boosting mode called Rapid"
+      ],
+      "cons": [
+        "The drive is expensive compared with competing solid-state drives",
+        "The Samsung Magician software only works with Windows"
+      ],
+      "aspects": {
+        "Setup": 8.0,
+        "Features": 9.0,
+        "Performance": 9.0,
+        "Support": 10.0
+      },
+      "publication_date": 20150706,
+      "rating": 8.9,
+      "source": "cnet"
+    }
+  ],
+  "customer_reviews": [
+    {
+      "title": "FAST!  Reliable!",
+      "text": "Of all of the 128GB SSD drives available, this one has proven to last the longest in read/write testing - over 2 PETABYTES before failing. I use this on my home server (Gigabyte Z170X Gaming 7, Windows Server 2012R2, SQL Server 2012, Visual Studio 2014, etc. etc.) Very fast loading. I have a total of 12TB of storage on the server; several of the drives are SSD and this beats them, hands down. When the Samsung SM961 m.2 comes out, I'll move this drive to my laptop. Here's the proof on the durability and longevity: [...]",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Clyde L. Wilson",
+      "helpful_votes": 0,
+      "publication_date": 20160928
+    },
+    {
+      "title": "Almost plug and play",
+      "text": "Outstanding performance. I did have some \"data migration\" issues as my system disk did not have a reserved space for the boot loader. It was in the primary partition, which is legal. Eventually I was able to solve the problems. Samsung tech support was pretty good at giving me hints on what to try. I will say to others, \"don't screw around with your BIOS settings\". If you don't have a plain vanilla system you may have issues. Also, your motherboard may not support the latest SATA features, which can cause you some head scratching before things are sorted out.",
+      "rating": 4.0,
+      "verified": true,
+      "author": "Amazon Customer",
+      "helpful_votes": 0,
+      "publication_date": 20150208
+    },
+    {
+      "title": "These SSD's changed my life!",
+      "text": "HOORAY FOR SSD's! I bought 2 of these, first this 128GB and then quickly realized I needed more space so I bought the 250GB one. I installed both in the PC I built myself 5 years ago and am now booting windows from an SSD and boy is it fast! Running adobe software like photoshop, premiere pro, audition and after effects is like a dream now with these! I store all documents and files on some regular WD green drives and save these babies to do all the heavy lifting running programs. I couldn't be happier!",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Kate MahoneyTop Contributor: Cooking",
+      "helpful_votes": 0,
+      "publication_date": 20160322
+    },
+    {
+      "title": "The standard for SSDs, as far as I'm concerned",
+      "text": "WOW! This SSD is FAST. See the picture below. That is with RAPID enabled. I'm coming from a Samsung 840 and this is a ridiculous upgrade from that. Even coming from the 840, I notice a much faster reboot cycle. I'm very happy with this purchase. Can't complain one bit. Samsung Magician and Samsung Data Migration Software are wonderful. I cloned my SSD in about 12 minutes (128GB) and the installation process was so simple. Really can't recommend Samsung enough for your SSD needs.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Aaron",
+      "helpful_votes": 0,
+      "publication_date": 20150702
+    },
+    {
+      "title": "Great SSD, perfect for a media center",
+      "text": "Great SSD; Used to build a i5 media PC; using the ASUS VM60-G106M and Crucial 8GB Kit (4GBx2) DDR3 1600 MT/s (PC3 -... Crucial. Paired with a touch screen monitor. Installed the RC wnidows 10 and kodi(xbmc); system is blazing fast with 0 lag. Exactly what I was looking for in a media center. Now have a complete media station in kitchen that can stream just about anything from hbogo, to latest cooking techniques on youtube; or feed my netflix addiction.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "zerobane",
+      "helpful_votes": 0,
+      "publication_date": 20150513
+    },
+    {
+      "title": "#1 for a reason......",
+      "text": "Best drives for the reasons already stated by others, huge warranty, best speeds, computers FLY at boot up. This IS the biggest bang for the buck you can do to your system, even better than extra memory. Once you have an SSD, its almost impossible to tolerate a standard hard drive in your computer systems. Expensive per GB? Yep, but use it as only a boot drive or for needed games, programs, and put your crap on a cheap standard drive.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Ann",
+      "helpful_votes": 0,
+      "publication_date": 20150909
+    },
+    {
+      "title": "Performs as advertised - plus a little more!",
+      "text": "This thing is pretty fast. I put it up against my Intel 730 SSD and got slightly better #'s 97,436 Random Read IO 399.10 MBPS .32 avg MS response time (This is where I see others fail, keep your AVG & peak response times down, the entire system performs better) 88,991 Random Write IO 364.43 MBPS .35 avg MS response time. All in all pretty hearty, well constructed.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "NC",
+      "helpful_votes": 0,
+      "publication_date": 20150120
+    },
+    {
+      "title": "Works great!",
+      "text": "I purchased this for my Windows 7 computer in anticipation of Windows 10. I installed it and transfered my operating system over to it with the included software without a hitch. I can't believe how much faster my system boots up now! My Windows experience score for my Hard Drive went from 6.9 to 7.7. If I bother to upgrade my graphics card I'll have a super system. lol... I'd buy another one of these drives in a heartbeat if needed.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "NLWPS of Amherst",
+      "helpful_votes": 0,
+      "publication_date": 20150623
+    },
+    {
+      "title": "BLAZINGLY fast!",
+      "text": "This drive brought an older i3 laptop back to life! The computer now boots to the desktop under 4 seconds. Shuts down within 3 seconds of clicking shut down. I will have to get one of these for my gaming machine after seeing what it did for a little i3 laptop! If you are looking for a new hard drive and not sure what to get, I would recommend this drive over any other SSD because of how fast it is! I see another one of these in my near future for my gaming machine!",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Jeremy C.",
+      "helpful_votes": 0,
+      "publication_date": 20150426
+    },
+    {
+      "title": "Good drive",
+      "text": "Fine little drive that powered up and does exactly what I was expecting it to do. The other reviews on longevity say that it lasts a good long time and I am expecting that as well. This drive is really light and small and even though I didn't get a bracket I have Velcro'd it to the inside of my case and it is holding just fine so far (only a few weeks so far, but doing good)",
+      "rating": 5.0,
+      "verified": true,
+      "author": "ChrisTop Contributor: Star Wars",
+      "helpful_votes": 0,
+      "publication_date": 20150923
+    },
+    {
+      "title": "Buy this drive.",
+      "text": "This is the BEST Solid state drive I've ever had. Fast and reliable. I've had it for over 2 years now without reformatting my operating system and it's still as fast as it was when I first installed it.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Christian",
+      "helpful_votes": 0,
+      "publication_date": 20170309
+    },
+    {
+      "title": "If it's not the best it's second best...You decide",
+      "text": "Dropped this into a Celeron G1820 Processor system on a budget ECS mATX board with a SATA II HD. What did take about a minute to boot now hits the desktop ready for action in about 15 seconds. Win 7 action score for the drive is 7.9. I used the included cloning software to clone the old 250 GB HD to the 850 and it took less then 10 minutes and gave me no problems",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Grippy",
+      "helpful_votes": 0,
+      "publication_date": 20150413
+    },
+    {
+      "title": "Very fast and reliable drive!Buy it, but DO NOT UPGRADE FIRMWARE",
+      "text": "For me is a great product.It has a little bit less perfomance(the 128 GB model) that the other models but that's doesn't matter for me, just DO NOT UPDATE SSD FIRMWARE(or your ssd will turn into a nice lightweight paperweight) at least UNTIL SAMSUNG FIX the bricking problem. I do not use the software bundled with it.My Windows 8.1 boots very fast ins just 6 seconds!I will see how it's working through time and I will update this review as i can.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "gustalitro",
+      "helpful_votes": 0,
+      "publication_date": 20150322
+    },
+    {
+      "title": "Awesome results!",
+      "text": "I got tired of my wife using my laptop because hers was too slow. As an IT Admin, I think this is a great SSD, Samsung and Intel have the best performance and the lowest failure rates (I used to be head of service and support for a major computer manufacturer so I know failure rates) and upgrading to an SSD was my only option for speeding up her laptop. Overall system performance increased 10-fold. She's happy, I'm happy and that's all that needs to be said.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Will W",
+      "helpful_votes": 0,
+      "publication_date": 20150116
+    },
+    {
+      "title": "SSD finally delivers the goods in the 850 Pro",
+      "text": "850 Pro finally fulfills the promise of SSD. I've had a number of them with 500+ specs, but I never noticed any significant improvment over 7200 RPM hard disks until I got this drive. With a significant boost in speed and a 10 year/150 Tbyte warranty, this is the only SSD I will be buying for the forseen future. It is also OPAL self-encrypting if you need that feature.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "RKParkinson",
+      "helpful_votes": 0,
+      "publication_date": 20141005
+    },
+    {
+      "title": "The Samsung Electronics 850 SSD is fast, accurate, powerful and absolutely fantastic!",
+      "text": "The Samsung Electronics 850 SSD is fast, powerful and absolutely fantastic. It put new life into a machine that had been starting to show its age. My computer used to take around 24sec to boot but since installing it only takes 5~6. your typical \"hdd\" is no match for this ssd and with a 10*yr Warranty I feel I will never have to worry about my purchase.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "T.J.",
+      "helpful_votes": 0,
+      "publication_date": 20141007
+    },
+    {
+      "title": "Solid solid state drive",
+      "text": "Been using it the last 4 years as my system drive. Fast and reliable so far :)",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Joshua Howard",
+      "helpful_votes": 0,
+      "publication_date": 20190610
+    },
+    {
+      "title": "The Samsung 850 pro 512GB and 128GB are excellent! My computer boots in seconds and once booted ...",
+      "text": "Pumped life back into my 2011 iMac! It's running at 150% way faster than it was when I first bought the iMac! I probably added another 4 years to its lifecycle. The Samsung 850 pro 512GB and 128GB are excellent! My computer boots in seconds and once booted up apps can be opened immediately. Power hungry apps like Premiere pro and Avid are opened in seconds! This was one of the best investments I ever made! I'll most likely remain with Samsung the SSDs in the future. I'm really happy.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "R. Cornwall",
+      "helpful_votes": 0,
+      "publication_date": 20160220
+    },
+    {
+      "title": "Fast, Very Fast",
+      "text": "I own this models little brother (840 Pro) There is a measurable speed difference between these models. Kiss your extended load times goodbye!! You want OS boot? DONE! You want to drop into the Map before others Spawn in? DONE!! You want loud, slow read/write speeds? Well, I cannot help you there. ^This is not the SSD for that.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Crue",
+      "helpful_votes": 0,
+      "publication_date": 20150407
+    },
+    {
+      "title": "One word to describe this \"Fast\". The read and ...",
+      "text": "One word to describe this \"Fast\". The read and writes on this drive is nothing short of the word \"fast\". Reads are about 450 and Writes about 550. This SSD is built to last for years, with a warranty of 10 years. This would be way worth it for the cost than an Intel SSD.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "R2-BB",
+      "helpful_votes": 0,
+      "publication_date": 20160227
+    },
+    {
+      "title": "Great Product.",
+      "text": "I installed this to my son laptop. It fast and load Windows much faster. However, SATA3 SSD is reaching its limitation, and cannot squeeze any faster. The only thing left to determine is input and output speed, size and energy consume. If never have SSD experience before, this is a good way to start.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "P. Tran",
+      "helpful_votes": 0,
+      "publication_date": 20150212
+    },
+    {
+      "title": "It's the top I know for now... ...",
+      "text": "It's the top I know for now ... working in tamdem with windows 10 I was booting in about 3 to 4 mins... now 25 second ...wow..... for me this is the one every other competitor will try to surpass.... will recomand to all my friends... and also guaranted for 10 years... wow... thanks Samsung...",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Marc Allard",
+      "helpful_votes": 0,
+      "publication_date": 20150405
+    },
+    {
+      "title": "Very good, fast",
+      "text": "It's working away in my mini as I write this. A knowledgeable friend recommended this drive and installed it for me, after a cheaper drive had failed.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Jim Conant",
+      "helpful_votes": 0,
+      "publication_date": 20161217
+    },
+    {
+      "title": "Excellent service and a great product",
+      "text": "Excellent service and a great product! I made a clean install and everything went smoothly. Would recommend this product and buying from Amazon anytime. This SSD is much faster than the hard drive on booting up and running virus scans, etc. Great buy and great company to deal with!",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Bill",
+      "helpful_votes": 3,
+      "publication_date": 20150727
+    },
+    {
+      "title": "Fast and well worth it",
+      "text": "Been hooked on Samsung SSD's since they were first out, the PRO did not fail to disappoint in terms of speed and in terms of reliability I do not expect it to fail. None of my Samsung SSDs have died on me yet and I am a heavy daily computer user.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "C0d3r.N3T",
+      "helpful_votes": 0,
+      "publication_date": 20151009
+    },
+    {
+      "title": "I didn't believe the SSD hype, until I tried ...",
+      "text": "I didn't believe the SSD hype, until I tried one. The load times on my laptop went from just over a minute to about thirty seconds. The load times on my desktop are down to about 12-15 seconds. Join the SSD revolution!",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Wes B.",
+      "helpful_votes": 0,
+      "publication_date": 20160320
+    },
+    {
+      "title": "Five Stars",
+      "text": "Yet to have one fail after installing between 200-300 of them.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "CRAZY4TECH",
+      "helpful_votes": 2,
+      "publication_date": 20161023
+    },
+    {
+      "title": "I cannot say enough good things about this drive",
+      "text": "Superb quality, I cannot say enough good things about this drive, you won't be able to go back to a normal HDD, and given the quality(supposedly some testing shows it lives after *Petabytes* of data being written)",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Jacob",
+      "helpful_votes": 0,
+      "publication_date": 20160523
+    },
+    {
+      "title": "Yes, get this and enjoy.",
+      "text": "This drive scared me because it was so light in my hand but is amazingly fast and comes with a great warranty. I am blown away at the performance of my computer with this as my system drive. I recommend this drive or its larger capacity kin every time I am asked about hard drives. It was shipped to me almost immediately. I definitely recommend this for anyone looking to upgrade or build from scratch.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Ryan Kushner",
+      "helpful_votes": 0,
+      "publication_date": 20150312
+    },
+    {
+      "title": "Great value for a great SSD",
+      "text": "I've bought two of these now. Great value for a great SSD. Not the best on the market, but enough for a boot drive, and definitely enough for a laptop that doesn't really store anything. Boot speeds with this vs mechanical is amazing.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Benjamin",
+      "helpful_votes": 0,
+      "publication_date": 20150529
+    },
+    {
+      "title": "Excellent drive.",
+      "text": "I did a lot of research before buying this SSD. For the price and capacity, it's exactly what I needed and I couldn't be happier. It's quick and snappy. Take longer for my computer to boot to bios than it does from bios to desktop.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Emi.emem",
+      "helpful_votes": 0,
+      "publication_date": 20150123
+    },
+    {
+      "title": "Love this SSD",
+      "text": "Love this SSD. Wish I would have gotten a 250gb However. Also worth noting, the first one of these I ordered failed after a day. However it was replaced by the next day and I haven't had an issue since.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Ewok",
+      "helpful_votes": 0,
+      "publication_date": 20151217
+    },
+    {
+      "title": "Samsung 850 Pro SSD",
+      "text": "Excellent product! Samsung quality & performance....will recommend to anyone. Best in class!",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Dale Lockett",
+      "helpful_votes": 0,
+      "publication_date": 20170907
+    },
+    {
+      "title": "Great drive. You get what you pay for",
+      "text": "Great drive. You get what you pay for. This thing is almost double the price of some of the cheaper ones from sandisk and adata, but is noticeably quicker during everyday use.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "jamesjskim",
+      "helpful_votes": 0,
+      "publication_date": 20160529
+    },
+    {
+      "title": "I think these are the best replacement hard drives you can buy",
+      "text": "I think these are the best replacement hard drives you can buy. And I mean period. The cloning software that comes with the drive is the best. Highly recommended I have purchased several.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Terry2",
+      "helpful_votes": 0,
+      "publication_date": 20151209
+    },
+    {
+      "title": "Best single upgrade to an aging laptop.",
+      "text": "Best single upgrade to an aging laptop. I was in the market for a new laptop and decided to give this a try as a last ditch effort to pep up my old machine. Could not be happier with the performance increase, amazing.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Allison Carter",
+      "helpful_votes": 0,
+      "publication_date": 20150228
+    },
+    {
+      "title": "Amazingly fast SSD & it's a Samsung:) which has never failed on me since I have been using SSD drives!",
+      "text": "This seems to be the best SSD of the Samsung Internal Solid State drives yet!! I have tested and used every model since the SSD drives have been shipping from Samsung and this one is fast and easy to trust:) Thanks Samsung & Amazon",
+      "rating": 5.0,
+      "verified": true,
+      "author": "rtprimo",
+      "helpful_votes": 0,
+      "publication_date": 20141025
+    },
+    {
+      "title": "Works great in laptops as it increases the performance of the ...",
+      "text": "Fastest, highest quality SSD I have ever used. Works great in laptops as it increases the performance of the laptop and extends battery life. Be sure to install the samsung magician software after you install the SSD.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "James M.",
+      "helpful_votes": 0,
+      "publication_date": 20150514
+    },
+    {
+      "title": "Way better than a regular mechanical HDD",
+      "text": "Fast! Installed in my new computer and put the OS on it...boots up way fast and is silent. Way better than a regular mechanical HDD, but I have nothing to compare it to in regards to its performance against other SDD's.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Ryan Shirley",
+      "helpful_votes": 0,
+      "publication_date": 20150121
+    },
+    {
+      "title": "Fast and Reliable.",
+      "text": "This is an incredibly fast and reliable drive--especially as RAPID (Real-time Accelerated Processing of I/O Data) allows caching of 25% of your computer's RAM:  Price is right on Thanksgiving: $96.99 (for the 128gb version).",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Eric",
+      "helpful_votes": 0,
+      "publication_date": 20141127
+    },
+    {
+      "title": "Samsung Drives are fantastic",
+      "text": "Great drive. Loaded Windows 7 from a USB flash drive on an old (2006 vintage) Dell Inspiron 1525 Dual core Pentium in no time. The decreased access time makes running programs and viewing Web pages much faster than the factory HDD.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "John D Bowman",
+      "helpful_votes": 0,
+      "publication_date": 20150103
+    },
+    {
+      "title": "Slick software, unbelievably fast, all reliable so far",
+      "text": "Slick software, unbelievably fast, all reliable so far. Definitely worth paying more for the Samsung SSD's. Don't buy anything else.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "buttersh",
+      "helpful_votes": 0,
+      "publication_date": 20161108
+    },
+    {
+      "title": "This was an easy install.",
+      "text": "This was an easy install....But watch out for the added software...Not the installation software... but the other magic bloatware that comes with it; will freeze your system and you will be right back were you started.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Pounierboy",
+      "helpful_votes": 0,
+      "publication_date": 20141120
+    },
+    {
+      "title": "Boot time is cut in half and response time is fantastic. Very worthwhile investment",
+      "text": "I have been using this for 6 months now and it REALLY picks up the speed of my Fujitsu laptop. Boot time is cut in half and response time is fantastic. Very worthwhile investment, glad I did it!!!",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Dave DeCandis",
+      "helpful_votes": 0,
+      "publication_date": 20150528
+    },
+    {
+      "title": "Best in the market",
+      "text": "i thought ssd drives were overrated until i purchased this. If you want a faster computer, quicker operating system this is exactly what you are looking for. Don't overlook the drive, Every computer should have a ssd!",
+      "rating": 5.0,
+      "verified": true,
+      "author": "BT",
+      "helpful_votes": 0,
+      "publication_date": 20150920
+    },
+    {
+      "title": "Fine, perfectly wonderful, grand!",
+      "text": "Specific growth rate compared to the 830, I have not felt, although tests show that the speed has increased somewhere to 100 MB per second. Bought because the warranty is 10 years and the number of entries 150 terabytes",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Volodymyr",
+      "helpful_votes": 0,
+      "publication_date": 20140927
+    },
+    {
+      "title": "the 850 Pro works like a dream with a fantastic warranty and respectable price",
+      "text": "If you're looking at this SSD you probably already know what you're looking for. Even so, the 850 Pro works like a dream with a fantastic warranty and respectable price.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Tyler Amores",
+      "helpful_votes": 0,
+      "publication_date": 20151019
+    },
+    {
+      "title": "Replaced hard drive on an inexpensive Dell with this. ...",
+      "text": "Replaced hard drive on an inexpensive Dell with this. Night and day difference between 7200 RPM drive and solid state.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "JG",
+      "helpful_votes": 0,
+      "publication_date": 20170223
+    },
+    {
+      "title": "Worth every single penny spent on it!",
+      "text": "Mind blowing fast! It's not just the initial startup of Windows 7 (4 seconds from cold start on my rig), it's the overal performance gain while doing routine work: you can clearly feel a major bottleneck was removed compared to your previous hard drive. Using it for my C: drive only, never going back to disk drives!",
+      "rating": 5.0,
+      "verified": true,
+      "author": "S. Vandenbussche",
+      "helpful_votes": 0,
+      "publication_date": 20150603
+    },
+    {
+      "title": "I installed this in my wife's dell studio 1735 with ...",
+      "text": "I installed this in my wife's dell studio 1735 with a fresh install of windows 7 and used the old hard drive as storage , it really speeds the computer up.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "bill",
+      "helpful_votes": 0,
+      "publication_date": 20150329
+    },
+    {
+      "title": "excellent SSD!",
+      "text": "I purchased this SSD for my workstation and have no complaints at all! The only thing I should have done is get the next size up and I probably will because the speed on the 128 is slightly slower than that of the 256 and I need more space. Windows updates and programs took up more that what I calculated them to.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "J. Hughes",
+      "helpful_votes": 3,
+      "publication_date": 20150220
+    },
+    {
+      "title": "Perfect for my mid-2010 macbook pro. Insanely fast now.",
+      "text": "Turned my mid-2010 macbook pro into a new machine! Almost works as fast as my 2014 retina macbook pro. The difference is insane compared to what it was like with the old failing hard drive.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Austin",
+      "helpful_votes": 0,
+      "publication_date": 20150213
+    },
+    {
+      "title": "And I also liked the fact that it has a very good warranty",
+      "text": "Samsung 850 Pro Internal SSD meet all of my expectations. And I also liked the fact that it has a very good warranty.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Jaime D",
+      "helpful_votes": 0,
+      "publication_date": 20161228
+    },
+    {
+      "title": "Hands down Best Laptop Upgrade!",
+      "text": "Buying Pro 128/256/512 or EVO 120/250/500 from Samsung are by far the Best Speed Upgrade you can give your laptop! Add one and see what a difference it makes, to add storage, buy a portable slim drive!",
+      "rating": 5.0,
+      "verified": true,
+      "author": "~Devildog~",
+      "helpful_votes": 0,
+      "publication_date": 20150209
+    },
+    {
+      "title": "Samsung SSDs are the standard in the marketplace.",
+      "text": "Absolutely the best there is. It's everything it promises to be and you'll be delighted with the speed it will give your PC. I love it.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "billshoff",
+      "helpful_votes": 0,
+      "publication_date": 20160308
+    },
+    {
+      "title": "This thing is blazing fast and hasn't failed after months ...",
+      "text": "This thing is blazing fast and hasn't failed after months of using it i say that's a win in my book my computer starts up in 15 seconds from the time i press the power button",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Xavier Langham",
+      "helpful_votes": 0,
+      "publication_date": 20150707
+    },
+    {
+      "title": ":) Good buy.",
+      "text": "It's noticeably faster than the 840 evo. I had some compatible ility issues with my 840 evo that I don't with this. I installed the operating system onto this and now everything runs seemlessly.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Juliana",
+      "helpful_votes": 0,
+      "publication_date": 20150819
+    },
+    {
+      "title": "Fast n reliable",
+      "text": "Works great, had it for almost a year and still running fast. I use this for booting my OS",
+      "rating": 5.0,
+      "verified": true,
+      "author": "HOME ACCT",
+      "helpful_votes": 0,
+      "publication_date": 20161216
+    },
+    {
+      "title": "Lightening Fast!",
+      "text": "I installed this as the boot drive in a laptop. It brought the boot time down to 25 seconds with ALL of the usual programs (including Norton Internet Security) loading. Installation was straightforward!",
+      "rating": 5.0,
+      "verified": true,
+      "author": "A steady customer [100+ purchases]",
+      "helpful_votes": 0,
+      "publication_date": 20140824
+    },
+    {
+      "title": "I will be purchasing more of these in the future.",
+      "text": "I've installed several of these for myself, friends, and clients. Performance is great, and the process for cloning the drive is very easy.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Amazon Customer",
+      "helpful_votes": 0,
+      "publication_date": 20151102
+    },
+    {
+      "title": "Fast fast fast",
+      "text": "Fastest thing I got. Windows experience rates it 7.9. bought two and cloned my old drive.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "adam",
+      "helpful_votes": 0,
+      "publication_date": 20161004
+    },
+    {
+      "title": "The incredible amount of Individual Operations Per Second (IOPS) makes these absolutely fantastic for games where a large quanti",
+      "text": "As far as SSD's go, Samsung is really leading the pack with the 840 Pro series. The incredible amount of Individual Operations Per Second (IOPS) makes these absolutely fantastic for games where a large quantity of textures or meshes are loaded and unloaded quickly. Prime examples are Skyrim, Guild Wars 2, and the Battlefield series.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Malchus",
+      "helpful_votes": 0,
+      "publication_date": 20150107
+    },
+    {
+      "title": "Five Stars",
+      "text": "The 850 PRO. This is 3 years after purchase, and it still works great. I don't turn my computer off ever, so this helps prove the longevity claims they put on these.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Teamreedgo",
+      "helpful_votes": 0,
+      "publication_date": 20150224
+    },
+    {
+      "title": "Very fast and a great drive to boot windows from",
+      "text": "Very fast and a great drive to boot windows from. I would go with the 950 pro m.2 though if you are going for the highest speeds available.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "S. Smith",
+      "helpful_votes": 0,
+      "publication_date": 20160304
+    },
+    {
+      "title": "Love Samsung SSD!",
+      "text": "Super fast, and reliable! Samsung sends you a Drive imaging kit with cable and CD, and the product is super easy and works perfect!",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Customer",
+      "helpful_votes": 0,
+      "publication_date": 20150917
+    },
+    {
+      "title": "great software support tool",
+      "text": "Very fast, great software support tool! Samsung is number 1 when it comes to flash storage.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Dylan Bickerstaff",
+      "helpful_votes": 0,
+      "publication_date": 20161220
+    },
+    {
+      "title": "Five Stars",
+      "text": "bought this to use with windows 10. loads windows faster than my old crucial ssd.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Kindle Customer",
+      "helpful_votes": 0,
+      "publication_date": 20161028
+    },
+    {
+      "title": "Would buy more is I could afford them.",
+      "text": "My new system was expensive and coupled with this drive it boots at its fastest (not from sleep, total cold boot) in 4.5 seconds.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "LightningOps",
+      "helpful_votes": 0,
+      "publication_date": 20150928
+    },
+    {
+      "title": "An absolute treat!",
+      "text": "After using refurbished HDD for so long, it was an absolute treat switching over to ssd. It loads to Windows super fast, and opens programs lick iTunes and Steam just as fast. Also, as a side note, the packaging it came in was equal in quality to this wonderful ssd.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Jeremiah Gatto",
+      "helpful_votes": 0,
+      "publication_date": 20160519
+    },
+    {
+      "title": "fast!!!",
+      "text": "More space you have, the faster it'll be. Install windows on here, but try to install everything else on a secondary drive. You'll extend the life of the drive and get faster speed.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "amy",
+      "helpful_votes": 0,
+      "publication_date": 20150115
+    },
+    {
+      "title": "Five Stars",
+      "text": "Great drive speeds especially when using the Magician software in Rapid mode. AMAZING!!",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Johnny M",
+      "helpful_votes": 0,
+      "publication_date": 20150625
+    },
+    {
+      "title": "I am very happy with it",
+      "text": "I am very happy with it. I hooked it up ran the OS cloning software and it all went very smoothly. Works perfectly so far.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "GWARGoderaj",
+      "helpful_votes": 0,
+      "publication_date": 20150416
+    },
+    {
+      "title": "It works better and faster when disable after installation",
+      "text": "Very fast SSD if you install SSD trimmer on OS X 10.10.4 and disable it able installed. It works better and faster when disable after installation.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "AmazonP",
+      "helpful_votes": 0,
+      "publication_date": 20150805
+    },
+    {
+      "title": "GREAT..",
+      "text": "GREAT........WORKS AS ADVERTISED AND DIDN'T BREAK THE BANK. I ALSO HAVE A SAMSUNG 840 AND IT WORKS EQUALLY AS WELL.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "D",
+      "helpful_votes": 0,
+      "publication_date": 20150225
+    },
+    {
+      "title": "runs wonderfully.",
+      "text": "Have 2 of these in Raid 0 in my gaming computer, runs wonderfully.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "The Game Citadel",
+      "helpful_votes": 0,
+      "publication_date": 20150720
+    },
+    {
+      "title": "I put this into my wife's computer as the primary OS drive and she was amazed how much faster it became with just that one ...",
+      "text": "Exactly as advertised. I put this into my wife's computer as the primary OS drive and she was amazed how much faster it became with just that one change.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Raltar",
+      "helpful_votes": 0,
+      "publication_date": 20150323
+    },
+    {
+      "title": "Fast, good warranty, affordable.",
+      "text": "Can't go wrong with this one. Super fast, great warranty, and affordable. This is the ssd to buy.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "post_break",
+      "helpful_votes": 0,
+      "publication_date": 20160106
+    },
+    {
+      "title": "amazing upgrade",
+      "text": "after spending my life on spinning hard discs, the speed & silence of this SSD is breathtaking. The only time i hear my PC AT ALL is when the backup HDD kicks in. when i installed windows 7 & some programs the drive was 60G full, i was worried i didnt buy enough space. But then i installed the software included with the SSD. It had a feature to optimize the OS for the SSD. When i ran this, the drive reduced in utilized space from 60GB all the down to 35GB that was a giant savings in space! add in the 10 year warranty & i cant be any happier. Thanks.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "joshman",
+      "helpful_votes": 3,
+      "publication_date": 20141014
+    },
+    {
+      "title": "I'll I can say is... daaaaayum. ...",
+      "text": "I'll I can say is... daaaaayum. These puppies are lightening fast. I just ran projection for a theatre show and bought 2 of these as media drives. Pulling multiple mjpeg avi files at 1024x768 through isadora simultaneously. I didn't even have to use the 2nd drive. Not to mention the speed testing I ran on it was literally red lining on nearly every test.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Dan Benoit",
+      "helpful_votes": 0,
+      "publication_date": 20150310
+    },
+    {
+      "title": "Fast Drive",
+      "text": "Very fast hard drive, even faster then the Plextor it replaces.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Old Moose",
+      "helpful_votes": 0,
+      "publication_date": 20150517
+    },
+    {
+      "title": "then all will be good.",
+      "text": "Fast! I also have 840 Pro. If the 850 is as durable and reliable, then all will be good.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "John G.",
+      "helpful_votes": 0,
+      "publication_date": 20150423
+    },
+    {
+      "title": "Works great!",
+      "text": "Works great. Rev up an old laptop or PC on the cheap!",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Josh S",
+      "helpful_votes": 0,
+      "publication_date": 20160423
+    },
+    {
+      "title": "Fast",
+      "text": "No problems with this drive. Boots fast. Everything is fast with the added bonus of no spinning hard disk",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Eric",
+      "helpful_votes": 0,
+      "publication_date": 20141222
+    },
+    {
+      "title": "Highly satisfied. Met our expectations",
+      "text": "Been running for a few months now. Highly satisfied. Met our expectations.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "carol  wilson",
+      "helpful_votes": 0,
+      "publication_date": 20151005
+    },
+    {
+      "title": "Samsung 850 Pro",
+      "text": "Very nice SSD for the money. Very quick and reliable. Can't beat the 10 year warranty. 10/10 would recommend.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Andrey",
+      "helpful_votes": 0,
+      "publication_date": 20141022
+    },
+    {
+      "title": "Easy to install and transfer from Old to new",
+      "text": "Easy to install and transfer from Old to new...Whole process took less then 45 minutes..... Improved the Speed and performance of my laptop..80-90%.... (( Laptop is 14 yrs old 2001 ))",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Bill R",
+      "helpful_votes": 0,
+      "publication_date": 20150103
+    },
+    {
+      "title": "A best buy for computer enthusiasts.",
+      "text": "Fantastic speed. Buy this instead of a new PC, laptop or Netbook.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Luis de Guerrero Osio y Rivas",
+      "helpful_votes": 0,
+      "publication_date": 20160428
+    },
+    {
+      "title": "Top notch speed.",
+      "text": "Very, very fast. The software is actually useful with lots of configuration options for both the basic and advanced user. Kudos to Samsung all around on this one. Curious to see if it actually lasts anything like the ten year warranty, but I have a (hopefully!) long wait to find out.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Ed Fitzgerald",
+      "helpful_votes": 0,
+      "publication_date": 20140904
+    },
+    {
+      "title": "Highly recommended!",
+      "text": "Wow this thing is fast! Upgraded from a Kingston Hyper X SSD and I was surprised how much faster this one is. Highly recommended!",
+      "rating": 5.0,
+      "verified": true,
+      "author": "DreamSTi",
+      "helpful_votes": 0,
+      "publication_date": 20140828
+    },
+    {
+      "title": "Five Stars",
+      "text": "Good seller. Good product. Good price. Quick delivery. I got exactly what I wanted.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "C. Church",
+      "helpful_votes": 0,
+      "publication_date": 20150212
+    },
+    {
+      "title": "OK",
+      "text": "Benchmarking using the Samsung Magician software I found out drive is about 10% SLOWER then the 128 GB Samsung 840 Pro I already had.....",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Paul M",
+      "helpful_votes": 2,
+      "publication_date": 20150219
+    },
+    {
+      "title": "Best investment in regards to drives I have ever made",
+      "text": "Best investment in regards to drives I have ever made. I will never go back to a standard drive on any system.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Wan2Live",
+      "helpful_votes": 0,
+      "publication_date": 20150120
+    },
+    {
+      "title": "Absolutely no complaints",
+      "text": "I've purchased and used several of these (840's and 850's) over the past few years and they have been great. Very fast and so far flawless. I wouldn't hesitate recommending them to anyone.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Ray M",
+      "helpful_votes": 0,
+      "publication_date": 20160513
+    },
+    {
+      "title": "Boot time must",
+      "text": "awesome........this made my boot time go down to 24 seconds......worth every penny",
+      "rating": 5.0,
+      "verified": true,
+      "author": "allsmiles277",
+      "helpful_votes": 0,
+      "publication_date": 20150321
+    },
+    {
+      "title": "Easy transfer from previous device.",
+      "text": "Bought this to replace a smaller drive. Pros: Samsung transfer software made transferring my info easy. Great speed. Nice clean look in my game computer. Cons: None so far.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "S. Denny",
+      "helpful_votes": 0,
+      "publication_date": 20151012
+    },
+    {
+      "title": "Good product",
+      "text": "Good product, a little fiddly at first - needs to be formatted correctly for your use",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Susan Lobdell",
+      "helpful_votes": 0,
+      "publication_date": 20141231
+    },
+    {
+      "title": "Five Stars",
+      "text": "This Drive is Awesome.....even a noticeable improvement over the 128 GB 830 series that it replaced.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Frank Ruhl Peterson",
+      "helpful_votes": 0,
+      "publication_date": 20141110
+    },
+    {
+      "title": "Pretty (unfortunately it is inside my case) Very very very",
+      "text": "Pretty (unfortunately it is inside my case) Very very very fast",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Ahmed Sabry",
+      "helpful_votes": 0,
+      "publication_date": 20150319
+    },
+    {
+      "title": "fast ! :)",
+      "text": "This is the 2nd Samsung SSD I purchased...they are fast and without problems.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Fly Fishing the World",
+      "helpful_votes": 0,
+      "publication_date": 20150223
+    },
+    {
+      "title": "Five Stars",
+      "text": "Perfect for just using as a boot up device. Super Fast. Couldn't be happier.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "TomMan67",
+      "helpful_votes": 0,
+      "publication_date": 20150627
+    }
+  ],
+  "product_meta": {
+    "title": "850 Pro MZ-7KE128BW 128 GB 2.5\" Internal Solid State Drive",
+    "description": "The Samsung 850 PRO will keep you working with the efficiency of what you would expect from a solid state drive.Magician software gives you the option to enhance your performance, performing 1.8 times faster in the RAPID mode. Get enhance performance,lower power consumption with LPDDR2 DRAM cache memory and Samsung 3-core MEX controller. This is an ideal solution for business professionals and PC Gamers. There is no comparison with the increased load times and the reliability you get from a solid state drive of this caliber.\n\nSELLER WARRANTY DESCRIPTION\n10 Years/150TBW",
+    "rating": 4.6,
+    "feature_bullets": [
+      "Samsung SSD MZ-7KE128BW 850 Pro-Series 128GB 2.5inch SATAIII Internal Center SSD Bare"
+    ],
+    "specifications": {
+      "Manufacturer": "Samsung",
+      "Brand": "SAMSUNG",
+      "Item Weight": "3.52 ounces",
+      "Product Dimensions": "3.94 x 0.27 x 2.75 inches",
+      "Item model number": "MZ-7KE128BW",
+      "Is Discontinued By Manufacturer": "No",
+      "Color": "BLACK",
+      "Number of Items": "1",
+      "Size": "128 GB",
+      "Manufacturer Part Number": "MZ-7KE128BW",
+      "ASIN": "B00LF10L02",
+      "Customer Reviews": "4.6 out of 5 stars535 ratings4.6 out of 5 stars",
+      "Best Sellers Rank": "#957 in Internal Solid State Drives",
+      "Date First Available": "July 1, 2014"
+    },
+    "categories": [
+      "Computers & Accessories",
+      "Office Products",
+      "Electronics",
+      "Data Storage",
+      "Internal Solid State Drives"
+    ],
+    "price": 139.99
+  }
+}

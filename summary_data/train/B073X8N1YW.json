@@ -1,0 +1,974 @@
+{
+  "website_summaries": [
+    {
+      "verdict": "The Oculus Rift now offers a great combination of controls and apps for next-level VR and some room tracking, but it offers a less expansive experience than the Vive.",
+      "pros": [
+        "The Oculus Touch controllers add impressive finger and hand movement, plus physical buttons for traditional games",
+        "The Rift headset is well-designed and compact",
+        "A strong collection of software offers many apps to explore"
+      ],
+      "cons": [
+        "The motion tracking lacks the HTC Vive's full-room scale",
+        "It takes a while to adjust to the controls",
+        "Total cost of headset plus controllers is expensive -- and that doesn't include the pricey gaming PC you need, too"
+      ],
+      "aspects": {
+        "Immersion": 8.0,
+        "Interaction": 9.0,
+        "Comfort": 8.0,
+        "Ecosystem": 7.0,
+        "Setup": 6.0
+      },
+      "publication_date": 20170301,
+      "rating": 8.0,
+      "source": "cnet"
+    },
+    {
+      "verdict": "The Oculus Rift is a powerful, PC-tethered VR headset that's even more appealing now thanks a lower price and the inclusion of Oculus Touch motion controllers.",
+      "pros": [
+        "Immersive VR experience",
+        "Works with Oculus and SteamVR platforms",
+        "Now includes both conventional gamepad and Oculus Touch controllers"
+      ],
+      "cons": [
+        "Requires four USB ports (three 3.0, one 2.0) to fully function"
+      ],
+      "aspects": {},
+      "publication_date": 20180622,
+      "rating": 8.0,
+      "source": "pcmag"
+    }
+  ],
+  "customer_reviews": [
+    {
+      "title": "Don't waste your money.",
+      "text": "ran for a week, then flatout stopped. sent in multiple tickets, NEVER heard back from tech support. it's been almost a month now and i'm frankly about to demand a full refund. this is utterly pathetic.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "Aurora",
+      "helpful_votes": 171,
+      "publication_date": 20180307
+    },
+    {
+      "title": "Customer Service is Awful - Unit had dead pixels after only 3 months - Oculus refuses to honor their warrenty.",
+      "text": "I loved the unit, but after three months of use, it developed purple spots in the display. After trading e-mails with Oculus for over a month on the issue, they stated the following: \"The discoloration on your Rift's display corresponds with known cases of sun damage. Unfortunately, we are unable to provide a warranty replacement. I sincerely apologize for the inconvenience.\" The unit lives in a basement. There is no sunlight.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "Frank D. Soehnge",
+      "helpful_votes": 399,
+      "publication_date": 20180213
+    },
+    {
+      "title": "I am experiencing constant red horizontal lines on the display ...",
+      "text": "I am experiencing constant red horizontal lines on the display screen of my brand new Oculus device. It's completely unusable. The HDMI port is working correctly. I have a Nvidia GTX 1060 with updated drivers. The HDMI cable does not appear to be damaged. I have restarted my computer and gone through the setup process several times, but the problem is the same each time. Of course there is only a web-ticket support. You never actually get to talk to someone. I have checked online for people who have had similar problems and they almost all ended up having to return theirs. Unless their support really comes through in the next few days I will be returning this.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "Stephen",
+      "helpful_votes": 41,
+      "publication_date": 20180414
+    },
+    {
+      "title": "Just don't!",
+      "text": "Bought this for business tutorials and training via Facebook spaces. It worked once but was glitchy. Second time and then on - nothing. Should have paid more and gotten the HTC. Support has been extremely responsive however it's canned and useless info. Busywork only. The unit is defective yet was out of 30 day period before I knew it. Never again - anything Oculus.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "Cash",
+      "helpful_votes": 31,
+      "publication_date": 20180606
+    },
+    {
+      "title": "FYI support blows soooo bad...",
+      "text": "Just the worst customer service in the world right up there with the IRS, the hardware is great but the company just killed all my happiness about this product - I reached out to support to fix a account name issue and all I was told is sign up for facebook ? F facebook for real.. what does a facebook account have to do with my rift account ? I was never told by support just sign up for facebook ?",
+      "rating": 1.0,
+      "verified": true,
+      "author": "Morwic",
+      "helpful_votes": 47,
+      "publication_date": 20180327
+    },
+    {
+      "title": "Firmware Issues",
+      "text": "I bought 2 on 2 separate ocasions because they both didn't work as advertised. This was after 35 emails to Rift support and 8 hours of troubleshooting using blogs, You Tube and a techie friend. Firmware issues on both headsets. I will buy the HTC VIVE when the newer version is on the market.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "Don Camp",
+      "helpful_votes": 29,
+      "publication_date": 20180207
+    },
+    {
+      "title": "Exceptional experience",
+      "text": "Having been using PSVR for the past several months, I went into the Oculus thinking well its cheaper now so might as well give it a shot. I can't put it down, it is by far the greatest VR experience I've had. I have yet to try the HTC Vive but I have to say this is my favorite way to play VR now by far. If you have the PC to run it, I recommend grabbing one you won't be disappointed especially at its current $400 price point.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Tango",
+      "helpful_votes": 32,
+      "publication_date": 20170808
+    },
+    {
+      "title": "I bought one and it worked wonderfully for a while",
+      "text": "I bought one and it worked wonderfully for a while, then a few days after the return window the HDMI part stopped working and headset refused to connect and my PC could not see it, I verified via Microsoft and Nvidia that the HDMI port works because my TV connected fine, all my USB ports checked out too, Emails and tweets to Oculus proved futile and they refused to help, Amazon was nice enough to recall and refund my purchase If you buy this product PLEASE buy the added extended warranty if available, if one is not available then if your unit stops working Oculus WILL NOT HELP YOU",
+      "rating": 3.0,
+      "verified": true,
+      "author": "RavenBlueFeather",
+      "helpful_votes": 9,
+      "publication_date": 20180516
+    },
+    {
+      "title": "Defective",
+      "text": "I\u2019ve had it for a year and still cannot make it work. I\u2019ve tried everything a person can think of and tried talking with their tech support. It\u2019s a nightmare to set up and impossible. I had a professional look at it and they believe I was sent a defective item.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "Christina Weidner",
+      "helpful_votes": 7,
+      "publication_date": 20181225
+    },
+    {
+      "title": "came dirty and missing pieces",
+      "text": "mine came open box and used even though i paid for new. everything was tangled in the box and in the wrong spot. missing the two AA batteries and lens cleaning cloth. everything had fingerprints on it and there was hair in the headset. after i cleaned everything and made sure it all worked i was happy. but oculus and amazon should not have sold that as a new kit.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "jacob oakes",
+      "helpful_votes": 7,
+      "publication_date": 20180728
+    },
+    {
+      "title": "Got screwed by the devs",
+      "text": "I can not recommend buying this product under any circumstances. There is little to no support for any major issue with the system. The company is dishonest, and will force software updates that break your Oculus. I was told after having issues with the most recent update that the Oculus software would never support my PC again. Basically this company turned my 400+$ investment into a useless brick of plastic. So now I can\u2019t even get a refund on my games, or my Oculus. I bought an HTC Vive and I\u2019ve never been happier to be rid of something.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "Ben States",
+      "helpful_votes": 5,
+      "publication_date": 20181005
+    },
+    {
+      "title": "Fantastic",
+      "text": "The oculus rift is absolutely amazing - especially at such a low price. My only issue with it is something that MOST gamers will not care about - but I do - resolution. The resolution of this headset is so low that it makes it difficult to play most flight simulator games. For most normal gamers the resolution is just great, but for flight sims in particular, the low resolution is a deal breaker. I can sympathize with Oculus since a higher resolution would make it even more demanding in terms of graphics, but the great thing about resolution is that you can downscale if needed. I am definitely looking forward to a higher resolution Rift in the near future!",
+      "rating": 4.0,
+      "verified": true,
+      "author": "B. Hesse",
+      "helpful_votes": 2,
+      "publication_date": 20190127
+    },
+    {
+      "title": "when it works its amazing.  every time I use it it involves turning the machine on and off",
+      "text": "a couple of times. Help does not help. Its just not really ready for prime time.... pity it is amazing when it works... Hah I give it 8 starts when it is working, very immersive. but getting it working is a 15 or 20 min process often rerunning calibration... gets old.... its just not ready for real people to use.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "drake",
+      "helpful_votes": 6,
+      "publication_date": 20181214
+    },
+    {
+      "title": "Oculus store dosnt work for purchasing",
+      "text": "It works ok, but beware you might not be able to purchase any games or other content from the Oculus store. After opening a ticket here is there final response from Oculus tech support. George (Oculus Support) Nov 28, 2:19 PM PST Hello After extensive review, we have verified that we will not be able to provide assistance with adding a payment method to your Oculus account. We are unable to go into specific detail as to why, and do apologize for any inconvenience this may cause. I appreciate your time and understanding with this matter. Sincerely, George Oculus Support",
+      "rating": 1.0,
+      "verified": true,
+      "author": "CF",
+      "helpful_votes": 2,
+      "publication_date": 20181128
+    },
+    {
+      "title": "Not worth it! You'll be disappointed.",
+      "text": "You can get the same experience without the hardware requirements or wires on the Oculus Go. While the Rift is capable of providing a superior experience when paired with high end hardware, very few experiences tap this potential. Being tethered to the pc makes room scale experiences impossible. Returned after a weekend because it failed to deliver an experience equal to PSVR; which amazed me. I was expecting to have a better experience from using a powerful PC, but was disappointed when it didn't even match the console, let alone outperform it. If you are considering this, I recommend you find somewhere to demo the PSVR, Go and Rift then determine for yourself if it is worth it.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "Eddie burrell",
+      "helpful_votes": 3,
+      "publication_date": 20190408
+    },
+    {
+      "title": "Worked for an hour...",
+      "text": "I guess I should consider myself lucky, it worked for an hour then it stopped working. Nothing I was able to do brought it back online.. piece of crap if you ask me",
+      "rating": 1.0,
+      "verified": true,
+      "author": "Scuba",
+      "helpful_votes": 5,
+      "publication_date": 20181207
+    },
+    {
+      "title": "Oculus Tech support is a Joke or is the worst I have seen with ANY product",
+      "text": "didn't even have this 1 month, already speaking with Oculus Support. Left Lens has failed. Oculus Tech support is a Joke or is the worst I have seen with ANY product.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "Rajmahal",
+      "helpful_votes": 8,
+      "publication_date": 20180628
+    },
+    {
+      "title": "I bought this vr headset and it seems the display dont work or a broken cable.",
+      "text": "I bought this vr headset and it seems the display doesn't work i tried everything to get it to work it has to be busted then why me? I want to know who I must contact for a faulty rift that display doesnt work I bought it a in march just set it up and does not display a thing.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "Oscar",
+      "helpful_votes": 4,
+      "publication_date": 20180505
+    },
+    {
+      "title": "Dies after a few months of light use.",
+      "text": "Works fine for a few months, then its completely unreliable. I've spend hours and hours reading forums trying the get it working again and tech support are no help. VR is a awesome experience. Getting VR working is Hell.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "MR DALE JON PITMAN",
+      "helpful_votes": 14,
+      "publication_date": 20170902
+    },
+    {
+      "title": "It better than most VR headsets",
+      "text": "I just got done using it for the first time, and well. I was expecting it to be far better than the Gear VR I use with my S8+, They are about the same picture wise, in my view. What Rift has going for it, is content and it doesn't heat up like the Gear VR/Phone. I may change some of my feeling for it the more I use it, maybe. I wouldn't get this until you check out the display models at a Store that sells them and your computer meets it's usage specs. My video card meets the min, so some of my picture display may be because of that. But, you know, as a whole it's fun.",
+      "rating": 4.0,
+      "verified": true,
+      "author": "Jeanne Tone",
+      "helpful_votes": 2,
+      "publication_date": 20171217
+    },
+    {
+      "title": "Better than I thought",
+      "text": "I have been wanting an Oculus ever since before it came out and I finally bought one after building my computer for it. A lot better than I thought, looked up issues like: god rays, FOV, sensors, screen door effect, etc. I've come to the conclusion that I basically forgot about all that once I put the head set on. It was my first time ever playing on a VR and was nervous about spending $400+ on something I've never tried before. Thankfully no regrets. One thing that was tricky though was getting everything from Steam setup, few Google searches fixed it though. All in all, good buy",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Dakota",
+      "helpful_votes": 2,
+      "publication_date": 20181125
+    },
+    {
+      "title": "This is a very bad introduction to the rift",
+      "text": "I cannot use my product at all due to the fact that there is some type of runtime error which makes me unable to open the required software to use this product. This is my first day owning this product and i have been unable to use it in any way for over 10 hours. This is a very bad introduction to the rift.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "Nick",
+      "helpful_votes": 18,
+      "publication_date": 20180307
+    },
+    {
+      "title": "My advice: Go with the Vive, even though it's 200$ more.",
+      "text": "At first I loved the thing, but then I saw some flaws, and I am now deciding to return it for the Vive. It's OK, but it needs improvement. The tracking sucks, unless you want to fork over another $60-$120 for more sensors, then you are almost at the Vive. Also, more games are set up for the vive rather than the oculus, I have played a fair share of vr games from steam on my oculus, and some games that have vive controllers, and say they are meant for both, run poorly on my oculus. Unless you plan to play games that require you to constantly face forward, get the Vive.",
+      "rating": 3.0,
+      "verified": true,
+      "author": "M. Oldham",
+      "helpful_votes": 6,
+      "publication_date": 20180125
+    },
+    {
+      "title": "Entering the next generation",
+      "text": "As a long time gamer, stepping into the Rift reminds me of the jump from PS2 to PS3, something we had thought lost in gaming. What is there to say? Games, apps, tools are all so good. My wife, who generally hates anything gaming related, spent 30 minutes the night we got this exploring the world with Google Earth and just loved it. I love being able to connect with my Steam library and also grab apps from the Oculus store. Unboxing experience and setup went really well. Everything is of high quality. I'm glad I finally bit the bullet and got one!",
+      "rating": 5.0,
+      "verified": true,
+      "author": "T. J. Trimble",
+      "helpful_votes": 0,
+      "publication_date": 20190103
+    },
+    {
+      "title": "Amazing System with Next To Zero Complaints.",
+      "text": "having a little computer knowledge behind me, this was far simpler then I read online to set up. was so easy to get into. The experience on my gaming pc with it, is beyond amazing. Controllers pick up so well. and they feel so \"natural\" for a controller compared to my HTC. my one and only complaint is the screen is about a hair to close to the eyes causing a slight fog, not a bad fog that its unplayable. but it's just close enough that it can cause a fog to make minor bits foggy. but taking 2 seconds inbetween games to pull headset off and use the provided wipe cloth. and back in you go. beyond amazing item.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Jordan",
+      "helpful_votes": 2,
+      "publication_date": 20171130
+    },
+    {
+      "title": "This thing really does live up to the hype!!!",
+      "text": "Hell yes. Buy this. I do mainly racing sims as well as Euro truck and I cannot speak highly enough of this thing. I was hesitant because of the resolution and \"screen door effect\" but as it is (1080p over each eye) it is still a great experience. I normally game on a 1440p Gsync Monitor so, no the oculus does not look as good as that, but it still looks really good and the experience is second to nothing currently on the market. I will be very much keeping an eye on the horizon for the next iteration of this thing... Wait for a $399.99 deal for this and then buy itttttt!!!",
+      "rating": 5.0,
+      "verified": true,
+      "author": "jordan thompson",
+      "helpful_votes": 2,
+      "publication_date": 20171028
+    },
+    {
+      "title": "I suggest buying at least one additional sensor for best gaming. I purchased a third sensor not realizing ...",
+      "text": "I had no idea what this was. My 21 year old son requested this for Christmas. After he installed it and showed us how it works... the entire family waits their turn to play!!! I suggest buying at least one additional sensor for best gaming. I purchased a third sensor not realizing it came with two. GLAD I DID!!! When turning away from a sensor, you can experience blind spots because the computer doesn't see your controllers. The extra sensors remove any blind spots. My son also purchased additional length cables since the purchase of the original system. YOU WILL LOVE THIS GAME SYSTEM!!!!!",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Nickolas Frost",
+      "helpful_votes": 2,
+      "publication_date": 20171230
+    },
+    {
+      "title": "MUST for GAMERS!",
+      "text": "The product came in a big case with each item being held into place with foam cutouts to ensure items do not shake or come loose during transit. You can easily store your Rift back into the case when not in use or traveling somewhere with it. All items feel durable and it included batteries for the two controllers. Problems I can see for some people: You need lots of room to play the Oculus Rift. You may need another sensor if you would like 360 coverage of motion controllers and headset sensing. A decent graphics card to run the video games. USB/HDMI extensions if you plan to be far away from the PC",
+      "rating": 5.0,
+      "verified": true,
+      "author": "JAnderson11335",
+      "helpful_votes": 2,
+      "publication_date": 20180218
+    },
+    {
+      "title": "Impressive technology, amazing fun",
+      "text": "So awesome! Expensive, but it is great fun. Set up was slightly challenging as I thought the instructions could have been more clear. Now that it's set up, though, I have been having a grand time. The controls are intuitive, the headset is mostly comfortable although those who wear glasses will find it more awkward. There are some really great games for free that will provide many hours of fun. Check out Herobound and Farlands as well as The Lab. Google Earth is another freebie that is worth checking out. Oculus has a nice app that will check out your computer to confirm it's capabilities/compatibilities with the Rift.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "MLG",
+      "helpful_votes": 2,
+      "publication_date": 20170831
+    },
+    {
+      "title": "Works well with the Oculus Rift provided 3D software. ...",
+      "text": "Works well with the Oculus Rift provided 3D software. However, was never able to make it work with P3D flight sim software. Many hours spent communicating with their support team without success. Returned the unit for refund.",
+      "rating": 2.0,
+      "verified": true,
+      "author": "Bob",
+      "helpful_votes": 4,
+      "publication_date": 20180514
+    },
+    {
+      "title": "Every game is so much better in VR!",
+      "text": "There's a lot of online help with the VR system .... occasionally you'll need it. My headset cable wiggled out of the headset and needed to be reseated. When your headset won't show images even though Oculus says its connected, try reseating the cable where it connects into the headset. You'll have to gently pop out the foam eye gasket thing to see it, then pop it back in once you're done. I love playing in VR. My kids love playing in VR. The oculus touch controllers are great! I bought a third sensor to get room-scale VR working , totally worth it.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "KennethF",
+      "helpful_votes": 2,
+      "publication_date": 20170918
+    },
+    {
+      "title": "VR at it's finest",
+      "text": "I'm not really sure where to begin on a review of this. The rift is a very good system. It tracks well, and gives you some amazing visuals. I've enjoyed playing standing VR games, as well as some games that are simply enhanced by VR and all are better for it. Elite Dangerous is amazing when coupled with VR. Everything feels like solid construction, and the set up is easy. It's a comfortable headset that I've worn for hours at a time when in a gaming session. All I can really say is I highly recommend it.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Mitchell L Harmon",
+      "helpful_votes": 2,
+      "publication_date": 20170906
+    },
+    {
+      "title": "Great buy @$349 but still a novelty good",
+      "text": "Had the dk2 and wasn't that impressed, mostly due to screendoor effect. On this unit do not really notice and great for games. Brought the croteam bundle and totally worth it. Get a bit of nausea with normal locomotion, but the immersiveexperience makes up for it. On sale for $349 it was well worth it. Wouldn't have paid more for it as it is more of an luxury purchase. The future of VR is exciting and I suspect that these early models provide a great induction to this technology. Cons for me are lack of roomscale without additional purchase of sensor and fogging of lens during summer. These are minor issues that can both be corrected and are minor issues.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Jass",
+      "helpful_votes": 0,
+      "publication_date": 20180112
+    },
+    {
+      "title": "Works Great",
+      "text": "This system works much better than I expected. The immersion is beyond belief and even though you know it's just virtual, it's very hard to step off a virtual cliff. I'm using a GTX 1080 card, and there is no detectable lag from head movement to image update, so there is no motion sickness. (or VR sickness.) In my old age, I tend to be more sensitive to that than other people. I'm an EE, and I'm amazed they can track head movement to such a fine resolution.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Steve Hansel",
+      "helpful_votes": 0,
+      "publication_date": 20180521
+    },
+    {
+      "title": "Great VR equipment",
+      "text": "I tried this at a friends house, and it was great. I ordered it myself, but it would not work on my gamer computer, which was a disappointment. I had to return it, which was hassle-free - thank you Amazon! Supposedly it did not work on non-oculus computers, but I think that has been fixed now, but you still need to look into the necessary specs before purchasing this product, so you do not end up getting disappointed like me! It is otherwise great, and it was so much fun exploring the VR world!",
+      "rating": 4.0,
+      "verified": true,
+      "author": "Cat S.",
+      "helpful_votes": 0,
+      "publication_date": 20180920
+    },
+    {
+      "title": "Best deal in VR",
+      "text": "I purchased a VR ready PC previously, so setup was a breeze. I don't have enough room for a room scale setup and this system works great. I was able to find a program (VorpX) that let me run 3D applications (like Skyrim and Borderlands 2). The touch controllers are comfortable and work with most applications without any real setup. It works far better than my dad's Gear VR for his Note 8, but not quite as good as my friend's Vive. It has an onboard microphone and the included speakers were surprisingly good (a relief as they would be trickly to replace). A great deal in cost versus application",
+      "rating": 4.0,
+      "verified": true,
+      "author": "DarthWells",
+      "helpful_votes": 0,
+      "publication_date": 20180102
+    },
+    {
+      "title": "Not Happy",
+      "text": "Can't use because of some kind of date related license thing??? Don't like the fact that I really didn't buy the device, Looks like I just bought the use of it until they decide they don't want me to use it.",
+      "rating": 2.0,
+      "verified": true,
+      "author": "Jerry Cohen",
+      "helpful_votes": 4,
+      "publication_date": 20180307
+    },
+    {
+      "title": "Absolutely amazing experience and was glad that I did some research ...",
+      "text": "Absolutely amazing experience and was glad that I did some research first to make sure that my PC had the slots required and the requirements to run this. The only thing that I wish had been more clear was the setup process. You should download the Oculus program while waiting for the delivery so that once you plug everything in, you are good to go. I have not had any issues with getting my Rift to run and installing some of the recommended apps makes for a much better experience.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Steve Scrub",
+      "helpful_votes": 4,
+      "publication_date": 20170815
+    },
+    {
+      "title": "Great with two sensors, AMAZING with three",
+      "text": "The Rift is very immersive and great as long as you have the PC to back it up (which is something that should always be mentioned). Adding a third sensor to the mix lets you get the most out of the system, since it gives you room scale for playing games that let you walk around your space. The Touch controllers are capacitive so that games that use it can sense some of your fingers lifting from its grasp to let you point and wave or make a fist, and they fit very snug in your hands. With the three sensors, I would put this system slightly above the Vive for a perfect set up.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Andy L",
+      "helpful_votes": 0,
+      "publication_date": 20180105
+    },
+    {
+      "title": "Really excited but sad falloff",
+      "text": "Started off great but it has constant recalibration issues. Every time I load it up I have to recalibrate it which is annoying. Also there was constant black screening and trackers would lose tracking a lot of times when playing any game. Maybe it was just my specific headset but I\u2019m just returning and I won\u2019t go through the hassle of repacking then waiting for another week for another.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "Juan G.",
+      "helpful_votes": 2,
+      "publication_date": 20181205
+    },
+    {
+      "title": "Not ready for the market",
+      "text": "Had an ok time when it did work as expected. It is pretty bad at first getting use to looking at everything through a weird screen door effect, but you get use to that. However it's near impossible to get a clear image through the full field of view. The sensors and touch controllers were incredibly finicky with which USB 3.0 ports they'd work on. Eventually, one of my controllers stopped pairing all together. Do not buy.",
+      "rating": 2.0,
+      "verified": true,
+      "author": "Walter Sessions",
+      "helpful_votes": 0,
+      "publication_date": 20181220
+    },
+    {
+      "title": "Great product horrible customer support.",
+      "text": "Great product lots of fun but make sure you have the gardian system set up right you will walk into stuff if you don't. Only negative is my left earphone arrived not working. Yes I switched them to make sure it was the actual earphone and not the headset. Oculus customer support is the worst I have ever dealt with!!!! Don't be shocked when after dealing with multiple reps and supplying them with what they asked for they send another email saying sorry we still have to review your situation 10 days and counting. Also no phone number to actually talk to someone. Edit: they sent me a new head phones last week.",
+      "rating": 3.0,
+      "verified": true,
+      "author": "Kelly D.",
+      "helpful_votes": 0,
+      "publication_date": 20190122
+    },
+    {
+      "title": "I really enjoy my rift but it does leave a lot to be desired.",
+      "text": "It's hard to even consider a Vive when you can get a rift with touch and two extra sensors (for large playspace with flawless 360-degree tracking) for more than $100 less than the vive. Unfortunately, all current-gen VR HDMs leave a lot to be desired. God rays, screen door, small FOV, etc. They are still great fun and I certainly don't regret my purchase, but I can help constantly dreaming about the next generation while using this. The next generation will truly be stunning.",
+      "rating": 4.0,
+      "verified": true,
+      "author": "Chris",
+      "helpful_votes": 3,
+      "publication_date": 20171212
+    },
+    {
+      "title": "A wonderful product. Right up until the dog caught the ...",
+      "text": "A wonderful product. Right up until the dog caught the cord and drug it off of the chair. 1.5 foot fall caused a fractured display. There are no parts available. There are no options except buy a new one. Just don\u2019t have an accidental break and you will love it.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "jadanchevy",
+      "helpful_votes": 3,
+      "publication_date": 20171201
+    },
+    {
+      "title": "Stole many hours of my life I will never get back",
+      "text": "One of the coolest pieces of technology that I am very fortunate to be able to afford on low income I have clocked thousands of hours into this headset however my first one had failling audio but Oculus replaced it it was still a pain in the butt to get replacement but they sent me it",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Apollo Smile",
+      "helpful_votes": 2,
+      "publication_date": 20181115
+    },
+    {
+      "title": "I only do when I like something so much or when I hate it so ...",
+      "text": "I don't write many reviews, I only do when I like something so much or when I hate it so much; and I love the Oculus Rift, I had low expectations but let me say that am happy with this purchase; solid and practical device, simple setup. Works as advertised, and am using it seated as I like to play flight sims. Wroth it :)",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Faisal Khashouf",
+      "helpful_votes": 2,
+      "publication_date": 20180710
+    },
+    {
+      "title": "VRChat, Pavlov, Beatsaber. Better than Vive.",
+      "text": "Really comfortable gestures and controls with these controllers. Its a natural grip that doesn't fatigue your hands. The display is better than vive in my opinion. It has more clarity. Ive had this device for nearly a year and it still works perfect. Clean the lenses with a dry glasses lens cloth or dampen it with one sprits of lens cleaner. (I am not responsible if you ruin your product because you destroy it with lens cleaner lol). Super easy to set up and is lightweight.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Alaina",
+      "helpful_votes": 0,
+      "publication_date": 20190113
+    },
+    {
+      "title": "Water trash setup software",
+      "text": "I haven't even been able to use it yet. I've had to download the 5gb app 4 times now, and everytime it tells me to delete it and try again. It's made by Facebook, i would think they might have mildly capable software engineers, good enough that the setup.exe works at least, but no. Maybe my experience will be great when it gets going, but water trash software really bothers me, and is part of the user experience.",
+      "rating": 2.0,
+      "verified": true,
+      "author": "Jacob M.",
+      "helpful_votes": 2,
+      "publication_date": 20181124
+    },
+    {
+      "title": "Far better than I expected",
+      "text": "I tried to temper my expectations because VR tech is still new, but the experience is more polished than I thought it would be. I do feel a sense of immersion, but what I especially enjoy are the small details: the \"guardian system\" which displays a transparent wall around your play area to help prevent you from bumping into things, and the fact that you can see the location of your controllers even when they are not in your hands (so that you can just reach out and pick them up off your desk). The technology has already come a long way and I can't wait to experience future generations of the Rift.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Erik",
+      "helpful_votes": 2,
+      "publication_date": 20170831
+    },
+    {
+      "title": "Fantastic product for the price",
+      "text": "Fantastic product for the price. You must have a super high end graphics card and powerful PC. In addition, you really need the Inateck KT5002 Superspeed USB 3.0 PCI-E card. It is critical to run your Oculus headset and all sensors thru this independent USB card on your PC motherboard. The native USB 3.0 ports on your PC will not handle it. I had all kinds of problems and tracking errors, but once I added the Inateck card, everything worked perfectly.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Sheik Yurbuti",
+      "helpful_votes": 0,
+      "publication_date": 20180420
+    },
+    {
+      "title": "It isn\u2019t bad, just flawed.",
+      "text": "The touch controllers, absolutely amazing, great feel. The headset, fits but the pixel fade is delayed, you can see a pretty noticable blur that is somewhat distracting. The default face isnt comfortable and soaks up sweat so you will want an aftermarket face rest... it also loses tracking often, and struggles to keep up with fast paced gameplay. If you are in the market for this, you probably already understand the setup required to get it working outside the oculus home for steam, but if you aren\u2019t aware please do your research. It isn\u2019t a bad product, but I recommend the vive over this, spend a few hundred dollars more to get the most out of your money.",
+      "rating": 3.0,
+      "verified": true,
+      "author": "Austin Miller",
+      "helpful_votes": 0,
+      "publication_date": 20190314
+    },
+    {
+      "title": "Heaven.",
+      "text": "I haven't had this much fun ina long time. What a workout too. Fruit ninja VR is just nonstop swinging your arms. I can't wait to see more games come out! Kinda fun to escape the real world for a good hour and enter a world of fun and entertainment.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "BrockintheBox",
+      "helpful_votes": 3,
+      "publication_date": 20170814
+    },
+    {
+      "title": "Awesome when all pieces work",
+      "text": "I\u2019d like to give it more stars as the system itself is awesome and my son has wanted this for so long. I was happy to get it for him. Unfortunately, one of the touch controllers (left hand) is defective. We have tried every troubleshooting technique there is and he has been in contact with the company. I\u2019d love to get it replaced ASAP so he can fully play or I will need to return it and get my money back.",
+      "rating": 3.0,
+      "verified": true,
+      "author": "S. House",
+      "helpful_votes": 3,
+      "publication_date": 20171203
+    },
+    {
+      "title": "The biggest Bang for the smallest buck",
+      "text": "The best thing in gaming since steam. Seemless VR with quality sound and picture. Having played both HTC and the Oculus now, i can't say the HTC does anything this doesn't. Motion tracking - 4/5 Using only two sensors this does room scale with minimal hassles, adding a third sensor brings it to a solid 5/5 Comfort- 5/5 No issue getting the right fit, even passing between three people. Quality- 6/5 Could not be happier with the graphical fidelity, built in earphones are comfy and have great 7.1 sound. Games included, what a treat!",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Devin R.",
+      "helpful_votes": 0,
+      "publication_date": 20171128
+    },
+    {
+      "title": "This is an amazing product at a great price right now",
+      "text": "This is an amazing product at a great price that is lower by nearly half what it was last Christmas. This is not only a transformative technology that grants us all a glimpse into the technology of the future but is also a blast to play with! Don't hesitate, this is a great time to buy and the kids will absolutely flip over the gaming Oculus Rift provides. I purchased two sets for the kids (and myself) and the multiplayer is a blast and the two setups work great in the same room. What are you waiting for? See you in multiplayer!",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Aquarius",
+      "helpful_votes": 0,
+      "publication_date": 20171125
+    },
+    {
+      "title": "Good product, but the software is loaded with Facebook ...",
+      "text": "Good product, but the software is loaded with Facebook buying 'opportunities'. While many games/travel packages are great, this technology isn't ready for prime time yet (consider waiting a generation or two). My son has a Vive and said the Oculus is more comfortable (and cheaper). If you have a fast computer (check HW requirements) and have the money to experiment, the Oculus is an enjoyable distraction.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Ranchodoug",
+      "helpful_votes": 0,
+      "publication_date": 20180911
+    },
+    {
+      "title": "Made me feel sick when using.",
+      "text": "Was initially stolen after delivery left out the front. Amazon refunded. Then bough again on eBay. After a heap of hassle getting, this VR made me feel sick when using. So only used a few times. For me, waste of money. Maybe it's ok for other people, I don't know.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "Lucas Hearne",
+      "helpful_votes": 0,
+      "publication_date": 20181217
+    },
+    {
+      "title": "Cool but over time has problems",
+      "text": "Of course having a virtual reality headset is cool but it is easy to get annoyed and sick of it. My computer easily runs the games and handles the headset but for some reason things still crash, and at first the vr seems really trippy and weird but then like anything your body gets used to it and it dosent feel different or cool anymore. Also the lenses of the headset constantly get foggy and dirty so you have to constantly clean them, and lastly it easily strains your eyes which alone reduces the amount of time you can actually use it.",
+      "rating": 3.0,
+      "verified": true,
+      "author": "Torsten S Rahm",
+      "helpful_votes": 0,
+      "publication_date": 20190831
+    },
+    {
+      "title": "Very Fun toy!",
+      "text": "I have both the Oculus Rift and the Oculus Go and I can say they are both great products at a great price. I originally purchased the Oculus Go and was hesitant on purchasing the Rift because I thought it would be hard to set up. But any gamer should have no trouble. I am using it on the MSI GS65 Stealth laptop and it works great. Highly recommend.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "POWERBALLWIN84",
+      "helpful_votes": 0,
+      "publication_date": 20190223
+    },
+    {
+      "title": "This is a blast!",
+      "text": "It's a little techie to set up and use. Need a computer that can handle VR. Did not work at first until I figured out yo unneeded an HMDI cable from your monitor to the graphics card. I suppose a techie may say that was obvious but it wasn't to me. Totally transforms you not a new space. Some of the games are tweaking but they are getting better. Can't really compare it to the competition--not techie enough to know what else is out there, but this is a blast.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Les Rosen",
+      "helpful_votes": 0,
+      "publication_date": 20180702
+    },
+    {
+      "title": "If you have a high end PC and money to spare, go this route.",
+      "text": "In terms of gaming, you really aren't missing much if you skip VR for now. Standard gaming obviously has many more options and honestly they are of better quality in pretty much every department. The immersion factor from VR is negated by the fact that you will most likely be doing shorter gaming sessions. I have also yet to find an RPG of comparable value to non-vr titles. Sure, you can get fallout 4 or Skyrim but they aren't more immersive in VR. I would go to a VR arcade and try out the system a few times before purchasing. On another note, you will have to buy a 3rd sensor for the motion tracking to be spot on.",
+      "rating": 4.0,
+      "verified": true,
+      "author": "Shlean",
+      "helpful_votes": 0,
+      "publication_date": 20190218
+    },
+    {
+      "title": "I can't describe the sensation of vr, it's unreal",
+      "text": "I absolutely love this system, I've used both this and the HTC vive and I have to say the oculus touch controllers make all the difference in the world. The touch controllers are so comfortable and responsive it's amazing! I will admit the display isn't as clear or as immersive as I'd like, a wider field of view would be a huge improvement, and of course a higher resolution would be all the better as long as it didn't effect gameplay too much. No regrets with this purchase, totally amazing experience.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "sinister",
+      "helpful_votes": 0,
+      "publication_date": 20190204
+    },
+    {
+      "title": "Nothing against the product itself, just be mindful when ...",
+      "text": "Nothing against the product itself, just be mindful when purchasing that this can create motion issues. My son said these made him incredibly dizzy and sadly couldn't use them.",
+      "rating": 3.0,
+      "verified": true,
+      "author": "Kristina",
+      "helpful_votes": 2,
+      "publication_date": 20180911
+    },
+    {
+      "title": "Vive is better",
+      "text": "Still a nice headset but it has a lot of issues. The controllers use batteries which don't last long, compared to charging with a cord. Harder to adjust for your eyes, heavier than the Vive. Less games are available, takes longer to come up. Can mount the sensors for the Vive, had to buy shelves to make their sensors work and not be in the way.",
+      "rating": 3.0,
+      "verified": true,
+      "author": "Brittany",
+      "helpful_votes": 0,
+      "publication_date": 20181225
+    },
+    {
+      "title": "The experience is worth it, but the cable management/extension is a big headache",
+      "text": "VR in 2019 should not be this expensive, not when the headset is nearly as old as Xbox one. That said, the experience is definitely worth every penny. My one complaint is that the sensor cords are way too short for a room setup. I had to use extension cables, which caused the sensors to drop out of connection whenever they feel like it.",
+      "rating": 4.0,
+      "verified": true,
+      "author": "Sam",
+      "helpful_votes": 0,
+      "publication_date": 20190215
+    },
+    {
+      "title": "Welcome to the Future",
+      "text": "We LOVE this VR system! Once we got it up and running we were amazed with just the little intro game \"First Contact\". I did run into some issues with installation but I think it was the fact that my laptop had some bad drivers. After trying everything that came up in the forums, the last option was to do a full factory reset and reinstall windows. Since my laptop has 2 drives (SSD for the OS and a 1TB HDD for storage) this was not a big deal. After a fresh install of windows and re-installation of the Oculus software, we were up and running in under 10 mins.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "C. Barnette",
+      "helpful_votes": 0,
+      "publication_date": 20180226
+    },
+    {
+      "title": "Nicely built works great.",
+      "text": "The Rift system is awesome for us. Bit the Oculus software has issues So far I had issues with buying games as the query fails The updates have made it stop working and has to be repaired to be used again takes a long time to repair However when the 4 free games wouldn't show up I contacted Oculus support using email and after they investigated it I was promptly fixed after I sent all info they needed. Great service so far and love the Oculus system.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Thula7",
+      "helpful_votes": 0,
+      "publication_date": 20190315
+    },
+    {
+      "title": "It has problems, especially with USB compatibility (run the ...",
+      "text": "It has problems, especially with USB compatibility (run the damn program on their site before you buy), is rather rubbish without the 3rd sensor, and unlike the Vive, the controllers cause me severe pain to use more than 20-30 minutes (so I don't use it as much as I'd like) . . .but that last one's a straight-up handicap so not fair to blame them for being *too* well suited to a \"normal\" hand I guess :P. Worth the money until the next gen.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Ailith",
+      "helpful_votes": 0,
+      "publication_date": 20180215
+    },
+    {
+      "title": "Poor design. Great for the price when working",
+      "text": "Huge design flaw in the side adjustment straps, after a decent amount of time owning it the side straps being adjusted in certain ways will cause a ribbon cable which provides audio to loose its ability to function leaving you with no audio at times. Poor design. Great for the price when working, but I switched to a Vive and the visual quality along with tracking quality are FAR better. Would recommend getting a Vive with Audio Strap add-on for best experience for VR and use a tool called ReVive to play Oculus exclusives with the vive.",
+      "rating": 3.0,
+      "verified": true,
+      "author": "Aliquem",
+      "helpful_votes": 0,
+      "publication_date": 20180818
+    },
+    {
+      "title": "Touch Controllers > Vive",
+      "text": "The controllers feel amazing, and the batteries are replaceable with external rechargeable AA's. My friend's year old vive controllers die every 4-5 hours of game play and require recharging. The batteries also last forever, idk how. If you turn vibration off the batteries only need to be changed monthly. Headset is lightweight, easy to setup. I got an extra sensor (3 total) and an 8ft cube of room scale VR. vive controller emulator allows me to play vive exclusive games (fallout4). This thing is kick ass. great price.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "grant",
+      "helpful_votes": 0,
+      "publication_date": 20180427
+    },
+    {
+      "title": "Lots of fun",
+      "text": "This is way more fun than I expected. Check all specifications carefully though. It uses up a lot of USB ports AND bandwidth. I never knew USB bandwidth could be a potential issue. I cannot get a 3rd sensor for this reason. You need to be able to use two different USB controllers (like USB 2.0 for one sensor and USB 3.0 for everything else) to handle the USB bandwidth.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "this_guy",
+      "helpful_votes": 0,
+      "publication_date": 20190415
+    },
+    {
+      "title": "Pretty Cool...",
+      "text": "If you're really into flight sims, racing games etc. and have some cash to burn I'd say this is worth it...so long as you either aren't using a keyboard a whole lot, or are familiar enough with your control layout to do it (mostly) by feel. But as for VR-specific games etc.? Still cool but not really worth it yet. They need significantly higher resolution, wireless capability, and better ventilation/more easily changeable face padding at a bare minimum.",
+      "rating": 4.0,
+      "verified": true,
+      "author": "Batman_Bin_SuparmanTop Contributor: Photography",
+      "helpful_votes": 0,
+      "publication_date": 20181213
+    },
+    {
+      "title": "Fun for the whole family, even non-gamers",
+      "text": "We had a DK2, which was cool, but only really shined with driving games (Dirt Rally, in fact). Recently got the CV1, and holysmokes - the walk-around the room and Touch controllers add a lot. Gnomes & Goblins charmed the non-gamers, Space Pirate Trainer and Robo Recall enchanted the kids (and me), and Google Earth blew everyone away. It looks like it will be used quite a bit every week. Just BTW: we chose this over the Vive because of the non-need to permanently install the tracking cameras, which is really impossible in our shared dining room / playspace. The ability to set it up and take it down quickly is what won us over on the Oculus.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Dylan McNamee",
+      "helpful_votes": 0,
+      "publication_date": 20171001
+    },
+    {
+      "title": "Love it!",
+      "text": "Bought this along with the \"Acer Predator Helios 300 Gaming Laptop, Intel Quad Core i7 Processor, GeForce GTX 1060 6GB Graphics, 15.6\" Full HD, 16GB DDR4, 256GB SSD, Red Backlit Keyboard, Metal Chassis, G3-571-77QK - VR Ready \" All seems to be working great! Love the free games! hope they keep adding more!",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Patrick Gholson",
+      "helpful_votes": 4,
+      "publication_date": 20170901
+    },
+    {
+      "title": "Wow, this is awesome!",
+      "text": "If you're up for the steep price, this thing is amazing! Transports you anywhere in the world. You feel like you're really there, even in impossible places like the top of the Eiffel Tower! However, be careful and maintain this product well. It has some cords and doodads and gadgets, and it helps if you know what you're doing. This is a toy, but a very expensive toy. Well worth the money.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Ceara Struck",
+      "helpful_votes": 0,
+      "publication_date": 20191223
+    },
+    {
+      "title": "Cheap Controllers",
+      "text": "I've had this for 1 week and the trigger buttons started sticking. I requested a replacement. The replacement was USED, and again, within a week of use, the trigger buttons where sticking again... Worst controllers I've ever seen on any system ever. They are WAY too cheap. There is cheap, and then there is garbage. These controllers are trash.... And a replacement set is 100 USD... Are they insane? a Good Study Xbox controller is barley 65.00 and it lasts for a year or two.",
+      "rating": 2.0,
+      "verified": true,
+      "author": "Daniel",
+      "helpful_votes": 0,
+      "publication_date": 20180829
+    },
+    {
+      "title": "Easy to assemble and load software for use.",
+      "text": "My daughter and I were able to setup the Oculus and sensors in only a couple of hours. Most of the time was allocated to installing the software, its' a large program and with our rural internet speed it took about 1 1/2. Katlyn has been playing the game daily I have to remind her to get off and rest. I am also excited to see how much exercise she is getting while playing the game. She has lost a good 10 pounds in just a few months with the moving and jumping.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Tammy Bratcher",
+      "helpful_votes": 0,
+      "publication_date": 20190305
+    },
+    {
+      "title": "This is what we've been waiting for",
+      "text": "When I was a kid in the 80's this is exactly what I dreamt about. I got the Oculus instead of the Vive because reviewers said the Oculus controllers were a more intuitive interface to VR. Many games are released before they're done, so you have to deal with things that aren't fully cooked. But it's all great!",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Ben Claydon",
+      "helpful_votes": 0,
+      "publication_date": 20181117
+    },
+    {
+      "title": "It's the future!!!",
+      "text": "Virtual Reality is here, what are you waiting for??? Amazing device, the latest Oculus Dreamdeck update makes it even better. Running on i6 GTX 1070 with 32 GB Ram, getting great performance. IMO this headset is better than the HTC Vive because of the Oculus Touch controllers, overall ease of use, number/Immersion of games (having hands instead of sticks helps), and the fact that it has a much lower price. Very happy with my Rift, will definitely be buying the Rift 2 when it drops.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "James Bellian",
+      "helpful_votes": 0,
+      "publication_date": 20181015
+    },
+    {
+      "title": "Awesome, just needs HD stream cast to TV option",
+      "text": "Top of the line solid quality product! This ain't no middle of the mall type stuff. Very impressed with the design & comfort of the headset and controllers. All it needs is a built-in option to easily screen cast or airstream the Oculus Mirror to any smart tv or any Amazon Firestick type of device, wirelessly in HD and 4k without any lag.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Justin Lormand",
+      "helpful_votes": 0,
+      "publication_date": 20190212
+    },
+    {
+      "title": "Great Product",
+      "text": "Pros: -Great Gaming Experience -Great headset and controller tracking -Really slim and well-thought out design -Lots of controller features -Lots of headset adjustment -Great exclusive games Cons: -After a while you will get motion sick -Instead of a gtx 1060 or 1050 which is recommended you need atleast a 1070ti and an i7 or higher if you want the most optimal experience -Sensors randomly disconnect from time to time -the field of view needs improvement",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Jordan",
+      "helpful_votes": 0,
+      "publication_date": 20190114
+    },
+    {
+      "title": "Nice VR System",
+      "text": "Nice VR System. Cons: The 3d resolution is ok, not as crisp as expected, and blurry when objects appear to close or too far away. It was also not clear when I purchased this on Amazon what caliber and type (Windows Only) hardware was required to run it. Controls are ok, some are frustrating, like popping up the menu constantly while trying to play (changed menu setting to long press to help with this.) Pros: Really fun and interactive games and Tools. Whole family loves playing on it. We have a fairly small space setup for it 5x6 ft and it works just fine.",
+      "rating": 4.0,
+      "verified": true,
+      "author": "Sheila Hatfield",
+      "helpful_votes": 0,
+      "publication_date": 20190106
+    },
+    {
+      "title": "BUY THIS NOW!",
+      "text": "An eye opening experience, i'm not kidding. It brings depth to something that never truly had it before and drags you into another world. I put this thing on for the first time and was blown away. Its not something you can see by looking at your computer screen, you have to actually experience it with VR. The best way i could describe it is by compairing it to the first time i drove a car. The controllers drag you in even more, they feel perfect and i've beat mine up a few times on the dresser ... literally not a scratch on the controller haha.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Amazon Customer",
+      "helpful_votes": 0,
+      "publication_date": 20180703
+    },
+    {
+      "title": "Spicy as heck 5/5",
+      "text": "First let me say the presentation of the oculus is beautiful, the setup was also super fast and easy. With this being one of my first experiences with the oculus I can say this is definitely worth 350$. I\u2019ve tried both the oculus rift and the Htc vive and both are excellent but the oculus touch controllers are just 1 extra step towards a more immersive experience. Everything considered this is definitely a 5/5 product worth the buy. Another thing to add is that buying a few 3.0 usb extensions, another sensor, and a hdmi extender makes the experience a whole ton better in full 360.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "aboycalledjonny",
+      "helpful_votes": 0,
+      "publication_date": 20190105
+    },
+    {
+      "title": "Absolutely amazing experience. This arrived in great condition and has ...",
+      "text": "Absolutely amazing experience. This arrived in great condition and has been working since its been received. No damage, not pre used, 100% perfect as expected. Pros its VR! Cons, very likely you will get sick, it seems everyone has at least some level of VR sickness at first but you can get past it! The reason Oculus was my choice over Vive or any others is because of the touch controllers and ability to supersaturate and play any platform VR game. I was not disappointed by any of these features. Honestly, I can't say there is literally anything I am disappointed about other than the lack of titles.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Unknown",
+      "helpful_votes": 0,
+      "publication_date": 20180602
+    },
+    {
+      "title": "Incredible immersion. Easy, no fuss setup.",
+      "text": "The experience is so surreal. I didn't expect to be so immersed but I was wrong. The trackers do an incredible job tracking every movement with no lag what-so-ever. They're also easy to setup and isn't picky about their placements. I live in a small apartment and my room is quite tiny so if I can set it up without fuss, then anyone should be able to as well. Just be careful, you can easily lose yourself in the VR and forget where you are unaware of your surroundings.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Mudig",
+      "helpful_votes": 0,
+      "publication_date": 20170821
+    },
+    {
+      "title": "Works and good system. I have tried the Vive and Oculus ...",
+      "text": "Works and good system. I have tried the Vive and Oculus and decided to go with Oculus. The controllers and HMD are much more comfortable and lighter which is good for longer play. Can easily play Oculus and Steam games. Screen door effect is there but all of them have it at the moment. Field of view is smaller than the Vive but it never takes me out of the immersion. Some say it has light leaks at the nose area but the way I wear mine it does not. Its completely dark. I guess just depends on your head type.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Jayway",
+      "helpful_votes": 0,
+      "publication_date": 20180321
+    },
+    {
+      "title": "It's worth the argument with your wife.. :)",
+      "text": "This is fantastic. Buy it now, argue with your wife later. (Remind her of the expensive jewelry, purses or shoes that she has sitting in the closet). You put this on knowing that it's only VR and it's only a game you'll be playing; but when the robots (or zombies, etc) turn on you, all that rationale goes out the window! Some games produce motion sickness/queasiness in varying amounts, but most games have options to adjust comfort settings.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Amazon Customer",
+      "helpful_votes": 0,
+      "publication_date": 20180109
+    },
+    {
+      "title": "Absolute game changer, must have item!",
+      "text": "Absolute game changer, must have item, and it is just the beginning! Some apps like Google Earth VR offer a kind of experience like nothing else I've experienced, exploring a place you've been on vacation is amazing. Terror games are really frightening, first person shooting is like the real thing. My daughter goes crazy sculpting in 3D and riding rollercoasters. Installation and calibration is not straightforward, I had to look at forums and manually input a script to bypass some broken verifications... Some friends felt seek after using certain apps, fortunately no me. Strongly recommend if you have a decent PC (i.e. i7 4790+, GTX970+)",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Guilherme Guidolin de Campos",
+      "helpful_votes": 0,
+      "publication_date": 20180117
+    },
+    {
+      "title": "Terrific Bundle",
+      "text": "This bundle was a super deal over the other brands. I've never been a fan of Sony products and HTC's products have always been overpriced (and still are). So, when this bundle came along at a reduced price, I jumped on it. When it arrived, I was instantly impressed with the quality of the packaging and the VR itself. Setting up was a breeze. It works like a champ. My main go to VR game is Elite Dangerous which is a blast in VR.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Brian Atwood",
+      "helpful_votes": 0,
+      "publication_date": 20170927
+    },
+    {
+      "title": "Best headset on the market",
+      "text": "Nothing beats oculus in terms of comfort and functionality, I am not a fanboy, I had Vive before and also Microsoft, not one of them can compete with oculus... yes the resolution is better on the Vive pro... but it's a bulky headset. uncomfortable to wear for longer periods as Microsoft Samsung odyssey.. plus the Oculus dash/home.. you simply can not beat that.... with any other headset on the market....",
+      "rating": 5.0,
+      "verified": true,
+      "author": "T00nZ",
+      "helpful_votes": 0,
+      "publication_date": 20181110
+    },
+    {
+      "title": "I STILL love it, despite of not working right headphone.",
+      "text": "Love it! It fits me fine. Once I put it on - i'm in a different world. Controls are pretty comfortable for multiple games. There is nothing bad to say about it. UPDATE - less than three month and the right headphone stopped working. Apparently this is a common issue and have been known to Oculus for more than a year. I don't think I will use warranty replacement - this thing can happen again. I will either fix it myself of use wireless headphones.",
+      "rating": 4.0,
+      "verified": true,
+      "author": "GRiG",
+      "helpful_votes": 0,
+      "publication_date": 20181006
+    },
+    {
+      "title": "Have shown a dozen people this as a demo and everyone loved it. Some even want to build a computer ...",
+      "text": "Phenomenal. Have shown a dozen people this as a demo and everyone loved it. Some even want to build a computer around it now. If your hardware supports it, up the supersampling rate for higher rendering of images. Can't get enough of this. Also a fan is your best fan to avoid any motion sickness.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Static FL",
+      "helpful_votes": 0,
+      "publication_date": 20171229
+    },
+    {
+      "title": "Expensive, over-hyped toy - no support",
+      "text": "Returned this twice. We researched the right laptop specs and bought what we thought was a compatible computer. Had a blank screen on the first one. Couldn't not get a response from \"tech support.\" We were advised to look at the posted messages for a fix. Really????? Return the first one. Same blank screen. We did a reboot of the computer, updated the graphics card..... we tried every suggestion we found on the boards. We even had Amazon help call us twice to trouble shoot. Finally decided to return the hunk of plastic. How do you put out a product with very new technology and offer no tech support?",
+      "rating": 1.0,
+      "verified": true,
+      "author": "Laryssa Shainberg",
+      "helpful_votes": 0,
+      "publication_date": 20190413
+    },
+    {
+      "title": "Game Changer...pun intended",
+      "text": "This thing is literally a game changer by all definitions. It\u2019s impossible to explain unless you try it. One of the coolest thing I\u2019ve ever purchased! My wife hates video games and she even loves this. You\u2019re doing yourself a disservice if you like video games, your computer can handle this, and you don\u2019t get this. Just buy it, you won\u2019t regret it! Although you should be prepared to spend lots of money on VR games cause they\u2019re all amazing and addictive!",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Paul Kragthorpe",
+      "helpful_votes": 0,
+      "publication_date": 20180330
+    },
+    {
+      "title": "Don\u2019t buy",
+      "text": "Got this as a gift for someone and they have had lots of complaints for it. Issues and broken stuff after a week of getting it. Disappointed",
+      "rating": 2.0,
+      "verified": true,
+      "author": "Tony Quatraro",
+      "helpful_votes": 3,
+      "publication_date": 20180213
+    },
+    {
+      "title": "If you are looking for a VR try another one. You are going to have a lot of problems with Oculus",
+      "text": "Don't buy it. If you have good luck you will receive a good working device, but in general oculus has bad products. You can read all about a lot of differents errors , malfunctions, problems and software/hardware or drivers issues online, in forums or any website. Mine only worked fine for 2 hours and after that never worked fine again. I did a lot of tests and changes in my hardware and software, also contacted Oculus support but no solution worked out.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "Amauri",
+      "helpful_votes": 0,
+      "publication_date": 20190105
+    },
+    {
+      "title": "This thing is the best and is worth every penny",
+      "text": "This thing is the best and is worth every penny! I even watch my movies on this thing and it feels like your at the movie theater, The sound is good and the immersion is like no other. If you want to experience what its like to be in a dog fight in space.... blast your enemy to bits with a weapon that feels like its in your hand... have the S*** scared out of you by the hoards of the damned.... then look no further my friend this is for you. love this thing!!",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Joey",
+      "helpful_votes": 0,
+      "publication_date": 20180716
+    },
+    {
+      "title": "4 star experience - hardware reliability disappointing",
+      "text": "The experience itself is pretty good, plenty of fun to be had. The hardware is another story. In less than a year had to replace one headset cable (non warranty) and three hand controllers (warranty). With a button is starting to fail on one of those. Tech support is ok, takes a few emails to get problems resolved, but they're pretty responsive.",
+      "rating": 2.0,
+      "verified": true,
+      "author": "Twaz",
+      "helpful_votes": 0,
+      "publication_date": 20190907
+    },
+    {
+      "title": "Very Impressed",
+      "text": "Very Impressed. My wife got these for me for Xmas. I have been playing as much as I can. The biggest attraction is the feeling that you are in the game. I am looking forward to new game releases, maybe first shooter games. My wife was also impressed with it. It gets a little warm after play for a while, but that might just be me. I enjoy this more than just sitting behind a keyboard. I get some exercise.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "User",
+      "helpful_votes": 0,
+      "publication_date": 20180107
+    }
+  ],
+  "product_meta": {
+    "title": "Oculus Rift and Touch Controllers Bundle",
+    "description": "Edition:Rift + Touch Controllers\n\nRift is unlike anything you've ever experienced. Whether you're stepping into your favourite game, watching an immersive VR movie, jumping to a destination on the other side of the world, or just spending time with friends in VR, you'll feel like you're really there.\n\nIncludes Oculus Touch controllers. Note this bundle does not include Xbox One Wireless Controller\n\n\n\nBOX CONTAINS\nRift (w/cable and new facial interface);Sensor x2;Touch controllers;Printed Accessory Folio w/quick start;Manual;2 AA batteries;Lens Cloth;Audio tool;2 Oculus stickers",
+    "rating": 4.4,
+    "feature_bullets": [
+      "Get 6 free titles, including: Robo Recall, Lucky\u02bcs Tale, Quill, Medium, Dead and Buried, and Toybox",
+      "Rift\u02bcs ultra low-latency tracking offers unparalleled immersion",
+      "The Oculus Touch controllers bring your hands into VR, letting you interact naturally with the virtual world",
+      "NVIDIA GTX 1050Ti/AMD Radeon RX 470 or greater Graphics Card Required and a RAM of 8 GB+ RAM",
+      "Windows PC and internet connection required - review recommended specs to confirm system compatibility",
+      "Operating System: Windows 10"
+    ],
+    "specifications": {
+      "Is Discontinued By Manufacturer": "No",
+      "Batteries": "2 A batteries required. (included)",
+      "Rated": "Ages 12 and Over",
+      "Language:": "English",
+      "Product Dimensions": "10 x 10 x 10 cm; 1 Kilograms",
+      "Release date": "21 July 2017",
+      "ASIN": "B073X8N1YW",
+      "Item model number": "301-00095-01",
+      "Customer reviews": "/** Fix for UDP-1061. Average customer reviews has a small extra line on hover* https://omni-grok.amazon.com/xref/src/appgroup/websiteTemplates/retail/SoftlinesDetailPageAssets/udp-intl-lock/src/legacy.css?indexName=WebsiteTemplates#40*/.noUnderline a:hover {text-decoration: none;}"
+    },
+    "categories": [
+      "PC",
+      "Virtual Reality Hardware",
+      "PC & Video Games"
+    ],
+    "price": 465.43
+  }
+}

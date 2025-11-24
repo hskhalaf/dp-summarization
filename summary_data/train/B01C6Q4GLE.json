@@ -1,0 +1,953 @@
+{
+  "website_summaries": [
+    {
+      "verdict": "Kit offers a bit more power than some others and includes all starter components you need.",
+      "pros": [
+        "Quad-core processor with 1GB RAM",
+        "32GB microSD memory card included",
+        "Ships with an HDMI cable for a display and a micro USB cable to operate the power source",
+        "WiFi and Bluetooth built in"
+      ],
+      "cons": [
+        "Higher price than some other options",
+        "Some problems with build quality"
+      ],
+      "aspects": {},
+      "publication_date": "",
+      "rating": "",
+      "source": "bestreviews"
+    }
+  ],
+  "customer_reviews": [
+    {
+      "title": "Excellent Start Kit",
+      "text": "Perfect starter kit! Didn't have anything, so I bought the whole kit to ensure I had everything I wanted. I coupled this with Hello! Raspberry Pi book, and have learned quite a bit about the Pi and Python. If you're new and really want to get into the world of Pi this is a great starter. They have cheaper alternatives that don't have all the extras, so if you don't need it all then opt for one of the cheaper alternatives.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "randy21mTop Contributor: Baseball",
+      "helpful_votes": 5,
+      "publication_date": 20170104
+    },
+    {
+      "title": "CanaKit Pi 3 - (almost) Ultimate Starter Kit.",
+      "text": "Although I haven't taken the time to explore the entire package, it seems to be a very good collection of parts and accessories for the Pi. I do wish, however, that they had included a \"real\" user manual to go with it, outlining some of the possible uses for the items included. The thin booklet that comes with it has minimal information - enough to plug-in and start the machine, but stops short. Although I can't complain about the company, as it delivered the described items and the Pi works, perhaps another supplier would include a little more in the way of helping a new user get started.",
+      "rating": 4.0,
+      "verified": true,
+      "author": "David Marciel",
+      "helpful_votes": 4,
+      "publication_date": 20161123
+    },
+    {
+      "title": "This is a really nice, good to go",
+      "text": "This is a really nice, good to go, one stop shop, for many of the things one would want to do with a Raspberry Pi3. No digging around and ordering more stuff right away. A pre-loaded sd card, power, hdmi, etc. It gets you going right away. If you have seen Ubuntu Linux, you have a feel for what is available on programming side of Raspbian Linux. What the Pi3 adds from say a Laptop running Ubuntu Linux is the GPIO electronic possibilities and that is why you might want this kit. You will want a HDMI TV or monitor; keyboard and mouse; and Internet. I would suggest buying The book Programming the Raspberry Pi Getting Started with Python.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "J. Wolfe",
+      "helpful_votes": 2,
+      "publication_date": 20160731
+    },
+    {
+      "title": "Highly Recommend",
+      "text": "I am so excited to start working with this kit. I can dig out all my old electronics from college and start tinkering! The kit comes in a nice package, well laid out, the quality of the included parts (case, breadboard, GPIO adapter, jumper wires, LED's, ribbon cable) is excellent, and they provide a couple nice cheat sheets for resistors codes and Pi's GPIO pin out. This a great starter kit for people interested in basic electronics.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Rick W.",
+      "helpful_votes": 3,
+      "publication_date": 20170202
+    },
+    {
+      "title": "CanaKit is a great Rasp Pi Starter Kit",
+      "text": "So far, the CanaKit has met my expectations. I have not used all of the components yet but everything experimented with thus far has worked as expected. The kit came neatly packaged and there are lots of electronics components with which to tinker. The documentation seems adequate. There are also lots of hints and advice for Raspberry Pi computers online so you can try even more experiments when you exhaust the labs with the kit.",
+      "rating": 4.0,
+      "verified": true,
+      "author": "Debra McCusker",
+      "helpful_votes": 2,
+      "publication_date": 20170726
+    },
+    {
+      "title": "Good value. Really not a kit",
+      "text": "As described. Good value. Really not a kit. You just place SD card in the motherboard, attach the two motherboard in the two stick-on heat sinks, and place the little computer in the case and attach the mouse and keyboard USB cables and the HDMI monitor cable before plugging in the power cable. Easy as Pi (pun intended!) Works great. Don't know if I'll ever use the CanaKit GPIO to Breadboard Interface Board, Ribbon Cable, Large Breadboard, Jumper Wires, GPIO and Resistor Colors Quick Reference Cards,RGB LED, 8 x LEDs (Blue/Red/Yellow/Green), 15 x Resistors, 2 x Push Button Switches? We'll see.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Douglass Allen",
+      "helpful_votes": 2,
+      "publication_date": 20180527
+    },
+    {
+      "title": "Amazing is all I can say",
+      "text": "Amazing is all I can say. 20 minutes out of the box to up and running. That includes set up and install in case. I set a static IP and use wi-fi. Found examples and python libraries for the ultrasonic range finder (I had one) and the MPU-6050 gryo/accellerometer very happy It took 2 tries to get it into the case correctly, so just make sure the end that the memory card goes in is tucked under the small tabs otherwise it won't sit flat the breadboard is excellent quality, the break0out cable and connector to the breadboard is a good fit too",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Timothy Nixon",
+      "helpful_votes": 0,
+      "publication_date": 20160719
+    },
+    {
+      "title": "Bluetooth devices are a real challenge!",
+      "text": "We haven't worked with it much yet, because getting it going was so frustrating. Out of the box it just would not seem to pair with our Bluetooth keyboards and mice/trackpads (we tried several). Updating the OS and installed packages seemed to help iron that out, but connections were still pretty unstable: we could type and characters would slowly appear on-screen, then every 40-50 characters some key signal would get \"stuck\" and we'd end up with a string of that characccccccccccccter. It's like the OS or the hardware just can't make use of Bluetooth correctly no matter which keyboard we try. Very disappointing experience so far.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "Ranger",
+      "helpful_votes": 0,
+      "publication_date": 20160831
+    },
+    {
+      "title": "We purchased a third-party adapter to fix the bad software rather then go through the hassle of a ...",
+      "text": "This is the second RaspberryPI I've obtained from CanaKit, a trusted source since our first kit (Pi 2) arrived timely and as expected. Unfortunately this time the Pi 3 we obtained came with defective software on the card and the supplied card-to-USB adapter mounts in read-only mode making reformatting the card impossible (on Macintosh). We purchased a third-party adapter to fix the bad software rather then go through the hassle of a product exchange. In support forums, we encountered another user with the same issue but unknown if it is CanaKit related or if the OEM sdhc card is sourced through another supplier. Overall, we think this purchase is \"okay\" given the useless USB adapter.",
+      "rating": 3.0,
+      "verified": true,
+      "author": "Amazon Customer",
+      "helpful_votes": 2,
+      "publication_date": 20160515
+    },
+    {
+      "title": "Raspberry pi",
+      "text": "This is my first venture into the raspberry pi. It contains everything you need to get set up and started o some basic projects. I do think the price is a little high but fair for not having to deal the hassle of finding all the different pieces and buying the separately. The initial setup was very easy. The included SD card includes several installers including Windows IOT, my OS of choice. I was able to get everything setup and running some code to turn on an LED from a button press within an hour. I know a button isn't that impressive but overall it was very easy. Everything was packaged nicely and delivery was quick.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "B",
+      "helpful_votes": 0,
+      "publication_date": 20160416
+    },
+    {
+      "title": "Fun and useful",
+      "text": "This was my first steps into the raspberry pi world and because of it, i know own several. This one has served as a linux learning tool, arcade game, print server, network monitoring tool, and web server. You can do just about anything with these.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Don J",
+      "helpful_votes": 0,
+      "publication_date": 20190829
+    },
+    {
+      "title": "Love it.  Very nice kit.",
+      "text": "Love it. Very nice kit - everything I needed to get started with the Raspberry 3. Such an amazing little computer. I like the clear case - fits well, I can see the board, protects the board, the external ports (power, HDMI, USB, etc) are cut out so can be externally accessed. This kit is nice because it includes everything (and more) to get booted up and going (just add your own external PC-like keyboard/mouse and an external HDMI monitor).",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Lynn Andrews",
+      "helpful_votes": 0,
+      "publication_date": 20160606
+    },
+    {
+      "title": "You can't go wrong with a Pi!",
+      "text": "Love it! It's a simple as it can be, but perhaps not for absolute beginners. Assembles easily, but take care when installing the heat sinks, as they may not align as expected with the case. I recommend installing the MB in the case first, then installing the heat sinks.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Dennis Taylor",
+      "helpful_votes": 0,
+      "publication_date": 20190118
+    },
+    {
+      "title": "awesome",
+      "text": "this is awesome we turned it into a retro pie (old video game emulator) we put EVERY GAME from nes to n64/ps1. omg I'm goin nuts on banjo kazooie! it was super easy to assemble and if u have any problems check out YouTube",
+      "rating": 5.0,
+      "verified": true,
+      "author": "lindsey loo",
+      "helpful_votes": 0,
+      "publication_date": 20181029
+    },
+    {
+      "title": "Really simple setup to get up and running and really cool for the newbie electronics/programming hobbyist or expert",
+      "text": "Add an HDMI monitor and a USB mouse and a USB keyboard. Really simple setup to get up and running and really cool for the newbie electronics/programming hobbyist or expert. So many possible projects and a great way to learn. This particular kit has almost everything you need (see earlier remarks regarding monitor, keyboard, and mouse) for the enthusiast. For a beginner there are many websites and once up and running links are provided I would highly recommend accompanying this with at least a book of simple starter projects.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Michael Ngarimu",
+      "helpful_votes": 0,
+      "publication_date": 20161218
+    },
+    {
+      "title": "Recommended for computer hobbyists young and old.",
+      "text": "Purchased CanaKit Raspberry Pi 3 Ultimate Starter Kit for my Grandson's birthday. He loves it and is constantly doing projects with it he finds on-line. I particularly like how it is introducing him to programming. The CanaKit came with everything needed for most projects except Monitor, keyboard, and mouse, and the directions are well written and easy to follow. I definitely recommend this kit for computer hobbyists young and old.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Robert H. Elwyn Jr.",
+      "helpful_votes": 0,
+      "publication_date": 20160627
+    },
+    {
+      "title": "Power supply problems",
+      "text": "The Pi is great. Breadboard to jumper wire connections aren't very tight. And my power supply micro usb plug was very lose from the start. I had to use a different power supply to keep it from locking up / rebooting frequently when I added a camera.",
+      "rating": 3.0,
+      "verified": true,
+      "author": "XonXoff",
+      "helpful_votes": 0,
+      "publication_date": 20191106
+    },
+    {
+      "title": "Online resources would have made this a 5 star review...",
+      "text": "Nice kit, but the lack of tutorials or lessons on their website really ruined it for me. There are others available on the net, but the different hardware makes it hard to translate if you don't already know how a breadboard operates.",
+      "rating": 3.0,
+      "verified": true,
+      "author": "MoreOrLezFun",
+      "helpful_votes": 2,
+      "publication_date": 20161205
+    },
+    {
+      "title": "Works Great Would Recommend",
+      "text": "This was my first Pi that I bought. I am now a big fan and love the thing. I used the first one as a home automation controller. It was easy to get going. The possibilities are endless with what you could do. I now have two of them and will buy more. This kit came with everything I needed to get started.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Mike RansomTop Contributor: Smart Home",
+      "helpful_votes": 0,
+      "publication_date": 20170107
+    },
+    {
+      "title": "Great Starter Kit",
+      "text": "Found it to be comprehensive and able to start using the rPi quite easily following included guides. Some patience required while the firmware is installed, but quite a complete starter kit. Would recommend to a friend.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "fabelizer",
+      "helpful_votes": 0,
+      "publication_date": 20181011
+    },
+    {
+      "title": "Overall great starter kit",
+      "text": "Overall great starter kit. The only problem I had with it is that the case for the Raspberry Pi was a little too small and I didn't want to damage the board. But other than the case, the kit works great.",
+      "rating": 4.0,
+      "verified": true,
+      "author": "Jacob Miller",
+      "helpful_votes": 0,
+      "publication_date": 20160820
+    },
+    {
+      "title": "Pi and SD card booted up and installed Raspbian perfectly ...",
+      "text": "Pi and SD card booted up and installed Raspbian perfectly. My only minor gripe is that the bottom of the case doesn't quite snap in place the way it should. If I force it, I'm afraid it'll crack.",
+      "rating": 4.0,
+      "verified": true,
+      "author": "Michelle A. Lowman",
+      "helpful_votes": 3,
+      "publication_date": 20161107
+    },
+    {
+      "title": "A very nice starter kit",
+      "text": "A very nice starter kit. I have had a blast playing with this thing. I am amazed with the performance. Just running the Rasbian linux flavor but it works great. I have had a few hangups every now and then but I am very pleased with it overall.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Chevy Man",
+      "helpful_votes": 0,
+      "publication_date": 20170121
+    },
+    {
+      "title": "Canakit makes great kits for the raspberry pi and this is a ...",
+      "text": "Canakit makes great kits for the raspberry pi and this is a great jumping off point for more advanced projects. The official case is non-permanent and can be disassembled easily to add or remove the breakout ribbon cable. And you can leave the top off in case you have a hat for your pi.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Justin P",
+      "helpful_votes": 0,
+      "publication_date": 20170830
+    },
+    {
+      "title": "I love my Raspberry Pi",
+      "text": "I love my Raspberry Pi. This CanaKit has everything you need to start making several Pi projects. My kids love to play with the GPIO and LED's. The only limitation is our mind. Having a case, GPIO, LED's, push button's and an micro-SD with OS, is a major plus with this kit! I'd recommend to anyone who is ready to start building and learning.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Jay I",
+      "helpful_votes": 0,
+      "publication_date": 20161121
+    },
+    {
+      "title": "Canakit - Raspberry pi 3",
+      "text": "Canakit is an excellent buy for those entering thecworld if computingbas well as seasoned IT professionals. The Ultimate 32GB kit makes the oyrchade fool proof and their suppirt is excellent when ever the need arises to contact them. 5 Stars !!!! plus",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Les Martin",
+      "helpful_votes": 0,
+      "publication_date": 20161225
+    },
+    {
+      "title": "Easy to use.",
+      "text": "A birthday gift for my 7 year old. Add only a keyboard, mouse, and monitor because this kit comes with everything else you will need. Easy to set up. Working 10 minutes out of the box. I didn't get it from Amazon because the shipper that they used, A-1 International, lied about delivering my package and Amazon couldn't guarantee that if I re-ordered that they wouldn't be the same shippers. Great kit. Definitely recommend.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "JimKirk",
+      "helpful_votes": 0,
+      "publication_date": 20160801
+    },
+    {
+      "title": "There is probably some components I am paying for that ...",
+      "text": "There is probably some components I am paying for that I did not need in the slightest. I wisth the memory card that came with it was bigger/faster.",
+      "rating": 4.0,
+      "verified": true,
+      "author": "Chad Ramsey",
+      "helpful_votes": 0,
+      "publication_date": 20161004
+    },
+    {
+      "title": "So Awesome!",
+      "text": "This is so awesome! Canakit did a great job providing all sorts of documents on how to get going. The packaging is absolutely perfect. Within minutes I had retropie running on it as if I were some kind of professional! Thank you very much for a great product. If you as a consumer are considering this, stop wasting time already and click BUY!!!!",
+      "rating": 5.0,
+      "verified": true,
+      "author": "S. Craig",
+      "helpful_votes": 0,
+      "publication_date": 20160505
+    },
+    {
+      "title": "This is a quality kit. The case for the ...",
+      "text": "This is a quality kit. The case for the Raspberry PI fits perfectly. All of the items were in the box and everything works. I've purchased several things from CanaKit before and have never had a problem.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Dehietyi",
+      "helpful_votes": 0,
+      "publication_date": 20170111
+    },
+    {
+      "title": "Quality product",
+      "text": "The SD card that was in this kit was defective, but I reached out to canakit and was shipped a new SD card without any hassle! Thanks Mike!!! The product is very well made and is exactly as described! Very happy! Will definitely buy from this seller in the future!",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Joe",
+      "helpful_votes": 0,
+      "publication_date": 20190207
+    },
+    {
+      "title": "LOVE THIS!",
+      "text": "LOVE THIS !!! I unboxed it and was able to connect my wireless usb mouse/keyboard and monitor quickly. No other hardware is needed to connect to your wireless router - it is built in. Just had to plug in the SD chip and it was ready to go. My only suggestion is clearer instruction on how and where to place the SD chip. The possible projects with this small computer are endless.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Tammy L. Ferrante",
+      "helpful_votes": 0,
+      "publication_date": 20160427
+    },
+    {
+      "title": "Great little startup package",
+      "text": "So far, everything is working great out of the box. The preloaded SD card made setting up the device a breeze and it appears to everything I could possibly need to start on some small projects and start learning some of the Raspberry Pi basics. I definitely look forward to digging into it and having some fun!",
+      "rating": 5.0,
+      "verified": true,
+      "author": "CMA01",
+      "helpful_votes": 0,
+      "publication_date": 20160822
+    },
+    {
+      "title": "Good value for money",
+      "text": "Very good kit to start with R Pi and IoT world.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Marce",
+      "helpful_votes": 0,
+      "publication_date": 20190929
+    },
+    {
+      "title": "This product is brilliant! This is the most I have enjoyed an ...",
+      "text": "I don't usually write reviews -- in fact that is the first I have ever written. This product is brilliant! This is the most I have enjoyed an electronic product in many years. Worked straight out of the box, with everything I need in software and hardware to start building my latest invention. What fun. Amazingly inexpensive for what you get.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Warren Smith",
+      "helpful_votes": 0,
+      "publication_date": 20161028
+    },
+    {
+      "title": "great set",
+      "text": "everything u Need to start with. especially liked the gpio breadboard Interface to use my \"toys\" from my arduinos as well",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Alexander Gross",
+      "helpful_votes": 0,
+      "publication_date": 20171121
+    },
+    {
+      "title": "My computer-nerd kids loved these kits",
+      "text": "I don't know much about this stuff, but....My computer-nerd kids loved these kits. Apparently they are quite powerful for such a little thing.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Erika R.",
+      "helpful_votes": 0,
+      "publication_date": 20170602
+    },
+    {
+      "title": "Maybe in time they will be useful.",
+      "text": "Bought more than I needed for a newbie. This kit is unneccessary unless you know what you are doing with some of the parts in the kit. Maybe in time they will be useful.",
+      "rating": 4.0,
+      "verified": true,
+      "author": "Bonnie",
+      "helpful_votes": 0,
+      "publication_date": 20171003
+    },
+    {
+      "title": "Very nice kit",
+      "text": "Well packaged with everything labeled. Quickly installed Pi into case, inserted provided SD card, attached network, USB keyboard & mouse, and then power. Super easy to install desired OS then complete boot process. Have not started using the breadboard but good assortment of basic parts provided to experiments. Looking forward to \"hacking around\"!",
+      "rating": 4.0,
+      "verified": true,
+      "author": "Andrew R.",
+      "helpful_votes": 2,
+      "publication_date": 20160403
+    },
+    {
+      "title": "love this thing",
+      "text": "My new Toy! love this thing. I can't wait to buy more of these. Great package with lots of extras for anything you want to do with you Raspberry PI3... Must have for nerds and anyone wanting to learn more about Raspberry pi3.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Gary",
+      "helpful_votes": 0,
+      "publication_date": 20170516
+    },
+    {
+      "title": "Great value in this poackage!",
+      "text": "Tons of stuff in the package, great value in here. Everything worked perfectly out of the box. One thing not mentioned was the included Micro-SD card adapter that allowed me to plug the card into my computer to upgrade the noobs software. Very thoughtful and handy!! Highly recommend this kit!",
+      "rating": 5.0,
+      "verified": true,
+      "author": "William Castello",
+      "helpful_votes": 0,
+      "publication_date": 20160405
+    },
+    {
+      "title": "Love my Pi",
+      "text": "My first Pi and I love it. I have been a programmer for many years but never really played around with lights and speakers and bread boards. I learned Python to make the projects work and it has been very educational. You can teach an old dog new tricks.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Rusty Nicola",
+      "helpful_votes": 0,
+      "publication_date": 20160604
+    },
+    {
+      "title": "Comes with everything you need",
+      "text": "Great for beginners with the Pi process, comes with everything you need. You do need to know how to add things to the operating system however. Definitely recommend if you've never built a Pi system before.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Candy",
+      "helpful_votes": 0,
+      "publication_date": 20190115
+    },
+    {
+      "title": "Great startup kit for any enthusiast",
+      "text": "Great startup kit for any enthusiast. Only downside is that it needs more shields :-), which are available via a separate purchase.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "joforup",
+      "helpful_votes": 0,
+      "publication_date": 20170901
+    },
+    {
+      "title": "Lots of fun",
+      "text": "My 12 year old got the machine up and running very quickly. The reason I chose this kit over the more basic starter kit with just the Pi alone is that the extra do dads included here demonstrate the ability of the platform. We're enjoying figuring out how to use it.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Ronzo",
+      "helpful_votes": 0,
+      "publication_date": 20160330
+    },
+    {
+      "title": "Great tools!",
+      "text": "We got the Raspberry Pi 3 Model B IoT minicomputer and connect some of these tools, it was great to work with them.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "RAUL SOSSA SOSSA",
+      "helpful_votes": 0,
+      "publication_date": 20170510
+    },
+    {
+      "title": "Excellent Raspberry Pi 3 Kit",
+      "text": "Great Kit!! Everything I needed in it. Raspberry Pi setup was easy and flawless. Clear instructions. Since I am new to to the Raspberry Pi, this is the kit to buy to get you started. Also has enough extras in the kit for some projects.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Elliot W.",
+      "helpful_votes": 0,
+      "publication_date": 20160620
+    },
+    {
+      "title": "Everything arrived in excellent condition and the RPi was up and running with ...",
+      "text": "Everything arrived in excellent condition and the RPi was up and running with the included micro SD card. I wish the monitor that arrived from another vendor would have worked as well. Maybe CanaKit will include 12 volt monitors in the future, that would give the purchase a 6 star rating.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "James A.  ",
+      "helpful_votes": 0,
+      "publication_date": 20160920
+    },
+    {
+      "title": "Great Raspberry Pi Kit",
+      "text": "This is a great little computer system, can with the entire kit, there are many projects you can get started with, to learn how to integrate different items. I haven't gone to far yet, but look forward to see what I can do.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Kirk B",
+      "helpful_votes": 0,
+      "publication_date": 20160524
+    },
+    {
+      "title": "This is a good place to start",
+      "text": "This is a good place to start. Just add monitor and keyboard+mouse. Getting things set up was so easy. And the software is great and simple. Like the breadboard. It's a good hardware starting point and a good software starting point.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Kell",
+      "helpful_votes": 0,
+      "publication_date": 20160521
+    },
+    {
+      "title": "One of the best RasPi kits I have purchased.",
+      "text": "One of the best RasPi kits i have purchased. You get a lot of parts for a decent price. I just love these little boards.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "John Hunter",
+      "helpful_votes": 0,
+      "publication_date": 20170730
+    },
+    {
+      "title": "Everything you need to get going with RaspberryPi.",
+      "text": "A fantastic starter kit. For someone brand new to the world of RaspberriPi, this kit has everything you need to get going. I have not yet delved into the GPIO components, but it will be nice to have them on hand when I do. Everything came well packaged and the components seem to be of high quality. I'll likely check out CanaKit's other products in the future.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Jason Alexander",
+      "helpful_votes": 0,
+      "publication_date": 20161110
+    },
+    {
+      "title": "Everything you need!",
+      "text": "Awesome deal. My 9yr son loves this thing, and comes with pretty much everything you need to start playing around. Pre-installed training, documentation, and months worth of fun. Don't think about it, just buy.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "M. Russell",
+      "helpful_votes": 0,
+      "publication_date": 20161013
+    },
+    {
+      "title": "Great Rasberry Pi starter kit",
+      "text": "Great Rasberry Pi starter kit. I would like to give 5 star, but deducting 2 star as the included SD Card does not have proper NOOBS and therefore the keyboard and mouse do not work. After reinstalling NOOBS on sd card everything worked fine.",
+      "rating": 3.0,
+      "verified": true,
+      "author": "Viren",
+      "helpful_votes": 4,
+      "publication_date": 20160524
+    },
+    {
+      "title": "This is my favorite new toy",
+      "text": "This is my favorite new toy. Whether you're learning to program or just building a portable emulator, this is one of the coolest little projects on the market. This kit especially has everything you need, well packaged, and very professional.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Char Aznable",
+      "helpful_votes": 0,
+      "publication_date": 20170105
+    },
+    {
+      "title": "CanaKit is really good.",
+      "text": "This kit came packaged very well. All of the items worked without incident. The Rpi fits very well in the case. My 15 year old loves it.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Var",
+      "helpful_votes": 5,
+      "publication_date": 20170725
+    },
+    {
+      "title": "Love the PIE",
+      "text": "The Rasberry PIE was perfect for the price. I would recommend this for kids.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "A.K.",
+      "helpful_votes": 0,
+      "publication_date": 20190705
+    },
+    {
+      "title": "Great Product",
+      "text": "I have really enjoyed the raspberry pi 3. The onboard wifi and Bluetooth is very convenient freeing up USB ports. It's processor is obviously faster than previous versions which helps when processing any major coding you may run on this device. all the products worded as described.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Sarge8306",
+      "helpful_votes": 0,
+      "publication_date": 20160627
+    },
+    {
+      "title": "displays only colored screen after 2 weeks",
+      "text": "I couldnt explore much as the kit stopped working after 2 weeks. All i could see in display was coloured screen. Tried with other sd cards as well.. Seems Its not detecting sd card.. There was no diff in display before or after placong sd card with won 10 iot core",
+      "rating": 2.0,
+      "verified": true,
+      "author": "AmazonCustomerX",
+      "helpful_votes": 0,
+      "publication_date": 20160808
+    },
+    {
+      "title": "Five Stars",
+      "text": "So many great parts for my son's rasberry pi's - they love this. We all love the clear case.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "M. B. Neal",
+      "helpful_votes": 0,
+      "publication_date": 20170107
+    },
+    {
+      "title": "Jumping the Gun on my Evaluation",
+      "text": "I haven't really had much time to ring out this product. Everything arrived in good working condition. The only thing that would have made a better product, was more thorough documentation.",
+      "rating": 4.0,
+      "verified": true,
+      "author": "M de Cervantes",
+      "helpful_votes": 0,
+      "publication_date": 20161226
+    },
+    {
+      "title": "Recommended if you're into DIY",
+      "text": "It comes with everything needed for a retropie build (except for arcade buttons, but you can use any USB controller anyway). Recommended if you're into DIY.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "E. Breda",
+      "helpful_votes": 0,
+      "publication_date": 20160831
+    },
+    {
+      "title": "Hubby loved this. He put it all together and uses ...",
+      "text": "Hubby loved this. He put it all together and uses to monitor and control our off grid solar system.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Dawna",
+      "helpful_votes": 0,
+      "publication_date": 20171221
+    },
+    {
+      "title": "Great product",
+      "text": "This is an amazing and complete product. It has nice tutorials as well. My only regret is that I can't give it more stars! My son and I put it together and the software installed easily and looks like it will be hours of fun and creativity. I will likely be purchasing more of these kits.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Greg W.",
+      "helpful_votes": 0,
+      "publication_date": 20160414
+    },
+    {
+      "title": "This was a great buy. I got it for my 13 yo ...",
+      "text": "This was a great buy. I got it for my 13 yo Granddaughter. Get raspberry pi for dummies too it's a GREAT primer.",
+      "rating": 4.0,
+      "verified": true,
+      "author": "FastFreddie",
+      "helpful_votes": 0,
+      "publication_date": 20160825
+    },
+    {
+      "title": "Great Starter kit if you want to really unlock the potential of the Pi and learn to really use it to its potential!",
+      "text": "Great Kit! The Pi 3 Is Awsome! the extra memory and Quad-Core Processor make a big difference!",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Richard Aristegui",
+      "helpful_votes": 0,
+      "publication_date": 20161114
+    },
+    {
+      "title": "A fantastic gift. Play with it too much and you'll be convinced that you need one too.",
+      "text": "It's a computer that is beefy AF. All you need is a few control devices and a monitor and the only limitation is your imagination.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Cree81v3N4m3",
+      "helpful_votes": 0,
+      "publication_date": 20170624
+    },
+    {
+      "title": "Five Stars",
+      "text": "This is SO fun! We have had so much fun learning to build things and running linux.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "RaeLou",
+      "helpful_votes": 0,
+      "publication_date": 20170608
+    },
+    {
+      "title": "It doesn't get better than this",
+      "text": "It doesn't get better than this. You can hit the ground running with this kit. PS: Get your keyboard and mouse.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Jasan",
+      "helpful_votes": 0,
+      "publication_date": 20160623
+    },
+    {
+      "title": "Excellent project for the family to build and expand on.",
+      "text": "Fun project for the kids and is capable of doing surprisingly quite a bit more than I was expecting. There are so many ways to customize and build onto this little linux box.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Contrary One",
+      "helpful_votes": 0,
+      "publication_date": 20160819
+    },
+    {
+      "title": "Great for the geeks out there who like HW and ...",
+      "text": "Great for the geeks out there who like HW and SW and to find a creative application to program the Raspberry Pi",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Linda Brockman",
+      "helpful_votes": 0,
+      "publication_date": 20180306
+    },
+    {
+      "title": "Nice set up",
+      "text": "Nice set up. I wish it had info on how to use the ultimate starter kit to build something. The pi 3 rocks. You need to get one. Easy set up i am righting the review with it",
+      "rating": 5.0,
+      "verified": true,
+      "author": "bryan scanlon",
+      "helpful_votes": 0,
+      "publication_date": 20160611
+    },
+    {
+      "title": "Fun, but need to buy a lot of accessories ...",
+      "text": "Fun, but need to buy a lot of accessories to build projects with it. 6 year old loves it and is learning basic programming from MIT's scratch. (also available free online). But neat and cheap media center and game emulator (Retropie).",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Jason West",
+      "helpful_votes": 0,
+      "publication_date": 20170301
+    },
+    {
+      "title": "Perfect Pi kit!",
+      "text": "Great Pi kit. Fun to play with. Great quality. I bought it with 5mg camera and sensors\u200b kit = tons of fun.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Mike",
+      "helpful_votes": 0,
+      "publication_date": 20160513
+    },
+    {
+      "title": "Great kit",
+      "text": "This is a fantastic kit if you want to go beyond \"just the computer\" part of it and learn to interface hardware like LEDs and buttons to the Pi. I highly recommend.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Kevin",
+      "helpful_votes": 0,
+      "publication_date": 20160908
+    },
+    {
+      "title": "I've just had this kit for a few days. ...",
+      "text": "I've just had this kit for a few days..but I'm impressed at its size and what you can do with it. I hope you use this along with a \" Arduino \" I've had that for a few weeks. I'll update you in awhile. The kit comes with everything you need to get started. Hahahah what a name \" Raspberry Pi",
+      "rating": 4.0,
+      "verified": true,
+      "author": "JOHN ROBINSON",
+      "helpful_votes": 0,
+      "publication_date": 20160525
+    },
+    {
+      "title": "so this was easily worth it",
+      "text": "This comes with absolutely everything you'd need. I'll be able to reuse so any of this kit in later projects, so this was easily worth it.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Adam",
+      "helpful_votes": 0,
+      "publication_date": 20160310
+    },
+    {
+      "title": "Five Stars",
+      "text": "Great place to start with the Raspberry Pi.It comes with al you need to get started.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Bob  ",
+      "helpful_votes": 0,
+      "publication_date": 20170730
+    },
+    {
+      "title": "A bit expensive but high quality",
+      "text": "You could find cheaper but at the cost of quality. This is a great Internet of Things starter kit. The instructions were very detailed and easy to follow.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "E. Anderson",
+      "helpful_votes": 0,
+      "publication_date": 20161130
+    },
+    {
+      "title": "Great starter kit",
+      "text": "This is a great kit for getting started with the Pi.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "SirFrankoman",
+      "helpful_votes": 0,
+      "publication_date": 20170323
+    },
+    {
+      "title": "Great Kit",
+      "text": "This is a great kit to start experimenting with Raspberry Pi! I was up and running in few minutes.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "GumbyDamnit",
+      "helpful_votes": 0,
+      "publication_date": 20170305
+    },
+    {
+      "title": "Love",
+      "text": "I love raspberry pi. The mega kit allows u to build robots and such",
+      "rating": 5.0,
+      "verified": true,
+      "author": "spenser",
+      "helpful_votes": 0,
+      "publication_date": 20180427
+    },
+    {
+      "title": "Great Kit to Get Started With",
+      "text": "Great kit. Easy to setup and use. Surprised how powerful this little computer really is. Once you have the basics, then much easier to build on from there.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Stephen Smith",
+      "helpful_votes": 0,
+      "publication_date": 20171115
+    },
+    {
+      "title": "awesome, however the ribbon cable and the buttons are ...",
+      "text": "awesome, however the ribbon cable and the buttons are really hard to plug/unplug (same with the case), i managed to plug it once, and im afraid of unplugging it because of the force it requires",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Mathias",
+      "helpful_votes": 0,
+      "publication_date": 20171010
+    },
+    {
+      "title": "Fun for kids...and Dads!!!",
+      "text": "My husband and 11-year-old daughter had a great time building a computer. They are both looking forward to seeing what else they can create with this system!!",
+      "rating": 5.0,
+      "verified": true,
+      "author": "lostNwords",
+      "helpful_votes": 0,
+      "publication_date": 20161221
+    },
+    {
+      "title": "Von",
+      "text": "After months of having this we still can not log in. We have taken it to several people who know about these but we are all still trying to figure it out. My son is anxious to start using it",
+      "rating": 2.0,
+      "verified": true,
+      "author": "von",
+      "helpful_votes": 0,
+      "publication_date": 20170107
+    },
+    {
+      "title": "Couldn't be happier. Oh yea",
+      "text": "every part of my order was complete and securly packed. Couldn't be happier. Oh yea, and I'm a grouchy old septuagenarian.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Kevin R. Geaney",
+      "helpful_votes": 0,
+      "publication_date": 20160620
+    },
+    {
+      "title": "Wonderful",
+      "text": "I use this pi to run a multitude of ide's for developing micro controllers. I have only barely tapped the capabilities of this machine.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Kindle Customer",
+      "helpful_votes": 0,
+      "publication_date": 20160916
+    },
+    {
+      "title": "Very fun project",
+      "text": "This is a great way to get most of the extras for the Pi3 to get it up and running, just wish the kit came with a cooling fan. Fast dilivery.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Chuckie",
+      "helpful_votes": 0,
+      "publication_date": 20160513
+    },
+    {
+      "title": "Let the fun begin.",
+      "text": "Omg... Let the fun begin... Works perfectly, such a great tech you.. I'm going to turn it into an arcade first,",
+      "rating": 5.0,
+      "verified": true,
+      "author": "hammerking",
+      "helpful_votes": 0,
+      "publication_date": 20170123
+    },
+    {
+      "title": "Five Stars",
+      "text": "This is a great learning tool. I wish I had one when I was 12 years old.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Ronald Samson",
+      "helpful_votes": 0,
+      "publication_date": 20170924
+    },
+    {
+      "title": "Five Stars",
+      "text": "Great kit... I didnt want to mess with buying all the parts.... it is also great for beginners.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "The Engineer",
+      "helpful_votes": 0,
+      "publication_date": 20170107
+    },
+    {
+      "title": "I have quite a bit of fun with Raspberry PI",
+      "text": "I have quite a bit of fun with Raspberry PI. The ultimate starter kit was helpful so I could re-learn to phototype circuits. Best yet, controlling with Python.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Software Engineer",
+      "helpful_votes": 0,
+      "publication_date": 20160622
+    },
+    {
+      "title": "Awesome kit, everything came and works as expected",
+      "text": "Awesome kit, everything came and works as expected. Comes with really cool resistor chart and gpio pinout chart which I really liked.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Amazon Customer",
+      "helpful_votes": 0,
+      "publication_date": 20160717
+    },
+    {
+      "title": "Great Kit!",
+      "text": "Bought it for my son- he is in maker heaven, he loves it!",
+      "rating": 5.0,
+      "verified": true,
+      "author": "J Smith 9829",
+      "helpful_votes": 0,
+      "publication_date": 20180117
+    },
+    {
+      "title": "Great computer on a board !",
+      "text": "Very nice kit. It was easy to connect and get working. Now, for more things to do with it...",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Gregg R Owens",
+      "helpful_votes": 0,
+      "publication_date": 20170131
+    },
+    {
+      "title": "Awesome Kit!",
+      "text": "This is a very cool Kit, worked like a champ out of the box, and came with al kinds of information. If you are new to the Raspberry PI's like i am it is a great way to get started.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "W. B.",
+      "helpful_votes": 0,
+      "publication_date": 20160809
+    },
+    {
+      "title": "Raspberry pi 3 is great and also this Ultimate Starter Kit",
+      "text": "I am very satisfied with the purchase of this kit comes complete with everything you need to start experimenting with the raspberry pi, I have already tested to turn on and off some LEDs with the GPIO, the raspberry pi 3 is so faster than the original raspberry pi.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Nery Chanquin",
+      "helpful_votes": 0,
+      "publication_date": 20160419
+    },
+    {
+      "title": "It seems to work well, I haven't been able ...",
+      "text": "It seems to work well, I haven't been able to use ut much because my wireless keyboard doesn't work. But what I could do with a mouse it looks to work",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Austin",
+      "helpful_votes": 0,
+      "publication_date": 20160719
+    },
+    {
+      "title": "Great Starter Kit",
+      "text": "Great starter kit - includes everything needed to get up and running quickly.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "David",
+      "helpful_votes": 0,
+      "publication_date": 20170525
+    }
+  ],
+  "product_meta": {
+    "title": "CanaKit Raspberry Pi 3 Ultimate Starter Kit - 32 GB Edition",
+    "description": "NOTE: The 32 GB MicroSD card may appear as 1 GB when inserted into a PC as it is pre-partitioned. The remaining space can be expanded as desired.\n\nThe CanaKit Raspberry Pi 3 Starter Kit is covered by CanaKit's 1-Year Manufacturer Warranty offering hassle-free replacements.\n\nThe Ultimate Starter Kit includes everything in the Starter Kit plus all the electronic components needed to start using the GPIO port of the Raspberry Pi 3.\n\nThe kit includes a Raspberry Pi 3 case as well as the recommended Raspberry Pi 32 GB Class 10 MicroSD Card pre-loaded with NOOBS. Just Plug and Play!\n\nThe included CanaKit 2.5A Micro USB power supply (UL Listed) is specially designed and tested for the Raspberry Pi 3. This power supply incorporates a noise filter to provide the highest stability.\n\n\nKit Includes:\n\n- Raspberry Pi 3 (RPi3) Model B Quad-Core 1.2 GHz 1 GB RAM\n- On-board WiFi and Bluetooth Connectivity\n- 32 GB MicroSD Card (Class 10) - Raspberry Pi Recommended MicroSD Card with NOOBS\n- CanaKit 2.5A Micro USB Power Supply with Noise Filter (UL Listed) specially designed for the Raspberry Pi 3 (5-foot cable)\n- High Quality Raspberry Pi 3 Case\n- Premium Quality HDMI Cable with CEC support (6.5 feet cable)\n- Heat Sink\n- GPIO and Resistor Colors Quick Reference Cards\n- CanaKit GPIO to Breadboard Interface Board\n- GPIO Ribbon Cable\n- Full-Size Large Breadboard\n- 32 x M/M Jumper Wires\n- 10 x M/F Jumper Wires\n- RGB LED\n- 2 x Red LEDs\n- 2 x Green LEDs\n- 2 x Yellow LEDs\n- 2 x Blue LEDs\n- 2 x Push Button Switches\n- 15 x Resistors\n- CanaKit General Guide for Beginners to Electronic Components\n- CanaKit General Assembly Guide",
+    "rating": 4.7,
+    "feature_bullets": [
+      "Includes Raspberry Pi 3 (RPi3) Model B Quad-Core 1.2 GHz 1 GB RAM, On-board WiFi and Bluetooth Connectivity",
+      "32 GB Micro SD Card (Class 10) pre-loaded with NOOBS, CanaKit 2.5A Power Supply with 5 feet Micro USB Cable and Noise Filter (UL Listed)",
+      "High Quality Raspberry Pi 3 Case, Premium Quality 6.5 feet HDMI Cable, Heat Sink, CanaKit Full Color Quick-Start Guide",
+      "CanaKit GPIO to Breadboard Interface Board, Ribbon Cable, Large Breadboard, Jumper Wires, GPIO and Resistor Colors Quick Reference Cards",
+      "RGB LED, 8 x LEDs (Blue/Red/Yellow/Green), 15 x Resistors, 2 x Push Button Switches"
+    ],
+    "specifications": {
+      "Product Dimensions": "9.5 x 7.6 x 2.1 inches",
+      "Item Weight": "1.3 pounds",
+      "Manufacturer": "CanaKit",
+      "ASIN": "B01C6Q4GLE",
+      "Item model number": "8541611965",
+      "Customer Reviews": "4.7 out of 5 stars440 ratings4.7 out of 5 stars",
+      "Best Sellers Rank": "#520 in Single Board Computers",
+      "Is Discontinued By Manufacturer": "No",
+      "Date First Available": "February 28, 2016"
+    },
+    "categories": [
+      "Computers & Accessories",
+      "Electronics",
+      "Single Board Computers",
+      "Computer Components"
+    ],
+    "price": 99.99
+  }
+}

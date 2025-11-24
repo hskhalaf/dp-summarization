@@ -1,0 +1,963 @@
+{
+  "website_summaries": [
+    {
+      "verdict": "It's not the fastest NAS, nor does it include many advanced features, but the WD My Cloud EX4 still combines great ease of use into an affordable personal cloud system that's excellent for a connected home.",
+      "pros": [
+        "The WD My Cloud EX4 offers data redundancy, Windows Server integration, and an excellent set of personal cloud features",
+        "It's also affordable and very easy to use"
+      ],
+      "cons": [
+        "The server's write speed is disappointing",
+        "The mobile app supports a limited number of file formats, there's no search function, and it won't allow you to sort by content type"
+      ],
+      "aspects": {
+        "Setup": 9.0,
+        "Features": 8.0,
+        "Performance": 7.0,
+        "Support": 9.0
+      },
+      "publication_date": 20131112,
+      "rating": 8.0,
+      "source": "cnet"
+    }
+  ],
+  "customer_reviews": [
+    {
+      "title": "Data loss and very slow write times...do not waste your money!",
+      "text": "Western Digital has severally degraded their reputation with this product. This system has incredibly slow write times, which makes it difficult to use with large volumes of data (exactly why you need up to 16TB of storage). Additionally, after \"just powering off\" the unit, the share and all data was lost. Eventually created a new share and found \"some\" of my data under the recycle bin, unfortunately not my most important files. I could understand if a hard drive gets corrupted (that's why storage devices like this use RAID), but to have the files just vanish is astounding.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "Amazon User",
+      "helpful_votes": 12,
+      "publication_date": 20140828
+    },
+    {
+      "title": "This device is hackable by anyone... SMBv1 !exploits!",
+      "text": "We have two of these at our company. The CIFS/SMB file sharing is using SMB v1. We did a white hat hacker penetration test the other day, and the first thing he did was completely take over that device and use it as a jump off point to compromise a lot of other areas. Turns out it has the latest firmware. Turns out a lot of other people have found these vulnerabilities, but WD has not released a firmware update fixing the security issues. Do yourself a favor, disable CIFS/SMB sharing and only use iSCSI.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "B. Coverstone",
+      "helpful_votes": 0,
+      "publication_date": 20171115
+    },
+    {
+      "title": "The machine itself is fine, however the unit I received had 3 days ...",
+      "text": "The machine itself is fine, however the unit I received had 3 days remaining on the warranty from Western Digital when I called for technical support. Must have been sitting on a shelf somewhere for a year or more before I bought it. I sent them a copy of my Amazon receipt, and they adjusted the warranty time frame to compensate. Instructions and quick start guide were very easy to follow. It's a stand alone box on the network that backs up and stores our data at our business.",
+      "rating": 4.0,
+      "verified": true,
+      "author": "BCF",
+      "helpful_votes": 0,
+      "publication_date": 20170421
+    },
+    {
+      "title": "Works like a Champ!!!",
+      "text": "Awesome NAS. I have it hooked up to a seperate network using Jumbo Frames and dishing out iSCSI SAN Shares to both a Windows Server and a VMWARE ESXi Server without any issues. (Just make sure the cards you are using can support Jumbo Frames. I'm using 9000 and this device supports it and so does my dedicated network cards -- caution -- cheap network cards claim they support Jumbo Frames but try to shy away from them). I do wish it had ability for dual networks but this only supports bonded/failover, not two separate networks.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "GJW",
+      "helpful_votes": 2,
+      "publication_date": 20150518
+    },
+    {
+      "title": "Careful, AD doesn't work properly and unsecured folder forced on you",
+      "text": "Doesn't integrate with active directory like they claim. Hours on the phone with escalation support has yet to yield any help. Also, you're forced to leave the public unsecured, unrestricted share enabled. That's fine at home, but in a SMB, it's stupid to have an unrestricted share on your network. WD isn't interested in removing that \"feature\" or even allowing owners the right to turn off that \"feature\".",
+      "rating": 3.0,
+      "verified": true,
+      "author": "BSB",
+      "helpful_votes": 4,
+      "publication_date": 20150126
+    },
+    {
+      "title": "great hardware, not so much on the software.",
+      "text": "I'm not a fan of the software, so I purchased my own software (Acronis True Image 2015...which by the way is hokey and hangs up for unknown reasons, isn't able to communicate correctly what the issue is and rarely lets you \"stop\" the process to sort out what happened....I've gone weeks w/o backups and it doesn't tell me...but I digress)....the WD enclosure with a couple of Red drives seems to be high quality, reasonable speed when the software works, and so far it's doing it's job. I only gave it 4 stars because I had to go buy my own software (but that software I purchase, while better, blows too).",
+      "rating": 4.0,
+      "verified": true,
+      "author": "Me",
+      "helpful_votes": 0,
+      "publication_date": 20151227
+    },
+    {
+      "title": "Really quiet, good for home but impossible (for me) to integrate with active directory",
+      "text": "This device is great for simple home use, but not good for small businesses. While this device would be perfect for home use - it's quiet and easy to set up for most consumer uses, getting it to interact with Active Directory is impossible - It just doesn't work. I've been trying to configure this for 2 days now including an hour on the phone with customer support. Unfortunately, it still doesn't work with my small business' simple AD system running on Windows Server 2008 which has been stable for 5 years and runs computers ranging from Windows 7 to Windows Server 2008. I had to return this item.",
+      "rating": 2.0,
+      "verified": true,
+      "author": "Bill from Mountain View",
+      "helpful_votes": 0,
+      "publication_date": 20150412
+    },
+    {
+      "title": "All Four Drives Failed Simultaneously, all data lost.",
+      "text": "One month out of warranty; all four drives failed simultaneously, completely negating the value of the RAID array in the first place. Response from WD support - out of warranty, so I'm up a creek. Irony is that I'd never had occasion to actually retrieve a backup from this device until my WD My Book Pro failed almost concurrently. Maybe they conspired? I suspect the elf on a shelf may have been involved as well, but can't prove it.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "Matt Gordon",
+      "helpful_votes": 0,
+      "publication_date": 20181219
+    },
+    {
+      "title": "Outstanding NAS",
+      "text": "I am so thrilled to have this. I had a Pogoplug. It worked but kept on going down. I would have to unplug it and then plug it back in so it would work again. You don't know how much a pain that was especially if you were away on a business trip and you needed something from your hard drive. My Cloud EX4 is worth every penny I paid for it. It has plenty of room plus two extra USB ports for more storage. Right now I have 10TB. and I still have three more bay's to add more hard drives. If you are thinking of buying this I say GET IT !!!!",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Cassie",
+      "helpful_votes": 2,
+      "publication_date": 20150817
+    },
+    {
+      "title": "CONFIDENT IT WILL HANDLE DEMANDING ROLE",
+      "text": "Looks like high quality piece of equipment. Hard disks slide into bays tightly. Like closing a car door on a BMW. So far, up 100% of the time with no issues. \"Dashboard\" gives admin good control over setup and monitoring. Only thing I'm not completely clear on is speed. Configured to Raid 0 it still has to pass my speed test. Just haven't done it yet. To summarize: After 45 days of testing, my NAS about to take on high traffic, 24/7 duty as Media server and Family Cloud Service ( dropping Dropbox). I am confident it will handle this demanding role.",
+      "rating": 4.0,
+      "verified": true,
+      "author": "wolfy52554",
+      "helpful_votes": 0,
+      "publication_date": 20141204
+    },
+    {
+      "title": "These are great devices, however",
+      "text": "These are great devices, however, the documentation that comes with them is almost non-existent and they are a real challenge to set up and get working. Level 1 support, which is in the Dominican Republic is useless; they really don't understand the product or how to get it to work. But Level 2 is helpful. Once working they are wonderful, but be careful. They sent out a \"firmware\" update, which I applied, and now the device isn't working correctly. Level 2 support says they never saw this before and don't know what to do. They have offered to replace the device but migrating all the info is a hassle. I will try to fix it myself....let's see.",
+      "rating": 4.0,
+      "verified": true,
+      "author": "A. FLEW",
+      "helpful_votes": 0,
+      "publication_date": 20141101
+    },
+    {
+      "title": "Its to old",
+      "text": "The device its out date, WD costumer support was unable to make the could works. after backing 3 Gb of one of the PC , the device became impossible to respond. so slow that it will take 20 minutes to open the login page. It was attempted from 3 different computers. The web platforms from the device don't exist anymore. 500 mb of ram is just not enough. to deal with 12 TB. I will not recommend this item. you will be losing time and money. On WD website the S/N of this models that warranty expired back in 2016.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "Catalina Diaz",
+      "helpful_votes": 0,
+      "publication_date": 20200601
+    },
+    {
+      "title": "Great Beginner NAS Option",
+      "text": "Works Great as a beginner NAS option. It's advertised as 8 TB, though if you are looking to actually have realtime backup, it's best to consider that functionally more like 6TB of space. I get transfer speeds around 50MBs to this box, and use it a primary storage array for a primary and backup media server. It handles action from both no problem, is quiet, and preforms well. I'd recommend it to anybody looking to get started with network storage.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Rob",
+      "helpful_votes": 0,
+      "publication_date": 20150725
+    },
+    {
+      "title": "this device has very few good points. I have had unreliable performance and unreliable ...",
+      "text": "Sadly, this device has very few good points. I have had unreliable performance and unreliable drive diagnostics! These are WD drives in a WD enclosure! wish I could get my money back on the whole thing, and buy a USB portable drive (much more reliable). The interface is Slooooooooooow, and the functionality is poor. User's cannot use their credentials to access shares unless its a public share. I could go on and on, but save yourself the trouble...DO NOT BUY THIS. Im not a newbie to tech...I've been in the business for 17 years.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "david a jorgensen",
+      "helpful_votes": 0,
+      "publication_date": 20160823
+    },
+    {
+      "title": "I like this but its failed on me after a few ...",
+      "text": "I like this but its failed on me after a few months. Contacted WD support and it seems they only have like 1 support person or something because it took them forever to get back to me each time I replied to their email back to me.... Now I am awaiting my advance RMA replacement unit, hope it makes it here soon....as long as it took for WD support to get back to me I hope the mailing of the replacement is a bit faster than the email support was. 4 stars only because support response is sooooo SLOW......",
+      "rating": 4.0,
+      "verified": true,
+      "author": "CurtisR",
+      "helpful_votes": 0,
+      "publication_date": 20151031
+    },
+    {
+      "title": "Great NAS for the money!!!",
+      "text": "I LOVE THIS UNIT! I already had 4 new Red drives sitting here and when this piece came. I dropped them it and it was really a no brainer to get it up and running. It has some very neat features, and it is lacking a few. It will be great when WD gets all of the apps going for it. Now this unit is no speed demon, but it does not cost like one that is. For the money it is a great rock solid value. You want super fast, open your wallet further. For my money this unit is perfect. Plus it is WD! What could be better.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "owl9704a",
+      "helpful_votes": 0,
+      "publication_date": 20141116
+    },
+    {
+      "title": "Saved my bacon after a drive crash",
+      "text": "This thing saved my bacon last month when my SSD suddenly turned into a brick. Setup can be a bit picky, and you need to make sure you have all the default Windows network discovery turned on, but if you're running a standard version of Windows and you're willing to read a little bit before trying anything fancy, this baby will store a ridiculous amount of data and turn a major disaster into a minor inconvenience. 5 stars because it worked when I needed it with no hassle.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Michael B. Duff",
+      "helpful_votes": 0,
+      "publication_date": 20150423
+    },
+    {
+      "title": "Super slow (just insane as slow it is)",
+      "text": "This one just a waist of money and a lot of time ! Super slow (just insane as slow it is). And if any think it is reliable, well, im thinking to get back up HDD due to concern of failure. And if it fails, oh boy, month for recovery?! WILL NOT RECOMEND ! Pros: Simple interface Cons: Slow transfer Hard to reach out the dash board New firmware make it slower (old one does not support new features)",
+      "rating": 2.0,
+      "verified": true,
+      "author": "Pavlo",
+      "helpful_votes": 0,
+      "publication_date": 20160122
+    },
+    {
+      "title": "Easy set-up, Massive capacity, WD reputation",
+      "text": "Practically flew out of the box by itself. Seriously, plugged it in and started using it. It was instantly discovered by my WD Live TV box and my Samsung Smart TV. Again no set up, just plugged it in. All my MACs found it so now I have instant time machine backups and of course it is on my network so I can access it from anywhere. Who needs to pay for someone elses cloud when you can have your own. Now excuse me while I go rip 9 million DVD's to it.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Porgy Tirebiter",
+      "helpful_votes": 2,
+      "publication_date": 20140408
+    },
+    {
+      "title": "I'M in the Cloud!!",
+      "text": "All in all for the price a good NAS unit. It has a very robust case and the screen gives you some quick basic info on the unit, IP address, fan speed, unit temp. It is a little slow uploading initial data dump but not too bad. The setup software is straight forward and easy to use. The apps are good but could be improved upon. The music app need to be able to view and manipulate the music better. You cant make playlists or search by genre, artist etc.",
+      "rating": 4.0,
+      "verified": true,
+      "author": "Coheeba",
+      "helpful_votes": 0,
+      "publication_date": 20140701
+    },
+    {
+      "title": "this piece of junk is super slow. After removing all my content and storing ...",
+      "text": "Junk box. I bought the EX4 with 16TB almost 2 years ago. WD uses under powered processing and firmware for something that is more complex. Even after several updates, this piece of junk is super slow. After removing all my content and storing it in something much more reliable and a lot faster, I couldn't bring myself to resell the base unit to anyone.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "Dolores",
+      "helpful_votes": 0,
+      "publication_date": 20170814
+    },
+    {
+      "title": "This is great!",
+      "text": "I have been looking for a personal cloud that would do all the things that this does with ease and realiability. I am able to put movies or documentaries on this cloud and from anywhere in my house and am able to watch them without a hitch. I use my Kindle HDX frequently and it has never dropped a single clip over the last month that I have used it. ... And also, with the Hard Drives I had on had here at home, I have been able to use them in this Cloud perfectly.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "DJ",
+      "helpful_votes": 2,
+      "publication_date": 20140119
+    },
+    {
+      "title": "BRICKED PAPER Weight... DO NOT BUY",
+      "text": "Worked ok all be it slow for 200 days.... Then I did a firmware upgrade and that improved the terribly slow UI but performance was still slow Then I set the device to have a fixed IP and it bricked the device. I cannot get back to my data. the reset button on the back does nothing It hangs when rebooting needing a power cycle. I have lost all my data now and have $999.00 foot stool I will never buy another WD product based on this experience. SAVE YOUR MONEY LOOK AT SOMETHING ELSE",
+      "rating": 1.0,
+      "verified": true,
+      "author": "Al Mcd.",
+      "helpful_votes": 0,
+      "publication_date": 20160517
+    },
+    {
+      "title": "Great Network Storage",
+      "text": "What a great no-fuss way to get some cloud storage with local redundancy! As a SysAdmin, I like being able to get into the guts via an SSH session, but the GUI is great too. Neat little apps for desktop and mobile users - get your files anywhere and be in control of them! Tool-less drive install/replacement and dual power supply/network options make this a serious contender for business class or power users!",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Christopher S Judd",
+      "helpful_votes": 0,
+      "publication_date": 20150530
+    },
+    {
+      "title": "It does not work well with Windows 10, which ...",
+      "text": "It does not work well with Windows 10, which keeps forgetting how to connect to it every time Windows is rebooted. Also shut down makes it hang (for days), so you end up having to pull the power plug and wait a long time for a \"file system integrity check\" before you can change any settings to try to fix the problem.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "Todd D. Vance",
+      "helpful_votes": 0,
+      "publication_date": 20160101
+    },
+    {
+      "title": "Solid but Slow for Time Machine",
+      "text": "I use this for a Time Machine backup. Some days (I have a 3am backup scheduled and if I've modified lots of files, may start it at bedtime) it shows 1GB/hour estimates & speeds, which seems a little slow. Then again, the box I replaced was about that fast and corrupted the backups when I used a speedier option, somaybe the Apple backup sw is doing a lot of stuff that GBs doesn't account for.",
+      "rating": 4.0,
+      "verified": true,
+      "author": "Walter A. French",
+      "helpful_votes": 0,
+      "publication_date": 20160504
+    },
+    {
+      "title": "Great quality but the web interface is pretty slow",
+      "text": "Great quality but the web interface is pretty slow. I am using the Plex app to play movies off of it, but the processor is very limited and results in several issues. I will need a dedicated PC for this purpose.",
+      "rating": 4.0,
+      "verified": true,
+      "author": "Glenn Abbott",
+      "helpful_votes": 0,
+      "publication_date": 20160123
+    },
+    {
+      "title": "Absolutely awful! After I changed the drive name and ...",
+      "text": "Absolutely awful! After I changed the drive name and setup a mycloud account, I changed the user name and password. It immediately gave me a user error warning saying that the system had timed out then logged me out. Never to let me back into the dashboard again. Resetting the unit did not work nor did system restore to get it back to factory default. The 2nd unit did the EXACT same thing. I returned both (the last of which for a refund). This unit is almost WORTHLESS as WD's technical support which is quite simply NONEXISTENT. (Emphasis mine).",
+      "rating": 1.0,
+      "verified": true,
+      "author": "Marvin Baker, Jr.",
+      "helpful_votes": 0,
+      "publication_date": 20150617
+    },
+    {
+      "title": "Using the NAS for shared disk access is working fine. However",
+      "text": "Using the NAS for shared disk access is working fine. However, I've run into two issues: 1 - Plugging in USB drives causes the system to lock up - there are fixes on the net for turning off services that scan USB devices for media files, but these involve Linux shell commands (which I have no problem with), but this should not be happening 2 - If you resize the Time Machine disk space for your Mac, it will cause the time machine to delete the current backups and start over - this is probably not a bug with the NAS, but still bothersome",
+      "rating": 3.0,
+      "verified": true,
+      "author": "Thomas Wimberg",
+      "helpful_votes": 0,
+      "publication_date": 20160705
+    },
+    {
+      "title": "Great device. but tends to get hot in summer.",
+      "text": "Great value and fast NAS. Ran perfect for the most part of a year. Only down side is in summer when it tends to get hot in the middle east. And when im writing a 1 or 2 tb of data to it. The temp of the machine reaches 70. And at times even shuts down due to the heat to protect the drives. Also it lacks apps which is really the biggest down side. Doesent compare to synology or Qnaps offering. But thwn again its not as expensive. So i guess you get what you pay for.",
+      "rating": 4.0,
+      "verified": true,
+      "author": "Osama Ebrahim Ali",
+      "helpful_votes": 0,
+      "publication_date": 20150318
+    },
+    {
+      "title": "Too Slow, bad firmware and software",
+      "text": "This thing was fine when new. They immediately started doing firmware updates. They are not very good at that. The thing is sooooooo sloooooow now it is unbelievable. The support is very bad too. Very disappointed with Western Digital. I have asked for the old firmware multiple times and get no response.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "Steven E Johnson",
+      "helpful_votes": 0,
+      "publication_date": 20171201
+    },
+    {
+      "title": "Best NAS yet!",
+      "text": "I took a bit of time to configure but tech support was great. One drive failed in 2 months of use and was replaced in 2 days. The NAS is FAST!!! and each day I use it more as I learn it features. It was expensive but I would buy it again in a heartbeat! If your care for your data, this is the \"ticket\". I no longer even think of data loss and that is very comforting.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "G. Johnson",
+      "helpful_votes": 0,
+      "publication_date": 20150211
+    },
+    {
+      "title": "It's nice to be able to access files remotely",
+      "text": "It works well enough as of today, 3/27/15, but was a nightmare before. One of the automatic updates bricked the unit, after I'd moved all my files over. I should have had a separate backup but didn't. Luckily after a few weeks WD sent a replacement unit and I was able to put the drives back in, in the same order, and it was back to normal. The recent update seems to have cleared up some issues. It's nice to be able to access files remotely.",
+      "rating": 2.0,
+      "verified": true,
+      "author": "Steven Musgrave",
+      "helpful_votes": 0,
+      "publication_date": 20150327
+    },
+    {
+      "title": "So far so good - but",
+      "text": "The backup software that comes with the system hard to use and I could not get it to work so ended up buying third party backup software. The Raid 5 setup I have did crash but raid 5 is supposed to do it rebuilt itself over a day + with no date loss that I can find. So again far so good after a little over a month.",
+      "rating": 4.0,
+      "verified": true,
+      "author": "RA",
+      "helpful_votes": 0,
+      "publication_date": 20150217
+    },
+    {
+      "title": "Great Out of the Box functionality.",
+      "text": "This holds all my movies and I can watch them from anywhere on anything. I love the power and flexibility this provides without the complication of building my own NAS.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Paul W",
+      "helpful_votes": 0,
+      "publication_date": 20160314
+    },
+    {
+      "title": "Web interface is great, combined with the 4- 4TB Western Digital Red ...",
+      "text": "Web interface is great, combined with the 4- 4TB Western Digital Red hard drives this thing is great. Web access is also a plus for checking backups on the run. Use this with Backup exec and it works great. Network speed is a little slow but for a NAS solution I recommend this product.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Abies Alba",
+      "helpful_votes": 0,
+      "publication_date": 20140723
+    },
+    {
+      "title": "Good Quality.",
+      "text": "This is a nice little unit that has worked perfectly since commissioning. The only problem I ran into was getting the dashboard to function during deployment. 45 minutes of technical support (however courteous and professional) were not able to resolve the issue, so I finally plugged it directly into a Windows 8 machine (not on the network) and Bingo! everything worked. There I changed some of the network settings, returned it to the network, and everything was fine. I suppose that a more experienced user would have avoided the trouble entirely, but overall I can recommend this product.",
+      "rating": 4.0,
+      "verified": true,
+      "author": "Timothy E Hochstetler",
+      "helpful_votes": 0,
+      "publication_date": 20140916
+    },
+    {
+      "title": "Plugged it in, set it up, it works",
+      "text": "Use it on the network. Receives files from the scanner; everyone had their own folder, etc.Also use it to back up the network server file storage.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "J. T. Young",
+      "helpful_votes": 0,
+      "publication_date": 20170123
+    },
+    {
+      "title": "very good product, ability to access your files from anywhere ...",
+      "text": "very good product, ability to access your files from anywhere via WD2go login. (requires some tech know how to setup) Not the greatest file transfer speed, took me 48 hours to transfer my 5TB worth of data to it. (cannot add drives to a volume in a raid) Ability to raid 4 internal drives and create volumes for 2 external (USB) drives,",
+      "rating": 4.0,
+      "verified": true,
+      "author": "Woofie",
+      "helpful_votes": 0,
+      "publication_date": 20150302
+    },
+    {
+      "title": "It's OK but needs More CPU and RAM",
+      "text": "It's a good little unit for home use but it's underpowered in CPU and memory, so don't expect great performance from it for large transfers or for many concurrent users.",
+      "rating": 2.0,
+      "verified": true,
+      "author": "Michael J Smith",
+      "helpful_votes": 0,
+      "publication_date": 20170521
+    },
+    {
+      "title": "Beware the BOX!!!",
+      "text": "The box has yet to work correctly! I assumed that I was doing something wrong because after reading manual I figured this was going to be easy. Unfortunately the drives constantly show as failing and crashes constantly. I've replaced the drives multiple time and nothing seems to work. Because the unit was only going to serve as a backup of our backups I didn't spend much time on it after each failure.....so I missed the deadline to send the unit back, so I'm stuck with a $600 paperweight. Don't waste your money, learn from my experience and go elsewhere!",
+      "rating": 1.0,
+      "verified": true,
+      "author": "Scott Adler",
+      "helpful_votes": 0,
+      "publication_date": 20150806
+    },
+    {
+      "title": "so far so good, BUT",
+      "text": "4 stars as at first glance it looks serviceable. I've messed with this and have added some accounts; so far so good, BUT, only the shadow know what lurks in the hearts of logic circuits. P.S. I've trusted WD for many years and expect no less w this Cloud unit.",
+      "rating": 4.0,
+      "verified": true,
+      "author": "DuGo2Guy",
+      "helpful_votes": 0,
+      "publication_date": 20151021
+    },
+    {
+      "title": "Great storage but avoid iSCSI",
+      "text": "After several months of use, so far I really like it, but WD's iSCSI setup and reliability is awful. So much so, I've stopped using it because I ended up having to delete an iSCSI volume I was using for TV recordings that just stopped working.",
+      "rating": 4.0,
+      "verified": true,
+      "author": "imjin",
+      "helpful_votes": 0,
+      "publication_date": 20160115
+    },
+    {
+      "title": "Good Boat Anchor",
+      "text": "I have two words. BOAT ANCHOR. This server is slow and finicky. I have to reboot it a lot. Searching for files is impossible. I had issues with it after I had it for a month and when I called WD for tech support, they told me the warranty had expired. The worst part of that was the warranty expired 2 months before I purchased the server. Buyer beware!",
+      "rating": 1.0,
+      "verified": true,
+      "author": "Beckie Hawk",
+      "helpful_votes": 0,
+      "publication_date": 20161025
+    },
+    {
+      "title": "No complaints here",
+      "text": "After I put in the Red disks I bought, the server started right up. I was able to quickly go through all the configuration screens and setup the PLEX app without any trouble. I have been streaming my movies and music with it since day 1 and have yet to experience any trouble either on my network or remotely.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Steve",
+      "helpful_votes": 2,
+      "publication_date": 20150828
+    },
+    {
+      "title": "Glacier Drive",
+      "text": "Purchased the 16T model. Arrived setup with RAID5 leaving about 11.8T for raw storage. Never seen a drive so slow. Does not connect readily to network",
+      "rating": 1.0,
+      "verified": true,
+      "author": "Lakehouse",
+      "helpful_votes": 4,
+      "publication_date": 20140425
+    },
+    {
+      "title": "Slow. Takes forever to boot up and even longer ...",
+      "text": "Slow. Takes forever to boot up and even longer to shut down. CPU isn't powerful enough to transcode many video files via Plex server. Wordpress install is a VERY old version and I haven't been able to update it.",
+      "rating": 2.0,
+      "verified": true,
+      "author": "Joe Levi",
+      "helpful_votes": 0,
+      "publication_date": 20151210
+    },
+    {
+      "title": "Great device for price point",
+      "text": "This NAS out performs the Netgear ReadyNAS Arm processor line hands down, while it is no Synology,etc... unit for the price you pay its a good buy. I recommend you get it with the 16TB (4x4TB Red) preloaded as it is cheaper than buying the drives separately. The speed is respectable for what you pay, if you want over 50mb/s you need to spend much more money to get an Atom based unit like Synology,etc...",
+      "rating": 4.0,
+      "verified": true,
+      "author": "The Shoppinator",
+      "helpful_votes": 4,
+      "publication_date": 20140413
+    },
+    {
+      "title": "Does NOT have Plex Media Server support!",
+      "text": "Plex Media Server no longer supports this device. It used to, but doesn't anymore. From the Plex support forums: \"The EX4 CPU/chipset is Marvell Kirkwood 2.0 GHz Single-Core. There are no devtools avaialble for Kirkwood anymore as the development support for this processor stopped years ago.\"",
+      "rating": 1.0,
+      "verified": true,
+      "author": "rsimandl",
+      "helpful_votes": 0,
+      "publication_date": 20160820
+    },
+    {
+      "title": "Home based backup and online access",
+      "text": "I use this as a home backup device and a way to access my files when I'm not at home. Great product and good price with tons of storage capacity.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Ryan O",
+      "helpful_votes": 0,
+      "publication_date": 20161218
+    },
+    {
+      "title": "I like it but configuration was a bit confusing",
+      "text": "I like it but configuration was a bit confusing... But I would buy again just to store files that I can access with my router.",
+      "rating": 4.0,
+      "verified": true,
+      "author": "Michael M.",
+      "helpful_votes": 0,
+      "publication_date": 20170213
+    },
+    {
+      "title": "Small package but great capacity.!",
+      "text": "We have a small office with 6 PC's we are all able to use it it was easy to install and it works fast enough! I still have to figure some stuff out but it's ok for now. Working through the Internet is a breeze and just as fast as in the office. Great little box!",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Fred Clements",
+      "helpful_votes": 0,
+      "publication_date": 20151027
+    },
+    {
+      "title": "Like old WD  EX475",
+      "text": "This unit is just as bad as the old WD backup unit EX475. It does not backu the computers that I have on my network. I installed teo 3TB drives and it is still not giving me the correct information.",
+      "rating": 2.0,
+      "verified": true,
+      "author": "Larry",
+      "helpful_votes": 0,
+      "publication_date": 20150126
+    },
+    {
+      "title": "Great as a NAS, not a Cloud",
+      "text": "People who say it's slow are either crazy, or set it up wrong. It's blazing fast and... really just incredible. So why 3 stars? Very simple really. Great hardware, bad software. Not really even comparable to the capabilities of a normal cloud service like Dropbox.",
+      "rating": 3.0,
+      "verified": true,
+      "author": "Ray",
+      "helpful_votes": 0,
+      "publication_date": 20141129
+    },
+    {
+      "title": "Great Small Business Product!",
+      "text": "These work great as storage for a small office. They can also be a great iSCSI disk based backup target at 1/4 of the price of enterprise iSCSI disk enclosures.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Brian Rivers",
+      "helpful_votes": 0,
+      "publication_date": 20160320
+    },
+    {
+      "title": "Not what I expected or needed.  Very glitchy software.",
+      "text": "Slow and Glitchy. Would not work for what I need which was just a simple external back up solution for my image files. Returned it immediately. The software for it is browser based and stalled out constantly....just not worth the frustration for me.",
+      "rating": 2.0,
+      "verified": true,
+      "author": "highcountry",
+      "helpful_votes": 0,
+      "publication_date": 20150418
+    },
+    {
+      "title": "Great device",
+      "text": "This unit has worked first time out of the box. Easy to install ( need to follow instructions carefully), works as expected, can breath better now that its installed.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "RKG",
+      "helpful_votes": 0,
+      "publication_date": 20150222
+    },
+    {
+      "title": "I recommend it to power users or smal businesses",
+      "text": "Before firmware update it was giving me disk error and was saying optimized to work with wd red nas drives after firmware update it works with different brand disk without any warning. Works fast, quite and silent. I recommend it to power users or smal businesses:)",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Taner Imamoglu",
+      "helpful_votes": 0,
+      "publication_date": 20151115
+    },
+    {
+      "title": "It's awesome. I mean, what else do you need to know.",
+      "text": "I've got mine in a RAID 5 configuration which means that I've got around 8.75 TB of space. It was a good purchase. Easy to install. Solid performance. No complaints.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Bobby Windham",
+      "helpful_votes": 0,
+      "publication_date": 20160201
+    },
+    {
+      "title": "Works well.",
+      "text": "Great box, granted it's the first one I've used like it. Currently I have 2 4tb drives installed, and adding 2 more this week. Easy set up, quick to get started. Using with my 27\" Apple iMac, and Yosemite 10.10.3.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Greg Riegler",
+      "helpful_votes": 0,
+      "publication_date": 20150615
+    },
+    {
+      "title": "Worth having",
+      "text": "Getting plenty of use. Interface a little clunky. Has taken a while to learn to navigate user, security settings. I would, and have recommended to friends.\ud83d\udc4d",
+      "rating": 4.0,
+      "verified": true,
+      "author": "Grumpy",
+      "helpful_votes": 0,
+      "publication_date": 20151129
+    },
+    {
+      "title": "Works as home cloud drive on high speed hub or router",
+      "text": "After a few month of use, it is still works fine without any problem. You will need to have a high speed hub or router, otherwise the transfer speed would not be good at all.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "SensingHand",
+      "helpful_votes": 0,
+      "publication_date": 20141004
+    },
+    {
+      "title": "Self-update bricked the unit.",
+      "text": "Upgraded the firmware via the self-update feature. Unit bricked itself in the process.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "dan powers",
+      "helpful_votes": 0,
+      "publication_date": 20160223
+    },
+    {
+      "title": "Terrible read speeds and even worse write speeds",
+      "text": "Half-baked Activity Directory integration that does not work. Terrible read speeds and even worse write speeds. Don\u2019t waste your money and buy QNAP or build your own solution with FreeNAS",
+      "rating": 1.0,
+      "verified": true,
+      "author": "carlospzx",
+      "helpful_votes": 0,
+      "publication_date": 20160510
+    },
+    {
+      "title": "Perfect for home digital media needs.",
+      "text": "A must buy for any home network that has digital media. Used as raid10 for redundancy. Out of the box with apple time machine. 8TB with raid10 might be a little light.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Isacksen F.",
+      "helpful_votes": 0,
+      "publication_date": 20150410
+    },
+    {
+      "title": "Consider carefully",
+      "text": "It does the job, but it's operating system is slow, and support is poor. Also the public folders cannot be secured, which is a major security issue for which WD should know better.",
+      "rating": 3.0,
+      "verified": true,
+      "author": "Dave",
+      "helpful_votes": 0,
+      "publication_date": 20150217
+    },
+    {
+      "title": "Works as advertised.",
+      "text": "Read the online manual for the version of this that you get. This is very easy to setup but also easy to screw up if you don't read the manual.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Pir",
+      "helpful_votes": 0,
+      "publication_date": 20150721
+    },
+    {
+      "title": "Slow and sometimes nonfunctional",
+      "text": "I am disappointed with this NAS. I have to keep rebooting it at least twice a week in order to get a decent response from it. When I log on to the admin site, the cpu is pegged at 100%. A reboot fixes the cpu issue. Accessing files is not as fast from our windows 8.1 computers. Before buying this, shop around and read all the reviews. It is time for me to call WD to complain.",
+      "rating": 2.0,
+      "verified": true,
+      "author": "Ana Gonzalez",
+      "helpful_votes": 0,
+      "publication_date": 20141202
+    },
+    {
+      "title": "Worthless Device",
+      "text": "After spending countless hours over the past 2 weeks trying to get two 3TB WD Red drives to format and a few hours on the phone with WD Technical Support, I give up on this device. Note: after packing this product for shipping back, I then inserted both 3TB drives into an ANTEK USB Hard drive adapter and formatted both disks. Worked like a charm!",
+      "rating": 1.0,
+      "verified": true,
+      "author": "Mikala",
+      "helpful_votes": 0,
+      "publication_date": 20150209
+    },
+    {
+      "title": "Solid.",
+      "text": "Have had this for over a year now and it works flawlessly. Good speed, great reliability, and all the capacity I needed.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "tiberius",
+      "helpful_votes": 0,
+      "publication_date": 20151031
+    },
+    {
+      "title": "Crashed repeatedly",
+      "text": "Price and space were good but this crashed on me 3 times in the first day. Returned and exchanged for the DL4100",
+      "rating": 2.0,
+      "verified": true,
+      "author": "J. Duider",
+      "helpful_votes": 0,
+      "publication_date": 20160421
+    },
+    {
+      "title": "Four Stars",
+      "text": "it's decent, but the read/write speeds are not even close to my 2 year old Netgear NAS box...",
+      "rating": 4.0,
+      "verified": true,
+      "author": "Richard P Thompson",
+      "helpful_votes": 0,
+      "publication_date": 20151007
+    },
+    {
+      "title": "Impossible to figure out vs Plug and Play. This = impossible",
+      "text": "Tried to use this as a back up and its a nightmare of confusion compared to the MyBooks. Stay away.",
+      "rating": 2.0,
+      "verified": true,
+      "author": "Mike90125",
+      "helpful_votes": 0,
+      "publication_date": 20150218
+    },
+    {
+      "title": "My only complaint is the same as others have posted ...",
+      "text": "My only complaint is the same as others have posted, the speed of writing is abysmal. 20 Mbs on a 1Gbs network. That's from a USB 3 device where I can normally get 90 Mbs transfers",
+      "rating": 4.0,
+      "verified": true,
+      "author": "Allen",
+      "helpful_votes": 0,
+      "publication_date": 20150103
+    },
+    {
+      "title": "zero stars",
+      "text": "Really dissapointed with Western Digital. So slow even with 1000gbps ethernet. Want to throw it to the garbage.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "Paul",
+      "helpful_votes": 2,
+      "publication_date": 20150815
+    },
+    {
+      "title": "Seamless",
+      "text": "Does the job quickly, you'll forget it's there. Seamless compatibility with Windows 7, 8 and Server. Perfect for storing HUGE multi-track audio products or graphics.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "M. Burns",
+      "helpful_votes": 0,
+      "publication_date": 20141115
+    },
+    {
+      "title": "... it for a year now and cannot say anything bad about good item from Western Digital the hot swap ...",
+      "text": "Been using it for a year now and cannot say anything bad about good item from Western Digital the hot swap is fantastic.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Mrriver",
+      "helpful_votes": 0,
+      "publication_date": 20141231
+    },
+    {
+      "title": "this unit is awesome. I am now loading it with a bunch ...",
+      "text": "this unit is awesome. I am now loading it with a bunch of movies for a cloud throughout the family. It holds a lot of data. I can't wait till I get it finished.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Gary E. Orner",
+      "helpful_votes": 0,
+      "publication_date": 20150219
+    },
+    {
+      "title": "Fantastic, feature packed, and simple to use but still so powerful",
+      "text": "I have been searching for a while and was almost about to settle and build a NAS from scratch when I found this. The interface is so easy to use and the features in the apps on your devices and the ones built in to the operating system make this incredibly powerful yet simple and easy to use. I love the simplicity of opening the app and it just connects no fuss no mess.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "michael mcgough",
+      "helpful_votes": 0,
+      "publication_date": 20150126
+    },
+    {
+      "title": "Worth the $$$",
+      "text": "Absolutely satisfied with this equipment and is ease of use. set up is a breeze and access to your cloud from anywhere with virtually any device is outstanding. WD has perfected the personal cloud with this unit. Cheers",
+      "rating": 5.0,
+      "verified": true,
+      "author": "David Smith",
+      "helpful_votes": 2,
+      "publication_date": 20140124
+    },
+    {
+      "title": "Four Stars",
+      "text": "Little pain in the butt, but firmware upgrades over time have resolved most of the issues.",
+      "rating": 4.0,
+      "verified": true,
+      "author": "Michael W. Rippey",
+      "helpful_votes": 0,
+      "publication_date": 20160222
+    },
+    {
+      "title": "Five Stars",
+      "text": "Great unit - easy install - lots of space (configured as Raid 5 for secure b/u) - works flawlessly",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Robert Cumming",
+      "helpful_votes": 0,
+      "publication_date": 20150715
+    },
+    {
+      "title": "Works on your local network ok but...",
+      "text": "Do not hold your breath to have Internet access. I have tried several different configurations of port forwarding, it does not work. Nor does the \"automatic\" configuration or what is as referred to as relay. The box just says attempting to connect but never does. As for a local network back up device it works well enough, I have not tried much else. If I can get the port forwarding to work I would raise the rating. I do like the way it is built, the raid drives are easy to access, and even though the reviews say it is slow, for home use it is just fine.",
+      "rating": 3.0,
+      "verified": true,
+      "author": "Douglas A. Nelson",
+      "helpful_votes": 2,
+      "publication_date": 20140108
+    },
+    {
+      "title": "Easy to set up and access through the My Cloud ...",
+      "text": "Works as advertised. I have 8TB set up for personal backups. Easy to set up and access through the My Cloud App.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Steve Bachman",
+      "helpful_votes": 0,
+      "publication_date": 20141128
+    },
+    {
+      "title": "Works",
+      "text": "This backup /cloud works as advertised. The WD My Cloud EX4 makes me feels more confident that I'll not loose data.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Greg FD",
+      "helpful_votes": 0,
+      "publication_date": 20140615
+    },
+    {
+      "title": "Five Stars",
+      "text": "Great NAS fast and very reliable and redundant storage with RAID. Awesome",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Sal Delorenzo",
+      "helpful_votes": 0,
+      "publication_date": 20160602
+    },
+    {
+      "title": "To Early to Tell",
+      "text": "I have read the reviews and purchased this NAS as the price was right, but, you get what you pay for. It is slow and I am concerned I made the wrong choice. This NAS doesn't like to be pushed and found when I am doing multiple tasks it cannot keep up thus I lose my dashboard access. I am hopeful WD gets the firmware updated and improves this little NAS. For a mac user, it does allow for time machine backups however i just received an error message about time machine cannot validate the drive so it is starting a new back up!",
+      "rating": 2.0,
+      "verified": true,
+      "author": "BBJ",
+      "helpful_votes": 2,
+      "publication_date": 20140303
+    },
+    {
+      "title": "works fine - no issues",
+      "text": "works fine, no problems. waking up from standby mode can take a few seconds (standby mode interval is adjustable), but otherwise no issues during video streaming or file transfers.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "anon",
+      "helpful_votes": 0,
+      "publication_date": 20150304
+    },
+    {
+      "title": "Five Stars",
+      "text": "Excellent. Not the fastest in the market, but worthy the money",
+      "rating": 5.0,
+      "verified": true,
+      "author": "CADS",
+      "helpful_votes": 0,
+      "publication_date": 20151015
+    },
+    {
+      "title": "best investment plus priced better than a 3 rb drive",
+      "text": "Superb.. best investment plus priced better than a 3 rb drive .. performance 5 star speed 5 star",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Juan E. Ariza",
+      "helpful_votes": 0,
+      "publication_date": 20150710
+    },
+    {
+      "title": "the RAID system failed after 3days of using it,",
+      "text": "the RAID system failed after 3days of using it ,but WD support team is still not able to help me after 12 days of chasing behind them and spending 2 hours of international phone calls since i don't have a support number in Saudi Arabia.",
+      "rating": 2.0,
+      "verified": true,
+      "author": "younes almanameen",
+      "helpful_votes": 2,
+      "publication_date": 20150103
+    },
+    {
+      "title": "Not for on demand use",
+      "text": "This thing is SLOW. I had it hooked up for about an hour before I decided to ship it back. Speeds about 50MB regardless of which raid version using gigabit and 4 disks. In comparison I built a small desktop and setup linux software raid on it for about 500, and it runs at about 120MB a second. If you just want to store stuff and don't have any technical knowledge, this might work for you. If you want to stream data across your network, don't waste your time.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "Joshua",
+      "helpful_votes": 14,
+      "publication_date": 20140226
+    },
+    {
+      "title": "Monster video server",
+      "text": "Absolutely the easiest NAS I have ever worked with. Turned it on and copied all of my media from various drives to the NAS.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Michael Price",
+      "helpful_votes": 0,
+      "publication_date": 20140409
+    },
+    {
+      "title": "Five Stars",
+      "text": "Trouble free config and works well as our Video and music server",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Dave Camilleri",
+      "helpful_votes": 0,
+      "publication_date": 20150322
+    },
+    {
+      "title": "Garbage performance",
+      "text": "Garbage, just look at the supplier forums about performance issues on this device, backing up 100GB takes a day over the network. Creating a backup of an existing USB drive made the system unresponsive. Installed 2x WD red drives 4TB in RAID 1 configuration.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "alessm",
+      "helpful_votes": 0,
+      "publication_date": 20160303
+    },
+    {
+      "title": "Great bang for the buck!",
+      "text": "Easy to deploy, Reliable. Well documented. Support was fantastic. What else to you want? I wish this exact appliance was available in a 1u or 2u rackmount (without adding thousands $$ to the price).",
+      "rating": 5.0,
+      "verified": true,
+      "author": "jimnipp",
+      "helpful_votes": 0,
+      "publication_date": 20150306
+    },
+    {
+      "title": "Four Stars",
+      "text": "Drive is good, but support leaves much to be desired.",
+      "rating": 4.0,
+      "verified": true,
+      "author": "Denis",
+      "helpful_votes": 0,
+      "publication_date": 20180325
+    },
+    {
+      "title": "Great buy for people who need safe cloud storage.",
+      "text": "I love western digital! This thing is awesome! I found this very easy to set up.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "carl lundoy",
+      "helpful_votes": 0,
+      "publication_date": 20150107
+    },
+    {
+      "title": "my WDmyClued EX4 experience",
+      "text": "I am very happy with this product as it works well. It does what I wanted. The only problem I have is its speed as his is not a very fast NAS but you can always manage if you use fast hard drives (SATA III) and both 1 Gb Ethernet ports together (2 Gb). I like that you can access it using your mobile device and also works well over the internet (cloud). Safety and security is also very good as I use a RAID 1 (mirror) array for important files with user access controls, etc. and a JBOD arrangement for streaming music and videos.",
+      "rating": 4.0,
+      "verified": true,
+      "author": "Franklin Isaac Gobern",
+      "helpful_votes": 0,
+      "publication_date": 20140115
+    },
+    {
+      "title": "Great NAS, supports rSync!",
+      "text": "Works well out of the box. With SSH access it even supports rSync.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "MBrando",
+      "helpful_votes": 0,
+      "publication_date": 20150314
+    }
+  ],
+  "product_meta": {
+    "title": "WD My Cloud EX4 16 TB: Pre-configured Network Attached Storage featuring WD Red Drives",
+    "description": "Capacity:16 TB\n\nMY CLOUD EX4 PERSONAL CLOUD STORAGE \u2013 ULTIMATE RELIABILITY FROM THE TRUSTED NAME IN STORAGE. \nBuilt from the ground up with the quality and reliability you've come to expect from WD, My Cloud EX4 is a high-performance, four-bay NAS for your home or small office. It offers a robust all-metal enclosure, multiple RAID volumes, easy drive installation, and a full suite of apps for the power and flexibility to expand your NAS features.\n\nFeaturing WD Red drives\nMy Cloud EX4 works right out of the box with integrated WD Red hard drives for ultimate compatibility in the unique 24x7 NAS operating environment. Pre-set in RAID 5 mode for ultimate protection for your data from the start.\n\nEasy to set up, easy to manage\nEffortlessly install drives or hot swap within five seconds with WD's advanced, all-metal enclosure design. WD's powerful dashboard means you are always in control.\n\nExtensive data protection\nYou're armed with multiple options to secure your data from loss. Choose RAID 1, 5, 10 or select from spanning and JBOD modes for even more options to manage your data.\n\nUltimate reliability - Built from the ground up with the quality and reliability you've come to expect from WD.\n\nYour options are endless - Choose the diskless enclosure with easy drive install and hot swap to effortlessly add up to four drives and grow as your needs expand. Or, choose a populated system that works right out of the box, featuring WD Red hard drives for ultimate compatibility in the unique 24x7 NAS operating environment. \n\nHigh-performance NAS - Dual Ethernet and power supply ports; 512 MB memory and 2.0 GHz processor deliver reliable, blazing-fast performance for your home or small office. \n\nDrive management and data protection at its best - You're armed with multiple options to secure your data from loss. Choose RAID 0, 1, 5, 10 or select from spanning and JBOD modes for even more options to manage your data.\n\nEasy to manage - A powerful dashboard and LCD display means your system is always under your control. Monitor your drives, manage users, and utilize energy-saving features. Email and mobile alerts keep you informed on My Cloud EX4 status. \n\nAward-winning desktop and mobile apps - With WD's My Cloud mobile and desktop apps, you can upload, access and share your documents from anywhere. Conveniently transfer files from your public cloud service to the My Cloud EX4 directly from the mobile app. \n\nPowerful apps to customize your NAS - Featuring industry-leading apps, including aMule, Icecast, Joomla!, phpBB, phpMyAdmin, and SqueezeCenter. \n\nAdvanced serving options - Integrated file server, FTP server, backup server and P2P torrent download server.\n\nStream media to your connected devices - Stream videos and photos to connected TVs, media players, gaming consoles and other DLNA/UPnP devices. Features a Twonky 7.2 and a DLNA-certified 1.5 media server. And with My Cloud EX4's iTunes server, you can easily stream your music collection.\n\nBack up, your way - Protect your data with remote backup to another My Cloud EX4, integrated cloud backup or local LAN/WAN backup. PC users, WD SmartWare Pro offers options for how, when and where you back up your files for up to ten computers. Mac users, utilize all the features of Apple Time Machine backup software to protect your data. \n\nIncrease your personal cloud capacity - Simply attach a compatible USB hard drive directly to one of the two USB 3.0 expansion ports on My Cloud EX4 and instantly expand your storage capacity.\n\nIntegrated energy-saving features - Save money on your energy bill with disk spin-down and scheduled power on/off. \n\nYour own personal cloud - Unlike public clouds, My Cloud EX4 allows you to keep all your content in one safe place on your home or office network instead of a remote server. No mysterious location of your data. No monthly fees. No limits. Just blazing-fast performance for your high-speed digital life. \n\nAdvanced features - iSCSI target, full-featured FTP services, link aggregation and failover support, jumbo frame support, iPv6 ready, UPS support (USB and network), real time resource monitor, volume encryption with boot-up password, SNMP, and virtual volumes. \n\nMy Cloud EX4 personal cloud storage products work concurrently with multiple operating systems including Mac OS, Windows 8, iOS and Android with mobile apps.\n\nIdeal for\n\n * Centralizing and organizing your data in one secure location\n * Securing your data from loss with customizable disk management and multiple RAID options\n * Backing up files automatically from all the PC and Mac computers on your network\n * Streaming all your media files on your network\n * Quickly installing drives with ease\n * Saving, backing up and sharing your stored content from anywhere\n * Accessing and saving files securely from any computer, tablet, and smartphone\n * Uploading photos and videos directly to your personal cloud to free up space on your mobile devices\n * Transferring files between your public cloud accounts and My Cloud EX4\n\nWhat's in the box\nFour-bay personal cloud storage, Ethernet cable, power supply and cable, Quick Install Guide.\n\nCompatibility\nWindows 8.1 or earlier, Windows 7, Windows Vista or Windows XP (SP 3) operating systems\nMac OS X Mavericks, Mountain Lion, Lion or Snow Leopard operating systems\nDLNA/UPnP devices for streaming\nInternet connection for remote access\n\nSupported Browsers\nInternet Explorer 8 or higher\nSafari 6 or higher\nFirefox 21 or higher\nGoogle Chrome 27 or higher on supported Windows and Mac OS platforms \n\nNote: Compatibility may vary depending on user's hardware configuration and operating system.\n\nFeatures at a glance\n\n * Four-bay enclosure, 0 \u2013 16 TB\n * Dual Gigabit Ethernet\n * Dual USB 3.0 expansion ports\n * 2.0 GHz processor\n * 512 MB of system memory\n * PC/Mac compatible\n * RAID 0, 1, 5, 10; JBOD, spanning\n * Easy drive install and hot swap\n * Twonky 7.2 DLNA 1.5 & UPnP certified media server\n * Anywhere access from computers, tablets, and smartphones with My Cloud desktop and mobile apps\n * A full suite of third-party apps\n * iTunes support\n * Dual power and network redundancy\n * Optimized for WD Red drives with WD's exclusive NASware technology\n\n\nFor more great WD products, visit the Western Digital Store at Amazon.com",
+    "rating": 3.1,
+    "feature_bullets": [
+      "Reliable, high-performance, four-bay NAS for your home or small office",
+      "Diskless enclosure for ultimate flexibility or a populated system that works out of the box",
+      "User-selectable drive management with RAID 0, 1, 5, 10 as well as spanning and JBOD modes",
+      "Get up and running quickly with easy drive installation or buy a populated version that works right out of the box",
+      "Easy to manage with a powerful dashboard, LCD display and drive status alerts",
+      "Award-winning desktop and mobile apps",
+      "Industry-leading third-party apps, including aMule and Icecast",
+      "Advanced serving options including an integrated file server"
+    ],
+    "specifications": {
+      "Brand": "Western Digital",
+      "Item model number": "WDBWWD0160KBK-NESN",
+      "Hardware Platform": "Pc, Mac",
+      "Item Weight": "13.8 pounds",
+      "Product Dimensions": "8.67 x 6.3 x 8.21 inches",
+      "Item Dimensions  LxWxH": "8.67 x 6.3 x 8.21 inches",
+      "Flash Memory Size": "16 TB",
+      "Manufacturer": "Western Digital",
+      "ASIN": "B00G4JZ30S",
+      "Is Discontinued By Manufacturer": "No",
+      "Date First Available": "November 12, 2013",
+      "Customer Reviews": "3.1 out of 5 stars340 ratings3.1 out of 5 stars",
+      "Best Sellers Rank": "#637 in Computer Network Attached Storage"
+    },
+    "categories": [
+      "Data Storage",
+      "Computers & Accessories",
+      "Electronics",
+      "Network Attached Storage"
+    ],
+    "price": ""
+  }
+}

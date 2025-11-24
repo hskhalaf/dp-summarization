@@ -1,0 +1,986 @@
+{
+  "website_summaries": [
+    {
+      "verdict": "Intended for ages 10 and up, this kit is compatible with Arduino Uno R3 boards and offers dozens of components at an excellent price. May be a better choice for those with coding background than for actual beginners.",
+      "pros": [
+        "Compatible with Arduino Uno R3 boards",
+        "Upgraded starter kit with power supply module and 9V battery with DC",
+        "Includes 22-lesson PDF tutorial CD",
+        "LCD1602 module with pin header, so there's no soldering for you to do",
+        "Includes a variety of electronics components"
+      ],
+      "cons": [
+        "Tutorials may be too advanced if you don't have coding experience",
+        "Some components may have sporadic problems"
+      ],
+      "aspects": {},
+      "publication_date": "",
+      "rating": "",
+      "source": "bestreviews"
+    },
+    {
+      "verdict": "One of the best beginner kits you can buy if you are looking for a simple introduction into programming with Arduino.",
+      "pros": [
+        "Comes as a complete kit that doesn't require any extra parts of accessories to start using",
+        "Includes a handy manual and lesson guide to teach you the beginning points of programing in Arduino"
+      ],
+      "cons": [
+        "Lacks advanced components like sensors"
+      ],
+      "aspects": {},
+      "publication_date": "",
+      "rating": "",
+      "source": "bestreviews"
+    },
+    {
+      "verdict": "Students interested in programming will love this expanded starter kit. Compatible with Arduino.",
+      "pros": [
+        "Basic, economic programming kit that's compatible with Arduino IDE",
+        "No need for soldering",
+        "Tutorial included",
+        "Includes LEDs, stepper motor, and 7-segment display",
+        "Use with computer interface"
+      ],
+      "cons": [
+        "This kit requires some interest and knowledge to be a success"
+      ],
+      "aspects": {},
+      "publication_date": "",
+      "rating": "",
+      "source": "bestreviews"
+    }
+  ],
+  "customer_reviews": [
+    {
+      "title": "Disappointing",
+      "text": "Got this for my STEM obsessed 6th grader. The disk is just photos, and he was having a really hard time understanding it. So, I sent it with him to his Opa\u2019s, who is very literate in things like this, and even he was having issues. The instructions are a total joke. Pictures that are not totally clear, and that\u2019s it. No writing, no directions on when or how, just a picture of it all put together and you hope you\u2019ve got it right. Total waste of $.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "GrammaTeacher",
+      "helpful_votes": 6,
+      "publication_date": 20191216
+    },
+    {
+      "title": "A great kit, well packaged, perfect for a beginner",
+      "text": "This is a great kit with a lot of cool sensors to get you started. I recommend pairing this with an acrylic baseplate so you can mount your Uno R3 next to a breadboard instead of chasing it all over the work bench. If you're a beginner to Arduino but not to electronics, the Arduino Cookbook by O'Reilly is the book to get. Most books rather tediously go through what LEDs and diodes are, while the Arduino Cookbook assumes you know how to make a circuit and you want to learn how to make your circuits more fun with an Arduino.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "C. Nicoloff",
+      "helpful_votes": 26,
+      "publication_date": 20170330
+    },
+    {
+      "title": "Arduino is Super",
+      "text": "This is my first arduino project kit and I am extremely satisfied. There are so many pros: 1. Packing is very nice. Every part of the project (even tiny details) are carefully put in the box; 2. In the box there is a nice sheet of paper that shortly describes every detail stored in the box; 3. Software installation is very easy; 4. Tutorials are very easy to understand; 5. Everything is very intuitive; 6. Quality is great.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Rez",
+      "helpful_votes": 8,
+      "publication_date": 20171209
+    },
+    {
+      "title": "Bad knockoff quality",
+      "text": "A good amount of the stuff didn't work at all. The display module flickered and wouldn't work right unless I held all the wires in a certain position (like when your old earbuds start to die and you have to keep the cable in a certain orientation to hear anything). The step motor didn't work once even fresh out of the box and following the instructions to a T. After about 2 months, the controller stopped working right, half the pins didn't seem to be connecting properly. Yes, this is the same model as the original Arduino brand and its cheaper, but don't be fooled. You get what you pay for, and this is low quality, Chinese-knockoff crap.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "Amazon Customer",
+      "helpful_votes": 4,
+      "publication_date": 20190826
+    },
+    {
+      "title": "Perfect Arduino kit for beginners.",
+      "text": "Awesome!!! My son (7y/o) asked if we can build a robot, of course I said yes. I wish I had the opportunity to learn electronics and robotics when I was his age, his eyes to up when I opened up this package. I was so happy to see him lit up with excitement. We started by making basic circuits and now he is ready to start learning code. What an amazing thing to be able to do. The kit is perfect, I am happy.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Hal",
+      "helpful_votes": 2,
+      "publication_date": 20191103
+    },
+    {
+      "title": "it seems like just as good as the arduino brand kit for ...",
+      "text": "I'll update this as I start to actually put together the projects in the manual, but just playing around with it, it seems like just as good as the arduino brand kit for $100 less. It really could benefit from a potentiometer though which this kit does not have. I set up a 12v dc adapter from the wall and spliced the ends of the terminals from that cord to the positive and negative terminals of a 1k potentiometer and was able to run power from the wall to the breadboard with a good manageable DC voltage that the components could handle. The terminals run horizontal instead of vertical. The terminals run the opposite way of the buses.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Verity",
+      "helpful_votes": 2,
+      "publication_date": 20180112
+    },
+    {
+      "title": "Don't wait, get this now.",
+      "text": "If you have always wanted to play around with microcontrollers and learn about electronics, this is your perfect place to start. Paul Mcwhorter over on YouTube uses this very kit and walks you through over 65 different video tutorials. I knew absolutely nothing when I bought this kit two weeks ago, and now I can build some pretty amazing stuff. If your kids are bored this summer, or if YOU are bored this summer, order this now. I would go ahead and order some more cheap breadboards and some better jumper wires, but that's about it. Best purchase I've ever made on Amazon.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Cheese Gypsy",
+      "helpful_votes": 0,
+      "publication_date": 20200629
+    },
+    {
+      "title": "Great starter kit",
+      "text": "Great starter kit. I think the kit is better than described. Thank you so much. My only suggestion is to include a small list of alternative free tutorials, as I think the included tutorial could have been better organized and wasn't the most easy thing to understand even disregarding organization. I think it would be best to be written as if the reader will be very un-knowledgeable. And the more advanced hobbyists can just skip past the parts they think is too basic. However, writing a good tutorial of that size would be quite an endeavor. Personally, I would leave it mostly alone, and just include alternative suggestions for good free tutorials.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Amazon Customer",
+      "helpful_votes": 0,
+      "publication_date": 20180717
+    },
+    {
+      "title": "It's \"Elegoo.\"",
+      "text": "In other words, I think that is a spin off \"illegal.\" I would recommend it over Arduino, in product vision, I have this and a Arduino micro, this is really a step up in overall quality of \"be up and running.\" The tutorial is very easy, it's all packed into one neat case. The Arduino micro, it's a \"sheek\" in a box. No help, no extra bells and whistles, I am sure it's possible there products are like such in different vendors, or themselves, but I didn't see it on just one, being the second development board in my experience, get the Elegoo.",
+      "rating": 4.0,
+      "verified": true,
+      "author": "Nicholas R Forystek",
+      "helpful_votes": 2,
+      "publication_date": 20180523
+    },
+    {
+      "title": "Quick start into the Arduino universe",
+      "text": "Seemed too good to be true, but this was the real deal. Super cheap way to get started in Arduino. Fun builds, good hardware and information. Parts of the guide seemed to be outdated (manual referencing things on the CD that weren't there, or labeled differently, etc.), but no big show-stoppers. Take your time with things and you'll have fun too. The only thing I would've liked to have had in addition to this kit was one of those little trays that secures the Arduino and breadboard to keep your builds nice. I bought one in addition to this kit on the cheap, and was glad I did. Otherwise this was a complete package.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "LLCoolJeff",
+      "helpful_votes": 0,
+      "publication_date": 20190630
+    },
+    {
+      "title": "Great buy!  (For leaning only)",
+      "text": "Great way to learn arduino setup and coding! I was able to use it right out of the box with the arduino IDE. The parts are inexpensive but work as expected. This is a excellent kit for learning. The standard arduino uno libraries work with it perfectly. I do wish there was beginner project for each of the accessories. However the arduino library does have extensive coding examples and you can find sketches if you do sone googling. My only complaint is the box it comes in is a bit small and its very hard to put it all back inside. I had to replace mine with a crafting kit from harbour freight.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "JamesBlonde001",
+      "helpful_votes": 0,
+      "publication_date": 20191012
+    },
+    {
+      "title": "Very complete basic kit, with great tutorial included.",
+      "text": "This kits comes with a variety of input and output devices, with a tutorial in how to use each one. With a little programming ex pool erience you can put them together in interesting ways. The physical materials are great. and the tutorial and additional documents are well written and easy to understand. I have been using it with a STEM class and it has been great. The kit comes with and optical disc with everything you need. I remember optical discs, but found it very easy to download everything from the elegoo.com website.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "David P. Smith",
+      "helpful_votes": 0,
+      "publication_date": 20180720
+    },
+    {
+      "title": "Great starter package!!!",
+      "text": "Making my way through the projects provided and so far having a great time experimenting. Has most of the devices that you need to get off to a great start in the Arduino world. Did I mention that the pricing is a real value for what you receive? It is a great starter pack. If you are interested in going down the Arduino path, you won't be disappointed.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "JGH",
+      "helpful_votes": 5,
+      "publication_date": 20170325
+    },
+    {
+      "title": "Buy a 9VDC power supply to go with it",
+      "text": "Great kit, but it does not include a power supply (description should be changed). It will run from USB power, but you need a power supply to run steppers or to run the board independently of your computer once you have the Arduino programmed. Buy this, and you'll be good: regulated 9V 1A switcher, lightweight, correct barrel connector, good price.  Do not use a 12 VDC supply with this, as most of the circuitry runs on 5V. If you use a 12VDC power supply with this board, you have increased regulator power dissipation by 42% as compared to a 9V supply.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Staccato von Tosh",
+      "helpful_votes": 0,
+      "publication_date": 20200710
+    },
+    {
+      "title": "Good starter kit",
+      "text": "This is a good starter kit for the beginner, documentation is good and plenty of parts are supplied. The only cons for me so far is the resistors supplied are blue which makes reading the color bands difficult, and the jumper wires supplied are such small gauge that they felt it necessary to crimp stiffer ends on them to make it easier to plug them into a breadboard. The only problem is crimping doesn't work well on solid wire and the ends pull off when you remove the jumpers from the board. They should be soldered on or crimped on stranded wire.",
+      "rating": 4.0,
+      "verified": true,
+      "author": "JAS",
+      "helpful_votes": 0,
+      "publication_date": 20200320
+    },
+    {
+      "title": "Good for beginners, value for money",
+      "text": "A very good product for the price they are quoting. Its a complete (well, complete is a relative term, am referring to Arduino beginners) kit accompanied with nice instructions on various mini projects you can do. Pros: 1. Quality components. 2. Good documentation, with sample codes that work. And the code works. Attached a video of 7 segment led project in the code. Cons: 1. Breadboard could have been larger. You may run out of space, if many components are plugged in. 2. Included box could have been bigger. Once we unpack every components ( resistors/jumper wires), we may have to squeeze them back in. Or buy a bigger box.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Binish",
+      "helpful_votes": 0,
+      "publication_date": 20200604
+    },
+    {
+      "title": "The kit is nice, the tutorials are pretty easy to follow and ...",
+      "text": "The kit is nice, the tutorials are pretty easy to follow and get you learning Ardunio in a pretty simple manner. If you have coding experience its a plus, as it makes it much easier to understand. I debated hard between this and genuine Ardunio and Im not diappointed choosing the Elegoo Uno Edited: After putting the kit away for move I re opened it and went to continue with some projects I was trying to use IR receiver module and it does not work I never get to use it originally and this is kind of disappointing but the kit was cheap and everything else seems to work fine still",
+      "rating": 3.0,
+      "verified": true,
+      "author": "Danny Perfect",
+      "helpful_votes": 2,
+      "publication_date": 20170513
+    },
+    {
+      "title": "Learning Electronic Controls",
+      "text": "This item was my choice for my 11-yr-old grandson, after a year with the more basic SnapCircuits. It is much less toy-like and provides good learning in its instructions. I like, too, that it offered some bonding time with his dad (he needed dad's computer for downloading latest software and instructions). There are many discrete components in this kit necessitating an uncluttered area to work. The storage container is suitable to keep it all together in a small package. Additional learning modules are available.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Craig",
+      "helpful_votes": 0,
+      "publication_date": 20200108
+    },
+    {
+      "title": "Definitely worth it!",
+      "text": "Pretty nice starter kit! The usb to comp cable was a dud, as was one of the RGB LEDs, but overall everything has been working great! The instruction portion could use a little more editing for English translation error, and some of the code snippets have revision notes from editors to each other (they commented out a block of code in one example and noted that the way it was setup was causing incorrect outputs, if that was meant as a teaching point it was not clear to me). The buttons are super satisfying.",
+      "rating": 4.0,
+      "verified": true,
+      "author": "Casual Listener",
+      "helpful_votes": 0,
+      "publication_date": 20200815
+    },
+    {
+      "title": "Full Kit Includes Software And Goodies",
+      "text": "Given to a nine year old as a Christmas present. Now I want one! Comes with the SDK for C programming and a good tutorial PDF. Needs a laptop for downloading the compiled code and also viewing the tutorial manual. Lesson 2 includes a tutorial on resistor color codes. If you have a child that can look at a chart and then compute the ohms, this is an appropriate gift. If not, find a family member or friend who can help. Comes with enough \"goodies\" such as a remote and sonic sensor to build many projects. If you child enjoys building the projects, he or she has a great career path ahead.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "JP KazarianTop Contributor: Photography",
+      "helpful_votes": 0,
+      "publication_date": 20180722
+    },
+    {
+      "title": "Well worth the money",
+      "text": "This kit is amazing. It comes with a huge array of resistors, sensors even a decent sized breadboard. Frankly for $39, its a lot of wires, components and the best thing is that the elegoo uno works great out of the box with Arduino Ide. I connected and the ide identified it as arduino uno and was able to run the blink program right away. Only complaint is that maybe they can increase the depth of box it comes in, as you wont be able to pack it the same way it came once you use some of the components.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "ToThePoint",
+      "helpful_votes": 0,
+      "publication_date": 20200501
+    },
+    {
+      "title": "If this is your first, shell out for a true Arduino",
+      "text": "I previously got the Arduino kit, but got through it so gave it to a friend. But I wanted to mess around with more electronics so purchased this kit. For the Elegoo, the breadboard is way too tight, which makes putting components in very difficult. You end up bending everything. The instructions are really oddly installed (Mac user). You sort of have to guess where to start, and they don't really explain much. If you're looking to get a starter into electronics, I recommend paying extra for the Arduino kit.",
+      "rating": 2.0,
+      "verified": true,
+      "author": "C. Yost",
+      "helpful_votes": 0,
+      "publication_date": 20200609
+    },
+    {
+      "title": "Super complete Arduino kit for a great price",
+      "text": "This is an *amazing* starter kit for Arduino. I've used it for two classes now and the kids love it. It has so many components and the included tutorial CD makes it so easy to set up a curriculum. Or self-motivated kids can use it on their own. I did a full year of once-a-week classes using just this kit, and we didn't even get through all the cool components. The price is beyond reasonable, when you consider the cost of the components. Also, many other kits of this stripe require you to solder leaders onto the LCD unit, but not this one! The leaders are pre-soldered. I highly recommend this kit.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "otterbyte",
+      "helpful_votes": 3,
+      "publication_date": 20170926
+    },
+    {
+      "title": "\"Starter\" but not for code",
+      "text": "A nice set of hardware. Everything seems to work. The hardware instructions are clear enough, but with a few errors (exercise numbers in the instructions don't match the exercise numbers in the program directories.) My big disappointment is that the \"tutorials\" aren't for beginner coders. They just instruct you how to connect the devices (the easy part), tell you to load the program and you're done. There are a few comments about how the program works, but you aren't going to learn to code with this \"Super Starter Kit\"",
+      "rating": 3.0,
+      "verified": true,
+      "author": "Ron G",
+      "helpful_votes": 3,
+      "publication_date": 20170817
+    },
+    {
+      "title": "Almost 5 Stars, Love The Kit Though!",
+      "text": "This kit just pulled me DEEP into the world of Arduino, lol. I have since ordered the 3 pack of Elegoo Nano V3 boards, 3-pack breadboards, and a 120-pack of Dupont wires, along with various peripherals... I have a problem now, lol. My only complaint was that the servo, which I was most excited about learning to use, moved a couple times an froze up and just makes a buzzing noise while heating up. Pretty sure it's dead, since this seems like the most common problem all over the web. Contacted Elegoo to see what I should do, since I really don't want to return the whole kit over a servo...",
+      "rating": 4.0,
+      "verified": true,
+      "author": "Mr. & Mrs. Hawks",
+      "helpful_votes": 0,
+      "publication_date": 20190208
+    },
+    {
+      "title": "Very Complete starter kit!",
+      "text": "I can honestly say this is one of the best purchases I have made on Amazon in a while. I was impressed with how much they were able to cram into this kit for the price. I was also impressed with the quality of the UNO compatible card and the tutorials. Test sketches, libraries included for every component the sent. While the included box is good, you might want to buy a bigger box so you can divide the items up and make them easier to find. A clear plastic tackle box did the trick for me.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "McMillanFarm",
+      "helpful_votes": 0,
+      "publication_date": 20190527
+    },
+    {
+      "title": "Very Satisfied!",
+      "text": "I bought this kit to learn about basic electronics. It was exactly what I was looking for plus more. All components came neatly packaged and ready to use. One thing to note about basic electronics is this microcontroller set is just the beginning. I planned to create more complex projects, but without knowledge of c/c++ programming, it will be difficult to further my microcontroller usage. Learn c and or c++ programming for this kit, not super necessary, but it will help tremendously.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "JM Hahka",
+      "helpful_votes": 0,
+      "publication_date": 20200605
+    },
+    {
+      "title": "FANTASTIC!!!!",
+      "text": "This Arduino Starter kit by/from Elegoo is by far the best quality, best priced and value for money that I have bought through amazon thus far. The quality of the components are 100%. I am a total Elegoo nut now! I bought this kit to get to grips with the whole Arduino \"thing.\" All the items were packed well in the case. All items promised are there. Given Elegoo - I m not surprised. The CD is simple and understandable. I copied and extracted what I had to. Read the pdf files - NB for getting your Arduino talking to your PC. Thank you Elegoo - you are super!!!!",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Sound and Lab Electronics",
+      "helpful_votes": 0,
+      "publication_date": 20190508
+    },
+    {
+      "title": "A GREAT KIT FOR ANY LEVEL ROBOT MAKER!",
+      "text": "The Elegoo Uno Robot Car is an excellent entryway for beginners! I bought this as a project to help me learn how servos and object avoidance sensors work. A few friends of mine purchased the car too and we raced them. You have to be careful of the IR remotes working on other cars, but it is not a big issue if you keep the cars separated enough. Also, it is really great to code the Arduino on board and make the car do what you want it to do. I would highly recommend this kit for makers of all levels. They give you everything you need right there in the kit.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Amazon Customer",
+      "helpful_votes": 0,
+      "publication_date": 20200617
+    },
+    {
+      "title": "Decent kit for cheap",
+      "text": "The Arduino and electronic components seem to work as advertised, although I haven't managed to use them all yet. The USB cord is short and a little stiff, which can be annoying when positioning the setup on a workbench. The included large breadboard and jumper wires don't quite work together; the wires fit loosely and don't always go straight in. The little breadboard that comes with the prototype shield is much better. The tutorials are great to get started and well-written, although they primarily cover library setup and interactions. They're much easier to follow if you bring some coding knowledge to the table to begin with.",
+      "rating": 4.0,
+      "verified": true,
+      "author": "Jay",
+      "helpful_votes": 0,
+      "publication_date": 20180531
+    },
+    {
+      "title": "Great product, highly recommend",
+      "text": "Great product, only issue I had was the DC motor leads fell off. I have to say that if you are buying this product, more than likely you can at least resolver the leads. Pros: Has many components. Has everything you need to experiment with. If you had to purchase these parts you would pay way more. Comes with Cd \ud83d\udcbf Cons: Nothing negative here. Some of the items are cheaply made but they are good for the price",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Lawrence P. Fostano",
+      "helpful_votes": 0,
+      "publication_date": 20200430
+    },
+    {
+      "title": "Great starter kit, with some reservations",
+      "text": "This is a great starter/novice setup. I went into this already knowing something I wanted to build so after following a handful of examples, I branched off and built my device. Most of the parts included in this kit I haven't touched but the reason I'm not providing 5 stars are because of the resistors included. The stripes that denote each resistor value are muddy in color so it's really hard to know what is what once you separate them from their packaging. I've had to use my multi-meter a number of times just to be sure I got the right one.",
+      "rating": 4.0,
+      "verified": true,
+      "author": "Paul B.",
+      "helpful_votes": 3,
+      "publication_date": 20171108
+    },
+    {
+      "title": "ELEGOO UNO Project Super Starter Kit with Tutorial and UNO is a great kit",
+      "text": "It's amazing that ELEGOO provided so many different devices and many different short projects with Arduino code in this kit to demonstrate the code and devices and it's fun to try them out. The kit includes instructions and Arduino code that really works. But I'm an Electrical Engineer and I think it might be difficult for beginners to figure out the resistor values and the connections to the devices and how to do everything. I recommend it for father and son or daughter, so they can work together on the projects.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "John EE Baker",
+      "helpful_votes": 0,
+      "publication_date": 20200128
+    },
+    {
+      "title": "Super Value!",
+      "text": "The ELEGOO UNO Project Super Starter Kit with Tutorial offers high-value for the money. The Uno board is recognized as an official board in the Arduino IDE. The other components look to be of good quality and the selection is more than most people will use. The only niggle is that the tutorial is on the CDROM which I don't have a computer that has one these days, but it is comprehensive and is also available online (but you need to use the CDROM to figure that out).",
+      "rating": 5.0,
+      "verified": true,
+      "author": "scott",
+      "helpful_votes": 0,
+      "publication_date": 20190624
+    },
+    {
+      "title": "Great starter package",
+      "text": "Great starter kit... Packaged well I bought this to get started with Arduino and for the cost was a perfect fit. You can get started pretty quick with some real basic projects. The only small issue was actually getting started with putting a kit together. This comes with CD with the Arduino software and some PDFs but I had to go to YouTube, google, Intructables.com and other sites to find very granular step-by-step guides for understanding how to get started... what things meant. BUT once you get into it a little everything falls together quick. Next would be to actually master the code/language which could take time.",
+      "rating": 4.0,
+      "verified": true,
+      "author": "Andrew",
+      "helpful_votes": 0,
+      "publication_date": 20170813
+    },
+    {
+      "title": "Great introduction to Arduino",
+      "text": "I needed an Arduino Uno (or a clone such as this) in order to install a bootloader on my 3d printer. I figured I might as well buy a kit so I could use the Uno after I was done. Some of the instructions were a little out of date, for example, there was no need to install the drivers using Windows 10, as they were installed automatically. There are a ton of tutorials on the web, which I used instead. I look forward to making more projects with this cool kit!",
+      "rating": 5.0,
+      "verified": true,
+      "author": "worm",
+      "helpful_votes": 0,
+      "publication_date": 20190705
+    },
+    {
+      "title": "Excellent starter kit; high quality components",
+      "text": "This is an excellent starter kit for Arduino fans. I've had it for about two weeks and am very pleased. The Arduino itself works great, and the silkscreened labels on the sides of the connectors are quite helpful. There's a great variety of additional components, and all of them are high quality. The projects book is very complete, easy to understand, and very well written. The book includes datasheets and schematics which are sometimes omitted from similar books in other kits. I have built all the projects given in the book and found no significant mistakes.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Malcolm Phoenix",
+      "helpful_votes": 0,
+      "publication_date": 20180420
+    },
+    {
+      "title": "super way to learn",
+      "text": "Spent several days with my daughter who started programming, going through the theory behind the experiments. its a super kit, all the software you need, and all the different modules and sensors to build thing is awesome all in one kit. The simplicity of Arduino is that there are pre-built libraries for all the sensors, so when you come to build you own project, you simply include all the libraries. wow, isn't Arduino easy compared to how it was for us !!",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Eversale",
+      "helpful_votes": 0,
+      "publication_date": 20190822
+    },
+    {
+      "title": "Great!",
+      "text": "I\u2019m am a total beginner but this is great. It goes through the steps helping you understand the basic principles and components and how they work. I like that they have the schematics and a drawing of where each part goes so I can see if I read and understood the schematics correctly. The more complicated lessons seem to have less information which seems strange. Still haven\u2019t gotten through them all but so far it\u2019s great and it has broadened my understanding a lot.",
+      "rating": 4.0,
+      "verified": true,
+      "author": "Joe",
+      "helpful_votes": 0,
+      "publication_date": 20200130
+    },
+    {
+      "title": "Perfect kit for beginners!",
+      "text": "There are so many components in this little kit. I was simply amazed. I got this for the summer to introduce my kids to Arduino projects and it was quiet easy to follow. It came with easy to follow projects included in the CD and easy instructions to integrate everything. We haven't had a chance to do all the projects but it's a great start.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Kayu",
+      "helpful_votes": 0,
+      "publication_date": 20180924
+    },
+    {
+      "title": "Good for Beginners but Missing Some Lesson Code and Arduino Board Explanations",
+      "text": "While this is a nice starter set for beginners like myself, I had to hunt around the web to find a good explanation of the various components and pins for the Arduino board itself. And there are a number of lessons for which there is no explanation for the included Arduino code used for those lessons. I am keeping the sample lessons for future reference for when I need a particular component that is included in the kit.",
+      "rating": 4.0,
+      "verified": true,
+      "author": "MrThink",
+      "helpful_votes": 0,
+      "publication_date": 20190818
+    },
+    {
+      "title": "Great Kit for Beginners",
+      "text": "This kit is great for beginners with minimal knowledge of electronics or Arduino. It includes various sensors, motors, etc. which can be used for some fun projects. The kit includes a disc containing instructions, diagrams, and code for various projects which can be completed using the components in the kit. Once you have some basic knowledge and experience, you can think up your own projects! Highly recommended.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Amazon Customer",
+      "helpful_votes": 0,
+      "publication_date": 20200413
+    },
+    {
+      "title": "Great kit for beginners",
+      "text": "I needed an Arduino, wires, and some other components. All of which were included in this kit so I purchased this kit for it's components. The instructions are on a hard disk and computers don't come with disk drives anymore so that was useless to me. However, if you have enough programming and hardware experience you will do just fine. Many examples are on the Arduino site.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "David",
+      "helpful_votes": 0,
+      "publication_date": 20191226
+    },
+    {
+      "title": "I'm unzipping and reading lots of docs - nothing tells me how to start...",
+      "text": "I'm an idiot because I don't understand how to \"Get Started.\" I've been to several sites and watched video and I've got the UNO RS plugged into my macbook with continued error messages. Guys, granted I'm not a coder and have only a few raspberry pi units working int he past year but I have no idea how to start this but have 3 zip packages unzipped with lots of folders and a CD (not sure where to find an old pc to run that). You need a for dummies version of how to start working with this kit.Maybe I need to just hand it over to my kid and say 'figure it out.'",
+      "rating": 3.0,
+      "verified": true,
+      "author": "Dave",
+      "helpful_votes": 0,
+      "publication_date": 20180416
+    },
+    {
+      "title": "Amazing quality for the price",
+      "text": "I buy these for custom sign illuminations. They work wonderful. I typically buy just the elegoo uno, but this go around I bought the kit to see whats in it. ALOT. More than enough for weeks worth of projects. Well done and love that documentation comes with the set so people new to arduino can learn one step at a time. One improvement would be if they arduino uno has a powersupply included instead of the 9V, but it works.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Geof W.",
+      "helpful_votes": 0,
+      "publication_date": 20190306
+    },
+    {
+      "title": "Great kit despite a part missing",
+      "text": "I have been having a lot of fun with this kit and have learned a lot so far. Only problem (and only reason for 4 stars instead of 5) that I have had is the lack of the potentiometer. Its a bit difficult to do some of the tutorials without it. From what I understand, I could essentially use the joystick in its place on a single axis. Just wanted to give the seller a heads up that this part was missing with the kit. It did come with the plastic piece that I assume connects to the potentiometer. The package seal was not tampered upon receiving the kit either.",
+      "rating": 4.0,
+      "verified": true,
+      "author": "Aaron Olson",
+      "helpful_votes": 0,
+      "publication_date": 20190520
+    },
+    {
+      "title": "Great way to get started with Arduino.",
+      "text": "This kit is a great value and comes with decent tutorials on the included CD-ROM. It has everything you need to get started. After you run out of tutorials then there is plenty of other tutorials and projects you can find online. I was so satisfied with this kit that I bought a second one a couple of weeks later. Now I can make bigger projects and I have backups in case I lose a part or burn one up. I would also recommend getting the 37-in-one sensor kit.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Frostic7734",
+      "helpful_votes": 0,
+      "publication_date": 20181126
+    },
+    {
+      "title": "Great for beginners and usable for final projects too.",
+      "text": "This was a great package for beginners. It has a project to use most of the various sensors and motors. The software and instructions were very good. Once you have completed the learning, you can use the parts for projects because the quality is good. The Uno works just like the original brand. I haven't had any problems with the packages components. Comes in a nice storage box to put your component back in when done. I have built several final projects using parts that comes in this kit. Great kit.",
+      "rating": 5.0,
+      "verified": true,
+      "author": " Chuck 2.",
+      "helpful_votes": 0,
+      "publication_date": 20200926
+    },
+    {
+      "title": "Good lessons and a good kit overall.",
+      "text": "There's a nice variety of parts in the kit. The lessons are nicely structured with discussion of the parts operation, schematic & layout diagram (Fritzing), and photo of the finished lesson project. They even tell you if components can be damaged by miswiring. This was purchased as a gift so I've not had a lot of hands-on with the parts, but they seem acceptable for the purpose and price paid. Installation was more tedious than necessary. A bit of software could have installed the libraries and lesson code in the appropriate folders. The Elegoo UNO connected and worked fine under Windows 10.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "John",
+      "helpful_votes": 0,
+      "publication_date": 20171024
+    },
+    {
+      "title": "Hands down, great product.",
+      "text": "This has been my first jump into working with Arduino and I was very surprised with the Elegoo EL-KIT-003 UNO Project Super Starter Kit. I comes with a ton of stuff to get your started and all of it was of good quality. Outlines the process of getting everything installed and operating very well. It does come with a CD which contains the instructions, but, I found you can easily find the PDF files on their website so, that wasn't much of an issue. I plan on purchasing some of their other products soon to continue learning.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Michael W. Schepers",
+      "helpful_votes": 0,
+      "publication_date": 20190121
+    },
+    {
+      "title": "Great fun and value",
+      "text": "As a beginner I found this package to be very complete, and the documentation very easy to understand. Fantastic value, I got hours of entertainment out of the initial kit, and I'm still using most of it for new projects. There are only two things that keeps me from giving this 5 stars: 1. After awhile, the instructions became merely an exercise in loading libraries and sketches. 2. The relay did not work I have since used the included UNO board with a MP# shield, have used it in multiple projects. I must say, however, that if you enjoy the starter kit, buy a good arduino reference book to move forward.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Shaun Alan King",
+      "helpful_votes": 0,
+      "publication_date": 20200516
+    },
+    {
+      "title": "Good purchase. Wish it included the Arduino, or a clone.",
+      "text": "This kit is probably the most elaborate and full featured that I've ever purchased, save for the actual Arduino itself. I think anyone who is thinking about building a prototype device powered by an 8 bit programmable controller, that they will find the components and inspiration in this box. I do wish that the box was a bit less cramped. It's really difficult to put everything back in it's place because it's so jam packed.",
+      "rating": 4.0,
+      "verified": true,
+      "author": "Douglas S.",
+      "helpful_votes": 0,
+      "publication_date": 20200714
+    },
+    {
+      "title": "It would make a great gift for young",
+      "text": "Getting started with the Arduino can be challenging, and this was not the first kit I purchased. The kit comes with a CD Rom, but my CD drive has been broken for ages. But, right on the CD it has a URL where you can go to download the tutorials and examples. I followed their example to hook up the LCD display, compiled and uploaded their example code and it worked the first time. This is sort of the modern era version of the venerable \"Erector Set\". It would make a great gift for young, inquisitive minds (mine is, well, not so young anymore).",
+      "rating": 5.0,
+      "verified": true,
+      "author": "W. W. Howe",
+      "helpful_votes": 0,
+      "publication_date": 20180401
+    },
+    {
+      "title": "Amazing Kit Even for Beginners",
+      "text": "I've been wanting to get into Arduino stuff for a while and someone recommended this starter kit to me. I've been playing with it for the past several days and am surprised at how intuitive Arduino is to learn! There are a BUNCH of sensors and motors and everything you need to start coming up with project ideas. Also, there are also 24 lessons to help you explore each of the different things in the kit. Not only would I highly recommend this, I plan on buying the additional kits to build my Arduino supplies!",
+      "rating": 5.0,
+      "verified": true,
+      "author": "David B",
+      "helpful_votes": 0,
+      "publication_date": 20190129
+    },
+    {
+      "title": "Great for beginners. Fun way to explore Arduino",
+      "text": "Love this starter kit. I've found the instructions pretty straight forward. I already know how to program in C but I've never used Arduino or a Raspberry Pi and I wanted to get acquainted with one. I've enjoyed the simple projects. I've never made circuits before so I wish there was a little bit more \"why we are doing this.\" But I assume that's beyond the scope of this kit. Definitely a fun and simple way to get introduced into the world of Arduino (Or Uno R3 ;D).",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Tiffy",
+      "helpful_votes": 0,
+      "publication_date": 20180616
+    },
+    {
+      "title": "Wonderful",
+      "text": "If you have any interest in learning electronics with microcontrollers, I can't think of a better value for the money. The free tutorials walk you through how to use every included component. Setup was easy and \"just worked\". Expanding on and combining the examples is straight forward. I found myself able to see a clear path to building useful stand-alone projects within a few days of getting the kit. It's a great introduction into the giant world of possibilities that Arduino and similar processors bring.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Matthew Wachowski",
+      "helpful_votes": 0,
+      "publication_date": 20180226
+    },
+    {
+      "title": "im learning",
+      "text": "this is my first time trying this.. so I'm learning everything works so far.packed in a little tiny box can of cramped so get a bigger box.. instructions could of been a little better since it is a starter package but I figured it out so.. really cant hold a star back I look forward to finishing it and buying more of there products.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "ronnie",
+      "helpful_votes": 0,
+      "publication_date": 20200211
+    },
+    {
+      "title": "Great value; bizarre company name",
+      "text": "Luckily this kit wasn't \"gooey\" as the company name would imply. :-D This kit has a convenient collection of components, ideal for electronics hobbyists and software developers. I'm a senior engineer and am using the kit because of the nice assortment of components and breadboard parts provided. The plastic tray is a nice touch, to keep the parts organized.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "DavidK",
+      "helpful_votes": 0,
+      "publication_date": 20190523
+    },
+    {
+      "title": "Great value but a little mundane",
+      "text": "It\u2019s not a bad kit... I thought it would be a lot more fun though. It\u2019s very tedious and time consuming just to get a small payoff. Setting up the UNO board and connecting the physical hardware is pretty fun. However, taking the time to learn and write out the code isn\u2019t fun for everyone. Definitely not a fun beginner toy.",
+      "rating": 3.0,
+      "verified": true,
+      "author": "808state",
+      "helpful_votes": 2,
+      "publication_date": 20180423
+    },
+    {
+      "title": "My fault, bought the wrong kit.",
+      "text": "Be careful about the contents. I had looked and saw the LCD, and got excited and bought it. I should have bought one of the other kits. This one didn't have the LCD Serial Backpack for the LCD 1802 display. No matter what they tell you, if you want the Arduino to do anything other than program the LCD display as a kiddie project, you have to get the iC2 Serial backpack or you will most likely run out of ports for your application because the LCD will take up too many. This kit has a lot of stuff, but not what I needed. Already opened it, so I own it. :(",
+      "rating": 4.0,
+      "verified": true,
+      "author": "Polar H.",
+      "helpful_votes": 0,
+      "publication_date": 20180829
+    },
+    {
+      "title": "Well worth the price",
+      "text": "This item goes above my expectations. So far my son has been programming lights to blink and has not gotten into some of the other items. The only problem he is having is some of the programs require patches and they are zipped and hard to extract. Other then that, the manual includes pictures and is easy to follow. Even someone who knows nothing about code gain knowledge from this. Worth the price!",
+      "rating": 5.0,
+      "verified": true,
+      "author": "S. Judy",
+      "helpful_votes": 0,
+      "publication_date": 20180209
+    },
+    {
+      "title": "Great starter kit for father and son",
+      "text": "I am learning the basics of Arduino with my 9-year-old son. I have almost no background in this area, so we are learning together. The project guidebook it comes with is extremely helpful and (thankfully) assumes that you have no knowledge whatsoever. It is well-written and has lots of good illustrations. We are on project 5 and I have already learned (and retained) more than I thought I would. It is a great step up for my son from Lego WeDo and Snap Circuits.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "J Clemence",
+      "helpful_votes": 0,
+      "publication_date": 20180620
+    },
+    {
+      "title": "Nicely Packaged Set",
+      "text": "edit: I've updated my review to 5 stars. Elegoo's customer service is top notch and they addressed my original issue with a servo motor in a prompt, professional manner. Greatly appreciated! Have now used most of these items. The packaging and layout of the parts is great. Two stars off because the servo motor included spins continuously if given a command to move to a position of 10 degrees or less.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Steven E Smith",
+      "helpful_votes": 0,
+      "publication_date": 20170919
+    },
+    {
+      "title": "Not so much for complete novices",
+      "text": "The kit seems pretty solid. It's possible I'm the problem, but I'm really not finding any help understanding what it is I'm doing. I have no idea of how a bread board works and surprisingly youtube isnt much help. They send you a CD with it but I haven't had a laptop with a CD rom attached in almost 5 years so that's useless. I tried to power up one led and the resistor got very hot. No clue why and its annoying trying to find an answer. It's a good product for someone with solid fundamentals of \"semi-advances\" circuitry. Unfortunately for a beginner like me, I'm completely lost and a bit discouraged.",
+      "rating": 3.0,
+      "verified": true,
+      "author": "Luther Ryals",
+      "helpful_votes": 0,
+      "publication_date": 20200706
+    },
+    {
+      "title": "A Good Starter Kit",
+      "text": "This product has everything needed to teach yourself how to use Arduino components excluding instructions. It has many great useful parts and a guide that tells you what each component is. However, the biggest problem is that it has no instructions to tell you what each piece does or how to use them. If you are alright with online research then this is a great starter kit.",
+      "rating": 4.0,
+      "verified": true,
+      "author": "max",
+      "helpful_votes": 0,
+      "publication_date": 20190924
+    },
+    {
+      "title": "Get it bro...",
+      "text": "Awesome kit, if you're looking to get into hobby type electronic kits, this is a great one to start with, and a great price too! It includes superb documentation and tutorials and everything included was clearly listed on a card which was included in my kit. I'm still playing with it over a month after receiving, and learning new things every time I dabble in the \"maker stuff\"...",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Mo Bro",
+      "helpful_votes": 0,
+      "publication_date": 20171223
+    },
+    {
+      "title": "This is a terrific value! So far everything works",
+      "text": "This is a terrific value! So far everything works, and the CD has everything you need to get started and learn to use the included components. I've been learning a lot. Making your own more advanced projects will require learning some basic C++. I also bought a Nano from Elegoo, soldered in the headers, and just leave it on this breadboard that came with the kit. One little tip: everything is packed tightly into the case, so it can be hard to get it all back in. It helps to just remove the breadboard, then put the proto shield in the same bag with the UNO.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "B. Jordan",
+      "helpful_votes": 0,
+      "publication_date": 20180616
+    },
+    {
+      "title": "So much fun!! And",
+      "text": "I have never worked with an Arduino before so I ordered this started kit. Wow!! It blew me away! I don't know how they can provide all this for the price. Lots of quality and diverse parts to really get you started. Within a few minutes ( including an internet search ) I had the blink sketch running as a test, Within three hours I had a capacitor meter running. So much fun!! And, I haven't even scratched the surface. I say it again. I love it!",
+      "rating": 5.0,
+      "verified": true,
+      "author": "T. Welch",
+      "helpful_votes": 0,
+      "publication_date": 20180521
+    },
+    {
+      "title": "I actually like using the Arduous more than a Raspberry-Pi or a ...",
+      "text": "I actually like using the Arduous more than a Raspberry-Pi or a Beaglebone. If we are being honest it's a breakout board for microcontroller prototyping. If you are using it in your project box directly your doing it wrong. For a permanent project you should buy the $15 in parts and do actual soldering. Very nice selection of everything with this kit.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Chris Telting",
+      "helpful_votes": 0,
+      "publication_date": 20171229
+    },
+    {
+      "title": "Good kit",
+      "text": "The documentation for projects that comes with it is mediocre, so I don't know I'd recommend this as a starter first time kit. However if you're an existing hobbyist programmer and looking for a kit thats a great value and can do a little research digging, this is a fantastic kit for the price",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Linux-guy",
+      "helpful_votes": 0,
+      "publication_date": 20190523
+    },
+    {
+      "title": "Great Prodcut, but not Arduino",
+      "text": "This product is amazing. It comes with all of the essentials that you need to begin with arduino programming and design. The only problem is that companies like this do not support the company who started it all. Arduino makes no money off of this and they offer the free IDE that the majority of people use to program arduinos and all of the other boards. The product is great, try supporting arduino. Companies like this are what drive open-source into the ground. If you are going to purchase this, at least support arduino by donating or buying an arduino board.",
+      "rating": 4.0,
+      "verified": true,
+      "author": "Nicholas Carnival",
+      "helpful_votes": 0,
+      "publication_date": 20181010
+    },
+    {
+      "title": "Going to be fun",
+      "text": "Nice starter kit, I'm 72 years old and got interested in this stuff via ham radio. I like building things and learning. Just got it but looking forward to getting at it",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Ken P.",
+      "helpful_votes": 0,
+      "publication_date": 20200503
+    },
+    {
+      "title": "Great Kit!",
+      "text": "This is a great little kit with a lot of lessons and example code. Some of the lessons could use a bit more explanation (I'm talking about you, stepper motor lesson!), but in general it's very well written and easy to follow. I did have a bit of trouble getting the Arduino Uno clone drivers installed. My issue wasn't addressed in the included driver FAQ, but their tech support responded to my email very quickly and resolved the issue, so props to them for that!",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Mike W.",
+      "helpful_votes": 0,
+      "publication_date": 20180720
+    },
+    {
+      "title": "Great for prototyping",
+      "text": "I liked the kit and the number of parts. I didn't like the quality of some of the parts like the potentiometer. It only worked for about 3 projects then was unreliable after that. It did fit to tight into the breadboard and that may have damaged it even though i did use care inserting it. The Elegoo Uno worked perfectly with no problems at all. All in all, I did and will recommend it to others for the price and number of parts. I also orderded more leds and potentiometers to continue using it for prototyping. One other thing I may order is more breadboards so I will not have to tear down one project to build another.",
+      "rating": 4.0,
+      "verified": true,
+      "author": "Roland W Junod",
+      "helpful_votes": 0,
+      "publication_date": 20190820
+    },
+    {
+      "title": "Amazing Kit for Beginners!",
+      "text": "I got this kit for starting Arduino, and I've learned so much from it! Everything came packaged very well and it even came in a case. All the pieces were in small bags, everything was organized, all the pieces were there, and nothing was broken. For the price, this product is great! It comes with so much stuff; you can make hundreds of interesting and cool projects with this kit. I would recommend this kit to anyone who is starting Arduino or anyone who wants more parts.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Sanjay Patel",
+      "helpful_votes": 0,
+      "publication_date": 20180912
+    },
+    {
+      "title": "Nice little kit for those who aren't sure they want to keep going in the hobby",
+      "text": "Good selection of parts and options, you can get a taste of the possibilities. Not such a steep investment that you regret it later if you quit. I'm already moving forward and have started replacing things like the jumper wires. The other parts may be upgraded to higher quality, but they all work fine.",
+      "rating": 4.0,
+      "verified": true,
+      "author": "Wyogunner",
+      "helpful_votes": 0,
+      "publication_date": 20190621
+    },
+    {
+      "title": "Wonderful Purchase",
+      "text": "Kit contains pretty much everything you need to begin a project. Used for my daughter\u2019s Science Fair project. Attached to vibration sensor and used Arduino Software to graph vibrations. It was recognized by the laptop without issue. Worked flawlessly. Would purchase again for other projects. Plus- she got FIRST place on the project!!",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Lora Klingensmith",
+      "helpful_votes": 0,
+      "publication_date": 20180131
+    },
+    {
+      "title": "Good starter kit",
+      "text": "Worth hours of learning, good starter kit. I rate the components quality 4/5 and the manual 3/5 (CD-ROMs in 2017? Had to download it, and the explanations are sometimes mediocre, though they give a minimally decent overview of the sensor modules), but Arduino is so straightforward, rich in possibilities and has such a vast internet support and community that these details become minor. Would recommend.",
+      "rating": 4.0,
+      "verified": true,
+      "author": "AmazonCustomer",
+      "helpful_votes": 2,
+      "publication_date": 20170827
+    },
+    {
+      "title": "Nice starter kit. Quality components with good instructions to help you get started.",
+      "text": "I buy a lot of these kits for my computer science class. Elegoo is a good supplier. They provide quality components, good basic instructions, and quick/responsive customer service. Everything comes in a nice reusable plastic storage container. This kit has all you need to complete many basic projects. This is a good kit or for a student or hobbyist looking to start experimenting with the Arduino platform and all it has to offer.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "bmccune",
+      "helpful_votes": 2,
+      "publication_date": 20170822
+    },
+    {
+      "title": "Very nice Arduino kit, great for beginners.",
+      "text": "I am a professional C# software developer (20 years) and just wanted to take up Arduino development for fun. I can honestly say that this kit is very impressive for the money. In my opinion it is the perfect entry level Arduino kit. Just keep in mind that the lessons are on a CD so you need a CD reader and printer to print a hard copy of the lessons. Fun stuff!",
+      "rating": 5.0,
+      "verified": true,
+      "author": "TruthDoor",
+      "helpful_votes": 0,
+      "publication_date": 20181106
+    },
+    {
+      "title": "Wonderful introduction to controllers and robotics.",
+      "text": "This is exactly as published. All parts you need to start many interesting projects. The only down-side is that the provided connection wires are small and are loose fitting in the breadboards. The good thing is that you get two breadboards - a large one and a small one. Most of the projects will fit on the small board. For us older folks, the pin-outs are in very small print. You may need a magnifying glass to see them.",
+      "rating": 4.0,
+      "verified": true,
+      "author": "Moke",
+      "helpful_votes": 0,
+      "publication_date": 20180326
+    },
+    {
+      "title": "Fantastic value, quality could be better",
+      "text": "Includes an unbelievable amount of stuff for the price. The quality of the wires could be better the metal tip falls off of some of the cables, but it includes a lot of them. Includes a lot of stuff, but if you don't need most of the stuff it comes with you could be better off with a smaller kit.",
+      "rating": 4.0,
+      "verified": true,
+      "author": "Henry",
+      "helpful_votes": 0,
+      "publication_date": 20200623
+    },
+    {
+      "title": "Great, a lot more jumpers would be nice.",
+      "text": "This is a great way to start robotics, I bought it to develo\u0301pe a measuring logic to work alongside an abb arm. Im a programmer, never really done much physical stuff, so I burned out my chip the first day, I've order 3 elegoo's aurdino unos for backups, and a couple of the omega chips just in case, Becarefull when playing with the power expansion board, if you plug it wrong while your aurdino is running, you will ruin your board!!",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Jhonatan V.",
+      "helpful_votes": 0,
+      "publication_date": 20180108
+    },
+    {
+      "title": "Quality issues",
+      "text": "This package comes with a lot of components. I only use a few of them so far. Unfortunately, I already found some issue with lightly used parts. The breadboard has a lot of loose connection. The cables come with it does not fit very well. The LCD display only works for a few minutes then it fails. After resetting UNO, it works again for a few minutes then fail again. I hope to upload images but Amazon's website seems to have problem with uploading images at the moment. Now I have some doubt if other components work. I'll spend sometime checking them if I could before the return deadline passes.",
+      "rating": 2.0,
+      "verified": true,
+      "author": "L",
+      "helpful_votes": 0,
+      "publication_date": 20190101
+    },
+    {
+      "title": "Great bang for the buck",
+      "text": "This is a great Kit... it is amazing you get so much stuff. the kit has everything you need to use every sensor.. I was amazed that I did not have to dig in any of my stash for anything... bread board, jumper wires, resistors.... its all included... I wish they had these when I was a kid or before my kids grew up.... get it... enjoy it... you will not regret it.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Louie Z",
+      "helpful_votes": 2,
+      "publication_date": 20170115
+    },
+    {
+      "title": "Too Much Fun!",
+      "text": "This is a well documented kit that was easy to follow. My son and I were up and running in no time! The documentation is more like a tutorial. You follow each lesson. The lessons explain the included sample code, and show you how to wire it up. Most lessons take less than 10 minutes. It's a great intro into the world of Arduino projects. I've since bought a few other development boards and still find the parts in this kit useful.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Dean",
+      "helpful_votes": 0,
+      "publication_date": 20190219
+    },
+    {
+      "title": "Fun and educational at a great price.",
+      "text": "I was very surprised at the quality of the components for what I paid. I purchased this for my son for Christmas, and he has been working through the different projects and really enjoys it. Give your kid something they will enjoy and that requires more than just staring at a cell phone screen. Fun and educational at a great price.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "KevinB",
+      "helpful_votes": 0,
+      "publication_date": 20180119
+    },
+    {
+      "title": "Outdated documentation, poor wiring diagrams.",
+      "text": "The included joystick had a split PCB, although it does still work. The documentation seems to be a bit outdated as same of the pinouts are not the same as the components which resulted in my IR module to melt and burn. One of the PWM pins also seems to be malfunctioning and doesn't repsond to any commands. Chalking it up to their supplier, but still a bit of a bummer. Otherwise it's a great value for the money.",
+      "rating": 4.0,
+      "verified": true,
+      "author": "Amazon Customer",
+      "helpful_votes": 0,
+      "publication_date": 20180310
+    },
+    {
+      "title": "Great product!",
+      "text": "Excellent kit! Most of these knock off arduino kits are the same so go for the price but i was impressed with the quality! Ive used nearly every component this came with and everything worked as it should. Ive deffinitly drew way more than 20ma through the I/O pins though i shouldnt have but shes still standing strong had her in an rc cannon and it exploded she was sandy but still works great!",
+      "rating": 5.0,
+      "verified": true,
+      "author": "John",
+      "helpful_votes": 0,
+      "publication_date": 20190411
+    },
+    {
+      "title": "Good starter kit for a good price",
+      "text": "For how cheap this is, I expected to get a bunch of garbage. But I was pleasantly surprised. Everything worked right out of the box. The build quality on the Arduino Uno board is good. All of the parts that were supposed to be in the box are in fact in the box. The tutorials are available on the CD as is the software. However, I'd suggest getting the software directly from Arduino.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Amazon Customer",
+      "helpful_votes": 0,
+      "publication_date": 20190311
+    },
+    {
+      "title": "UNO board is gone",
+      "text": "Bought this a week back, coding some simple LED matrix displays 8X32. The board is not responding for what ever the reason, just stopped responding suddenly. Should have bought the original board I think.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "Amazon Customer",
+      "helpful_votes": 0,
+      "publication_date": 20191102
+    },
+    {
+      "title": "Arduino Kit is perfect!",
+      "text": "I was not expecting to get all of the toys they sent. I was very impressed by the packaging as all the pieces were protected by blocks of foam. Nicely packaged in a nice divided box. If you are just starting out with Arduino this is the one to get. I have been using the Uno for a while and all of my programs seem to be fully compatible. I highly recommend this kit! Thank you!",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Patricia Marchant",
+      "helpful_votes": 0,
+      "publication_date": 20180107
+    },
+    {
+      "title": "Definitely for beginners though",
+      "text": "Really good product I would suggest getting a 3d printer with this to make custom cases for sensitive modules. Never really checked the instructions because I like finding stuffout myself but from what I saw it looked really hard to understand and I feel that I should have gotten more stuff but it's alright. I would definitely suggest this.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Amir S.",
+      "helpful_votes": 0,
+      "publication_date": 20191124
+    },
+    {
+      "title": "Great buy, lots of fun and great for starters!",
+      "text": "Great purchase. I have a little knowledge of Arduino and I do have a little knowledge of programming. I was able to complete each lesson with little to no issues. I would not say that by the end of it you have a FULL understanding of Arduino but the lessons are fun and you do learn about the sensors and such. The only issue I had, and the reason I gave 4 stars rather than 5 is toward the end of the lessons (about the last 3 or 4) an additional power supply is needed that is NOT included in the kit.",
+      "rating": 4.0,
+      "verified": true,
+      "author": "Anna Maria Creighton",
+      "helpful_votes": 0,
+      "publication_date": 20180321
+    },
+    {
+      "title": "Good for it\u2019s price",
+      "text": "The stuffs I tested works fine. The quality could be better. There are some small problems like unaligned pins, which can be fixed by forcing them in a line. Nonetheless, good enough for the price. The CD comes broken, but that thing is of no use anyway as the instructions are all online.",
+      "rating": 4.0,
+      "verified": true,
+      "author": "Jiawei",
+      "helpful_votes": 0,
+      "publication_date": 20200212
+    },
+    {
+      "title": "Does not come with the L293D IC needed for the ...",
+      "text": "Does not come with the L293D IC needed for the motor portion of the lessons. I had to order them after the fact...also didnt come with the fan blade. Note these items are pictured but not listed in the included components. Seems odd that the required IC wasnt included...I wouldnt be here writing this if it was I would still be going on with the lessons!",
+      "rating": 4.0,
+      "verified": true,
+      "author": "Robert L.",
+      "helpful_votes": 4,
+      "publication_date": 20170417
+    },
+    {
+      "title": "Acceptable for a starter kit.",
+      "text": "Arrived as promised, all parts were included. Only problem when testing the various components was the MB102 bread board power supply is malfunctioning. Tried it on both 9v battery and SUB sources. No output regardless if the switch position. Good thing is they are inexpensive, and I have some LM 3.3 and 5v regulators. Anyway a nice starter kit for the price.",
+      "rating": 4.0,
+      "verified": true,
+      "author": "P. Rowe",
+      "helpful_votes": 0,
+      "publication_date": 20180806
+    },
+    {
+      "title": "Disappointed",
+      "text": "Was expecting good things from Elegoo, but the Uno board did not work. We'll see with the rest of the components?",
+      "rating": 1.0,
+      "verified": true,
+      "author": "Jay S.",
+      "helpful_votes": 5,
+      "publication_date": 20180405
+    },
+    {
+      "title": "What a deal!",
+      "text": "As other reviewers have said: How can you get all that stuff for the price?! I didn't need a starter kit, I've got parts bins full of most of this stuff, but I couldn't pass up on this deal. The only complaint is that once you open the box it is like a puzzle to get everything back in the tote.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Oliver",
+      "helpful_votes": 2,
+      "publication_date": 20170416
+    },
+    {
+      "title": "Excellent value",
+      "text": "Very complete, with a dizzying array of components for the money. For the novice, like me, I would recommend tutorials on video from YouTube, as the coding tutorials included leave something to be desired. I found the series by Paul McWhorter to be extremely helpful.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Rhys Thurin",
+      "helpful_votes": 0,
+      "publication_date": 20200812
+    }
+  ],
+  "product_meta": {
+    "title": "ELEGOO UNO Project Super Starter Kit with Tutorial and UNO R3 Compatible with Arduino IDE",
+    "description": "Component listing: 1pcs UNO R3 Controller Board 1pcs LCD1602 Module ( with pin header) 1pcs Breadboard Expansion Board 1pcs Power Supply Module WARNING: Pls. do not use the voltage higher than 9V 1pcs Joystick Module 1pcs IR Receiver 1pcs Servo Motor (SG90) 1pcs Stepper Motor 1pcs ULN2003 Stepper Motor Driver Board 1pcs Ultrasonic Sensor 1pcs DHT11 Temperature and Humidity Module 1pcs 9V Battery with DC 1pcs 65 Jumper Wire 1pcs USB Cable 1pcs Active Buzzer 1pcs Passive Buzzer 1pcs Potentiometer 1pcs 5V Relay 1pcs Breadboard 1pcs Remote 1pcs Tilt Switch 5pcs Button (small) 1pcs 1 digit 7-segment Display 1pcs 4 digit 7-segment Display 5pcs Yellow LED 5pcs Blue LED 5pcs Green LED 5pcs Red LED 1pcs RGB LED 2pcs Photo resistor 1pcs Thermistor 2pcs Diode Rectifier (1N4007) 2pcs NPN Transistor (PN2222) 1pcs IC 74HC595 120pcs Resistor 10pcs Female-to-male DuPont Wire.",
+    "rating": 4.6,
+    "feature_bullets": [
+      "Free PDF tutorial(more than 22 lessons) and clear listing in a nice package",
+      "The most economical kit based on Arduino platform to starting programming for those beginners who are interested.",
+      "Lcd1602 module with pin header (not need to be soldered by yourself)",
+      "This is the upgraded starter kits with power supply module, 9V battery with dc",
+      "High quality kite with UNO R3. 100% compatible with Arduino UNO R3, MEGA 2560 R3, NANO."
+    ],
+    "specifications": {
+      "Is Discontinued By Manufacturer": "No",
+      "Product Dimensions": "8.3 x 5.5 x 1.97 inches; 1.2 Pounds",
+      "Item model number": "EL-KIT-003",
+      "Batteries": "2 CR2 batteries required. (included)",
+      "Date First Available": "March 21, 2016",
+      "Manufacturer": "ELEGOO",
+      "ASIN": "B01D8KOZF4",
+      "Customer Reviews": "/** Fix for UDP-1061. Average customer reviews has a small extra line on hover* https://omni-grok.amazon.com/xref/src/appgroup/websiteTemplates/retail/SoftlinesDetailPageAssets/udp-intl-lock/src/legacy.css?indexName=WebsiteTemplates#40*/.noUnderline a:hover {text-decoration: none;}",
+      "GTIN": "746591610623"
+    },
+    "categories": [
+      "Computers & Accessories",
+      "Single Board Computers",
+      "Computer Components",
+      "Electronics",
+      "Industrial & Scientific"
+    ],
+    "price": 36.99
+  }
+}

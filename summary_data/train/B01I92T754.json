@@ -1,0 +1,631 @@
+{
+  "website_summaries": [
+    {
+      "verdict": "A super-light VPN router that\u2019s easy to carry along on trips, but sturdy enough to use regularly at home, too.",
+      "pros": [
+        "Compact and light for travel",
+        "Relatively easy for experienced users to set up",
+        "Very good range, with stable operation over long periods",
+        "Easy firmware updates are a big plus",
+        "Travelers like its USB tethering capability with smartphones"
+      ],
+      "cons": [
+        "Instructions are somewhat lacking, which can confuse less experienced VPN users",
+        "Only 1 USB port",
+        "Can drop connection frequently for no clear reason"
+      ],
+      "aspects": {},
+      "publication_date": "",
+      "rating": "",
+      "source": "bestreviews"
+    }
+  ],
+  "customer_reviews": [
+    {
+      "title": "This is an awesome travel router",
+      "text": "This is an awesome travel router. Stable, well-designed. Used it to replace a horribly unstable HooToo Tripmate to serve media files to my kids' tablets while we are on the road. For my family, it's the perfect solution for car/airplane mobile entertainment. No need to spend thousands on a rear seat entertainment system when you can spend $100 on this router and a few reconditioned Fire tablets to give each member of your family their own personal entertainment experience.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "jcoltrane",
+      "helpful_votes": 4,
+      "publication_date": 20170311
+    },
+    {
+      "title": "Hasn't left my side since I bought it",
+      "text": "This thing is a life saver. It's tiny. It's light. It's (micro-)USB powered. It does everything that I would ever need, with a very nice user interface: * Connect to a captive-portal-protected wifi (e.g. airport, hotel) and rebroadcast it to another wifi SSID to connect multiple devices. * Connect to the internet through a USB modem and allow access to multiple devices through wifi. * Connect to a hotel wifi through ethernet if needed. * Provide LAN ethernet connection if needed. This thing isn't ever leaving my bag. Unless it gets stolen or lost, in which case I'll just buy the exact same device again.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Manu C.",
+      "helpful_votes": 0,
+      "publication_date": 20181001
+    },
+    {
+      "title": "Perfect travel router",
+      "text": "This was purchased to replace an aging tp-link model. So far it's exceeded expectations. It runs a customized version of the the open source OpenWrt firmware, so it has many features and good support. Setup is relatively easy for anyone with router experience. My main use has been as a wireless repeater and vpn client to my home network running OpenVpn. Configuring the repeater function and vpn client was straight forward. Devices connected to the router without issue and all traffic was routed through the vpn as expected. The price is right, and features are just what I need. I'd highly recommend it as a travel router.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Dan Br.",
+      "helpful_votes": 0,
+      "publication_date": 20181123
+    },
+    {
+      "title": "Simplest tether usb to modem solution",
+      "text": "Gave it power, accessed via browser over wifi, clicked the Tether button (it has a tether button!), connected quality usb to Verizon AC791L Jetpack modem, and now I have 45/25 mbps down/up throughout the house. Update: In further testing the router frequently crashes and reboots when connected to an unstable cell modem via usb tether or wifi repeater.",
+      "rating": 2.0,
+      "verified": true,
+      "author": "loghlr",
+      "helpful_votes": 0,
+      "publication_date": 20200114
+    },
+    {
+      "title": "Unreliable Unit",
+      "text": "Fairly intuitive setup. After a couple of months the wireless connection to household router stopped working and reconnected sporadically making the unit unreliable especially as a travel router. Ended up making a wan connection and it works again. Loss of wireless capability makes this unit a poor choice.",
+      "rating": 2.0,
+      "verified": true,
+      "author": "roger saunders",
+      "helpful_votes": 2,
+      "publication_date": 20180630
+    },
+    {
+      "title": "Fantastic Travel Router",
+      "text": "This little router is great. It's one of the few that I've found that is patched against the latest wireless vulnerabilities. It's so great that I bought another one for a friend that travels. I've got no complaints. It's got both a basic and a more advanced administration panel. Additionally the thing is so small that it takes up very little space in my luggage. I have this and a 1ft LAN cable along with the power cable and adapter and I fit it all into one of the AmazonBasics cases. Works like a charm and perfect for traveling. Here's the case:",
+      "rating": 5.0,
+      "verified": true,
+      "author": "jess",
+      "helpful_votes": 0,
+      "publication_date": 20180411
+    },
+    {
+      "title": "Works well to share hotel wifi",
+      "text": "Great little device, works well for traveling in hotels - you simply connect to this little guy with your phone / laptop, go to the admin interface, connect to the hotel wifi and then try to go to the internet. The hotel login page comes up as though you had connected to it directly and allows you to login for this router. After that, all your other devices configured to connect to this thing work seamlessly. I use it when I travel with my family - the kids devices just work without additional effort. Good stuff!",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Mark",
+      "helpful_votes": 0,
+      "publication_date": 20190126
+    },
+    {
+      "title": "Impressed",
+      "text": "I was told at first it would do what I wanted then I was told by many others no it would not the OpenWrt was to slow to run smart TV using VPN. So I figured I would be returning it but to my surprise they were wrong I'm using it as a WIFI repeater with Express VPN installed and it works fantastic takes just a few more seconds to load but streams great. Now we will just have to see if it's dependable I will update my review in a few months",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Rod",
+      "helpful_votes": 0,
+      "publication_date": 20200923
+    },
+    {
+      "title": "Great little boxes",
+      "text": "I love these little routers. I have 4 (at the price they can't be beat). One serves as an AP for the house, one is for travel, a couple are just for playing around with. The online forums have great support and the manufacturer actually posts in the forums (something I don't see often). I'm sure there are more expensive options out there (that may provide more of something) but these are great tools (which is what hardware should be).",
+      "rating": 5.0,
+      "verified": true,
+      "author": "E. Block",
+      "helpful_votes": 3,
+      "publication_date": 20161129
+    },
+    {
+      "title": "Defective/Keeps losing settings",
+      "text": "I really wanted to like this, and I very much appreciate the openness of the manufacturer, as well as being encouraged to hack it and extend this. Could be a great platform to work on. Unfortunately, the one I received only works for a couple of hours -- then it turns off and loses all its settings. It's unusable and on the way back to Amazon.",
+      "rating": 2.0,
+      "verified": true,
+      "author": "F. Lastname",
+      "helpful_votes": 4,
+      "publication_date": 20170127
+    },
+    {
+      "title": "A lot of power in a small package",
+      "text": "I have two of these! These things are amazing! I cannot state enough how utilitarian these little guys are. I have one in my car to use as a portable WiFi with NAS. I love how the device is WRT enabled, easy to flash, powerful (the signal from this router is stronger than my ASUS router at home). The developers have really outdone themselves with this product and they offer amazing support on their website.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Surgeon Rick",
+      "helpful_votes": 0,
+      "publication_date": 20171118
+    },
+    {
+      "title": "Working PUURFECTLY after 2 firmware upgrades...",
+      "text": "The unit shipped with Firware 2.3 - which lost my settings eached time I rebooted/repowered the unit. However, Rel 2.4 fixed that about 2 weeks later. I also had an issue with Openvpn not reading the username & password for the VPN account from stdin. However this was resolved in rel 2.5 about 6 weeks after purchasing. These issues were resolved without me having to contact the company - GREAT!! I am 100% satified with this product!!!!",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Amazon Customer",
+      "helpful_votes": 4,
+      "publication_date": 20161213
+    },
+    {
+      "title": "Has problems with networks that hold you captive until you agree with terms of service",
+      "text": "Great concept but I could not get it to work on hotel network that forces you to a special web page before letting you access the Internet. Otherwise it works well and shows promise. I hope there will be firmware updates that will help with initially restricted networks.",
+      "rating": 4.0,
+      "verified": true,
+      "author": "Michael Wheeler",
+      "helpful_votes": 2,
+      "publication_date": 20170906
+    },
+    {
+      "title": "Very good product for DIY and hacker types.",
+      "text": "Extremely powerful micro router/computer. There's also a github project which allows you to install hak5's Wifi Pineapple suite on it and yeah, it works. Very well. This device has GPIO pins and lots of flash and RAM, and a very robust processor all at a very small energy footprint. You can power this thing for a day and a half on a 3200mah battery.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "K&N",
+      "helpful_votes": 0,
+      "publication_date": 20180410
+    },
+    {
+      "title": "Works as described",
+      "text": "Works great -- really easy to use -- plenty of options and uploading OpenVPN configurations is straight-forward and functions properly. Does not come with a power adapter (you can power it using a 1A phone charger or a USB port on a laptop) -- I have setup a few of these and they are all still working without any issues.",
+      "rating": 4.0,
+      "verified": true,
+      "author": "Ryan Sinn",
+      "helpful_votes": 0,
+      "publication_date": 20180312
+    },
+    {
+      "title": "Almost There...",
+      "text": "This router was a breeze to set up(assuming you understand basic networking concepts) and it worked very well. I was thrilled with my purchase. After running for a couple of hours, I noticed that it felt quite warm to the touch. After about 8 hours, the unit stopped working. I believe that it overheated and burned out. I was impressed with the ease of the return process and the quick refund of my purchase price. Overall, I think this has the potential to be a great product. Maybe make the unit a little larger to make room for additional heat syncs or even a small internal fan. I plan to watch this product line for future improvements.",
+      "rating": 3.0,
+      "verified": true,
+      "author": "The Grand Poobah",
+      "helpful_votes": 0,
+      "publication_date": 20180214
+    },
+    {
+      "title": "When it works it works, but not for long...",
+      "text": "I originally ordered this in December 2019. When I receieved the item there issues with extremely slow speeds on the repeater setting. Amazon sent me a replacement, which I have been using since January without issues. However, for the past several days the device keeps disconnecting and providing an unstable network connection. I am outside of the 30day policy for refunds, so I am frustrated. Just keep in mind that this may fail on you.",
+      "rating": 2.0,
+      "verified": true,
+      "author": "Bijal Patel",
+      "helpful_votes": 0,
+      "publication_date": 20200326
+    },
+    {
+      "title": "Great for VPN and hotel setups",
+      "text": "Nothing like being able to setup one device when you get to a hotel and have all your other devices just work. I often plug in a chromecast to a hotel TV and this not only works but doesn't require me to mess with anything beyond the onetime setup of the router to the hotel wifi. Getting the most out of this requires some tech skills and ideally familiarity with Linux however.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Someone",
+      "helpful_votes": 0,
+      "publication_date": 20190626
+    },
+    {
+      "title": "New Firmware 2.26 fix",
+      "text": "I waited to post this review as it did not save your settings which would have been a one-star review. Whenever the unit was powered off and back on, you had to start all over and set it up. This did not happen on all of the 8 units I bought. I emailed support and they replied within an hour that a new firmware update would fix this. Today, that firmware is out version 2.26. I can confirm that after the new firmware was installed, they do indeed save your settings! The update also allows you to program the switch on the side to nothing/router or bridge mode/vpn on off. Very cool and thanks for fixing it!",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Lou",
+      "helpful_votes": 0,
+      "publication_date": 20170622
+    },
+    {
+      "title": "Clever little device.",
+      "text": "If you're traveling and connecting to networks that have questionable security, this travel router is for you. You can easily connect to hotel networks and segment yourself off from being discoverable. This goes a long way to help you keep your data safe. The router firmware is well designed and its really easy to setup. I traveled with this internationally and it was worth every bit of what I paid for it.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Gerald Cumberbatch",
+      "helpful_votes": 0,
+      "publication_date": 20180821
+    },
+    {
+      "title": "So good I will have to buy another",
+      "text": "This worked so well I Gabe it to my in laws to improve the WiFi coverage in their house. Now I need to get another to use in hotels to slow multiple connections to hotel restricted WiFi or use a chrome cast in a hotel where a login is required. It works well under both these scenarios. Interface is a little complex, but it gets the job done in a small form factor.",
+      "rating": 4.0,
+      "verified": true,
+      "author": "David",
+      "helpful_votes": 0,
+      "publication_date": 20181118
+    },
+    {
+      "title": "Astonishing",
+      "text": "Runs open wrt Out of the Box built on basically the best operating system you can put on a router today and if you know a little SSH and a little bit of how open wrt works you have an amazingly powerful tool amazingly powerful",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Josephine",
+      "helpful_votes": 2,
+      "publication_date": 20170203
+    },
+    {
+      "title": "Great device.  Okay price.  Great for EasyTether.",
+      "text": "If you're tech savvy, the applications for this device are endless. If you don't know what linux is, probably not a good idea. Works with easytether.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Craig",
+      "helpful_votes": 0,
+      "publication_date": 20190717
+    },
+    {
+      "title": "My work has poor cellular reception and now I can use wifi-calling",
+      "text": "Using this inside my office of about 1000sq. My work has poor cellular reception and now I can use wifi-calling. Work has no wifi network therefor I purchased this tiny unit and it works perfectly. Choose this so when I do travel, I have the option to bring this along. Highly recommended!",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Jimmy T",
+      "helpful_votes": 0,
+      "publication_date": 20180413
+    },
+    {
+      "title": "It does it's job",
+      "text": "I bought it to hook up to a cell phone hot spot, I did have to fiddle with it a little but it's been working fine. You do have to have it plugged into a USB power source..",
+      "rating": 5.0,
+      "verified": true,
+      "author": "becida",
+      "helpful_votes": 0,
+      "publication_date": 20200610
+    },
+    {
+      "title": "Best travel router-open wrt!",
+      "text": "Does everything I wanted. Stable, all tethering modes work including USB to iPhone, USB to android, wifi, and Ethernet. Advanced configs. Great little travel router. I've bought other \"branded\" ones from tp-link and others... they all have customized ui without all the options. Based on open wrt, this product didn't limit any of the advanced configs. Good stuff",
+      "rating": 5.0,
+      "verified": true,
+      "author": "ss in silicon valley",
+      "helpful_votes": 2,
+      "publication_date": 20170317
+    },
+    {
+      "title": "Very good little travel router",
+      "text": "I picked this up from GL.iNet before they had it on Amazon but thought I'd review it here. Very good little travel router. Initially had some firmware bugs but it's gotten very stable and is easy to use. I've taken it all over the world and use it to safely connect many devices through either Shadowsocks or OpenVPN tunnels using the hotel wifi. In most cases the hotel internet is slower than the hardware VPN client capabilities. I won't travel without it!",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Amazon Customer",
+      "helpful_votes": 0,
+      "publication_date": 20180623
+    },
+    {
+      "title": "Worked great as a hotel VPN Client Router",
+      "text": "Worked great. Set up my VPN account on it and eaisly connected it to hotel wifi. From then on I connected all my devices to it by WiFi. Still working well after 30 days of use.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Matt",
+      "helpful_votes": 0,
+      "publication_date": 20190831
+    },
+    {
+      "title": "Best travel router.",
+      "text": "Great travel router. I replaced a hootoo with this device, and definitely prefer the additional horsepower & flexibility that comes with this device (along with OpenWRT). This appears to be capable of everything my much more expensive router/firewall hardware can do, but in a super-portable package with just the right amount of power to do the job remotely.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Big J",
+      "helpful_votes": 0,
+      "publication_date": 20170405
+    },
+    {
+      "title": "These are fantastic travel routers.",
+      "text": "These are fantastic travel routers. Incredibly easy to use, and just returned from multiple trips where this was a time and work saver. In fact, I've already purchased a second one for best friend - who travels as much as I do.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Tim",
+      "helpful_votes": 0,
+      "publication_date": 20170503
+    },
+    {
+      "title": "Wonderful device",
+      "text": "Bought it simply because it had OpenVPN built-in. Uploaded the \".ovpn\" file, enter credentials for my VPN provider, and now all devices that use this router go through VPN tunnel service.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "A. J. Lex",
+      "helpful_votes": 0,
+      "publication_date": 20170730
+    },
+    {
+      "title": "Excellent little travel router",
+      "text": "I love this thing. Stable and reasonably fast for what it is. Oh, and adding a privacy VPN on this was extremely easy - easier than most. Lastly, want more power? Go to advanced.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Marble68",
+      "helpful_votes": 0,
+      "publication_date": 20170417
+    },
+    {
+      "title": "Hard to configure - compatibility issues",
+      "text": "I got this as an \"upgrade\" to my 150mbps HooToo. This one is difficult to configure and not compatible with all hotel login screens. Went back to my HooToo.",
+      "rating": 3.0,
+      "verified": true,
+      "author": "Paul Henry",
+      "helpful_votes": 0,
+      "publication_date": 20190316
+    },
+    {
+      "title": "IMHO the quickest Firestick vpn solution",
+      "text": "Banged my head for days trying to get vpn installed on my firesticks.In less than a half hour with this device was able to get all my wifi devices behind a vpn. Works great and I'm extremely happy I read somewhere that a person had used the USB of his tv to power this.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Richard D Marbury",
+      "helpful_votes": 2,
+      "publication_date": 20170222
+    },
+    {
+      "title": "Great little box!",
+      "text": "Light weight and quick to set up... Able to replicate my home network at a coffee shop...",
+      "rating": 5.0,
+      "verified": true,
+      "author": "efrankamo",
+      "helpful_votes": 0,
+      "publication_date": 20190427
+    },
+    {
+      "title": "A bit complicated and slow to set up but does the job",
+      "text": "Best part is that there is the VPN feature and a killswitch. Range is far better than expected. Speed is no problemeither. only downside is the slowness of setting it up",
+      "rating": 5.0,
+      "verified": true,
+      "author": "B. K.",
+      "helpful_votes": 0,
+      "publication_date": 20190803
+    },
+    {
+      "title": "Super easy!",
+      "text": "I really like this device! I have had it just about a week. Set up was really easy! It has made sharing my LTE hotspot tether connection super easy! My connections seem even more stable than when sharing directly through the mobile device. The firmware upgrade is a must! Can't wait to see more from these guys!",
+      "rating": 5.0,
+      "verified": true,
+      "author": "tj",
+      "helpful_votes": 0,
+      "publication_date": 20170313
+    },
+    {
+      "title": "Great Product",
+      "text": "Love it! GL.iNet actively updates firmware and will answer questions on their forum. easy to change to a TOR router if you need too.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Jason Todd",
+      "helpful_votes": 0,
+      "publication_date": 20170810
+    },
+    {
+      "title": "easy setup and does everything it said",
+      "text": "easy setup and does everything it said. I use it to take my wireless signal and provide an ethernet port for a VOIP phone extension.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Greg Palma",
+      "helpful_votes": 3,
+      "publication_date": 20171227
+    },
+    {
+      "title": "Relatively easy to set up and use",
+      "text": "I liked the fact that this router appeared to work as advertised. I also liked the ease of set up.",
+      "rating": 4.0,
+      "verified": true,
+      "author": "James J. Walsh",
+      "helpful_votes": 0,
+      "publication_date": 20190104
+    },
+    {
+      "title": "Easy to use to set up a home router-based vpn",
+      "text": "I purchased this device to set up a router VPN at my house. It was super easy to setup with expressVPN via their openVPN settings. I'm glad I bought it and would recommend using it to a friend if they wanted to set up a home router-based VPN for themselves.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Robert P. Hyatt",
+      "helpful_votes": 0,
+      "publication_date": 20190807
+    },
+    {
+      "title": "nice minimalist router",
+      "text": "A very nice minimalist router. Using this as my permanent router, more than enough for a small dwelling or an apartment. Very light weight. Didn't disappoint.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "pointillistic",
+      "helpful_votes": 0,
+      "publication_date": 20170422
+    },
+    {
+      "title": "Great router it runs openwrt",
+      "text": "Great router it runs openwrt, it also runs openvpn, given its size it is great, do not expect the performance of a full size router. for the little testing I did it worked very well, it outperforms most routers in its price range.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "checho",
+      "helpful_votes": 0,
+      "publication_date": 20170602
+    },
+    {
+      "title": "Three Stars",
+      "text": "They could make it with more instructions on how to install for people with low amount of experience.",
+      "rating": 3.0,
+      "verified": true,
+      "author": "J D L",
+      "helpful_votes": 0,
+      "publication_date": 20171209
+    },
+    {
+      "title": "Works with both Android and iOS devices.",
+      "text": "Great concept & execution. Appears to work great with my Samsung Note smartphone and iPad Air 2. Not all competitors can do both. Add to it that you can DIY for your own code enhancements... wonderful.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "RL",
+      "helpful_votes": 0,
+      "publication_date": 20190404
+    },
+    {
+      "title": "Happy with purchase",
+      "text": "It delivers advertised specifications. Works as good as more expensive similar products. Good online documentation and support from GLI if you are a techi or enthusiast.",
+      "rating": 4.0,
+      "verified": true,
+      "author": "Jim H.",
+      "helpful_votes": 0,
+      "publication_date": 20170501
+    },
+    {
+      "title": "Lot of features and WISP mode, but mono band. KEEP ALIVE FEATURE",
+      "text": "Medium range, great features. I would only hope it was dual band. Receive in one band and transmit in other",
+      "rating": 4.0,
+      "verified": true,
+      "author": "Marc",
+      "helpful_votes": 0,
+      "publication_date": 20171031
+    },
+    {
+      "title": "love this thing",
+      "text": "love this thing, I have not played a lot with it, but I really like it so far to work as a repeater at work and at the hotel wifi",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Jorge AG",
+      "helpful_votes": 0,
+      "publication_date": 20170524
+    },
+    {
+      "title": "Best travel router",
+      "text": "Better than advertised and works within a minute. Set up took me 10 minutes the most for what I am using it for when it has taken me months to figure out how to use another brand's similar product. Plenty of space to install packages and other items on it.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Spencer",
+      "helpful_votes": 0,
+      "publication_date": 20170326
+    },
+    {
+      "title": "Don't work with 3G",
+      "text": "I could never make it work with 3G, or it's bad or it really does not accept any company like the add says",
+      "rating": 2.0,
+      "verified": true,
+      "author": "cristobal millan",
+      "helpful_votes": 0,
+      "publication_date": 20171025
+    },
+    {
+      "title": "Little but powerful",
+      "text": "It amazing little router, easy to configure, fast boot, stable.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Hamad",
+      "helpful_votes": 0,
+      "publication_date": 20190717
+    },
+    {
+      "title": "Great VPN router",
+      "text": "Works great as a VPN router providing your VPN provider has a good openvpn set up or config maker. Connection lasts for days or weeks without fail. This is a 2.4 only router however just be aware of that. Range is pretty good. Updating the firmware is also very easy. Over all a great travel, test or VPN router. Use the 2.25 firmware or later however as there is a DNS leak with earlier firmware.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "David A. Grim",
+      "helpful_votes": 3,
+      "publication_date": 20170313
+    },
+    {
+      "title": "One Star",
+      "text": "Item does not consistently stay connected. Constantly have to re-edit the links to have it keep network data stored.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "Klm",
+      "helpful_votes": 0,
+      "publication_date": 20170416
+    },
+    {
+      "title": "Worked great, then died",
+      "text": "Worked great for just over a month. Now will not power on, completely dead",
+      "rating": 1.0,
+      "verified": true,
+      "author": "mt_gndrvr",
+      "helpful_votes": 0,
+      "publication_date": 20171020
+    },
+    {
+      "title": "Unstable openVPN",
+      "text": "Didn't work from the box. It took 3 times to set up/reset untill it started working properly. Minus star here. OpenVPN works, but it loose connection 3-4 times a day. That was the whole point of purchasing it. Minus two stars here. I'll see if it keeps doing it, I'll return it. If not, I'll add a star.",
+      "rating": 2.0,
+      "verified": true,
+      "author": "westwolf",
+      "helpful_votes": 0,
+      "publication_date": 20171130
+    },
+    {
+      "title": "Saving me hundreds per month",
+      "text": "It's extremely useful. I have a phone with unlimited LTE tethering. The only catch is they have Carrier-Grade NAT, and throttle you after using so many GB, making it almost impossible to game with your friends... I just connected it with nVPN NFO, giving me an unrestricted, internet-facing IP over LTE with <10ms ping (~55ms less sprints dns/cNAT) making the need for a cable/dsl/satellite service obsolete (No wonder their rates keep going up). Thanks to this thing, I get 22mbps up and down with open ports, streaming cable channels without lag, and a <1ms ping dedicated server [always <10ms on PSN :D] alll for $80/mo throughout the house.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "MisterProg",
+      "helpful_votes": 5,
+      "publication_date": 20170327
+    },
+    {
+      "title": "The product design is brilliant making this a truly portable router",
+      "text": "The product design is brilliant making this a truly portable router. But as other users said, the emf is leaking and there is some frequent disconnection from internet.",
+      "rating": 3.0,
+      "verified": true,
+      "author": "Niz Ahmd",
+      "helpful_votes": 2,
+      "publication_date": 20160909
+    },
+    {
+      "title": "Slows Traffic Significantly",
+      "text": "Utter waste, slows traffic significantly. Had to abort downloads for work",
+      "rating": 1.0,
+      "verified": true,
+      "author": "Amazon Customer",
+      "helpful_votes": 0,
+      "publication_date": 20171125
+    },
+    {
+      "title": "Five Stars",
+      "text": "Great product and fast shipping i recommend seller A +++++",
+      "rating": 5.0,
+      "verified": true,
+      "author": "ASHRAF MOHAMMED",
+      "helpful_votes": 0,
+      "publication_date": 20170321
+    },
+    {
+      "title": "Ok",
+      "text": "Seems to work as expected, unlike the GL-MT300A that I also bought, which doesn't work at all.",
+      "rating": 3.0,
+      "verified": true,
+      "author": "MagnusJ",
+      "helpful_votes": 0,
+      "publication_date": 20180108
+    },
+    {
+      "title": "Piece of garbage",
+      "text": "Slowest wifi I have ever dealt with. The connection will get disrupted every now and then. You often have to disconnect and reconnect and sometimes even that doesn't work. Instructions are very vague.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "Jay Smith",
+      "helpful_votes": 2,
+      "publication_date": 20171007
+    },
+    {
+      "title": "Two Stars",
+      "text": "Very cheap build quality, but it wasnt very expensive. Using the HooToo instead.",
+      "rating": 2.0,
+      "verified": true,
+      "author": "Adam Kunicki",
+      "helpful_votes": 0,
+      "publication_date": 20170514
+    },
+    {
+      "title": "Returned missing parts/ ordered another one to try again",
+      "text": "Returned, came with no network- rj45 cable or power adapter.",
+      "rating": 2.0,
+      "verified": true,
+      "author": "Mary",
+      "helpful_votes": 0,
+      "publication_date": 20170413
+    },
+    {
+      "title": "Great backup for the price",
+      "text": "It's cheap hardware, quirky with stupid software, all for a reasonable price. Thus five stars. Recently used this with my Android 4G hotspot to funnel 4G Internet into my router and home network and Ubiquiti wifi access points. With our ISP and power out for over a day, between this and the generator we could hardly tell the difference. The device provided fast Internet without disruption for over 24 hours. Couldn't ask for more. Glad to know it there when I need it.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "peterfram",
+      "helpful_votes": 0,
+      "publication_date": 20190119
+    }
+  ],
+  "product_meta": {
+    "title": "GL.iNet GL-AR300M Mini VPN Travel Router, Wi-Fi Converter, OpenWrt Pre-Installed, Repeater Bridge, Hotspot, 300Mbps High Performance, 128MB Nand Flash, 128MB RAM, OpenVPN, Programmable IoT Gateway",
+    "description": "GL-AR300M is a mini travel router for working professionals and a programmable gateway for DIY hobbyists. \n\nLarger Storage and Extendibility:\n\nThe router is with storages of 128MB RAM and 128MB Nand Flash, which can be further extended using external USB sticks. There are 2 Ethernet ports, 1 UART, and 1 GPIOs available for hardware DIY. It is an ideal portable gateway for IoT development. \n\nWiFi Converter: \n\nWiFi is extremely popular but still may not be available at anywhere. If you are still using a wired network at hotels or cafes, this mini router is able to convert it to a wireless network for sharing the WiFi with all your devices. \n\nEven in places like cafes or restaurants with WiFi, it is not good to expose your devices to the public network directly. This router converts a public WiFi to your own WiFi with a firewall and then works as an agent for securer surfing. The agent connects all your devices when switching to a new WiFi. You don\u2019t have to input password for each of your devices. \n\nThe router is also able to convert your phone tethering, or 3G/4G USB modems into a private Wi-Fi. \n\nPortable Travel Mate: \n\nThe router is lightweight, pocket friendly, and portable. It can be plugged into any laptops, power banks, or 5V DC adapters for power supply. \n\nOpen Source and Programmable: \n\nOpenWRT is pre-installed and backed with a repository of 4000+ software packages. Pre-installed with an OpenVPN client, it works with 20+ VPN service providers. \n\nFor more details, please check our online docs at http://www.gl-inet.com/docs",
+    "rating": 4.2,
+    "feature_bullets": [
+      "[WIRELESS MOBILE MINI TRAVEL ROUTER] Convert a public network(wired/wireless) to a private Wi-Fi for secure surfing. Create a secure Wi Fi hotspot quickly. Tethering, 3G/4G USB Modem Compatible. Powered by any laptop USB, power banks or 5V DC adapters (sold separately). 39g (1.41 Oz) only, portable and pocket friendly.",
+      "[OPEN SOURCE & PROGRAMMABLE] OpenWrt pre-installed, USB disk extendable.",
+      "[VPN CLIENT & SERVER] OpenVPN and WireGuard pre-installed, compatible with 30+ VPN service providers.",
+      "[LARGER STORAGE & EXTENSIBILITY] 128MB RAM, 16MB NOR Flash + 128M NAND Dual flash, dual Ethernet ports, UART and GPIOs available for hardware DIY.",
+      "[PACKAGE CONTENTS] GL-AR300M (Shadow) mini router (1-year Warranty), USB cable, User Manual."
+    ],
+    "specifications": {
+      "Product Dimensions": "2.28 x 2.28 x 2.28 inches",
+      "Item Weight": "1.41 ounces",
+      "ASIN": "B01I92T754",
+      "Item model number": "GL-AR300M",
+      "Customer Reviews": "4.2 out of 5 stars257 ratings4.2 out of 5 stars",
+      "Best Sellers Rank": "#43,723 in Electronics",
+      "Is Discontinued By Manufacturer": "No",
+      "Date First Available": "July 1, 2016",
+      "Manufacturer": "GL Technologies"
+    },
+    "categories": [
+      "Computers & Accessories",
+      "Electronics",
+      "Routers",
+      "Networking Products"
+    ],
+    "price": 40.0
+  }
+}

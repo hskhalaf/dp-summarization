@@ -1,0 +1,962 @@
+{
+  "website_summaries": [
+    {
+      "verdict": "The Logitech Harmony Smart Control combines RF functionality and smartphone control in an affordable universal-remote package, but the complexity of the initial setup will burden some buyers.",
+      "pros": [
+        "The Logitech Harmony Smart Control is a unique universal-remote system that makes it possible to control eight devices -- including the PS3 and Wii -- using your iPhone or Android phone or the included simple remote, which communicates with the included Harmony Hub",
+        "The remote is remarkably light and thin, and operates via RF, rather than IR, so you don't need line-of-sight to your components",
+        "Harmony's activity-based buttons offer a single button for functions like \"Watch TV"
+      ],
+      "cons": [
+        "Harmony's setup can take a lot of initial work and requires some tech savvy",
+        "The included remote only has three dedicated activity buttons, which isn't enough for many home theaters",
+        "And the option to control your devices via a smartphone is cool, but not really that useful",
+        "There aren't any dedicated tablet control apps, either"
+      ],
+      "aspects": {
+        "Design": 7.0,
+        "Ecosystem": 10.0,
+        "Features": 7.0,
+        "Performance": 9.0,
+        "Value": 8.0
+      },
+      "publication_date": 20130718,
+      "rating": 8.2,
+      "source": "cnet"
+    }
+  ],
+  "customer_reviews": [
+    {
+      "title": "Beware of rogue firmware updates that get installed without warning",
+      "text": "A rogue firmware update (w/o warning) from Logitech removed local access using OpenHAB/SmartHome etc communication with the device. The device became a paper weight for me overnight, w/o any warning from the vendor. Logitech should issue refunds for those kind of actions.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "Thomas Hentschel",
+      "helpful_votes": 143,
+      "publication_date": 20181218
+    },
+    {
+      "title": "Product is good, company is HORRIBLE. Stay away.",
+      "text": "Their hardware is nice but you also need great software and great support to back up a product, neither of which Harmony has. Their software is clunky and slow and bug ridden and their policies and transparency as a company is horrible with a really bad track record. Last year they bricked (made it not work) a product and only after an uproar offered customers a new one (if they paid). Now, without notice they removed a well known feature used by thousands for \"Security\" reasons. Such a horrible experience. I will never buy one of their products again...shame.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "Ryan R. Detzel",
+      "helpful_votes": 17,
+      "publication_date": 20181219
+    },
+    {
+      "title": "* * Not as repreented * *",
+      "text": "Goal: Smart Home, mainly wi fi control of lights etc. when away from home via smartphone. Alexa tech support advised this hub is the same one used by Alexa, insuring future compatibility. THREE HOURS and I still can't get away from being steered into making the Harmony TV control work FIRST. It doesn't. This software will not even find my sound equipment or other devices connected via the SmartTV hub, and won't even turn the TV on or off. I think I've been misled, and have found nothing to support the secondary claim of smart home functionality. It will be returned, sorry Amazon. I seldom return anything but at least this review may prevent others from being misled.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "Bob T",
+      "helpful_votes": 3,
+      "publication_date": 20180901
+    },
+    {
+      "title": "REMOTE STOPPED WORKING IN 2 WEEKS",
+      "text": "Very easy to set up and accomplished everything I needed with my home theater set up. Anyone that reviews it poorly must not know how to use basic electronics and setup. I was concerned when reading the reviews that I was going to be disappointed but I am far from. Great product and easy setup! UPDATE - 1/1/2018 Remote no longer working. I had purchased another system in the mean time and the new remote still works fine. Replaced batteries and still nothing - let\u2019s see how Logitech customer service handles this!",
+      "rating": 1.0,
+      "verified": true,
+      "author": "Taylor D",
+      "helpful_votes": 6,
+      "publication_date": 20171222
+    },
+    {
+      "title": "Works fantastic for automation with Alexa.",
+      "text": "I mostly bought this just for the base. I wanted automation with Alexa and my home stereo. This does exactly that. I can't comment on the physical remote because I don't use it. It may be user error but I've had a hard time syncing the logitech remote app on my phone with either the PS4 or Amazon Fire TV. But for my receiver, tv, tivo, and xbox, it's working fantastic. I love that I can add tv functions to other routines I have already setup.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Gunnlauger",
+      "helpful_votes": 4,
+      "publication_date": 20180313
+    },
+    {
+      "title": "As of 2018 Dec. Local API has been removed.",
+      "text": "As of 2018 Dec. Local API has been removed with their firmware update. As a result, almost all the Home Automation open source software 'become ' not compatible with Harmony Hub. Logitech claims it's for the better security. As far as compatibility with Home integration system, this product is now far less attractive. I cannot recommend this.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "Tanus",
+      "helpful_votes": 4,
+      "publication_date": 20181220
+    },
+    {
+      "title": "This is NOT the Companion remote!",
+      "text": "Although the remote works as it should, I was expecting to receive the Harmony Companion Remote. If you look at the 4th picture in the series, you will see a remote with lighting control. This is what I wanted and is available on the Companion. To the seller, you might want to remove the two pics of a different remote as it is kinda misleading. Otherwise, the remote was super easy to set-up and works like a charm so far... Minus on remote lighting control. Sure, I can set scenes via activities, but I wanted to be able to control just the lights. Oh well, I know better now!",
+      "rating": 4.0,
+      "verified": true,
+      "author": "This Tech Guy",
+      "helpful_votes": 0,
+      "publication_date": 20181228
+    },
+    {
+      "title": "Wait for something better",
+      "text": "Terrible product! My home is automated and this is the ONLY product that is a dud. It took forever to get linked over WiFi with lots of meaningless error codes. Once working it would turn off the stereo when I turned on the TV and turn off the TV when I turned on the stereo. Then after two weeks it just did nothing. I reset it to factory and 4 hours later still can't get it to configure. I'll give it another half hour then taking the useless $250 Harmony remote as a hammer and smashing both into pieces.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "Keith",
+      "helpful_votes": 2,
+      "publication_date": 20180630
+    },
+    {
+      "title": "Software setup is BAD",
+      "text": "I have spent 2+ hours trying to do the INITIAL software download to start setting up this device. This includes 45 minutes on the phone wth tech support --haha! NOTHING has been accomplished!!! After spending another hour on the phone, it is now working. It works wub well! I think that they need to do consumer testing of their setup software. How many of the the readers know what the pairing code between your phone and the Harmony Hub is??? It is not listed in the setup software, paperwork or anywhere else!!! If you do not know it, you cannot do the setup!! And the setup software does NOT complain if the pairing fails!",
+      "rating": 1.0,
+      "verified": true,
+      "author": "Kathy",
+      "helpful_votes": 0,
+      "publication_date": 20181210
+    },
+    {
+      "title": "Not Working on Mesh Home Network (Google, Netgear, ASUS)",
+      "text": "This is a very frustrating piece of software. 1. setup most of the app 2. upon final reboot during the setup process, the app would no longer connect to my network. Yes, I had my phone on my 2.4GHz hotspot and the Harmony connected to the same 2.4GHz network. NO, the 5GHz network and 2.4GHz DO NOT SHARE THE SAME SSID. Using AI Mesh from ASUS two routers that cover my house. I googled, and i see that this is all over the Logitech support forum. This product will be returned.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "mr. davis",
+      "helpful_votes": 2,
+      "publication_date": 20181128
+    },
+    {
+      "title": "Don\u2019t waste your money",
+      "text": "Biggest P.O.S. I\u2019ve ever seen. This is my third Logitech remote. My first one was their cheapest one available. My second one was a Harmony One. It lasted till one day past warranty. I opened it up and it looked like a kids science project, terribly manufactured. I then bought this piece of GARBAGE! It has lasted about a year ( after warranty ) and now it\u2019s dead. Again I say, don\u2019t waste your money.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "Mike",
+      "helpful_votes": 4,
+      "publication_date": 20181117
+    },
+    {
+      "title": "Game changer - strongly recommend",
+      "text": "If you are capable of operating the A/V equipment you have and a smart phone, third remote is easy to set up. If you have ever used a remote control, it is easy to use. Absolutely worth it if you hate using one remote for sound and another for channel (or hate having to press the device button on a universal remote before doing the same). Hub is powered through the wall, but remote has a button battery. It emits RF frequencies, so maybe it will last a while. The IR blaster is good, but I still needed a $20 IR repeater to make everything work while hiding it in a closet.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "neverbeentospain",
+      "helpful_votes": 0,
+      "publication_date": 20190703
+    },
+    {
+      "title": "Never could get it to work consistently",
+      "text": "Wanted a replacement remote for my 650. Didn't know it came with a hub. It refused to work with everything. After 2 hours I gave up, unlike my 650 which took 5 minutes to set up. Not interested in adding another app to the thousand that are already on my phone. What a pain. Want a simple remote that doesn't gobble up the batteries that can be programmed on a PC. Not sure where someone would use this. Logitech,,,, big fail,,,, what were you thinking?",
+      "rating": 2.0,
+      "verified": true,
+      "author": "Rfojr",
+      "helpful_votes": 0,
+      "publication_date": 20190802
+    },
+    {
+      "title": "9 months then it DIED!!!",
+      "text": "Our second remote from Harmony (the first one was rechargeable) but we wanted one to work with Harmony Hub - 1st one was great - this one has lasted ONLY 9 MONTHS. It just STOPPED WORKING - we replaced the battery in the handset - NOTHING. The website is a nightmare. Website hard to navigate and to ask a question by phone COSTS $10 after 90 days of product ownership. Finding any troubleshooting tips - forget it. Counting out LOSES on this one.......ZERO STARS for this product...",
+      "rating": 1.0,
+      "verified": true,
+      "author": "TERRY",
+      "helpful_votes": 0,
+      "publication_date": 20190401
+    },
+    {
+      "title": "Tried, I really did----for over a month---to use this thing. Doesn't work, can't return it. Save your money.",
+      "text": "Junk. Set it up per the instructions, the software is a little clearer than with the Harmony 650, and so I had high hopes that Wirecutter might be right and this would be the best of many mediocre choices. Tried and tried over the past month to get this thing to work, and just when I think everything is set between a simple Sony LCD TV, a Roku, and a Yamaha amplifier, it freezes again and we are left without a usable remote. Restarting helps for a while some times, never know how long. Unable to return it, so wasted $70 on this useless thing. Don't waste your money.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "James Friend",
+      "helpful_votes": 2,
+      "publication_date": 20180527
+    },
+    {
+      "title": "Perfect for what I needed",
+      "text": "Perfect for what I needed. I just wanted to wrangle my 4 remotes into 1. This did it perfectly. TV, Amazon Fire, AT&T Uverse and DVD player. Works like a charm and easy to set up. I had a Logitech controller. just sign into the account and like that it's done. It does have a feature to run on Amazon Alexa and house controls. Not interested now but good to know I have it. Buy with Confidence. Update:: After a few days Still love it but the # buttons are a wee bit small for my gorilla thumbs.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "D. Weinberg",
+      "helpful_votes": 0,
+      "publication_date": 20180109
+    },
+    {
+      "title": "Harmony Antics are the Usual",
+      "text": "Harmony recently closed the local API due to security reasons and ultimately bricked the value of the device for individuals wishing to use advance features. This is not an unexpected move by Harmony considering the company has bricked products in the past, i.e. Harmony Link. I would be very hesitant to purchase this device again considering the history Harmony has with swindling their customer base.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "Caleb Dunn",
+      "helpful_votes": 3,
+      "publication_date": 20181221
+    },
+    {
+      "title": "Excellent remote at a great price!",
+      "text": "I love this remote. It's sleek and feels good in the hand and--more importantly--it works flawlessly (so far). It does everything I need it to do and addresses my needs to have it control equipment that's located in a room adjacent to the TV. It's replacing and old Harmony remote that bit the dust after 5 years and it is a fraction of the cost of what I paid for the fancier Harmony I had been using. The tech that set it up for me did have a hard time. Turns out he needed to do some kind of update first. I used a tech through Amazon and was very pleased with the service and price.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "SAI",
+      "helpful_votes": 0,
+      "publication_date": 20181217
+    },
+    {
+      "title": "Pictures on product page are wrong, but otherwise good",
+      "text": "I already knew the photos were incorrect when I bought the remote so I'm not going to let that affect my review, but that should really get fixed. There are pictures of Logitech Companion remote which has dedicated light and power outlet buttons - this does NOT have those buttons. That said, you can integrate smart lights into your scenes or automations or whatever you want to call them. It would be nice if there was a troubleshoot button on the remote that would just try the obvious things, like inputs, when there's an issue. Having to use your phone to fix a simple issue is annoying. Overall it works well for what it is.",
+      "rating": 4.0,
+      "verified": true,
+      "author": "K. Darling",
+      "helpful_votes": 0,
+      "publication_date": 20181130
+    },
+    {
+      "title": "Has simplified my home entertainment center",
+      "text": "This remote has completely simplified my home entertainer center. Instead of having 4 remotes I am now down to one. Once programmed it also makes switching between activities much more simple. Programming the remote took a little bit of doing. For me it went a little quicker as I was able to input my settings from a previous Logitech remote. Installing the hub was easy to do. Just needed to plug it into the wall and place it where it would be effective. Overall, setup probably took me about an hour. I am very happy with this remote and would recommend to anyone that is interested.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Spencer",
+      "helpful_votes": 0,
+      "publication_date": 20190727
+    },
+    {
+      "title": "App doesn't connect properly to the device",
+      "text": "I downloaded the app and it kept crashing when I tried to connect it to the device. I tried several times. It also won't load your setting from old Harmony devices like the other remotes do, which was a huge hassle. What a waste of time.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "Spencer Culbert",
+      "helpful_votes": 4,
+      "publication_date": 20181218
+    },
+    {
+      "title": "I bought this solely for the hub",
+      "text": "I barely used the remote since it affects my 3 TVs that are in the same room. I only use the hub to turn on and off my TVs and setup the appropriate channels. Before the latest integration, it was a pain to use Google Home with this. It was like \"Hey Google Ask Harmony to turn on TV1\". Now it's simpler but it's a bit slow, with just \"Hey Google turn on TV1\" but there's a bit of a delay before it happens. I would recommend this when it's on sale since it's a nice deal to get the hub for less.",
+      "rating": 4.0,
+      "verified": true,
+      "author": "Amazon Customer",
+      "helpful_votes": 0,
+      "publication_date": 20190826
+    },
+    {
+      "title": "Works perfect for my application",
+      "text": "I've always been a fan of harmony remotes. Then decided to give the hub and simple remote a go around. It me a few hours to get it exactly configured the way I wanted. Had to add some delays and extra steps to fine tweak it. It works perfectly. The app has a little learning curve but got the hang of it pretty quickly. I'm not really doing not automation yet. Which I'm sure is another processor on it's own. However the option is there and I like to play with my setup. If you're not really tech savvy, you may want to have this set it for you.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "John",
+      "helpful_votes": 0,
+      "publication_date": 20190708
+    },
+    {
+      "title": "Sounds good but can't produce what they say it can",
+      "text": "I was disappointed in this device. I have a brand new LG Ultra 4K Super HD and the hub is asking me to purchase the Harmony extender in order to control the device. So this is useless since 3 of my devices I'll have to use the original remote controls or spend more money for the Harmony extender which cost more than the Harmony Smart Controller. Also it takes it forever to link to my WiFi which is very close and I have the highest speed possible which it should connect right away. Hopefully in the future Logitech will get this system right but for now I'll just do without this Harmony smart controller.",
+      "rating": 2.0,
+      "verified": true,
+      "author": "Abstract Cool Shopper",
+      "helpful_votes": 0,
+      "publication_date": 20170927
+    },
+    {
+      "title": "DOES NOT WORK WITH AMAZON FIRE TV",
+      "text": "Spent 75 minutes on the phone with tech support. In the final minutes of the call, the rep told me there is a known issue and the manufacture is aware and investigating the problem. Would have been nice to have been informed of the in the first few minutes of the call instead!!! Does not work with Amazon Fire TV. You have to use an Elements Electronics tv profile to get it to power on and off. I was able to program some of the buttons, button some essential buttons cannot be programmed",
+      "rating": 1.0,
+      "verified": true,
+      "author": "EspressItMan",
+      "helpful_votes": 0,
+      "publication_date": 20190322
+    },
+    {
+      "title": "\"Unable to connect\" \"Unexpected error, please retry later\"",
+      "text": "Got it today and its going back tomorrow. Was never able to set it up. The stupid app was never able to set the hub up. It found my WiFi but when i entered my credentials it just sat there for 30+ seconds and returning with an unable to connect. Tried with the iOS and Android App. Both phone and Hub were connected to the same WiFi band (2.4ghz). I even tried to connect to my guest router (second physical one, not just a guest SSID, different brand of router too ) Still no cigar. Returning tomorrow, what a waste of time.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "Nubia",
+      "helpful_votes": 0,
+      "publication_date": 20190717
+    },
+    {
+      "title": "Works great when it works.",
+      "text": "Well it worked great for everything (new LG tv, 6 year old yamaha receiver, amazon fire tv) until it did not. Had the device ~ 3 months. Device was powered down for about 2 weeks for a move, after the move it never worked the same. The Bluetooth sync to the Amazon FireTV 2nd gen simply wont work.. all other functions are fine. Full factory reset of the device resulted in no change in behavior. Grumbles around the internet forums seem to indicate this is a known issue with no real technical solution. The internet says sometimes it just starts working, sometimes it never works again.",
+      "rating": 3.0,
+      "verified": true,
+      "author": "Luckeelady",
+      "helpful_votes": 0,
+      "publication_date": 20180108
+    },
+    {
+      "title": "Frequently stops working",
+      "text": "Remote is extremely complicated to setup and I am a computer engineer. Hub needs frequent rebooting by pulling the power plug in order for it to reconnect to the network. Occasionally there will be significant lag time between pressing a button and any effect on the TV. After less than 6 months the remote stops working because the battery is loose inside the battery compartment requiring opening up the battery compartment and manually adjusting the battery. Extremely frustrating when all you want to do is pause the movie. Will be contacting Logitech to start a warranty claim. Do not recommend this product or any Harmony line remote.",
+      "rating": 2.0,
+      "verified": true,
+      "author": "SW",
+      "helpful_votes": 0,
+      "publication_date": 20190514
+    },
+    {
+      "title": "No IR From Remote",
+      "text": "Unfortunately there is misleading information in the QA on Amazon about this product. For me, the reason it did not work is the following from the Logitech website \"The Harmony Companion and Harmony Smart Control remotes do not have IR emitters and rely on the hub and IR mini blaster(s) for all IR control.\" Unfortunately my control closet is one story below and 50 ft away from the TV, making control of the tv impossible because the remote doesn't have infrared capabilities. Otherwise the rest of the setup went well.",
+      "rating": 3.0,
+      "verified": true,
+      "author": "C. D PAPAS",
+      "helpful_votes": 0,
+      "publication_date": 20180331
+    },
+    {
+      "title": "Ease of Use vs. Difficulty of Setup... Otherwise, Fantastic Remote",
+      "text": "It's a wonderful remote. It takes a time to get it set up, but once you do, it's literally one click to turn on and off everything you've set it for. I currently have it set to turn on my Nvidia Shield, my Samsung TV to HDMI 2, and my Sony Audio Receiver. Works like a charm. There's a catch 22 for this remote, though: If you're not technologically savvy, this is going to be a hard remote to set up, but once it's set up, it's the best remote for those who aren't technologically savvy. So if you can get someone to help you get things going, you're going to be good to go and glad you bought it.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Lane",
+      "helpful_votes": 0,
+      "publication_date": 20180322
+    },
+    {
+      "title": "Mixed feeling",
+      "text": "Device works but some times glitchy. I have identified number of device to control it with, almost always, whenever i try to turn on one device, i notice that one of the others would try one as well or at least receive a commend. This is frustrating specially when you have guests around and you try to turn on the A/c but also the remote controlled window or the music system would would turn on with. After a while, i kinda stopped using it, and it became a useless living room decoration.",
+      "rating": 2.0,
+      "verified": true,
+      "author": "Khaled",
+      "helpful_votes": 0,
+      "publication_date": 20190410
+    },
+    {
+      "title": "Huge waste of $70.00",
+      "text": "I bought this to ease my stress of having to deal with 5 remotes. It just raised my stress level about 1000%. This is junk! takes numerous attempts to pair/cant reach the internet because password is wrong-but after 3 or 4 ties & carefully entering the password it works/looses pairing/any router mishap & it's reset time & back to all the problems. Dont buy this unless you enjoy frustration!",
+      "rating": 1.0,
+      "verified": true,
+      "author": "bll",
+      "helpful_votes": 0,
+      "publication_date": 20190429
+    },
+    {
+      "title": "No better than a very expensive paperweight FORGET Alexa integration. Doesn't work!",
+      "text": "Simply unreliable. Works sometimes., sometimes not. Not real benefit from having a mobile app. No real benefit of integrating with Alexa which is my primary reason for buying it. The integration is unreliable, very limited and complicated. If one of you \"TV\" devices doesn't turn off or on (like a cable box or surround sound for example) good luck getting the system \"synched\" again so it works properly. The dumbed down remote is worse than useless it's so limited. Honestly, stick with your older logitech smart remotes with the LCD screen. That's what I went back to. This is a paperweight.",
+      "rating": 2.0,
+      "verified": true,
+      "author": "TheBigOldDog",
+      "helpful_votes": 3,
+      "publication_date": 20170324
+    },
+    {
+      "title": "Excellent Remote",
+      "text": "I bought this unit to replace my old Logitech Harmony and am very happy with it. I can use this remote, my smart phone, or my Alexa to control the TV. Why this device? Simply because my wife can't easily operate all the remotes for all the devices to watch TV! (I think she would be much happier with the old rotary analog VHF/UHF channel changer.) If you're looking for a all-in-one remote, this is it!",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Peter",
+      "helpful_votes": 0,
+      "publication_date": 20180624
+    },
+    {
+      "title": "Works most times",
+      "text": "I bought this to control receiver/playstation/roku/tv/cable modem(fios/tivo). Much better and easier to use than the older models. Takes some time to start up all the devices on the activity. Does lose connection every once in a while for a particular device(multiple times with fios box and tivo) and also commands that used to work don't work(turning off TV for ex. - you have to reteach it via the APP). The only way I have found to fix this is to delete the activity and recreate it. The phone app is super useful and very handy. Even with this drawback it's much easier to use for the entire family and I would buy it again in heartbeat.",
+      "rating": 4.0,
+      "verified": true,
+      "author": "Gore",
+      "helpful_votes": 0,
+      "publication_date": 20190610
+    },
+    {
+      "title": "Wow, this thing made my home theater freaking smart.",
+      "text": "Holy cow, this thing is great. It does take a little patience to set up, but once you have it all dialed-in it does some really great things. First, I now only need one remote to control my projector, receiver, blu-ray player, TiVo, and Fire TV. That alone was worth the price. However, the Harmony Hub integrates with Alexa, so now i can control everything with my voice like I'm Captain Picard. It really is great - I can turn the volume up & down, change channels, switch inputs - all with my voice. I can also turn everything on and off with my voice. I AM A WIZARD.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Steven J. Center",
+      "helpful_votes": 0,
+      "publication_date": 20180316
+    },
+    {
+      "title": "Not a half bad phone app, but the remote is useless",
+      "text": "I bought this hoping that I could offer my wife a single remote for the TV, DVR and Blu Ray player. All of these work great in the phone app, but the remote provided is useless. Setup is difficult and confusing. I ended up having to teach the remote for some buttons. It trys to force me to setup a series of activities, but it is just too difficult and confusing. It would have really helped if I could have done the setup on my PC (which it says can be done, but that didn't work).",
+      "rating": 2.0,
+      "verified": true,
+      "author": "Gregory P. Alford",
+      "helpful_votes": 0,
+      "publication_date": 20190825
+    },
+    {
+      "title": "Worst purchase ever. Useless, tired of it taking up space, threw it away.",
+      "text": "Works great. If you don't mind reprogramming every time you use it. It forgets devices constantly.Reprogram it again, it works good for a day or 2, then gotta do it again. Mostly it just sits on the end table, while we juggle the same pile of remotes we've always had. You'd think in 2019 A/V equipment could be made to sync up seamlessly with 1 remote, but I guess not.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "philip oettinger",
+      "helpful_votes": 0,
+      "publication_date": 20190430
+    },
+    {
+      "title": "Not Home Automation Friendly",
+      "text": "Giving no warning or alternatives, Logitech removed the local control API needed for proper home automation. Without it, this thing is an overpriced universal remote. A terrible move for a company to just disable a long-relied-feature like that.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "Zorks",
+      "helpful_votes": 3,
+      "publication_date": 20181218
+    },
+    {
+      "title": "I love this thing!",
+      "text": "Still learning and playing with this but I love love love being able to program a single button to turn on the TV, receiver, and dish. I even set it to default to my preferred channel! All with one touch! We put the other remotes in the drawer and we can forget about them. It's great. I also have the app on my phone so if he falls asleep with the remote, I can change channels, adjust volume, do everything I can do with the remote with my phone. This thing is awesome!",
+      "rating": 4.0,
+      "verified": true,
+      "author": "Jenni Ferreira",
+      "helpful_votes": 0,
+      "publication_date": 20181011
+    },
+    {
+      "title": "Doesn't live up to expectations, the legacy harmony remotes with a built in screen and lots of buttons worked better",
+      "text": "I had higher hopes, it's not horrible, but a real pain to switch between \"Activities\" like between game consoles or inputs on different HDMI ports. And not being able to setup a custom remote interface in the smartphone apps to decide which functions on what devices I want to be able to trigger was a huge disappointment. If it doesn't execute a command sequence perfectly, the included remote is suddenly worthless, and you'll have to use a smartphone and the app to \"troubleshoot\" every step instead of just fixing the missed step like you could with a standard universal remote.",
+      "rating": 3.0,
+      "verified": true,
+      "author": "B. Spicher",
+      "helpful_votes": 0,
+      "publication_date": 20180409
+    },
+    {
+      "title": "Absolutely the best TV remote I\u2019ve tried",
+      "text": "Absolutely the best TV remote I\u2019ve tried. It turns on all of the relevant devices and can be programmed with all of the special functions of each device. I never have to use the original remotes for anything. An interesting note: I prefer this model (no screen) over the models with a display and touch screens. I tried a touch screen remote and realized that it can\u2019t be used by touch... you have to look down at the touch screen to use it. The non-display remote can be used by touch without having to look at it every time.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Elsewhere",
+      "helpful_votes": 0,
+      "publication_date": 20181202
+    },
+    {
+      "title": "Amazing for this price",
+      "text": "I was skeptical but this remote is great. I have used the Harmony One for many years. It finally started to have failing buttons so I needed another and was disappointed that Logitech doesn't make them anymore. This one, however, works great. Fairly simple to setup and once you position it well, it controls everything without the worry to point at the devices. The only things I would improve is make the remote an inch longer and increase the button sizes a little bit; and add backlight to the buttons because I'd like to buy another for the bedroom but won't be able to see it in the dark.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Bruno Soares",
+      "helpful_votes": 0,
+      "publication_date": 20180914
+    },
+    {
+      "title": "Not wow",
+      "text": "- It is not very easy/friendly to set up and use. - Once you link it with Amazon Alexa you cannot change the friendly keywords (for TV and other devices) anymore unless you unlink them and link them again. - It knows 250,000+ devices and you can teach it your own remote control if it does not know it, but you cannot teach it the remote control I have for a split A/C unit, so it turned out to be half as useful for me. What's left is trying to make the most out of controlling 2 other devices using Alexa and the Harmony remote, which is not worth the purchase.",
+      "rating": 3.0,
+      "verified": true,
+      "author": "J.A.",
+      "helpful_votes": 0,
+      "publication_date": 20190107
+    },
+    {
+      "title": "Excellent Universal Remote system.  Easy to setup and Easy to customize.",
+      "text": "I just bought my third one so that I can have one in each of my rooms with multiple IR or bluetooth devices. I love the macro functionality and these remotes can do 6 activities a piece. There are only 3 macro buttons but each one will do 2 activities depending on if it is a long or short press of the button. The companion remote is made very well and feels good in your hand. My only improvement on it would be to have harder rubber buttons and a back light. For the price point though you can't beat it.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Koschack",
+      "helpful_votes": 0,
+      "publication_date": 20181207
+    },
+    {
+      "title": "Should be named Harmony Dumb Control",
+      "text": "This thing is maddening! How the heck do you program the \"home\" button for a Samsung TV? Nothing works in this regard. The button I'm referring to is the button on the remote that gets you the menu for the smart TV options. When trying to program/learn a button for the \"home\" function, nothing happen as if the hub didn't get the signal. Documentation is poor and the whole process of syncing by attaching the hub to a PC is a real pain. Can't recommend this units. It fails to do even the most basic of controls.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "Customer",
+      "helpful_votes": 0,
+      "publication_date": 20190107
+    },
+    {
+      "title": "Surprisingly easy set up and good experience so far",
+      "text": "Works great for my Samsung HDTV + Yamaha audio receiver + Amazon Fire Stick + Chromecast combo. The set up went mostly smoothly for my situation. The only frustrating thing is when I use my Amazon Fire Stick, I sometimes need access to my TV menu as well, so I have to utilize long press vs short press configurations for the remote. However in reality I find using my Fire stick remote itself better, so this Harmony remote hasn't replaced everything in my household.",
+      "rating": 4.0,
+      "verified": true,
+      "author": "Marina J.",
+      "helpful_votes": 0,
+      "publication_date": 20190924
+    },
+    {
+      "title": "Makes a great second remote.",
+      "text": "I purchased this just for the remote. I didn't really need a second hub which is included. The biggest difference I can see so far between this model and the 130 dollar hub w/remote is the lack of buttons for home automation. The play controls are shifted up to where the automation buttons are on the other model. Which means this remote is shorter and has more of gloss finish. It took a bit to figure out how to add second remote. But is possible in the app.",
+      "rating": 4.0,
+      "verified": true,
+      "author": "B. Olley",
+      "helpful_votes": 0,
+      "publication_date": 20190909
+    },
+    {
+      "title": "Works great with Alexa but wont be supported by Logitech in the future",
+      "text": "I have this hooked up to Alexa and it works flawlessly. Downsides: Was a little bit of pain to setup. Battery cannot be changed in the remote. Also Logitech is going to stop supporting this Harmony product very soon, if they havent already. Other than that works great. It has a good feature where you can program a pause before a device turns on. On my setup, the TV and Cable box need to be turned on before the AV receiver, so I entered in a 1 second pause before turning the AV receiver on and it worked great.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Section 80",
+      "helpful_votes": 0,
+      "publication_date": 20180717
+    },
+    {
+      "title": "Logitech is the best",
+      "text": "Alexa enabled and usually on sale, our favorite way to make Alexa change our channels and switch inputs",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Slanted",
+      "helpful_votes": 4,
+      "publication_date": 20171205
+    },
+    {
+      "title": "Hub totally simplifies my entertainment system.",
+      "text": "Replaced my old Harmony One remote with a new Logitech Hub and basic remote and just love this. I can now have multiple remotes/hubs on one account - good job Logitech! I no longer have to point the remote in the general direction of my entertainment system, I can just press it and it works. Paired it with Alexa and so far that has worked well, pretty easy to turn my stuff on/off with Alexa. Changing channels with Alexa needs tweaking with the key words of each channel. Overall, pretty happy for what I\u2019m getting now at this price versus what I had before.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Amazon Customer",
+      "helpful_votes": 0,
+      "publication_date": 20180103
+    },
+    {
+      "title": "There's a lot to like about this system but the inability to add a ...",
+      "text": "There's a lot to like about this system but the inability to add a second remote is a deal-killer. You can buy a second remote for $30 or so but for whatever reason it's impossible to add it to this system. The alternative is to get the home control system and add a second smart control to that but then you're spending $200 for essentially the same remote and hub and then another $30 for a second remote. I'll be returning this unit until Logitech offers a reasonably priced system that supports more than one remote. Very disappointed.",
+      "rating": 2.0,
+      "verified": true,
+      "author": "Jason McLain",
+      "helpful_votes": 0,
+      "publication_date": 20171225
+    },
+    {
+      "title": "A little trouble at first but great customer support",
+      "text": "Had trouble setting it up on my own because I wanted to use it to have Alexa control my TV, Fire Stick and also my DVR recorder that stands alone, not via satellite. Customer Support for Harmony is really great and will help you set it up and explain things and will also not be upset if you call back with other questions as well. It's great for controlling all your devices.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "bwh44",
+      "helpful_votes": 0,
+      "publication_date": 20181102
+    },
+    {
+      "title": "I like the smaller size but the remote does not emit ...",
+      "text": "I replaced an older harmony with this one. I like the smaller size but the remote does not emit IR. All IR commands come from the other box which is okay but does not work for a setup like mine. I have a TV wall mounted with all the other equipment in a closet hidden around the corner. The equipment in the closet works great with this remote, I just have to manually turn on and off the TV. I will say the programming of this harmony was much easier than the older software used by the 880, 890, One, and Elite remotes.",
+      "rating": 4.0,
+      "verified": true,
+      "author": "jethro",
+      "helpful_votes": 0,
+      "publication_date": 20180109
+    },
+    {
+      "title": "Great all in one remote",
+      "text": "In some ways, I miss the LCD screen of my old harmony remote, but I'll take better battery life. I can't seem to figure out how to incorporate the Roku remote functions yet, but with time, I may figure it out. This makes my life easier, as my kids don't set the TV or Receiver to some weird setting while trying to play their games or watch something different. The IR blaster works well, there is not much direct line of sight to my receiver, and it still controls it well.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Ben Petersen",
+      "helpful_votes": 0,
+      "publication_date": 20190122
+    },
+    {
+      "title": "Slow switching.  Changing delay fixes problem.",
+      "text": "It can control a lot of different devices. However, it was very slow to do anything. I later found that the TV delay had been set to 45 seconds. I reduced that to 7 seconds and everything switches quickly. The application could be much more intuitive but I'm raising by a star since I'm much happier with it. Taking almost a minute to switch devices was very frustrating.",
+      "rating": 4.0,
+      "verified": true,
+      "author": "jinx10000",
+      "helpful_votes": 2,
+      "publication_date": 20170908
+    },
+    {
+      "title": "I have struggled for literal decades with way too many electronic devices drowning in a sea of remotes that don't like each other",
+      "text": "I don't know how that I've gone so long without this device. It is incredible. I have struggled for literal decades with way too many electronic devices drowning in a sea of remotes that don't like each other. The Harmony system removed the need for all of my remotes which is awesome. I was even able to control my RASPLEX with the help of a Flirc seemlessly without any trouble. For the RASPLEX I read a review on here that talked about configuration needed to do was to plug in the Flirc and configure it with the Harmony and it instantly worked!",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Chris S.",
+      "helpful_votes": 0,
+      "publication_date": 20180723
+    },
+    {
+      "title": "Great idea, not quite there yet",
+      "text": "Great concept, but it is oddly cumbersome to set up as the app is laggy and the performance of the remote functions can be laggy. I've especially noticed that after the power on sequence for my tv and soundbar, there is a looooong wait time (20 seconds?) before I can actually control the tv. Before you ask, there is no delay in the program sequence. I got this during a fantastic sale but am likely to return it. Loved the idea of being able to control all my AV devices without line of sight to remote or via a phone app.",
+      "rating": 3.0,
+      "verified": true,
+      "author": "Ed Karjala",
+      "helpful_votes": 0,
+      "publication_date": 20170731
+    },
+    {
+      "title": "this is a better solution than juggling multiple remotes",
+      "text": "Does most everything I wanted and expected it to do. In retrospect, I probably should have gone with a version with a backlight and programmable keys on the remote (rather that trying to remember how I programmed some of the more obscure keys on the provided remote). Also, I still can't understand why it takes 10-15 seconds for my Roku to respond after a power-on sequence, particularly since there is no power-up with the Roku (it's ALWAYS on). But this product has allowed me to retire the 3 remotes I was previously using and, despite these annoyances, this is a better solution than juggling multiple remotes.",
+      "rating": 3.0,
+      "verified": true,
+      "author": "Doug McLaskey",
+      "helpful_votes": 0,
+      "publication_date": 20180425
+    },
+    {
+      "title": "Better than expected - Works great!",
+      "text": "I wasn't sure it would work in our application, but everything worked great. TV, Roku, Chromecast, Xfinity Box, Vizio sound bar. Only complaint I have is you can't say how long to wait to switch the TV input, just gives the option to extend time. Why not have a 3 second, 5 second, 10 second option. We start up the tv now and it seems like an eternity for the input to finally change.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Jawabba",
+      "helpful_votes": 0,
+      "publication_date": 20181127
+    },
+    {
+      "title": "relies a lot on timed macros",
+      "text": "I wanted to like this. Controlling my TV and my roku from one remote would have been great. Unfortunately, it didn't play nice with the way my tv turned on and switched inputs. I also felt that the buttons were dated. Why not have an actual netflix button? Or why not use some of the existing CEC controls built into devices? Other than network connectivity, there are a lot less expensive remotes that do the exact same thing.",
+      "rating": 2.0,
+      "verified": true,
+      "author": "A. Soduk",
+      "helpful_votes": 0,
+      "publication_date": 20180908
+    },
+    {
+      "title": "Great product",
+      "text": "I had Harmony one for years I think this one is much better and cheaper. For those who want touch screen and more options- 95% of the time you don\u2019t and the remote covered everything so there\u2019s no need. The touchscreen just created false changes more than assisted Note for those who wanted additional IR extenders No need. The unit itself is also IR, in case needed you can buy one more and it covered everything",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Daveil",
+      "helpful_votes": 0,
+      "publication_date": 20171112
+    },
+    {
+      "title": "Constantly reboots/becomes inactive",
+      "text": "This remote was supposed to be the One Ring of my entertainment system, but the firmware/software is in such a sorry state that it is constantly sitting there with a red light on it, needing to be power cycled. I've tried updating the firmware a few times. For a while, the upgrade wouldn't even complete, but even after it did, it didn't really fix the issue. When it works, it's great, but that's only about 75% of the time, which isn't a good average for this sort of product, I don't think.",
+      "rating": 2.0,
+      "verified": true,
+      "author": "Transmission3000",
+      "helpful_votes": 0,
+      "publication_date": 20160804
+    },
+    {
+      "title": "Completely changed the way we interact with our devices",
+      "text": "Very please with the ease of setup. I was able to connect all of my entertainment center devices to Alexa using this device. I was able to connect more devices to the smart hub than I had expected: TV, Blu-ray player, Xbox, Wii, and AppleTV. The LED light strip behind my TV was not automatically configured, but I was able to program all the colors in with a bit of patience. We can now control every device using the remote, our phones, or the included controller.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Owen Baker",
+      "helpful_votes": 0,
+      "publication_date": 20180725
+    },
+    {
+      "title": "Makes Life Less Complicated",
+      "text": "Controls almost everything perfectly. The customizable buttons is awesome. IR Blaster and bluetooth hits all of my equipment. The only problem I have is when I use the control to activate/control my PS4, I cannot control anything else until I power cycle my logitech base. Firmware is up to date and it has been known to be incompatible with the Sony PS4 in the past. Problem doesnt occur randomly, it happens evertime it controls the PS4. After the 5th occurrence, I took the PS4 out of the controlled list. Not a problem for me since I use the game controller anyways.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "chuck",
+      "helpful_votes": 0,
+      "publication_date": 20161129
+    },
+    {
+      "title": "Missing device compatibility from previous Harmony models, Alexa integration doesn't work.",
+      "text": "Been using Harmony remotes for years, and I tried to replace my 700 that the dog chewed, but this one doesn't want to change the input on my Sony receiver like the last one did. Had to do a manual IR copy but it still doesn't work as reliably as my 700. Lastly, the whole reason I bought this was to integrate with our amazon Echo and they don't talk to each other. I've tried everything. Configured my Echo with the Harmony skill and both are on the wifi but no luck.",
+      "rating": 3.0,
+      "verified": true,
+      "author": "Silicon Forest Entertainment",
+      "helpful_votes": 0,
+      "publication_date": 20171018
+    },
+    {
+      "title": "Same but different",
+      "text": "Toshiba 55\u201d firetv Polk soundbar PS4 I have used Harmony 350 remotes for about 10 years and was ready to change brands because the volume up button issue. I was skeptical about trying this model because I don\u2019t like the hub. Setup was not as easy as setting up a 350 but I gained the ability to control my PS4 and was able to download the app on my phone that controls everything. I still don\u2019t like the hub but everything works well once set up. Will have to see how long the buttons last.",
+      "rating": 4.0,
+      "verified": true,
+      "author": "Anthony ",
+      "helpful_votes": 0,
+      "publication_date": 20190320
+    },
+    {
+      "title": "Logitech does not act in the best interests of its customers",
+      "text": "Without warning, without one thought for its customers, Logitech recently pushed out a firmware update that stripped local API access from all of their Hub products. This action badly cripples their Harmony remote line and removes an important feature that innovative members of the home automation community have relied on for years. I have lost confidence in Logitech as a company and cannot recommend their products \u2014 certainly not their Harmony Remotes \u2014 any longer.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "Grant A. Lewis",
+      "helpful_votes": 0,
+      "publication_date": 20181220
+    },
+    {
+      "title": "Complex, limited, basically useless.",
+      "text": "Worst device ever. It's ridiculous. I'm a geek and I have never seem such complexity on a simple activity. To even configure the hub you must configure a device, it depends on the harmony server for everything, it checks firmware updates every time I open the app, it does not allow me to even power on my air conditioner without teaching the commands. A freeware such as Anymote does more and quicker than it. If I lived in US I'd return it in the same day (and I have never returned anything before). Such waste of time and money.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "Gustavo A. Silva",
+      "helpful_votes": 0,
+      "publication_date": 20170902
+    },
+    {
+      "title": "This is the one to get!",
+      "text": "I have had several Harmony remotes before this system. Sometimes they work, sometimes they don't. But this system that eliminates the need to aim the remote at the device, is what sold me. When you have to hold the remote above your head pushing the button you want to work, only to fail in the end, tells you your devices are not in a \"user friendly\" space. I have had very good experiences with this system so far. It was fairly easy to program, but it takes time to get it right. The bottom line; I would buy this again in a minute because it makes the A/V system so easy to operate.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Bill Beam",
+      "helpful_votes": 0,
+      "publication_date": 20171201
+    },
+    {
+      "title": "A Keeper",
+      "text": "I have tried a bunch of \"universal remotes\" in my time, nothing compares with this. I especially like the fact that I can keep all my 'components' inside a (vented) cabinet, out of sight and the IR blaster saturates the whole inside controlling everything, meanwhile, the second tiny indiscreet IR blaster controls the TV and soundbar outside the cabinet. The only reason it didn't get 5 stars is because of the complexity of the system, it can be overwhelming to get it ironed out.",
+      "rating": 4.0,
+      "verified": true,
+      "author": "Gary R. Lighton",
+      "helpful_votes": 0,
+      "publication_date": 20180805
+    },
+    {
+      "title": "Worst \"Harmony\" I've ever purchased",
+      "text": "Just not a very good \"all in one\" control. Worst Harmony i've ever purchased. Too many parts.. \"companion\" the mini.. the larger one.. connect to your cell phones.. etc. The originals are so much better... yeah.. they cost more for a good one.. but they are worth the difference.. Something you buy and won't use isn't better because it's less costly!",
+      "rating": 2.0,
+      "verified": true,
+      "author": "Home shopping savant.",
+      "helpful_votes": 0,
+      "publication_date": 20201011
+    },
+    {
+      "title": "a remote without IR....",
+      "text": "If you read the specs very carefully, you will find that the remote's only function is to talk to the hub and the hub does all of the work. The remote itself doesn't have IR and can't control anything. This might not be so bad if you can reach everything with the hub. Also, logitech stopped supporting Macs. So you need a windows computer or can use an ipad with reduced functionality.",
+      "rating": 2.0,
+      "verified": true,
+      "author": "Michael DeCorte",
+      "helpful_votes": 0,
+      "publication_date": 20200628
+    },
+    {
+      "title": "the remote itself has horrible ergonomic: - too flat in the hand",
+      "text": "Hub works perfectly. Importing the \"activities\" from an old Harmony One remote worked (required some adjustments - done through the iOS app - but not difficult) ... BUT, the remote itself has horrible ergonomic: - too flat in the hand, - keys are not raised enough to comfortably differentiate the keys by touch / feel, - and (not a surprise, but still an inconvenience) keys are not backlit ...(which, combined with low profile of the keys, make it really difficult to find the right keys when in the dark, e.g. watching a movie)",
+      "rating": 3.0,
+      "verified": true,
+      "author": "lilijoch",
+      "helpful_votes": 0,
+      "publication_date": 20180201
+    },
+    {
+      "title": "Not the remote pictured in the items description",
+      "text": "Nice remote but not the one advertised. It pictured the new version with buttons for lighting and smart plugs but the remote that arrived was the older model without. It appears this is happening to many customers as well. Recieved a few dollars back from Amazon but still highly disappointed.... Update: they have updated some pics in the listing but STILL include pics of 2 different remotes.... Why is it this difficult to have the correct pics?",
+      "rating": 2.0,
+      "verified": true,
+      "author": "jim gray",
+      "helpful_votes": 0,
+      "publication_date": 20181127
+    },
+    {
+      "title": "Adequate - Not Backlit",
+      "text": "This remote is adequate, and the IR blaster in the hub is impressive, reaching around corners into our entertainment center to reach our XBox, Stereo and cable box. Setup can be somewhat painful, as I had to know the model numbers of my TV and cable box. Biggest complaint is that it's not backlit. In 2019, a remote intended for a home theater is not backlit, so you can't see the buttons in the dark while watching a movie.",
+      "rating": 3.0,
+      "verified": true,
+      "author": "Starboard Tack",
+      "helpful_votes": 0,
+      "publication_date": 20190828
+    },
+    {
+      "title": "Not worth it",
+      "text": "Not worth it.. more of a \u201ccool\u201d thing than a functional thing.. super slow to respond.. spent an hour with support and they kept repeating the same thing over and over for one hour.. remote does not respond but somehow the system responds through alexa but it takes almost 30 seconds for it to turn off the system after alexa confirms If I did not throw away the box I would have returned it. Useless",
+      "rating": 2.0,
+      "verified": true,
+      "author": "Socal Ninja",
+      "helpful_votes": 0,
+      "publication_date": 20181211
+    },
+    {
+      "title": "Good remote, but missing functions and the buttons are small.",
+      "text": "I like this remote, but it could be better. It's really toned down, not all the bells and whistles. The remote itself will not control Hue lights, like others. But it does have proper placement of buttons, including a number pad. The only thing I wish would be for larger number keys. I live in a house with elderly parents. The touch screen never worked well for them, so I really wanted this. The problem is, the number buttons are so small, they have problems using them. For them though, it's better than the all touch screen from the Elite...",
+      "rating": 4.0,
+      "verified": true,
+      "author": "LancPAGuy",
+      "helpful_votes": 0,
+      "publication_date": 20180311
+    },
+    {
+      "title": "but once you get it dialed in it's a GREAT setup for a smart\"er\" home",
+      "text": "I use this integrated with Alexa. No more having to remind my wife how to use the TV or remote, she just tells Alexa to turn it on, change the channel, mute, pause, fast forward, change to the Apple TV etc. It takes a little while to get setup, but once you get it dialed in it's a GREAT setup for a smart\"er\" home.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Timothy K.",
+      "helpful_votes": 0,
+      "publication_date": 20180726
+    },
+    {
+      "title": "So great, I bought two!",
+      "text": "I feel like I am George Jetson, from the 1960's cartoon series, with this item when used in conjunction with the Amazon alexa. I walk into the room and simply say \"Alexa, turn on the TV\" and the TV is turned on, along with the cable box to my favorite channel and the sound system as well. I loved it so much that I purchased another one for my bedroom.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "B-52 Gunner Russ",
+      "helpful_votes": 0,
+      "publication_date": 20180502
+    },
+    {
+      "title": "and no line of sight works excellent, she said see even my lunker of a ...",
+      "text": "I am new to Universal remotes, in other words I had never set one up, I was able to get this thing working with 6 devices and setup 5 activities within 30 minutes, wife loves the ease, and no line of sight works excellent, she said see even my lunker of a caveman can do it, anyways for the sale price this thing is amazing, even if it wasn't on sale I would say worth it, simple phone app and one touch and my stereo comes on and selects proper settings along with all my other devices, one touch and it does it all what a game changer for us.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Steve",
+      "helpful_votes": 0,
+      "publication_date": 20171231
+    },
+    {
+      "title": "Works great with Alexa",
+      "text": "Works great with Alexa for fun in controlling the TV, DVD, XBOX one, VCR, Audio, and Direct TV. We got tired of loosing remotes. It is so much fun to just command what we want to watch of do. The listing did not say it would work with Alexa so we were a bit apprehensive in ordering this model. It is much easier to program on the windows version of the program first but then control on the iPhone with the apple app. We are going to purchase a second one for another part of the house.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Jimmy Stewart",
+      "helpful_votes": 0,
+      "publication_date": 20180211
+    },
+    {
+      "title": "Easy remote with just the must-have buttons.",
+      "text": "This was a great deal with the hub, and works with Alexa too! Setup in the app, instead of trying lots of codes, could not be easier. The app can be used as another remote, if you need specialty buttons. Install it on your phone and/or you watching-tv pad. The hub actually works best across the room from your tv (not next to it).",
+      "rating": 5.0,
+      "verified": true,
+      "author": "AnOldMan",
+      "helpful_votes": 0,
+      "publication_date": 20180721
+    },
+    {
+      "title": "The perfect remote",
+      "text": "The Logitech Harmony Smart control and Harmony Hub. We have one upstairs and one downstairs, and it's perfect: the perfect size, the perfect number of buttons, easy to program and easy to use. So naturally, Logitech stopped making it, which is what they always do when they stumble on a perfect hardware design.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Brandon Blackmoor",
+      "helpful_votes": 0,
+      "publication_date": 20191212
+    },
+    {
+      "title": "Long setup but worth it",
+      "text": "Just set this up with a receiver, ps3, and at&t U-verse. Also linked with Alexa. Process too awhile but I love being down to one remote AND being able to do (some) voice control. Basically for turning on and off different setups and with Alexa I can change channels. Not everything I was looking for (ultimate laziness?) but pretty good.",
+      "rating": 4.0,
+      "verified": true,
+      "author": "T from Texas ",
+      "helpful_votes": 2,
+      "publication_date": 20180727
+    },
+    {
+      "title": "Very Solid Basic Universal Remote",
+      "text": "Lots to like about this remote. Compact but still ergonomically sound. I like the replaceable battery rather than charging stand. My needs are pretty simple; just three activities. Works well for that, but if I had a more complicated needs I'd definitely opt for higher end model with screen.The ability to operate without line of sight to components is very nice. The downside is the app. It is pretty bad, especially given my expectations from experience that Harmony remotes are easy to set up.",
+      "rating": 4.0,
+      "verified": true,
+      "author": "Lucky44",
+      "helpful_votes": 0,
+      "publication_date": 20180331
+    },
+    {
+      "title": "Wrong Item Description and Pictures",
+      "text": "The product has been great. I have another and have had no issues. The Sw is a bit tricky to set up but works great once done. The big issue is with this Amazon product page - the picture is NOT what I received. JeffsDeals sent me the older model with NO home automation buttons. There are 2 models. One with and an older one without the buttons. Being this is handled by third party vendors, you may not get what you want. They need to update the page.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "mom23",
+      "helpful_votes": 0,
+      "publication_date": 20181001
+    },
+    {
+      "title": "I loved that I could import the actions from the Touch ...",
+      "text": "Bought this during the past holiday season. A vast improvement over my old Harmony Touch remote. I loved that I could import the actions from the Touch to the new Hub: all I had to do was adjust the mapping of the action buttons. Navigating the menus on my TiVo is, in particular, much snappier. I think it actually controls the TiVo over my home network, rather than by using IR. I also linked it with Google Home, and can tell google to \"ask harmony\" to turn on the TV, etc.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "TryingSolar",
+      "helpful_votes": 0,
+      "publication_date": 20180217
+    },
+    {
+      "title": "Works great once you get it programmed.",
+      "text": "My boyfriend at the time and I programmed this together after my solo attempt failed. Took us almost an hour to figure it out, and it was so confusing and hard to program, that we ended up yelling at each other and got into a huge fight. Once it was programmed, the remote works perfectly and is a great alternative to the Apple TV remote. Wish I could say the same for the relationship. I dumped him a month later.",
+      "rating": 4.0,
+      "verified": true,
+      "author": "H. Downs",
+      "helpful_votes": 0,
+      "publication_date": 20190602
+    },
+    {
+      "title": "The best remote of many I've had !",
+      "text": "I've been using this for a couple of months now, and I *love* it. I expected to be using a small tablet to control everything, but the software so effortlessly assigns actions to remote buttons that I simply use the remote (and reserve the tablet for programming only). I've been playing with Home Theater PC's for years now, and this is simply the best remote experience I have ever had. It works through my cabinet door and had well populated control sets for my Windows PC, Xbox, Sony Bravia TV, and Logitec Z906 THX surround sound speakers. It took me only a few minutes to get it all working as I planned. Good job Logitech !",
+      "rating": 5.0,
+      "verified": true,
+      "author": "C. Newstrom",
+      "helpful_votes": 2,
+      "publication_date": 20150122
+    },
+    {
+      "title": "Garbage. Do not buy!!!",
+      "text": "GAR. BAGE. Won't connect. At all. 2 apps available on iTunes. No guidance on which to use for setup. Tried both more than once each. Reset router each time. Have hub on top of smart DVD and it's 50' from router. Nada. Zero written instructions except to download the app. Website has no tech support outside of a GD community forum. A community forum with NO SEARCH OPTION Click on a link for FAQ? 404.not found Click on a link to submit a question? 404.not found Returning this hunk of garbage",
+      "rating": 1.0,
+      "verified": true,
+      "author": "J. Myers",
+      "helpful_votes": 0,
+      "publication_date": 20180318
+    },
+    {
+      "title": "What\u2019s the included remote for?",
+      "text": "A good upgrade from my older harmony remotes that don\u2019t work with Bluetooth - but this wants the Harmony app for control from my phone, I have yet to understand what the included remote does...",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Coop",
+      "helpful_votes": 0,
+      "publication_date": 20190612
+    },
+    {
+      "title": "The first finally died after many years of good service. Love that it's RF and controls everything ...",
+      "text": "This is my second remote. The first finally died after many years of good service. Love that it's RF and controls everything (on/off) that I want to watch or listen to. If there's only one thing I would welcome an improvement to, it would be making the setup a tad easier. Not complaining about it though, just got a bit confused on a couple points only due to me not being the most computer literate person. I love this remote and definitely recommend it.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "D. Waselle",
+      "helpful_votes": 0,
+      "publication_date": 20171205
+    },
+    {
+      "title": "Hard to use if you've owned the older model of this remote",
+      "text": "The problem with the remote is: if you owned the original model of this remote then you'll find that the buttons are all in a different position. The habits that you've learned to use the previous model remote, will make using the new remote hard to use until you can unlearn the old configuration and learn the new locations.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Arik James",
+      "helpful_votes": 0,
+      "publication_date": 20201008
+    },
+    {
+      "title": "Love this thing",
+      "text": "i had the old harmony remote as well ... that was a bear to setup and had to plug it directly into the computer. With this one that all changes you use an app on your phone to configure it and bam it just works ... i even managed to connect it to Alexa and use voice controls to control my tv and other devices .. that was trickier to setup but it can be done.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Benjamin Thompson",
+      "helpful_votes": 0,
+      "publication_date": 20190304
+    },
+    {
+      "title": "Garbage",
+      "text": "The programmed devices become unprogrammed at the drop of a hat. I've had to re-squenence this remote more times than I care to remember. I can't tell you how many hours I've spent trying to program this remote and re-sequence. And I used to work for a little (ha!) tech company that starts with an \"A\" so I'm not exactly a tech novice. Stay FAR AWAY from this piece of ****.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "David Becker",
+      "helpful_votes": 0,
+      "publication_date": 20200704
+    },
+    {
+      "title": "So glad I bought this",
+      "text": "I have been through a series of cheap universal remotes, but they are all super frustrating. I finally broke down and bought this slightly expensive one, and I am so glad I did. It was fairly easy to set up - only a couple of cuss words were dropped. :) But now that it is up and running, we love it. My whole family - including my 6 year old - could easily learn how to use it. No more switching inputs as everything is at the touch of a button.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "From Denver",
+      "helpful_votes": 0,
+      "publication_date": 20190107
+    },
+    {
+      "title": "The setup was super easy for me since I already have a harmony ...",
+      "text": "Basically got this just so I could turn my system on and off, as well as select activities through Alexa. It works well enough for that. The setup was super easy for me since I already have a harmony remote so I just had to log in on the app and all of my devices and activities were there. The little included remote works pretty well though it's very basic and isn't backlit or anything. It's nice to be able to control things from the app but I woulnd't want to use my phone as my primary remote so I'd definitely recommend getting a Harmony package with a remote included.",
+      "rating": 4.0,
+      "verified": true,
+      "author": "Scott K",
+      "helpful_votes": 0,
+      "publication_date": 20180305
+    },
+    {
+      "title": "Great remote",
+      "text": "This replaced a much older and much more expensive Logitech remote. I almost bought one of the most expensive remotes, but I happened to read the description and reviews on this remote. I am so glad I did. It took a while to set up, but I think it was my fault. I needed to think it through more and be more patient. Once I did that the set up was easy. I didn\u2019t realize how bad my last remote was until I got this one. Much more simple, no extra steps to do all the things I have attached to the remote. This saved me about $200.00. I hope this one lasts long as the other one.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "L. Bedford",
+      "helpful_votes": 0,
+      "publication_date": 20190729
+    },
+    {
+      "title": "Easy & convienient",
+      "text": "Easy to set up and app works great with my Android. Love being able to customize the controls and the phone app to my way of using it. Pleasantly pleased after a little customization it works great with my PS4. I need the PS4 controller to only turn it on. After that the Harmony controls do everything else. Only issue I have not solved. If I have a power outage the app stills thinks it is all on so takes a bit to get all the technologies aligned again.",
+      "rating": 4.0,
+      "verified": true,
+      "author": "SandersWI",
+      "helpful_votes": 0,
+      "publication_date": 20180501
+    }
+  ],
+  "product_meta": {
+    "title": "Logitech Harmony Smart Control with Smartphone App and Simple All in One Remote - Black",
+    "description": "Easily control entertainment devices\u2014even ones in closed cabinets LOGITECH HARMONY SMART CONTROL\nTURN YOUR SMARTPHONE OR TABLET INTO A ONE-TOUCH UNIVERSAL REMOTE. Now you can control your entire entertainment system with the smartphone or tablet you already own. The Harmony Hub combined with a powerful app give you personalized control of up to eight devices\u2014even through closed cabinets and walls. Plus, you get a simple Harmony remote for everyone in the house when your smartphone isn\u2019t handy.\n\nPRODUCT FEATURES\nHarmony App for easy tap-and-swipe entertainment control using your smartphone or tablet* | RF control of devices inside closed cabinets and behind walls | Controls up to 8 devices including cable TV boxes, Apple TV, Roku, Sonos, Amazon Fire TV, Phillips hue, Xbox One, PS3 and TV-connected PC or Mac | Powerful customization, including 50 Favorite channel icons**, creating one-touch activities and re-ordering buttons | Also includes handheld universal remote for the household | Works with over 270,000 devices | Easy online setup ( *Compatible with iOS 6.0 or later and Android 4.0 or later. **Channel availability subject to your local service provider. )\n\n\n\nReplaces multiple remotes. Controls devices you own today and add tomorrow. SMART CONTROL\nHarmony Hub turns RF signals from the remote into IR or Bluetooth commands your devices can understand and can\u2019t see\u2014behind closed cabinet doors or walls. Control up to 8 devices including your PS3, Wii or Xbox One, plus your Internet subscription services, like Netflix or Hulu. Harmony supports 270,000 devices from 6,000+ brands, including devices you own today and add tomorrow. Harmony\u2019s online device library makes it easy to update your smartphone and remote with new devices and commands.\n\nMusic, movies and lighting at your fingertipsView larger CONTROLS SONOS, AMAZON FIRE TV, APPLE TV OR PHILLIPS HUE\nControl your Sonos* with Harmony App to play, pause, change volume or launch your Sonos Favorites. Control Philips hue lights** by integrating lighting control into your Harmony activities like Listen to Music, Play a Game or Watch a Movie. Imagine starting a Watch TV activity and your hue lights automatically dim to your favorite accent lighting settings. You can control Amazon Fire TV, too. Just launch the Harmony App, add Fire TV, and create a Watch Fire TV Activity. (*Sonos music player sold separately. **Phillips hue lights sold separately. Online setup required. )\n\nEasily find entertainment with your smartphone keyboardView larger FIND YOUR CONTENT FASTER\nNow you can avoid frustrating on-TV keyboards. Use your smartphone/tablet keyboard or speech recognition capability with the Harmony App to find your content faster on Apple TV, Roku or Amazon FireTV. Also works with Windows PCs and Macs.\n\nTurns your smartphone into a Harmony controllerView larger HARMONY APP FOR SMARTPHONE OR TABLET\nAnyone in the house can download the app and turn their smartphone or tablet into a personal universal remote. With one-touch activity control, you just tap \u201cWatch TV\u201d or \u201cWatch a Movie\u201d and Harmony powers on the right devices to the right settings. Simply swipe and tap to change channels, adjust volume, fast-forward and rewind. Plus, you can organize and re-order buttons, activities, and up to 50 Favorite channel icons* the way you like them\u2014right on your smartphone. (** Channel availability subject to your local service provider. )\n\nEasy guided online setupView larger EASY GUIDED ONLINE SETUP\nSimply download the Harmony App to your computer or your iPhone 4S or later or Android smartphone with Bluetooth Smart Technology. Screen prompts make it easy to set up your app and remote with commands for your devices. Live customer support is ready to help if you need it.\n\nUniversal remote for times when your smartphone isn\u2019t handyView larger COMES WITH A HANDHELD REMOTE FOR THE HOUSE\nThis simple all-button Harmony universal remote gives everyone at home easy control of your entertainment system when your smartphone or tablet isn\u2019t handy. It also works with Harmony Hub for control of devices in closed cabinets.",
+    "rating": 3.8,
+    "feature_bullets": [
+      "Use your smartphone (available Harmony Smartphone app) or the included Harmony Remote to control your entertainment devices.Internet access Wi-Fi: Supports 802.11g/n, WPA Personal, WPA2-AES and 64/128-bit WEP encryption",
+      "Smartphone app includes Swipe and Tap control for one-touch control of your entertainment system, up to 50 favorite channel icons, volume, media playback, and more (Works with iPhone iOS 6.0 or later and Android 4.0 or later)",
+      "Included Harmony Hub lets you control devices hidden behind cabinet doors or walls, including game consoles such as PS3, Wii, and Xbox 360",
+      "Future-proof control of up to 8 devices: Works with over 270,000 devices including cable TV boxes, Apple TV, Roku, Sonos, Amazon Fire TV, Phillips Hue, Xbox One, PS3, and TV-connected PC or Mac",
+      "Removable battery"
+    ],
+    "specifications": {
+      "Product Dimensions": "10.04 x 5.43 x 3.5 inches",
+      "Item Weight": "1 pounds",
+      "Manufacturer": "Logitech",
+      "ASIN": "B00BQ5RYI4",
+      "Item model number": "915-000194",
+      "Batteries": "1 CR2 batteries required.",
+      "Customer Reviews": "3.8 out of 5 stars3,343 ratings3.8 out of 5 stars",
+      "Best Sellers Rank": "#1,229 in Remote Controls",
+      "Is Discontinued By Manufacturer": "No",
+      "Date First Available": "April 16, 2013"
+    },
+    "categories": [
+      "Accessories & Supplies",
+      "Remote Controls & Accessories",
+      "Remote Controls",
+      "Audio & Video Accessories",
+      "Electronics"
+    ],
+    "price": ""
+  }
+}

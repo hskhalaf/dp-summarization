@@ -1,0 +1,323 @@
+{
+  "website_summaries": [
+    {
+      "verdict": "Part storage drive, part system accelerator, Intel's Optane Memory speeds up desktops with traditional hard drives. But you'll need the newest CPUs and motherboards to use it, so it's currently more attractive to system manufacturers than PC tinkerers.",
+      "pros": [
+        "Improves performanace over hard drives alone",
+        "Easy to set up"
+      ],
+      "cons": [
+        "Pricey compared with a 2.5-inch SSD",
+        "Works only with Kaby Lake CPUs and 200-series chipsets",
+        "May require a motherboard BIOS update"
+      ],
+      "aspects": {},
+      "publication_date": 20170426,
+      "rating": "",
+      "source": "pcmag"
+    }
+  ],
+  "customer_reviews": [
+    {
+      "title": "Inferior to a SSD",
+      "text": "Having used the 32GB module for a while and I have to say I'm not impressed. Because the cache is so small (27GB of usable cache) it fills up very quickly so the benefit of the cache is very limited, the OS frequently is slow to boot up. SSDs have tumbled in price making Optane an even less attractive option. I have just switched to a Crucial P1 500GB SSD and what a big improvement it is. For Optane to consistently boot up the OS and applications it would need to have a much bigger capacity but that would make it ridiculously expensive. It's far better to use a SSD so a can't recommend this product.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "Ian R Humphrey",
+      "helpful_votes": 0,
+      "publication_date": 20181221
+    },
+    {
+      "title": "Bit of a pain",
+      "text": "I dont want to be one of those reviewers who give something 1 star because of some annoyance only relatable to themselves but... If you put aside the firmware updates my motherboard needed beforehand and rebuilding my PC with a GTP partition I still found the intel software to be a pain. Even though it saw the hardware it wouldn't see it as a device which could boost the current hard drive. I see these as limited function now having set one up and replaced it recently with an M2 hhd which just flew from the start. Personally I would say save your money for a fast boot drive than faff with one of these.",
+      "rating": 3.0,
+      "verified": true,
+      "author": "Rob D",
+      "helpful_votes": 0,
+      "publication_date": 20190801
+    },
+    {
+      "title": "Intel Optane is a gimmick",
+      "text": "So, where to start, the physical install is a doddle, pop it in and tighten the screw. several installs of windows later, multiple bios changes and multiple swear words. following every guide i could find. after a month of trying i finally got it working for minimal gains, replaced it with a 1tb samsung 970 pro...buy one of those instead, sure it's more expensive, but 10000x better",
+      "rating": 2.0,
+      "verified": true,
+      "author": "Anthony",
+      "helpful_votes": 0,
+      "publication_date": 20190823
+    },
+    {
+      "title": "Needs some BIOS tinkering",
+      "text": "Not straight forward to install as it requires some tinkering in the BIOs to set the memory modules to the right mode, and a software download to configure things in the operating system side. If you are a self builder you should have no issues though. I installed this after windows, on a non boot drive, and the results are fantastic. 2600 read and over 1000 write in Crystal disk mark, on a drive that before was struggling to get over 100.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "J. Whitworth",
+      "helpful_votes": 0,
+      "publication_date": 20190524
+    },
+    {
+      "title": "May not benefit SSD users much.",
+      "text": "Optane memory is more for systems without a SSD, as these people will see the best benefit from it. Be sure your system is compatable with Optane memory before buying. Intel have the information on their website. I myself used Optane memory for a time with an SSD and didn't see much point to it but others may see differently.",
+      "rating": 4.0,
+      "verified": true,
+      "author": "Matthew",
+      "helpful_votes": 0,
+      "publication_date": 20180614
+    },
+    {
+      "title": "Amazon delivery is amazing",
+      "text": "I'd like to change my post. I regret I bought these and I sold them both. The Raid setup is a trouble!",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Lonblu",
+      "helpful_votes": 4,
+      "publication_date": 20180309
+    },
+    {
+      "title": "Speed",
+      "text": "Installation hardware wise is a pinch but software wise is a NIGHTMARE , I personally think it\u2019s worth it providing you have a SSHD,HDD. If you only use SSDs this is not worth your time. It\u2019s a great product that speeds up things considerably even in already speedy systems.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Amazon Customer",
+      "helpful_votes": 0,
+      "publication_date": 20200130
+    },
+    {
+      "title": "Unlikely to make much of a difference",
+      "text": "I fell for the hype here. It won't speed up your on-board M.2 (well, it wouldn't speed up my NVME card) but it will, allegedly, make your SATA drive a bit faster. To be honest, it probably isn't much better than a hybrid HDD or SSD, I haven't noticed significantly quicker fetches or writes but my watch doesn't do microseconds. It'll fill up an M.2 slot on your MB too. For my use case, it was probably unnecessary.",
+      "rating": 4.0,
+      "verified": true,
+      "author": "Veluz",
+      "helpful_votes": 0,
+      "publication_date": 20181115
+    },
+    {
+      "title": "Not that I pay much attention to benchmarks but after ...",
+      "text": "Not that I pay much attention to benchmarks but after installing 16 GB module it more than trebled my AS SSD Benchmark p[revious score on Aliexpress bought \"Faspeed 1 TB SSD\".Have not fully tested that it has sped up my PC but the benchmark results have impressed me as I thought it would not speed up SSD noticefully",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Painterkev",
+      "helpful_votes": 0,
+      "publication_date": 20171128
+    },
+    {
+      "title": "Easiest upgrade ever.",
+      "text": "Huge difference after installing this on a i5 Dell all in one with a mechanical hdd. dead easy to install following the Dell service manual, and a couple of reboots later it is like fitting a ssd.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Wheaty73",
+      "helpful_votes": 0,
+      "publication_date": 20200313
+    },
+    {
+      "title": "No problems so must be working",
+      "text": "Bought this to help with my secondary drive thats not an ssd and it looks like its working as time for rainbow six siege would take some time and cause agro from other players but now appears to have improved along with me editing video files I have on the drive appear to open and save a lot quicker..",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Mark Sweetman",
+      "helpful_votes": 0,
+      "publication_date": 20190402
+    },
+    {
+      "title": "Good Product. I will buy again - FANTASTIC",
+      "text": "Good Product. I will buy again - FANTASTIC very easy to install and what a difference. I now persuade all my customer to include this in a new computer spec where possible",
+      "rating": 5.0,
+      "verified": true,
+      "author": "K",
+      "helpful_votes": 0,
+      "publication_date": 20190228
+    },
+    {
+      "title": "M.2 memory",
+      "text": "Building own computer so not test yet or installed as still need some other part before I boot up the motherboard with the installed m.2 memory",
+      "rating": 4.0,
+      "verified": true,
+      "author": "jason",
+      "helpful_votes": 0,
+      "publication_date": 20190305
+    },
+    {
+      "title": "Works well, setup not easy",
+      "text": "Product support is lacking, doesn't explain that I needed to download software and update my system (new laptop, 8th gen i5) prior to installing the card, which caused a headache as system wouldn't boot up. Fixed eventually and there is a noticible and impressive improvement to speed, much, much cheaper than an ssd.",
+      "rating": 4.0,
+      "verified": true,
+      "author": "Joseph L.",
+      "helpful_votes": 0,
+      "publication_date": 20180829
+    },
+    {
+      "title": "In a different league for speed",
+      "text": "It really is a game-changer I have 2 other m.2 drives and I have my optane drive transforming a TB firecuda drive into a blistering drive to run all games etc from, with pereformance figures equal to the other m2 drives",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Chris H.",
+      "helpful_votes": 0,
+      "publication_date": 20180927
+    },
+    {
+      "title": "Its as fast as you need it to be.",
+      "text": "improved the speed of my HDD, its as fast as an SSD, this thing learns as you go, my operating system boots lightning fast well worth the cost, just makes what you do the most, faster.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "True blue",
+      "helpful_votes": 0,
+      "publication_date": 20170926
+    },
+    {
+      "title": "Pain to setup but works as intended.",
+      "text": "Damn was this thing a pain in the ass to setup, It works as it is supposed to and is amazing, but you have to have some patience as you may have to fiddle around with a few settings in the computers bios. The setup took forever and that's why i'm giving it 3 stars.",
+      "rating": 3.0,
+      "verified": true,
+      "author": "Kieran Freeman",
+      "helpful_votes": 0,
+      "publication_date": 20190105
+    },
+    {
+      "title": "Excellent device that's easy to install",
+      "text": "Excellent piece of kit which genuinely speeds up the load time of your machine. It's a good stopgap if you don't want to get an SSD or have a SSHD which you want better performance from",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Reviewer",
+      "helpful_votes": 0,
+      "publication_date": 20180423
+    },
+    {
+      "title": "Good results for the price",
+      "text": "Very good product, easy to install and setup, on its app, you can pin programs or folder to give them priority. Coupled with my wd black series hard disk, I felt a more than noticeable improve.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "giovanni",
+      "helpful_votes": 0,
+      "publication_date": 20190106
+    },
+    {
+      "title": "Very Fast",
+      "text": "My computer now boots insanely fast I love it. Feels like a 1tb SSD and I only paid \u00a365",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Elliott",
+      "helpful_votes": 0,
+      "publication_date": 20190209
+    },
+    {
+      "title": "Can't recommend enough",
+      "text": "Easy to install although some of the steps take long so go grab a drink and wait. Instantly sped everything up, I had a HDD and now it feels like it's an SSD.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Cam Gilby",
+      "helpful_votes": 0,
+      "publication_date": 20200319
+    },
+    {
+      "title": "Does not come with m.2 screw or mount",
+      "text": "Very pleased to have my Intel Optane 32gb however it would work much better if I was provided a screw and offset so I could like you know screw it into my MB",
+      "rating": 4.0,
+      "verified": true,
+      "author": "Captain Awesome",
+      "helpful_votes": 0,
+      "publication_date": 20181111
+    },
+    {
+      "title": "No option at all for dual OS",
+      "text": "Dual OS not supported even on separate drive! Makes harder to understand storage state from the BIOS.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "Amazon Customer",
+      "helpful_votes": 0,
+      "publication_date": 20180607
+    },
+    {
+      "title": "Five Stars",
+      "text": "very cool item and well worth the money, it's sped up my system a treat.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "philip bell",
+      "helpful_votes": 0,
+      "publication_date": 20180308
+    },
+    {
+      "title": "Does what it says",
+      "text": "Easy to install on motherboard, really does accelerate the loading times. Not had any issues with it so far good job intel",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Smokey",
+      "helpful_votes": 0,
+      "publication_date": 20190225
+    },
+    {
+      "title": "i shouldnt have said that coz im not one to show off but they were getting a little smart about thier pc",
+      "text": "this thing is mental just what my brand new pc actualy required to make it as quick as a solid state drive one guess my mates cant brag anymore because mine cost less to get quick bootups etc zooomin in lol aaaand i have loads of hard drive space unlike thier expencive solid state drive cheap terabyte one instaled lmao.i shouldnt have said that coz im not one to show off but they were getting a little smart about thier pc,s and i really am so pleased with my system now.well done intel well done",
+      "rating": 5.0,
+      "verified": true,
+      "author": "annon",
+      "helpful_votes": 0,
+      "publication_date": 20171014
+    },
+    {
+      "title": "crashed the system with blue screens",
+      "text": "DID not work on my system just crashed the system with blue screens had to reinstall windows after removing it and sent it back for a refund",
+      "rating": 1.0,
+      "verified": true,
+      "author": "Nick",
+      "helpful_votes": 0,
+      "publication_date": 20180414
+    },
+    {
+      "title": "Expensive and didn't get recognised.",
+      "text": "Don't bother following the instructions enclosed with the OPTANE as it is incomplete.. INTEL provide several different versions on their help pages, however despite checking and double checking, this boy was dead. Even after a full system rebuild, the OPTANE software refused to acknowledge there was an OPTANE inserted in the M2 slot, consequentially W10 gave the same response - its not here, oh yes it is... Apparently not even if it is. Putting this down to faulty hardware as the PC passes all its HW checks. Will save for an SSD, they are cheaper GB for GB",
+      "rating": 1.0,
+      "verified": true,
+      "author": "Scrouge",
+      "helpful_votes": 0,
+      "publication_date": 20171107
+    },
+    {
+      "title": "Read and research before buying",
+      "text": "I have in my system a 1tb nvme drive which is pretty quick. Do not try to link one of these with a speedy nvme, it will actually slow it down. When paired with a large spinning disc I can have real write transfer rates of 2gb/s (see image). Is it worth the money? For anyone who transfers or uses it to send data to and from a HDD then yes. Downsides? It can be a pain to set up and you must make sure your motherboard supports it. It is a good idea to read as much as you can from places like this and forums before taking the plunge. Personal opinion? I love it.",
+      "rating": 4.0,
+      "verified": false,
+      "author": "gigaman",
+      "helpful_votes": 0,
+      "publication_date": 20191130
+    }
+  ],
+  "product_meta": {
+    "title": "Intel MEMPEK1W016GAXT 16 GB PCI Express M.2 2280 Internal Flash Accelerator - Black",
+    "description": "Capacity:16GB\n\nINTEL 16GB PCI EXPRESS INTERNAL FLASH ACCELERATOR - BLACK\nBrand Name: Intel Device \n\nSupported: Storage System \n\nDrive Interface Standard: PCI Express 3.0 x2 Drive Interface: PCI Express Drive Type: Internal Form Factor: M.2 2280 Product Family: Optane Product Type: Flash Accelerator Storage Capacity: 16 GB\n\nINTEL OPTANE MEMORY: GET THE SPEED. KEEP THE CAPACITY\nIt\u2019s revolutionary \u2013 the first all-new class of memory in 25 years. Intel Optane memory creates a bridge between the DRAM and storage to deliver an intelligent, amazingly responsive computing experience.\n\nACCELERATE YOUR EXPERIENCE\nThis game-changing technology intelligently accelerates new 7th Gen Intel Core processor-based systems while affordably maintaining mega-storage capacity, to deliver a responsive computer experience with short boot times, fast application launches, extraordinary gaming, and responsive browsing.\n\nINTELLIGENT SYSTEM ACCELERATION\nOptimize your computer responsiveness from system boot to application launch. Intel Optane memory is a smart and adaptable system accelerator that adjusts to your computing tasks making everything you do faster, smoother, easier. Its intelligent software automatically learns your computing behaviours to accelerate frequent tasks and customize your computer experience.\n\nSPEED UP YOUR STORAGE\nA high-capacity storage device coupled with Intel Optane memory offers the best of both worlds: high speed acceleration and affordable, large storage capacity.\n\nWAIT LESS, DO MORE\nIntel Optane memory in your PC delivers amazing responsiveness so you can start up quickly, search and find files in a snap and save large files with virtually no lag.\n\n\n\nLEGAL DISCLAIMER\nProduct is sourced and shipped from the European Economic Area (EEA). Product is genuine original from manufacturer authorized distributors.\n\nBOX CONTAINS\nIntel Optane 16 GB Internal Flash Accelerator - PCI Express - M.2 2280\n\nSee more",
+    "rating": 4.2,
+    "feature_bullets": [
+      "Optane",
+      "Storage System",
+      "16 GB Storage Capacity"
+    ],
+    "specifications": {
+      "Brand": "Intel",
+      "Product Dimensions": "7.98 x 2.18 x 0.23 cm; 45.36 Grams",
+      "Item model number": "MEMPEK1W016GAXT",
+      "Manufacturer": "Intel",
+      "Series": "MEMPEK1W016GAXT Optane",
+      "Color": "Black/Blue",
+      "Form Factor": "SSD",
+      "Processor Count": "1",
+      "RAM Size": "16 GB",
+      "Memory Technology": "DRAM",
+      "Computer Memory Type": "Unknown",
+      "Hard Drive Size": "1 TB",
+      "Hard Disk Description": "SSD",
+      "Hard Drive Interface": "ATA",
+      "Wattage": "3.5",
+      "Optical Drive Type": "BD-R",
+      "Are Batteries Included": "No",
+      "Item Weight": "45.4 g",
+      "ASIN": "B06XSMTN31",
+      "Customer Reviews": "4.2 out of 5 stars851 ratings4.2 out of 5 stars",
+      "Best Sellers Rank": "94,493 in Computers & Accessories",
+      "Date First Available": "26 April 2017"
+    },
+    "categories": [
+      "Computers & Accessories",
+      "Components & Replacement Parts",
+      "Memory"
+    ],
+    "price": 44.16
+  }
+}

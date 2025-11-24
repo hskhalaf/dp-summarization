@@ -1,0 +1,489 @@
+{
+  "website_summaries": [
+    {
+      "verdict": "AMD's \"refined\" Polaris card trades blows with Nvidia's competing GTX 1060. It's a solid pick for 1080p gaming at high settings, or 1440p play if 60fps isn't your aim.",
+      "pros": [
+        "Edged out Nvidia's competing GTX 1060 in most of our DirectX 12 tests",
+        "VR-ready"
+      ],
+      "cons": [
+        "Not much faster than Radeon RX 480, despite being larger, power-hungrier",
+        "XFX model we tested is big for a card in this class",
+        "XFX card had tricky, recessed eight-pin power connector"
+      ],
+      "aspects": {},
+      "publication_date": 20170428,
+      "rating": 8.0,
+      "source": "pcmag"
+    }
+  ],
+  "customer_reviews": [
+    {
+      "title": "Problematic",
+      "text": "Card started to black screen/artifact above 60-70c researched and it is a common for the RX series with the only solution to handicap the card with an underclock and undervolt. I managed to have a it stable with 100% fan speed and following a few guides from other people with the issue but will return as it is unacceptable.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "EJ",
+      "helpful_votes": 15,
+      "publication_date": 20181029
+    },
+    {
+      "title": "AVOID AT ALL COSTS!!!",
+      "text": "Avoid this card at all costs! i bought it and everything went well for a while, then in the past 2 weeks it was thermal shutting off even with fans running at 100% it was running at over 95c. the card is now refusing to output any sort of signal but still runs at 100% fan speed when system is powered on. I am very disappointed as XFX used to be a great brand but now sadly they are a shadow of their former selves. once again avoid at all costs as it will cause a massive headache when return window closes!",
+      "rating": 1.0,
+      "verified": true,
+      "author": "James B",
+      "helpful_votes": 0,
+      "publication_date": 20191008
+    },
+    {
+      "title": "AVOID!",
+      "text": "I purchased one of these to replace a short circuited GTX 980 - big mistake! Performance should've been on par with my 6 year old card (it was not)... Shortly after installing I was met with monitors randomly shutting off, artefacts appearing on screen, oh and best of all, the most up to date drivers from AMD produced nothing but a black screen after posting. Nightmare, as I needed this urgently as I was working from home and had no on-board graphics! I've since replaced it with a RTX 2070 SUPER, and couldn't be happier. As the saying goes, buy cheap, buy twice!",
+      "rating": 1.0,
+      "verified": true,
+      "author": "Aaron",
+      "helpful_votes": 0,
+      "publication_date": 20200622
+    },
+    {
+      "title": "Good but has size Issues",
+      "text": "The top of this design sticks upwards far higher than a PCIe card should in order I think to get the big fans in. That means it will not fit some systems. On the plus side it's quieter than a lot of graphics cards I've had. Does come with a 2x6pin to 8pin connector cable for the extra GPU power which is useful.",
+      "rating": 4.0,
+      "verified": true,
+      "author": "Alan",
+      "helpful_votes": 2,
+      "publication_date": 20190409
+    },
+    {
+      "title": "Bought two, returned two. Looks awesome, Bad build quality",
+      "text": "The first time I received this GPU in the mail it was dead on arrival, so I returned it and bought another one, which had a very annoying coil whine, so I returned that one as well. I'll be buying another brand once I get my refund. Maybe Sapphire has better quality. The two redeeming things about my experience with this graphics card are the customer service from Amazon (which is nothing to do with XFX) and the way the GPU looks. It is a kickass design.",
+      "rating": 2.0,
+      "verified": true,
+      "author": "Alexander C.",
+      "helpful_votes": 2,
+      "publication_date": 20190414
+    },
+    {
+      "title": "Great card but...",
+      "text": "I received one with really really loud coil whine - I might have just been unlucky, however on XFX's website they claim to use low noise inductors which essentially eliminate coil whine, and for this reason I decided to return the card sadly. Bare in mind I used this in mini-ITX where it is much more noticeable - if you're building in a normal size case I'm sure this won't be an issue - the cooling is fantastic on this card, very large and quiet fans, a large aluminium backplate and copper heatpipes all round. I'm only dropping 1 star because I probably just got a bad one - solid card otherwise.",
+      "rating": 4.0,
+      "verified": true,
+      "author": "Amazon Customer",
+      "helpful_votes": 2,
+      "publication_date": 20181126
+    },
+    {
+      "title": "Failed after a month",
+      "text": "Failed after a month. Tearing, black screen, \"signal lost\". It would cause the computer to go into a cycle of automatic shutdowns and reboots. I've requested a refund and will be spending a touch more on a new 5600xt, though an Nvidia 1660 would also be a viable choice.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "JPH",
+      "helpful_votes": 0,
+      "publication_date": 20200412
+    },
+    {
+      "title": "buzzing",
+      "text": "id give it 5 stars don't get me wrong its good value for money and runs nearly all the games ive played so far no problems after 2 weeks all I hear is a loud electrical buzzing sounds coming from the card ive had the pc apart changed parts and its definatly this card it runs all games just this buzzing is now constant from time to time it also makes a rattle when im shutting down games is this normal for this card id say no but its best to ask as im not an expert if its not am I still entitled to a replacement or a refund any help would be great",
+      "rating": 3.0,
+      "verified": true,
+      "author": "kieron",
+      "helpful_votes": 0,
+      "publication_date": 20200630
+    },
+    {
+      "title": "Huge",
+      "text": "Great card but it's massive. Length is fine but but it sits about an inch higher than the screws on the mounting bracket. You'll need to check the case measurements to be sure it will fit. I had to modify a Precision t5500 to allow for it and that's a big PC",
+      "rating": 3.0,
+      "verified": true,
+      "author": "Ramelda",
+      "helpful_votes": 0,
+      "publication_date": 20200401
+    },
+    {
+      "title": "Awful",
+      "text": "before and after ordering this item, i ensured it was compatible with my computer, and made sure it would be of a high enough performance to run the desired games and programmes. Although it was easy to fit into the computer, setting it up using the AMD software was unnessecarily detailed and complicated. But after getting it all set up and installed, the performace was terrible, my old cheaper nivada gpu provided a much better performance and it was half the price than this one. Very disapointed and this item has been returned. Do not recommend.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "Bethany Foster",
+      "helpful_votes": 0,
+      "publication_date": 20200508
+    },
+    {
+      "title": "gets hot fast",
+      "text": "the gpu is good for startes and its pretty nice. its good to know that the gpu fans dont start till its hot and i didnt know this so i thought there was misdtaske with the gpu. its gets hot very fast and it gets up to 70 degressl.it uses a 6 pin gpu slot.",
+      "rating": 4.0,
+      "verified": true,
+      "author": "Kaso",
+      "helpful_votes": 0,
+      "publication_date": 20200820
+    },
+    {
+      "title": "Bang for buck",
+      "text": "I needed a decent cheap graphics card for an old computer to give my neighbour. This fitted the bill just fine. Does 1080p at high settings over 60fps no problems, for the price, can't be beaten, excellent. Don't normally have AMD as I prefer Nvidia but nothing comes close for the price.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "M.J.Parkes",
+      "helpful_votes": 0,
+      "publication_date": 20200514
+    },
+    {
+      "title": "Ok product",
+      "text": "It\u2019s a good card for the price but it\u2019s a little power hungry. The main letdown is how easily it heats up. I had to replace the thermal paste on its processor. I\u2019d recommend saving up for a 1060 instead, unless you intend to mount a cpu cooler to it, or water cool it. On the other hand, the card will run most games well and is the best spec within it\u2019s price range.",
+      "rating": 3.0,
+      "verified": true,
+      "author": "Curtis James Tackie",
+      "helpful_votes": 0,
+      "publication_date": 20200714
+    },
+    {
+      "title": "Great card better than my 1060GTX",
+      "text": "Ok I\u2019m a nvidia boy but this card is actually awesome plays all the games on ultra with no problems perfect gamers card.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Karl S.",
+      "helpful_votes": 2,
+      "publication_date": 20190609
+    },
+    {
+      "title": "It stopped working after 5 days.",
+      "text": "I used it with a 3rd gen i5 3.4ghz and the results in games like COD blackout or pubg where not as I expected .around 60-90 fps , especially blackout was not even playable in 60fps .we gaming out here",
+      "rating": 3.0,
+      "verified": true,
+      "author": "Amazon Customer",
+      "helpful_votes": 3,
+      "publication_date": 20181215
+    },
+    {
+      "title": "FAULTY.",
+      "text": "We've just been able to finish building our computer (motherboards were in short supply) and the graphics card doesn't work. It's a known fault and am unsure how to sort out getting a new one as we ordered this a few months ago.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "D. W. Glover",
+      "helpful_votes": 0,
+      "publication_date": 20200909
+    },
+    {
+      "title": "Stunning Graphics",
+      "text": "Can play all the latest games with ease, very powerful, recommended!",
+      "rating": 5.0,
+      "verified": true,
+      "author": "CharlesOX23",
+      "helpful_votes": 0,
+      "publication_date": 20200923
+    },
+    {
+      "title": "Decent card",
+      "text": "Great overclock features, but I haven't had to do it yet. As long as you got the ram and the and a good cpu, you can run modern warfare on max settings and get 61 fps out of this card. Highly recommend if you are building a gaming rig on a tight budget.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Becks989",
+      "helpful_votes": 0,
+      "publication_date": 20200317
+    },
+    {
+      "title": "Faulty",
+      "text": "after installing the gpu and downloading drivers for it, under load the gpu would get extremely hot and black screen. it was unusable until it was undervolted and the fan curve greatly increased at which point my frames were much lower and the gpu was significantly louder due to the fans",
+      "rating": 2.0,
+      "verified": true,
+      "author": "Dawid",
+      "helpful_votes": 0,
+      "publication_date": 20200403
+    },
+    {
+      "title": "Bargain graphics card",
+      "text": "This is an absolute steal for the price and it is very capable at running higher end games on good settings. The only downside is that the fans can get quite noisy during intense gaming although this is to be expected.",
+      "rating": 4.0,
+      "verified": true,
+      "author": "Harry F.",
+      "helpful_votes": 0,
+      "publication_date": 20200507
+    },
+    {
+      "title": "Good card for a good price",
+      "text": "It's a good card for the price and plays most games on high or ultra. I have a little bit of coil whine but it's barely noticable",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Nathan Malone",
+      "helpful_votes": 0,
+      "publication_date": 20200712
+    },
+    {
+      "title": "Worth it!",
+      "text": "I YouTubed how to install before receiving this as I\u2019ve not done anything like this. But instructions were easy to follow. Bought as I\u2019m upgrading a basic gaming pc and the difference is amazing.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Luke",
+      "helpful_votes": 0,
+      "publication_date": 20200504
+    },
+    {
+      "title": "Best value",
+      "text": "Honestly best graphics card for the money and boosted all the games I play to the maximum FPS on all high settings",
+      "rating": 5.0,
+      "verified": true,
+      "author": "LEONS PACKAGE DO.NOT.OPEN",
+      "helpful_votes": 0,
+      "publication_date": 20200603
+    },
+    {
+      "title": "Avoid",
+      "text": "First build went for a used gpu to save money, didn\u2019t connect to the monitor I was really starting to lose hope and confidence. My build was fine after hours of frustration I realised the graphics card was faulty \ud83d\udc4e\ud83c\udffb",
+      "rating": 1.0,
+      "verified": true,
+      "author": "Liam E.",
+      "helpful_votes": 0,
+      "publication_date": 20201007
+    },
+    {
+      "title": "Hot and not running on advertised speeds",
+      "text": "Crashing under stock clock speeds. Hot af unless you ramp up the fans to 80 or more percent.",
+      "rating": 2.0,
+      "verified": true,
+      "author": "Zakarias",
+      "helpful_votes": 0,
+      "publication_date": 20200630
+    },
+    {
+      "title": "Brilliant",
+      "text": "Brilliant card, paired with a ryzen 5 2600 I hold 144 frames eith ease, couldn't be happier",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Paul",
+      "helpful_votes": 0,
+      "publication_date": 20191125
+    },
+    {
+      "title": "Thermals",
+      "text": "Card is OK. Thermals on the card are not great causing thermal throttling out of the box. Getting a stable undervolt will help those by a few degrees but was still causing throttling. Cannot reccomend unless you can supply extra cooling to this gpu.",
+      "rating": 2.0,
+      "verified": true,
+      "author": "Chris",
+      "helpful_votes": 0,
+      "publication_date": 20200125
+    },
+    {
+      "title": "Good graphics card with great power/price ratio.",
+      "text": "For this money I'm absolutely satisfied, this graphics card delivery smoothless fullHD without any problems with great FPS. Really quiet. Ideal for budget gaming.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Pivan",
+      "helpful_votes": 0,
+      "publication_date": 20200112
+    },
+    {
+      "title": "So far so good.",
+      "text": "never experienced problems with this gpu!! excellent bang for the buck",
+      "rating": 5.0,
+      "verified": true,
+      "author": "F. Yanez",
+      "helpful_votes": 0,
+      "publication_date": 20190626
+    },
+    {
+      "title": "Great while it lasted",
+      "text": "This card is a great card for the money, while it worked. 3 months in and dead. Rx580 yes but xfx no.",
+      "rating": 2.0,
+      "verified": true,
+      "author": "Pete",
+      "helpful_votes": 0,
+      "publication_date": 20200827
+    },
+    {
+      "title": "Good GPU but...",
+      "text": "I really like the GPU but i didn't receive the gift voucher that comes with the GPU so I'm wondering where it is, because i was planning on getting a copy of DMC5 and The Division 2 since it was mentioned by AMD but i haven't received my gift voucher with my GPU, could someone help me out with this?",
+      "rating": 4.0,
+      "verified": true,
+      "author": "Mohammed",
+      "helpful_votes": 0,
+      "publication_date": 20190308
+    },
+    {
+      "title": "Just Perfect",
+      "text": "Everything about this is perfect. The graphics card it\u2019s self the size the software. What more do you need",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Burwa ",
+      "helpful_votes": 0,
+      "publication_date": 20200618
+    },
+    {
+      "title": "Could not recommend this more for maxing your graphics out at 1080p ...",
+      "text": "High performance 1080p card. Could not recommend this more for maxing your graphics out at 1080p or even 1440p.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Sagetbh",
+      "helpful_votes": 2,
+      "publication_date": 20180224
+    },
+    {
+      "title": "Outstanding",
+      "text": "Fitted straight into hard drive no probs. Graphics are amazing glad I ordered it. Came quick and was cheaper than everywhere else I looked",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Thomas Park",
+      "helpful_votes": 0,
+      "publication_date": 20200418
+    },
+    {
+      "title": "my review",
+      "text": "It's a good graphics card, no problems.. 60-70C in the games. But still good and no problems.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Dragos Simone",
+      "helpful_votes": 0,
+      "publication_date": 20200327
+    },
+    {
+      "title": "Piece of crap",
+      "text": "Gets very hot, fan started making a clicking noise. Cuts out every now and again. However good fps, but returning due to these issues!",
+      "rating": 1.0,
+      "verified": true,
+      "author": "pippa vaughan",
+      "helpful_votes": 0,
+      "publication_date": 20200529
+    },
+    {
+      "title": "Very good",
+      "text": "Not too hot, noisy or slow as a gpu considering the price. Great card to get you up and running.",
+      "rating": 4.0,
+      "verified": true,
+      "author": "Khansaa T.",
+      "helpful_votes": 0,
+      "publication_date": 20200729
+    },
+    {
+      "title": "Never worked properly",
+      "text": "I plugged it in and it work poorly and then it slowly got worse.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "Amazon Customer",
+      "helpful_votes": 2,
+      "publication_date": 20180924
+    },
+    {
+      "title": "well done",
+      "text": "easy to install though the external caps that protect the DP and HDMI could be made easier to remove",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Amazon Customer",
+      "helpful_votes": 0,
+      "publication_date": 20200515
+    },
+    {
+      "title": "AMAZING",
+      "text": "Honestly this card is amazing value for money keeps up with all modern games. Highly recommend",
+      "rating": 5.0,
+      "verified": true,
+      "author": "joe",
+      "helpful_votes": 0,
+      "publication_date": 20200610
+    },
+    {
+      "title": "If wanna do crossfire, buy it",
+      "text": "Good value for your \u00a3\u00a3\u00a3. Performance wise...I\u2019d give it a 3,5/4*",
+      "rating": 2.0,
+      "verified": true,
+      "author": "JerTuga",
+      "helpful_votes": 0,
+      "publication_date": 20200210
+    },
+    {
+      "title": "Easy to fit",
+      "text": "Easy to over clock ,very good card for the cash",
+      "rating": 5.0,
+      "verified": true,
+      "author": "des",
+      "helpful_votes": 0,
+      "publication_date": 20200712
+    },
+    {
+      "title": "Easy easy easy",
+      "text": "Really good product, would recommend to anyone will to buy this!",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Joe Knight",
+      "helpful_votes": 0,
+      "publication_date": 20200522
+    },
+    {
+      "title": "FANS NOT WORKING",
+      "text": "The fans did not work and gpu nearly overheated from it",
+      "rating": 1.0,
+      "verified": true,
+      "author": "Faye G.",
+      "helpful_votes": 0,
+      "publication_date": 20200815
+    },
+    {
+      "title": "Fan not working",
+      "text": "The fan doesnt work with my Neo eco gold 600 psu. Will return it",
+      "rating": 1.0,
+      "verified": true,
+      "author": "Denard Jaropojop",
+      "helpful_votes": 0,
+      "publication_date": 20200505
+    },
+    {
+      "title": "Works well for budget gamers",
+      "text": "Works out of the box and it was easy to install drivers.",
+      "rating": 4.0,
+      "verified": true,
+      "author": "TomGodfrey93",
+      "helpful_votes": 0,
+      "publication_date": 20200402
+    },
+    {
+      "title": "AVOID AT ALL COST",
+      "text": "Amazing 1080p 60fps Ultra/Very High settings gpu no issues tad warm buts its AMD so nothing new there looks great too I card had to be replaced due to blue screen new card has has no issues but just a word of warning these cards could be hit and miss 2nd card returned same issues AVOID AT ALL COST",
+      "rating": 1.0,
+      "verified": true,
+      "author": "James Pearson",
+      "helpful_votes": 18,
+      "publication_date": 20190201
+    }
+  ],
+  "product_meta": {
+    "title": "XFX Radeon RX 580 GTS XXX Edition OC 8 GB GDDR5 3xDP/HDMI/DVI-D Graphics Card - Black",
+    "description": "Size Name:RX 580| Style Name:XFX RX 580 8GB8GB XFX Radeon RX 580 GTS XXX Edition OC, 14nm Polaris, 2304 Streams, 1366MHz Boost, 8000MHz GDDR5, 3xDP/HDMI/DVI-D\n\nBOX CONTAINS\n1 x RX-580P8DFD6",
+    "rating": 4.4,
+    "feature_bullets": [
+      "Smooth 1440p in the latest AAA games.8000 MHz Effective Memory Clock",
+      "DirectX 12 and Vulkan support.",
+      "Premium Virtual Reality experiences"
+    ],
+    "specifications": {
+      "Brand": "XFX",
+      "Product Dimensions": "27 x 3.99 x 12.4 cm; 1.13 Kilograms",
+      "Item model number": "RX-580P8DFD6",
+      "Manufacturer": "XFX",
+      "Series": "Radeon RX 580 8GB",
+      "Color": "Black",
+      "Form Factor": "ATX",
+      "Standing screen display size": "1",
+      "Processor Brand": "AMD",
+      "RAM Size": "8 GB",
+      "Computer Memory Type": "DDR5 SDRAM",
+      "Memory Clock Speed": "1386 MHz",
+      "Graphics Coprocessor": "AMD Radeon RX 580",
+      "Graphics Chipset Brand": "AMD",
+      "Graphics Card Description": "Radeon RX 580 8GB",
+      "Graphics RAM Type": "GDDR5",
+      "Graphics Card Ram Size": "8 GB",
+      "Graphics Card Interface": "PCI-E",
+      "Number of HDMI Ports": "1",
+      "Wattage": "500 watts",
+      "Are Batteries Included": "No",
+      "Item Weight": "1.13 kg",
+      "ASIN": "B06Y66K3XD",
+      "Customer Reviews": "4.4 out of 5 stars5,688 ratings4.4 out of 5 stars",
+      "Best Sellers Rank": "5,033 in Computers & Accessories",
+      "Date First Available": "18 April 2017"
+    },
+    "categories": [
+      "Computers & Accessories",
+      "Components & Replacement Parts",
+      "Graphics Cards"
+    ],
+    "price": 225.94
+  }
+}

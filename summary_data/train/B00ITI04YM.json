@@ -1,0 +1,840 @@
+{
+  "website_summaries": [
+    {
+      "verdict": "The WD My Passport Pro is an all-around excellent storage solution for any Thunderbolt-enabled Macs, particularly the MacBook Pro or Air.",
+      "pros": [
+        "The WD My Passport Pro is fast, portable, and has some of the largest storage capacity you can find",
+        "It supports multiple RAID setups, has a well-designed built-in Thunderbolt cable, and is comparatively affordable"
+      ],
+      "cons": [
+        "The drive doesn't support USB nor does it have an extra Thunderbolt port",
+        "The 4TB version is bulky"
+      ],
+      "aspects": {
+        "Setup": 9.0,
+        "Features": 8.0,
+        "Performance": 9.0,
+        "Support": 7.0
+      },
+      "publication_date": 20140402,
+      "rating": 8.5,
+      "source": "cnet"
+    }
+  ],
+  "customer_reviews": [
+    {
+      "title": "This is a must have.....",
+      "text": "Plugged it in and away we went. Copied 25 gig in about 4 minutes. Left in on all night and it did not drop out like others had stated. Fan runs very quietly at times. This is a must have if you are looking for very very fast high capacity external. Going to try video edit later to see if the throughput is good but I have another thunderbolt desktop and these things, while pricey, are ready to work under the most demanding conditions. This is a must have.....",
+      "rating": 5.0,
+      "verified": true,
+      "author": "tdlivings",
+      "helpful_votes": 4,
+      "publication_date": 20150505
+    },
+    {
+      "title": "Good idea, terrible functionality",
+      "text": "Two problems with this drive. I own two of them. On both of them I set them up as Raid Array 1 so as to have a duplicate backup. The drive in Slot B failed both times. I don't know whether the B drive failed, or if it's just incompatible with Mac OS. Either way it doesn't work, so I have two drives of 2TB each that work and no backup, which was my reason for choosing it. Also, very important, since the thunderbolt cable is integrated as part of the drive, if you damage the cable or connector you have no way to connect your drive so it becomes useless.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "Brendan G. Jaffer",
+      "helpful_votes": 0,
+      "publication_date": 20160416
+    },
+    {
+      "title": "Great speed and performance",
+      "text": "I've been very pleased with this drive. It is currently my iTunes drive where all of my movies and songs are stored. It is connected to my Mac Mini and completes my home entertainment system (connected to my flat screen TV). It plays the movies just as fast as when they were on the local drive of the computer and I've had no glitches. It's also nice to know that with the RAID I have a backup of all my movies.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "D. Howe",
+      "helpful_votes": 3,
+      "publication_date": 20150121
+    },
+    {
+      "title": "I love this drive",
+      "text": "I love this drive. I needed a fast, large capacity drive to edit Final Cut projects on the go. I was seriously looking at thunderbolt SSD drives when I stumbled across this drive. After using it for a few weeks I can say its very fast, using it in RAID 0, I have experienced no lag in editing Final Cut projects and dumping GB's of storage to this drive is very fast. The drive is also quiet and can only be heard if the room is silent and even then its barely noticeable. I highly recommend this drive.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "C. Quesnel",
+      "helpful_votes": 0,
+      "publication_date": 20150113
+    },
+    {
+      "title": "but so far a very nice unit. I purchased it for backup / deep ...",
+      "text": "I've only had this for a few weeks, but so far a very nice unit. I purchased it for backup / deep storage; photos, music, VM partitions, etc. I am using it in RAID-1 (mirroring) config. It weighs 1lb 10oz, so heavy, I only list that as an fyi in case you are looking for a slim light drive. I have one beef, it does not daisy chain Thunderbolt, so I can't attach another device to this. Unfortunately my other device, an older Cinema display, does not have a Thunderbolt port either. So I can only hook one or the other to my Mac Air at a time. I would give it five stars if it could daisy chain",
+      "rating": 4.0,
+      "verified": true,
+      "author": "Christopher J. Webster",
+      "helpful_votes": 0,
+      "publication_date": 20151127
+    },
+    {
+      "title": "This harddrive is perfect for Mac users",
+      "text": "This harddrive is perfect for Mac users. I have a 15\" Macbook Pro and backing up with time machine is super quick, transferring large files is even quicker. This item is a must have for Mac users as far as I'm concerned. It also keeps your usb ports open since it connects via the thunderbolt port. It's irreplaceable!",
+      "rating": 5.0,
+      "verified": true,
+      "author": "aroyis",
+      "helpful_votes": 3,
+      "publication_date": 20150822
+    },
+    {
+      "title": "Does not come updated with newest driver. Update instructions provided by WD are incomplete.",
+      "text": "When running Mac OSX 10.10 or newer: Upon configuring this device for initial use, you must download the new driver software before configuration. After downloading the new driver software, you must disconnect the drive from your computer. Their are no prompts that tell you the driver software has been updated, and there are no prompts telling you to disconnect the device. If you don't disconnect the drive you will not be able to configure the drive with continuous errors.",
+      "rating": 3.0,
+      "verified": true,
+      "author": "sandy lafky",
+      "helpful_votes": 3,
+      "publication_date": 20150906
+    },
+    {
+      "title": "Fits my needs",
+      "text": "I love this little guy. Probably the cheapest way to get a Raid and it hasn't failed on me yet. Plus it's highly portable. I edit video and keep any \"active\" projects I'm in the middle of editing on this drive. For actual storage I have bigger slower drives that everything is backed up on: before, during and after the editing process. I think I saw someone complain about the fan being noisy. I'd say it's quieter than my laptop and only fires up during a long editing session.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Nicholas Boxwell",
+      "helpful_votes": 0,
+      "publication_date": 20150506
+    },
+    {
+      "title": "JBOD not working, have to use RAID 0. Always fear of loosing data.",
+      "text": "Was very excited. But not very Happy. I dont want to be on RAID 0 because of data security. And also I dont want RAID 1 to waist 2 TB for all my backup mirror. So I decided to set JBOD. Once I set JBOD configuration. It doesnt mount at all. Also in JBOD it mounts as 2 separate disks not a single 4 TB. Anyone faced same issue? I have to use RAID 0 which is not a very secure for my data.",
+      "rating": 3.0,
+      "verified": true,
+      "author": "Bhushan A.",
+      "helpful_votes": 2,
+      "publication_date": 20150814
+    },
+    {
+      "title": "Well worth the buy..",
+      "text": "Western digital products have treated me well over the years; this is no exception. I have had a lot of success with this drive and own two of them. They are very fast. The fans turn on occasionally when doing heavy rendering but it never seems to slow down the drive. It went down in price so if you're looking for something fast, portable and (in my experience) reliable this is a great solution. Be careful not to pull the plug from the wire though as it seems like it could wear over time.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "flaw28",
+      "helpful_votes": 0,
+      "publication_date": 20160124
+    },
+    {
+      "title": "Fast, Simple, Tons of Storage.",
+      "text": "Works great with my MacBook Pro. Allows me to edit videos without slowing down my Mac due to storage concerns. Completely backed up my computer and have well over 1TB left for larger files (movies, picture albums, etc.) Only downer is with the MacBook and Thunderbolt only connection, I cannot plug in my HDMI cable to my displayport/thunderbolt dock on my MacBook and the Passport Pro at the same time. I would need to buy a $200 docking station to accommodate both.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "JBSpartan",
+      "helpful_votes": 0,
+      "publication_date": 20161112
+    },
+    {
+      "title": "Horrible Fan Noise",
+      "text": "I hadn't used this drive in about a year. Plugged it in this am to transfer some files to a backup, and about 15 minutes in, I hear this hi-pitched (hopefully inaudible by most) whine. I try and move the drive to make it stop but it won't. It's maddening and I wouldn't buy this drive specifically due to this flaw. It may seem petty or crazy, but if you have sensitive hearing stay away.",
+      "rating": 2.0,
+      "verified": true,
+      "author": "Daniel K. Wonderly",
+      "helpful_votes": 0,
+      "publication_date": 20180809
+    },
+    {
+      "title": "Excellent for 4K camera location shoots",
+      "text": "I purchased three of these drives for a shoot with a broadcast client and split them up among the editors working on the project. They traveled well, handled the graphics and color grading workload well, and were fast and reliable. Didn't use them as RAID, but full 4TB drives. Buying more of them for future shoots!",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Hospitality Maven",
+      "helpful_votes": 0,
+      "publication_date": 20160608
+    },
+    {
+      "title": "To all those reading the negative reviews don't be discouraged ...",
+      "text": "To all those reading the negative reviews don't be discouraged. I bought mine 2 years ago using it 3 times a week playing music videos off from the drive for dj gigs (video mixing). Not once have I ever had a problem with this drive. I've read some problems with the drive getting too hot. Well this drive never gets hot to the touch. BUY IT.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Amazon Customer",
+      "helpful_votes": 0,
+      "publication_date": 20180712
+    },
+    {
+      "title": "Recommended",
+      "text": "Great device. Sturdy, heavy duty, built well. It does contain two separate 2TB drives, so be aware this isn't one large 4 TB drive. You have to either RAID it or use as two separate drives. Only draw back is that it doesn't have thunderbolt through capacity, but I knew that when ordering it so I can't hold that against the manufacturer",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Robert Baxter",
+      "helpful_votes": 0,
+      "publication_date": 20160101
+    },
+    {
+      "title": "Good storage device.",
+      "text": "The one drive to store it all. Great device. Major drawback is you have to make sure you have your stuff backed up because its large capacity means that that the more you store, the more you have to lose if the drive disappears or is disabled. The fan doesn't turn on often, but when it does it's extremely annoying.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "MGSWS",
+      "helpful_votes": 0,
+      "publication_date": 20141116
+    },
+    {
+      "title": "No partition in RAID 0... very disappointing",
+      "text": "I have many, many western digital drives formatted to RAID 0, a significant number of them have been partitioned in several partitions. I am enormously disappointed that in RAID 0 4TB, this drive can not be partitioned!! You have to use it in a JBOD mode and then partition the 2 TB drives, but that sort misses the point. Speed is ok, probably not as good as it could be.",
+      "rating": 3.0,
+      "verified": true,
+      "author": "Steven",
+      "helpful_votes": 0,
+      "publication_date": 20170216
+    },
+    {
+      "title": "Great choice, 0 complaints",
+      "text": "I will update if anything changes over time; but spent hours reading reviews, and of course i would focus on the negative ones; but this drive has quality construction, nice performance; generally is super quiet, seems very quality and durable, a nice utility. I am so glad I ordered this. Sp far 100% A-O-K!",
+      "rating": 5.0,
+      "verified": true,
+      "author": "C. A. Bayko",
+      "helpful_votes": 0,
+      "publication_date": 20160406
+    },
+    {
+      "title": "I would not recommend this hard drive to anyone. High rate of failure.",
+      "text": "I really wanted this drive to work out but in less than a year it has already failed. That was early 2016 that it first failed. There's a process to send it back to Western Digital and after sending the original in to them, I did receive a replacement which worked for about 6 months before it failed again. I guess I'm going to go back through the process of servicing it via Western Digital but I honestly would not recommend this hard drive to anyone. I've purchased at least 8 of their single USB 3.0 hard drives 500MB-2TB and not one has failed me. This RAID drive must have a high failure rate. It is totally not working out.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "J. Siebert",
+      "helpful_votes": 0,
+      "publication_date": 20160720
+    },
+    {
+      "title": "4TB and portable a no brainer!",
+      "text": "4TB of storage in a portable product is a win. This product allows me to carry my projects with me as I travel. Location photography has gotten much easier and now I'm able to work more effectively. I can dump off photos and work on them immediately and have them taken off the card and even backed up. I've been using WD hard drives fort years and absolutely stand behind the the quality and reliability of the product. If you're looking for portability, speed, reliability and a product at a great cost go get this!",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Christopher Edwards",
+      "helpful_votes": 3,
+      "publication_date": 20141021
+    },
+    {
+      "title": "My new Favourite Portable Hard Drive Out There!",
+      "text": "Best Portable Hard Drive Out There! Fast Read & Write, Useful for Travel, NO external Power Cord!, and enough Storage for all my Photo's and 2.7k video + Mac Time Machine Backup! Its Exactly as Advertised. And yes you can hear the fan when you have HUGE Files that are being transfer. But Come on people there are 2 hard drives stuffed into this thing! without the fan it would cook.. So I don't consider this a con, especially for the almost ssd speeds you get with this thing @ half the cost..",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Thollie Jin",
+      "helpful_votes": 3,
+      "publication_date": 20140819
+    },
+    {
+      "title": "This disk worked fine for 1 year but now I cannot access my ...",
+      "text": "This disk worked fine for 1 year but now I cannot access my files. The disk is not recognized by the computer. I have a lot of photos and believed that having a better disk would protect them better. Will not buy any product by this manufacturer anymore",
+      "rating": 1.0,
+      "verified": true,
+      "author": "CAV",
+      "helpful_votes": 3,
+      "publication_date": 20150909
+    },
+    {
+      "title": "Fast, reliable, matches my MacBook Pro.",
+      "text": "Looks good, nice aluminum casing. Very fast read and write speaks in RAID 0. My only issues are the ones everyone has, which is the non-removable thunderbolt cable (in case it would go bad) and how thick the drive is, but the thickness I can deal with given it has two drives inside. Highly recommended.",
+      "rating": 4.0,
+      "verified": true,
+      "author": "mwhetnall",
+      "helpful_votes": 0,
+      "publication_date": 20150621
+    },
+    {
+      "title": "5 for capacity, 3.5 for performance, minus 10 for lack of tech support and honoring warranty = negative 1.5 Stars",
+      "text": "Started out a 5 went to minus stars after WD doesn't respond after weeks of trying to get tech support. Drives works fine until the attached connector begins to disintegrate from normal, gentle day to day use.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "Caveat Emptor",
+      "helpful_votes": 0,
+      "publication_date": 20151112
+    },
+    {
+      "title": "Great drive! But ejects randomly about once a month??",
+      "text": "Just as fast as I hoped! Works as expected but I have had it randomly eject time to time but never could figure out why. It isn't like I moved the drive or anything...... but luckily this happens maybe once a month and never during use only during idle.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Frank Smith",
+      "helpful_votes": 0,
+      "publication_date": 20140921
+    },
+    {
+      "title": "This portable drive is superfast and works perfectly with older ...",
+      "text": "This portable drive is superfast and works perfectly with older Mac devices, that do not use USB 3 connectors. Reliable build and pleasant design with the stow-away connector. If you copy very large amounts of data ( 1TB plus), the builtin fan can become a bit noisy. Unluckily this product seems to be considered end of life by WD , so you can no longer buy it in Europe. Luckily still available in North America.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "JBinSwitzerland",
+      "helpful_votes": 0,
+      "publication_date": 20161212
+    },
+    {
+      "title": "Great 4tb powered Direve",
+      "text": "Great disk, 4tb in such a small package, amazing. The built in cable can be great when I am using my laptop, but it would be nice if there was also a Thuderbolt port so i can use other cable when on my desktop at home. But that is a very minor quibble.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Christopher Kilkus",
+      "helpful_votes": 0,
+      "publication_date": 20150623
+    },
+    {
+      "title": "AWESOME!",
+      "text": "Boom. Perfect for my work as a filmmaker. It's a good size, and not a terrible weight for a 4TB Thunderbolt SSD. Super fast connecting to my Mac! I can edit footage straight off the hard drive (I don't even need to keep the content on my computer's storage).",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Amazon Customer",
+      "helpful_votes": 0,
+      "publication_date": 20160831
+    },
+    {
+      "title": "Pretty awesome little drive!",
+      "text": "I've had it now about 3 months, I edit 4K footage and HD footage from the drive on two different iMac's. No hiccups, super fast and light.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Rodger Sargent",
+      "helpful_votes": 0,
+      "publication_date": 20160521
+    },
+    {
+      "title": "It is really two 2 TB drives that one can ...",
+      "text": "It is really two 2 TB drives that one can use any way one wishes. I\u2018m using it as a 2 TB to store photos while on a shooting trip and a 2 TB Time Machine for my PoweBook. This way I get three copies of my photos and two copies of everything else. Hard to beat.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "\u00d3Diomasaighe",
+      "helpful_votes": 0,
+      "publication_date": 20140731
+    },
+    {
+      "title": "The beast!",
+      "text": "This is a beast! It is my favorite external hard drive. I'm using several external hard drives USB 3.0, but the thunderbolt connections makes a huge difference. The data transmission is super fast, and that means, less time processing data, saving projects, etc. It makes my work more efficient.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Esteban J. Chaves",
+      "helpful_votes": 0,
+      "publication_date": 20150311
+    },
+    {
+      "title": "It's a solid fast it and inexpensive here on Amazon.",
+      "text": "Does what it claims and does it well. I do mobile video editing and the difference in speed between a single drive external drive and this is clearly noticeable. AND on Amazon it's a full $100 cheaper than Best Buy.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Robert R Dean",
+      "helpful_votes": 0,
+      "publication_date": 20151020
+    },
+    {
+      "title": "Excellent large 4TB raid 0 array on 1 thunderbolt port",
+      "text": "Excellent large 4TB raid 0 array, conveniently not using one of my few USB ports. Very quiet 99% of the time, as the loud fan comes on occasionally in intensive work. It could not be used in environment with audio recording at that time, but fortunately I have not had to use it and record at the same time.",
+      "rating": 4.0,
+      "verified": true,
+      "author": "Ian",
+      "helpful_votes": 4,
+      "publication_date": 20140716
+    },
+    {
+      "title": "That's almost double the speed of even some Thunderbolt SSD drives like the Buffalo MiniStation (see CNet's review) or take a ..",
+      "text": "This thing is faster than my internal SSD in my 2011 MacBook Air! I clocked it with Blackmagic at about 200 MB/s. That's almost double the speed of even some Thunderbolt SSD drives like the Buffalo MiniStation (see CNet's review) or take a look at my video review of it on YouTube. My channel is SimpleTechRev",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Joel S",
+      "helpful_votes": 2,
+      "publication_date": 20141014
+    },
+    {
+      "title": "Great Hard drive.",
+      "text": "Bought to store all of my iMovie and Final Cut Pro X videos. Makes it easy to go between my new iMac 5K and my MacBook Pro Retina. It's a good solution and a good buy.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Philip Brooks",
+      "helpful_votes": 0,
+      "publication_date": 20141207
+    },
+    {
+      "title": "Very happy eith it",
+      "text": "Very happy eith it. Been traveling with my Macbook air and this for three weeks, and have everything backed up.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Lorraine H",
+      "helpful_votes": 0,
+      "publication_date": 20161014
+    },
+    {
+      "title": "Nice but could be better.",
+      "text": "Its heating quite much during heavy opeations and folding the cable is an issue. Certainly better than any other alternatives",
+      "rating": 4.0,
+      "verified": true,
+      "author": "Ekrem Ayna",
+      "helpful_votes": 0,
+      "publication_date": 20150708
+    },
+    {
+      "title": "This seemed like a great idea in theory",
+      "text": "This seemed like a great idea in theory. A super robust and solid, portable 2TB drive. I used it as a Raid 0 (2tb) for a few days, then went on a trip. I took a ton of family photos, putting them all on that drive. When I got home to edit the photos, the 2nd drive in the RAID was toast. This thing barely lasted 2 weeks before one of the drives failed. When something is labeled PRO, you expect it to be above average. Not in this case. This is junk.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "Brian",
+      "helpful_votes": 11,
+      "publication_date": 20140930
+    },
+    {
+      "title": "Not worth your time.",
+      "text": "This device overheats quickly and disconnects from the machine randomly. It doesn't work as a backup device with time machine and all backup software will write too quickly and cause it to overheat and disconnect. It does work well for just storing extra files or photos. I think there are much better options out there. I would not buy again.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "David",
+      "helpful_votes": 0,
+      "publication_date": 20151202
+    },
+    {
+      "title": "Absolute crap. The drives fail for no reason due to ...",
+      "text": "Absolute crap. The drives fail for no reason due to software issues and I had to go to a data recovery center. to retrieve the data. One of the worst drives I've ever used.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "John Kim",
+      "helpful_votes": 0,
+      "publication_date": 20180302
+    },
+    {
+      "title": "Perfect drive for field use",
+      "text": "I love this little marvel. Big enough to carry even moderately large projects for editing on the road, and fast enough to make it practical. Seems very well built.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "M. Evangelist",
+      "helpful_votes": 0,
+      "publication_date": 20150630
+    },
+    {
+      "title": "USB who?",
+      "text": "Works well. It is fast, like most Thunderbolt products. You won't want to go back to USB after you go Thunderbolt.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Kim B.",
+      "helpful_votes": 0,
+      "publication_date": 20160428
+    },
+    {
+      "title": "Avoid this drive",
+      "text": "I had one of these fail on me after two weeks (\"Drive B Missing\"), and the replacement has now died just in one day with the same message. Avoid this drive at all costs.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "mavrck",
+      "helpful_votes": 2,
+      "publication_date": 20150609
+    },
+    {
+      "title": "NIce, not as fast as an SSD but with ...",
+      "text": "NIce, not as fast as an SSD but with the software RAID0 it is better than a standard drive. Like that it has a thunderbolt port for daisy chaining.",
+      "rating": 4.0,
+      "verified": true,
+      "author": "Jeff Jasper",
+      "helpful_votes": 0,
+      "publication_date": 20150213
+    },
+    {
+      "title": "So far so good. I have not tried to do a restore",
+      "text": "So far so good. I have not tried to do a restore, but raid 1 give me comfort. RAID 0 is not for anything but temporary speed.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Jeff N",
+      "helpful_votes": 0,
+      "publication_date": 20141021
+    },
+    {
+      "title": "Macbook's Best Accessory!",
+      "text": "Super fast and lite! Storing a ton of music and photos and it works great with my Macbook Pro. Best part is no cord.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Amazon Customer",
+      "helpful_votes": 0,
+      "publication_date": 20161001
+    },
+    {
+      "title": "Macbook keeps crashing with it!!",
+      "text": "my Apple keeps on crashing every time I try to connect this thing to it",
+      "rating": 1.0,
+      "verified": true,
+      "author": "wndsrfnguy77",
+      "helpful_votes": 0,
+      "publication_date": 20160215
+    },
+    {
+      "title": "Great solution!",
+      "text": "Great solution for my Mac. Really hoping that the cable is durable because if something happens to the cord, you're screwed. It does not appear to be detachable to plug 'n play a new cord.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "M. Crawford",
+      "helpful_votes": 0,
+      "publication_date": 20150407
+    },
+    {
+      "title": "Great buy!",
+      "text": "This device is top of the line no complains at all.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Keybee",
+      "helpful_votes": 0,
+      "publication_date": 20160524
+    },
+    {
+      "title": "Perfect for audio production!",
+      "text": "Great price & super fast shipping!! Hooked up the drive in seconds on my iMac and it works beautifully. I am a music producer working with very large files- this drive was the perfect solution for me. I'm able to record and edit to it with no crashes or glitches. BABAM!",
+      "rating": 5.0,
+      "verified": true,
+      "author": "JDW",
+      "helpful_votes": 0,
+      "publication_date": 20151123
+    },
+    {
+      "title": "Tried hard to love this but just can't.",
+      "text": "Pros: Solid construction. Ease of use. Cons: Built in cable. Write/ Read Speeds. Conflict with raid software and Premiere",
+      "rating": 2.0,
+      "verified": true,
+      "author": "Bill K.",
+      "helpful_votes": 0,
+      "publication_date": 20150105
+    },
+    {
+      "title": "very disappointed at WD for such a over priced piece of ...",
+      "text": "Drive overheated twice on the first day of use with small file transfers, very disappointed at WD for such a over priced piece of crap!",
+      "rating": 1.0,
+      "verified": true,
+      "author": "William O Torres",
+      "helpful_votes": 0,
+      "publication_date": 20151225
+    },
+    {
+      "title": "It can't be set up Raid 1 on a Mac ...",
+      "text": "It can't be set up Raid 1 on a Mac with the most current OS, El Capitan. I sent it back.",
+      "rating": 2.0,
+      "verified": true,
+      "author": "Amazon Customer",
+      "helpful_votes": 0,
+      "publication_date": 20160505
+    },
+    {
+      "title": "Great RAID",
+      "text": "An excellent high tech brick of a drive. It seems very durable and I look forward to using it as a RAID assembly.",
+      "rating": 4.0,
+      "verified": true,
+      "author": "Markatekt",
+      "helpful_votes": 0,
+      "publication_date": 20151002
+    },
+    {
+      "title": "and it works great.",
+      "text": "I've had it for almost 7 months, and it works great.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "R. L.",
+      "helpful_votes": 0,
+      "publication_date": 20150725
+    },
+    {
+      "title": "Fantastic little RAID 1/0 device",
+      "text": "This drive has great build quality, compact design, and seamless operation. While the niche Western Digital is trying to hit may be small -- users that want either RAID 1 (mirroring) or RAID 0 (striping) it succeeds in satisfying that niche with aplomb. I am particularly impressed by the build quality of the case -- it is aluminum on all sides with a plastic top and has the heft and sturdiness of a desktop drive. This is considerably more hefty than the Seagate Backup Fast drive. The only downside is the Thunderbolt cable is not removable, as I can see that being the failure point in the drive.",
+      "rating": 4.0,
+      "verified": true,
+      "author": "Michael",
+      "helpful_votes": 45,
+      "publication_date": 20140402
+    },
+    {
+      "title": "Works with 15\" Early 2011 Macbook Pro",
+      "text": "Just received this and thought I'd clear up a little uncertainty about the Thunderbolt compatibility - I can confirm it worked with a 15\" Early 2011 Macbook Pro. Looks mighty fast too.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "jakegoat",
+      "helpful_votes": 2,
+      "publication_date": 20140810
+    },
+    {
+      "title": "The best portable storage out there",
+      "text": "highly recommended, I feel it's the best portable storage out there with RAID you can be sure your data is safe.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Salman",
+      "helpful_votes": 0,
+      "publication_date": 20150703
+    },
+    {
+      "title": "and great value for what you get",
+      "text": "Speedy, compact, and great value for what you get. Definitely recommend!",
+      "rating": 5.0,
+      "verified": true,
+      "author": "JustAnotherShopper",
+      "helpful_votes": 0,
+      "publication_date": 20141211
+    },
+    {
+      "title": "Five Stars",
+      "text": "Love the design, smooth and sleek look and is very fast and reliable!!",
+      "rating": 5.0,
+      "verified": true,
+      "author": "DefenderRock",
+      "helpful_votes": 0,
+      "publication_date": 20150127
+    },
+    {
+      "title": "Five Stars",
+      "text": "I liked the product's quality, and its functionality over the thunderbolt port. I give this product five stars.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Gilberto I. Monroy",
+      "helpful_votes": 0,
+      "publication_date": 20161228
+    },
+    {
+      "title": "Four Stars",
+      "text": "Not quite fast enough for editing HD video without dropping frames.",
+      "rating": 4.0,
+      "verified": true,
+      "author": "Dan McComb",
+      "helpful_votes": 0,
+      "publication_date": 20160304
+    },
+    {
+      "title": "I just wish that it would have come with a good protective case for portability",
+      "text": "Can not be without this unit when working with critical files that I use between my iMacs and MacBook Pros. I just wish that it would have come with a good protective case for portability; just have to be very careful between locations. The fact that you do not need an external AC power source is KILLER. Can not be without this unit. I'm looking for the day when WD comes out with a solid state unit at 4 TB Plus at low cost. When your high valued data can be at risk the cost of this unit is really not a concideration.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Elizandro H.",
+      "helpful_votes": 0,
+      "publication_date": 20150711
+    },
+    {
+      "title": "Clever brick",
+      "text": "Only quibbles are the cost and that the thunderbolt cable is a little short. If you can afford it you won't regret buying it,",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Amazon Customer",
+      "helpful_votes": 0,
+      "publication_date": 20161228
+    },
+    {
+      "title": "4 TB and Bus Powered! Nice.",
+      "text": "I have seen others with issues associated with this drive, but I think it's great! Yes, a little fat, but lets face it, 4 TB and bus powered! Easy to set up and working just fine.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Christopher Brown",
+      "helpful_votes": 2,
+      "publication_date": 20140717
+    },
+    {
+      "title": "Satisfied customer",
+      "text": "The mirroring (Raid 1) gives me peace of mind. It is powered via the Thunderbolt cable, which makes it much more portable than other External hard drives with Raid. And it has a quality built casing that protects the internals.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Johannes Jacob Els",
+      "helpful_votes": 0,
+      "publication_date": 20150908
+    },
+    {
+      "title": "I must return it. The \"beachball' keeps spinning when ...",
+      "text": "I must return it. The \"beachball' keeps spinning when I try to access data I put on the drive.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "philip hresko",
+      "helpful_votes": 0,
+      "publication_date": 20150101
+    },
+    {
+      "title": "Great!!!",
+      "text": "Excelent product, I am very Happy whith it. A littlr to big, but no so much. Great",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Esteban J Gonzalez Mtnez",
+      "helpful_votes": 0,
+      "publication_date": 20150704
+    },
+    {
+      "title": "Five Stars",
+      "text": "fast storage just wish there was a usb option as well",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Randy LaBrie",
+      "helpful_votes": 0,
+      "publication_date": 20151208
+    },
+    {
+      "title": "On of the worst Winston Digital hard drives I have ever owned",
+      "text": "On of the worst Winston Digital hard drives I have ever owned. I thought this would be a great drive for my computer to use, but it kept giving an error and missing a B slot drive. Also, the noise of the fan get really loud, and it gives some burning smell from it. I lost all of the data I move it to it plus my computer back up. I would not give it any star, but the one star is for Amazon customer service for helping me getting my refund. I would not recommend it to anyone. Hopefully Winston Digital make a better one in the near future\u200b",
+      "rating": 1.0,
+      "verified": true,
+      "author": "Hussein, Hussein",
+      "helpful_votes": 0,
+      "publication_date": 20160810
+    },
+    {
+      "title": "DRIVE FAILED",
+      "text": "B Slot failed after 6 months of lite use. Unreliable. Lost data and nothing I can do about it.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "Andrew Wehde",
+      "helpful_votes": 0,
+      "publication_date": 20150811
+    },
+    {
+      "title": "Four Stars",
+      "text": "I\u0307t is very fast and comfortable. But, it's price is high.",
+      "rating": 4.0,
+      "verified": true,
+      "author": "Mehmet Salih \u00d6zayt\u00fcrk",
+      "helpful_votes": 0,
+      "publication_date": 20150704
+    },
+    {
+      "title": "I really love this drive",
+      "text": "I really love this drive. There are two downsides from my other Passport drives. Fans...fans can break...only one Thunderbolt port. So much for connecting multiple devices unless this is last. That's the way I have it.",
+      "rating": 4.0,
+      "verified": true,
+      "author": "Shucks99",
+      "helpful_votes": 0,
+      "publication_date": 20150303
+    },
+    {
+      "title": "My first disappointment from Western Digital.",
+      "text": "I plugged this HDD in and half-way through my back-ups, I kept getting the \"Disk not ejected properly\" message. This is my first big disappointment from WD (I have had 2 other HDD from them before without complaints). I cannot afford to have an unreliable HDD for my master computer backup. Sending back and getting another My Passport.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "HUMBERTO LOPEZ CASTILLO",
+      "helpful_votes": 0,
+      "publication_date": 20150517
+    },
+    {
+      "title": "My 2Tb lasted for 11 months",
+      "text": "My 2Tb lasted for 11 months, and it was great when it worked, but now it got bad sectors, some files would not read and apps would crush when accessing data on it... Will be submitting a warranty claim with WD.",
+      "rating": 2.0,
+      "verified": true,
+      "author": "AK",
+      "helpful_votes": 0,
+      "publication_date": 20151217
+    },
+    {
+      "title": "Metal Edges will slice wires and will scratch your gear!",
+      "text": "Do not transport these HDs in your backpack with your other gear. The metal edges are VERY SHARP and as your backpack contents shift, the metal edges WILL heavily scratch and slice any wires. Do yourself a favor and wait for the Lacie 4TB rugged model to be released.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "Jason Lynx",
+      "helpful_votes": 0,
+      "publication_date": 20150328
+    },
+    {
+      "title": "One Star",
+      "text": "This item was a waste of money whish I could return it but am deploy in Afghanistan",
+      "rating": 1.0,
+      "verified": true,
+      "author": "Lincoln",
+      "helpful_votes": 0,
+      "publication_date": 20150804
+    },
+    {
+      "title": "Five Stars.  -> ZERO Stars.",
+      "text": "Best HDD for Mac!! But . after 6th month. Broken",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Amazon Customer",
+      "helpful_votes": 0,
+      "publication_date": 20160629
+    },
+    {
+      "title": "Had high hopes, but mounts and then dismounts",
+      "text": "I had high hopes for this drive. It's nicely packaged and the speed reviews are great. However, when I attach it to my 15\" MacBook Pro it mounts and then after a few seconds dismounts. I unplug and replug and get the same result. I don't have time to mess with it, so I'm returning it for a refund. Disappointed.",
+      "rating": 2.0,
+      "verified": true,
+      "author": "R. Monsour",
+      "helpful_votes": 2,
+      "publication_date": 20140521
+    },
+    {
+      "title": "Failed, lost data, Raid strip failure",
+      "text": "Died after 13 days of usage, lost raid stripe in Raid 0. Nice enough unit, but reliability is awful with this copy. Had about 1.2 TB of files on it, from my NAS, nothing major lost. Will be contacting WD support tomorrow.",
+      "rating": 2.0,
+      "verified": true,
+      "author": "WesternerPatriot",
+      "helpful_votes": 3,
+      "publication_date": 20140629
+    },
+    {
+      "title": "Absolute garbage its for mac and WD couldn't even bother to ...",
+      "text": "Absolute garbage its for mac and WD couldn't even bother to post it in the description Shame on you Western Digital. so here's what I want to give it - 5 *****",
+      "rating": 1.0,
+      "verified": true,
+      "author": "Chas B",
+      "helpful_votes": 0,
+      "publication_date": 20160330
+    },
+    {
+      "title": "its practically useless for someone who works in music or",
+      "text": "I really should have read more about this first.... this thing is so darn loud.... its practically useless for someone who works in music or sound-design",
+      "rating": 2.0,
+      "verified": true,
+      "author": "pen-namer",
+      "helpful_votes": 0,
+      "publication_date": 20140715
+    },
+    {
+      "title": "Worked for 2 days, Mac OSX 10.9",
+      "text": "Was fast and fantastic for 2 days, now it won't mount at all. The System Profiler sees it in OSX but the WD Utilities, Finder, Disk Utility, etc can't see it. I am NOT happy. The work I did is stuck on there, re-editing is not a fun option, and Western Digital has been unresponsive to my support ticket. I have spent the last 2 days trying to figure this out, will have to return it soon. I will follow up with more information as things develop.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "Jeff Morgan",
+      "helpful_votes": 10,
+      "publication_date": 20140502
+    },
+    {
+      "title": "ONLY FOR MAC!",
+      "text": "Be aware of the fact this is NOT for any PC or NOTEBOOK. This is ONLY for MACs. This is why I returned it. The storage looks great and I think it can be truly a good solution for those who need a fast and portable storage with them. Unfortunately Amazon did not specify at the TOP of the item that it is only for MACs.",
+      "rating": 3.0,
+      "verified": true,
+      "author": "Ayan Scratuglia",
+      "helpful_votes": 0,
+      "publication_date": 20140929
+    },
+    {
+      "title": "If you have USB 3, stay away from this drive",
+      "text": "I bought this WD 4TB drive and a similar product from Seagate that uses USB 3.0:  (check out the 4tb version, the others are not as fast) The Seagate product is literally half the size and weight of this drive. It gets 230 mb/s read write which is quite fast. It has no noisy fan either. And it costs $100 less. Plus I can use it with PC computers as well. Compared to the seagate, this WD drive seems loud, bloated, overweight, and overpriced.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "B. Miller",
+      "helpful_votes": 6,
+      "publication_date": 20140808
+    },
+    {
+      "title": "Be very careful if you're purchasing this item. It's ...",
+      "text": "Be very careful if you're purchasing this item. It's only compatible with the latest Mac models that have a thunderbolt port and WILL NOT work with other types of port.",
+      "rating": 2.0,
+      "verified": true,
+      "author": "Lana",
+      "helpful_votes": 0,
+      "publication_date": 20150527
+    }
+  ],
+  "product_meta": {
+    "title": "WD 2TB My Passport Pro Portable External Hard Drive - Thunderbolt - WDBRMP0020DBK-NESN",
+    "description": "Capacity:2 TBWestern Digital My Passport Pro WDBRMP0020DBK-NESN DAS Array - 2 TB Installed HDD Capacity WDBRMP0020DBK-NESN Hard Drive Arrays",
+    "rating": 3.9,
+    "feature_bullets": [
+      "Dual-drive RAID storage",
+      "Up to 233 MB/s data transfer rates",
+      "Integrated Thunderbolt cable",
+      "No AC adapter required",
+      "Durable aluminum enclosure",
+      "User-selectable RAID 0/1 or JBOD",
+      "Massive capacity - 2 TB or 4 TB",
+      "3-year limited warranty"
+    ],
+    "specifications": {
+      "Brand": "Western Digital",
+      "Series": "My Passport Pro",
+      "Item model number": "WDBRMP0020DBK-NESN",
+      "Hardware Platform": "Mac",
+      "Operating System": "Mac",
+      "Item Weight": "1.01 pounds",
+      "Product Dimensions": "5.65 x 3.48 x 1.13 inches",
+      "Item Dimensions  LxWxH": "5.65 x 3.48 x 1.13 inches",
+      "Color": "Black",
+      "Flash Memory Size": "2 TB",
+      "Manufacturer": "Western Digital",
+      "ASIN": "B00ITI04YM",
+      "Is Discontinued By Manufacturer": "No",
+      "Date First Available": "March 27, 2014",
+      "Customer Reviews": "3.9 out of 5 stars206 ratings3.9 out of 5 stars",
+      "Best Sellers Rank": "#1,831 in External Hard Drives"
+    },
+    "categories": [
+      "Data Storage",
+      "Computers & Accessories",
+      "Electronics",
+      "External Hard Drives"
+    ],
+    "price": 249.99
+  }
+}

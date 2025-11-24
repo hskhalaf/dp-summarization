@@ -1,0 +1,957 @@
+{
+  "website_summaries": [
+    {
+      "verdict": "The Netgear WNDR3800 N600 Wireless Dual-Band Gigabit Router makes an excellent router for any home.",
+      "pros": [
+        "The Netgear WNDR3800 N600 Wireless Dual-Band Gigabit Router - Premium Edition offers ease of use, fast wireless data rates, and long range",
+        "The router supports true dual-band, IPv6, and cloud-based storage and has parental control features"
+      ],
+      "cons": [
+        "The Netgear WNDR3800 N600 doesn't support the faster 450Mbps wireless standard, and its USB storage performance could use some improvement"
+      ],
+      "aspects": {
+        "Setup": 8.0,
+        "Features": 9.0,
+        "Performance": 8.0,
+        "Support": 8.0
+      },
+      "publication_date": 20110928,
+      "rating": 8.0,
+      "source": "cnet"
+    }
+  ],
+  "customer_reviews": [
+    {
+      "title": "I'm out, done with this garbage",
+      "text": "I've had it with this piece of garbage dropping my wifi connections on all devices, all makes and models, all the time. Router has to be rebooted multiple times daily and then works for a little while. Multiple firmware upgrades have never resolved the connection drop issue, including the latest version. Coverage sucks, the network appears available and connected at longer ranges, but is useless. The device is lit up like a Christmas tree with lights all over, very distracting. Total piece of garbage. I will never buy Netgear again, goodbye and good riddance, your tech support sucks too. Moving on to an Apple AirPort Extreme 6th generation, adios Netgear, what a joke!",
+      "rating": 1.0,
+      "verified": true,
+      "author": "Amazon Customer",
+      "helpful_votes": 0,
+      "publication_date": 20161120
+    },
+    {
+      "title": "so far so good",
+      "text": "Solid router. Beware a lot of the third-party merchants are probably selling WNDR3800CH for Charter Cable. The working unit I received is one such model. It's running V1.0.0.61CH, which is specific to Charter Cable and cannot be flashed with the WNDR3800 V1.0.0.48 firmware. Regardless, so far so good with the V1.0.0.61CH firmware, which handles DHCPv6 PD from Comcast much better than the buggy TP-Link AC1200 C5. Lack of external antenna makes it connecting at at most 270Mbits/s, whereas the TP-Link AC1200 C5 was consistently connecting at 300Mbits/s.",
+      "rating": 4.0,
+      "verified": true,
+      "author": "non soli cedit",
+      "helpful_votes": 0,
+      "publication_date": 20160204
+    },
+    {
+      "title": "Good hardware.",
+      "text": "I bought several of these routers, reinstalling them with openwrt (which went very smoothly). Nice hardware: the radio coverage seems good and the box seems very stable (under openwrt at least), with no odd reboots or other glitches. I used them to swap out my previous generation of Netgear WGT634u routers. Like the previous generation, these newer ones have a USB port, but unlike the older generation, the port can supply enough power for an attached USB hard drive. Pleased with the purchase.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Martin E",
+      "helpful_votes": 0,
+      "publication_date": 20160502
+    },
+    {
+      "title": "The best OpenWRT router available",
+      "text": "I had one requirement. That the router be able to run OpenWRT. This router is the most high performance one I could find that satisfies that. It is tough to find a modern router that will run OpenWRT, by the time most routers are supported they are no longer sold. However, you can buy this one used or semi-new from a reseller for fairly cheap. It supports the \"a\" standard so you'll still be set for a couple years. Performance has been very good. I've only needed to reboot it once since I bought it months ago. Highly recommended if you are looking to run OpenWRT as an aftermarket solution.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "rydei goldwords",
+      "helpful_votes": 0,
+      "publication_date": 20130403
+    },
+    {
+      "title": "Not without firmware issues - but very good when it works!",
+      "text": "Have gone through a few firmware updates, some 'fix' things, other times we end up having to do a hard reset on the router every couple days. They always end up with another firmware update tho' that gets things back to smooth sailing in no time. Definitely like the fact that I wouldn't have to violate my internal network's security to let a friend use the wifi - I just let them use the 'guest' network (also secured, so the neighbors aren't leeching). Good features, decent online interface. Still haven't used all of the features, such as the USB storage, so can't really comment on that yet!",
+      "rating": 4.0,
+      "verified": true,
+      "author": "Princhessa",
+      "helpful_votes": 0,
+      "publication_date": 20121209
+    },
+    {
+      "title": "Lasted 6 months to a year",
+      "text": "Lasted a year and then the WIFI died on it. I work a job where I deal with thousands of these things. If I knew what I know now I would tell people not to buy this brand. If you check there website on common issues with this thing they are always telling people to buy a new one. Its issues with their hardware and more specifically their software. They should sell just a regular WIFI router without all this other junk on it and then it might function properly.",
+      "rating": 2.0,
+      "verified": true,
+      "author": "Jennifer Henderson",
+      "helpful_votes": 0,
+      "publication_date": 20150923
+    },
+    {
+      "title": "Don't buy.... I can't believe CNET recommend me this lemon...",
+      "text": "Stop working after 14 months !!! After 7 months it starts dropping signal here and there then stop working when the warranty expired (how clever is that). No more wireless signal... till power on.. apparently that many people got this problem too. My 4 year old D-Link still work fine and it cost me only half of this piece of junk.... Netgear, you lose my business forever ! I got an Apple Extreme Base Station to replace for 5 days now. Setup was a breeze, run in 2 min, setup password and control done in 15 min with an ipad.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "Kennedy",
+      "helpful_votes": 0,
+      "publication_date": 20131124
+    },
+    {
+      "title": "Very good product, with expected results",
+      "text": "The router was a snap to install (I do this 4-5 time/per week so I don't require a setup disk). It was replacing my trusty N600 (3700 model) only because of the video feature and it made the difference I was looking for. The 3700 served us well for several years and I expect this one to do the same (until products settle down to the .ac standards - I'll wait for those bugs to be worked out first). The dual-band is great and reduces traffic on the 2.4Ghz band because my 5Ghz stuff is running on 5. I have an external usb drive plugged into it without any issues and I've had ZERO negative thoughts about it. 'Nuff Said.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "WBY",
+      "helpful_votes": 0,
+      "publication_date": 20120822
+    },
+    {
+      "title": "Constantly have to restart the wireless function to reconnect",
+      "text": "I have the WNDR3800 with firmware version V1.0.0.40 and this router has been a solid pain. I can not run for any period of time, like watch a movie, without having to restart the wireless and reconnect. Works great for the wired part but if you need wireless functionality, you might look at another solution. I noticed that this problem has plagued this router since the beginning. Shame on me for trusting Netgear due to good experiences in the past. I guess I will evaluate my recommendations when people ask me what to buy. I used to use Netgeat equipment for both educational institutions and commercial applications.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "Steven deLizasoain",
+      "helpful_votes": 0,
+      "publication_date": 20121212
+    },
+    {
+      "title": "Worked well",
+      "text": "Turned out to be a pretty good router. Lasted almost 4 years, but then died on me. Wireless got flaky for a couple weeks, then died altogether. Wired still seemed to work OK. Easy to configure. The parental controls worked pretty well. Wireless seemed solid until the end, though not super strong. Getting a better signal throughout the house with my new one.",
+      "rating": 4.0,
+      "verified": true,
+      "author": "Mr Funk",
+      "helpful_votes": 0,
+      "publication_date": 20160107
+    },
+    {
+      "title": "Works with LEDE/OpenWRT, this is the new WRT54G.",
+      "text": "This is a steal for the price that anyone could get it for now. This router works with any custom software imaginable in this world, which is what made it super attractive for me. With LEDE/OpenWRT and a quick queue discipline algorithm (I suggest you to look at CODEL and CAKE) configured in 30 seconds, it can handily beat a lot of much more expensive product. I could torrent and watch movies at the same time on my 15Mbps connection. Everyone who comes to my apartment was amazed how fast \"the internet\" is. This deserves to be the new WRT54G.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Jimmies Rustled",
+      "helpful_votes": 0,
+      "publication_date": 20161016
+    },
+    {
+      "title": "Absolutely great!",
+      "text": "I've gone through more routers than I have socks. It seems like they all have one issue or another... I've had this probably close to a year now with absolutely no issues at all. No dropping connections, great throughput, all the settings I need are available in the stock UI. No complaints at all for what I need it for. Not to say it's a perfect router for everyone as it may lack some bells and whistles of the extreme high end routers, but for the vast majority of the population I would recommend it, I love it!",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Aaron Shelton",
+      "helpful_votes": 0,
+      "publication_date": 20140516
+    },
+    {
+      "title": "I've had this router for approximately 2 years and 9 ...",
+      "text": "I've had this router for approximately 2 years and 9 months and it works well. Perhaps once a month my internet goes out so I manually restart the device along with the cable modem and I regain my wireless connection within a couple of minutes. One of the device's features I started using about 6 months ago is parental control. You can customize the controls from your laptop/desktop device to block unwanted sites (e.g., gambling, pornography) enhancing your peace of mind.",
+      "rating": 4.0,
+      "verified": true,
+      "author": "Thrifty",
+      "helpful_votes": 0,
+      "publication_date": 20140918
+    },
+    {
+      "title": "Randomly loses Bonjour connectivity",
+      "text": "A great router / wireless AP overall. Good, strong signal throughout the house. My only problem is it the Bonjour protocol support stops working randomly about once or twice a week. The only solution is a reboot. This can fortunately be done from the Advanced Setup page of the router's configuration web page, but it is still frustrating when all my Apple gear stops working like it should. (Bonjour is used by Apple software/devices to detect other Apple devices on the network, such as AppleTV AirPlay.)",
+      "rating": 3.0,
+      "verified": true,
+      "author": "Mod MINI",
+      "helpful_votes": 2,
+      "publication_date": 20121029
+    },
+    {
+      "title": "Great Router",
+      "text": "I've had this now for about a year, Works great, looks great both bands working very well. Software for it is very helpful to setup and to tweak your prefrences. I honestly haven't had to touch this at all, maybe a few times to wipe the dust of it.......... I run : Home computer desktop 3 Ipads 2 Kindles 1 Lab top computer Another desktop computer on the second floor also a Wll and a ps3 Never miss a beat I have the WNDR-3800 setup in my basement....... Bmac20",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Bmac20",
+      "helpful_votes": 0,
+      "publication_date": 20140306
+    },
+    {
+      "title": "Huh?!?",
+      "text": "First, it arrived on time thanks Silverberries. Minutes after it was unpacked, it was up and running. I updated the firmware without a hiccup. It's been running nonstop for just over a week without any issue's. I've checked quite a few sites and I have yet to experience any problems that I've read about. It's basically been invisible - except for those very bright lights - a non-issue for me. My first home wireless router and it's not been a negative experience. I would recommend this to anyone looking for a quality product at a reasonable price.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Lou",
+      "helpful_votes": 0,
+      "publication_date": 20120105
+    },
+    {
+      "title": "Improved Home Network",
+      "text": "Fast shipping and well packaged. Easy to set up - well written directions. Software allows for easy auto and manual entry of any necessary programming functions. Was able to set up as an improvement to Comcast standard hub for greatly improved performance throughout the house. Very pleased.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "MJM",
+      "helpful_votes": 0,
+      "publication_date": 20160924
+    },
+    {
+      "title": "problems with LAN ports",
+      "text": "I bought this router in March 2012. I have been getting slow wired network speeds for some time but only recently had time to investigate. So I'm not sure how long ago the router went bad. LAN port #3 doesn't work at all. LAN ports #1 & 4 only connect at 10/100. LAN port #3 connects normally at 1 Gbps. I have confirmed this behavior with several gigabit devices and cat 6 cables. Prior to this issue, I had been quite happy with this router. The wireless is still working fine, so I gave them 2 stars instead of 1.",
+      "rating": 2.0,
+      "verified": true,
+      "author": "johnj7777",
+      "helpful_votes": 2,
+      "publication_date": 20121104
+    },
+    {
+      "title": "A reliable router",
+      "text": "I bought one of these used, and I've been very pleased with it. I did more of a sideways move with my WiFi, as I already had a Netgear N600 router, but my existing router didn't have gigabit LAN ports. I wanted to remove the bottleneck in my wired LAN, and the WNDR3800 provided a low-cost solution with its gigabit ethernet ports. The setup was straightforward, and it's been running flawlessly 24/7 for the past month.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Kevin D.",
+      "helpful_votes": 0,
+      "publication_date": 20150331
+    },
+    {
+      "title": "It's fast when it works, but disconnects frequently. AVOID",
+      "text": "This was well reviewed, and we bought it after a lot of research, but I am now shopping for a replacement. It drops teh internet connection every day or so. We've done the firmware updates, and read all the suggestions on the Netgrer support forums. Customer service is no longer available as we bought the product about 5 months ago. So avoid this product, it is completely unreliable and Netgrear is offering no support or solutions. here is a thread with a few hundred unhappy customers with the same problem(...)",
+      "rating": 1.0,
+      "verified": true,
+      "author": "Mark Mass",
+      "helpful_votes": 0,
+      "publication_date": 20120910
+    },
+    {
+      "title": "Read this if you have Vonage",
+      "text": "Very nice router. Replaced an earlier Linksys and got whole-house coverage. One downside is the parental controls. You have to run a program to be exempted from the controls, which isn't an option on my android phone. But the bigger issue is QOS. By default, a rule for VOIP is enabled. But there is a *different rule* for Vonage, which is NOT ENABLED by default. So if you have Vonage and get this router, go into advanced setup, QOS settings, and add a rule for Vonage VOIP! Then it works great for Vonage.",
+      "rating": 4.0,
+      "verified": true,
+      "author": "Bob P.",
+      "helpful_votes": 0,
+      "publication_date": 20111215
+    },
+    {
+      "title": "Plug on/off is the best part",
+      "text": "The best part is the restart. I've used previous routers where you'd to remove and replug the power cord, or even keep pressing on a reset button. Restarting routers will invariably be required in the world of the internet cloud. And for this, the router gives a good experience. Even a layman can easily feel the switch-on/off button at the back and turn it off and back on. The product has a good sleek look, smartly make vertical so it doesn't take a wide-area, and plus easy to configure. Excellent performance overall. Premium edition indeed!",
+      "rating": 5.0,
+      "verified": true,
+      "author": "RTOAC",
+      "helpful_votes": 0,
+      "publication_date": 20121226
+    },
+    {
+      "title": "Stopped working after 18 months",
+      "text": "Same problem as others are experiencing, after about 18 months, it no longer connects more than a few feet away, even at that distance there are only three bars of signal strength. There used to be full signal anywhere in my house. Also noticed a very high pitched noise right when this problem started. Now the search is on for a new one, not sure what to go with, this was rock solid until it failed, I expected it to last more than 18 months!!",
+      "rating": 1.0,
+      "verified": true,
+      "author": "Gxtr",
+      "helpful_votes": 0,
+      "publication_date": 20130915
+    },
+    {
+      "title": "Spectacular router",
+      "text": "Ordered this router because we were having trouble with our kid's Xbox Live experiences. They couldn't get an open NAT to play with their friends on our lesser Netgear router that this replaced. I'm not super techy so suffice it to say this did the trick and the kid's are happy. Also running our home network, Satellite receiver and Audio video reciever through it flawlessly. Couldn't be happier with this. Wish I knew how to use the 5 ghz band, but haven't had time to figure it out.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "David_Jr",
+      "helpful_votes": 0,
+      "publication_date": 20121130
+    },
+    {
+      "title": "Coverage Issues; Its Going Back",
+      "text": "We have at least 10 wifi enabled devices in our home. Up to 5 may be connected to them at any one time. Our house is a 2 story bilevel and has approximately 1400 square feet. This range of this router is awful. In our bedrooms, it only provides \"fair\" wifi level service. Our Roku (for streaming video) has ongoing issues maintain a connection with this router as do our other devices. This one is going back. Save your money.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "Jennifer Sahrle",
+      "helpful_votes": 0,
+      "publication_date": 20121008
+    },
+    {
+      "title": "Got it at a great price.",
+      "text": "This router has great range and the speed is great. It was a little bit of a learning experience setting it up as opposed to my older ones but not bad if you read the instructions. I like the fact that you can set up 4 seperate networks on it as I have several laptops of different ages and acouple of the older ones do not like the WPA or WPA2 security . This lets me run one as the older wep security for the older laptops and WPA2 on the newer ones. I have had it for about a half a year now and would recomend this highly.",
+      "rating": 4.0,
+      "verified": true,
+      "author": "Brenda K. Caskey",
+      "helpful_votes": 0,
+      "publication_date": 20130211
+    },
+    {
+      "title": "Waste of money",
+      "text": "I bought this router five months ago and i wish I never had. It's not consistent. It has to be reset about every week or so. Laptops and other devices that join and rejoin the network take a long time (2-6 minutes) to connect. They do not automatically connect even if the network is remembered. Customer service is very frustrating. They are polite, but they didn't give me any ideas I hadn't already tried. Waste of money.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "KZuer",
+      "helpful_votes": 0,
+      "publication_date": 20130130
+    },
+    {
+      "title": "Very unreliable",
+      "text": "I usually either like a product or don't. Working with Time Machine has been anything but easy. It worked for a month and then lost all ability to connect to the external hard drive. The wifi signal is intermittent... sometimes you'll pick it up and sometimes you won't. My internet is fine with hard wiring so it's clearly the router... very dissatisfied! If you're a Mac user please spend the extra on an Apple wifi... such as the Time Capsule.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "TNT",
+      "helpful_votes": 0,
+      "publication_date": 20131110
+    },
+    {
+      "title": "Never using Netgear again after the 3800",
+      "text": "I'm using the most up to date firmware 1.0.0.38 and still I'm constantly losing connection. I have an old Linksys that I had to dig out the closet to replace this one's complete lack of stability. Very disappointed. This was my first time buying Netgear and I spent a good amount on it because I was impressed with the feature set. Turns out I can't get the most basic feature - internet connectivity. Won't buy Netgear again.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "M. Toro",
+      "helpful_votes": 0,
+      "publication_date": 20120721
+    },
+    {
+      "title": "Dead after less than 2 years",
+      "text": "Woke up this morning to find my Internet is not working. Upon investigation, realized this router was emitting an very high frequency buzzing sound. Immediately knew that it was the sound of a capacitor leaking. Router no longer broadcasts, and is basically dead. Cannot find a wireless signal even 3 feet away. Have contacted Netgear, but am a little disappointed that this router didn't even last 2 years. Purchased on 03/01/2012 and is broken 02/13/2014. Quality should be a bit higher, especially given that this router is on the higher end of the consumer spectrum.",
+      "rating": 2.0,
+      "verified": true,
+      "author": "Mike",
+      "helpful_votes": 0,
+      "publication_date": 20140214
+    },
+    {
+      "title": "This is the best Router I have ever owned",
+      "text": "If you are thinking about running OpenWRT then this is a home run ! I looked at NetGear after Linus said he was looking at the WNDR4500 model. I am glad I bought the WNDR3800 N600 Premium Edition as it has full OpenWRT support. I am writing to you now from my Chromebook and it is connected through wifi to the WNDR3800 running OpenWRT. I saved money and also got the best router. Thank you.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Rodney Ross",
+      "helpful_votes": 2,
+      "publication_date": 20130401
+    },
+    {
+      "title": "Pretty amazing if it only have worked!",
+      "text": "Received it, unpacked, installed only to find out that it keeps dropping internet connection on wireless intermittently (at about once in 10-15 minutes rate). Tried variety of different configurations, to make sure it really is a problem, and , as a matter of fact, it was. Netgear support forums have all the info. It's a shame that such a great product, rich in features and possibilities, just does not do what it has to do on the first place - keep stable wireless connection.",
+      "rating": 2.0,
+      "verified": true,
+      "author": "MazBros",
+      "helpful_votes": 0,
+      "publication_date": 20120827
+    },
+    {
+      "title": "I downgraded the firmware on this and then immediately flashed DD-WRT which is working fine. Lack of an external antenna does re",
+      "text": "No complaints. I downgraded the firmware on this and then immediately flashed DD-WRT which is working fine. Lack of an external antenna does result in a weaker WIFI signal compared to my old router but I'm trying to eliminate WIFI except for portable devices as much as I can.",
+      "rating": 4.0,
+      "verified": true,
+      "author": "GNINSC",
+      "helpful_votes": 0,
+      "publication_date": 20160404
+    },
+    {
+      "title": "one of the BEST!",
+      "text": "I have tried Asus rtn 56u and Netgear WNDR37AV finally i got WNDR3800. I wasn't satisfied with Asus it looks good on the reviews but too many issues.Wndr37av was really good but not satisfied as WNDR3800.It has better specifications and features. Wireless file transfer speed and quality is really good and HD streaming is just awesome.Strongly recommended .get this one if you are consider buying Asus rtn56u.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "ksd",
+      "helpful_votes": 0,
+      "publication_date": 20120103
+    },
+    {
+      "title": "I really like the looks of this product",
+      "text": "I really like the looks of this product. It has 4 ports for connecting to external devices. However, I am disappointed it the range of this product. The literature say 300 feet. That must be clear air space where the signal is not being impeded by wall, floors, roofs, etc. Also the 5G capability limits the through put to less than the default setting.",
+      "rating": 3.0,
+      "verified": true,
+      "author": "Paul Carmichael",
+      "helpful_votes": 0,
+      "publication_date": 20150105
+    },
+    {
+      "title": "If I could give it negative stars, I would",
+      "text": "I bought this router last fall and have had nothing but issues with it. I get constant drops on both 2.5 and 5 ghz. I've updated the firmware to latest and greatest, no effect. It also does not work with my external hard-drive. It just drops the wireless every time I tried plugging it in (that is when it was even working). Please, do yourself a favor, don't buy this item. I use Amazon reviews a lot when deciding on what to buy. To my discredit, I don't always return the favor and write about my experiences. So, I'm doing it here. Do Not Buy! Be Warned.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "Joseph Whaley",
+      "helpful_votes": 0,
+      "publication_date": 20120801
+    },
+    {
+      "title": "Stops working after one year",
+      "text": "STOP! The 2.4 GHz radio functionality (which most devices use to connect) failed completely shortly after one year of operation. There is simply no ability to connect a device any further than 12 inches (30 cm) away from the router. After 10 days of frustration with NETGEAR support (don't waste your time) they stated that the unit was defective and I would have to buy a new one. If you are reading these reviews in the most recent order you will see that numerous customers are experiencing exactly the same failure of the modem after 13-18 months of operation.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "pwhuk",
+      "helpful_votes": 3,
+      "publication_date": 20130824
+    },
+    {
+      "title": "Netgear N600 is the Worst Router Ever!!!!!",
+      "text": "We purchased this router the Netgear N600 from Amazon on May 27th. Our router has been in use now for no more than two weeks and is now broken. My husband and I were watching Netflix on his PS3 and it just died. It no longer connects to any devices and omits a high pitched sound. I am furious! I went from a belkin which died in about a year to paying $100 for a Netgear N600 which died in less than a month. Do not buy this piece of garbage or you will most likely be sorry like me.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "joy9281",
+      "helpful_votes": 0,
+      "publication_date": 20120613
+    },
+    {
+      "title": "Worked very well until radio abruptly died at 23 months.",
+      "text": "The router was connected on a home network with several PCs, a TV, a Wii and a range extender. The router is straightforward to configure and maintain. I found it to only rarely need a reboot and almost never to drop the signal. Then abruptly the radio dropped to only transmitting about 5' (no matter what band). A check of web forums reveals that sudden failure of the radio on this model is a known defect. It looks like it is helpful to read the negative reviews on routers and to note their number.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "Math & music guy",
+      "helpful_votes": 0,
+      "publication_date": 20141021
+    },
+    {
+      "title": "So Far, So Good.",
+      "text": "Have only had the router for several weeks, but it is performing brilliant Setup was easy and range is excellent. There are more features than I'll use and I have a serious home network. The stand is well designed and detachable. I've never had a router last longer than a year without issue, so we'll see how this one does. I also have not hooked up my four WNHDe111 Bridges yet, but supposedly it is easy.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Mr. Reed T. Page",
+      "helpful_votes": 0,
+      "publication_date": 20130509
+    },
+    {
+      "title": "Works great with CEROwrt to eliminate bufferbloat and make the network faster",
+      "text": "I have been using this Netgear WNDR3800 as a secondary router to test the CEROwrt firmware since I bought it in January 2013. I just put it into production service because my trusty Linksys WRT54GL (running DD-WRT) finally died. The firmware definitely helps with lag and delays when doing file up/downloads. Google CEROWRT to learn more about this project - the network you save can be your own.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Rich-Lyme",
+      "helpful_votes": 0,
+      "publication_date": 20130906
+    },
+    {
+      "title": "Works like a charm",
+      "text": "This product came with instructions to set up and change password online. I couldn't figure out how to do that. I was able to set it up and found the password on the bottom of the devise. Works like a charm. Love it.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "regina brewster-jenkins",
+      "helpful_votes": 0,
+      "publication_date": 20150803
+    },
+    {
+      "title": "Wonderful, far reaching modem",
+      "text": "I have a (more expensive) D-Link XTreme as a primary router and this one as a secondary to serve the Master Room. Actually it works better than the primary one, it reachs the office where the D-Link is located but the D-Link does not reach the room where the N600 is. Definitely recommend this one.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "claudiotr",
+      "helpful_votes": 0,
+      "publication_date": 20140316
+    },
+    {
+      "title": "Ok but firmware could be better",
+      "text": "In general, I am satisfied with the router. It would be better if 1) 1.0.0.25 has been beta for a long time. I can't find when netgear will officially released it. What does it fix? Besides, when you upgrade the firmware yo need to write and manually re-enter your setup/configuration. 2) remote access over the internet to the USB is slow. You could either use admin account or guest account with no password. There should be other/more account such that I could have better control of accessing some files. [3/13/2012] 1.0.0.25 is stil in beta! Just wonder when it's released.",
+      "rating": 4.0,
+      "verified": true,
+      "author": "Smartmove",
+      "helpful_votes": 0,
+      "publication_date": 20120129
+    },
+    {
+      "title": "Works extremely well",
+      "text": "I upgrades from a Netgear N300 router (100Mb). The older router was having some problems after a few years. This router upgraded me to full Gigabit. My cable modem supports Gb as well as my desktop and 2 laptops. It has better wireless N support and I'm seeing greatly improved throughput for the wired connections. I have one laptop with wireless N and see 270Mb of wireless throughput.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "M. Wendel",
+      "helpful_votes": 0,
+      "publication_date": 20121209
+    },
+    {
+      "title": "Poor Connectivity",
+      "text": "I purchase the router in May of 2012. It worked great for four months. Now the wireless won't stay connected until I reboot the system. The main problem is that it constantly drops connection and has to be rebooted to reconnect. This is the most annoying feature. I expect a router of this quality and cost to continuously work without interruption. I am using a MAC, a android tablet, PC laptop and two android phones.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "EJ",
+      "helpful_votes": 4,
+      "publication_date": 20120918
+    },
+    {
+      "title": "Underpriced. Loaded with features.",
+      "text": "Has more features than I know what to do with. Nonetheless, easy to setup. Administrative web interface well laid out. A little slow to load administration web pages but not a big factor. Sleek, unobtrusive appearance, doesn't have a lot of distracting blinking lights.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Yu",
+      "helpful_votes": 0,
+      "publication_date": 20140311
+    },
+    {
+      "title": "Works very well for us!",
+      "text": "We have two hard-wired PC towers, a Western Digital 'My Book Live' storage drive, one laptop, LAN Printer, MagicJack land phone, and a NetGear GS105 5 port ethernet switch onto the router as well as wireless connections to one iPad2 tablet and two Galaxy SIII's and we are satisfied with the results. We also videostream HULU Plus. The router does a great job.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "ChicagoBearFan",
+      "helpful_votes": 0,
+      "publication_date": 20121108
+    },
+    {
+      "title": "WNDR3800 is great not s single glitch.....",
+      "text": "Installed in five minutes replacing my WNDR3300.... Gigabit interface plugged and played on all three computers. Wireless connected on first try. Setup menu for routerlogon worked really well. Note on wireless, even though Windows 7 shows same speed in Mbits per second for my recieving adapters all my pages load faster while using Google Chrome, IE9, Firefox, and Opera. Really has improved my wireless experience. Have not used any of the fancy bells and whistles yet, have not found a need, only turned on Video Mode. My Wii connected and runns like a champ. No problems at this time... Good job Netgear....",
+      "rating": 5.0,
+      "verified": true,
+      "author": "George Crandall",
+      "helpful_votes": 0,
+      "publication_date": 20120527
+    },
+    {
+      "title": "easy to set up and WEP protect",
+      "text": "This was purchased for my child in college that had just moved out of the dorms into their own house w/ 4 other students. This router was the preferred hardware by their internet provider and it is was rated for multiple users simultaneously. It has delivered on all promises and worked flawlessly as of this date. No complaints, easy to set up and WEP protect... A Good buy!",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Attababyred",
+      "helpful_votes": 0,
+      "publication_date": 20141019
+    },
+    {
+      "title": "Plug and surf!",
+      "text": "Bought this router to replace a 3 year old Belkin model that had spotty coverage, plus the 3 antenna had broken off. I purchased this unit based on the Amazon and CNet reviews. Setup was simple - hook up to modem, hook up to laptop, set passcode. Took me more time to update the network name and passcode on all of the wireless devices in the house than to setup. The signal strength is excellent throughout the entire house and I haven't touched the unit since I hooked it up ~1 month ago. The look is sleek and slim and doesn't have any external antennas.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "jjms",
+      "helpful_votes": 0,
+      "publication_date": 20120110
+    },
+    {
+      "title": "Fail, Stopped working after a week.",
+      "text": "I have been a Netgear customer for over 8 years, but this time this item disappointed and failed me. Everything started off well, both the 2.4 and 5 networks worked fine for a few days. Then the trouble started. All devices laptops, phones, roku failed to connect, the router needed to be powered down and restarted, then it would work well for the next few hours and again no connection. Mailing the device and package back to Amazon today. I just hope this was a bad piece that I got, things really went well on installation and the first few days, but unfortunately went down the drain pretty quickly. Too bad Netgear!!!",
+      "rating": 1.0,
+      "verified": true,
+      "author": "ASHISH S KELKAR",
+      "helpful_votes": 19,
+      "publication_date": 20111110
+    },
+    {
+      "title": "Wireless router",
+      "text": "I purchased this to replace my Dlink router that was giving me problems with loosing itself (needing a power cycle quite often). It has not been to bad. It resets itself periodically, but comes back quickly. I also like the stronger signal and speed being Wireless N.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Joe Nikstenas",
+      "helpful_votes": 0,
+      "publication_date": 20130528
+    },
+    {
+      "title": "Very good router",
+      "text": "Installed this router a month ago to upgrade an outdated Netgear model. It has worked flawlessly. The dual band is nice as we have 3 laptops that run on 801.11n that can utilize the 5ghz band leaving the 2.4ghz band for the ipods/pads and PS3. Immediately noticed a dramatic speed difference with download speeds doubling and in some cases quadrupling (up to 40mbps with Comcast Blast). The parental controls are great and customizable and work very well. The on-screen dashboard is very useful for controlling the settings. The video mode on the 5ghz band works flawlessly with Netflix streaming. Overall a great router!",
+      "rating": 5.0,
+      "verified": true,
+      "author": "thisgohere?",
+      "helpful_votes": 0,
+      "publication_date": 20120125
+    },
+    {
+      "title": "Jury is still Out",
+      "text": "When I first installed this router it went well, fairly easy for a moderate tech guy to set up. Then it started going out both wireless and ethernet and I was resetting it weekly which is a big pain. Then the most recent firmware upgrade seems to have cured its ills. As I said the jury is still out.",
+      "rating": 3.0,
+      "verified": true,
+      "author": "Craig Barker",
+      "helpful_votes": 0,
+      "publication_date": 20120926
+    },
+    {
+      "title": "Won't connect to X-Box Windows Media Center via LAN ports",
+      "text": "I purchased the WNDR-3800 to replace a WNDR-3400, I wanted the 1Gig LAN ports between my PC and WHS-2011 machine. The WNDR-3400 was working fine, X-Box360 connected via LAN port, I could stream video between my PC, WHS-2011, and X-Box with no issues. Replaced the 3400 with the 3800, all streaming stopped, X-Box would not even display PC's on the wired network. Tried multiple configurations, nothing worked. For whatever reason, the WNDR-3800 appears to be crippled when it comes to media sharing/X-Box360 on the LAN ports. After a weekend of troubleshooting, I am giving up on the router and sending it back, for $130 I really expected more... My WNDR-3400 was a $40 re-furb unit that works fine.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "Nascar Junkie",
+      "helpful_votes": 0,
+      "publication_date": 20120213
+    },
+    {
+      "title": "Working great",
+      "text": "Purchased this router months ago and is still woking great. It is a little more powerful than the last Netgear router. I have had to reset it maybe once a month becuase it lost connection with the internet but have not had to do that for two month now.",
+      "rating": 4.0,
+      "verified": true,
+      "author": "Dean",
+      "helpful_votes": 0,
+      "publication_date": 20130331
+    },
+    {
+      "title": "... it with DD-WRT or OpenWRT and you'll have a super stable router that won't let you down",
+      "text": "Flash it with DD-WRT or OpenWRT and you'll have a super stable router that won't let you down.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "GreatStuff",
+      "helpful_votes": 0,
+      "publication_date": 20161017
+    },
+    {
+      "title": "Thumbs Up - Netgear WNDR3800",
+      "text": "Right out of the package thewas easy to set up and easy to use. Pros: Basically just plug it in as instructed and turn it on..[poof] solid reliable dual band wifi connectivity for all my devices. Simple admin interface and plenty of advanced settings for the more technically gifted. iPad app to monitor/control the device is a neat unexpected feature. Cons: Really grasping for straws here but a second USB port on the device would have been nice (other later models in fact offer this).",
+      "rating": 4.0,
+      "verified": true,
+      "author": "John G Bivona III",
+      "helpful_votes": 0,
+      "publication_date": 20121024
+    },
+    {
+      "title": "Fast, consistent performance",
+      "text": "Best network purchase I've made to date. connected device, printer, external hard drive, two pcs, cell phones w/in 20-30 minutes. With multiple wireless devices in the home, the performance has consistently been good (streaming movies while working or surfing the web). Device stays relatively cool and as of week three, I would recommend this device.",
+      "rating": 4.0,
+      "verified": true,
+      "author": "borg1queen",
+      "helpful_votes": 0,
+      "publication_date": 20120107
+    },
+    {
+      "title": "Easy to use and great range",
+      "text": "I am in a townhouse and this router is hooked up to a cable modem. It set up very easily and the interface is excellent. It broadcasts on two bands and the range is terrific. I can pick up maximum signal bars on my iPhone and laptop from pretty much anywhere in the house and the yard. It's a great deal.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "T. Sacco",
+      "helpful_votes": 0,
+      "publication_date": 20120831
+    },
+    {
+      "title": "Great N600 based router...",
+      "text": "This is a super dual band router, both 2.4 and 5Ghz router... The Current crop of AC router are 5 Ghz only and if you have older things that are trying to get on it you will not be able to on the newer AC units..",
+      "rating": 5.0,
+      "verified": true,
+      "author": "TinkerToyTech",
+      "helpful_votes": 0,
+      "publication_date": 20130824
+    },
+    {
+      "title": "Works great with OpenWRT",
+      "text": "This is the reference platform for the Bufferbloat research firmware (open source). [...] Has good wireless coverage and using CeroWRT eliminates problems with multiple up and downloads causing huge delays. Didn't spend a lot of time running the stock firmware.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "reluctantuser",
+      "helpful_votes": 0,
+      "publication_date": 20130308
+    },
+    {
+      "title": "Pretty good once you get past the dropped connections (.38 firmware and/or static channel number)",
+      "text": "I like all the features. Range is great. I had some initial issues with connections being dropped. Following some online advice I downgraded the firmware to the .38. I also set the wireless channel to a static number (instead of auto). I have not had problems with dropped wireless connections since then. I'm not sure which change fixed the dropped connections.",
+      "rating": 3.0,
+      "verified": true,
+      "author": "Randall T.",
+      "helpful_votes": 0,
+      "publication_date": 20131210
+    },
+    {
+      "title": "Don't buy.  2 stopped working",
+      "text": "Bought this based on reviews. It stopped working within the first 3 days. I returned it and received a new one. It stopped working after 60 days. No power surges, or other anomalies. It was working at noon and at 2:00 it wasn't. Tried everything. Nothing. I hooked up my old Belkin out-of-date router and I am back in business.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "sullyman",
+      "helpful_votes": 0,
+      "publication_date": 20120423
+    },
+    {
+      "title": "Router stop wi fi transmisions after 2 week working",
+      "text": "after a week operation started ringing and wi fi is no longer visible on my pc, cell phone and tablet. Approached only if the device detected at 50 cm from the router and only with 1 or two bars. This upset me because I did not expect something so badly designed and very robust for the price you pay. I hope Amazon and netgear suggest me about the steps to the guarantee of the product or refund. In the seven years I've been shopping at Amazon, is the first time I receive a defective product, which affects the confidence in this site for future purchases.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "pabloegh",
+      "helpful_votes": 0,
+      "publication_date": 20120709
+    },
+    {
+      "title": "Had to return due to conflict w/ Centurylink dsl modem",
+      "text": "After numerous hrs on phone with both Centurylink and netgear I finally gave up and had to return the router. Centurylink said the router was interfering with their modem and Netgear had to fix it. Netgear twice downloaded the same firmware I had already downloaded, assured me the problem was addressed but nothing really changed. At least once a day I had to reboot both the modem and router. And router always had to be rebooted after modem or it wouldn't come up.",
+      "rating": 2.0,
+      "verified": true,
+      "author": "david daiker",
+      "helpful_votes": 0,
+      "publication_date": 20130308
+    },
+    {
+      "title": "Very Powerful and reliable",
+      "text": "This thing works great and is pretty much flawless. I do have to reset it every once in a great while (every two months or so) to get it working properly, but it's not much of an inconvenience. The wireless signal is very strong, going through all walls, into the basement, and even giving me wifi up to about 500 feet from my house.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "carnivalli",
+      "helpful_votes": 2,
+      "publication_date": 20130410
+    },
+    {
+      "title": "Beware of charter cable model.",
+      "text": "The unit is good. I ordered a refurbished unit and it was actually a Charter cable model... It works ok, but the firmware cannot be updated.",
+      "rating": 3.0,
+      "verified": true,
+      "author": "RyanK",
+      "helpful_votes": 0,
+      "publication_date": 20150323
+    },
+    {
+      "title": "Frequent signal drops",
+      "text": "I decided to splurge and spend the money for this \"Premium\" router. It worked for about 3 weeks and then frequently dropped the signal. I called Support twice and was told it was interference from my neighbors signal and to change the channel. I have changed the channel multiple times and the signal still drops. For the money I paid you would think this wouldn't be an issue, but it is extremely frustrating. I am sending the unit back and trying a different brand.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "dadsrule",
+      "helpful_votes": 0,
+      "publication_date": 20120127
+    },
+    {
+      "title": "Router Rocks",
+      "text": "I have installed 10 of these and they have all worked well in fact customers have remarked that their internet was noticeably faster afterwards. As usual your mileage may vary and defective units do happen. Amazon has a great return policy.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "N. Thompson",
+      "helpful_votes": 0,
+      "publication_date": 20120606
+    },
+    {
+      "title": "Great Product!!!",
+      "text": "Taught me a lot about the New Wireless Security measures I needed to implement. Purchased to replace an older model; which was slower. Would highly recommend to others. Wish it had a users manual.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "S. E. Flinchum",
+      "helpful_votes": 0,
+      "publication_date": 20130117
+    },
+    {
+      "title": "WNDR3800 Premium Edition",
+      "text": "I have been using WNDR3800 Premium Edition for the last 2 weeks. As of now I am very happy to have this. I have been using \"b\" router before, now I could see a huge leap in performance with this router comparing my earlier one. Just to compare my old router, I was getting 2 Mbps download speed wireless on a 20 Mbps wired speed with my old b router. Now I am getting 20 Mbps wireless with WNDR3800. Printer works wireless using the USB port perfectly. Also the USB hard disk works perfectly fine. I am very happy to have this router.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "naapa",
+      "helpful_votes": 0,
+      "publication_date": 20120210
+    },
+    {
+      "title": "Excellent router!",
+      "text": "When I first bought this, it was fairly new and had some minor glitches like dropping wifi signal (seldomly). After a couple firmware updates, I haven't had a single wifi drop. In my household we have 3 game systems, a pc, 2 laptops, 2 phones, a WD live TV media streamer and a kindle fire all connected to wifi. With all this connected, the speed is still great and we never get dropped signals.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "michael stalvey",
+      "helpful_votes": 0,
+      "publication_date": 20130410
+    },
+    {
+      "title": "Review for Netgear N600 WNDR3800",
+      "text": "Excellent wireless router. You won't be dissapointed with this product. Easy to install, good features and it is DLNA certified!! which means if you have any other DLNA certified product on your network (TV, Blu Ray, etc) they can easily communicate between them. So if you have any USB storage device connected to your router you will be able to see/play the content (compatible pictures, music and videos) anywhere in your network!",
+      "rating": 5.0,
+      "verified": true,
+      "author": "M. A. Filho",
+      "helpful_votes": 0,
+      "publication_date": 20111015
+    },
+    {
+      "title": "don't use hard-disk",
+      "text": "- I bought this one for mac time-machine with usb hdd, but it breaks a lot. - when time-machine or dlna indexing is running, even network speed goes down (slow hardware?) - I gave up using HDD, but still sometimes (1-2 times per month) I need to restart router. it's unstable",
+      "rating": 2.0,
+      "verified": true,
+      "author": "Donghyun Kim",
+      "helpful_votes": 0,
+      "publication_date": 20140310
+    },
+    {
+      "title": "A router that really does the job...",
+      "text": "The NetGear N600 Wireless Dual Band Gigabit Router - Premium Edition (WNDR3800)is router that truly does what it claims to do.Sets up fast and has a great strength level for my other computers within my work group to connect to. I love it's down streaming, it down streams fast and clear.My movies from NetFlix have really improved in clarity since I've purchased this router.I also got a great price for it through a seller on Amazon.com.So far it's a triple AAA+ router for me and I feel it will remain this rating for sometime to come.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "C. J. G.",
+      "helpful_votes": 0,
+      "publication_date": 20110915
+    },
+    {
+      "title": "Super easy",
+      "text": "This router is by far the easiest to set up. I could not believe how simple the instruction were. I highly recommend this for anyone that may not feel comfortable with the complexity of computer hardware. Bravo to Netgear~~",
+      "rating": 5.0,
+      "verified": true,
+      "author": "bjm",
+      "helpful_votes": 0,
+      "publication_date": 20120124
+    },
+    {
+      "title": "Great Product",
+      "text": "Excellent value for a quality product. After installation all my devises were notably faster and no longer had buffing issues.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Eugene",
+      "helpful_votes": 0,
+      "publication_date": 20140622
+    },
+    {
+      "title": "Bust",
+      "text": "After 5 hours and 3 techs, the router was deemed defective. It was a waste of time and money. I am happy that Amazon paid shipping both to and from my home. So the ordeal only cost me 5 hours in time and 2 tylenol. Am waiting to try another router, but need to forget this experience first.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "mocha mamma",
+      "helpful_votes": 0,
+      "publication_date": 20120222
+    },
+    {
+      "title": "Constant disconnects with 2.4GHz @ 300Mbps",
+      "text": "Thought I would roll the dice and hope that I would either get a WNDR3800 that worked or that the wndr3800-firmware-version-1.0.0.25(beta) would fix any disconnect issues. I lost on both counts. There are too many forums full of people waiting for some magic fix to this problem, and I can attest to the fact that wndr3800-firmware-version-1.0.0.25(beta) isn't it. I work from home and can't afford to mess around with this problem. Just ordered a Linksys E4200 to replace this faulty product.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "Scriptor98",
+      "helpful_votes": 2,
+      "publication_date": 20120305
+    },
+    {
+      "title": "Great Router",
+      "text": "I had a friend recomment this router and it is great. I have a fast fiber internet and did not want to slow it down with an average router. This one is great. You get what you pay for.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "doubleeagle",
+      "helpful_votes": 0,
+      "publication_date": 20130319
+    },
+    {
+      "title": "i want to like this router,but......",
+      "text": "I bought this router because it had good reviews on a couple of reputable websites, maybe i should have kept looking.I am not a computer guru nor do i have a complex wireless setup, just a couple of desktops a gaming system and some smartphones.this is a really nice router, easy to set up, strong signal,lots of features i will probably never use, BUT it keeps dropping the signal ! i updated to the latest firmware but still have to reboot the router at least once a day, frustrating.not sure what my next move is,mess with it some more or send it back.",
+      "rating": 2.0,
+      "verified": true,
+      "author": "coburn",
+      "helpful_votes": 0,
+      "publication_date": 20111223
+    },
+    {
+      "title": "Netgear Router",
+      "text": "The service was quick to deliver. And that was helpful because our older router was dying a slow death... This router is fast and all our wireless electronics operate faster. We are thrilled!",
+      "rating": 5.0,
+      "verified": true,
+      "author": "LB Moreno",
+      "helpful_votes": 0,
+      "publication_date": 20121124
+    },
+    {
+      "title": "Too may dropped connections",
+      "text": "Product is great when it's working. However, regularly drops connection with no external indication there is a problem. I'm using this at my 87 year old mother-in-law's house which results in lots of frustrating phone calls from 3 time zones away. Problem is usually solved by powering down the unit and re-starting. This is the last piece of Netgear I will ever buy. Find something more reliable.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "John R. Mcbride",
+      "helpful_votes": 0,
+      "publication_date": 20130218
+    },
+    {
+      "title": "Don't Buy This Product!",
+      "text": "I bought this product less than 1 year ago from Amazon. The product worked great for almost a year. Now the wi-fi doesn't work. You have to pay for technical support that is in India. Considering the cost of this compared to others, buy the others. I have a backup Cisco and D-Link that still operate even though they are several years old. I will never consider buying another Netgear product.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "JB",
+      "helpful_votes": 0,
+      "publication_date": 20121114
+    },
+    {
+      "title": "Reliable and easy to set up",
+      "text": "Easy to install & configure, and reliable for an advanced home network with a lot of demands. We have been through lots of wireless routers and this one has proven to be a keeper.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Patrick W. Tice",
+      "helpful_votes": 0,
+      "publication_date": 20131126
+    },
+    {
+      "title": "Major improvement",
+      "text": "Had been struggling with downloads and videos for months. Blaimed my ISP, viruses, my computer fixer, No help anywhere. I had my ISP service rep out for another problem. I asked him about my difficulty. He checked my router, an older model Linksys G, and said that was the problem. I sent off to Amazon for a Netgear 600. It took about 10 minutes to install, including the wireless connect password. It works perfectly. All of my download and video problems were gone.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "John L. Laughlin",
+      "helpful_votes": 0,
+      "publication_date": 20111125
+    },
+    {
+      "title": "Netgear WNDR3800 N600",
+      "text": "I would have to say this router when received I thought OMG not another router that does not fit our needs... After a few days of fooling around with it.. I called the company tech support. (They give 90 days Free tech support.) They walked me threw the whole thing. What a godsend. The router is now working like it should. We have allot of wireless devices and our wireless devices would drop all the time. When we hooked this up the security was too high.. Try WEP for wireless stays connected. We are happy now with this router compared to our Linksys that was weak.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Summer",
+      "helpful_votes": 0,
+      "publication_date": 20120513
+    },
+    {
+      "title": "Great wireless",
+      "text": "Ope ned the box, did the setup in a few minutes. I did wind up calling the company due to a setup problem but it was fixed in less than a minute. Fantastic unit and I would buy from this seller again.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "mb4574",
+      "helpful_votes": 0,
+      "publication_date": 20120227
+    },
+    {
+      "title": "Caught on fire...",
+      "text": "The router caught on fire... I am really not sure how that happened but in the end, it ended up in my trash can. Routers shouldn't catch on fire ... bad WNDR3800!",
+      "rating": 1.0,
+      "verified": true,
+      "author": "J. A. Mohr",
+      "helpful_votes": 0,
+      "publication_date": 20120918
+    },
+    {
+      "title": "Good base for DD-WRT",
+      "text": "Nice looking router. Default firmware looked a little crazy, I didn't mess with it much. Installing DD-WRT was a breeze and it's a full featured router. Bigger than some routers, but it's not bad looking.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "John M. Hobbs",
+      "helpful_votes": 0,
+      "publication_date": 20131016
+    },
+    {
+      "title": "SUPER EASY",
+      "text": "Super easy to install and use for a girl who hasn't a clue when it comes to this kind of stuff, and have had it for almost 2 years with no issues",
+      "rating": 5.0,
+      "verified": true,
+      "author": "photospace",
+      "helpful_votes": 0,
+      "publication_date": 20130208
+    },
+    {
+      "title": "Connection only in same room as router",
+      "text": "Had an old d-link DIR 625 that I could use in any room throughout the house. The Netgear works when I am in the same room but that's it. Tech support takes forever and a day.then it is not helpful. Lots of making sure they can charge for support but no resolution. Only changed because Charter recommended this router. Bad idea.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "purchaser",
+      "helpful_votes": 0,
+      "publication_date": 20140701
+    },
+    {
+      "title": "Netgear N600 Wireless Router Review",
+      "text": "After much review, I selected the Netgear N600 WNDR3800 router. The setup was extremely easy, the speeds are much faster than my old router, I no longer have to constantly unplug the old router to reset the box, and the security seems to be working great. I plan to setup our printer through the router for wireless printing, but other items on the honey-do-list have taken precedence. I would recommend this router to anyone looking to upgrade or purchase their first wireless router.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Thomas A. Stryker",
+      "helpful_votes": 0,
+      "publication_date": 20120314
+    },
+    {
+      "title": "I like Netgear, but this one is no good!",
+      "text": "I've always like my Netgear products until this one. It fails in multiple areas. The time machine functionality simply does not work. It will function for a few days after setup and then the drive's formatting will go bad. Next: the antenna is horrible and the wifi stops working at least once a week, and only resolves if the modem is unplugged. Nightmare! This piece of junk is now in a box in my garage and I've resurrected my circa 2006 Netgear wireless router, which works like a charm.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "James",
+      "helpful_votes": 0,
+      "publication_date": 20120327
+    },
+    {
+      "title": "Five Stars",
+      "text": "Quick to connect and update firmware. Took less than 10 minutes to set my preferences.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Armando",
+      "helpful_votes": 0,
+      "publication_date": 20160725
+    },
+    {
+      "title": "Works beautifully",
+      "text": "What can I say, does everything it states and is easy to navigate. It has all the settings I wanted and expected in a wireless router.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Eric",
+      "helpful_votes": 0,
+      "publication_date": 20130307
+    },
+    {
+      "title": "Drops out continously; Look to buy something else.",
+      "text": "This router is suppose to be the top of the line.. it drops out continously with no fix in sight. Save you money .. don't buy! I wish I could give a score lower than 1.. :)",
+      "rating": 1.0,
+      "verified": true,
+      "author": "TLG&me",
+      "helpful_votes": 2,
+      "publication_date": 20120306
+    },
+    {
+      "title": "Fantastic Platform for OpenWRT or CeroWRT",
+      "text": "Bought to replace my aging DD-WRT based E2000, it's been going strong for weeks and the CODEL queuing management makes a noticeable difference in high-bandwidth activities. If you can find one, best pick it up quick as no one has yet to offer a replacement of equal quality.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Chris B.",
+      "helpful_votes": 0,
+      "publication_date": 20130120
+    }
+  ],
+  "product_meta": {
+    "title": "Netgear WNDR3800 N600 Premium Edition Dual Band Gigabit Wireless Router",
+    "description": "The NETGEAR\u00ae N600 Wireless Dual Band Gigabit Router - Premium Edition (WNDR3800) provides high performance WiFi speed and range required for demanding applications along with a suite of premium features that makes the most out of your home network.\n\nAMAZON.COM\n\n\n\n\nFROM THE MANUFACTURER\n\n\nLOADED WITH FEATURES \u2013 HIGH PERFORMANCE\nThe NETGEAR N600 Wireless Dual Band Gigabit Router \u2013 Premium Edition (WNDR3800) delivers high performance WiFi speed and range required for demanding applications along with a suite of premium features that makes the most out of your home network. Premium features include dynamically selecting clearest WiFi channels, access to connected USB Hard drive from anywhere at any time, dedicated video mode, Time Machine compatible and Genie for easy dashboard control.\n\nThe NETGEAR Difference \u2013 WNDR3800  * ReadyShare Cloud \u2013 Access anytime/anywhere \n * ClearChannel Selector \u2013 Reliable WiFi \n * Video Mode \u2013 Better video streaming \n * Apple Time Machine Compatible\n\nApplications HD video streaming & multiplayer gaming Access files anywhere/anytime Reliable WiFi for better streaming and gaming For PC and MAC households \nNETWORK SPEED\nFaster WiFi Speed \u2013 N600 Dual Band WiFi delivers 300 + 300Mbps for combined wireless speeds up to 600Mbps Gigabit Wired \u2013 Gigabit Ethernet LAN ports are ideal for HD gaming & video and ultra-, high-speed wired networking WIRELESS RANGE \nBetter Range \u2013 Powerful WiFi amplifiers deliver improved wireless range for larger homes RELIABLE CONNECTIONS\nClear Channel Selector \u2013 Dynamically avoids busy Wi-Fi channels for clear and fast wireless connections automatically Video Mode \u2013 Dedicated wireless network for video streaming Simultaneous Dual Band \u2013 Wireless access on both 2.4- and 5-GHz bands concurrently, reduces WiFi interference & doubles total available bandwidth EASE OF USE\nNETGEAR genie\u2122 \u2013 Easy-to-use dashboard to monitor, control & repair home networks CD -Less Installation \u2013 Easy setup for iPads, PC, MAC computers, smartphones & tablets without a cd Push \u2018N\u2019 Connect \u2013 Secure push button WiFi connections using WiFi Protected Setup (WPS) WiFi & Power On/Off \u2013 Convenient power savings to power down the entire router and/or just WiFi SHARING\nReadySHARE\u00ae Cloud\u2021 \u2013 Access and share files on an attached USB hard drive anywhere you have an Internet connection Time Machine Compatible \u2013 Automatic Mac backup to connected USB hard drive, wirelessly Extended Tivo Storage \u2013 Stream TiVo video recordings from a USB drive connected to the router serving as extra storage for your TiVo recordings Open Platform \u2013 Enhance performance and features by installing open source firmware and joining the open router community at www.myopenrouter.com DLNA Media Server \u2013 Find and play media stored on an attached USB storage device on DLNA TVs, game consoles and media players ReadySHARE\u00ae USB \u2013 Wirelessly access and share USB hard drives SECURITY\nLive Parental Controls \u2013 Centralized and easy-to-use website filtering for all devices connected to the Internet via the router Guest Network Access \u2013 Separate and secure WiFi access for guests using your home network Highlighted Icons = Premium Edition Features CHOOSE THE WIRELESS ROUTER THAT FITS YOUR NEEDS\nWNDR3400 WNDR3700 WNDR3800 WNDR4000 WNDR4500 R6300 N600 WiFi Dual Band Router N600 WiFi Dual Band Gigabit Router N600 WiFi Dual Band Gigabit Router \u2013 Premium Edition N750 WiFi Dual Band Gigabit Router N900 WiFi Dual Band Gigabit Router R6300 WiFi Dual Band Router Performance Combined WiFi Speed N600 N600 N600 N750 N900 1750 WiFi Range WiFi Transmit Power To Maximize Range Good Better Better Best Best Ultimate No. Of USB Ports 1 1 1 1 2 2 Ethernet Ports \u2013 4 LAN + 1 WAN 10/100 Ethernet Gigabit Ethernet Gigabit Ethernet Gigabit Ethernet Gigabit Ethernet Gigabit Ethernet USB Storage Access Speed Better Best Best Best Best Ultimate Features Live Parental Control Broadband Usage Meter Guest Networks DLNA Media Streaming CD -Less Install With Smartphones/Tablet Premium Features Genie \u2013 Dashboard Control ReadySHARE\u00ae Print Dedicated Video Mode ReadySHARE\u00ae Cloud ClearChannel Selector Time Machine Compatible TIVO Extended Storage enlarge NETGEAR GENIE\u2122\nEasy-to-use dashboard to monitor, control & repair home networks\n\nenlarge enlarge NETGEAR\n\n\nSee more",
+    "rating": 3.8,
+    "feature_bullets": [
+      "Faster WiFi speed 300+300-Up to 600 Mbps",
+      "Improves WiFi range for medium to large homes",
+      "Wirelessly access & share USB hard drive & printer",
+      "Easy install-Easy setup for iPad, tablets, smartphones & computers",
+      "NETGEAR genie App-Personal dashboard to monitor, control & repair your home network",
+      "Clear Channel Selector-Dynamically avoids busy Wi-Fi channels for clear and fast wireless connections automatically"
+    ],
+    "specifications": {
+      "Product Dimensions": "11.7 x 2.7 x 10 inches",
+      "Item Weight": "1.2 pounds",
+      "ASIN": "B0058NN6CS",
+      "Item model number": "WNDR3800-100NAS",
+      "Customer Reviews": "3.8 out of 5 stars491 ratings3.8 out of 5 stars",
+      "Best Sellers Rank": "#102,992 in Electronics",
+      "Is Discontinued By Manufacturer": "No",
+      "Date First Available": "July 1, 2011",
+      "Manufacturer": "Netgear",
+      "Language:": "English"
+    },
+    "categories": [
+      "Computers & Accessories",
+      "Electronics",
+      "Routers",
+      "Networking Products"
+    ],
+    "price": 38.93
+  }
+}

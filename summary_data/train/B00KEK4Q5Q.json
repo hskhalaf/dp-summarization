@@ -1,0 +1,962 @@
+{
+  "website_summaries": [
+    {
+      "verdict": "If you can afford the hefty price tag, the Linksys WRT1900AC Wi-Fi router is easily one of the best home routers on the market.",
+      "pros": [
+        "The Linksys WRT1900AC Wi-Fi router delivers powerful networking hardware, has great Wi-Fi range and excellent data rates, and supports add-on storage with unsurpassed NAS performance",
+        "It boasts a cool retro design and allows enthusiasts to swap in alternate third-party firmware"
+      ],
+      "cons": [
+        "This is the most expensive -- and possibly the largest -- router on the market",
+        "The current default software doesn't offer enough configuration options for Wi-Fi experts, and the Web interface might require some getting used to for first-time users"
+      ],
+      "aspects": {
+        "Setup": 8.0,
+        "Features": 8.0,
+        "Performance": 9.0,
+        "Support": 8.0
+      },
+      "publication_date": 20140416,
+      "rating": 8.3,
+      "source": "cnet"
+    }
+  ],
+  "customer_reviews": [
+    {
+      "title": "Excellent coverage for my two storey",
+      "text": "WOW!! Excellent coverage for my two storey, large backyard house. All around coverage. When i drive up to my front gate, my phone and tablets connect instantly Throughput is excellent also, to which i attribute to the better coverage. I do hope that this new and improve model has the stamina and durability of the WRT54G which i had for 7 years and it worked fantastic. One issue i had was trying to register the product. The \"product model\" field is not accessible in the registration webpage and i kept getting a run around from different departments each claiming the other being responsible for product registrations. As such to date my product is unregistered.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Anil Beharry",
+      "helpful_votes": 0,
+      "publication_date": 20170830
+    },
+    {
+      "title": "Good router but needs better firmware!",
+      "text": "This is the Version 2 of this product so it has the faster processor. I would recommend to get the full speed of the product to flash OpenWRT LEDE Branches. Its the beginner flash and easy to do. Download the IMG file and flash the file just like you would manual flash an image file to the router. Once its backup you will need to configure the wireless settings. Its like a new rotuer! Its 100% faster!",
+      "rating": 3.0,
+      "verified": true,
+      "author": "TMaC750",
+      "helpful_votes": 3,
+      "publication_date": 20170910
+    },
+    {
+      "title": "It\u2019s superseded by the WRT1900ACS",
+      "text": "Pros: Excellent performance and range Unprecedented throughput speed when testing with second router as a bridge Easy setup Remote access, and management Firmware flashable via OpenWRT QoS feature cuts down time to buffer a video Cons: It\u2019s expensive. Seriously, you have to love this type of stuff to want to pay that much for a home router. Runs warm Can't set 5GHz band to 802.11aconly mode",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Mircea Bascuti",
+      "helpful_votes": 0,
+      "publication_date": 20180910
+    },
+    {
+      "title": "Had for long time and is still working great, and the major plus is dual band",
+      "text": "Am shocked as many others had to be reset this one I have never had too. Had for long time and is still working great, and the major plus is dual band, as it works on the 2.4 for some things as older laptop and more but have a 5.8 that works for phone and more. am very happy with this one as in the past linksys for me had a problem or more and did not last but this one is great.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "nmac",
+      "helpful_votes": 0,
+      "publication_date": 20180519
+    },
+    {
+      "title": "if you like hard reboots every 2 weeks to keep your network running, this is your router",
+      "text": "This router was a very expensive mistake. Running the most recent firmware available, it regularly slows down or just locks up and refuses to pass traffic until it's rebooted. A reboot every 2 weeks on average, will keep this thing running \"smoothly\". Sometimes, the wireless printer is dropped from the network. Other times, it won't issue DHCP addresses to devices, even though there are available addresses to hand out. The decision to \"upgrade\" from an old Airport Extreme to the WRT1900AC was a very bad mistake, followed closely by not returning this pile of hot garbage during its return window.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "pmit",
+      "helpful_votes": 0,
+      "publication_date": 20160705
+    },
+    {
+      "title": "WRT AC1900 works great for me!",
+      "text": "Linksys WRT AC1900. This router has been a solid performer, for the past month I have owned it. I recently upgraded to Comcast Blast. At 150mbps (180 on speedtest.net), my old 802.11N connection was no longer fast enough to keep up with my internet connection. The 802.11AC wireless connection is screaming fast compared to my old Linksys E4200. The DHCP service is working well, with both wired & wireless devices. I have a second device in my office, across the house, that performs as a wireless bridge. This setup delivers full throughput of my cable modem's bandwidth, even wireless. Router is coupled to my Motorola SB6183 cable modem. A winning combination I recommend.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "FranticInFresno",
+      "helpful_votes": 0,
+      "publication_date": 20151029
+    },
+    {
+      "title": "I wanted to like this so bad",
+      "text": "I wanted to like this so bad. I had a Arris, and when TWC noted my speeds could increase from 100 to 300 mps...it gave me a reason to buy a new router and modem. The wifi...it would not stay connected, called their tech support twice, they helped both time, but never really fixed the issue. I had to reset the wife every AM so my devices would re-connect. After 4 days of it, I re-connected my Arris and it worked perfectly. I have no idea what the issue was, like I said; I wanted to like this so much...just didn't work out.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "Desmond",
+      "helpful_votes": 3,
+      "publication_date": 20150926
+    },
+    {
+      "title": "Not good. Version 1 had many problems, but Version 2 much better.",
+      "text": "Concept was good, but actual performance was horrible. Rebooted constantly, 5ghz band kept dropping off, and the web user interface kept going to defaults. Signal was also not very strong... Cheap Zyxel from Centurylink had better range. That being said, this is the older version, or Version 1. There is a newer version, or Version 2 available. There can be tricky to find, but they are available. The WRT1900ac Version 2 is so far working great. You can tell what Version it is on the outside of the box by the bar-code, and the specifications.. Front of box. Version 1: 1.2ghz Version 2: 1.3ghz Above the bar-code. Version 1: Revision D00 Version 2: Revision A01",
+      "rating": 2.0,
+      "verified": true,
+      "author": "Zach Sanford",
+      "helpful_votes": 2,
+      "publication_date": 20150711
+    },
+    {
+      "title": "Excellent router, but takes a good understanding in how to properly use",
+      "text": "I've used Linksys routers many times before, and always been satisfied. This is no different. I'd have to say that setting this up isn't for the faint of heart. There are a LOT of options and settings that can be configured. I'm not saying don't try this, but if you're not very tech savvy, you may want to get help from someone who is more inclined. One feature I definitely love is having a smartphone app that provides access to the router, and let's me control it. Not to mention being able to name devices as I add them, making them much easier to identify.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Danbo",
+      "helpful_votes": 0,
+      "publication_date": 20170206
+    },
+    {
+      "title": "Constant disconnects and orange lights",
+      "text": "As of October 2016 and doing factory resets the orange light keeps occurring. This is definitely my last linksys router. ------------------------ Constantly have disconnects and flashing orange light. Have updated firmware and done factory resets, still have these problems. After spending quite a bit of money on their flagship product and the problems I have had, I would recommend a different company for your (and my) next router. Linksys support did recommend I upgrade from their flagship router to version 2....they were willing to give me a discount for being a current linksys customer. I can't believe this was there recommendation.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "OPTION13",
+      "helpful_votes": 0,
+      "publication_date": 20160424
+    },
+    {
+      "title": "I\u2019ve never spent better money on a router.",
+      "text": "Best money I ever spent on a router. I have 4 laptops, 3 Rokus, 2 iPads, 3 phones and a tablet in addition to significant interference from my neighbors wireless. I\u2019ve run up to three routers at a time to get decent signal. Last night I replaced everything with this one router. My internet is limited to 25/5. Now, in every room, on every device G N A/C 2.4ghz and 5ghz I get perfect signal and full 25/5 bandwidth even on the phones. I even set it to AutoChannel. I\u2019ve never spent better money on a router.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Thomas F.",
+      "helpful_votes": 0,
+      "publication_date": 20170330
+    },
+    {
+      "title": "Range is very good and I don't recall it ever dropping the connection",
+      "text": "This has been very stable for me and I haven't had any of the issues others have reported. Range is very good and I don't recall it ever dropping the connection. But be aware that even though the ad says it is OpenWRT ready that is not true. As of 2018 there is still not a good OpenWRT or DD-WRT firmware for the V1 version, which is what they shipped me (in 2018). Must be clearing out old stock from the warehouse or something.",
+      "rating": 4.0,
+      "verified": true,
+      "author": "Wilbur",
+      "helpful_votes": 0,
+      "publication_date": 20180515
+    },
+    {
+      "title": "Now this is what I call power!",
+      "text": "I have an office that's about 140 feet away from my house and have had a lot of trouble getting a wifi signal with the previous routers and extenders. They all worked great in my home but nothing in my office. This Linksys is awesome. I get a really strong signal and fast internet service in my office. FINALLY!!! I highly recommend this big time!. No other router mentioned that 2.4 is better for range. I had no idea 5.0 was faster but shorter range. That was good info for a guy who hates anything tech.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Alvina",
+      "helpful_votes": 0,
+      "publication_date": 20170801
+    },
+    {
+      "title": "I got 30 on a good day. Too much interference with neighbors maybe",
+      "text": "Boosted my wifi big time. I have the meager 50 Mbps TWC plan. Had a dlink wireless N router and when in the bedroom where the router was, I got full speed, but in the next room, barely 50 feet away if that, I got 30 on a good day. Too much interference with neighbors maybe? Anyhow, got this open box for $144 and I'm not getting full speed and I'm pleased with the performance. I also got an AC USB adapter, but clearly won't need it, so that will be going back.It's got my N system going as fast as it can go with my internet plan.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "OC Birder Trish",
+      "helpful_votes": 0,
+      "publication_date": 20160225
+    },
+    {
+      "title": "Good and reliable",
+      "text": "Running for a few months already and performs well for my needs. I loaded OpenWrt on it and it seems solid. Had some problems with WiFi though as 5.0GHz does not seem stable enough and devices fallback to 2.4GHz connection. But pretty happy with how solid this looks.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "val",
+      "helpful_votes": 0,
+      "publication_date": 20190808
+    },
+    {
+      "title": "Replaced wired ethernet with this beauty",
+      "text": "Excellent unit with pretty incredible data transfer capacity for wireless. I was toying with installing new ethernet cable into a newly purchased house. My kids are gamers and latency and throughput is very important to them. So far this unit obviated the need to wire the house with ethernet. VERY impressive on a practical level and its software has a lot of useful (and expected at this price) applications. Had to buy new dual band wifi adapters for each computer (between 40 and 80 dollars), but the performance is outstanding. Compared to the cost and hassle of wiring ethernet in a house ... this is a great value.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "C. Miller",
+      "helpful_votes": 0,
+      "publication_date": 20140728
+    },
+    {
+      "title": "Linksys is not what they used to be.",
+      "text": "This router disconnects WiFi devices every couple weeks and you must reboot the router in order for these devices to reconnect. Kept waiting for firmware upgrade to address the issue but last firmware update was in June 2015. When I realized no new firmware would be coming out to address the issue I called Linksys to get a replacement. They said I was just outside the one-year warranty period and they refused to send me a replacement. I have seen others on the internet with the same problem. Too bad because I used to recommend Linksys products. Not anymore!",
+      "rating": 1.0,
+      "verified": true,
+      "author": "Greg H.",
+      "helpful_votes": 0,
+      "publication_date": 20160226
+    },
+    {
+      "title": "Stick to ASUS as best in class!",
+      "text": "Been running V1 for almost six months, switching between the native firmware and OpenWRT in search of stability. This unit has a ton of horsepower but firmware is buggy, it requires a manual reboot each week to avoid random drops in wifi connectivity (this includes both default settings and custom settings). I tried OpenWRT as an alternative and ran into similar issues - dropouts after a week of uptime and then major issues in stability on the 5GHz channel. I'm going back to ASUS, they've been solid the past several years... I regret purchasing this unit as it will go into the closet as a backup unit. Linksys also haven't updated the factory firmware in almost a year.... totally unacceptable.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "R. Feltey",
+      "helpful_votes": 0,
+      "publication_date": 20160312
+    },
+    {
+      "title": "so good. I originally had a much older router from ...",
+      "text": "So far, so good. I originally had a much older router from Linksys...back for the Xbox. It has been struggling to handle the volume of devices accessing it so I pulled the trigger and upgraded to this unit. The user interface is so much improved from my previous router that that experience alone warrants a five star rating. Setup was a breeze. All around very pleased. Best selling point is the phone app that allows me to controll access to the internet from anywhere. Kids are in for a surprise this year.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Festive Nachos",
+      "helpful_votes": 0,
+      "publication_date": 20160901
+    },
+    {
+      "title": "Needs Firmware Update",
+      "text": "Some Points of Interest from someone who is not super technical: - This router did not seem to increase range compared to an older Linksys wireless-n router. Not sure if it is meant to or not, but it didn't. - Unless you have a device with wireless ac there really is no point in buying this router. - MOST Importantly, the firmware on this router needs improved badly. There is a problem when you connect a device to the 5GHZ band, where it seems to freeze up. I was constantly rebooting this thing. - In this review, I say not worth the money.",
+      "rating": 2.0,
+      "verified": true,
+      "author": "MyReviewMyStory",
+      "helpful_votes": 0,
+      "publication_date": 20141207
+    },
+    {
+      "title": "This device can knock down walls!",
+      "text": "I was getting about 80% signal loss 60 ft away in my second bedroom with my old Linksys router, the signal having to go through 3 massive Manhattan walls. I even installed a Linksys repeater which worked about 40% of the time. As a last resort before physically running an ugly wire into that room, I bought this device. There's now only a 5% signal loss and I have had zero issues with any of my devices (about 10 connected at any given time) since the first moment this came online.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Tech Junkie",
+      "helpful_votes": 4,
+      "publication_date": 20140815
+    },
+    {
+      "title": "Great so far",
+      "text": "Haven't had this for too long but it was easy to install and has some great features. Still haven't learned them all. I like the guest feature that allows people to sign on with a different password and only have internet access and not total network access. I have some large get together's and it's nice to give guests smart phone access without any worries. Being able to name the connections of people you let use the network is nice too. I always know who's on my network. It's really fast at the moment and working great. If it doesn't perform later on I'll post more info.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "P. Ray",
+      "helpful_votes": 0,
+      "publication_date": 20140716
+    },
+    {
+      "title": "Powerful router with easy connections",
+      "text": "I don't think you can go wrong with a Linksys router and this one hasn't disappointed me yet. Signal strength is great and I have only had to reset it a couple of times due to signal drop of one computer in the home. Resetting is simple - just push the reset button on the back. Set up is very simple and in most cases you can connect additional smart devices simply by pushing a button. I used to constantly lose connection with my Netgear Nighthawk that was less than a year old. Have not had those problems with this router. I highly recommend.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Roxsann",
+      "helpful_votes": 0,
+      "publication_date": 20160601
+    },
+    {
+      "title": "imple, straight forward and effective",
+      "text": "This WiFi router was very simple to set up, using the online step by step guide. It works just fine. 30 feet away in the main living room we now watch via our Amazon fire stick without those annoying buffering breaks. Linking the router to the fire stick was also very simple. (I'm not a tech- savvy person.) Our needs are simple, with only a half dozen devices connected/running at the same time. So I cannot speak to whether this is the latest, hottest, speediest, most connectable device on the market. I can only say it was very simple to set up and it works. No glitches, no problems whatsoever. It has been running flawlessly for several months now.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "D. J. Leedham",
+      "helpful_votes": 0,
+      "publication_date": 20150912
+    },
+    {
+      "title": "Don't plan on using a USB drive",
+      "text": "This router severely disappoints, along with linksys customer service. This is supposed to get excellent transfer speeds when you connect an external drive to the usb 3.0 slot on the router. It gets 3MB/s read speeds, if you're lucky. After reading endless forums with other people that have the same issue, and spending a month going back and forth with linksys level 2 technical support, now I can't return it to Amazon (too late) and linksys won't refund my money. Don't ever buy linksys and don't ever by electronics through Amazon unless you want to risk getting products that don't work and having no recourse.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "Jenny",
+      "helpful_votes": 0,
+      "publication_date": 20160328
+    },
+    {
+      "title": "Learned to hate this device. Unstable, unreliable. Returned it. Glad I didn't get rid of my non-flagship router.",
+      "text": "Sadly, no amount of tinkering or reconfiguration would get this device to remain stable for more than 24 hours. I tried every trick I could find in the forums. reset to factory, flashed old firmware, flashed new firmware, etc. Set the wireless to single band, manual channel, the works. I made sure to not touch the network map function - as this seems to really break things! Overall, I'm sadly disappointed with this device. I really wanted to keep it, but after the 5th reset in a single evening that disrupted family movie / game night... it was time to throw in the towel and accept that that this was never going to work as expected.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "Danniall Williams",
+      "helpful_votes": 0,
+      "publication_date": 20150303
+    },
+    {
+      "title": "Does not handle multiple devices well.",
+      "text": "Wireless Connections dropped repeatedly, even wired connections required the occasional hard reset (power cycle). Unimpressed. For the connected household, I strongly recommend upgrading to a dedicated router with separate wirelesss access point(s). Consider a WAP that advertises 'MIMO' capabilities such as Ubiquiti branded gear.",
+      "rating": 2.0,
+      "verified": true,
+      "author": "C. M. Dobbs",
+      "helpful_votes": 0,
+      "publication_date": 20170709
+    },
+    {
+      "title": "This thing is beyond awesome.",
+      "text": "Ya, it costs way too much for what it does, but it does everything so well and the new GUI is fantastic. I had my entire network with 20+ statip IP devices working in under an hr. Now everything is blazing fast compared to older WRT54G and no more dropped connections! Plus it looks really cool. *EDIT/Update This is the so called problematic V1 model and I have been waiting for anything to go wrong so I can return it for a V2. Bought this back in December and it has not had to be restarted once and UL/DL speeds steady. This one is rock solid.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "theSanDiegan",
+      "helpful_votes": 0,
+      "publication_date": 20160108
+    },
+    {
+      "title": "Watch Out!  Occasionally locks up!",
+      "text": "This router handled port forwarding of my webcams to the internet. On average there were 3 to 4 days per week when access to the webcams was lost. First, I thought my ISP caused this, but eventually, I tracked it down to the Linksys locking up. It is a very complex machine and it depends on continuous internet access to function. I replaced it with a Buffalo WZR-600DHP, which does not lock up, if there is a dropout on the internet.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "Will",
+      "helpful_votes": 0,
+      "publication_date": 20160901
+    },
+    {
+      "title": "30 days after purchase is not returnable so it's is going to end up in the garbage. The worst router ever",
+      "text": "I had problems since the installation. Speed was constantly fluctuating and the distant covered was half of my 5 year old $50 router. Amazon blamed it on my internet provider. I finally had my internet provider visiting my house and they measured the distance...20 feet from the router it was barely reachable. 30 days after purchase is not returnable so it's is going to end up in the garbage. The worst router ever.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "Bart Borusinski",
+      "helpful_votes": 3,
+      "publication_date": 20161031
+    },
+    {
+      "title": "So far I have not been disappointed. There's a handy (albeit not perfect) app I ...",
+      "text": "Got this to replace a failing other-brand router. I know there's a new version of it out that no longer contains the internal fan, but I didn't think a smaller power supply and no internal cooling was worth paying $50 more. So far I have not been disappointed. There's a handy (albeit not perfect) app I can use on my phone or website I can go to to remotely check on and change the settings to my router (convenient, given my router's location 20' up on my wall (center-most point of my house). I'll post a picture later for clarification. Again, zero complaints thus far. I will update if/when I have any issues with the router",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Boring2u",
+      "helpful_votes": 0,
+      "publication_date": 20151221
+    },
+    {
+      "title": "Does the job very well",
+      "text": "Great range. No, AMAZING range. I have several of these set up in historic old homes (You can't put a nail in a wall without getting permission). The signal plows through thick walls, old glass windows, out into the public areas. Setup is very easy through the app or on a laptop. 4 stars because of some app inconsistencies (password fields, etc). However, once it's set up, it just chugs along, quietly doing its job. Dual band is nice, gives older devices a chance to connect as well as new devices.",
+      "rating": 4.0,
+      "verified": true,
+      "author": "AJL",
+      "helpful_votes": 0,
+      "publication_date": 20160730
+    },
+    {
+      "title": "Good Range, Easy Setup",
+      "text": "So far, this router has been very reliable, easy to use, and provided a very good wifi signal. I live in a high rise and can see several dozen wifi signals from my neighbors, but this modem does a good job cutting through the noise and giving me good range (much better than other routers I have used). One interesting thing to note, this is the first router that I've had which includes a small fan in it. I suspect that heat has played into the failures of my previous routers (though I keep my router in a well ventilated room), so I am happy to see that this one seems to be designed to stay cool.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Evil Attorney",
+      "helpful_votes": 0,
+      "publication_date": 20141013
+    },
+    {
+      "title": "don't buy this router WRT1900AC!",
+      "text": "The device has unstable compared to my old Linksys EA4500. The device continually crashes, and intermittently reboots itself. The port forwarding didn't work for port 80 and 443. The linksys technical support dig for almost 3hrs and they made remotely login to my router and no luck. I decided to return it and refund my money. Another thing, even this router WRT 1900AC had internal exhaust ventilation fan it had unusual smell like burning rubber or plastic at the top of the ventilating hole even the new and upgraded firmware had applied. I went back to my old router Linksys EA4500 and I didn't experienced the problem of WRT1900AC",
+      "rating": 1.0,
+      "verified": true,
+      "author": "Popz",
+      "helpful_votes": 0,
+      "publication_date": 20141121
+    },
+    {
+      "title": "I am delighted to say it was worth it and and the ...",
+      "text": "Moved up from my 10 year old wrt54g to the 1900 after tech support said \"just buy a new one\" when I was having trouble with the old one. I am delighted to say it was worth it and and the unit is strong. I did not think it would make a difference but I walked to down to the first floor of my apartment building, went likely 20 yards away from buidling and into pool area. I still had 3 bars even with my new router tucked away in a cabinet and not in clear air! Very Impressed. It is bigger than the old but geez I am sure it is way more potent that the old version.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Walt'sBoy",
+      "helpful_votes": 0,
+      "publication_date": 20140912
+    },
+    {
+      "title": "Horrible",
+      "text": "Unreliable, drops signal all the time. I now need it for security cameras and the connection gets dropped all the time resulting in no signal to camera, useless. The 5ghz seems to work more often however the 2.4 ghz rarely connects, and some devices still only work on 2.4 ghz. Horrible product.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "Jennifer",
+      "helpful_votes": 0,
+      "publication_date": 20191119
+    },
+    {
+      "title": "Total junk",
+      "text": "I have had issues with this router since day 1. It hangs repeatedly and requires a reboot at least weekly. Most recently, the router failed to reboot. Linksys support directed me to do a manual firmware update (disgraceful for a consumer product). This failed twice. The device is now a brick. Linksys has thus far refused to replace the device, although I have had it for well under a year and it is still under warranty. What a piece of junk!!!",
+      "rating": 1.0,
+      "verified": true,
+      "author": "Sam Davis",
+      "helpful_votes": 2,
+      "publication_date": 20160116
+    },
+    {
+      "title": "TOP ROUTER EVER",
+      "text": "This is a very fast router. I get up to 100MPS when using the 5GZ wifi. Yes, this router has to wifi blocks. I stream through the whole house and it works great. on the normal wifi I get 12mps up to 20mps. The unit does get warm, if it does have a fan you cannot hear it. This is the best router I have purchased. PLEASE NOTE: there is an update firmware that needs to be downloaded or you will have wifi problems. Make sure you download Linksys app and that's where you can get it installed easily. Please rate I was helpful below. Thanks!",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Onifer76",
+      "helpful_votes": 0,
+      "publication_date": 20150629
+    },
+    {
+      "title": "Beware of 2.4ghz connectivity issues",
+      "text": "At first this Router was spectacular. Then after about 6 months I had connectivity issues with 2.4ghz. About half of my electronic devices will only connect to 2.4 ghz and not 5ghz which is a huge problem when comes to my kids not being able to watch Netflix or anything else. I've read multiple forums on changing channels, updating firmware, proper placement of the router, etc. None of these recommendations worked. A lot of people have had the same complaints about 2.4 ghz and connectivity issues. I've called Linksys for help and they wanted to charge me for IT support. This is more than unsatisfactory for an expensive router!",
+      "rating": 1.0,
+      "verified": true,
+      "author": "Omar E Stookey",
+      "helpful_votes": 0,
+      "publication_date": 20161004
+    },
+    {
+      "title": "Linksys WRT1900AC Dual-Band Wireless-AC Router",
+      "text": "Our Linksys router had quit. I was very happy with their product. I wanted to purchase another one and researched. The Linksys WRT1900AC Dual-Band Wireless-AC Router is awesome The dual-band speed up to 600 Mbps (2.4 GHz) + 1300 Mbps (5 GHz) for media. Fast data transfer speeds. No lagging. Quick and easy setup. Works great. We are very happy with this router. I would recommend it to anyone.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Pat Jackson",
+      "helpful_votes": 2,
+      "publication_date": 20150102
+    },
+    {
+      "title": "wow I love it",
+      "text": "wow, it practically installed itself. The wizard asked all the right questions, asked me to wait 2 minutes at each of the right times (like unplugging the cable modem). It increased speeds by 40% to an ipad I tested on the wireless-N before switching and the appears to be little dropoff (we have a very small house). The usb3 drive share was simple to set up and to secure to just my user id. By default guests have read. Mounted on my pc in seconds. Network map allowed icon changes and name changes and was internet available. Picked the network priorities with a drag-n-drop. These things usually give me a head-ache.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Aaron Evans",
+      "helpful_votes": 0,
+      "publication_date": 20150217
+    },
+    {
+      "title": "Great investment & my best Router yet",
+      "text": "Best Linksys WRT AC 1900 router i have bought so far, along with a mini WiFi adapter Linksys AE6000 , i get speeds over 100mbps+ through WiFi. That is almost as fast as my LAN speed. Great router very well built & not cheap like the old WRT old series plastic. This is much better & slick + 4 antennas really help. I always have excellent signal strength & never goes down . This router has good firmware & media prioritizing + you can hook up a external hard drive directly to the router & share it as a networking drive ,etc That is just a plus ..",
+      "rating": 5.0,
+      "verified": true,
+      "author": "mark b",
+      "helpful_votes": 0,
+      "publication_date": 20151001
+    },
+    {
+      "title": "Revised review: Not so great after all!",
+      "text": "So far, I have not experienced any problems with the router as reported by some users. I'm referring to the report of the router dropping the connection intermittently. It's a beast. Fast, responsive, and easy setup. Revised Nov 2017 So after having this router for two years all of a sudden the 2.4 G network is intermittently connecting and I have a lot of devices that only operate on the 2.4 G network such as cameras and smart plugs it\u2019s awful going up and down I\u2019m fed up I\u2019m going to have to replace the router. I\u2019m very disappointed in Linksys because this was not a cheap Router.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "Alken",
+      "helpful_votes": 0,
+      "publication_date": 20150310
+    },
+    {
+      "title": "Very Poor WiFi Performance After A Couple Years",
+      "text": "For a while it worked just fine. It worked as quickly as the internet I paid for. As other people have discovered as well, the WiFi performance diminished significantly after a couple years. There was no successful fix and no matter how fast my connection was or how closely I hovered over the router with wifi devices, the connection quality and speed was horrible. My cell phone service is consistently WAY faster at loading simple web pages.",
+      "rating": 2.0,
+      "verified": true,
+      "author": "Bruhle",
+      "helpful_votes": 0,
+      "publication_date": 20181002
+    },
+    {
+      "title": "Loses settings and wifi connections. Lousy.",
+      "text": "Losing settings and wifi connections randomly. I bought this because I wanted a good router and was willing to spend the money. It worked pretty well for a few weeks, then started having problems, mostly minor. But the problems have gotten worse. A few days ago it stopped responding (again) to the web interface so I power cycled it as usual. After it came back up it had lost all configurations. So I though updating the firmware would help. But no. Now it is regularly losing wifi connections on multiple devices. Don't waste your money, buy a different router. Btw I am a professional IT guy so I know this technology.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "Mary Ann Crum",
+      "helpful_votes": 0,
+      "publication_date": 20160107
+    },
+    {
+      "title": "It was great while it worked!",
+      "text": "Update!! Funny as soon as the warranty was up the problems started. On a speed test 1.2 on the down load just is not right. 12.5 on the up load load. And that's on the 5 gigahertz side. Spoke to a rep at Linksys who first informed me nothing was wrong and then told me I was just a few days over and wanted to sell me packages of time allotment for repairs! Very annoying representative! It's a shame I really like this router. It's a shame that such morons are working there.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "James & Kathleen Cogan",
+      "helpful_votes": 0,
+      "publication_date": 20151022
+    },
+    {
+      "title": "Drops 5ghz signal frequently",
+      "text": "We had to send this back under warranty because the 5ghz signal kept dropping. Linksys replaced with another, but had same problems. Linksys Customer Support was difficult to work with and took 4 contacts to get a replacement. New replacement has been just as frustrating with same issues. The normal speed has appeared fine, but this may not be a good choice for the high speed 5ghz.",
+      "rating": 2.0,
+      "verified": true,
+      "author": "Bert Search",
+      "helpful_votes": 0,
+      "publication_date": 20161103
+    },
+    {
+      "title": "I couldn't be happier with this replacement.",
+      "text": "My previous Linksys died and I need connectivity to work. This unit plugged painlessly in place of my other and practically configured itself. I have more bars upstairs than I had before. I can even stream netflix and amazon prime over a Roku upstairs. My main streaming to my large TV is done wired through this router and it's been flawless. My main computer is upstairs and while I don't do a lot of online gaming or streaming to that computer, I do use VPN and rely on it to work. The attached storage is way easier to set up than my previous Linksys was.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Ivory",
+      "helpful_votes": 0,
+      "publication_date": 20150314
+    },
+    {
+      "title": "RANGE + PERFORMANCE = AWESOME",
+      "text": "I've put this router through it's paces moving a lot of data over the last week. It has performed awesome and only became a little warm. For the people who have said this router runs hot I have to disagree. It appears to be no warmer than any other router I have used. One thing I have noticed is that is has a cooling fan in it just in case things do get a little heated. RANGE! I was quite impressed that I was able to keep my connection to the router over a city block in downtown Lexington, KY. The router was placed inside of a brick building and I was still able to keep connection a block away.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "KeyMan",
+      "helpful_votes": 0,
+      "publication_date": 20141112
+    },
+    {
+      "title": "Full performance in high density environments",
+      "text": "Moved into suburbia with wood framed houses. Using WiFi analyzer I counted 35 networks that I was picking up. Went through two other routers before the Linksys. This was the only one that could deal with the saturation on the 2.4 and 5ghz networks. Was easy to configure and I might cut it over to DD-WRT but so far it is meeting all my needs.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "htgrimmi",
+      "helpful_votes": 0,
+      "publication_date": 20180128
+    },
+    {
+      "title": "Linksys",
+      "text": "We got this because our Fios Quantum Wifi wasn't working throughout our entire house, just in the one room where the router was located. They told us that it is only guaranteed for 10 feet which sounds absurd to me but it is what it is. So we got this item and it works great, it works throughout every room on all 3 floors of my house including the basement and even out to the driveway and garage. When I drive away from my house I get a full block away before it disconnects! It was well worth it for us!",
+      "rating": 5.0,
+      "verified": true,
+      "author": "A. Flores",
+      "helpful_votes": 0,
+      "publication_date": 20150319
+    },
+    {
+      "title": "Secure, fast, easy setup",
+      "text": "This is a great router. I was always a fan of Linksys until Cisco bought it and I switched to Netgear. Now that Netgear has an unfixable flaw in their routers and Linksys was sold by Cisco I decided to return to Linksys routers. Because I connect NAS units to my routers I need the USB connection to be secure and LInksys provides this ability so I don't have to worry about my data being compromised as I would had I kept my Netgear router. Highly recommend this router and when paired with a Linksys extender I have coverage for over 10,000 sq ft,",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Dennis M.",
+      "helpful_votes": 0,
+      "publication_date": 20150713
+    },
+    {
+      "title": "Very Pleased",
+      "text": "I've been running this router for about a week and a half now. I like it much better than the Netgear Nighthawk I had before this one. This router seems to produce a stronger signal throughout the house and doesn't have any weird drops that I seemed to get with the Nighthawk. I pay for 300 mbps internet and this router helps me take full advantage of it. I did another speed test on my laptop today when I got home and hit 295 mbps download and 20 mbps upload, that's testing on the furthest end of the house from the router. I'm very happy with this router and would highly recommend it.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Joseph A. Quintiliani",
+      "helpful_votes": 0,
+      "publication_date": 20150114
+    },
+    {
+      "title": "Continually Drops Signal",
+      "text": "Don't believe the hype. this new expensive technology works no better than the inexpensive 2.4G. Continuously drops signal. watching a 1 hour show on Netflix, the signal drops 10 to 30 times which is very frustrating. The picture will be excellent and starts to degrade. That's when you know the picture is going to time out. I had a Net-gear prior to this and it was 1/3 the cost and worked just as good.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "Ron G.",
+      "helpful_votes": 3,
+      "publication_date": 20150910
+    },
+    {
+      "title": ".",
+      "text": "Week One: AMAZING! Super easy to setup out of the box. This little guy did a quick patch on his own and we were up and running perfectly right away. The coverage in my little office building is fantastic and the speed is INCREDIBLE even with several devices and a media server eating a lot of network traffic. I was really concerned by some of the bad reviews, but this little guy is simply great. Month 3: Still amazing and routing quite a bit ...great connections across upper and lower floors! No reboots and no issues!",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Mr. Sirron",
+      "helpful_votes": 0,
+      "publication_date": 20150313
+    },
+    {
+      "title": "Worst. Linksys router. Ever.",
+      "text": "I tried to give this router a month - Sure, when it works it isn't bad.... but that's when it works. Every 2-3 days the router will inexplicably stop and I have to turn it off, wait 10+ minutes, do an incantation, dance around the living room, finally turn it back on and hope it doesn't just blink at me with it's dead stare. I would return it if I hadn't already thrown out the packaging. Maybe it'll work better as a repeater. I've been a linksys fanboy since the early 2000s, but I'm afraid I'll have to jump ship this round. Pros - nice user interface, decent range Cons - stops working every 2-3 days",
+      "rating": 1.0,
+      "verified": true,
+      "author": "C. Martin",
+      "helpful_votes": 0,
+      "publication_date": 20151102
+    },
+    {
+      "title": "Range is good on 2.4 ghz and 5 ghz when it works.",
+      "text": "All works good except for the 5Ghz. Sometimes it wont connect until you change the settings. Had to contact customer support to get it 5 Ghz working at first. They had me change the settings and it worked until I shut laptop down. Then I had to change settings on router on next startup of laptop. Didn't contact customer support after the first time. Wanted to charge me for the first time but they gave me a complimentary service call. Seems like they have a few quirks to work out in it. Range seems pretty good.Quiet. Runs cool.",
+      "rating": 3.0,
+      "verified": true,
+      "author": "Quent",
+      "helpful_votes": 0,
+      "publication_date": 20141216
+    },
+    {
+      "title": "Powerhouse!",
+      "text": "I upgraded from my old wireless N router. This is screaming fast. The 5ghz doesn't cut through walls as well as the 2.4, but that's physics, not the router. I went from a max of 40Mbps to about 170Mbps. This thing is a powerhouse! I like being able to log in to see what's connected; I like the optional guest access that is separate from your own, so that you don't give access to your network, etc. I love it!",
+      "rating": 5.0,
+      "verified": true,
+      "author": "bathtub-gin",
+      "helpful_votes": 0,
+      "publication_date": 20160128
+    },
+    {
+      "title": "So far so good, I was concerned with the negative reviews but ...",
+      "text": "So far so good, I was concerned with the negative reviews but unless you are trying to be the superman of router configuration this does the ticket just fine. Range: Great, this router is on a 4th floor apartment and I was picking up signal all the way to my car with the exception of dropping in a concrete stairwell (as to be expected with any signal really). Size: Large router by normal standards but at least is visually appealing, for routers anyway, and not a monster to look at.",
+      "rating": 4.0,
+      "verified": true,
+      "author": "Ross922",
+      "helpful_votes": 0,
+      "publication_date": 20150228
+    },
+    {
+      "title": "Great for Parental Controls",
+      "text": "This router is my new best friend. It allows me to limit the times my kids are allowed to be on line. I can go into the parental controls and set the specific times I want to block them. I can also block specific websites per device. It also has an app that I have downloaded to my phone. It allows me to turn off wireless access to a specific device from wherever I am. I'm loving the control. My kids...they would only give this router 1 star...ha ha! Worth every penny!",
+      "rating": 5.0,
+      "verified": true,
+      "author": "CA",
+      "helpful_votes": 0,
+      "publication_date": 20151220
+    },
+    {
+      "title": "Excellent Signal Strength",
+      "text": "I have a weird house that challenges most Wi-Fi routers. Numerous routers and modems have failed to provide sufficient power in rooms less than 40 feet away. The could not even maintain a clean signal on my air phones. This unit solved each and everyone of those problems. I do, however, not far less power with 2.4 Ghz than 5 Ghz. I have never seen that before, but I just use the 5 Ghz to get around the problem",
+      "rating": 4.0,
+      "verified": true,
+      "author": "Craig Snyder",
+      "helpful_votes": 0,
+      "publication_date": 20160222
+    },
+    {
+      "title": "Its a very expensive brick!",
+      "text": "Would not recommend. Turn the decive on, follow instructions, it asks if you want to automatically update firmware. I click NO, I just want it to turn it on so I can configure it. It immediately says, please hold while we update your firmware... Then for 5 minutes all the light flash, the wifi connects and disconnects repeated then then finally all lights turn off and never turn on again. Linksys techsupport's answer was,\"Yup looks like its broken, you should take it back to the store and get your money back, oh and you should buy a different model with better 'success'\" The model the recommended was $100 more than this already incredibly expensive brick.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "Dan",
+      "helpful_votes": 0,
+      "publication_date": 20150811
+    },
+    {
+      "title": "Great product support",
+      "text": "I bought this router used. It connected to my Dell laptop, iPhone and iPad wirelessly no problem but when it came to my Epson WF-3450 printer it would no connect wirelessly no matter what I tried. I spent hours on the phone with Linksys product support. More than one tech and they were all stumped. To eliminate the possibility it was the router at fault they shipped me a brand new router. I am happy to report the the brand new router connects wirelessly to everything. The signal strength form this router is excellent and the through put exceeds my cable modems 60 mbps.",
+      "rating": 4.0,
+      "verified": true,
+      "author": "Jeff A. Absher",
+      "helpful_votes": 0,
+      "publication_date": 20141022
+    },
+    {
+      "title": "I upgraded my 10 year old linksys router with this ...",
+      "text": "I upgraded my 10 year old linksys router with this one, but I haven't noticed any difference in performance. I'm not a computer geek so I don't know about all the technical details, but I'm not really impressed. Seem to have a few issues at first, but now runs smoothly. It does it's job, but I don't know if it's worth the price for the improvements I saw.",
+      "rating": 3.0,
+      "verified": true,
+      "author": "samhain",
+      "helpful_votes": 0,
+      "publication_date": 20150531
+    },
+    {
+      "title": "not as i thought it would be????",
+      "text": "not so for sure about this have had it for a while and it gets too warm I was so tired of routers not working my husband bought this right when it came out and paid much more than I wanted to spend we still have it but have to put a fan on it because it gets to warm so if I had to buy it again I am not for sure about it ?????? I have always bought linksys routers and loved them but this one still do not know will use it till it quits to much money to spend to buy another one",
+      "rating": 3.0,
+      "verified": true,
+      "author": "TERRY W.",
+      "helpful_votes": 0,
+      "publication_date": 20150928
+    },
+    {
+      "title": "Great product",
+      "text": "Very flexible and very capable router. I use the NAS feature and it was very easy to set up. Don't panic when you plug it in and do not have a connection to the internet right away. Even the hard wired Ethernet connections will not get you out to the WWW until you go through the initial setup. Not a big deal, but could cause worry if you are unaware of this. Do yourself a favor and be sure to set the 2.4GHz to a channel that doesn't have a lot of use near your home as this can cause issues that are not the fault of the router",
+      "rating": 5.0,
+      "verified": true,
+      "author": "T. J. Jones",
+      "helpful_votes": 0,
+      "publication_date": 20150510
+    },
+    {
+      "title": "I have LEDE running on this AC 1900. I ...",
+      "text": "I have LEDE running on this AC 1900. I initially bricked it on the first attempt to install the Untangle firmware for NG firewall. The main reason being that only the ACS version of the WRT1900 is supported. I had to purchase a KEDSUM CP2102 serial to usb converter and console in to the router using puTTY to recover it. Aside from all that, 4 stars because at only about 50 dollars more the ACS also has nearly twice the resources.",
+      "rating": 4.0,
+      "verified": true,
+      "author": "Joshua",
+      "helpful_votes": 0,
+      "publication_date": 20180301
+    },
+    {
+      "title": "excellent in every way",
+      "text": "I wasn't sure what to expect with some of the negative reviews, but gave this product a shot just due to loyalty to the product line. I could not be more pleased. Setup was a breeze. I run 4 televisions, 4 phones, an xbox and numerous tablets through this router with no issues. My download speed quadrupled and I've had no issues with the network dropping or the router needing to be reset. Admittedly, my replaced router was old, so others may not see the level of improvement that I have in speed, but I have not had a single issue with performance or reliability.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "XeroEdge",
+      "helpful_votes": 0,
+      "publication_date": 20150614
+    },
+    {
+      "title": "Excellent Router",
+      "text": "I found this router to provide excellent results in both range and speed over the Linksys router it replaced. Setup, including security, was easy and painless. The unit is fanless and therefore very quiet.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Sam",
+      "helpful_votes": 0,
+      "publication_date": 20170216
+    },
+    {
+      "title": "Purchased this Linksys router after our older E4200 went bad. Tried a Trendnet AC1750 first",
+      "text": "Purchased this Linksys router after our older E4200 went bad. Tried a Trendnet AC1750 first, but that was a mistake (weak signal). Returned that and bought this!! Great connection on all bands, and super fast!! Even with all our devices, including 3 internet game servers, connected simultaneously!! We have a bilevel home, and the router is set up in the lower level. Reaches all corners of the house, and outside, even better than the old E4200 we had! Would certainly recommend this to anyone looking for a strong signal on all bands, and even in a multi-level home!",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Kevin Wolf",
+      "helpful_votes": 0,
+      "publication_date": 20141004
+    },
+    {
+      "title": "Buy an ASYS RT-AC68U, you'll be happier.",
+      "text": "I just replaced this with an ASUS RT-AC68U which is much more stable and highly configurable. The ASUS also provides Time Machine interface to a USB 3.0 drive, a feature that the Linksys lacks. Wifi coverage is 30ft wider than the Linksys. The Linksys cost $75 more... The Linksys provides a reasonably easy to use user interface but not without issues. For example the network map was never accurate (mind you, there are 13 devices on my home office network at the moment). I'm a developer and I can't tolerate inaccuracies.",
+      "rating": 2.0,
+      "verified": true,
+      "author": "Ted Williams",
+      "helpful_votes": 0,
+      "publication_date": 20150310
+    },
+    {
+      "title": "Expensive for home but worth it.",
+      "text": "At very advanced product with many advanced features. It is almost a professional unit or maybe it is. Still, it is easy to use. Kind of expensive for basic functions but worth it for the other functions. One advanced feature we liked is to have two passwords. One for the computers and other devices in the house that let them work together. A second password for guests that only let them on the web and hide the rest of your system from them. A second feature we used is to directly add a hard drive for backups.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Michael",
+      "helpful_votes": 0,
+      "publication_date": 20141231
+    },
+    {
+      "title": "Hands down the best router EVER",
+      "text": "Hands down the best router EVER!!, I bought the matching SE4008 8 Port Gigabit switch and my network performance went up to 40%, this replaced a WD N900 less than 2 years old, the configuration screen is like 5 small tabs and simple. Do you homework, map out your network topology on paper, if possible spent some money on CAT6 cable that way if you ever upgrade to new computers your network should work flawlessly. I hope Linksys has brought back the reliability and performance like in the old days, I still have a 10 yr old WRTG54 working in great condition.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Alberto Riezgo",
+      "helpful_votes": 0,
+      "publication_date": 20141224
+    },
+    {
+      "title": "DO NOT BUY IT!!!",
+      "text": "This is the worst wireless router in history. From day one, this router keeps on hanging and the internet stops working even though I am using it as an Access Point only. no routing whats is ever. Everything including DHCP is provided by my MikroTik which is really really stable. PCs that are connected to my switch has very stable connection. but all wireless devices have very bad and very slow connection and sometimes I cant even access the wifi configuration from the slowness and I need to hard reset the linksys.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "tawammar",
+      "helpful_votes": 0,
+      "publication_date": 20160725
+    },
+    {
+      "title": "setup was easy and straight forward and almost every function can be ...",
+      "text": "This is not a cheap router but it is loaded with features more then most people will ever use, setup was easy and straight forward and almost every function can be customized. The only negative which doesn't matter to me is it's parental controls are for the most part useless, but its reach on wifi as well as output and speed and everything else more then make up for that. Prior to this I was using a router and a repeater not i can cover about 95% of what I could with those with just this router.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Taochow",
+      "helpful_votes": 0,
+      "publication_date": 20141110
+    },
+    {
+      "title": "This one was easy to set up and I like the Network Map ...",
+      "text": "This Linksys router is everything I hoped it would be. Replaced and a much older WRT router which had served long and well. This one was easy to set up and I like the Network Map feature which can be remotely accessed. It has all the necessary ports and is very fast. I have several phones, computers, TVs, games system, etc. hooked up via wifi and all the speed I need. I would buy again in a heart beat.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "HD Futch",
+      "helpful_votes": 0,
+      "publication_date": 20141115
+    },
+    {
+      "title": "This router is great until it just stops",
+      "text": "This router is great until it just stops. In the past 6 months, this has happened about 3 times. I've had to hard line connect to it with a laptop and troubleshoot, update firmware, reset, etc on those few rare occasions. Otherwise it's fast, intelligent, and has good coverage of my home. Networking always has its woes, and this is no exception. I wish for the money it was a bit better, but I'm overall pleased.",
+      "rating": 4.0,
+      "verified": true,
+      "author": "John Cornett",
+      "helpful_votes": 0,
+      "publication_date": 20160113
+    },
+    {
+      "title": "So far it has been running great. It can handle 3 streaming devices and regular ...",
+      "text": "It is bit pricey but well worth the price. If you have antenna tv instead of cable tv this router will interfere with your signal if the router is too close to the television... So far it has been running great. It can handle 3 streaming devices and regular devices all at the same time. I would highly recommend this product if you live in high frequency area. I have been using Linksys products for a long time at work this is why I chose it for my home..",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Dharma  ",
+      "helpful_votes": 0,
+      "publication_date": 20160110
+    },
+    {
+      "title": "which annoyed my wife very much",
+      "text": "The router provides a strong signal that goes all through my house; my previous router (default issued by Comcast) didn't reach the back bedroom, which annoyed my wife very much. The router uses both the 2.4 and 5.0 ghz bands, and you can set up separate networks for each. It also allows a guest network with a different ID and password; I'm not sure why that is an advantage, but it is available. The setup has a lot more options than any other router I've owned, and the interface is more user friendly than most. I'm very pleased with it.",
+      "rating": 4.0,
+      "verified": true,
+      "author": "Mike Daniels",
+      "helpful_votes": 0,
+      "publication_date": 20150202
+    },
+    {
+      "title": "Wonderful Solution",
+      "text": "This is an excellent wireless solution well worth the money. My \"Smart\" TV was slow to connect to Amazon Prime and other movie providers and was constantly refreshing. I replaced a N-300 router with this Linksys model based on a recommendation from a friend. Now I am enjoying the full benefits of my 100 meg wireless cable. Thank you Linksys for providing a great solution to support increased speeds, products and requirements. Wish I would have purchased it sooner.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "R. Earnhardt",
+      "helpful_votes": 0,
+      "publication_date": 20150319
+    },
+    {
+      "title": "horrible stock firmware, and no open source support (and likely none coming)",
+      "text": "purchased this item believing that it supported open source firmware, but there is no support and it does not seem linksys or belkin has any intention of supporting it. very misleading marketing. this will be the last linksys or belkin product i ever purchase. the stock firmware is unusably bad. this is my 6th linksys router and i'm seriously debating sending it back.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "AlexC",
+      "helpful_votes": 4,
+      "publication_date": 20141012
+    },
+    {
+      "title": "Endless Wi-Fi issue with Windows 10",
+      "text": "Ongoing issue with this router and Windows 10 from router restart to blocking internet and wifi not showing up. Have a version one should've listened to the other reviewers. Disappointed have enjoyed Linksys in the past not so sure about future investment.",
+      "rating": 3.0,
+      "verified": true,
+      "author": "Robert Powell",
+      "helpful_votes": 0,
+      "publication_date": 20170531
+    },
+    {
+      "title": "Linksys is back with a vengeance",
+      "text": "Awesome! Better than advertised. Completely smokes my prior D-link N class. Best of all, solved our Surace Pro 3 connection problems. Coverage is so good, I never plugged in my Linksys range extenders. This unit completely covers all 3600 square feet of my three floor Chicago house even though it is sitting in the basement in the corner surrounded by concrete and junk. I cannot believe how strong the range is!",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Alan J. Walters",
+      "helpful_votes": 0,
+      "publication_date": 20150329
+    },
+    {
+      "title": "Best home technology investment ever!",
+      "text": "Best home technology investment ever. No more waiting for video to buffer. No more stutters and crashes while streaming video. My network is accessible anywhere in my house,upstairs or downstairs even with doors closed. I love it. My only issue is that it started to interfere with my neighbors signal. My solution was to use the 5 GHz band and completely turn off the 2.4 GHz band.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Amazon Princess",
+      "helpful_votes": 0,
+      "publication_date": 20141124
+    },
+    {
+      "title": "Does what it says it will do",
+      "text": "replaced my Linksys with this new one and the coverage in my three bedroom apartment has increased and improved. I did not use the CD that came with it, instead simply connected to the wifi SSID on the brochure, chose manual setup, and configured 2.4GHz and 5GHz networks in less than 5 mins. The default pw is admin if you choose to go this route. It is not published in the CD sleeve that came with the device. There was no other printed documentation.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Erik",
+      "helpful_votes": 0,
+      "publication_date": 20140909
+    },
+    {
+      "title": "Not good in my case",
+      "text": "No good for me. support was very helpful and no long wait, but the firmware updates did not do the trick. Still dropping internet and not working well with the extender. I got an asus 1900 and it reached where the linksys did not. I hooked it with the linksys extender and works well, everyone stopped complaining now. Dont know what is wrong with this one but it did not work for me. Lots of money spent on shipping, taxes and customs. Very frustrating and disappointing.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "Kilroy",
+      "helpful_votes": 0,
+      "publication_date": 20150308
+    },
+    {
+      "title": "Did not work",
+      "text": "I wasn't able to install this router in the first few months after I purchased it... Major mistake. The firmware needed to be updated for set up, which was no big deal, but the router was faulty and would not stay on for more than 5 minutes. I had to find out through Linksys tech support that this router was junk. Totally my fault for not installing within the return window, will not make that mistake again!!!!",
+      "rating": 1.0,
+      "verified": true,
+      "author": "Ryan Cournoyer",
+      "helpful_votes": 0,
+      "publication_date": 20190819
+    },
+    {
+      "title": "Best wireless router I have even had!!!",
+      "text": "Range is awesome! I bought this so my son could play streaming games in his bedroom and the old Linksys router (with no external antennas) wasn't doing the job. With this router he gets the same speeds as being right next to the router. Only $50 more than my old Linksys but WORTH every penny!!!!!! I have purchased these for all my adult children with similar reports of being able to use streaming devices and smart phones on WIFI in every room!",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Owen West",
+      "helpful_votes": 0,
+      "publication_date": 20150819
+    },
+    {
+      "title": "Disappointment",
+      "text": "I purchased this router based on all the positive reviews but I wish I had read the negative ones, as I had the same problem as many others. The router worked fine for the first couple of weeks, but then it started dropping the connection very frequently. The only way I could resolve the problem was to do a hard reset on it. My last straw was when I had to reset it about eight times in one day. Thankfully, I had not gotten rid of my old router and after reconnecting it I didn't receive any more dropped connections.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "Nikki",
+      "helpful_votes": 0,
+      "publication_date": 20141226
+    },
+    {
+      "title": "Very Fast Speeds",
+      "text": "Bought to replace my Linksys WRT54g. Having gigabit capability has been a huge benefit for doing file transfers to our NAS. Also, since we may have up to a dozen devices on the Wi-Fi at any given time, speeds have improved dramatically. Anyone who has owned the trusty WRT54g will certainly enjoy this upgrade. The only negative thing I would say about the WRT1900 is I did have an issue with going to websites for logging in, such as Yahoo Mail, RingCentral, and Timeforce. Unchecking the Internet Filters under security has seemed to remedy the problem.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Amanda Z.",
+      "helpful_votes": 0,
+      "publication_date": 20150104
+    },
+    {
+      "title": "Suited MY needs perfectly",
+      "text": "Arrived when expected and in perfect condition. Was very easy to set up and the signal doesn't fade in and out as the old one did. I have a need to port forward and to use a DNS service and this unit was very accommodating to that need. I'm not an electronic geek nor do I know a lot about what I am doing so having a unit this easy to port forward and talk with my DNS service was very important to me. No complaints here thus far.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Mike",
+      "helpful_votes": 0,
+      "publication_date": 20141221
+    },
+    {
+      "title": "My security system will not keep sync with the camera/router connection rendering the service useless tho stuck in contract",
+      "text": "Hi I have had this router for over a year. It constantly has issues where it shows on my phone and wifes phone the wireless is connected and we cannot surf. We go to LTE and all is well. Just never been so buggy. My security system will not keep sync with the camera/router connection rendering the service useless tho stuck in contract. Worst router ever and it received such good reviews by cnet etc. Cisco must love them CNET folk. Just need to find a good router and find a way to extend range. As was said earlier range means nothing if it cant hold down a solid connection. Please help!",
+      "rating": 1.0,
+      "verified": true,
+      "author": "north caselman",
+      "helpful_votes": 0,
+      "publication_date": 20160629
+    },
+    {
+      "title": "Good when it worked.  Turned into brick after cycling power.",
+      "text": "Recently bricked mine by cycling power on it and it was only a month old. We lost our internet connectivity and that's when I cycled the power.... Big mistake. I put our trusty old router back online got in touch with amazon and they're sending out a replacement. It's been a decent router but I've noticed when I'm logged into it that our internet connectivity sometimes disconnects without any changes being made to the routing settings. Weird. Hopefully the next one will not be a lemon.",
+      "rating": 3.0,
+      "verified": true,
+      "author": "Miguel Fernandez Jr.",
+      "helpful_votes": 0,
+      "publication_date": 20150129
+    },
+    {
+      "title": "Easy to install, much better signal strength",
+      "text": "Install was painless, just replaced my previous Linksys router, used the same SSID and passwords. The web admin page is easy to use and well laid out. I now have a strong signal all across the apartment, even though the router is in one corner. I was also able to attach an external drive to the USB 3.0 port and set it up through the web interface. Linksys website walked me through drive mapping on my PC. Overall very happy with this unit, loking forwards to upgrading my laptop to take advantage of the ac features.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "David K. vun Kannon",
+      "helpful_votes": 0,
+      "publication_date": 20150203
+    },
+    {
+      "title": "Very disappointed with this product",
+      "text": "Absolutely miserable experience with this router.... It worked for about the first 2 weeks, then the router would randomly disconnect from different devices and was very inconsistent. I contacted linksys, they told me some changes to make in the router settings, but still no luck. I have been a Linksys user for over 10 years now. Very disappointed with this product. Had the Netgear Nighthawk for a month now and not a single problem.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "Anne Marie Mirabal",
+      "helpful_votes": 5,
+      "publication_date": 20140917
+    },
+    {
+      "title": "Works as stated",
+      "text": "Have been satisfied with this. Easy to set up. Helpful to create your account in case your ISP crashes and you need to reset the connection. The account has it's difficulties but you can get around them. It does lose connection to devices now and then and getting reconnected takes a bit of trial/error. Would advise writing down the steps to reconnect to make it easier.",
+      "rating": 4.0,
+      "verified": true,
+      "author": "Teresa",
+      "helpful_votes": 0,
+      "publication_date": 20161212
+    },
+    {
+      "title": "Don't waste your time",
+      "text": "I wish there was a zero star rating. While it works much of the time, it appears to reboot and drop signal out of the blue. See various videos showing it fail/reboot, etc. Don't waste your time, or money until they fix the software. One saving grace, Marvel released enough open source code so that openwrt is working on it. I've not reflash my firmware yet but it's likely...",
+      "rating": 1.0,
+      "verified": true,
+      "author": "Kindle Customer",
+      "helpful_votes": 0,
+      "publication_date": 20150604
+    },
+    {
+      "title": "Had an issue with the first router. Had to ...",
+      "text": "Had an issue with the first router. Had to call Linksys which was an 'ok' experience. The issue we had was the radio strength(2.4ghz) would drop 5 feet away. Devices would have full strength and as soon as I would walk out of the room the router was in, strength would drop to just 1 or 2 bars. We did firmware updates, adjusted channels, etc. Finally, Linksys sent me a new router. Since then the router has worked perfectly.",
+      "rating": 4.0,
+      "verified": true,
+      "author": "Jason",
+      "helpful_votes": 0,
+      "publication_date": 20161229
+    },
+    {
+      "title": "Simply, easy set-up, works flawlessly, large footprint, needs some space for it to call a home.",
+      "text": "Simple, easy to set up. The 2.4 GHz and 5 GHz wireless networks have performed flawlessly along with the wired ports. Only potential downside to this router is it's large footprint, but I was aware of it's size before purchasing and have plenty of space for it to call home. Still haven't set up the data storage on the router but will be doing so shortly and have no doubt that Linksys will perform as expected.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "EastNC",
+      "helpful_votes": 0,
+      "publication_date": 20150220
+    },
+    {
+      "title": "I have purchased my router on Sept 12th 2014, ...",
+      "text": "I have purchased my router on Sept 12th 2014, around January or so I started having problems with intermittent connectivity. Once a day or so I would simply loose access to the internet, yet my devices stay connected to the router. Resets and etc do no fix the problem but simply eliminate for a short time. Just e-mail Linksys to see what they will do to fix it. I saw other folks having the same or similar issues with no help from Linksys. I will follow up once the problem resolved. If there is no follow up, means Linksys did not resolve the issue and I just end up buying another router.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "KGBguy",
+      "helpful_votes": 0,
+      "publication_date": 20150418
+    }
+  ],
+  "product_meta": {
+    "title": "Linksys WRT1900AC Dual-Band+ Wi-Fi Wireless Router with Gigabit & USB 3.0 Ports and eSATA, Smart Wi-Fi Enabled to Control Your Network from Anywhere",
+    "description": "Product Packaging:Standard PackagingEngineered to deliver best-in-class networking performance, the Linksys WRT1900AC Dual Band Gigabit Wi-Fi Router delivers an unmatched user experience and ultimate Wi-Fi coverage for your home. We've upgraded the iconic Linksys blue-and-black design and outfitted the router with the latest Wireless-AC platform along with the industry's first four antenna configuration with a powerful 1.2 GHz dual-core ARM to provide exceptional signal strength and range to simultaneously support multiple users. We also added a unique dual eSATA/USB 2.0 and a USB 3.0 port to the Linksys WRT1900AC to conveniently connect an array of devices and experience lightning-fast transfer speeds. The WRT1900AC features exclusive SMART Wi-Fi software to monitor and control your network anywhere and anytime. It's our first router to offer the Network Map smart tool, providing an intuitive at-a-glance view of your entire network. For advanced users who want to customize their firmware, the WRT1900AC stays true to its lineage by offering an Open WRT compatible firmware with Open Source ready capabilities that allow advanced users to expand the capabilities of the Router. Pushing wired and wireless speeds to their ultimate capabilities, the Linksys WRT1900AC router can easily support multiple users at once--whether they're streaming music, watching HD videos, or playing online games.",
+    "rating": 4,
+    "feature_bullets": [
+      "4 High-performance Antennas For Maximum Coverage & Reliability",
+      "2.4 GHz & 5 GHz Simultaneous Dual Wireless Bands For A Strong, Reliable Wi-Fi Signal That Eliminates Dead Zones Even In Multistory Homes",
+      "Beam forming Technology Allows The Router To Strengthen The Wireless Signal To Specific Devices",
+      "Professional-grade, 1.2 GHz Dual-core Arm CPU",
+      "4 Gigabit Ethernet Ports Are 10 Times Faster Than Fast Ethernet To Provide The Fastest Wired Speeds",
+      "Wireless-AC, up to 4.3x faster than N technology: Simultaneous dual-band speed up to 600 Mbps (2.4 GHz) + 1300 Mbps (5 GHz) for media - intensive applications",
+      "4 high-performance antennas: Engineered to enhance dual-band communication, four external, adjustable antennas ensure supreme Wi-Fi signal strength in multi - level homes and small offices",
+      "Dual Core CPU: Powerful CPU promotes simultaneous high - speed data processing allowing multiple users to simultaneously game online, stream movies, and transfer files without lagging",
+      "Share content via an external storage device with ultra - fast data transfer speeds. USB 3.0 delivers enhanced performance over USB 2.0; eSATA delivers optimal data transfer speeds from external SATA drives and accommodates USB 2.0",
+      "Users can prioritize devices or websites, gain parental control over content, monitor network activity, turn Wi-Fi access on or off and create select password - protected guest networks. Network Map offers a visual map of the home network",
+      "Open Source Ready: Users gain unprecedented access to customize the router",
+      "Package includes: Linksys WRT1900AC Router, 4 external, dual-band detachable antennas, Quick Start Guide, CD - ROM with Documentation, Ethernet Cable, Power Adapter and Power Cord",
+      "Processor: 1.2 GHz dual-core ARM - based"
+    ],
+    "specifications": {
+      "Product Dimensions": "9.76 x 7.68 x 2.01 inches",
+      "Item Weight": "2.11 pounds",
+      "Manufacturer": "Linksys",
+      "ASIN": "B00KEK4Q5Q",
+      "Item model number": "WRT1900AC",
+      "Customer Reviews": "4.0 out of 5 stars1,863 ratings4.0 out of 5 stars",
+      "Best Sellers Rank": "#72,761 in Electronics",
+      "Is Discontinued By Manufacturer": "No",
+      "Date First Available": "May 28, 2014"
+    },
+    "categories": [
+      "Computers & Accessories",
+      "Electronics"
+    ],
+    "price": 286.98
+  }
+}

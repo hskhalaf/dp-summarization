@@ -1,0 +1,980 @@
+{
+  "website_summaries": [
+    {
+      "verdict": "Despite a few minor shortcomings, the DIR-880L is still one of the best 802.11ac routers on the market.",
+      "pros": [
+        "The D-Link DIR-880L Wireless AC1900 Dual-Band Gigabit Cloud Router has overall excellent data rates, long range and stable Wi-Fi signals",
+        "The router is easy to use, and can be remotely monitored via D-Link's cloud feature"
+      ],
+      "cons": [
+        "The new Web interface can be a surprise for those familiar with D-Link's previous routers, and the USB 3.0 port takes a long time to recognize external hard drives"
+      ],
+      "aspects": {
+        "Setup": 8.0,
+        "Features": 8.0,
+        "Performance": 8.0,
+        "Support": 8.0
+      },
+      "publication_date": 20140717,
+      "rating": 8.0,
+      "source": "cnet"
+    },
+    {
+      "verdict": "The Wireless AC1900 Dual Band Gigabit Cloud Router (DIR-880L) comes with D-Link's modern and mobile-optimized UI, is a good performer in 802.11n and legacy wireless modes, but it's just average in 802.11ac throughput.",
+      "pros": [
+        "User-friendly setup and management",
+        "Revamped, well-designed UI",
+        "Very good performance in 802.11n and legacy wireless modes",
+        "Excellent USB drive-sharing and remote-access capabilities"
+      ],
+      "cons": [
+        "Average to slightly below average 802.11ac wireless throughput",
+        "Did not sustain wireless throughput distance on the 2.4GHz band in tests",
+        "Confusing scheduling setup"
+      ],
+      "aspects": {},
+      "publication_date": 20140929,
+      "rating": 7.0,
+      "source": "pcmag"
+    }
+  ],
+  "customer_reviews": [
+    {
+      "title": "No complaints here",
+      "text": "No complaints, I am a Infrastructure engineer and this thing is good. I am not a gadget guy for being an IT guy, but for the 30 devices at home everything works just fine. Xbox 360, Xbox One, Ipads, Desktops, Laptops, Servers, Phones, Android Tablets..",
+      "rating": 5.0,
+      "verified": true,
+      "author": "E-Money",
+      "helpful_votes": 18,
+      "publication_date": 20161120
+    },
+    {
+      "title": "Would give negative stars if I could.",
+      "text": "Constantly cuts out, drops WiFi signal and speed. Thought it was just a defective one, got a replacement and the new one did the same thing. D-link tech support couldn't figure it out, tried firmware updates, different settings, channels, frequencies, you name it. Don't waste your money.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "Forddoc",
+      "helpful_votes": 8,
+      "publication_date": 20170126
+    },
+    {
+      "title": "Router worked great initially, but after about 9 months",
+      "text": "Router worked great initially, but after about 9 months, it has become an endless frustration. It cannot hold signals on either the 2.4 or 5ghz channels consistently. Devices constantly drop and there is never any reliability as to what will be connected at any given time. We may be able to access our thermostat for example, but cameras are out. Or it may be ENTIRELY unable to connect to the TV while the computer has full signal. This results in nonstop resets, unplugging, reconnecting devices, etc. All wifi devices and our modem are entirely stable and tested, so its the router that is the broken link in the chain. Definitely wouldn't buy another D-Link after this experience.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "J.P.E.",
+      "helpful_votes": 3,
+      "publication_date": 20180123
+    },
+    {
+      "title": "Supports single name (SSID) for both channels and does smart switch",
+      "text": "This router is awesome. I was using comcast's equipment which was an N router. I would get very slow connections away from the router. Upstairs I would get 4Mbps. Even next to the router my devices would not get anything more than 30Mpps, even though my wired connection is 75Mbps. Once I setup this router I am getting 75Mbps+ near the router and 30Mbps+ at the furthest corner of the house. This one has smart switch, when you turn it on you can use single name (SSID) for 2.4Ghz and 5Ghz channels. It automatically connects the devices to appropriate channel, instead of two seperate names for each channel and then figuring out which one to connect yourself ...",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Jack London",
+      "helpful_votes": 4,
+      "publication_date": 20160408
+    },
+    {
+      "title": "Just out of warranty and the problems begin",
+      "text": "I've had this router just over a year, it ran great until the warranty ran out and now the 2.4 Ghz band disconnects multiple times per day. I've tried updating the firmware but nothing helps. I have it on a timer now so that it shuts off and back on after a minute in the night, that only helps for a few hours until the band goes out again. It's so annoying to have to unplug and replug the router multiple times per day. I will never buy another D-Link again. Looks like I'm going back to Cisco.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "CC",
+      "helpful_votes": 2,
+      "publication_date": 20180114
+    },
+    {
+      "title": "Installation was easy, and the interface is much improved from earlier ...",
+      "text": "I replaced a earlier D-Link router (I stuck with the brand because I use D-Link's dynamic link service). Installation was easy, and the interface is much improved from earlier generation models. The wireless signal is adequate for my under-2000 square foot house, easily covering multiple floors (the router sits in the ground level of the house). My garage doors did open spontaneously the first day I had the router. After much research, I determined that this is a known issue with certain routers, and I wound up hanging some aluminum foil on the wall to the garage to block the signal from the router. The problem hasn't returned.",
+      "rating": 4.0,
+      "verified": true,
+      "author": "Dean L. Surkin",
+      "helpful_votes": 3,
+      "publication_date": 20151102
+    },
+    {
+      "title": "Really good.",
+      "text": "This thing is good for the average family with 8 to 10 wireless devices in the home. This is about the only router I've ever had that gives me the same speed as I get when wired directly to the cable modem. The web interface needs some work, but it's easy enough to figure out small things -- like the maximum upload speed. Why on Earth this is included as an option is beyond me. Mine was factory set at 8 Mbps, so my speed was showing 8 Mbps. As soon as I went into the web interface and saw that, and changed it to 18, I'm getting the full 17.5 that Time Warner says I'm paying for.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Emmett H",
+      "helpful_votes": 2,
+      "publication_date": 20160817
+    },
+    {
+      "title": "Good hardware",
+      "text": "Covers all 3 floors of a townhouse, from it sitting on the 2nd floor - with 4-5 bars of wi-fi on all devices. Beamforming is a fantastic feature, use it! D-Link software is kind of suspicious with its router security as of lately, but the DD-WRT firmware works great! I was able to flash directly over an ethernet cable with no drama from the web interface. Quick tip, you should start with build 26653 if you go that route. The power button on the back of the unit can save time if you ever need to reset, but... with DD-WRT able to reset itself on a schedule, I find myself never needing to do that.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "James Nelson",
+      "helpful_votes": 0,
+      "publication_date": 20171002
+    },
+    {
+      "title": "Thumbs UP!",
+      "text": "I've had 2 dlink routers in the past, this makes my 3rd. I really like this router, it does everything I need it to very good. Very easy Qos setup, just drag and drop. Turned my older router into a switch/extender to get 5gh coverage in my garage and patio area. I have an xbox one and pc hard wired, A Vizio 4k tv, Roku 3, chromecast, tv in my office, 2 iPhone 6s, a windows phone, a Surface, and printer connected to wifi with no problems. I would recommend checking to make sure it has the latest firmware(as you should keep all PCs, phones, electronics) while setting it up.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Vip33",
+      "helpful_votes": 0,
+      "publication_date": 20170605
+    },
+    {
+      "title": "Won't work with Amazon Tap",
+      "text": "Won't work with Amazon Tap. It's really weird. The router will not let Amazon Tap play iHeart Radio or Amazon Music. It will get the time and other information, just not music. I spent a long time on the phone with Amazon technical support. They sent a new Tap unit and it does the same thing. It works with the Echo and Echo Dot. So, I called D-Link tech support. Naturally, they blamed Amazon and said they couldn't help. That's it. I was really hoping that this new router would work. Bummer.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "Harry C Spinks",
+      "helpful_votes": 0,
+      "publication_date": 20170920
+    },
+    {
+      "title": "Strong reliable signal and easy set-up!",
+      "text": "Our old router had been getting increasingly wobbly, dropping signal frequently. I chose the D-Link router after a lot of research, and it has lived up to its reputation for being easy to install with the clear instructions provided, and then delivering a solid signal. With the 2.4 band we have strong reception throughout our 1700 sq. ft. home, and even outside - permeating dual-paned windows. We haven't used the 5.0 band much, as its signal is not as strong, but the 2.4 is more than enough for us. We stream movies, music, and use wifi for all the usual stuff. We are more than satisfied!",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Steenwick",
+      "helpful_votes": 0,
+      "publication_date": 20170927
+    },
+    {
+      "title": "Ultimately died",
+      "text": "We had intermittent issues with this router over the year and a half it lived. Usually rebooting would help, but it was a pain to have to trek upstairs to do the reboot every time. Woke up one day and it wasn't connecting to wireless clients. A reset to defaults restored the client access, but direct access would not work, and upstream access failed completely. I expected better for the price. Won't be buying D-Link again.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "JKW",
+      "helpful_votes": 0,
+      "publication_date": 20190313
+    },
+    {
+      "title": "Love it",
+      "text": "Brought this to replace a tree wifi that optimum gave us after our Linksys broke. I give it a 8 out of 10. We live in a two story town house and the wifi is plugged upstairs. Ive always had issues with not getting a good signal downstairs and this solved that issue. I think the range is excellent. I can even walk outside away from the house and still have a signal. In the first couple of weeks I had to restart it a few times but havent had any more issues . Easy to install and set up.",
+      "rating": 4.0,
+      "verified": true,
+      "author": "Delilah",
+      "helpful_votes": 0,
+      "publication_date": 20170721
+    },
+    {
+      "title": "The gift that keeps on giving",
+      "text": "I've had this router going on 3 years. I originally purchased it in lieu of renting a modem/router combo from Time Warner Cable. I've had plenty of Dlink devices to date and wasn't a huge fan of the new and improved admin interface but it's grown on me. I'm on a residential fiber network now and I use the provided modem with wifi disabled because this router still provides better range and strength than the default equipment. Looking forward to the next upgrade whenever it's necessary!",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Kalu Ude",
+      "helpful_votes": 0,
+      "publication_date": 20170126
+    },
+    {
+      "title": "Works great with seven D-Link security camera clients",
+      "text": "Superb router! Works great with seven D-Link security camera clients; laptops; iPhones, etc. D-Link Lite App for iPhone allows me to check router status as well as view all cameras. Ability to reboot router with the App on the phone is a great feature. QoS allows prioritization of WiFi clients to optimize performance. The web interface is very easy to use. Much better than the old Netgear router which I just replaced. Setup was fast and all clients were connected successfully with reliable performance. Price on Amazon was better than Best Buy and Newegg. I don't know why I did not upgrade sooner!",
+      "rating": 5.0,
+      "verified": true,
+      "author": "RN",
+      "helpful_votes": 2,
+      "publication_date": 20141207
+    },
+    {
+      "title": "Discontinued - do not buy",
+      "text": "I bought this router almost exactly two years ago, and it worked great until now. The internet port on the router no longer recognizes a connection with my cable modem, and when I called customer support I was informed that the model has been discontinued & is not eligible for free customer support. She couldn't even tell me how much the \"premium\" support costs, but googling suggests this starts at $29.99. Put the money toward a new router instead.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "Laurel",
+      "helpful_votes": 0,
+      "publication_date": 20190918
+    },
+    {
+      "title": "149.99 Router good for six months at most",
+      "text": "I had this product for less than six months and it quit working all together. According to Amazon it was only returnable up to the end of January 2017. Most reputable distributors and manufacturers offer at least a year warranty. For the amount I paid for it and the supposed level of quality of the unit, you would think it would last far longer than this under normal usage. Do yourself a favor and do not buy this unit!",
+      "rating": 1.0,
+      "verified": true,
+      "author": "Kenneth Tidball",
+      "helpful_votes": 2,
+      "publication_date": 20170408
+    },
+    {
+      "title": "Pretty good router",
+      "text": "This is a great router for my 1200 sq.ft. house. I never drop connection and it seems to handle multiple devices seamlessly. Smart Connect is a really cool feature to have. The router chooses which bandwidth each device is delegated to and It eliminates guess work for less knowledgeable users. This makes every device smooth in operation while using data. I do however have one dead spot in my house. It is the furthest room from my router, so I'm not that disappointed. Probably the only reason this is a 4-star and not a 5-star product. Nevertheless, I am still very pleased with the purchase.",
+      "rating": 4.0,
+      "verified": true,
+      "author": "Chris S",
+      "helpful_votes": 0,
+      "publication_date": 20170224
+    },
+    {
+      "title": "POWERHOUSE ROUTER!!! WITH USB3# PORT",
+      "text": "One very strong wrieless signal on both 2.4 and 5 ghz signals easy to setup for a beginner and all the advanced functions you need the techs. DLink came thru on this one for sure. I have used dlink routers for 10 years now and this one by far is the best. Most dlinks last about 3 years ffor me as i never turn them off and they also have a hardware firewall as well that can be used for easy port forwarding or dmz zone enabling. the gigabit thruput is excellant for a lan party as well. the usb 3 port was unexpected and very welcomed along with a usb 2 port as well.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Dj Voodooman",
+      "helpful_votes": 0,
+      "publication_date": 20150702
+    },
+    {
+      "title": "could be one of the best with the right modem",
+      "text": "easy to setup, one port did not want to work, wireless worked ok did not seem to be as strong as advertised, used an extender was a little help, not sure if the router was fully at fault, could be the modem was part. ran test with the old router also noted a slight increase in output with the AC1900.",
+      "rating": 4.0,
+      "verified": true,
+      "author": "J. West",
+      "helpful_votes": 0,
+      "publication_date": 20161223
+    },
+    {
+      "title": "One Star",
+      "text": "Worked great for 3 months; then service became intermittent. Unreliable. Only one month warranty. Very disappointed.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "Stan Neely",
+      "helpful_votes": 2,
+      "publication_date": 20170622
+    },
+    {
+      "title": "Waste of money.",
+      "text": "Drops connection with one wall inbetween the pc and the router. This is router just doesn't have it in it to keep a solid connection. BTW drywall.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "Craigheadpro",
+      "helpful_votes": 2,
+      "publication_date": 20170212
+    },
+    {
+      "title": "best router i have",
+      "text": "best router i have! I just upgraded my router from my previous 15 year old tp link router. I bought this router cause my ISP gave me a free upgrade from 60/20 to 100/35.. If you are looking for a router that can handle 100mbps up, this is the answer!",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Christian",
+      "helpful_votes": 3,
+      "publication_date": 20170806
+    },
+    {
+      "title": "No issues.",
+      "text": "I've been using this router since May. Its been fantastic. No hang ups or issues, and honestly if there was an outage it was my provider's fault. I've been using D-Link for years now and this is only the second router I have used, in fact, my old router from them is still operational and was replaced because of the bandwidth limitations. Overall, I couldn't be happier. Great product.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Fail_sh3d",
+      "helpful_votes": 2,
+      "publication_date": 20151027
+    },
+    {
+      "title": "D-Link AC1900: Fast Workhorse, Even in Crowded Area",
+      "text": "The user interface is much more intuitive than the previous D-Link configuration tool, easier to learn and easier to use. The 5G signal, very noticeably faster, fills my intended area very strongly and not the whole neighboring area. The 2.4G covers more area and yet suffers no interference from neighboring routers, plays well with the half-dozen overlapping signals. The AC1900 does signal processing much faster than my previous D-Link router, which was beginning to struggle in the crowded signal area, throwing off full error logs every few minutes. Although the AC1900 has healthy Syslog entries, it has not needed to create even one error log in the several weeks in service.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "R. Lee",
+      "helpful_votes": 0,
+      "publication_date": 20140916
+    },
+    {
+      "title": "So far, I'm a believer",
+      "text": "Easy set up and works well with a respectable range. Some reviewer say better for the price than Netgear. So far, I'm a believer",
+      "rating": 5.0,
+      "verified": true,
+      "author": "OldProChefTop Contributor: Cooking",
+      "helpful_votes": 2,
+      "publication_date": 20170108
+    },
+    {
+      "title": "years that gradually got worse and worse",
+      "text": "After years of using Linksys, years that gradually got worse and worse... 2 friends told me that D-Link routers had been functioning \"un-touched\" for over 5 years. \"Holy Smokes\", I said. I got this guy installed and all the wireless in the house and the network just got so peppy and wonderful. D-Link I am yours for as long as you care to keep it this way :-)",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Joseph Stanker",
+      "helpful_votes": 0,
+      "publication_date": 20151022
+    },
+    {
+      "title": "open box not working on arrival. label said tested, it was not.",
+      "text": "Device itself is really good, so this review goes to the amazon open items store. Device came in with a sticker \"Tested by amazon, this device has been tested in all features as working\" Adapter was not working, it was very chip to find replacement, but being the second device i got as \"open box\" and comes defective if leave in very bad standing the quality of amazon in open items.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "Frank J.",
+      "helpful_votes": 0,
+      "publication_date": 20180712
+    },
+    {
+      "title": "Great router!",
+      "text": "Such a good signal. Easy setup. Great download/upload speed. I wanted to get a more expensive router, but this is satisfying me just as well ;)",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Josh B.",
+      "helpful_votes": 2,
+      "publication_date": 20161117
+    },
+    {
+      "title": "Ugh.  Frustrating.",
+      "text": "We aren't IT experts, but we know enough to follow instructions. The router was only discoverable for four of our eleven devices, and the web set-up wizard/internet configuration would not work for us. It kept asking for an admin password, then would not accept the methods listed in the user manual. It's great wifi for the devices connected, but worthless for the rest. If anyone has suggestions or work around, we'd be grateful for the info.",
+      "rating": 2.0,
+      "verified": true,
+      "author": "Ten Bears & Raccoon Allie",
+      "helpful_votes": 0,
+      "publication_date": 20170225
+    },
+    {
+      "title": "Wow!",
+      "text": "This was needed a long time ago. Worth the money and runs better than any router the internet provider provided. So much faster and stronger signal.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "gemma mathews",
+      "helpful_votes": 2,
+      "publication_date": 20160917
+    },
+    {
+      "title": "A product for a great network update",
+      "text": "A great addition to my home WiFi network. All my neighbors are using 2.4ghz (most use the same channel) and the channels are quite clogged causing connectivity drops. Migrated most of my devices to the 5ghz, No drops since. The special features of the router help in signal distribution and strength. Not using as a router, just using the wifi portion as a access point through my current providers router for now.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Michael K",
+      "helpful_votes": 0,
+      "publication_date": 20170121
+    },
+    {
+      "title": "Best router ever.",
+      "text": "This router is amazing. It runs the network everywhere in my house. Bandwidth is at full speed on all my N devices and AC devices. The G,B devices run below bandwidth, but only by about 5%.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Mattress",
+      "helpful_votes": 4,
+      "publication_date": 20160627
+    },
+    {
+      "title": "Fast, Long Range and lots of options!!!",
+      "text": "BAM, This is what I'm talking about! High quality, extreme range and options upon options upon options. If you want something that can handle a house hold of serious networking this puppy will do the trick. I only found 1 issue which I don't really consider and issue is the fact that bridge mode doesn't support both 2.4 ghz and 5. Or it may but it removes the option of creating an ssid/password for each. You can only have one ssid at that point. It didn't impact what I wanted to do with it so 5 stars it gets.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Charles Givilancz IV",
+      "helpful_votes": 0,
+      "publication_date": 20150603
+    },
+    {
+      "title": "Fixed all my previous issues That I thought was my providers fault....It was not....",
+      "text": "I had issues and thought it was my provider but apparently it was my junkie Netgear router. This one is PERFECT. No issues with my Ring Doorbell, no spotty coverage, and no dropping connections. Very powerful, very fast, and long distance too!",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Blake",
+      "helpful_votes": 0,
+      "publication_date": 20170716
+    },
+    {
+      "title": "Easy Installation, Robust, Mediocre WiFi Signals",
+      "text": "Positive: Installation was easy and so far it works since 6 months without any problems. Negative: I have installed it on the second floor and its WiFi signal in first floor is much weaker than I expected. I have tried the antennas in different directions but it didn't help.",
+      "rating": 3.0,
+      "verified": true,
+      "author": "Farhang",
+      "helpful_votes": 0,
+      "publication_date": 20170426
+    },
+    {
+      "title": "Works fine, range lacking.",
+      "text": "It works alright, but the range isn't good as I thought it would be. 2.4GHz range is about the same as my old 1043ND, and 5GHz seems to not give full speed even if the client is 10-15 ft away. (Card is good to 867Mbps but only get in the 500 range link speed) Additionally, the antenna don't like to stay up on their own, and frequently fall down to the side. (The part where it screws on stays firmly in place, but where the antenna bends upward, doesn't stay upright if it's even slightly tilted. )",
+      "rating": 3.0,
+      "verified": true,
+      "author": "Eva J. Guerrero",
+      "helpful_votes": 0,
+      "publication_date": 20150424
+    },
+    {
+      "title": "Seamless setup and running in minutes",
+      "text": "Worked seamlessly with WebPass internet. My signal is solid and was up and running within minutes! Highly recommended, especially if you have WebPass. Linksys WRT1900ACS did not work at all. I tried the Linksys WRT1900ACS twice and spent 3.5 with tech support to no avail.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "RDL",
+      "helpful_votes": 0,
+      "publication_date": 20160614
+    },
+    {
+      "title": "Solid router that pumps signals across a two-story home",
+      "text": "This router lasted a good three years before finally burning out. In that time, it performed admirably in a house full of stone walls, wood floors and multiple stucco ceilings. There are much easier interfaces for routers now, which is why we replaced this with Google Wi-Fi.",
+      "rating": 3.0,
+      "verified": true,
+      "author": "Soccer Dad",
+      "helpful_votes": 0,
+      "publication_date": 20180430
+    },
+    {
+      "title": "D-link does it again",
+      "text": "Really nice router. Fixed a number of \"strange\" issues we were having with the Roku 3 not seeing the network. Provides good signal all over the house and never seems to have any issues that require rebooting or anything. Looks very nice on the desk also. The dual channel stuff is sort of redundant; there isn't a huge demand to use the low speed channel, when you have the high speed. I suppose having the 2.4 Ghz is handy for older phones and/or perhaps for guests who may not require full bandwidth. All in all, a very nice router.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "R. Johns",
+      "helpful_votes": 0,
+      "publication_date": 20150119
+    },
+    {
+      "title": "It was easy to set up after I set up the DSL ...",
+      "text": "Router arrived on time and well packaged. It was easy to set up after I set up the DSL modem, and it was easy to program, thanks to a web based or PROM based set up). Wireless signal strengths were excellent in the next room where 2 of my laptops live. But unfortunately, it failed after 2 hours. It ceased to route both wirelessly and wired, and I could not fix it with standard recovery resets and factory resets multiple times. I have returned it for replacement, as I hope this was just one bad unit which can happen with any manufacturer.",
+      "rating": 2.0,
+      "verified": true,
+      "author": "Iatros",
+      "helpful_votes": 0,
+      "publication_date": 20140911
+    },
+    {
+      "title": "Useless and needs sent back",
+      "text": "Bought product to replace extenders. Had one extender in basement and one upstairs. 2800 Sqft home and it does not reach where the extenders are at. After about 2 months of use the 2.4 ghz band started to drop about once a week. Now 3 months in it drops once every day and so does the 5.0 ghz band. Useless and needs sent back.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "sadie wallack",
+      "helpful_votes": 0,
+      "publication_date": 20180116
+    },
+    {
+      "title": "Very nice router.",
+      "text": "This is a very good router IMO. I get decent whole-house coverage in a multilevel house (although the house is relatively compact). So far, no problems. However, we don't put much of a load on it, so if you have teenagers in the house with lots of wireless devices and/or gaming over wifi, you should not depend on this review.",
+      "rating": 4.0,
+      "verified": true,
+      "author": "nd",
+      "helpful_votes": 0,
+      "publication_date": 20171207
+    },
+    {
+      "title": "Look no further for residential use",
+      "text": "It's like having 5 independent internet connections at full speed right at home. No lagging, pausing, or loading delays while streaming YouTube video (high bandwidth) over 3 Wi-Fi devices AND a desktop PC AND Bluray app ALL AT THE SAME TIME! Internet company delivers 60 Mbps and this router is transfixed on each particular device. 2.4 GHz range is excellent; easily over 60ft through several walls @ 72 Mbps. 5 GHz range is good @ 433 Mbps up to 40ft. Very happy with my purchase. Highly recommend.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Wolf Counsel",
+      "helpful_votes": 0,
+      "publication_date": 20150424
+    },
+    {
+      "title": "Range isn't great",
+      "text": "I replaced my much cheaper router with this one when I moved from a 500 sq foot studio apartment to a 900 sq foot two bedroom condo. The main reason I needed a new router was because the old one didn't have enough range to reliably reach the second bedroom/office from the living room. This router has slightly better range, but only with the 2.4 ghz speed. I haven't noticed any kind of speed increase on my laptop or other wireless devices.",
+      "rating": 3.0,
+      "verified": true,
+      "author": "Preston",
+      "helpful_votes": 0,
+      "publication_date": 20170911
+    },
+    {
+      "title": "Great for the Open Source community. Handles DD-WRT well!",
+      "text": "Nice AC 1900 router. Unfortunately the software interface is a dog. Very weak to manage. However it has a nice saving grace. It is open source so you can load DD-WRT on it and greatly improve its performance.",
+      "rating": 3.0,
+      "verified": true,
+      "author": "Darrell Johnson",
+      "helpful_votes": 3,
+      "publication_date": 20150726
+    },
+    {
+      "title": "So far no major problems. It seems that our ...",
+      "text": "So far no major problems. It seems that our IPhones sometimes lose connection randomly if we were in one room for 1+ hours and then we move to another room (we are using the single band option, if that matters). Other than that, it seems to work well",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Unknown User",
+      "helpful_votes": 0,
+      "publication_date": 20170315
+    },
+    {
+      "title": "I am so glad I found this Dir-880L",
+      "text": "Finally I have a router that is user friendly! I had it up and running in less than ten minutes with all my toys .Iphone, Ipad,Roku and blueray player.I ran a speed test with it on Comcast and it was smoking fast.. I had a DIR 655 that I spent half a day on the phone with tech support just to connect two computers and never got it to connect with my blueray player. I am so glad I found this Dir-880L,its amazing.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Joseph P. Bergeron",
+      "helpful_votes": 0,
+      "publication_date": 20150413
+    },
+    {
+      "title": "After reboot it may be fine for an hour",
+      "text": "I've had this product for 2 months and I constantly find myself restarting it because it drops connectivity. I've even scheduled a daily reboot and still no luck. After reboot it may be fine for an hour. Terrible device",
+      "rating": 1.0,
+      "verified": true,
+      "author": "Dwayne Roach",
+      "helpful_votes": 2,
+      "publication_date": 20170620
+    },
+    {
+      "title": "Best, fastest, most powerful, and easy to use router I've ever had!",
+      "text": "This is the best, fastest, most powerful, longest range router I have ever had. And I've had over a dozen or two! It was a snap to install, taking less than 5 minutes!. Netflix, Amazon, YouTube, whatever, now stream, in HD, without a hitch, and through a dozen walls and two stories! Access to Internet content has NEVER been faster. Ever! Signal strength is at maximum throughout our large 2-story house. Very Highly recommended!",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Spock",
+      "helpful_votes": 0,
+      "publication_date": 20141126
+    },
+    {
+      "title": "Solved many problems",
+      "text": "Household with 5 phones, 3 laptops, 2 tablets, Playstation 4. Was rocking a lower end Walmart belkin. Could barely get one video to stream. Forget anything HD. Installed this in 15 minutes and tried to overwhelm it by streaming videos on mutiple devices while playing multiplayer game on PS. Worked perfect. I suffered far too long and should have purchased this long ago.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "E.C.",
+      "helpful_votes": 2,
+      "publication_date": 20170112
+    },
+    {
+      "title": "Great Router. It took me 5 minutes to setup ...",
+      "text": "Great Router. It took me 5 minutes to setup and connect multiple MACs and PCs on the same network. Shared devices inside the network like printers and a hard drive with multimedia content operate seamless through the wireless network. I have never experienced any signal drops or any kind of problems other folks are describing in their reviews. I have aa almost 300 Mb/sec download speed and 21 Mb/sec upload speed through this router all other the house.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "OVIDIU HRUBARU",
+      "helpful_votes": 0,
+      "publication_date": 20141119
+    },
+    {
+      "title": "Easy Setup",
+      "text": "Router was very easy to set up. We have five very internet-intensive users (gamers, streamers, etc.) and this was very much an upgrade over our previous ASUS router. Both the 2.4MHz and 5MHz bandwidth had very good coverage throughout our house without requiring a repeater, though one downstairs might increase the signal strength of the 5MHz band. Only complaint was the short power cord. Web interface was very intuitive and provided all the options I needed.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Jovie SD",
+      "helpful_votes": 0,
+      "publication_date": 20170101
+    },
+    {
+      "title": "Five Stars",
+      "text": "This is perfect if you have lots of walls in your home. Signal gets everywhere.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "camilogaitan",
+      "helpful_votes": 0,
+      "publication_date": 20170718
+    },
+    {
+      "title": "Very happy with this router",
+      "text": "Very happy with this router, which I used to replace/upgrade an older one. Noticed an immediate improvement in home network quality: speed, etc. Was relatively easy to install and set up right out of the box. I have not yet explored all of the utilities available including parental control/scheduling, as well as service priority for devices on the network, but it all looks promising.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Kindle Customer",
+      "helpful_votes": 0,
+      "publication_date": 20151228
+    },
+    {
+      "title": "Improved my WiFi signal strength. I had a 15 ...",
+      "text": "Improved my WiFi signal strength. I had a 15 dollar router so this router really bumped it up. I was getting about 2 Mbps, now I'm getting around 40-50 Mbps on 5 GHz. Hard wired I am getting 60ish so I'm not complaining.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Nox",
+      "helpful_votes": 0,
+      "publication_date": 20170713
+    },
+    {
+      "title": "... was very affordable and so far it is working great. Had a little hard time getting the correct ...",
+      "text": "It was very affordable and so far it is working great. Had a little hard time getting the correct ip address for it, it was a couple numbers off from what was on the label.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "martha509",
+      "helpful_votes": 0,
+      "publication_date": 20170801
+    },
+    {
+      "title": "Fantastic hasn't given me any problems since day one",
+      "text": "Fantastic hasn't given me any problems since day one. Great range and my 5GHz channel is rediculous-ly fast. I'm paying for 200mbs and get close to 250 with this guy. Could also be the factor of Cat 7 ethernet cable and my modem but all 3 have to work together and they all work great! :)",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Elden A.",
+      "helpful_votes": 0,
+      "publication_date": 20160519
+    },
+    {
+      "title": "I'm very satisfied with this router",
+      "text": "I'm very satisfied with this router. I've had it about a week now. Set up was simple. It is replacing on older Cisco router. The signal strength is greatly improved over the old router. I have the router in the basement - something you aren't supposed to do, but it still beams a strong signal up to the second floor. I can definitely recommend this product. Good value.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Rednebmb",
+      "helpful_votes": 0,
+      "publication_date": 20161204
+    },
+    {
+      "title": "Works very well",
+      "text": "We bought this because we kept having internet slow downs, over and over, and it was getting really frustrating. My teenage son did some research and suggested changing out our router and I'm very glad we did. This router has really sped up our access and allows our many devices to have internet at the same time without slow downs, lagging, freezing, etc. like before. Happy with this purchase.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Rebekah Hills",
+      "helpful_votes": 0,
+      "publication_date": 20150929
+    },
+    {
+      "title": "A Fast Router with Extended Range!",
+      "text": "Excellent router that replaces a 6-year old D-Link DIR-655 router that stopped working. The new AC1900 Dual Band router installed without any problems and both the speed and range are improvements over my previous router (the smart TV in our upstairs bedroom now works without using the range extender that was required for the DIR-655 router). The new router also arrived from Amazon quicker than expected!",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Amazon Customer",
+      "helpful_votes": 0,
+      "publication_date": 20151122
+    },
+    {
+      "title": "Not What I Expected",
+      "text": "I gave it 2 stars because the firewall interface is very limited in comparison with previous models and it does not have a build in log. Signal coverage is adequate. I won't recomend this WiFi router unless DLink releases a major update enhancing the lousy interface. In my opinion it is overpriced.",
+      "rating": 2.0,
+      "verified": true,
+      "author": "DANIEL RAMOS",
+      "helpful_votes": 2,
+      "publication_date": 20150629
+    },
+    {
+      "title": "Second time is a charm",
+      "text": "Update So I'm on my second D-link, the first one I sent back due to it overheating and the need to be reset everyday The new one works like a champ. I haven't had to reset it In 3 months and it's improved my signal throughout the house 100 percent. I would definitely recommend this to anyone looking to improve signal strength.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Dachief ",
+      "helpful_votes": 0,
+      "publication_date": 20151231
+    },
+    {
+      "title": "Excellent router. Very easy to set up",
+      "text": "Excellent router. Very easy to set up. Trouble free. Mounted downstairs where three main computers are. Works fine for streaming movies on two computers upstairs. Previous router required a range extender to get reliable streaming upstairs.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "pencilpusherTop Contributor: Photography",
+      "helpful_votes": 0,
+      "publication_date": 20171006
+    },
+    {
+      "title": "Great product",
+      "text": "I've had this for about 3-4 months. Decided to cut cable. Works perfectly for streaming video through Chromecast and Amazon Fire TV Stick. I cannot complain much. Once in a while 5G cannot be found on a device, but I chalk that up to my less than perfect knowledge of networking and technology. It's great for work and home use so far.",
+      "rating": 4.0,
+      "verified": true,
+      "author": "Chelsea Peoples",
+      "helpful_votes": 0,
+      "publication_date": 20180126
+    },
+    {
+      "title": "2 floor apt and the signal is very bad in the second floor",
+      "text": "first one continuously disconnects, returned and tried it again hoping I just had a lemon but then I'm still experiencing same issues. we live in a 2 bedroom, 2 floor apt and the signal is very bad in the second floor.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "jam25",
+      "helpful_votes": 0,
+      "publication_date": 20170329
+    },
+    {
+      "title": "ZOOM!!  Great Router, and Fast.",
+      "text": "YES! AC is definitely a step above N. Improved speed that you can see. Also bought the AC adapters for the computer. We had an N-speed before this one, which is the next step down. Also like D-Link as a manufacturer. I've had the N speed router ever since N first came out. It has worked flawlessly.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "bigbru",
+      "helpful_votes": 0,
+      "publication_date": 20151113
+    },
+    {
+      "title": "reserved dynamic DNS is limited to 25 (if I recall), not ideal.",
+      "text": "it works. It's not to challenging to configure (if you have a basic understanding of tech). reserved dynamic DNS is limited to 25 (if I recall), not ideal.",
+      "rating": 4.0,
+      "verified": true,
+      "author": "tc",
+      "helpful_votes": 0,
+      "publication_date": 20180227
+    },
+    {
+      "title": "Love it",
+      "text": "This is hands down the best router i have ever owned. My wifi speeds now hit 90mbps!! It's like being connected on an Ethernet connection. I have never hit those speeds over wifi on any other router I've owned. If you have a good internet plan where u have high speed of internet, get this router. I am Very pleased with my purchase.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Angelina",
+      "helpful_votes": 0,
+      "publication_date": 20161203
+    },
+    {
+      "title": "D-Link Never Disappointment. Great Router.",
+      "text": "I have always used d-link routers. They have never failed on me and are extremely reliable. I replaced the previous model because it was a wireless n, and this one is ac. The performance more than triple. The new web UI is an improvement. MAC address filtering has been removed that is the only drawback but not a big one.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Hadad",
+      "helpful_votes": 0,
+      "publication_date": 20160414
+    },
+    {
+      "title": "Their support was Best of Class",
+      "text": "Got this AC1900 Router last week. I moved to D-Link from Linksys since my Linksys Routers kept failing, most likely due to power surgers. I thought it wast time to try something new. I called to get help upgrading the firmware. Their support was Best of Class.... Thank you Agent AR004639 !",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Darlene R.",
+      "helpful_votes": 0,
+      "publication_date": 20151012
+    },
+    {
+      "title": "Very good. Great feature set.",
+      "text": "I have two of these setup as a 802.11AC wireless bridge. I get consistent connectivity and excellent speed with the units being about 50 ft apart separated by multiple walls (2x4 stud/drywall construction). Running strong for a week now w/ no reboots required. I don't like the dumbed-down UI compared to other D-link products I've used (DIR-868L).",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Lina!",
+      "helpful_votes": 0,
+      "publication_date": 20150113
+    },
+    {
+      "title": "D-Link delivers a great product! Performance on the 5GHz band is great",
+      "text": "Replaced my D-Link DIR-655 with this DIR-880L because the 2.4GHz band is completely saturated at home. Once again, D-Link delivers a great product! Performance on the 5GHz band is great, and the signal on the 2.4GHz band seems to be a bit more stable (though we primarily use the 5GHz band). The management interface is very simple, making setup a breeze. Make sure you have some space for this router because it's pretty good sized - roughly twice the size of the DIR-655. Very happy overall!",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Jesse Daniel",
+      "helpful_votes": 0,
+      "publication_date": 20150702
+    },
+    {
+      "title": "Stong signal; takes optional antenna",
+      "text": "Strong signal. Replaced my Xfinity WiFi with this plus added a paddle antenna. Got rid of the repeater as I now have good strength from front porch to backyard. Bought one for my folks first and liked it so much I have one too.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Richard Valstar",
+      "helpful_votes": 0,
+      "publication_date": 20170928
+    },
+    {
+      "title": "This router is absolutely amazing. after switching to it the Internet connection got ...",
+      "text": "This router is absolutely amazing. after switching to it the Internet connection got more stable, faster and reliable. Seriously, before I got the router my Internet connection dropped at least once a day. since the upgrade I can't recall the Internet connection dropping. I have few problems with it though. Pros: - good range - wicked fast wifi - stable connection Cons: - last firmware update was almost 2 years ago - range isn't as good as people commented here(maybe it's the location, will update) - control panel isn't that good, I saw better ones",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Yoav",
+      "helpful_votes": 0,
+      "publication_date": 20170911
+    },
+    {
+      "title": "THIS IS A GREAT ROUTER",
+      "text": "I am very happy with this new router, so far. It certainly has made streaming much more peasant to watch, especially the news stations.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Clarence C.",
+      "helpful_votes": 2,
+      "publication_date": 20161028
+    },
+    {
+      "title": "Love it",
+      "text": "Finally updated my old slow wireless router and wow what a difference it has been. Very easy to install and get it up and running.",
+      "rating": 4.0,
+      "verified": true,
+      "author": "jtstang",
+      "helpful_votes": 0,
+      "publication_date": 20170801
+    },
+    {
+      "title": "Not all that easy to setup and seems to go offline from tme ...",
+      "text": "Not all that easy to setup and seems to go offline from tme to time, but then comes back on it's own.",
+      "rating": 4.0,
+      "verified": true,
+      "author": "Etienne",
+      "helpful_votes": 0,
+      "publication_date": 20170917
+    },
+    {
+      "title": "Power source died within 1st hour of use. Just ...",
+      "text": "Power source died within 1st hour of use. Just received the replacement today, so will give another review of product in a few days.",
+      "rating": 3.0,
+      "verified": true,
+      "author": "Jacky Waiau",
+      "helpful_votes": 0,
+      "publication_date": 20170829
+    },
+    {
+      "title": "Less than 2 years is too soon to die",
+      "text": "I was never really happy with this product, but I'm very unhappy it died after 1 year 11 months. I'm not sure what the expectation is these days, but that seems too short to me. My cable modem has faired much, much better. I'm going to try the nighthawk next.",
+      "rating": 2.0,
+      "verified": true,
+      "author": "Jasper Walker",
+      "helpful_votes": 0,
+      "publication_date": 20161212
+    },
+    {
+      "title": "Good value, easy to set up, reliable.",
+      "text": "Fast speeds, got it refurbished from amazon. the distance is okay but not amazing. It struggles to make it through 3 or 4 of my walls at 25 feet away. easy set up and user interface, lots of network options to prioritize certain computers over others.",
+      "rating": 4.0,
+      "verified": true,
+      "author": "Taylor F",
+      "helpful_votes": 0,
+      "publication_date": 20170128
+    },
+    {
+      "title": "so so.",
+      "text": "It does have issues. About once a week I have to reset it. It will work perfectly with awesome speeds and long ranges but then for no reason it wont connect. Not overheating. No smell. Just won't connect even when all lights are blue. A quick reset and it acts like nothing was wrong.",
+      "rating": 3.0,
+      "verified": true,
+      "author": "FuYingBro",
+      "helpful_votes": 0,
+      "publication_date": 20170204
+    },
+    {
+      "title": "Crapped out in 3 months",
+      "text": "Worked really well for nearly 3 months, started to drop out every few days requiring a reset, then it would die almost daily, pretty disappointing",
+      "rating": 1.0,
+      "verified": true,
+      "author": "Steve",
+      "helpful_votes": 4,
+      "publication_date": 20160504
+    },
+    {
+      "title": "Awesome router for speed, range, multiple connections, and easy of setup and use!!!!",
+      "text": "This is an excellent router. The price dropped considerably right after I bought it, so that was kind of a bummer, but to be honest, it's still worth it. It is super easy, very fast, and has great range. Where we have them installed, there is a lot of steel and concrete and lots of users connected, they work flawlessly. Setup literally took 5 minutes.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "R. Kilbrai",
+      "helpful_votes": 0,
+      "publication_date": 20150130
+    },
+    {
+      "title": "Wow Awesome speed and great router This thing is a beast",
+      "text": "Wow Awesome speed and great router This thing is a beast. Dual band and fast is working well. Easy to install and I can tell the difference. and Great range, high Wifi speeds.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "FAELO",
+      "helpful_votes": 0,
+      "publication_date": 20170520
+    },
+    {
+      "title": "One of the best routers avail. No need to spend hundreds for speeds your provider isn't giving you. This is MORE than plenty",
+      "text": "Works amazing. No need to restart it like my old router, no dropped/ excellent signal, future proof with 2 channels and extremely high speeds, also got rid of my WIFI charge on my cable bill...call your provider and ask them to stop charging you for WIFI. Easy to use web interface and smartphone APP avail.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Robert",
+      "helpful_votes": 0,
+      "publication_date": 20170120
+    },
+    {
+      "title": "Buy it, good speed, reliable and easy to use",
+      "text": "I was excitant to buy the router but after looking up on youtube I decided to buy it. Is easy to configure although if you do not want to do so the wifi router would work without configuration. My package came quickly and the signal is really reliable and speed is amazing. I would highly recommend it. My friend bought a more expensive modem and we live on the same area with the same internet provider and mine is slightly slower but i did not pay 300+ dollars so is a great win.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Noe the Weasel",
+      "helpful_votes": 7,
+      "publication_date": 20161013
+    },
+    {
+      "title": "it's just ok",
+      "text": "It's ok.....not Excellent, neither Great....just ( OK ).......hope this helps.......mind you......this one was the third one after two previous disappointments. Previous two hung up after upgrading firmware......soooo.........beware........BTW....it isn't as strong(powerful) as they claim it to be either....",
+      "rating": 3.0,
+      "verified": true,
+      "author": "Mr. Miguel Berard",
+      "helpful_votes": 0,
+      "publication_date": 20150820
+    },
+    {
+      "title": "This is a GREAT double router",
+      "text": "This is a GREAT double router. The range is especially impressive. I doubt you'll need a repeater with this one. Unfortunately, the price jumped up $40 soon after I bought mine, or I would have bought another one for a family member. It's still a good router, but now they are cheaper on eBay.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "dddirty_dog",
+      "helpful_votes": 0,
+      "publication_date": 20170206
+    },
+    {
+      "title": "Great speed, surprisingly limited range",
+      "text": "Pretty happy with this, my only real complaint is that the higher channel wireless has crappie range. I'm in a small (1040 Sq ft) house and I get half strength only 2 rooms away. Otherwise it's clean and fast in every other way.",
+      "rating": 4.0,
+      "verified": true,
+      "author": "David J. Shultz",
+      "helpful_votes": 0,
+      "publication_date": 20170102
+    },
+    {
+      "title": "Works, occasionally drops internet connection",
+      "text": "Occasionally drops its internet connection every few days. A manual router reset will fix this and there's also an option to schedule a daily reset, but seriously?",
+      "rating": 4.0,
+      "verified": true,
+      "author": "BC",
+      "helpful_votes": 0,
+      "publication_date": 20171127
+    },
+    {
+      "title": "Great customer support",
+      "text": "Great product and great customer support when I called for help to set it up. I'm not good with computer related products and was able to set this up with help from support.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "MKL",
+      "helpful_votes": 0,
+      "publication_date": 20170105
+    },
+    {
+      "title": "great range!!",
+      "text": "Absolutely amazing in how easy to set up and my Internet speed is actually, finally, reaches the speed I pay for.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Kindle Customer",
+      "helpful_votes": 0,
+      "publication_date": 20171024
+    },
+    {
+      "title": "Needed info on routers",
+      "text": "This let me down a bunch on distance that it would cover. Although I have terrible AT&T dsl, no AC available. I was wondering if anyone has tried the netgear ac1900. Does it outdo this router in distance because that is what I need the most. And if I put the netgear in has anyone set one of these up as a bridge and how has that worked out?",
+      "rating": 4.0,
+      "verified": true,
+      "author": "Fowler007",
+      "helpful_votes": 0,
+      "publication_date": 20150806
+    },
+    {
+      "title": "Great router for home use",
+      "text": "Great router for home use! I had bought a cheaper model, but the signal was very weak. I sent it back and bought this router. It's definitely worth spending more money. You get what you pay for!",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Daniel M. Dwyer",
+      "helpful_votes": 0,
+      "publication_date": 20161228
+    },
+    {
+      "title": "Poor connectivity.",
+      "text": "Unfortunately, this product started to struggle with connectivity issues within 3 months (1 month after the service window ended). Four months in, the router struggles to keep more than 3 devices connected.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "Michelle Ann Baca",
+      "helpful_votes": 0,
+      "publication_date": 20171203
+    },
+    {
+      "title": "Good but with hickips",
+      "text": "It works about as well as one would think except it drops the internet or at least slows down sort of frequently, as in maybe once or twice a week. It corrects itself fairly quickly but still annoying.",
+      "rating": 4.0,
+      "verified": true,
+      "author": "Spencer",
+      "helpful_votes": 0,
+      "publication_date": 20170908
+    },
+    {
+      "title": "Been through a lot of routers over the years. ...",
+      "text": "Been through a lot of routers over the years. This has been the first one to be consistently reliable and high performance.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Matt C",
+      "helpful_votes": 0,
+      "publication_date": 20180113
+    },
+    {
+      "title": "Great unit. easy to set up",
+      "text": "Great unit. easy to set up. No more drop outs like old unit. Streaming to smart TV definitely better using the 5GHz band. The 2.4 GHz is used for phones, tablets, computers and printers.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "JimmyGee",
+      "helpful_votes": 0,
+      "publication_date": 20170601
+    },
+    {
+      "title": "My camera's work much better than ever before",
+      "text": "This router solved the problems with my D-link camera's in the office. I am in a 1920' concrete and steel building with stone floors and it's very difficult to get wireless to go very far but this really helped. My camera's work much better than ever before. I didn't want to spend this much on a router but now that I have it and have had time to try it out, I'm glad I splurged and tried it.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "JAMES R. SWARD",
+      "helpful_votes": 0,
+      "publication_date": 20141102
+    }
+  ],
+  "product_meta": {
+    "title": "D-Link Wireless AC1900 Dual Band WiFi Gigabit Router (DIR-880L)",
+    "description": "The DIR-880L AC1900 Wi-Fi Router lets you easily connect, control and monitor your network using the future of wireless technology, today. Advanced AC SmartBeam provides a significant increase in wireless performance, while Advanced Quality of Service (QoS) efficiently distributes bandwidth. The DIR-880L also comes with a dual-core processor and high-gain antennas. The DIR-880L is stylish, easy-to-use and comes IPv6-ready for a powerful network that you can rely on.",
+    "rating": 4,
+    "feature_bullets": [
+      "Advanced AC1900 Wi-Fi Dual-Band (600N+1300AC Mbps Speed) performance",
+      "Lag free streaming using fast and reliable wireless, ethernet and USB performance",
+      "Advanced wireless AC beamforming dramatically enhances wireless signal strength and throughput",
+      "Gigabit WAN and LAN ports for high-speed wired connections",
+      "Two USB ports to connect storage drives and printers for sharing",
+      "Advanced Quality of Service (QoS)",
+      "Smart Connect Technology will efficiently select the fastest Wi-Fi for every device"
+    ],
+    "specifications": {
+      "Wireless Type": "802.11a/b/g/n/ac",
+      "Brand": "D-Link",
+      "Series": "DIR-880L",
+      "Item model number": "DIR-880L",
+      "Operating System": "Windows 7, Mac OS",
+      "Item Weight": "1.41 pounds",
+      "Product Dimensions": "9.75 x 7.5 x 1.5 inches",
+      "Item Dimensions  LxWxH": "9.75 x 7.5 x 1.5 inches",
+      "Manufacturer": "D-Link Systems, Inc.",
+      "ASIN": "B00J8NCVX4",
+      "Is Discontinued By Manufacturer": "No",
+      "Date First Available": "March 25, 2014",
+      "Customer Reviews": "4.0 out of 5 stars730 ratings4.0 out of 5 stars",
+      "Best Sellers Rank": "#21,596 in Computers & Accessories"
+    },
+    "categories": [
+      "Computers & Accessories",
+      "Electronics",
+      "Routers",
+      "Networking Products"
+    ],
+    "price": ""
+  }
+}

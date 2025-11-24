@@ -1,0 +1,517 @@
+{
+  "website_summaries": [
+    {
+      "verdict": "$50 is too much for a basic water and temperature sensor. And since both of those functions have major problems, this Sensor is one to avoid.",
+      "pros": [
+        "Setup of the FortrezZ Water and Temperature Sensor is simple, and some of its problems might be fixed by software updates"
+      ],
+      "cons": [
+        "The basic functions of the FortrezZ only half work, and the product features few elements that might distinguish it from competitors"
+      ],
+      "aspects": {
+        "Features": 4.0,
+        "Usability": 8.0,
+        "Design": 5.0,
+        "Performance": 5.0
+      },
+      "publication_date": 20151202,
+      "rating": 5.5,
+      "source": "cnet"
+    }
+  ],
+  "customer_reviews": [
+    {
+      "title": "Works like a champ and also if there is any water ...",
+      "text": "First of all let me say that ForterzZ water / temp sensor is well made..Feels solid in hand and anything from this company is a bit more but well worth the quality...I paired this sensor to a Vera Lite with no issues..Was simple..Put the controller in inclusion mode and tap the program button once and done..Make sure the sensor is close to the zwave controller...I put this sensor in my attic to run a fan to come on at 105 degrees...Works like a champ and also if there is any water leaking through the fan it will send me alerts...You can do a lot with this device meaning changing the settings..I plan on buying more zwave devices from FortrezZ.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Len Ricupero",
+      "helpful_votes": 0,
+      "publication_date": 20160901
+    },
+    {
+      "title": "Using with NEXIA to trigger a cooling fan in my A/V closet",
+      "text": "Works great with NEXIA. I turned a small coat closet into an A/V closet. The temperature can get up to over 90 degrees in there while watching movies. I installed a Suncourt TW108 ThruWall Transfer 7 5/8 inch fan into the back wall of the closet. It vents into a rarely used bedroom. I used a GE Z-Wave Wireless Lighting Control and Appliance Module to turn the fan off remotely. Instead of leaving the fan on at all times. I now have it set to be triggered by the FortrezZ sensor to turn off at 77 degrees and back on again at 82 degrees fahrenheit.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Amazonin ",
+      "helpful_votes": 0,
+      "publication_date": 20161006
+    },
+    {
+      "title": "On the Buzzer version Nexia only supports water not temperature.",
+      "text": "On the Buzzer version Nexia only supports water not temperature. According to Fortrez Z the buzzer version is an older version and requires the hub to ask for temperature. Nexia is not capable of asking sensors for information. Nexia relies on the device sending information. The LED version was a later release and it automatically sends temperature information when the the temperature changes by one degree. There are not plans to fix this as Fortrez Z is releasing a new generation of the device in the Summer of 2017..",
+      "rating": 3.0,
+      "verified": true,
+      "author": "Ken D.",
+      "helpful_votes": 0,
+      "publication_date": 20170424
+    },
+    {
+      "title": "Temperature sensor not included - false advertising",
+      "text": "I bought both the LED version and Buzzer version. The LED version is great... 5 stars. The Buzzer version does not report temperature. I have 4 of them, none of them report temperature and temperature alerts are not available. Water sensor is working, so if that's all you want and you need an audible alarm, this is the right one. If you need temperature, as well, get the LED version. The package, product label and instructions show that it should report temperature. I have contacted support, but have yet to receive an answer.",
+      "rating": 2.0,
+      "verified": true,
+      "author": "bwolz",
+      "helpful_votes": 2,
+      "publication_date": 20160316
+    },
+    {
+      "title": "They mostly work.  they often indicated a wet alarm in the bottom of my fridge, when it was actually dry.",
+      "text": "They mostly work. I thought they would also tell the temperature, but it's only a \"freeze alert\" - or maybe that is the limitation of the device definition in whichever home automation system you have them installed. Also, more troublesome is the fact that in my testing, they often indicated a wet alarm in the bottom of my fridge, when it was actually dry. They just didn't work correctly at low temperature, typically 38F inside the fridge - both of the units I tried did the same thing. I confirmed there was no condensation inside or outside the device. So now I use them in warm spaces only.",
+      "rating": 3.0,
+      "verified": true,
+      "author": "Eric H",
+      "helpful_votes": 0,
+      "publication_date": 20150829
+    },
+    {
+      "title": "Very cheap insurance against possible flood damage.",
+      "text": "In the first few months I had some of these installed, I was texted that I had a leak in the water heater while I was too far away to do anything about it in time to prevent damage. I was able to call a neighbor and ask them to rush over to my house and turn off the main water valve. In that one event, they all paid for themselves! I connect these to a SmartThings hub to get text or app. notifications. I have them at the water heater, clothes washer and under every sink.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Randy S. In Tempe, AZ",
+      "helpful_votes": 0,
+      "publication_date": 20141218
+    },
+    {
+      "title": "Garbage. Temperature reads about 8 degrees high so there ...",
+      "text": "Garbage. Temperature reads about 8 degrees high so there is no alarm sent when the temperature reaches freezing. I bought this as a freeze warning device not as a water detector. I contacted the company who said I should just alter my temperature set points to compensate for the offset. I have 2 Aeon indoor multi-sensors which read around 1 degree off - that is an acceptable amount not 8 degrees",
+      "rating": 1.0,
+      "verified": true,
+      "author": "Helfrich",
+      "helpful_votes": 0,
+      "publication_date": 20161228
+    },
+    {
+      "title": "This has been installed on top of my sump pump ...",
+      "text": "This has been installed on top of my sump pump cover for just over 14 months now. It has alarmed once, the cause of the alarm was actually a slow drip from the water main valve which happens to be located over the sump crock. The original battery is in the unit and it's at about 50%, can't complain about battery life.",
+      "rating": 4.0,
+      "verified": true,
+      "author": "JC",
+      "helpful_votes": 0,
+      "publication_date": 20151202
+    },
+    {
+      "title": "Works fine",
+      "text": "Of the three or four z wave devices I've paired with my Vera lite so far, this one has worked by far the best. It paired immediately, has great range, and worked when being tested. The instructions seem to be wrong on how to clear the alarm after testing (I think 2 quick button presses did it, rather than the long press the instructions claim). If you're worried about flooding, as I am, this seems like it will work.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "S. J.",
+      "helpful_votes": 0,
+      "publication_date": 20140226
+    },
+    {
+      "title": "Getbthis",
+      "text": "After going 0 for four with Fibaro, I bought this instrument. Most importantly, the battery life is outstanding. The water sensor works as described and the temperature sensor alone is enough to justify the use in many applications.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Marquis",
+      "helpful_votes": 0,
+      "publication_date": 20170410
+    },
+    {
+      "title": "Protected by water leaks!",
+      "text": "Product does what it's supposed to! When I opened the package it even came with a battery. All you had to do is power in and pair. I use his with our Nexia home automation system. I've placed one in our air handler unit pans and under our washer and dryer. It tells me if they ever sense water and what the temperature is. It's a must have for 2nd story AHU and washer dryers!",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Jason Avery",
+      "helpful_votes": 0,
+      "publication_date": 20150112
+    },
+    {
+      "title": "Good sensor, but gives false alarms once in a while",
+      "text": "It works well with VeraLite. No problems connecting and setting up. I have the sensor for about a year now, and changed batteries probably 3-4 times. Th only issue is false alarms. So far, twice it gave false alarms (which in my case cut water to the house), probably because of some moisture condensation or cold, or some other reason - I have it installed inside wall under valve to exterior connection.",
+      "rating": 4.0,
+      "verified": true,
+      "author": "jw",
+      "helpful_votes": 0,
+      "publication_date": 20150101
+    },
+    {
+      "title": "Works fine",
+      "text": "This is better than the older unit which used 1/2AAA battery that is not readily available. This one uses 2 AA batteries. As a battery-operated Z-Wave unit, it does not report as often and does not relay signal. I wish it had a A/C adapter capability. It is small enough to place anywhere and easy to program. I use it with Vera2 to report temperature and water leak in laundry room, basement, and bathroom.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "aJayM",
+      "helpful_votes": 0,
+      "publication_date": 20130619
+    },
+    {
+      "title": "Works perfectly.  Wish the water sensor had a remote wire.",
+      "text": "This works very well with my Nexia z wave system. I only wish that the water sensor part had a wire so it could go on the floor and keep the temp sensor up a bit higher on the wall. The temp on the concrete floor is not really representative of the temp in the room. The battery has only gone down 2% over three months.",
+      "rating": 4.0,
+      "verified": true,
+      "author": "Just a guy",
+      "helpful_votes": 0,
+      "publication_date": 20150312
+    },
+    {
+      "title": "Does NOT report temperature with Smartthings hub",
+      "text": "Bought the LED version. It DOES NOT report temperature and battery life in the Smartthings hub. They should disclose that. Product is going back. Does ok if water sensing is all you want. I also use the Samsung native moisture+temperature sensor, it is cheaper and ingrates very well with Smartthings.",
+      "rating": 2.0,
+      "verified": true,
+      "author": "Claire Thrum",
+      "helpful_votes": 0,
+      "publication_date": 20170131
+    },
+    {
+      "title": "Seems to work fine",
+      "text": "Not much to say here; it doesn't give temperature readings but alerts on extreme (freezing) events and water. There are two small metal bumps on its back that serve as the water probes. I have it next to my ancient water heater to give me a heads up when it starts to leak. battery lasted about 8 months.",
+      "rating": 4.0,
+      "verified": true,
+      "author": "Pd",
+      "helpful_votes": 0,
+      "publication_date": 20140611
+    },
+    {
+      "title": "I called Fortrez and they were nice enough to send me a new one",
+      "text": "Does not work- it was sent from the seller missing all the inside pieces. I called Fortrez and they were nice enough to send me a new one. Shame on the seller....",
+      "rating": 1.0,
+      "verified": true,
+      "author": "VF",
+      "helpful_votes": 0,
+      "publication_date": 20151031
+    },
+    {
+      "title": "Terrible product",
+      "text": "Piece of crap. Stopped working correctly within 6 months, sending false alarms all of the time. Also, wears out battery quickly. Useless, waste of time and money.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "sdnelson11",
+      "helpful_votes": 0,
+      "publication_date": 20161125
+    },
+    {
+      "title": "Will not work with smartthing",
+      "text": "Will not work with samsung smartthing you can get it to include with smartthing but it doesn't know what to do with the information",
+      "rating": 1.0,
+      "verified": true,
+      "author": "dougway",
+      "helpful_votes": 0,
+      "publication_date": 20170720
+    },
+    {
+      "title": "water on electronic is not a good idea. Expensive to replace",
+      "text": "Does what it says however once it get wet it does nto work any longer. Go figure, water on electronic is not a good idea. Expensive to replace. I went ahead and purchased a $8 alamr water detector , however it was not ZWAVE. However the alarm was very loud",
+      "rating": 2.0,
+      "verified": true,
+      "author": "JC",
+      "helpful_votes": 0,
+      "publication_date": 20170124
+    },
+    {
+      "title": "Works Great",
+      "text": "I'm using this in a MIOS mesh network. There's a window near my entertainment center. I use this sensor to insure that no moisture gets near my expensive electronics because the window was left open during one of the frequent and random thunderstorms that plagues my part of the country in the warm months.",
+      "rating": 4.0,
+      "verified": true,
+      "author": "Social Dave",
+      "helpful_votes": 0,
+      "publication_date": 20140317
+    },
+    {
+      "title": "Very easy setup. I have this on my basement floor ...",
+      "text": "Very easy setup. I have this on my basement floor next to my main water inlet. It tells me the temperature and sends texts via Nexia Home Intelligence if there is water detected.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Jarett J Lena",
+      "helpful_votes": 0,
+      "publication_date": 20150309
+    },
+    {
+      "title": "Assembly Required not in ad",
+      "text": "Assembly required with a jewelers screwdriver after putting batters in unit. Screws are very small.",
+      "rating": 3.0,
+      "verified": true,
+      "author": "brad in naples",
+      "helpful_votes": 0,
+      "publication_date": 20151105
+    },
+    {
+      "title": "Great Product, Works very well.",
+      "text": "Fantastic multi sensor, I have eight on my ranch and they reported freezing temp this year and turned off the water as requested. They work great with Nexia Bridge and Fortrezz water valves.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Farmer1060",
+      "helpful_votes": 0,
+      "publication_date": 20150211
+    },
+    {
+      "title": "A must if you have a fishtank and SmartThings",
+      "text": "Works great. I have mine setup to throw triggers in SmartThings and have done some wet sensor testing and it works perfectly. Easily will save me money should I ever have a fish tank leak/failure",
+      "rating": 5.0,
+      "verified": true,
+      "author": "BJ Triscari",
+      "helpful_votes": 0,
+      "publication_date": 20141026
+    },
+    {
+      "title": "WORKS GREAT WITH NEXIA",
+      "text": "Works with my Nexia system, no problem connecting, so far so good. No leaks.",
+      "rating": 4.0,
+      "verified": true,
+      "author": "BRADLEY",
+      "helpful_votes": 0,
+      "publication_date": 20170404
+    },
+    {
+      "title": "Still works and great with AA batteries",
+      "text": "Used to monitor temperature inside and still works. uses regular AA batteries for these that lasts 1 to 1 .5 yrs.",
+      "rating": 4.0,
+      "verified": true,
+      "author": "John M",
+      "helpful_votes": 0,
+      "publication_date": 20150318
+    },
+    {
+      "title": "Nexia",
+      "text": "This is my second water sensor I've purchased for my nexia home automation. Displays the temperature on my ipad and so far no water has been detected which I'm very happy about.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Brian J",
+      "helpful_votes": 0,
+      "publication_date": 20140917
+    },
+    {
+      "title": "Good sensor",
+      "text": "Works well. Took a couple tries to get it hooked up to our veralite, but once hooked up it has worked flawlessly so far. Really just using the water sensor part, and the range is great for that.",
+      "rating": 4.0,
+      "verified": true,
+      "author": "Adam Frank",
+      "helpful_votes": 0,
+      "publication_date": 20131107
+    },
+    {
+      "title": "It has to be pretty much submerged before it recognizes there is water",
+      "text": "Works but it is a little on the intensive side. It has to be pretty much submerged before it recognizes there is water.",
+      "rating": 3.0,
+      "verified": true,
+      "author": "David Wright",
+      "helpful_votes": 0,
+      "publication_date": 20150918
+    },
+    {
+      "title": "pairs easily w veralite",
+      "text": "this paired well w vera lite. have been using for about 2 weeks now, and it seems to report a temp which is consistent, and doesn't vary by more than 2 degrees, which is acceptable.",
+      "rating": 4.0,
+      "verified": true,
+      "author": "bhd",
+      "helpful_votes": 0,
+      "publication_date": 20140127
+    },
+    {
+      "title": "Cannot report temperature when it is integrated with SmartThings",
+      "text": "I have tried three Z-Wave water leak detection sensors: (1) Everspring Z-Wave Water/Flood Sensor, (2) Fortrez Water and Temperature Sensor, and (3) SmartThings SmartSense Moisture Sensor Good things about this: It said it is water proof. However, I never dare to try. Bad things about this: (1) It does not reports temperature when I integrate it into SmartThings. (2) Its form factor, although still acceptable, is larger than SmartThings SmartSense Moisture Sensor. It is an OK product, but I won't buy it again and won't recommend it to others.",
+      "rating": 2.0,
+      "verified": true,
+      "author": "YKC",
+      "helpful_votes": 2,
+      "publication_date": 20141208
+    },
+    {
+      "title": "Works well with my Vera",
+      "text": "The temperature seems pretty accurate, and I tested the leak detector and it works too. Good device for my basement to warn me of flooding. Might get one for the wash room as well.",
+      "rating": 4.0,
+      "verified": true,
+      "author": "newlinux",
+      "helpful_votes": 0,
+      "publication_date": 20140402
+    },
+    {
+      "title": "Recommended",
+      "text": "I purchased this to use in my basement next to the sump pump. I use it with my Vera Lite zwave system by Micasaverde and have it set up to send me text and email alerts if water on the floor is detected.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "taylorkt32",
+      "helpful_votes": 0,
+      "publication_date": 20130512
+    },
+    {
+      "title": "Five Stars",
+      "text": "Easy to set-up with Nexia network and works as advertised. I now receive alerts when away.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Nim",
+      "helpful_votes": 0,
+      "publication_date": 20141105
+    },
+    {
+      "title": "Great Product works with Nexia perfectly.",
+      "text": "Works well so far, added it to my Nexia system in about 1 min. I like that the battery level is displayed so I know when I need to change them. haven't had water touch the unit yet but I have no doubts it will alert me if it does.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Steel wheel",
+      "helpful_votes": 0,
+      "publication_date": 20150506
+    },
+    {
+      "title": "Five Stars",
+      "text": "Works great when you want to monitor your home for temp and moisture !!",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Amazon Customer",
+      "helpful_votes": 0,
+      "publication_date": 20161114
+    },
+    {
+      "title": "Peace of Mind",
+      "text": "I have had my house flood three times due to pipe bursts (and I live in the Desert). I'm starting to place these around the house with an eventual automatic shut-off valve. There isn't much to this device and just licking your fingers and placing them against the sensor will trigger it. If you are pairing it with a VeraLite as I have you need to manually change the device_type to urn:schemas-micasaverde-com:device:TempLeakSensor:1 and the device_file to D_TempLeakSensor1.xml to properly get the sensor and temperature in one control.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Larry",
+      "helpful_votes": 0,
+      "publication_date": 20141006
+    },
+    {
+      "title": "Works perfect, I have this sensor inside my freezer and ...",
+      "text": "Works perfect, I have this sensor inside my freezer and I control the On/Off depending on the temperature. Just wish it updated faster.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Roberto Mello",
+      "helpful_votes": 0,
+      "publication_date": 20140924
+    },
+    {
+      "title": "Three Stars",
+      "text": "bit pricy but it works. also it only produces measurements in Celsius instead of Fahrenheit",
+      "rating": 3.0,
+      "verified": true,
+      "author": "Donny",
+      "helpful_votes": 0,
+      "publication_date": 20140804
+    },
+    {
+      "title": "Good device, but the short battery life is a problem",
+      "text": "The sensor itself works as described, detects water and reports the temperature. My biggest issue with this device is the battery life. It is just not long enough to make it a usable device for me. I would not buy it again and would not recommend it to a friend. It works with SmartThings, the temperature information is not supported and it did not notify me either when it ran out of battery power.",
+      "rating": 2.0,
+      "verified": true,
+      "author": "Tep",
+      "helpful_votes": 3,
+      "publication_date": 20150102
+    },
+    {
+      "title": "Smarthings water sensor",
+      "text": "I got three of these for my smartthings Z-Wave. I got fed up with minor leaks. That I was lucky to catch... So no I have three of them in the house.. The bathroom, laundry room and boiler room. Conection was easy for the smartthings took me 10 min to set the tree of them up and test them.. So now if I have a issue with water leak or accident!",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Phil J",
+      "helpful_votes": 5,
+      "publication_date": 20130703
+    },
+    {
+      "title": "Works with Smartthings hub",
+      "text": "When I first bought this sensor it paired with the hub and beeped when wet but did not send an alarm on the network. Fortrezz and SmartThings worked together to solve the problem and make it work as advertised. Now when I test the sensor it beeps and sends an alert to the hub, and the hub sends me a notification and a text message. Kudos for the responsiveness and level of support of these teams!",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Nick",
+      "helpful_votes": 0,
+      "publication_date": 20150307
+    },
+    {
+      "title": "Returned",
+      "text": "The Device worked to detect moisture, sounded audible alarm. Device did not send alarm to smartthings hub. Device was returned.",
+      "rating": 2.0,
+      "verified": true,
+      "author": "CEO",
+      "helpful_votes": 0,
+      "publication_date": 20140509
+    },
+    {
+      "title": "WILL NOT WORK AS A TEMPERATURE SENSOR WITH Smart(DUMB)Things Controller.",
+      "text": "Bought the unit as a temperature sensor. As it is advertised as such. However it DOES NOT WORK as a temperature sensor with the Smart(dumb)Things controller. Neither manufacturer will tell you that until you delve into the Community Forum for Smart(dumb)Things. Fortrezz eludes to some binary code set up. Bottom line stay away from both manufacturers until they grow-up. Unless you are a Linux Hacker.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "Sanford Lavine",
+      "helpful_votes": 0,
+      "publication_date": 20150714
+    },
+    {
+      "title": "Good",
+      "text": "Works well. I use it with Vera2. This one works the same as the previous WWA02, but this one uses the regular AA battery which is better than trying to find that odd-size 1/2AA battery.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "aJayM",
+      "helpful_votes": 3,
+      "publication_date": 20121207
+    },
+    {
+      "title": "Lasted 8 months",
+      "text": "This is nothing put a circuit board in an unsealed plastic box with a couple of holes for the probes. Apparently it can alarm once for water and then its ruined. Yet its about the highest price zwave water sensor. I'm trying the Everspring water sensor now. Much better design for longevity. Any of the water sensor that sit off the ground should be superior to the fortrezz. Fortrezz apparently put very little effort into the design of this product.",
+      "rating": 2.0,
+      "verified": true,
+      "author": "D. Com",
+      "helpful_votes": 0,
+      "publication_date": 20140507
+    },
+    {
+      "title": "More complicated than necessary.",
+      "text": "Not quite what was expected, though I need time to experiment with it before a comprehensive review can be posted.",
+      "rating": 3.0,
+      "verified": true,
+      "author": "KR",
+      "helpful_votes": 0,
+      "publication_date": 20140829
+    },
+    {
+      "title": "Does what you'd expect",
+      "text": "Title says it all. It's not flashy or sophisticated, but it works well with my MCV controller and I haven't had any issues so far.",
+      "rating": 4.0,
+      "verified": true,
+      "author": "Sunny D",
+      "helpful_votes": 0,
+      "publication_date": 20130620
+    },
+    {
+      "title": "doesn't work",
+      "text": "The Unit connects, sends temperature, but doesn't alarm on water. Vendor support. doesn't help. manufacturer is useless. Waste of money. Using Homesser controller.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "R. Schein",
+      "helpful_votes": 4,
+      "publication_date": 20130304
+    },
+    {
+      "title": "Nexia does NOT work with FORTREZZ",
+      "text": "Hello, I am a long time Nexia subscriber. Nexia broadcast that their system is now controlling Fortrezz products. All lies! They are 6 months out from supporting the Fortrezz products. They announced at CES 2014 that they are compatible. Lies!",
+      "rating": 1.0,
+      "verified": true,
+      "author": "AZ Consumer",
+      "helpful_votes": 0,
+      "publication_date": 20140121
+    }
+  ],
+  "product_meta": {
+    "title": "Wireless Water & Temperature Sensor Black w/Buzzer; Cert ID: ZC08-09050007",
+    "description": "Style:BUZZER (BLACK)This product will provide you with peace of mind and the protection you expect. Water damages are caused by leaking pipes, corroded water heaters, water storage tanks, fixtures in bathrooms, laundry rooms, refrigerator drip pans etc. Place this sensor in areas near water consuming appliances and drains. If a leak occurs, water will puddle and reach the sensor sensing element. Once water touches the sensor, it will trigger an alarm . Sensor will sound (buzzer version) ,flash an LED (LED variant) as well as send a notice to the security panel / Z-wave controller that a flood has been detected.",
+    "rating": 3.7,
+    "feature_bullets": [
+      "BEFORE YOU BUY: Check to make sure your home automation controller / security panel is interoperable with our device. NOT ALL Z-wave Controllers are compatible. Please visit our website, ask your controller manufacturer, or call us with questions.",
+      "Battery operated, 2 AA batteries included, Z-Wave Flood Sensor, certified with latest Z-Wave standards",
+      "Sends Leak Detection Alarms, TEMPERATURE reports, and Battery Status to Controller",
+      "Applications: Under Sinks, Sump pump, Refrigerator, Bathtub, Water Heater, Dish Washer, Toilets, Laundry Washing Machine, Protect for freezing temperatures (pipes, rooms, garages, etc)"
+    ],
+    "specifications": {
+      "Manufacturer": "FortrezZ",
+      "Part Number": "WWA01AAUSB",
+      "Item Weight": "4.8 ounces",
+      "Package Dimensions": "4.1 x 2.6 x 2.6 inches",
+      "Item model number": "WWA01AAUSB",
+      "Is Discontinued By Manufacturer": "No",
+      "Style": "BUZZER",
+      "Item Package Quantity": "1",
+      "Batteries Included?": "No",
+      "Batteries Required?": "No",
+      "ASIN": "B007TB3RWQ",
+      "Customer Reviews": "3.7 out of 5 stars85 ratings3.7 out of 5 stars",
+      "Best Sellers Rank": "#469,078 in Tools & Home Improvement",
+      "Date First Available": "April 11, 2012"
+    },
+    "categories": [
+      "Tools & Home Improvement",
+      "Household Sensors & Alarms",
+      "Safety & Security",
+      "Water Detectors & Alarms"
+    ],
+    "price": 47.99
+  }
+}

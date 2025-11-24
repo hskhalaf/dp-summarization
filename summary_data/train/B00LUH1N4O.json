@@ -1,0 +1,957 @@
+{
+  "website_summaries": [
+    {
+      "verdict": "The new AMD A8-7600 offers best-in-class GPU performance and much-improved CPU performance in the 45W power envelope. Future support for HSA applications and the Mantle graphics API should further improve the chip's performance.",
+      "pros": [
+        "Best-in-class GPU performance",
+        "Much-improved CPU performance",
+        "Future support for HSA applications and the Mantle graphics API should further improve performance"
+      ],
+      "cons": [
+        "Performance still lags far behind that of Intel chips"
+      ],
+      "aspects": {},
+      "publication_date": 20140122,
+      "rating": 7.0,
+      "source": "pcmag"
+    }
+  ],
+  "customer_reviews": [
+    {
+      "title": "Good enough",
+      "text": "It works OK for the most part. I realize this is not the highest speed FM2 processor, but when playing videos, it could be interrupted by just about any kind of other activities that might use the GPU. Also, AMD calls this a quad core, but it's actually two physical cores with additional hardware to support dual threads on each core. So if you actually try to run 4 CPU-intensive processes, it won't be twice as fast as running 2 processes. The other reason I got this model was because of its low power rating. I needed a cool and quiet processor for a HTPC.",
+      "rating": 4.0,
+      "verified": true,
+      "author": "Mountain Dewd",
+      "helpful_votes": 0,
+      "publication_date": 20170816
+    },
+    {
+      "title": "First APU, Perfect for Budget Gaming Rig",
+      "text": "This was my first APU, and I'm blown away with it's performance. I don't ask a lot from the rig, I can't play the latest games on ultra but it handles them on low-med, and I can max out most older games. One thing though make sure you get two sticks of RAM (fast ram, the clock speed matters), I couldn't believe the difference when I added in a second chip, the fps went up at least 50%. I used 4GB of 1866mhz RAM initially and then added a second one of the same kind.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Jamie A. Vanderhoef",
+      "helpful_votes": 0,
+      "publication_date": 20161128
+    },
+    {
+      "title": "but after the pretty expensive 5800k first established the \"fast enough\" APU segment ...",
+      "text": "I've bought Llano, Trinity, and this Kaveri chip over the years, but after the pretty expensive 5800k first established the \"fast enough\" APU segment this one really made it affordable. You really shouldn't be buying one of these anymore - Raven Ridge just came out and a 2200G puts this chip to shame for even less money - but for its time it was a great time to build pcs.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Zanny",
+      "helpful_votes": 0,
+      "publication_date": 20180304
+    },
+    {
+      "title": "Great value",
+      "text": "This guys is pretty impressive for what it is, but to get the most out of it you want to pair it with 2133Mhz+ memory. If you do, while you won't be playing Battlefield One @ 60FPS, you can play plenty of games at low/medium detail at 1080P and get 30+FPS, including WoW, Elder Scrolls Online, Starcraft 2, Diablo 2, etc. There's really nothing better for a ~$300 build if you want to be able to do some gaming.",
+      "rating": 4.0,
+      "verified": true,
+      "author": "Aaron",
+      "helpful_votes": 0,
+      "publication_date": 20161211
+    },
+    {
+      "title": "Great value vs a10",
+      "text": "There's a lot value here for the money. I was reading benchmarks that had this just one or two FPS lower than the a10-7800 or 7860k on the same settings. You're always up against diminishing returns at some point, but this seems to be an especially effective value purchase. I run it in the provided 45w mode a lot when my PC is doing HTPC duty and appreciate the option.",
+      "rating": 4.0,
+      "verified": true,
+      "author": "Amazonian",
+      "helpful_votes": 2,
+      "publication_date": 20160506
+    },
+    {
+      "title": "excellent choice",
+      "text": "great processor to use for htpc or medium duty computer. can do some games with it but not what i got it for. was easy to install and setup and runs better than the old celeron computer i upgraded from. comes wit basic heatsink and fan which does what it needs. the video is good and can handle up to 4096 X 2160.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "John A",
+      "helpful_votes": 2,
+      "publication_date": 20160626
+    },
+    {
+      "title": "this works great, but do not expect to get the same ...",
+      "text": "I did not get the performance i was hoping for out of the integrated video card, but I got the performance I expected. For an all in one solution, this works great, but do not expect to get the same performance as a standalone video card of the same series. CPU seems to work good. Not stellar, but still good.",
+      "rating": 4.0,
+      "verified": true,
+      "author": "Bowulf",
+      "helpful_votes": 0,
+      "publication_date": 20170728
+    },
+    {
+      "title": "Perfect for Cheap Gaming Pc",
+      "text": "This is for average consumers Looking to build a gaming pc that can run most games at low settings at 720p but still run then at 60 fps Amazing for the price, I ran all my game they works effortlessly and easy to install on a fm2 + mother board. Pros Cheap for games Easy to install Powerful for the price Good software support cons Cant run all games at 60fps 1080 p",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Parth",
+      "helpful_votes": 2,
+      "publication_date": 20161110
+    },
+    {
+      "title": "excellent value for your money",
+      "text": "As always with AMD, excellent value for your money. This cpu works very well and since it's the 65 watt version it runs cool. This was my main concern as I have it mounted in a fan less case, there's only the cpu and power supply fans and I've never seen more then 63c under heavy load, the system normally idles around 41c. For reference I have it mounted to a MSI A88X AC V2 board in a Thermaltake Element Qi case all purchased here on Amazon. Buy with Confidence.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Russ",
+      "helpful_votes": 0,
+      "publication_date": 20151111
+    },
+    {
+      "title": "Works well for first build low budget..daily use",
+      "text": "First build, low budget..barely gaming. This APU works well enough for most tasks and blu-ray movies so far and keeps my computer on the cool and quiet side. I bought a Msi GTX 750Ti as a dedicated GPU for gaming but it or the software didn't play well with the blu-ray and haven't spent enough time to figure out why. Idk if there's bottlenecks or what, but playing blu-rays crash when first starting and lock up the computer mouse and keyboard. So, I took out the GPU and just using the APU until I find out why.",
+      "rating": 4.0,
+      "verified": true,
+      "author": "C. Mayer",
+      "helpful_votes": 0,
+      "publication_date": 20141001
+    },
+    {
+      "title": "LOVE LOVE LOVE!!!",
+      "text": "I really like this cpu apu! I took a lot of time to research what to go with for my daughter's computer build. I'm a not so technical mom, and wanted my daughter to have an awesome graphics art computer, since that is what she wants to do as a career! I wasn't disappointed. This chip packs a punch and her computer is capable of rendering detailed graphics, video, and animation production! I will most definitely go with AMD again!",
+      "rating": 5.0,
+      "verified": true,
+      "author": "PDG",
+      "helpful_votes": 0,
+      "publication_date": 20151215
+    },
+    {
+      "title": "Great CPU for what I do",
+      "text": "Great CPU for what I do. Very cheap. Not a gamer and I don't do much video editing. I got 2 desktops with this cpu, one is basically a set-top box for watching TV in my sunroom and the other desktop is basically everyday workhorse.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Amazon Customer",
+      "helpful_votes": 0,
+      "publication_date": 20170511
+    },
+    {
+      "title": "very happy with this apu!",
+      "text": "I had a A10-5800k before this that would idle at 78 degrees c.I put in artic cooler got temp down but apu did not seem that quick at all.then decided on this apu instead with its 65 watt tdp.runs much cooler in my htpc case.also it is faster even with it's 3.1ghz cpu core speed vs the a10 that was at 3.8ghz.both are quad cores.I am much happier with this chip than the a10.this is a sweet spot apu.buy it a great apu.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "T. Hansen",
+      "helpful_votes": 0,
+      "publication_date": 20151128
+    },
+    {
+      "title": "Amazing performance at very low temps - with only basic case and cpu fans!",
+      "text": "Very powerful yet gets everything done at very low temps. I don't normally overclock my PCs, though I wouldn't have any worries overclocking this APU because it performs so well at such a low temp, a person could add a more robust fan and really step this clock up without worries.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Matty B",
+      "helpful_votes": 0,
+      "publication_date": 20160726
+    },
+    {
+      "title": "Good Performance, Fantastic Price",
+      "text": "Great for budget PC build. No graphics card needed (this is an APU with R7), if you install one later on, integrated GPU is easily disabled in bios. Great performance for price. If you already plan to use a graphics card, get an Athlon (845, 860/k or 880/k). Its the parallel series that requires discrete graphics (a graphics card) and you can get a step up in performance at the same price.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Invalid User",
+      "helpful_votes": 0,
+      "publication_date": 20170110
+    },
+    {
+      "title": "Great APU for some light duty gaming and office duties",
+      "text": "Great APU for some light duty gaming and office duties. I paired this with some decent ram and an SSD for a main office computer for a client. My client says this fills much faster than the system bought from a big box store for roughly the same price.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Adam",
+      "helpful_votes": 0,
+      "publication_date": 20171004
+    },
+    {
+      "title": "A Great APU for an HTPC/Light Gaming Machine",
+      "text": "I am really impressed by this little APU. I have this APU installed in my mini-ITX linux machine. This linux machine is mainly used as an HTPC and light gaming machine. Some games I play on this machine are FEZ, Starbound, Pixel Piracy, and Braid. Nothing too graphically intensive; actually, more CPU intensive. It handles the games well and I was fairly surprised by how well these games ran. I will update this review once I install and play more games on this machine.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Striker",
+      "helpful_votes": 0,
+      "publication_date": 20150715
+    },
+    {
+      "title": "Great",
+      "text": "Not best for gaming but can run CSGO okay and that\u2019s all I play",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Preston Loughary",
+      "helpful_votes": 0,
+      "publication_date": 20200303
+    },
+    {
+      "title": "legacy computer",
+      "text": "great seller and a good cpu for a legacy pc where the original died.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Joseph M Schroeder",
+      "helpful_votes": 0,
+      "publication_date": 20200803
+    },
+    {
+      "title": "Fantastic budget apu",
+      "text": "Very well priced and solid processor. Has been running for 4+ years 24/7 with no issues. Works great for general use, web browsing, word processing, programming, htpc and streaming, and even very light gaming.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Andrew G.",
+      "helpful_votes": 0,
+      "publication_date": 20170723
+    },
+    {
+      "title": "Love this APU",
+      "text": "Love this APU. No problems at all, and great performance for the money. If you have money burning a hole in your pocket, or \"need\" to buy the Intel name for the sake of bragging rights, look elsewhere. But this APU is great for 90% of your computing needs. If you are a gamer, a discrete graphics card upgrade may still satisfy most gaming needs. If you are chasing benchmark scores, this won't cut it.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "DLK",
+      "helpful_votes": 0,
+      "publication_date": 20141216
+    },
+    {
+      "title": "Impressive little APU !!!!!",
+      "text": "This is one of the best entry lever gaming APU's you can get in a $80-$100 price. If you have a tight budget around $300 for your PC I would highly recommend this APU. In my case I been playing games on it such as Crycs 3 at (720p Mid Settings), Counter Strike Global Offensive (1080p Mid Settings), Warframe (1080p Mid Settings), It's been able to maintain a 30+ FPS for all the games mentioned. Here are a few of my videos of this APU in action: Crysis 3 :  Counter Strike Global Offensive:  Warframe:",
+      "rating": 5.0,
+      "verified": true,
+      "author": "dennis",
+      "helpful_votes": 0,
+      "publication_date": 20151211
+    },
+    {
+      "title": "Bargain!",
+      "text": "Best and most efficient processor I've ever owned. Working great in our theater. This processor is so nice I gave up on the PC in my man cave. Running Ubuntu 16.01, 8G ram, 256GB SSD. That's all you need with Linux. I've been clean now for a good long while. No more MicroSoft and it feels good to be free.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Dean Flowers",
+      "helpful_votes": 0,
+      "publication_date": 20160519
+    },
+    {
+      "title": "Great product!",
+      "text": "We are a wholesale computer parts company and people buy these left & right. Never had a single complaint. Great product!",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Mark B Vreeland",
+      "helpful_votes": 2,
+      "publication_date": 20160728
+    },
+    {
+      "title": "Cheap, quick and quiet!",
+      "text": "Nice cheap and quick. This is going to be used in my parents pc (overkill I know) which they will not use for gaming. Should surpass anything they need it for and serve them well for years to come. Forgot to mention this thing is pretty dang quiet with the stock cooler which is nice.",
+      "rating": 4.0,
+      "verified": true,
+      "author": "Dustin Corbet",
+      "helpful_votes": 0,
+      "publication_date": 20160205
+    },
+    {
+      "title": "easy installation and improved performance",
+      "text": "Bought this to replace an older AMD quad core and motherboard for HTPC...easy installation and improved performance. no overclocking as it is not needed...Always satisfied with AMD as it my preferred processors for my needs. Highly recommended. and will purchase a few more for other builds.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "J T",
+      "helpful_votes": 0,
+      "publication_date": 20160519
+    },
+    {
+      "title": "... corsair vengeance 2x4 dual channel 2133 ram it runs like a beast 110-120 fps max settings on league of ...",
+      "text": "Paired this up with corsair vengeance 2x4 dual channel 2133 ram it runs like a beast 110-120 fps max settings on league of legends. About to try it out with the new crimson relive edition and also thinking of pairing it up with the new oc edition gigabyte r7 250 2033 ddr3 dual graphics",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Travis",
+      "helpful_votes": 0,
+      "publication_date": 20170301
+    },
+    {
+      "title": "Four Stars",
+      "text": "Not super fast, but low power usage .. very quiet fan and on-chip video controller. Nice!",
+      "rating": 4.0,
+      "verified": true,
+      "author": "Bubbarosa",
+      "helpful_votes": 0,
+      "publication_date": 20171226
+    },
+    {
+      "title": "Great apu.",
+      "text": "I build my first pc with a amd a6 6400k apu and i was able to play some games on med settings. But after i found about the amd a8 7600, i went ahead and bought it. Wow!! What a difference!! In performance. I play bf4 on 720p high settings and get 30 fps. Great apu.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "MarcAnt",
+      "helpful_votes": 0,
+      "publication_date": 20150404
+    },
+    {
+      "title": "great for the money",
+      "text": "built a quick budget pc with this chip and all was great. runs warm when maxed out but a simple 30 air cooler keeps it under control. was surprised by the video speed and stability. A great chip for the non game machines.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "ret tech",
+      "helpful_votes": 0,
+      "publication_date": 20160816
+    },
+    {
+      "title": "Good procwssor for small builds",
+      "text": "I have always trusted AMD since they first started. (Kind of like Ford and Chevy). This baby fired up the first time and is still going good.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "BuckStar69",
+      "helpful_votes": 0,
+      "publication_date": 20161204
+    },
+    {
+      "title": "Really impressed that this is able to run virtual pinball ...",
+      "text": "Really impressed that this is able to run virtual pinball in 1920x1080 with no GPU at all and no lag",
+      "rating": 5.0,
+      "verified": true,
+      "author": "thomas d crielly",
+      "helpful_votes": 0,
+      "publication_date": 20170605
+    },
+    {
+      "title": "SOLID.",
+      "text": "smooth, fast and super easy to install. it's that simple really. combine it with the right MOBO and you got yourself and easy setup HTPC or basic/mid range PC for your every day needs.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Sky",
+      "helpful_votes": 0,
+      "publication_date": 20160611
+    },
+    {
+      "title": "Strap a giant heat sink to this bad boy and it OC's itself nicely",
+      "text": "Strap a giant heat sink to this bad boy and it OC's itself nicely. Auto OC'ed to 3.7Ghz and stayed frosty.",
+      "rating": 4.0,
+      "verified": true,
+      "author": "Kindle Customer",
+      "helpful_votes": 0,
+      "publication_date": 20171028
+    },
+    {
+      "title": "Always get a quad or better processor",
+      "text": "Roxor, quad processor rocks now i can multi task remote work and do modelling locally. Very happy.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "todd",
+      "helpful_votes": 0,
+      "publication_date": 20171129
+    },
+    {
+      "title": "but the second I got every thing set and loaded up a game I was blown away as to how good it is and fast even for the IGPU it ..",
+      "text": "I was a little skeptical of how well this would be able to run, but the second I got every thing set and loaded up a game I was blown away as to how good it is and fast even for the IGPU it has really impressed me.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Brandy Harper",
+      "helpful_votes": 0,
+      "publication_date": 20150911
+    },
+    {
+      "title": "I don't normally build low-end computers, but this APU ...",
+      "text": "I don't normally build low-end computers, but this APU went in a basic office machine for a family member. I'm impressed with its performance for the price.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "J. Gilbert",
+      "helpful_votes": 0,
+      "publication_date": 20170307
+    },
+    {
+      "title": "Good performance and affordable",
+      "text": "Good performance and affordable. I want to get an r7 graphics card for the dual graphics, to get better performance when playing games. For video edition has been perfect.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Daniel Scott",
+      "helpful_votes": 0,
+      "publication_date": 20160310
+    },
+    {
+      "title": "A steal",
+      "text": "This is a great deal. The heat sink is noisy, but that is easily replaceable. Built this into a home theatre/ workstation system, and it is fast and has good enough graphics with no shuddering for what I use it for which is just streaming video and basic web browsing. Great buy for the price.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Stud",
+      "helpful_votes": 0,
+      "publication_date": 20160113
+    },
+    {
+      "title": "Five Stars",
+      "text": "Fantastic bang/buck, especially if you want motherboard graphics that you can actually do something with.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "stalkythefish",
+      "helpful_votes": 0,
+      "publication_date": 20170501
+    },
+    {
+      "title": "Integrated graphics good enough to run Skyrim at medium high to high ...",
+      "text": "Solid processor for the price. Integrated graphics good enough to run Skyrim at medium high to high settings at 1080p, 60fps. I threw this into a small form factor gaming rig and it plays all my games without needing discrete graphics. You're not going to to rocking ultra high settings, but for what it is, I am pleased",
+      "rating": 4.0,
+      "verified": true,
+      "author": "grant jacob bilby",
+      "helpful_votes": 2,
+      "publication_date": 20150627
+    },
+    {
+      "title": "Bought AMD A8-7600 APU Finally!!",
+      "text": "I had been waiting for this processor for my HTPC to be available in India for months. Then, I found this on amazon.com at a discount with delivery in India. I jumped at the offer and the APU was with me in 10 days!! The delivery was flawless. I could track the package as it traveled through the world and when it reached India. I also got updates as it was processed by Customs in India. The processor has fulfilled all my expectations. I have built my HTPC and everything is working well. The speed is excellent and the box barely heats. I am very happy with this purchase.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Shrikant Khare",
+      "helpful_votes": 0,
+      "publication_date": 20150104
+    },
+    {
+      "title": "Perfect for low budget basic PC",
+      "text": "Can't go wrong with this if building a basic non-gaming pc. Perfect for Quickbooks and Office Suites and Web surfing",
+      "rating": 5.0,
+      "verified": true,
+      "author": "JAP73",
+      "helpful_votes": 0,
+      "publication_date": 20170509
+    },
+    {
+      "title": "Perfect for Desktop and Mild Gaming",
+      "text": "Quad Core, Low Watts, Quiet Fan, Built-in GPU that does everything I need, and rocks Minecraft for my grandson. What isn't there to love?",
+      "rating": 5.0,
+      "verified": true,
+      "author": "K. Zutter",
+      "helpful_votes": 0,
+      "publication_date": 20161219
+    },
+    {
+      "title": "100% satisfied with their performance for such a low cost",
+      "text": "Have bought a couple of these over last few years to use in budget HTPC builds. 100% satisfied with their performance for such a low cost.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "dpt17",
+      "helpful_votes": 0,
+      "publication_date": 20170117
+    },
+    {
+      "title": "Awesome processor for the price",
+      "text": "Awesome processor for the price. If you need a budget CPU pick this one up. Currently in use for a basic home server and has worked without a hiccup.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Kevin M.",
+      "helpful_votes": 0,
+      "publication_date": 20170526
+    },
+    {
+      "title": "Needed something a little faster for Plex on my file ...",
+      "text": "Needed something a little faster for Plex on my file server and didn't want to spend too much money, this is working perfectly. Used it to replace an A6-5300.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "RedOneStandingBy",
+      "helpful_votes": 0,
+      "publication_date": 20160810
+    },
+    {
+      "title": "Worth buying when it was recent. Dont buy it now. AMD has better APU for almost the same or maybe even cheaper.",
+      "text": "Cheap and powerful. Basically a processor and a graphics card combined since it's an APU.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Gian Carlo",
+      "helpful_votes": 0,
+      "publication_date": 20170802
+    },
+    {
+      "title": "I expected much more from the APU",
+      "text": "I expected much more from the APU, struggles to run borderlands 2 at 1080P. CPU wise it's been nice, does what I want.",
+      "rating": 4.0,
+      "verified": true,
+      "author": "Shawn Chao",
+      "helpful_votes": 0,
+      "publication_date": 20160824
+    },
+    {
+      "title": "Really Good Bang for the buck",
+      "text": "Really Good Bang for the buck. But if you use an add on video card you can't use the processor to its fullest. I have always been an AMD fan and here is just another reason why.",
+      "rating": 4.0,
+      "verified": true,
+      "author": "Paul",
+      "helpful_votes": 0,
+      "publication_date": 20150404
+    },
+    {
+      "title": "Good buy",
+      "text": "As described. Top performer from a reputable company. No compatibility issues, easy to set up.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Dan in St Louis",
+      "helpful_votes": 0,
+      "publication_date": 20170427
+    },
+    {
+      "title": "Four Stars",
+      "text": "Stock fan sucks (was hitting 80C), but the cpu itself is pretty good for a cheap 300$ computer.",
+      "rating": 4.0,
+      "verified": true,
+      "author": "lamonte h",
+      "helpful_votes": 0,
+      "publication_date": 20170530
+    },
+    {
+      "title": "AMD still does the best job for the money",
+      "text": "AMD still does the best job for the money. Have used a lot of them, and never had a problem. They just work and keep on working.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Kindle Customer",
+      "helpful_votes": 0,
+      "publication_date": 20151104
+    },
+    {
+      "title": "performance is as good or better than anticipated",
+      "text": "Finally got the time to install, performance is as good or better than anticipated.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "GL",
+      "helpful_votes": 0,
+      "publication_date": 20170405
+    },
+    {
+      "title": "... is now fast enough to play the games I like to play without bogging or",
+      "text": "Computer is now fast enough to play the games I like to play without bogging or crashing",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Dan Burkhart",
+      "helpful_votes": 0,
+      "publication_date": 20170919
+    },
+    {
+      "title": "Great for office applications and surfing the Internet",
+      "text": "I don't game at all. I mainly use it for office applications and surfing the net. Not sure how to test it out but seems to be working great.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Chang",
+      "helpful_votes": 0,
+      "publication_date": 20150329
+    },
+    {
+      "title": "Great CPU for the price.",
+      "text": "This APU is hard to beat for the price. I mainly use mine to record and remove commercials from TV I record with a PCIe TV tuner. The CPU can handle the conversation without breaking a sweat and stays quite. Even streaming live to multiple computers at the same time the CPU doesn't even go over 20% load.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "David R.",
+      "helpful_votes": 0,
+      "publication_date": 20151209
+    },
+    {
+      "title": "APU helps keep the costs down.",
+      "text": "Good choice for a low cost build since it eliminates the need for a video card. Used an MSI board with on board HDMI powering an LG monitor HDMI input.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Loren",
+      "helpful_votes": 0,
+      "publication_date": 20160526
+    },
+    {
+      "title": "Nice for HTPC/NAS box",
+      "text": "Bought this processor for use in a FreeNAS Box to keep power use down and not have to buy a graphics card too....",
+      "rating": 5.0,
+      "verified": true,
+      "author": "NW Florida user",
+      "helpful_votes": 0,
+      "publication_date": 20170518
+    },
+    {
+      "title": "Great Little CPU",
+      "text": "Great CPU for a workstation setup and only uses 65 watts which is not bad for a Quad Core CPU + GPU",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Douglas & Victoria strock",
+      "helpful_votes": 0,
+      "publication_date": 20170226
+    },
+    {
+      "title": "Definitely good for everyday basic computing",
+      "text": "Great cpu for basic computing, have had no issues out of it. Cant speak for its gaming capabilities as its in my wifes computer, but for basic computing its been pretty snappy",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Brink",
+      "helpful_votes": 0,
+      "publication_date": 20151220
+    },
+    {
+      "title": "This is one of my favorite",
+      "text": "This is the first time I tried to use a unit to build my desktop other than the one from Intel. So far so good.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "JLiu",
+      "helpful_votes": 0,
+      "publication_date": 20170301
+    },
+    {
+      "title": "Good all around APU",
+      "text": "Good all around APU. Fits the budget segment well for what it packs. Isn't the greatest performance cpu wise but for the money it's gpu does well.",
+      "rating": 4.0,
+      "verified": true,
+      "author": "ibtc8503",
+      "helpful_votes": 0,
+      "publication_date": 20160321
+    },
+    {
+      "title": "Graphics cards are obsolete.  Move on.",
+      "text": "Skip the graphics cards and just use an APU. Works great for \"the rest of us.\" My son could not be happier. His first build without any major issues (beside needing to adjust bios for 2133 RAM and buy an extra standoff screw for the MB install): WIFI card:  HD:  MB:  Case:  PS:  APU:  RAM:",
+      "rating": 5.0,
+      "verified": true,
+      "author": "rockpaperscissors",
+      "helpful_votes": 0,
+      "publication_date": 20150810
+    },
+    {
+      "title": "Excellent quality for an excellent  price!",
+      "text": "I am giving it a 5 star. Due to easy install. Very fast, fastest cpu I've upgraded to, runs older games beautifully. The built in graphics blew me away, the power of the built on gpu is amazing compared to previous generations. Worth every penny. I am a hardcore gamer and have been building my own set ups for the last decade. And I was pleasantly suprised. Definitely worth your money!",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Louis E. Lares",
+      "helpful_votes": 2,
+      "publication_date": 20141215
+    },
+    {
+      "title": "AMD all the way!",
+      "text": "Top quality, excellent item. Started and works as described. Will enjoy my newly built computer for years to come. Excellent graphics from there A-series line. Glad I went with it to keep the fan noises down.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "RetroWoman",
+      "helpful_votes": 0,
+      "publication_date": 20150821
+    },
+    {
+      "title": "So much bang for your buck.",
+      "text": "This is an incredibly inexpensive, fast and high performing cpu. For everyday pc work this processor is more than enough. It even plays high end games at decent frame rates.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "KDC",
+      "helpful_votes": 0,
+      "publication_date": 20160605
+    },
+    {
+      "title": "Five Stars",
+      "text": "Delivered promptly an a factory sealed box. Worked well with other components.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "DJKMSI",
+      "helpful_votes": 0,
+      "publication_date": 20171122
+    },
+    {
+      "title": "Whats not to Like.. Always been a Supporter of Product",
+      "text": "Video & AMD processor, Whats not to Like.. Always been a Supporter of Product.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "klamar55",
+      "helpful_votes": 0,
+      "publication_date": 20170915
+    },
+    {
+      "title": "Great processor for the price.",
+      "text": "With a 5000+ passmark score and fairly powerful built in graphics, for $69 this processor is probably about the best bang for your buck. Also pretty power efficient too at a 65W TDP.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Melissa Musall",
+      "helpful_votes": 0,
+      "publication_date": 20161230
+    },
+    {
+      "title": "Great APU for the buck!",
+      "text": "Worked awesome in a HTPC build I crafted up! I just needed something with 4+ cores that wasn't a weak Pentium, and this did the task, and doesn't get very hot idle!",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Rachelle",
+      "helpful_votes": 0,
+      "publication_date": 20160131
+    },
+    {
+      "title": "Five Stars",
+      "text": "Perfect for a new HTPC. Paired it with ASUS R7250-1GD5 Graphics Cards R7250-1GD5",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Gary",
+      "helpful_votes": 0,
+      "publication_date": 20160304
+    },
+    {
+      "title": "The perfect choice for a sub 400 dollar build",
+      "text": "It ain't the fastest, but it is by no means slow. In fact, it is ranked third by futuremark in terms of value per performance. The perfect choice for a sub 400 dollar build.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Jack",
+      "helpful_votes": 0,
+      "publication_date": 20160729
+    },
+    {
+      "title": "Great CPU for budget build.",
+      "text": "Great CPU! Good power that can handle everyday usage. I have played Forza Horizon 3 on this CPU and I must say it did handle really well. I get an average of 35+FPS with a graphics card (GeForce GTX 750 TI). I recommend this CPU for budget builders like me!",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Amazon Customer",
+      "helpful_votes": 0,
+      "publication_date": 20170422
+    },
+    {
+      "title": "AMD A8-7600",
+      "text": "The product is good, it runs smoothly but contained information online is wrong and misleading. 3.8GHz is the max turbo.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Andrew",
+      "helpful_votes": 0,
+      "publication_date": 20160219
+    },
+    {
+      "title": "Why overpay for Intel?",
+      "text": "Unless you are running CAD or are just a speed junkie, why pay $300.00+ more for Intel. I get 7.4 out of 7.9 on the Windows Experience test with this CPU.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "EddieK",
+      "helpful_votes": 0,
+      "publication_date": 20170506
+    },
+    {
+      "title": "Great value (1/3 price) compared to Intel i5 quad core",
+      "text": "Using now as I write. Incredibly fast processor.. loads Windows 7 in 4-5 seconds. Running Debian Linux now and is really snappy, even when retouching photos. I don't think I'm yet accessing the 6 graphic processors yet as the standard drivers don't support Linux. Great value (1/3 price) compared to Intel i5 quad core.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Mark H., SoCal",
+      "helpful_votes": 2,
+      "publication_date": 20150807
+    },
+    {
+      "title": "Perfect for Minecraft, Web Browsing and Video Streaming",
+      "text": "I am no expert and this is only my 3rd PC build, but for my purpose, this processor worked perfectly. I built a PC for my son to play entry-level video games (Minecraft, Roblox and the like) which is does without any issues. With this processor and its discrete GPU I was able to slap together a very affordable PC that is great for a young child to play games, do homework and stream videos. Looking back I probably should have purchased a better motherboard so I could expand the memory, but for now 8GB of 2133MHz memory works fine. Build: - - - - - -",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Kristin",
+      "helpful_votes": 0,
+      "publication_date": 20170102
+    },
+    {
+      "title": "It can run games like Minecraft & CS",
+      "text": "Surprisingly fast APU! It can run games like Minecraft & CS:GO without a problem! I love it and would suggest it for a budget build!",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Jordan I.",
+      "helpful_votes": 2,
+      "publication_date": 20160610
+    },
+    {
+      "title": "Five Stars",
+      "text": "Love this APU, worth the $300 budget I put into my Gaming PC! No regrets!",
+      "rating": 5.0,
+      "verified": true,
+      "author": "PAM R.",
+      "helpful_votes": 0,
+      "publication_date": 20161228
+    },
+    {
+      "title": "Great APU",
+      "text": "Great APU. I upgraded from an E350. The improved is huge & it only uses 65W. Now my youtube video no longer sutter & my Windows 10 boots in seconds.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "J. Chiu",
+      "helpful_votes": 0,
+      "publication_date": 20151025
+    },
+    {
+      "title": "It is a perfect price-performance ratio if you are going for a budget ...",
+      "text": "It is a perfect price-performance ratio if you are going for a budget build. easy average 34fps in Tomb raider benchmark at medium high settings.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Jody",
+      "helpful_votes": 0,
+      "publication_date": 20141231
+    },
+    {
+      "title": "Installed easily in a Asus A88X-Pro motherboard and has run smoothly ...",
+      "text": "Met my needs perfectly. Installed easily in a Asus A88X-Pro motherboard and has run smoothly for the last month.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Four Wheeler",
+      "helpful_votes": 0,
+      "publication_date": 20150213
+    },
+    {
+      "title": "Five Stars",
+      "text": "with the 30% GPU booster this should give my friend the pc he wants.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Missouri Man",
+      "helpful_votes": 0,
+      "publication_date": 20160711
+    },
+    {
+      "title": "Save On Your Electric Bill!",
+      "text": "Wow this APU is very impressive. Recommended to my brother since he couldn't afford GPU. It serves his needs big time. You can always add a dedicated GPU later guys if you are on budget.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Josh Cordero",
+      "helpful_votes": 0,
+      "publication_date": 20141102
+    },
+    {
+      "title": "works great",
+      "text": "worked great. I have had for a year now with stock fan no issues. sees gaming on steam daily rainbow 6 no issues.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Access",
+      "helpful_votes": 0,
+      "publication_date": 20161228
+    },
+    {
+      "title": "They just work.",
+      "text": "I am a real fan of these A series processors for business systems.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "James Bertino, Jr.",
+      "helpful_votes": 0,
+      "publication_date": 20160104
+    },
+    {
+      "title": "Perfect answer for me",
+      "text": "Along with an Asus A88XM-A and Scythe BIG Shuriken 2 CPU cooler. This installed with NO issues whatsoever. I did update the BIOS for my motherboard, but only because I prefer to update it before starting a new build. This CPU has handled all video's and music with NO hiccups to date. I originally intended on getting a R7 Video card to run crossfire, but I've seen no need for that to this point. The GPU side of this CPU is stout enough for my needs.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Five-6-Kilo",
+      "helpful_votes": 3,
+      "publication_date": 20160113
+    },
+    {
+      "title": "Exactly what I wanted!",
+      "text": "Really a bang for buck fm2 cpu I would upgrade to the K version if I could but if you don't have the funds this will do fine if you don't need the integrated gpu go for the athlon it will provide better frames for games that really need quad cpu's but with dx12 and vulkan this cpu should do the trick for a while",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Alec van Zyl",
+      "helpful_votes": 0,
+      "publication_date": 20160622
+    },
+    {
+      "title": "... system with an A-10 and the A-8 is a great little processor with the performance of an",
+      "text": "I have built a system with an A-10 and the A-8 is a great little processor with the performance of an A-10",
+      "rating": 5.0,
+      "verified": true,
+      "author": "garyedavidson",
+      "helpful_votes": 0,
+      "publication_date": 20141128
+    },
+    {
+      "title": "AMD FTW!",
+      "text": "In conjunction with the motherboard I purchased, this has been a fine, reliable processor. Have been partial to the AMD chips since the early '90's, this doesn't change my opinion one bit.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Tom Kish",
+      "helpful_votes": 0,
+      "publication_date": 20151101
+    },
+    {
+      "title": "Five Stars",
+      "text": "this processor work perfect have the PC operating like a dream",
+      "rating": 5.0,
+      "verified": true,
+      "author": "SHELDON OMAR HOLDER",
+      "helpful_votes": 0,
+      "publication_date": 20161016
+    },
+    {
+      "title": "Awesome!",
+      "text": "Can play low-medium settings on games like COD,Overwatch,warface etc. And on low end games like csgo,LoL,minecraft, can run 1080P mid-high settings. Worth it. A graphics card in the future is recommended.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Roberto G.",
+      "helpful_votes": 0,
+      "publication_date": 20161010
+    },
+    {
+      "title": "Five Stars",
+      "text": "Bought this processor for my Daughter's Computer Build works good just with Stock Fan.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Amazon Customer",
+      "helpful_votes": 0,
+      "publication_date": 20170101
+    },
+    {
+      "title": "it is capable of playing GTA 5 at 35 frames so they love it so",
+      "text": "I used this to build a gaming system for my kids. it is capable of playing GTA 5 at 35 frames so they love it so far",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Ricardo Newman",
+      "helpful_votes": 0,
+      "publication_date": 20170111
+    },
+    {
+      "title": "Great cpu",
+      "text": "This is a great processor. Glad I went with this.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Steve Dave",
+      "helpful_votes": 0,
+      "publication_date": 20151011
+    },
+    {
+      "title": "good product but the thermal compound needs a little more ...",
+      "text": "good product but the thermal compound needs a little more thickness had to recoat it, other than tht no problems",
+      "rating": 4.0,
+      "verified": true,
+      "author": "Donna S.",
+      "helpful_votes": 0,
+      "publication_date": 20141210
+    },
+    {
+      "title": "Five Stars",
+      "text": "Wonderfull, its not the fastest but it does the job!",
+      "rating": 5.0,
+      "verified": true,
+      "author": "OscarGoldman",
+      "helpful_votes": 0,
+      "publication_date": 20151120
+    },
+    {
+      "title": "Cheap alternative for League of Legends",
+      "text": "Awesome APU. Have it for 4 years and still going. Plays League of Legends on High Settings without issues.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "t",
+      "helpful_votes": 0,
+      "publication_date": 20170519
+    },
+    {
+      "title": "Processor arrived defective. I purchased for 79 dollars and ...",
+      "text": "Processor arrived defective. I purchased for 79 dollars and they only refunded me 63 dollars. Will not purchase they outlet pc again",
+      "rating": 1.0,
+      "verified": true,
+      "author": "Daniel Persinger",
+      "helpful_votes": 0,
+      "publication_date": 20171002
+    }
+  ],
+  "product_meta": {
+    "title": "AMD A8-7600 Quad-Core 3.1 GHz Socket FM2+ 65W Desktop Processor AMD Radeon R7 (AD7600YBJABOX)",
+    "description": "Size:A8-7600 with stock fanAMD a8-7600 AD7600YBJABOX Quad-Core APU kaveri processor 3.1GHz socket FM2+, retail.",
+    "rating": 4.7,
+    "feature_bullets": [
+      "Experience a new level of immersion with AMD TrueAudio technology",
+      "Unlock your system's full potential with HSA enabled APUs",
+      "Radeon R7 Graphics",
+      "4MB Cache",
+      "10 Compute Cores : 4 CPU Cores + 6 Graphics Cores"
+    ],
+    "specifications": {
+      "Brand": "AMD",
+      "Item model number": "AD7600YBJABOX",
+      "Item Weight": "1 pounds",
+      "Product Dimensions": "4 x 4 x 1 inches",
+      "Item Dimensions  LxWxH": "4 x 4 x 1 inches",
+      "Processor Brand": "AMD",
+      "Processor Count": "4",
+      "Computer Memory Type": "DDR3 SDRAM",
+      "Manufacturer": "AMD",
+      "ASIN": "B00LUH1N4O",
+      "Is Discontinued By Manufacturer": "No",
+      "Date First Available": "July 17, 2014",
+      "Customer Reviews": "4.7 out of 5 stars561 ratings4.7 out of 5 stars",
+      "Best Sellers Rank": "#337 in Computer CPU Processors"
+    },
+    "categories": [
+      "Computers & Accessories",
+      "CPU Processors",
+      "Internal Components",
+      "Computer Components",
+      "Electronics"
+    ],
+    "price": ""
+  }
+}

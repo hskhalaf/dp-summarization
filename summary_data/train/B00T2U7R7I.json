@@ -1,0 +1,970 @@
+{
+  "website_summaries": [
+    {
+      "verdict": "The Raspberry Pi 2 Model B is the same size and the same price as its predecessor, but major hardware improvements make this mini computer much more delectable overall.",
+      "pros": [
+        "It's a $35 computer!",
+        "Drastically improved performance, feature set over the previous iteration"
+      ],
+      "cons": [
+        "Only for the adventurous",
+        "Software, setup may be challenging to some"
+      ],
+      "aspects": {},
+      "publication_date": 20150305,
+      "rating": 8.0,
+      "source": "pcmag"
+    }
+  ],
+  "customer_reviews": [
+    {
+      "title": "Good device.",
+      "text": "Packaging / Delivery Time The Item was sent in a standard Amazon Box just a bit bigger than the product box and arrived very quickly My background / Simular items I have used/purchased before I started in IT back in 1999 but always loved IT and currently, work or an IT company managing and buying equipment, Every since the Raspberry PI was released I have been hooked and have built many projects using it as a basis and hoping to get my son into it soon as well. First thoughts It's a Raspberry PI v2!!, It works well and already used for a project. Good / Bad Points Good - Good price well made Bad - None Conclusion",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Federico Boscardin",
+      "helpful_votes": 0,
+      "publication_date": 20170531
+    },
+    {
+      "title": "Great piece of kit with some stupid niggles",
+      "text": "You can't complain about the price but it doesn't work \"out of the box\". If you are buying this as a gift for a nephew, niece, grandchild, etc., you do need to buy other stuff too, in order to avoid the \"no batteries for the toy problem\": as a minimum a micro SD card, e.g.,a case would be a good idea and possibly a power supply too. A beginner will need a USB keyboard (e.g.,, you might want to consider an HDMI lead, an experiment kit and a wi-fi adapter For an educational gift expect to pay about as much again for the bits and pieces.",
+      "rating": 4.0,
+      "verified": true,
+      "author": "Gentoo",
+      "helpful_votes": 2,
+      "publication_date": 20150403
+    },
+    {
+      "title": "Every house should have at least one of these.",
+      "text": "There's clearly loads that the Pi can do, no point in me reiterating or flogging the point, but all I'll say is the move from Pi to Pi2 has basically made what was already a pretty great device, into an awesome virtually-perfect little beast. I imagine most people will be using as a media centre - the added power here resolves all the frustrations of latency as you navigate around the menus, and generally improves on the visual performance. I've no doubt that other myriad uses of the Pi will benefit in a similar fashion. Awesome device and although I planned to hand-me-down the Pi(1) to my daughter, I've decided instead to just go and buy another Pi 2.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Jam",
+      "helpful_votes": 0,
+      "publication_date": 20150805
+    },
+    {
+      "title": "Eben Upton does it again! Remarkable machiine, remarkable value.",
+      "text": "Stonking machine! The little computer that could.... With the new CPU and 1GB RAM this runs Raspbian brilliantly, it's a modest desktop replacement imho. By plugging it into the back of the family TV (instead of our usual Intel J1900 2GHz quad-core box running Debian/Bodhi) we proved to our satisfaction that it performs equally well, since nobody noticed the swapover. Yes I did change the wallpaper.... So it is a viable micro desktop, imho. Plus it opens up all kinds of embedded applications that needed a tad more crunching power or RAM. Think... Musical instrument processing and more. Strongly recommended to anybody with an interest in computing.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Big Ben",
+      "helpful_votes": 0,
+      "publication_date": 20150527
+    },
+    {
+      "title": "Great for learning about electronics and Unix systems.",
+      "text": "Great fun for building projects and having a bit of a play. Loads of support from others tinkering with this great piece of kit. I recommend buying only if quite a bit cheaper than the latest Pi 3, which has WiFi and Bluetooth built in. Arduinos are recommended for electronics related projects, but I have found the Pi to be perfectly adequate for everything I wanted to do and has the huge bonus of a full operating system to support your project. All the numerous components built for the Arduino can be used with few or no mods.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "London Engineer",
+      "helpful_votes": 0,
+      "publication_date": 20160501
+    },
+    {
+      "title": "An excellent little computer you can do an awful lot with!",
+      "text": "It's an excellent little computer, and makes a fantastic little web server! As a web developer I have a lot of little projects that need to be run on a server and I don't want to pay a monthly subscription or deal with ads (I can disable those with PHP but it isn't fair on the provider). It's also fast enough that I can do most of the development on it too so that sure saves on electricity as it only uses 4.5 watts instead of 60+ watts. The only issue I have with it is that it can't be run on free software alone (free as in freedom, not as in free beer).",
+      "rating": 5.0,
+      "verified": true,
+      "author": "cubley",
+      "helpful_votes": 0,
+      "publication_date": 20151025
+    },
+    {
+      "title": "Buy if you have an use for it.",
+      "text": "Well, everyone knows what an Raspberry PI is. Bought it to use as a small computer for Youtube videos. Raspbian could barely play any videos and program selection was poor. Changed the OS to Ubuntu Mate, which was far better in my opinion and could run Firefox for example, but couldn't run many videos. In total used the Raspberry PI less than 10 times and decided to sell it. Buy if you have an use for it or know what you're doing, not worth buying 'just to have' like I did.",
+      "rating": 3.0,
+      "verified": true,
+      "author": "Amazon Customer",
+      "helpful_votes": 0,
+      "publication_date": 20161204
+    },
+    {
+      "title": "The hardware finally matches the expectations!",
+      "text": "This is finally usable as a desktop! I've had a raspberry pi version A and a B+ and they were okay, buy too slow to be usable for a gui system. This new system with its quad core processor that can easily be overclocked to run at 1.1ghz works brilliantly. There are some things the older models just couldn't do (or not do well). For instance, when running openelec with a large video library I couldn't actually see a list of the movies when using the web interface, now I can. Also the gui when using Linux works really fast. It works with cases that fit the raspberry pi version B+ too.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Andy S.",
+      "helpful_votes": 0,
+      "publication_date": 20150607
+    },
+    {
+      "title": "Makes a great wireless streaming device for music",
+      "text": "Currently wired up to a set of powered speakers and am using this to send the music to the speakers wirelessly. I've installed PiCorePlayer on the Pi2 which is free and a doddle to use and pretty reliable although I do need to restart the Shairport service every now and again. I do all this via my Android phone. Music is streamed using Foobar for Android and an app called AirAudio. Very flexible system",
+      "rating": 5.0,
+      "verified": true,
+      "author": "J R Hartley",
+      "helpful_votes": 0,
+      "publication_date": 20170916
+    },
+    {
+      "title": "Hours of fun(?) limited, it seems only by your imagination",
+      "text": "Bought this one for a specific project and have 3 others. All work faultlessly and are as much to do with finding useful things to do with them and how to achieve your goal with reasonably easy to use software. Relatively easy and cheap enough to experiment with so no worrisome angst when turning on a new project if all goes pear shaped. In my experience, they are quite resilient to the odd gaff, given that basic rules are followed. Buy one and have many happy ( and frustrating head scratching) hours of fun.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "F. S. Morton",
+      "helpful_votes": 0,
+      "publication_date": 20160214
+    },
+    {
+      "title": "Awesome bit of kit",
+      "text": "Purchased for a kitchen/diner music system using OSMC (Kodi) and works perfectly. Very impressed. Added an audio top HAT that works with my sound system. I am already thinking about my second RPi project that will be a magic mirror.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Tabby",
+      "helpful_votes": 0,
+      "publication_date": 20190728
+    },
+    {
+      "title": "Great machine, potential for more",
+      "text": "Great machine, especially for a beginner like me, I got it due to wishing to play retro games on it, and following instructions online I was able to do that, just ensure you type the correct code to switch off the Pi as there isn't an on/off switch. Recommend searching for guides to get you started if you're a beginner like me.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Nozza",
+      "helpful_votes": 4,
+      "publication_date": 20151110
+    },
+    {
+      "title": "Great little computer!",
+      "text": "I am spending too much money on these I have four so far. I have 'plumbed' in two as OLEC multimedia systems in the lounge and bedroom. I have set up a RetroPi games console.......and if I have enough time left in my day.....I hope to teach myself some coding on the fourth one. This version of the Pi is like chalk and cheese when compared to the original B which I bought on its release. The version 2 is powerful enough to be of use. Video playback from a small unit like this has to be seen to be believed.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "B. Galbraith",
+      "helpful_votes": 0,
+      "publication_date": 20150504
+    },
+    {
+      "title": "good",
+      "text": "I like my Pi for the fact that it could have many uses if i wanted. I actually use it for Kodi and for this it is sufficient and adds that 'i built it myself element' rather than buying an Amazon stick pre programmed with kodi i went this route in order to understand how to create a custom kodi with my own repositories etc. I have also tested as Retro Pi and this worked well. All in all a cheap multi use product with cheap and effective add-ons - cameras, sensors etc.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "User86",
+      "helpful_votes": 0,
+      "publication_date": 20160211
+    },
+    {
+      "title": "Great device, still astonishing value for money",
+      "text": "Great device, still astonishing value for money. I'm very excited about running Windows 10 on PI as the Pi 2 has the required grunt to run it. One word of warning. You will need at least some technical skills to do anything with the Raspberry PI. However, google is your friend here. There are plenty of tutorials online about setting it up. I'm currently using mine as a media centre.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Andrew Gibson",
+      "helpful_votes": 2,
+      "publication_date": 20150429
+    },
+    {
+      "title": "Love it!",
+      "text": "makes an excellent Media centre,desktop or retro games console.It is also possible to have multiple operating systems on it by using Noobs or BerryBoot.I currently have Raspbian (linux based desktop) and OpenElec (Kodi).All i did was format by sd card in windows then moved the files inside the extracted noobs folder over to the sd card and put it in the pi.If you want multiple installs you will need a larger mini sd card.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Techie74",
+      "helpful_votes": 0,
+      "publication_date": 20160111
+    },
+    {
+      "title": "Unlimited possibilities with such a small computer",
+      "text": "Brilliant little piece of equipment. With this and a fibre optic internet connection at home you can easily run a small web server, cloud storage platform, etc. because you can install many different tools and software depending on how big your storage space is. For my future projects, I've got the Google Nest at home and because Apple's Siri doesn't natively work with the Nest, there's a plethora of tools/applications for me to install to bridge that gap. If not I'll just develop my own app for the Nest.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Soi",
+      "helpful_votes": 0,
+      "publication_date": 20161226
+    },
+    {
+      "title": "Other than that now it's sorted it's great can't fault how it works this is why four ...",
+      "text": "My son who works in computers set this up for me so he knows what he is doing and it took him about five hours to get it to work not sure of the reason think some file was in the wrong place. He did figure it out but would say you need someone who knows what they are doing to get it working. Other than that now it's sorted it's great can't fault how it works this is why four stars and not five",
+      "rating": 4.0,
+      "verified": true,
+      "author": "marie conlin",
+      "helpful_votes": 0,
+      "publication_date": 20160220
+    },
+    {
+      "title": "So much faster. Running OpenElec media server.",
+      "text": "So much faster than the original model. This is now hooked up to one of the HDMI ports on the back of the TV in the lounge acting as a media server (using OpenElec from the Noobs download) without need for a keyboard or use as the TV remote does all the work. Doesn't even break into a sweat. Using it as a web browser is now far improved and I've even bought three at work for public access \"kiosks\".",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Tony B",
+      "helpful_votes": 0,
+      "publication_date": 20150524
+    },
+    {
+      "title": "It's a must have.",
+      "text": "Superb little device for the money, as many have said, it's a great little media centre device with Openelec installed on it, but also is brilliant with Retropie installed, so you can emulate lot's of old computers and arcade games. But as an educational tool, this is where this thing comes into it's own, ideal for learning programming and robotics and getting to grips with the Linux operating system. I've bought loads of them.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Paul Barraclough",
+      "helpful_votes": 0,
+      "publication_date": 20151009
+    },
+    {
+      "title": "Excellent cheap media player",
+      "text": "Excellent. I've had this in use for six months as an entertainment system in my living room, connected via USB to an external hard drive and via HDMI to an AV receiver. I use it as a server and player for media content, controlled via Android apps. I've got the OpenElec operating system and Kodi on it, and it all works well. UPDATE: still working well with no issues several years on.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "eiamjw",
+      "helpful_votes": 0,
+      "publication_date": 20150903
+    },
+    {
+      "title": "Good speed increase over the original",
+      "text": "An upgrade to my original pi model, good speed increase and extra USB ports. I use it to run KODI and it runs it well.. lacks an on/off or reset switch so to reset it you have to remove and reinsert the power cable. that means that the power connection is plugged /unplugged and stressed far more that i world like. a design flaw as far as i am concerned.",
+      "rating": 4.0,
+      "verified": true,
+      "author": "Catale",
+      "helpful_votes": 0,
+      "publication_date": 20160401
+    },
+    {
+      "title": "perfect for media",
+      "text": "Much faster that the original Pi, 4 USB slots is a plus. Used mine to muild a media centre for my TV, powered by the TV's own USB port, also I can use the standar TV remote control to operate the Media Centre (must use HDMI and have a CEC compatible TV - most are!) Excellant little media centre, plays everything I throw at it, no lag, totally silent operation.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "TonyS",
+      "helpful_votes": 0,
+      "publication_date": 20150823
+    },
+    {
+      "title": "Great update but audio is still not great.",
+      "text": "This is such an awesome update to the pi. I've even used it as my main desktop machine for a week while my macbook pro was being repaired. It's pretty good for web, email, office docs etc. I just wish it had a high quality audio input... They totally need an official and well supported audio addon like the camera.",
+      "rating": 4.0,
+      "verified": true,
+      "author": "Interested Individual",
+      "helpful_votes": 2,
+      "publication_date": 20150430
+    },
+    {
+      "title": "buy a pi3",
+      "text": "I Prefer my Pi 3, and to be honest although it's not the sellers fault, I felt the 2 didn't have that great features. I ended up giving it to my nephew who's also experienced problems (like it can't be used near his plasma ball). Disclaimer: the Pi 3 didn't exist at the time I bought the Pi2, this is a retrospective review",
+      "rating": 3.0,
+      "verified": true,
+      "author": "Lewis Cowles",
+      "helpful_votes": 0,
+      "publication_date": 20160715
+    },
+    {
+      "title": "Love the size",
+      "text": "Does what it's supposed to do on the dot. Runs a version of Linux. For those who have never used Linux: it is like Microsoft Windows but better in many ways. It runs an open version of office that I prefer to Microsoft office. It is very quick, immune to viruses, has no bug, does not update all the time. And it's free.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "CouldBeAnyone",
+      "helpful_votes": 0,
+      "publication_date": 20160721
+    },
+    {
+      "title": "Love raspberry pi",
+      "text": "Great little device use them every day. I've bought two so far and would certainly recommend them to friends. I've had a very brief play with them as a computer and you could use it as a everyday computer at a push. But like most im guessing I use them as a media centre. I use one as a media centre and for kodi and the other just for kodi.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Steven Hargreaves",
+      "helpful_votes": 0,
+      "publication_date": 20160319
+    },
+    {
+      "title": "This is marketed towards beginners but as an advanced programmer the amount of potential that this thing offers is recursive ;)",
+      "text": "Awesome piece of kit. I have been prototyping a bunch of different gizmos around this house with this thing from automated lights to media centre, NAS and alarm sensors that email you when there is an intruder. If you know some python and bash script along with a little gpio magic then this thing is awesome. I have 3 now.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "chunk",
+      "helpful_votes": 0,
+      "publication_date": 20160202
+    },
+    {
+      "title": "A quad core computer with 1GB RAM, full 1080P ...",
+      "text": "A quad core computer with 1GB RAM, full 1080P HDMI, 4 USB 2.0 ports, RJ45 100Mb, Bluetooth and WIFI for about \u00a330! What are you waiting for? If you can get a bit 'dirty' with Linux or just download a fully working image for your micro SD card, this is an absolute bargin.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Customer X",
+      "helpful_votes": 0,
+      "publication_date": 20161015
+    },
+    {
+      "title": "Raspberry Pi, it is not the cake",
+      "text": "Small computer, size of a cigarette packet. It does everything I wanted to do with it.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Adam Aurum",
+      "helpful_votes": 0,
+      "publication_date": 20191009
+    },
+    {
+      "title": "Every geek should have one!",
+      "text": "These things are so practical that every man should have one. Always wanted a remote controlled garage door? A cheap and better alternative to an apple tv? A pocket sized pc with hdmi port? This can do all of that and a whole lot more, you can develop your own unix based linux distro (an operating system) and install onto this device. That means you can basically set this device up to do whatever you like.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Aaron White",
+      "helpful_votes": 0,
+      "publication_date": 20160126
+    },
+    {
+      "title": "tech stuff is good",
+      "text": "I dont understand tech stuff that well but the bf liked it so therefore was very good.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Jade ",
+      "helpful_votes": 0,
+      "publication_date": 20191028
+    },
+    {
+      "title": "Ideal Risc PC replacement",
+      "text": "Fantastic bit of kit. Ideal replacement, with full support from RISC OS Open, for the ageing Acorn Risc PC. Most of the USB devices I've plugged in have been seen and supported by RISC OS with no additional drivers required...which is useful (no more fiddling about changing the text file to get a USB stick seen). Also fantastic support from RISC OS Open, and the large RISC OS community. You'll also need to purchase: case, power supply (with on/off switch), MicroSD card(s), USB keyboard and mouse, and a copy of SystemDisc from Piccolo Systems. Oh, and a monitor, if you don't already have one.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Gerald Holdsworth",
+      "helpful_votes": 0,
+      "publication_date": 20151011
+    },
+    {
+      "title": "One of the best buys I've made this year!",
+      "text": "This is my first RPi. I am simply amazed at its abilities & the plethora of images, ideas, projects, etc. available out there. Initially it needs a bit of a learning curve to try and figure out what you need to done in order to get it up and running... but its much much simpler than what you may think.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "pandemonium",
+      "helpful_votes": 0,
+      "publication_date": 20151204
+    },
+    {
+      "title": "One of these or an old PC?",
+      "text": "Not as powerful as a 10 year old desktop running linux. Saying that, you can run it off a USB battery power supply so it can be very portable. If you want to mess with a PC, get an old PC. If you have a project where size and low power consumption are important then these are perfect.",
+      "rating": 3.0,
+      "verified": true,
+      "author": "Dave",
+      "helpful_votes": 0,
+      "publication_date": 20160913
+    },
+    {
+      "title": "So many options.",
+      "text": "As a \u00a325-30 stand alone object, its great fun. But once you add a case, an SD card, a power supply, and an input mechanism, it does get very close in price to cheap tablets. There are tons of different OS's offered for it, i really like the open source media center (search for OSMC), all free and very functional.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Lettuce Wrangler",
+      "helpful_votes": 0,
+      "publication_date": 20150726
+    },
+    {
+      "title": "Amazing value PC, used as a Kodi box",
+      "text": "Run Kodi on this machine for my TV. Bought instead of purchasing an Android box or whatever similar, and I'm very happy. I like the fact that it can have so many other uses should I want to change it from running Kodi. Very good value PC!",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Jack Jarvis",
+      "helpful_votes": 0,
+      "publication_date": 20170604
+    },
+    {
+      "title": "Great kit",
+      "text": "This is a great piece of kit and possibilities are only limited by your imagination. The internet is a great resource for advice and resources. I have used mine currently as a Retro Pi to play old Sega and Nintendo games. Took a couple of evenings to set up but felt like I was learning along the way and works perfectly. I think if every youngster was given this at a fairly early age (maybe 7 or 8) then in 10-15 years time the UK would be in a great place with some great young inventors",
+      "rating": 5.0,
+      "verified": true,
+      "author": "T G H",
+      "helpful_votes": 0,
+      "publication_date": 20150630
+    },
+    {
+      "title": "I don't like raspberries but I love this!",
+      "text": "I love this thing! It's amazing how this little guy can run the stuff it does. Not only that but it's mind-blowing how much you can do with this device. I've turned mine into a media center but you could turn it into a pocket PC or a camera or a NAS or or or OR even install Windows 10 on it! OMG I know right!? If you're a techie and you don't have one of these yet then you should be ashamed to call yourself a techie! :)",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Leemon",
+      "helpful_votes": 0,
+      "publication_date": 20151012
+    },
+    {
+      "title": "Great product to use for projects and just to play ...",
+      "text": "Great product to use for projects and just to play around with and learn new programming languages, great gateway for children due to price and the versatility of product. Sadly mine came with a broken micro sd slot, however customer service was brilliant and i got a prompt refund for the product!",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Simon B",
+      "helpful_votes": 0,
+      "publication_date": 20151213
+    },
+    {
+      "title": "this is an amazing device. It's not as powerful as a full ...",
+      "text": "What can I say, this is an amazing device. It's not as powerful as a full computer but perfect to play with or to set a home server. The only annoying thing for me, is that it doesn't have a clock and this causes software problems (some services fail to work until the NTP daemon sets the date).",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Amazon Customer",
+      "helpful_votes": 0,
+      "publication_date": 20160112
+    },
+    {
+      "title": "Very good for monitoring my home network too",
+      "text": "Bought this the run a data feed to Flight-Radar 24 and its doing this job flawlessly. Being a very low powered device I can afford to supply data to FR24 24 hours a day. Very good for monitoring my home network too. Great device for the money.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "C. S. Kay",
+      "helpful_votes": 0,
+      "publication_date": 20150727
+    },
+    {
+      "title": "A big fat slice of Pi",
+      "text": "This is my 4th Raspberry PI and first of the Mk2 version. It's much quicker and has more memory than the B+. I'll swap it with the B+ that I currently use to run KODI on. Freeing up the B+ as my Python development machine.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Slartybardfast",
+      "helpful_votes": 2,
+      "publication_date": 20151120
+    },
+    {
+      "title": "A great piece of kit for those who like to fiddle...",
+      "text": "Arrived quickly and came well packaged. Amazing how technology has shrunk over the years! A fully fledged computer you can fit in your pocket. I'm learning how to program using Python 3 and will be using this to control various items in the home - a long project but I love learning new things.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Porky996t",
+      "helpful_votes": 0,
+      "publication_date": 20151126
+    },
+    {
+      "title": "Media centre in a matchbox!",
+      "text": "Bought this version of the Raspberry Pi to try out running XMBC (now KODI) as a media centre, works quite well considering the size of it! Performance on playing 720 & 1080 movies is very good, no sound or picture issues. It does struggle a little bit with graphics heavy skins like Aeon Nox but works well with simpler ones.",
+      "rating": 4.0,
+      "verified": true,
+      "author": "Tim",
+      "helpful_votes": 0,
+      "publication_date": 20150626
+    },
+    {
+      "title": "This new raspberry pi is so much better than the old one and I can run ubuntu ...",
+      "text": "This new raspberry pi is so much better than the old one and I can run ubuntu on it as well. I can actually use this for web browsing as well, the old Raspberry Pi was painfully slow and was only good for things without a GUI really, it was too underpowered. This one is perfectly powerful to be used as a normal PC.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Paul",
+      "helpful_votes": 0,
+      "publication_date": 20150413
+    },
+    {
+      "title": "Great product, I bought this for my boyfriend for ...",
+      "text": "Great product, I bought this for my boyfriend for Christmas as he's nerdy and loves anything technical. He has been researching a lot of different projects to try out with this product, there's so many! It was packaged well so couldn't of got damaged which is always a bonus!",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Kelly",
+      "helpful_votes": 0,
+      "publication_date": 20160318
+    },
+    {
+      "title": "I can see why some people use these to convert a basic HD TV to a smart TV. Performance when used for that purpose borders ...",
+      "text": "I bought this a couple of months before Raspberry Pi 3. I can see why some people use these to convert a basic HD TV to a smart TV. Performance when used for that purpose borders on the acceptable, I imagine that the Pi 3 would be quite good in this role.",
+      "rating": 4.0,
+      "verified": true,
+      "author": "Anna",
+      "helpful_votes": 0,
+      "publication_date": 20160416
+    },
+    {
+      "title": "... OSMC for kodi & so far it has worked great especially as you can power it via usb so ...",
+      "text": "Bought this to install OSMC for kodi & so far it has worked great especially as you can power it via usb so its hidden be hind my tv & plug into the tvs usb port. Been having wifi issue latley alought that could be the adapter or the kodi application its self.",
+      "rating": 4.0,
+      "verified": true,
+      "author": "Tom90",
+      "helpful_votes": 0,
+      "publication_date": 20160220
+    },
+    {
+      "title": "Made In China",
+      "text": "Not a complaint about the machine. Brillaint small device (SATA and more RAM would be nice though). My problem is with the manufacturer. Clearly states Made in UK on the product description. Clearly states made in China when I got the device ... ho hum ....",
+      "rating": 3.0,
+      "verified": true,
+      "author": "ldir",
+      "helpful_votes": 0,
+      "publication_date": 20160131
+    },
+    {
+      "title": "Recommend to anyone",
+      "text": "Amazing device that's perfect for tinkering and learning about programming without and worrying about damaging anything too expensive - great for diy like me using it to control leds and its your ever stuck there's a great community to help you - recommend to anyone",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Sean",
+      "helpful_votes": 0,
+      "publication_date": 20170313
+    },
+    {
+      "title": "Makes the older pi seem like using a ZX81",
+      "text": "Bought this to run Kodi media centre and was so impressed I bought another for the bedroom. Makes the older pi seem like using a ZX81. If you have a server or NAS in your home don't bother with anything else this does the lot with no lag and is very responsive.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Sinclair Macleod",
+      "helpful_votes": 0,
+      "publication_date": 20160127
+    },
+    {
+      "title": "Even with this little bit of annoyance I am still pleased that I bought",
+      "text": "I bought this to specifically use it as and XMBC which it does quite well. I can't say that it works perfectly but don't know whether that is the Pi or the software where the problem lies. Even with this little bit of annoyance I am still pleased that I bought it",
+      "rating": 5.0,
+      "verified": true,
+      "author": "TerryDox",
+      "helpful_votes": 0,
+      "publication_date": 20151126
+    },
+    {
+      "title": "I have two, clocked both to 1000ghz, one ...",
+      "text": "I have two, clocked both to 1000ghz, one became unstable, loads of kernel error messages, then crashes. Had to set it back to 700, the runs ok, did not notice any performance drop-off. Not much mention of this problem so took a while to figure it out",
+      "rating": 5.0,
+      "verified": true,
+      "author": "John Hayford",
+      "helpful_votes": 0,
+      "publication_date": 20160306
+    },
+    {
+      "title": "cheap and cool",
+      "text": "for such a cheap computer its surprisingly nippy and runs kodi (media center) very well and streams my videos with ease. It can run libre office and GIMP (paint program) with no trouble and can easily run emulators up to the ps1. What more could you ask for in such a cheap device.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "jason kay",
+      "helpful_votes": 0,
+      "publication_date": 20150511
+    },
+    {
+      "title": "Kodi runs better than xbmc Gotham and seems easier to configure",
+      "text": "Already have 2 Pi's but purchased the quad core Pi 2, the difference in speed of loading and processes is greatly improved, Kodi runs better than xbmc Gotham and seems easier to configure, Their is a marked improvement in performance and this step-up to quad core gets my thumbs up for the price and usability.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Regus Da'Costa",
+      "helpful_votes": 0,
+      "publication_date": 20150728
+    },
+    {
+      "title": "excelent, had the first pi too and had retropie ...",
+      "text": "excelent, had the first pi too and had retropie on both. this one plays all games you can throw at it an handles the SNES, PS1 very well, no lag at all it still does not play the N64 games :( (well it does but does it badly, really really badly)",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Dean",
+      "helpful_votes": 0,
+      "publication_date": 20150508
+    },
+    {
+      "title": "Fantastic little computer",
+      "text": "I bought the original Model B Raspberry Pi when it first came out, but this is a definite improvement! Using the Raspberry Pi 2 as a desktop is feasible, I only ever used the original as a lightweight server. Also love the extra GPIO pins, I always wanted more.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Lewis Hazell",
+      "helpful_votes": 0,
+      "publication_date": 20150913
+    },
+    {
+      "title": "Great little workhorse",
+      "text": "Great little workhorse. So flexible, constantly changing what I use this for. Cheap to run, easy to setup. Perfect replacement for more expensive computer devices.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Damian Lucas",
+      "helpful_votes": 0,
+      "publication_date": 20170805
+    },
+    {
+      "title": "Less than 4 months old and has stopped working. ...",
+      "text": "Less than 4 months old and has stopped working. Tried numerous OS's, different SD cards but will not boot. Ran through the whole of the troubleshooting section on the pi website to no avail.Tried to generate return labels through Amazon but it won't let me ! Totally feel ripped off, my son is upset as it was being used as a media centre in his room.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "jez",
+      "helpful_votes": 0,
+      "publication_date": 20160404
+    },
+    {
+      "title": "Seriously, don't delay claim today! =)",
+      "text": "What's not to like about these! I will tell you this - Whoever out there, like me, is browsing this page every week, and then searching around to see if there is one available slightly cheaper, and then putting off the buy until that some other time - Stahp! Just buy it now. I can tell you since the day I got this, I can't stop thinking what I am going to do next with it!",
+      "rating": 5.0,
+      "verified": true,
+      "author": "bPratik",
+      "helpful_votes": 0,
+      "publication_date": 20151012
+    },
+    {
+      "title": "A great cheap computer not for the feint hearted and won't ...",
+      "text": "A great cheap computer not for the feint hearted and won't be up and running out of the box but if you spend some time researching and are happy to dive in with some programming this is a great and very cheap computer to use.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Mike",
+      "helpful_votes": 0,
+      "publication_date": 20160514
+    },
+    {
+      "title": "Phenomenal computer, in all regards.",
+      "text": "Amazing piece of kit. The model B is such an upgrade over my first Pi, the original model A. The extra USB ports make is super versatile too. I have subsequently bought the Raspberry Pi 3, which has WiFi and Bluetooth onboard.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Kabouter",
+      "helpful_votes": 0,
+      "publication_date": 20160317
+    },
+    {
+      "title": "Superb product - highly recommended!",
+      "text": "Great product, use it every day as a media centre. It's noticeably faster and more responsive compared to the previous model. It's well made and a superb product. Highly recommended for whatever you're thinking of doing",
+      "rating": 5.0,
+      "verified": true,
+      "author": "J Hanamichi",
+      "helpful_votes": 0,
+      "publication_date": 20160327
+    },
+    {
+      "title": "Nice",
+      "text": "Works great but looks slightly different from the advertised picture.",
+      "rating": 4.0,
+      "verified": true,
+      "author": "dr.meri",
+      "helpful_votes": 6,
+      "publication_date": 20150627
+    },
+    {
+      "title": "Nice credit card size PC",
+      "text": "Happy - nothing else more to say -- you have your own little linux PC as large as a credit card that consumes less energy than a LED bulb. On top of that add more sensors and bit of programming, some relays and can have fun for a long time with it or even use it in real projects...",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Adrian",
+      "helpful_votes": 0,
+      "publication_date": 20151106
+    },
+    {
+      "title": "One will never be enough!",
+      "text": "What can I say that hasn't already been said about the amazing Raspberry Pi? Such a brilliantly flexible device with endless uses...",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Jim Pitt",
+      "helpful_votes": 0,
+      "publication_date": 20180831
+    },
+    {
+      "title": "Nearly perfect",
+      "text": "My second RPi, first one (version 1) was perfect - should be giving this one 5 stars, but you need to plug the micro usb power source in 'just right' or the power goes off. You can't just push it as far as it goes. Hence not 5 star.",
+      "rating": 3.0,
+      "verified": true,
+      "author": "M. B. Davison",
+      "helpful_votes": 0,
+      "publication_date": 20150803
+    },
+    {
+      "title": "They've made it even better at the same price!",
+      "text": "Brilliant!!! The original Pi was quick enough for most purposes, but this is nearly 6 times as fast! They've taken a great little computer and made it so much better. My next project is going to be a boxful of these as a baby super-computer!",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Christopher Hunter",
+      "helpful_votes": 0,
+      "publication_date": 20150402
+    },
+    {
+      "title": "Excellent for Media Centre / OSMC",
+      "text": "Amazing little device, really! I'm using it for OSMC and she can run it without the slightest glitch. If you're looking to use it for a similar function I've never used a better media centre; and others tend to be a lot more expensive.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Herculainn",
+      "helpful_votes": 0,
+      "publication_date": 20150625
+    },
+    {
+      "title": "Vast improvement on the original Pi 1, increased current ...",
+      "text": "Vast improvement on the original Pi 1, increased current to USB makes all the difference. Now used as a webserver, timelapse video server, MySQL server and temperature sensor receiver, all for 30 quid, I can't complain.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "glossopwhite",
+      "helpful_votes": 0,
+      "publication_date": 20151226
+    },
+    {
+      "title": "A Superb New Version of the Revolutionary Computing Platform!",
+      "text": "Excellent unit - performs very well. I have mine running OSMC, emule, TVheadend and qbTorrent - works VERY well. I even bought a little infra-red sensor and used lirc to allow me to control it using my existing TV remote control! Bargain!",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Andrew Johnson",
+      "helpful_votes": 0,
+      "publication_date": 20150706
+    },
+    {
+      "title": "Great little machine",
+      "text": "Great little machine, I have had this for a long time now and it is great for the tinkerer in your life, however I am now upgrading to the Raspberry Pi model 3 and you should too if your planning on buying this one.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "linda",
+      "helpful_votes": 0,
+      "publication_date": 20160821
+    },
+    {
+      "title": "It's like the old Pi; only better!",
+      "text": "Awesome. Good price, reasonable shipping time (but not excellent) and a genuine product. Strange that it came from Europe when they are made over here! Upgraded from Pi1 (512mb) Highly recommended as the extra memory and processing speed really is handy, even for HD films.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Bonnet Bulge 79",
+      "helpful_votes": 0,
+      "publication_date": 20150915
+    },
+    {
+      "title": "Fantastic",
+      "text": "Great product, use it to run both a open vpn server and a minecraft server simultaneously, works perfectly. Great for private use and as a method to easy access your home network while away!",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Ryan",
+      "helpful_votes": 0,
+      "publication_date": 20160627
+    },
+    {
+      "title": "easy to set up and a fun project to pick ...",
+      "text": "I have 2 Raspberry Pi running OSMC in the household, easy to set up and a fun project to pick up for geeks!",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Cookie Monster",
+      "helpful_votes": 0,
+      "publication_date": 20180101
+    },
+    {
+      "title": "Yet with the release of Pi3 and it's better features, this is still good for fun projects",
+      "text": "Its a rasp Pi, what else can I say?? The ultimate kind of toy! Yet with the release of Pi3 and it's better features, this is still good for fun projects",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Paul smith",
+      "helpful_votes": 0,
+      "publication_date": 20171128
+    },
+    {
+      "title": "All the basics you need",
+      "text": "I bought this item to install an airplay receiver onto my audio system and eventually will try to also get video streaming to my television. It's an easy to use product (if you use it with NOOB) and can do almost anything you want it to (although some research/knowledge is required for this). I heard a lot of 'complaints' about the sound card (more specifically from the original raspberry pi) but I can tell you that it works perfectly fine. I would advise you to buy a case with this, I didn't but it definitely needs one.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Achim Vandierendonck",
+      "helpful_votes": 0,
+      "publication_date": 20150813
+    },
+    {
+      "title": "Speedy upgrade but still a little pricey in comparison",
+      "text": "Super speedy upgrade to the original Pi but at double the price. Really enjoying having a play with it now it is fully set up with OSMC and doing a good job at streaming all my media from different places.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Chris",
+      "helpful_votes": 0,
+      "publication_date": 20150824
+    },
+    {
+      "title": "A worthwhile upgrade from the Pi 1",
+      "text": "A big improvement over the Pi 1. Most noticeable in streaming movies in XBMC when the searching of sources takes less than 20 seconds, rather than 90. A worthwhile upgrade from the Pi 1.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "ChrisMR",
+      "helpful_votes": 0,
+      "publication_date": 20160513
+    },
+    {
+      "title": "Very good value.",
+      "text": "More cores, more RAM, more versatility than the already proven Pi. Newer CPU brings compatibility with modern Linux and Windows. Price has always been attractive (this one is slightly cheaper than mainstream retail price)",
+      "rating": 4.0,
+      "verified": true,
+      "author": "Viharm",
+      "helpful_votes": 0,
+      "publication_date": 20160227
+    },
+    {
+      "title": "for techies",
+      "text": "This has brought much joy to my son, who is a techie. He has found many uses for it by plugging in other electronic gizmos. It does a good job if you know what you're doing.",
+      "rating": 4.0,
+      "verified": true,
+      "author": "jcpb",
+      "helpful_votes": 0,
+      "publication_date": 20161010
+    },
+    {
+      "title": "Hoorah ! I am Pi !",
+      "text": "Who doesn't love Pi ! I now have two of these running security monitoring software (video capture/ stream). There is SO much more I plan to do with it. Arrived in great time, well packed, etc etc :)",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Hearty Homemaker",
+      "helpful_votes": 0,
+      "publication_date": 20150928
+    },
+    {
+      "title": "Pi 2 ---Whoooosh !!!",
+      "text": "I have been using the previous Pi model for some time now, which I liked very much, then decided to upgrade to this and OMG, the difference in speed is just extraordinary, just buy it , it's fantastic simple as that really.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Marty",
+      "helpful_votes": 0,
+      "publication_date": 20150717
+    },
+    {
+      "title": "It's hard to buy only one",
+      "text": "Excellent value for money. If you are a geek, you can do virtually everything with it. The only issue is that you will need more than one fairly quickly as it is so easy to purpose one for a specific usage (I have one for each TV in the house).",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Amazon Customer",
+      "helpful_votes": 0,
+      "publication_date": 20150706
+    },
+    {
+      "title": "I LOVE THE RASPERRY PIS",
+      "text": "I LOVE THE RASPERRY PIS! Amazing Genius bit of Kit! Very fast and responsive, easy to use, have bout about 5 since! Love this product",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Joseph S. Dukes",
+      "helpful_votes": 0,
+      "publication_date": 20160422
+    },
+    {
+      "title": "better than Ebay",
+      "text": "Top quality product for the money, well made, a lot nicer than I thought this would be for the money I paid, grab one quick because you will no be dissapointed, better than Ebay :) H",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Robotron 2084",
+      "helpful_votes": 0,
+      "publication_date": 20160301
+    },
+    {
+      "title": "Raspberry pi 2 model B is very good but possibly now redundant with the release of the ...",
+      "text": "Raspberry pi 2 model B is very good but possibly now redundant with the release of the pi 3. Still the pi 2 is really good for lots of projects. I have cctv, media server and emulator running all on pi 2s",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Matt",
+      "helpful_votes": 0,
+      "publication_date": 20160302
+    },
+    {
+      "title": "Get XBMC on this thing, and you have one ...",
+      "text": "Get XBMC on this thing, and you have one seriously powerful media centre. Put it with a Chromecast as well, and you literally have the smartest 'Smart TV' you can get. Absolutely essential buy.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "J. L. Skerratt",
+      "helpful_votes": 0,
+      "publication_date": 20150626
+    },
+    {
+      "title": "Great!",
+      "text": "Very snappy, a great improvement on the Pi 1. No difference in terms of size and I/O. I have mine doing all sorts of automation / surveillance recording / NAS etc. Also works great with Kodi / OpenElec.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Andy B",
+      "helpful_votes": 0,
+      "publication_date": 20150608
+    },
+    {
+      "title": "There are still difficulties with sound on the Raspberry Pi and to get sound in something like a USB sound card is required",
+      "text": "This is the latest raspberry Pi and I definitely notice the increase in speed. There are still difficulties with sound on the Raspberry Pi and to get sound in something like a USB sound card is required.",
+      "rating": 4.0,
+      "verified": true,
+      "author": "Marjorie Mallows",
+      "helpful_votes": 0,
+      "publication_date": 20150629
+    },
+    {
+      "title": "Great little slimline computer",
+      "text": "Previously had the earlier version of the Pi, but it was very sluggish, this is far faster. Great little slimline computer, we're testing some software for advertising screens in pubs/bars and this fits nicely into small spaces behind flatscreen tvs.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Chester Solutions Ltd",
+      "helpful_votes": 0,
+      "publication_date": 20151001
+    },
+    {
+      "title": "So far I'm having fun on this little computer",
+      "text": "So far I'm having fun on this little computer, highly recommended! Very good built, solid and capable to be a cheap webserver, media server, media box, a robot, anything you can create from this little pc :)",
+      "rating": 5.0,
+      "verified": true,
+      "author": "PizzaBoy",
+      "helpful_votes": 0,
+      "publication_date": 20150701
+    },
+    {
+      "title": "Awesome device!",
+      "text": "I have about 6 Pi's - the new version makes a huge difference and is very much recommended for XBMC or the GUI - about 50% more punch, voltages stabilised and more USB ports! What's not to love!",
+      "rating": 5.0,
+      "verified": true,
+      "author": "orangesteel",
+      "helpful_votes": 0,
+      "publication_date": 20150711
+    },
+    {
+      "title": "ace",
+      "text": "Very happy with this. Installed as an openelec media centre / sharer. I would recommend getting some stick on RAM or purpose made PI heat sinks if you plan to leave the Pi on 24/7.",
+      "rating": 4.0,
+      "verified": true,
+      "author": "Lee Read",
+      "helpful_votes": 0,
+      "publication_date": 20151127
+    },
+    {
+      "title": "Beware:  This new v1.2 Raspberry Pi 2 will not run softtware compiled for the original v1.1 Pi 2.",
+      "text": "It would not be fair to post totally negative comment here as the product is exactly what it says on the tin - the latest Raspberry Pi 2. BUT, this v1.2 Raspberry Pi 2 uses a different CPU chip from the original and will NOT run software compiled for the original Pi 2.",
+      "rating": 3.0,
+      "verified": true,
+      "author": "Mr W.",
+      "helpful_votes": 0,
+      "publication_date": 20170517
+    },
+    {
+      "title": "Good",
+      "text": "Works brilliantly and only bought to use as a media centre. Osmc works without issues and you power off system completely within osmc without requiring command line exit.",
+      "rating": 4.0,
+      "verified": true,
+      "author": "P. Mannan",
+      "helpful_votes": 0,
+      "publication_date": 20160215
+    },
+    {
+      "title": "mmmm Pi",
+      "text": "The 3rd in my collection. The model 2 is much better purely from a layout point of view. all the ports are aligned so no need for a strage kink in the cases the allow for the USB ports",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Rob",
+      "helpful_votes": 0,
+      "publication_date": 20151020
+    },
+    {
+      "title": "Buy one... you know you want to!",
+      "text": "This is my second Pi, the first was a present at Christmas. I love these things. It's set up as a media centre at the moment - running OSMC for Pi2 - but with the extra power that this has, looking to really have some fun playing with this.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Stuart Denham",
+      "helpful_votes": 0,
+      "publication_date": 20150605
+    },
+    {
+      "title": "Great for my web server!",
+      "text": "Amazing, this \u00a330 wonder can run my webserver happily on about 5% cpu max load! Thanks raspberry pi and Linux for the best \u00a330 I have ever spent!",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Sam W.",
+      "helpful_votes": 0,
+      "publication_date": 20151117
+    }
+  ],
+  "product_meta": {
+    "title": "Raspberry Pi 2 Model B Desktop (Quad Core CPU 900 MHz, 1 GB RAM, Linux)",
+    "description": "The latest addition to the Raspberry Pi family, the Raspberry Pi 2 takes the platform to a completely new level. Combining a sixfold increase in processing power and a doubling of memory capacity with complete backward compatibility with the existing Model B+, Raspberry Pi 2 is the perfect board for professionals and hobbyists alike.\n\nThe new Raspberry Pi 2 - Model B is jam packed with features! With a new <strong>quad core processor</strong> and twice the memory with a massive <strong>1GB RAM</strong>, It's a whopping <strong>6x faster</strong> than its predecessor. The ultra-low-cost, deck-of-cards sized Linux computer has had a makeover, and it's a good one at that!\n\n\n\nBOX CONTAINS\nRaspberry Pi 2 Model B",
+    "rating": 4.7,
+    "feature_bullets": [
+      "Latest Raspberry Pi Model 2",
+      "6x More Powerful Than Previous Models",
+      "1GB RAM - Double The Memory Capacity",
+      "Quad Core Processor",
+      "UK Made"
+    ],
+    "specifications": {
+      "Brand": "Raspberry Pi",
+      "Product Dimensions": "12.7 x 10.16 x 7.62 cm; 40.82 Grams",
+      "Item model number": "100437",
+      "Manufacturer": "Raspberry Pi",
+      "Series": "Raspberry PI 2 Model B",
+      "Color": "Green",
+      "Form Factor": "ATX",
+      "Standing screen display size": "7 Centimetres",
+      "Processor Brand": "ARM",
+      "Processor Type": "ARM710",
+      "Processor Speed": "900 MHz",
+      "Processor Socket": "BCM2836",
+      "Processor Count": "4",
+      "RAM Size": "1 GB",
+      "Computer Memory Type": "DIMM",
+      "Graphics Coprocessor": "VideoCore IV",
+      "Graphics Chipset Brand": "Broadcom",
+      "Graphics RAM Type": "Unknown",
+      "Graphics Card Interface": "AGP",
+      "Number of USB 2.0 Ports": "4",
+      "Number of Ethernet Ports": "1",
+      "Voltage": "5 Volts",
+      "Optical Drive Type": "Nein",
+      "Card Reader": "MicroSD",
+      "Operating System": "Linux",
+      "Are Batteries Included": "No",
+      "Lithium Battery Weight": "5 Grams",
+      "Item Weight": "40.8 g",
+      "ASIN": "B00T2U7R7I",
+      "Customer Reviews": "4.7 out of 5 stars3,784 ratings4.7 out of 5 stars",
+      "Date First Available": "13 July 2014"
+    },
+    "categories": [
+      "Computers & Accessories"
+    ],
+    "price": ""
+  }
+}

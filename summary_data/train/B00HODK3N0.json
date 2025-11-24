@@ -1,0 +1,826 @@
+{
+  "website_summaries": [
+    {
+      "verdict": "A dependable mid-range router for small networks that offers plenty of sophisticated features, but may be too complex for less experienced users.",
+      "pros": [
+        "Very easy to install on a home network",
+        "Handles dozens of port forwarding rules without an issue",
+        "Handles higher-speed connections well",
+        "Highly configurable through website interface"
+      ],
+      "cons": [
+        "Can only be configured through a web interface",
+        "May have trouble with gigabit speeds",
+        "VPN client software must be purchased separately",
+        "Load balancing is somewhat complicated, with few instructions available"
+      ],
+      "aspects": {},
+      "publication_date": "",
+      "rating": "",
+      "source": "bestreviews"
+    },
+    {
+      "verdict": "A high-end router that makes it simple to manage large files across an entire workforce.",
+      "pros": [
+        "Features dual gigabit Ethernet WAN ports that are proven to perform",
+        "Browser-based setup and device manager wizards ensure that you will have no trouble installing the router or keeping it running",
+        "Streamlines the process of setting up a VPN",
+        "Equipped with a 14-port switch"
+      ],
+      "cons": [
+        "Router tends to lock up and may need to be rebooted every few days"
+      ],
+      "aspects": {},
+      "publication_date": "",
+      "rating": "",
+      "source": "bestreviews"
+    }
+  ],
+  "customer_reviews": [
+    {
+      "title": "Definitely recommended for small offices",
+      "text": "Very solid unit for the price. We've installed dozens of these in small offices (20 or fewer users) with great success. VLAN configuration is intuitive and simple. Only things I'd like to see improved are that the configuration data is oftentimes lost after a firmware upgrade, and also if you attempt to restore from backup configuration data and you've changed the administrator username (default is 'cisco'), the process is broken (there's a workaround, but it's not simple). The 14-port switch is solid, and it's backed by a 3-year replacement warranty. Great buy for the price, but, again, a little clunky on the back end.",
+      "rating": 4.0,
+      "verified": true,
+      "author": "Ben, Your Friendly Tech Guy",
+      "helpful_votes": 9,
+      "publication_date": 20160321
+    },
+    {
+      "title": "very good edge router/vpn/switch for the money",
+      "text": "I have been using this for several months now and it works great. It replaced a Cisco ASA5505 and a Cisco 8-port Small Busines switch. I have no issues to report, I'm pleased with the product. My only gripe is that I'm not a fan of the Cisco web interface, I much prefer a command line and I wish that this switch used one as well as the web interface. But I will say that the web interface with this is easier to use than some of their other Small Business switches, I have 3 different Cisco Small Business switch models that all use only web interfaces, and the one with this router/vpn/switch is much better. Jeff",
+      "rating": 4.0,
+      "verified": true,
+      "author": "JD",
+      "helpful_votes": 6,
+      "publication_date": 20160507
+    },
+    {
+      "title": "Good luck getting the VPN client to work if you ...",
+      "text": "Very Buggy. At time of purchase (May 2016) the firmware that supported OpenVPN was retracted due to bricking the switch. Good luck getting the VPN client to work if you cannot use OpenVPN, you can get it to work but you will spend hours if not days. Better off spending the extra $100 bucks and going with an ASA 5506. I will never use one of theses for a client again. ASAs documentation is superior to this product. If the ASA is too much money for you then go with IPcop, PFsense, or some other opensource firewall. The only good thing about is the number of ports that it has available.",
+      "rating": 2.0,
+      "verified": true,
+      "author": "Digger",
+      "helpful_votes": 0,
+      "publication_date": 20161114
+    },
+    {
+      "title": "Don't Buy If You Want To Import Your Previous Cisco Router Settings",
+      "text": "Don't buy this router if you want to migrate your configuration settings from an RV082 or any other Cisco/Linksys router as Cisco changed the configuration setting file type from .exp to .config, and the old file type isn't recognized by the RV325. Cisco does NOT provide a conversion utility according to a call to Cisco support & a web search. You have to maually re-input EVERYTHING- fixed IPs, Port Forwarding rules. Worthless to me, returning it.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "Philip A. Daugherty",
+      "helpful_votes": 3,
+      "publication_date": 20170517
+    },
+    {
+      "title": "RV325 GREAT PRODUCT AND OUTSTANDING SUPPORT.",
+      "text": "I purchased this device as a replacement for an older ZyXel Security Gateway that was no longer keeping up with fast ISP speeds. This CISCO product has been outstanding, I love it. I had some issues at the beginning, trying to configure the VPN with new certificates and all that (not an easy setup), but I called CISCO support and they helped me quite a bit. Also, I had the opportunity to contact the merchant and they were also wonderful. I will definitely buy from them again.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Alex A.",
+      "helpful_votes": 0,
+      "publication_date": 20200201
+    },
+    {
+      "title": "update",
+      "text": "make sure the first thing you do is update the firmware. It came with a version from 2016 and the router was having a hard time farming out ip's. Once i updated the firmware and reboot all devices could get a ip. working great now",
+      "rating": 4.0,
+      "verified": true,
+      "author": "magneto",
+      "helpful_votes": 0,
+      "publication_date": 20190923
+    },
+    {
+      "title": "Works great, but bring your own VPN software.",
+      "text": "Works perfectly in our system. Only downside is that the Easy VPN software that is noted in their documentation is no longer included or available. That means you need to acquire a third party VPN software package. Technical support advised me of the above and recommended two candidates. One was free but I couldn't get it to work. The other was about $80 but works fine.",
+      "rating": 4.0,
+      "verified": true,
+      "author": "Scott R. Penfield, Jr.",
+      "helpful_votes": 3,
+      "publication_date": 20161019
+    },
+    {
+      "title": "Cisco name but no reliability",
+      "text": "I needed a SOHO router, which I could tweak to forward a few ports, run my in-house VPN and VOIP servers. I purposely decided to use a router with no WiFi capability so that it can focus on just routing. I have kept the firmware updated. The router freezes every two to seven days. I am really disgusted by Cisco's site as well, with no clear cut directions for support or warranty.",
+      "rating": 2.0,
+      "verified": true,
+      "author": "Ash",
+      "helpful_votes": 0,
+      "publication_date": 20190708
+    },
+    {
+      "title": "Best Bargain VPN Firewalls!",
+      "text": "These things rock. I utilize them in a retail envronment thats open 7/363 and the networks must be up all the time for end to end vpn lan tunnels and firewall protection. Having the amount of switch ports saves me from having another appliance for the lan as I utilize 12 ports. I've been using these firewalls for about 5 years now and have only had 1 failure out of 19 in this time so they are pretty darn dependable.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Anti-Cloud",
+      "helpful_votes": 0,
+      "publication_date": 20171215
+    },
+    {
+      "title": "I love this router",
+      "text": "I love this router. I have used many to include the EdgeRouter Lite. The Cisco by far is faster than the EdgeRouter and the Netgear equipment. EdgeRouter failed twice. The first was replaced and the 2nd lasted about 3 months. The Netgear 6250 is very dependable and would match the service provider 100MBPS but once I got the Cisco installed ~5 min it hits around 150MBPS. I hope it is as dependable as the Netgear.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "NotSoSlow",
+      "helpful_votes": 0,
+      "publication_date": 20180213
+    },
+    {
+      "title": "Good router (Cisco Dual WAN VPN RV325-K9-NA) to have in ...",
+      "text": "Good router (Cisco Dual WAN VPN RV325-K9-NA) to have in these times of router problems. Easy to access and change user id and password. As of June 2018 - this router is still supported by Cisco and there is no end of service date on it - so it should be good for a few years. Just make sure you manually update/upgrade the firmware when you installed it (go online and download the firmware upgrade). I bought/installed the device in March 2018 and it had firmware from 2014!",
+      "rating": 5.0,
+      "verified": true,
+      "author": "SmallCo",
+      "helpful_votes": 0,
+      "publication_date": 20180529
+    },
+    {
+      "title": "Great unit for the price",
+      "text": "Great unit for the price. We've installed serveral of these in small offices with great success. Only thing we have had problems with is that the configuration data is often wiped out after a firmware upgrade. Don't change the default admin name if you plan to update this unit.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Scott M.",
+      "helpful_votes": 0,
+      "publication_date": 20180704
+    },
+    {
+      "title": "Nice router.",
+      "text": "Product came without valid firmware loaded. Wrong size power supply shipped in box would not allow firmware to be loaded. 9volt 600ma supply was provided. Router requires 12volt 2amp power supply. After that was corrected (by me not tech sup) router was awesome. I love it.",
+      "rating": 3.0,
+      "verified": true,
+      "author": "Douglas",
+      "helpful_votes": 0,
+      "publication_date": 20191108
+    },
+    {
+      "title": "No true Gigabit Wan",
+      "text": "I got this because it is a Gigabit Wan. We are upgrading to 100 MB fiber. When I connected it and did a test speed, the result was way less than I was hoping. I changed Wan speed to Gigabit and turn off / on Autonegotiate, changed bandwidth to more than ISP speed, but still no fix. I googled the issue and found a lot of users having the same issue. Cisco has no fix.",
+      "rating": 2.0,
+      "verified": true,
+      "author": "Ahab",
+      "helpful_votes": 3,
+      "publication_date": 20160523
+    },
+    {
+      "title": "Comfortably Reccomended!",
+      "text": "This is an awesome device that takes care of small business needs. It is expandable with VLAN technology -if you do not know, read up on it. It can handle a lot of traffic, and it has Cisco support. That means, if you do not understand VLAN technology, they will explain it to you. Cisco will also set this up if you are stuck. Cisco will ALSO setup the managed switch needed to support the VLAN (Virtual LAN) - more than one. You may really need this if you have a VOIP system.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Scatter",
+      "helpful_votes": 0,
+      "publication_date": 20161202
+    },
+    {
+      "title": "CISCO won't warranty or support these; minor WAN related glitch in current firmware. Great unit otherwise.",
+      "text": "A very promising unit. There are issues with latest firmware where both WANs are enabled but only one is hooked up (the working WAN is showing inactive). Also (and this came as a nasty surprise, CISCO said (based on our specific serial #s) these Amazon units aren't under warranty / supported. I've raised an issue with Amazon, as this is highly surprising. The unit has a number of sophisticated features and is perfect for a small office which wants something higher performance and more reliable than a consumer grade router/switch/firewall.",
+      "rating": 4.0,
+      "verified": true,
+      "author": "Beautiful Circles",
+      "helpful_votes": 2,
+      "publication_date": 20160629
+    },
+    {
+      "title": "Router works great and does its job",
+      "text": "Router works great and does its job. Was disappointed that they said it has ssh support though as the interface in that mode is useless. You have to have a webbrowser to control the router. At least with SSH support you may be able to map a secure port behind the firewall so not a total loss.",
+      "rating": 4.0,
+      "verified": true,
+      "author": "Glenn H. Hancock",
+      "helpful_votes": 0,
+      "publication_date": 20170626
+    },
+    {
+      "title": "Not what I was hoping for",
+      "text": "Complicated as all cisco routers are.. I thought I might be able to set routes from the Wan2 to the internal network.. and use two static IP addresses... I've yet to figure it out.. looks like maybe in load balance mode maybe.. but not sure.. was hoping to have two static IP addresses one on Wan1 one on Wan2. and route to either.. it appears not.. I guess it makes a pretty good failover for Wan2.. didn't really need that.. other than that I suppose its an ok deal",
+      "rating": 5.0,
+      "verified": true,
+      "author": "John Pease",
+      "helpful_votes": 0,
+      "publication_date": 20171031
+    },
+    {
+      "title": "Junk. Gave up after three tries.",
+      "text": "We installed one of these in December - it only lasted two months before dying. I then bought another one - dead out of the box. Being a slow learner I then bought yet another one. My IT guy just spent three hours trying to get the latest one to see our cable modem and hand out IP's. He gave up - back the third one goes. Defective. These things are complete junk. The last two must have been manufactured at 4:55pm on a Friday. Stay away!!!",
+      "rating": 1.0,
+      "verified": true,
+      "author": "B. Roen",
+      "helpful_votes": 0,
+      "publication_date": 20180328
+    },
+    {
+      "title": "Unpatched vulnerability UDP 4500",
+      "text": "Nice features bit there is a vpn vulnerability which Cisco didn't fix as they didn't think it applied to this line. They were incorrect and I hackers kept getting allower access in to my network. I had to put the old router back in front of it in order to re secure my network.",
+      "rating": 2.0,
+      "verified": true,
+      "author": "Da Reviewer",
+      "helpful_votes": 2,
+      "publication_date": 20161207
+    },
+    {
+      "title": "No Stars - Flaky - Short Warranty",
+      "text": "Just like another customer, worked great for me for 3 months, then WAN ports died. Beware of the MTU bug, if you have slow connection problems or can't connect to xbox live, manually set your MTU to 1492 on the wan interface. Do not buy if you want something reliable. Only has 90 days warranty period.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "Rob",
+      "helpful_votes": 4,
+      "publication_date": 20160404
+    },
+    {
+      "title": "hard to find a good quality business grade router",
+      "text": "wired only config. a solid router for business or home networking. dual wan gbit router. setup and config was simple but some nice features for advanced users",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Robert Anthony",
+      "helpful_votes": 0,
+      "publication_date": 20200422
+    },
+    {
+      "title": "No more network issues for me.",
+      "text": "Should have bought this years ago instead of those cheep wireless routers from Best Buy. My network used to work, then it didn't. Now I no longer have any network issues. I use my old wireless router for my WiFi access point.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "J. Santucci",
+      "helpful_votes": 0,
+      "publication_date": 20160526
+    },
+    {
+      "title": "Dual WAN, Gigabit Ports.",
+      "text": "Great product, easy to set up. Read the specs sheet from cisco.com carefully before buying this to insure that your getting what you need, Just like any other product, specifically with the Dual WAN functions this product has. Some are getting the wrong idea of the functions and intended use and limitations.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "StickyProjectile",
+      "helpful_votes": 0,
+      "publication_date": 20180317
+    },
+    {
+      "title": "Perfect for small office",
+      "text": "After doing a internect speed test we realized we needed to replace our linksys router. Needed a router that could handle 30+ port forwarding rules and this router could do it. Our internet speeds went from 40-45 MBs to 120-130 MBs.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "LTCJES",
+      "helpful_votes": 0,
+      "publication_date": 20170508
+    },
+    {
+      "title": "Nice upgrade from Cisco RV016",
+      "text": "This is an excellent wired router. We previously used the slower RV016, but now need gigabit performance at all installations. Beware of VPN setting changes needed if you use a wide range in DHCP as it will conflict with default settings. You must put VPN range outside your regular DHCP range such 192.168.1.253 - .254.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "JPoldoian",
+      "helpful_votes": 0,
+      "publication_date": 20170726
+    },
+    {
+      "title": "Excellent product for the price",
+      "text": "Excellent product for the price. Beats the pants off the previous Cisco single wan vpn router that was in place. Love the PPTP server that will allow multiple client connections without expensive licenses.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Jas Sholl",
+      "helpful_votes": 0,
+      "publication_date": 20180524
+    },
+    {
+      "title": "An excellent SMB router!",
+      "text": "An excellent small business router with VPN, VLAN support and plenty of enterprise features.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "C. Ramirez",
+      "helpful_votes": 0,
+      "publication_date": 20191214
+    },
+    {
+      "title": "Recommended for Dual WAN",
+      "text": "We were having some problems with a 2 year old Cisco RV042G with VOIP. It was working fine for 2 years and then all of the sudden we were getting call drops. We replaced it with this unit and the problems went away! We have a dual internet connection, 10 Mbps fiber and 60 Mbps Cable internet, and it works well.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Sun P. Kwok",
+      "helpful_votes": 2,
+      "publication_date": 20160430
+    },
+    {
+      "title": "Great for three months",
+      "text": "Avoid! Great for three months. Then one day it lost WAN connection and prompted \"WAN#1 Connected but idle\" . Cisco said update firmware. I did but nothing changed. Purchased this to replace Apple router thinking dual WAN would give me reliability. Instead RV325 ruined a weekend. Back to simplicity with Apple.",
+      "rating": 2.0,
+      "verified": true,
+      "author": " Sonyman",
+      "helpful_votes": 2,
+      "publication_date": 20160525
+    },
+    {
+      "title": "I gived up. Some devices just cannot get ip address from build-in dhcp server",
+      "text": "I am tried many many ways. But some devices (especially IoT or old devices) cannot get ip address from build-in dhcp server. I googled and found many other users also encounter the same issue. To bad.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "Jacky Chu",
+      "helpful_votes": 0,
+      "publication_date": 20190308
+    },
+    {
+      "title": "easy setup, worked right away",
+      "text": "I was worried by some of the reviews but I have not had any problems, though I am not using any of advanced features so far. easy setup, worked right away, reliable, and getting the performance I need to make full use of upgraded cable bandwidth (200 mb down 20mb up).",
+      "rating": 4.0,
+      "verified": true,
+      "author": "LSN",
+      "helpful_votes": 0,
+      "publication_date": 20170420
+    },
+    {
+      "title": "Can't Vpn out going wan.",
+      "text": "Purchased thinking I could Vpn all my outgoing Internet it doesn't allow for this so it turned into a fancy router/switch. Plenty of ports was able to connect all home Ethernet ports. Setup can be complicated as it has a lot of advanced functions.",
+      "rating": 4.0,
+      "verified": true,
+      "author": "Mileymx5",
+      "helpful_votes": 0,
+      "publication_date": 20160620
+    },
+    {
+      "title": "Love it",
+      "text": "Absolutely a beast for services. Love it. CLI is completely crippled, not a fan of GUI, still highly recommend.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Jason Mcgee",
+      "helpful_votes": 0,
+      "publication_date": 20180327
+    },
+    {
+      "title": "An excellent VPN router",
+      "text": "This is a very nice mid-range router. Capable of dual WAN, load balancing, multiple VLAN, and both Gateway to Gateway and Client to Gateway operation, it's a worthwhile successor to the RV042 that it replaced.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Dave Z.",
+      "helpful_votes": 0,
+      "publication_date": 20170805
+    },
+    {
+      "title": "COntinuously loses connection with server",
+      "text": "I have had this product since 10/2018--not even a year old yet, but it has started having issues. I bought an extended warranty (NEVER AGAIN) and they advised that since it is not a year old, I should contact the manufacturer. This is ridiculous. I bought it and it should work.",
+      "rating": 2.0,
+      "verified": true,
+      "author": "Marcie",
+      "helpful_votes": 0,
+      "publication_date": 20190705
+    },
+    {
+      "title": "excellent, I'm using it with two ISP and load ...",
+      "text": "so far no problem, excellent, I'm using it with two ISP and load balanced with backed service with no issues",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Jesse L.",
+      "helpful_votes": 0,
+      "publication_date": 20180530
+    },
+    {
+      "title": "Works for me",
+      "text": "Arrived fast \"like 2 days.\" Plugged it in and was up in running in 5 minutes.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Michael T Neuffer",
+      "helpful_votes": 0,
+      "publication_date": 20180708
+    },
+    {
+      "title": "Best Router I have owned",
+      "text": "Best Router I have owned. I pay for 75/75 and now getting 95 down. No more bottle necking. Great router.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "E-Shopper",
+      "helpful_votes": 0,
+      "publication_date": 20161012
+    },
+    {
+      "title": "High tech for low price!",
+      "text": "Surprisingly sophisticated router for the price. Very easy to configure and customize. Not for a novice, but fine for someone with some router experience. Bonus is the Dual Wan feature that works flawlessly... I would highly recommend.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "MattCann",
+      "helpful_votes": 0,
+      "publication_date": 20161121
+    },
+    {
+      "title": "For the price, you can't beat it. So ...",
+      "text": "For the price, you can't beat it. So far as I can tell, the router does everything that I need it to and has plenty of ports and a ton of configuration options.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Amazon Customer",
+      "helpful_votes": 0,
+      "publication_date": 20180705
+    },
+    {
+      "title": "Not what I expected. It does not have a ...",
+      "text": "Not what I expected. It does not have a full command line, only 2 basic commands. I was going to use this for learning Cisco command line, but instead this uses a full GUI, which is why I returned it.",
+      "rating": 3.0,
+      "verified": true,
+      "author": "Phil T.",
+      "helpful_votes": 0,
+      "publication_date": 20180613
+    },
+    {
+      "title": "Great high end home or small business router",
+      "text": "Its a great little box with Cisco quality. I have a lot of years working with Cisco and they are reliable and easy to work with.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "PHill",
+      "helpful_votes": 0,
+      "publication_date": 20191104
+    },
+    {
+      "title": "Works great!",
+      "text": "I used this to connect two separate networks to printers and copiers. Works great!",
+      "rating": 5.0,
+      "verified": true,
+      "author": "John",
+      "helpful_votes": 0,
+      "publication_date": 20180219
+    },
+    {
+      "title": "Five Stars",
+      "text": "So far Works Great, Only time will tell. Never tried this Brand before.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "INONUTN",
+      "helpful_votes": 0,
+      "publication_date": 20171130
+    },
+    {
+      "title": "Four Stars",
+      "text": "needs a better interface and I've had trouble with cisco dual wans but so far so good",
+      "rating": 4.0,
+      "verified": true,
+      "author": "rad",
+      "helpful_votes": 0,
+      "publication_date": 20171101
+    },
+    {
+      "title": "Five Stars",
+      "text": "The security features of this router are amazing for today challenges.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Juan Dominguez",
+      "helpful_votes": 0,
+      "publication_date": 20180112
+    },
+    {
+      "title": "Easy to configure",
+      "text": "We needed to replace an ancillary router and the Cisco RV325 took no more than 15 minutes to configure and run.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Cesar Monroy",
+      "helpful_votes": 0,
+      "publication_date": 20190101
+    },
+    {
+      "title": "Four Stars",
+      "text": "The product is exactly what was expected. It arrived on time.",
+      "rating": 4.0,
+      "verified": true,
+      "author": "Kim",
+      "helpful_votes": 0,
+      "publication_date": 20180125
+    },
+    {
+      "title": "Great product for home or office.",
+      "text": "Love the unit, excellent quality. Great management interface, works well and was easy to set up 9 vlans.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "John M.",
+      "helpful_votes": 0,
+      "publication_date": 20170704
+    },
+    {
+      "title": "Great product overall",
+      "text": "Great product overall. Vpn portion was the primary reason I purchased the product and it fits that bill well. Configuration was easy for the initial setup but can go I depth quickly if you don't have the knowledge of what each section contains.",
+      "rating": 4.0,
+      "verified": true,
+      "author": "MattyB",
+      "helpful_votes": 0,
+      "publication_date": 20160826
+    },
+    {
+      "title": "Using for office of 15 pple, reset once a month with great speed.",
+      "text": "It's very good. I have another Cisco WIFI bought 3 years ago. This one is definitely much much faster in routing.",
+      "rating": 4.0,
+      "verified": true,
+      "author": "BR-Anxiem",
+      "helpful_votes": 0,
+      "publication_date": 20170425
+    },
+    {
+      "title": "The firewall doesn't work. You can add as many pages/words/IPs as you want and everything pass trough it.",
+      "text": "The firewall doesn't work. You can add as many pages/words/IPs as you want and everything pass trough it. I had a cheap router that had a better firewall that this one...",
+      "rating": 2.0,
+      "verified": true,
+      "author": "Bruno S.",
+      "helpful_votes": 0,
+      "publication_date": 20180627
+    },
+    {
+      "title": "Five Stars",
+      "text": "This is really good value for money. The switch worked right out the box. No complicated setup.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Trevor A. Campbell",
+      "helpful_votes": 0,
+      "publication_date": 20170917
+    },
+    {
+      "title": "Do not buy it, is not reliable, after ...",
+      "text": "Do not buy it, is not reliable, after 5 month stopped to work. DIAG led is red. Firmware corruption. Just to avoid such cases I keep all my hardware connected to APC. Any attempt to recover failed. I will update in case I was able to recover.",
+      "rating": 2.0,
+      "verified": true,
+      "author": "IR",
+      "helpful_votes": 0,
+      "publication_date": 20170624
+    },
+    {
+      "title": "Good solid VPN for site to site and client to ...",
+      "text": "Good solid VPN for site to site and client to site. No issues and looking to buy more before this product line goes away...",
+      "rating": 5.0,
+      "verified": true,
+      "author": "BPaPilot",
+      "helpful_votes": 0,
+      "publication_date": 20180505
+    },
+    {
+      "title": "Perfect and Easy to use",
+      "text": "Works perfect, fixed several issues I was having with my home network",
+      "rating": 5.0,
+      "verified": true,
+      "author": "William D. Shewbridge",
+      "helpful_votes": 0,
+      "publication_date": 20171014
+    },
+    {
+      "title": "Excellent product. It was very easy to install in ...",
+      "text": "Excellent product. It was very easy to install in my 4 computer home network. It replaced a 4 year old VPN router from a competing company that was apparently really limiting my download capabilities. My download speed prior to installation of the router was routinley around 20 Mb/s. Following installation of the CISCO router my new norm hovers around 90 Mb/s. Additionally it runs considerably cooler than the unit it replaced. I'm very happy so far and hope it proves to also be very reliable and durable.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Dale Kavanagh",
+      "helpful_votes": 3,
+      "publication_date": 20160409
+    },
+    {
+      "title": "So far so good, it made my little home network cleaner",
+      "text": "So far so good, it made my little home network cleaner, easier to add/remove and its a little faster now too !",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Mike H.",
+      "helpful_votes": 0,
+      "publication_date": 20160717
+    },
+    {
+      "title": "good router for small companies",
+      "text": "No issues, delivered as promised on time. good router for small companies.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Gloria Maria Castano",
+      "helpful_votes": 0,
+      "publication_date": 20180328
+    },
+    {
+      "title": "Four Stars",
+      "text": "The firewall is either on or off no settings to arbitrate traffic",
+      "rating": 4.0,
+      "verified": true,
+      "author": "Al Spaterna",
+      "helpful_votes": 0,
+      "publication_date": 20180311
+    },
+    {
+      "title": "Small price but big feature list included out of the box.",
+      "text": "More features than your average router and perfect for a small office specially if you have remote workers.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Amazon Customer",
+      "helpful_votes": 0,
+      "publication_date": 20180310
+    },
+    {
+      "title": "Easy to set up.",
+      "text": "Replaced an old slow router with this new one. Very easy to set up and works well.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Marty Fulbright",
+      "helpful_votes": 0,
+      "publication_date": 20190911
+    },
+    {
+      "title": "Good service",
+      "text": "I use this product for improve performance in the Electronic Health Record in my medical office. Thanks!",
+      "rating": 5.0,
+      "verified": true,
+      "author": "William Garcia",
+      "helpful_votes": 0,
+      "publication_date": 20191012
+    },
+    {
+      "title": "Five Stars",
+      "text": "Does what it's supposed to. Wish the Cisco fat client was still available. Had to use Shrewsoft.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Jeff F.",
+      "helpful_votes": 0,
+      "publication_date": 20170821
+    },
+    {
+      "title": "Works great, plug and play right out of the box",
+      "text": "Works great, plug and play right out of the box. No problems since I installed it. I eliminated my prior router and switch with this",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Sharon M",
+      "helpful_votes": 0,
+      "publication_date": 20170503
+    },
+    {
+      "title": "Five Stars",
+      "text": "Great router at a good price. Does everything we want it to do and fixed our network issues.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Michael Perlich",
+      "helpful_votes": 0,
+      "publication_date": 20171207
+    },
+    {
+      "title": "Very user friendly",
+      "text": "Very easy to setup. Exactly what I needed for my small business to expand its network.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Mark Malone",
+      "helpful_votes": 0,
+      "publication_date": 20180206
+    },
+    {
+      "title": "So far so good. Work right out the box",
+      "text": "So far so good. Work right out the box, easy firmware upgrade. Has a ton of features waiting to explore. Price reasonable.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Thomas Mang",
+      "helpful_votes": 0,
+      "publication_date": 20160524
+    },
+    {
+      "title": "Great product",
+      "text": "Love cisco products. bear in mind this is not \"linksys\" but rather an enterprise (small business) level router. i am a network tech so set up was easy enough and vlan memberships were a breeze. the gui interface makes for a good change from the standard ios cli. all in all this is a great product for a small business who needs converged networking with vlans.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Jarlaxle",
+      "helpful_votes": 0,
+      "publication_date": 20171012
+    },
+    {
+      "title": "Only good with very small business",
+      "text": "Worked great at a location with only 8 network connections. Purchased another for another location with 17 connections and the router constantly kicks computers off the network. Multiple computers, credit card machines, networked printers and a server can't be handled on this router. Ended up purchasing a Sonicall tz400.",
+      "rating": 3.0,
+      "verified": true,
+      "author": "cosmickatamari",
+      "helpful_votes": 0,
+      "publication_date": 20170903
+    },
+    {
+      "title": "simply the best / most stable",
+      "text": "most stable router I have ever owned. power it up, set it up... done. be sure to update the firmware (as we all should do anyway). this has been running for 1.5+ years... the only issue has been we lose power in the house / we update the firmware... it is simply amazing! I never question this product.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "P. Wroth",
+      "helpful_votes": 0,
+      "publication_date": 20161223
+    },
+    {
+      "title": "Couldn't be happier!",
+      "text": "Happy as a clam... if clams can be happy! Replaced a router and a switch with this router. Works great! Great having 16 ports on one router. Connects two NAS and my plethora of IT equipment. Get full throughput.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Behrcowboy",
+      "helpful_votes": 0,
+      "publication_date": 20160513
+    },
+    {
+      "title": "Five Stars",
+      "text": "I am very happy with this router, I would buy it again.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Titan",
+      "helpful_votes": 3,
+      "publication_date": 20160201
+    },
+    {
+      "title": "Works as expected.",
+      "text": "Worked as expected. The only thing is that the documentation is not very good, I do not have much experience with networking and had a hard time getting it set up.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Julio Enrique Luzardo Osorio",
+      "helpful_votes": 0,
+      "publication_date": 20160610
+    },
+    {
+      "title": "Great router with 16 Gigabyte LAN ports",
+      "text": "Overkill for my needs, two WAN ports and 16 LAN ports - but more than doubled my cable data speed. Great router if you don't need integrated Wi-Fi.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Andrew Pober",
+      "helpful_votes": 0,
+      "publication_date": 20160530
+    },
+    {
+      "title": "Great router, I bought it few months ago and ...",
+      "text": "Great router, I bought it few months ago and so far is working perfectly. We have to ISP so we needed a router to balanced load, cisco RV325 is not expensive and does the job.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Manuel A.",
+      "helpful_votes": 0,
+      "publication_date": 20160421
+    },
+    {
+      "title": "good but slow delivery even with prime",
+      "text": "took a white for delivery but beside that everything was good!",
+      "rating": 4.0,
+      "verified": true,
+      "author": "Autolizer",
+      "helpful_votes": 0,
+      "publication_date": 20160728
+    },
+    {
+      "title": "Five Stars",
+      "text": "Delivers high speed gigabit ether net to all my devices. Improved performance over the old router.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "James W Payne",
+      "helpful_votes": 0,
+      "publication_date": 20161227
+    },
+    {
+      "title": "These are great for businesses and help when you have multiple desktops ...",
+      "text": "These are great for businesses and help when you have multiple desktops that need to connect to the internet. Cisco is a great band and have not given me any problems with this product.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Mazen Abou Harb",
+      "helpful_votes": 0,
+      "publication_date": 20160225
+    },
+    {
+      "title": "Five Stars",
+      "text": "Plugged it in and away it went. Problem solved with no speed loss.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Amazon Customer",
+      "helpful_votes": 0,
+      "publication_date": 20160330
+    },
+    {
+      "title": "Works great",
+      "text": "This router works great for me. No issues at all.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Tony S",
+      "helpful_votes": 0,
+      "publication_date": 20170204
+    },
+    {
+      "title": "item was use i was told it was new! ...",
+      "text": "item was use i was told it was new !!! cisco look it up user items NO DAM support i am somewhere else to item beside amazon thank you",
+      "rating": 1.0,
+      "verified": true,
+      "author": "vvvvvv",
+      "helpful_votes": 0,
+      "publication_date": 20160326
+    }
+  ],
+  "product_meta": {
+    "title": "Cisco Systems Gigabit Dual WAN VPN 14 Port Router (RV325K9NA)",
+    "description": "The Cisco RV325 Dual Gigabit WAN VPN Router is a perfect choice for companies that need a combination of performance, security, reliability, and flexibility. You can connect its dual Gigabit Ethernet WAN ports to one service provider, for high-performance networking with load balancing.\n\nAMAZON.COM",
+    "rating": 4.2,
+    "feature_bullets": [
+      "Dual Gigabit Ethernet WAN ports for load balancing and business continuity",
+      "Easily manages large files and concurrent users to keep employees productive",
+      "Connects multiple locations and remote workers using VPN",
+      "High capacity, high-performance SSL and IP Security VPN capabilities",
+      "Intuitive, browser based device manager and setup wizards"
+    ],
+    "specifications": {
+      "Wireless Type": "802.11a/b/g/n",
+      "Number of USB 2.0 Ports": "2",
+      "Brand": "Cisco Systems",
+      "Series": "RV325K9NA",
+      "Item model number": "RV325K9NA",
+      "Hardware Platform": "PC",
+      "Item Weight": "4.5 pounds",
+      "Product Dimensions": "15.5 x 12.3 x 3.2 inches",
+      "Item Dimensions  LxWxH": "15.5 x 12.3 x 3.2 inches",
+      "Color": "Black",
+      "Voltage": "12 Volts",
+      "Manufacturer": "CISCO SYSTEMS - ENTERPRISE",
+      "ASIN": "B00HODK3N0",
+      "Is Discontinued By Manufacturer": "No",
+      "Date First Available": "October 21, 2017",
+      "Customer Reviews": "4.2 out of 5 stars180 ratings4.2 out of 5 stars",
+      "Best Sellers Rank": "#12,530 in Computers & Accessories"
+    },
+    "categories": [
+      "Computers & Accessories",
+      "Electronics",
+      "Routers",
+      "Networking Products"
+    ],
+    "price": ""
+  }
+}

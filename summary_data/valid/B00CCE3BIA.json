@@ -1,0 +1,959 @@
+{
+  "website_summaries": [
+    {
+      "verdict": "You'll pay a little extra for this touch mouse version, as it's designed to match Microsoft Surface hardware.",
+      "pros": [
+        "Works with almost any non-Apple device that includes Bluetooth, but made specifically for Surface",
+        "Touch mouse allows for scrolling in any direction on the screen",
+        "This mouse has an automatic power down mode after a period of inactivity that will conserve battery power"
+      ],
+      "cons": [
+        "Some problems with usability of the mouse"
+      ],
+      "aspects": {},
+      "publication_date": "",
+      "rating": "",
+      "source": "bestreviews"
+    }
+  ],
+  "customer_reviews": [
+    {
+      "title": "Fixed no Middle-Button deficiency, here's how",
+      "text": "This is literally one of the best mice I have ever used. The only down side is there is no middle-click. But I've found a workaround for this. I've written a script in AutoHotKey. When you press-and-hold the right click, you get a middle click. When you double click the right click, you get Task View (Win10). I'm sharing it here: Rbutton:: ;DELAYS SINGLE-CLICK 0.15sec HERE IN ORDER TO RECOGNIZE THE OTHER TWO keywait, rbutton, t0.15 if errorlevel = 1 { ;PRESS-AND-HOLD ACTION HERE send, {mbutton} return } else keywait, rbutton, d, t0.15 if errorlevel = 0 { ;DOUBLE-CLICK ACTION IS HERE send, #{Tab} return } else ;SINGLE-CLICK ACTION HERE (DELAYS 0.15sec) mouseclick, right return",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Amazon Customer",
+      "helpful_votes": 7,
+      "publication_date": 20170310
+    },
+    {
+      "title": "Great - when it works",
+      "text": "I really like the ergonomics and the responsiveness of this mouse, and the small size is great too. I've had this almost two years and, after about a year and a half, it just stopped working - stopped pairing with my computer. I picked it up again today and try it and....it's working great again. So - I love it, but I don't trust it.",
+      "rating": 3.0,
+      "verified": true,
+      "author": "Yakfish",
+      "helpful_votes": 0,
+      "publication_date": 20201009
+    },
+    {
+      "title": "Good Things Come !n a Small Package",
+      "text": "This device is awesome! I have a Lenovo TAB X103 computer. I absolutely do not like swiping the screen with my finger to search and manipulate the machine (I am constantly wiping the finger smudges left on the screen!). I purchased a blue tooth keyboard and the Microsoft Wedge Touch Mouse (Blue tooth). Both work flawlessly. I could not be more pleased! I do have a laptop, but this machine is so portable and light weight-much easier on the go! I really wanted a track ball with blue-tooth on board, but I could not find one to save my soul! Hello, Microsoft...thank you for this little marvel.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "John Keating",
+      "helpful_votes": 0,
+      "publication_date": 20170306
+    },
+    {
+      "title": "Enjoyable travel mouse",
+      "text": "Not a fan of compact mice, but this paired easily on both Windows and Linux, and flicks around effortlessly without having to completely grip it in a claw style. Great DPI for mouse tracking, and touch scrolling works across both OSes. Would've loved a rechargeable version, but the single AA it takes is hardly a nuisance.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Akoi Meexx",
+      "helpful_votes": 2,
+      "publication_date": 20161013
+    },
+    {
+      "title": "Nice mouse especially for travel",
+      "text": "What is more bulky than a full size mouse in a camera bag or pouch? People always ask me about this little rodent when they see me use it. While I use a Microsoft Surface Pro for daily work, I can't stand track pads. They never feel right and never feel precise. This little mouse is precise, easy on the hands, and I never feel twinges of muscle spasms even on a full day's use. And, the rechargeable batteries I use last for a month or more with daily use. Excellent value.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "firewallbillTop Contributor: Photography",
+      "helpful_votes": 0,
+      "publication_date": 20180916
+    },
+    {
+      "title": "Great mouse.",
+      "text": "Awesome mouse. I wanted to pick this guy up since it came out but i wasn't going to spend 50+ dollars on it. So I waited for the price to fall like a reasonable person. I mainly got it because of its slim design. I know the arc mouse has a more slimmer compact design but I'm a college student and that price point was a no go. It pairs great with my good ol' Surface Pro 2. I haven't had any lag or glitching since i started using it. The size does take some getting use to. If you are use to the SP2 keyboard then it should be easy.",
+      "rating": 4.0,
+      "verified": true,
+      "author": "Slater",
+      "helpful_votes": 0,
+      "publication_date": 20160802
+    },
+    {
+      "title": "Perfect for the price. Great design.",
+      "text": "Works perfectly with my mac (on Sierra), although the side to side function hasn't been properly tested (doesn't work anywhere). Miss the middle ckic/drag function. Scrolling feels weird but I'm sure it's just a matter of getting used to it. Installation was a breeze, you just pair it and is ready to use in 5 seconds. Weird shape has proved not to be a problem. Would recommend as a perfect alternative to a simple mouse, and at this entry level price there's really nothing to complain about. Gift this as a stocking stuffer to somebody who uses a computer just to send mails, check Facebook, and menial tasks of the like.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Oz",
+      "helpful_votes": 0,
+      "publication_date": 20161116
+    },
+    {
+      "title": "I like it because it's small and thin and it fits ...",
+      "text": "I use this with my surface pro. I like it because it's small and thin and it fits in my sleeve. At first it took some getting use to because of its size but once you're used to it it's easy to use but does take some time. This is my second one, I had to look back and I bought my first one July 2013 and it's just now started to act up. I guess you can say these are pretty dependable. Oh, and I paid $69.95 to the Microsoft store back then so this is a deal! Btw, I'm on my third Surface. The newest one is bad a$$.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "mcfly",
+      "helpful_votes": 0,
+      "publication_date": 20180203
+    },
+    {
+      "title": "mouse (surface edition) looks great, works fine except touch strip - four-way touch scrolling capability does not work",
+      "text": "mouse (surface edition) looks great and like the hand feel. compact size not a problem. easy to install - bluetooth device located and works straightaway. only critical issue is the touch strip: the four-way touch scrolling capability does not work. the touch scrolling does not react at all horizontally. vertically the touch scrolling only works sporadically and erratically, not controlled movement. it's too bad because four-way touch scrolling would be a very useful feature if it actually worked properly. otherwise, mouse functions fine, right and left click buttons react well.",
+      "rating": 4.0,
+      "verified": true,
+      "author": "HJ",
+      "helpful_votes": 0,
+      "publication_date": 20170511
+    },
+    {
+      "title": "Vertical Scrolling Doesn't Work Well",
+      "text": "As expected, it is uncomfortable to use because of the shape and small size. But the main problem is that the vertical scrolling is not smooth and is glitchy. I tried adjusting the mouse wheel sensitivity in mouse settings, but the problem did not go away. I also have logitech trackball connected to my laptop and the vertical scrolling works without any problem. The mouse pad on my laptop also works flawlessly. So, this is definitely an issue with the wedge touch mouse. In fact, many people were complaining about this on youtube, but it looks like Microsoft did not correct the problem.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "rad7",
+      "helpful_votes": 0,
+      "publication_date": 20160602
+    },
+    {
+      "title": "Light, small, and easy to use...",
+      "text": "OMG the best mouse I have ever used. I am disabled with my hands and this is so easy to use. I started to use it immediately without reading the directions! DUH! never do I that...I was using it upside down and wondering why it was no good! I read the directions and realized I had to turn it around and it works so great I LOVE it. It is small enough to use with an iPad or small laptop as well. I carry it with me for my iPad. Don't be afraid to buy this item don't think you will be sorry.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Amazon Customer",
+      "helpful_votes": 0,
+      "publication_date": 20170318
+    },
+    {
+      "title": "Would purchase again.",
+      "text": "I got this mouse for 10 dollars, it was a steal this item is worth way more than that. The build quality is top notch. This mouse it tiny and can be carried anywhere, however even though it's small it still easily does everything a regular mouse can do at a fraction of the size. It is well worth way more than what I paid for it and would purchase again. The wedge keyboard is also a great item with great build qiality.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Aaron",
+      "helpful_votes": 0,
+      "publication_date": 20161116
+    },
+    {
+      "title": "Cool design, Bluetooth functions well",
+      "text": "Cool design, Bluetooth functions well, click feels nice. But the scrolling on this thing is terrible. Scrolling Is inconsistent, you never know if you will scroll one line, 3 lines, or 10 lines when moving your finger. I am pretty attentive to details and good at adapting to the \"feel\" necessary to use a product, but I can't figure out how to make scrolling accurate and consistent with this. If you never scroll, this is fine. Otherwise, I don't think it is worth even the low price it is now.",
+      "rating": 3.0,
+      "verified": true,
+      "author": "Young Tai",
+      "helpful_votes": 0,
+      "publication_date": 20170319
+    },
+    {
+      "title": "Works good except for the center scroll.",
+      "text": "At first I hated this action but I've gotten used to it and it is quite ideal for my small 10 inch Windows tablet. The reason for the three stars vs 4 or 5 was the center scrolling doesn't work, It works wildly and makes that almost unusable. But the rest of the mouse tracking is pretty good.",
+      "rating": 3.0,
+      "verified": true,
+      "author": "Mark Urquhart",
+      "helpful_votes": 0,
+      "publication_date": 20170509
+    },
+    {
+      "title": "Great mouse for the surface",
+      "text": "Great mouse, especially for the price! It's compact so it fits in my laptop bag (I purchased the case for it as well) and it works great on multiple surfaces. And it sounds silly, but I really like the way the buttons click. Still getting used to the scroll (not super smooth) but so far I think it's a user issue, not a problem with the product. Highly recommend!",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Tenacious Mama",
+      "helpful_votes": 0,
+      "publication_date": 20170105
+    },
+    {
+      "title": "Nice mouse, except for problematic power button.",
+      "text": "This is a pretty good mouse. I like how small it is, for use with a Windows 10 tablet. The one problem is that it has a push-on-push-off power button on the bottom. If you toss it in your computer case gadget bag the power button will get bumped on and eventually when you want to use it the battery is dead. My solution is to take the battery out every time I put it away.",
+      "rating": 4.0,
+      "verified": true,
+      "author": "Jonathan Engdahl",
+      "helpful_votes": 0,
+      "publication_date": 20170112
+    },
+    {
+      "title": "No hesitation.",
+      "text": "I first bought this mouse 2 years ago when I bought my Duo 13. I wanted something that wouldn't take up much space in my briefcase. I also wanted something connect via bluetooth, since I leave my Ultra Fit flash drives in both my usb ports. Check and check. The only con is that it is possibly easier to misplace due to its small size, as this is my second one purchased. I bought the first one for $70+. But at $12, it is a highly recommended buy.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "CriticalThinker",
+      "helpful_votes": 0,
+      "publication_date": 20161024
+    },
+    {
+      "title": "So far so good. The battery door switch is pretty clever",
+      "text": "So far so good. The battery door switch is pretty clever. Range and connection is great. Left and right clicking work perfectly. Works on all my devices without having to download drivers and is very portable. The scrolling action is very similar to a mouse pad. The only trick is if my fingers are dry it's really hard to hold the smooth metal sides with the thumb and pinky. If there were some texture or rubberized grip things would be perfect.",
+      "rating": 4.0,
+      "verified": true,
+      "author": "Derick Snow, Amazon Customer",
+      "helpful_votes": 0,
+      "publication_date": 20161211
+    },
+    {
+      "title": "Decent but needs work",
+      "text": "The shape is nice, it's exactly what I expected based on the pictures. Clicking works well too, I haven't had any problems with that either. However, scrolling is so terrible that it's almost unusable, I had to start using the scroll bar on the side of the browser when I use this mouse. It's not smooth and it's either way too slow (a couple lines at a time) or way too fast (I'll lose my place in an article I'm reading because it scrolls halfway down the page).",
+      "rating": 3.0,
+      "verified": true,
+      "author": "John",
+      "helpful_votes": 0,
+      "publication_date": 20160826
+    },
+    {
+      "title": "Not bad, but should really have a scroll wheel",
+      "text": "Pros: -Works on almost every surface I've tried, without a mouse pad. The exception is clear glass. -Looks totally cool. -Not really uncomfortable, surprisingly. -Very small, really easy to travel with. Cons: -When you rest your fingers on the buttons, the screen can sometimes go crazy scrolling up and down. Pick up your fingers and the problem goes away, but that's an uncomfortable way to hold the mouse. -There is no scroll button, just rub a finger up or down. But it isn't that responsive, and causes the crazy-screen problem above.",
+      "rating": 4.0,
+      "verified": true,
+      "author": "Amazon Customer",
+      "helpful_votes": 0,
+      "publication_date": 20160218
+    },
+    {
+      "title": "Compact touch mouse for Surface, but not long lasting!",
+      "text": "Purchased this about 8 months ago. Pros: Nice and compact, feels solid, easy to pair with MS Surface. Cons: Heavy on battery drain - lasts about 6-8 weeks After 7-8 months of use, not working properly... choppy bluetooth connection; not scrolling smoothly, hangs for 1-2 seconds - very irritating!",
+      "rating": 3.0,
+      "verified": true,
+      "author": "K.E.R.",
+      "helpful_votes": 0,
+      "publication_date": 20180202
+    },
+    {
+      "title": "Feels like $tealing",
+      "text": "$15 for a high-quality-built bluetooth mouse? Count me in. Really nice form factor; will take some getting used to but it's mostly fine to you. Touch scrolling works quite well and responosive but really all of this is trumped by the fact that it's 15 freakin dollars. Would recommend if you're looking for a simple, portable bluetooth mouse.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Nathan",
+      "helpful_votes": 0,
+      "publication_date": 20160520
+    },
+    {
+      "title": "Super nice mouse",
+      "text": "I love this mouse. I have two of them now, this one that I got for $12 and my original one that I paid $35 for two years ago. There is no better travel mouse, and it works great with Windows. I have used it on Ubuntu, but it is not a great linux mouse. For this price, buy them up. I might even get an extra one to keep in case I lose this one.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "qhris",
+      "helpful_votes": 0,
+      "publication_date": 20160914
+    },
+    {
+      "title": "Good buy... Microsoft made a well designed carrier mouse.",
+      "text": "This mouse is awesome. It is small as hell. I have very large hands (I palm a basketball easily) so its hard to get used to but everyone that used it, loves it. Its very compact and smooth.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "DatGuy Jr",
+      "helpful_votes": 0,
+      "publication_date": 20170806
+    },
+    {
+      "title": "this is an awesome travel mouse that won't take up too much space ...",
+      "text": "As long as you can adapt to mousing with your fingertips and no palm rest, this is an awesome travel mouse that won't take up too much space in your bag. Works great, has single point touch, bluetooth out of the box. Works with other bluetooth devices then surface pro as well. I always have this in my laptop bag for when I'm on the go.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Macrogeek",
+      "helpful_votes": 0,
+      "publication_date": 20170106
+    },
+    {
+      "title": "Microsoft  touch mouse  for 15 bucks? Awesome.",
+      "text": "Bought this to use with my Pro3 for 15 bucks. very happy with it. Pairs easily. Love that I can scroll using my forefinger on the mouse like a track pad. Not bulking. Would I prefer the Arc mouse ? Yes but not at it's current price point.",
+      "rating": 4.0,
+      "verified": true,
+      "author": "LeoC",
+      "helpful_votes": 0,
+      "publication_date": 20180403
+    },
+    {
+      "title": "but this is by far my favorite mouse! It's the perfect size for my Surface ...",
+      "text": "I was skeptical of this little mouse when I purchased it, but this is by far my favorite mouse! It's the perfect size for my Surface Pro Laptop and slips right into a pocket of a laptop bag. Doesn't hurt my wrist or hand when using either.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Francy",
+      "helpful_votes": 0,
+      "publication_date": 20180507
+    },
+    {
+      "title": "and I will tell this thing is not comfortable. the only good thing about this mouse is ...",
+      "text": "start having connection issue after one month of usage, the battery couldn't position itself correctly, this product is not reliable. and also the right click button does not work accurately every time you try to click it, 50% of the time will register as left click, so you need to try couple times to get it work, and I will tell this thing is not comfortable. the only good thing about this mouse is the looks. that's why I bought it. but too bad. if this product did not die on me I probably give it a 4 star. simply not reliable, other mouses are better.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "Shigo",
+      "helpful_votes": 0,
+      "publication_date": 20161102
+    },
+    {
+      "title": "Decent but better options exist",
+      "text": "Works somewhat well over most surfaces, I have an issue with it coming on in my bag and draining the battery and the click isn't as \"clicky\" as you'd think so it can be hard to tell if you pressed it hard enough",
+      "rating": 3.0,
+      "verified": true,
+      "author": "Jimothy Jones",
+      "helpful_votes": 0,
+      "publication_date": 20180626
+    },
+    {
+      "title": "Great mouse when it worked; broken after two months",
+      "text": "After only a few months of use, the mouse won't turn on. I've taken very good care of it, so this came as a surprise to me. I've tried a brand-new battery, but I haven't had any luck. Maybe I got a dud? When the mouse did work, I was very impressed with it. It's small, portable, and tracks fairly well. There were a few hiccups now and then.",
+      "rating": 2.0,
+      "verified": true,
+      "author": "micaelaSR",
+      "helpful_votes": 0,
+      "publication_date": 20170124
+    },
+    {
+      "title": "The mouse is great. Just that bluetooth isn't good for a mouse ...",
+      "text": "The mouse is great. Just that bluetooth isn't good for a mouse in general because it keeps going to sleep (maybe that's just my computer iono). Also this mouse is a bit hard to hold, but a great compromise for compactness.",
+      "rating": 3.0,
+      "verified": true,
+      "author": "SlickyWickyNicky",
+      "helpful_votes": 0,
+      "publication_date": 20170607
+    },
+    {
+      "title": "Microsoft Wedge Mouse Surface Edition",
+      "text": "I had one before and was great. Unfortunately this one is not so great. At times the RED light flashes, not the GREEN light, both should flash alternately to work. It will not pair or connect. Too bad, the older model was quit nice.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "Amazon Customer",
+      "helpful_votes": 0,
+      "publication_date": 20160901
+    },
+    {
+      "title": "It isn't the most comfortable mouse to hold",
+      "text": "It isn't the most comfortable mouse to hold, takes a little getting used to, but for those that need to go from meeting to meeting, this is the best mouse. I love how light it is, how you can just press a button to turn it on and off, how its so small you can slip it in any pocket without destroying it.",
+      "rating": 4.0,
+      "verified": true,
+      "author": "Tofooey",
+      "helpful_votes": 0,
+      "publication_date": 20160716
+    },
+    {
+      "title": "Works great",
+      "text": "I have been using this mouse with my Surface Pro 1 for about a year. It is the only reliable Bluetooth device I have owned, Love its small size for packing/carrying. Jun 2015 update: Still love it but it is becoming very reluctant to turn on. I have to bang it numerous times to get it to start. I had another one that did not want to start from day one. Looks like I will have to find a different mouse.",
+      "rating": 3.0,
+      "verified": true,
+      "author": "Amazon Customer",
+      "helpful_votes": 0,
+      "publication_date": 20140903
+    },
+    {
+      "title": "great mouse, I wish it had a regular scroll ...",
+      "text": "great mouse, I wish it had a regular scroll mice though.I scroll a lot so it kinda hurts my finder after a while. but for the price its pretty good. the battery life is great and the size is awesome.",
+      "rating": 4.0,
+      "verified": true,
+      "author": "MagicMARKer",
+      "helpful_votes": 0,
+      "publication_date": 20170113
+    },
+    {
+      "title": "Exactly as described.",
+      "text": "Works great with my surface pro. Slightly different from my original one, this one was replacement My original one broke down after getting wet. Note to self, pack in waterproof container or bag when travelling! I haven't had any problems.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Bookworm",
+      "helpful_votes": 0,
+      "publication_date": 20170101
+    },
+    {
+      "title": "ordered one and loved it so much I ordered a second one for ...",
+      "text": "use this for my desktop. ordered one and loved it so much I ordered a second one for my tablet for when its on its stand. had to send back and get a runfund on one of them the button wasn't so good after 2-3 weeks. this is a very good item. unique design fits right in my palm. small size",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Lexo",
+      "helpful_votes": 0,
+      "publication_date": 20170326
+    },
+    {
+      "title": "Great Bluetooth Mouse - Very Portable",
+      "text": "Great product and available on Amazon Prime for a great price. This mouse connects via Bluetooth so it doesn't need a USB dongle. Have used it on my windows laptop and a tablet. Works great, great batter life, operates on a single AA battery, and very portable.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "RogersJim",
+      "helpful_votes": 0,
+      "publication_date": 20160709
+    },
+    {
+      "title": "One of Microsoft's best mouses, and I've owned many of them over ...",
+      "text": "One of the coolest mouses I've used. Built surprisingly with metal. Smooth. Quite. And pairs quickly. The bluetooth signal drops from time to time, but that could be the computer. One of Microsoft's best mouses, and I've owned many of them over the last fifteen years.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Benjamin Niemczyk",
+      "helpful_votes": 0,
+      "publication_date": 20170105
+    },
+    {
+      "title": "Died after 10 months occasional use",
+      "text": "This is the second one of these I have purchased but for some reason even with careful handling and not using every day they break and just stop working . I wont buy this any again. A microsoft product should last longer than 10 months !",
+      "rating": 1.0,
+      "verified": true,
+      "author": "Amazon Customer",
+      "helpful_votes": 0,
+      "publication_date": 20181221
+    },
+    {
+      "title": "Love it! Always looks for amazon warehouse deals!!!",
+      "text": "Thought this would be very awkward to use. It kind of is but once you get used to it then it is amazing! Its so small! I love it and also just ordered the bluetooth microsoft arc touch mouse! Always look at warehouse deals when buying products!",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Caleb Turner",
+      "helpful_votes": 0,
+      "publication_date": 20170318
+    },
+    {
+      "title": "New part of my every day carry",
+      "text": "Works fantastically, very smooth with less latency than expected. Highly portable. When I inevitably lose it due to it's small size, I will get it again. For the record, I have not tried it on any Android device yet, but works perfectly with my Win10 Latitude",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Edward",
+      "helpful_votes": 0,
+      "publication_date": 20161030
+    },
+    {
+      "title": "very good quality for the price",
+      "text": "I was not sure about how this mouse would work , but it is very responsive. I am glad I bought it. I tried different models before but this is very good, works amazing.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Brin",
+      "helpful_votes": 0,
+      "publication_date": 20170224
+    },
+    {
+      "title": "I thought this mouse would be great for my SP4 and it does ok but its ...",
+      "text": "I thought this mouse would be great for my SP4 and it does ok but its really too small for my hand. I can't see how a man would use this without getting a cramp. It is portable and very sensitvie to touch so that is something i like but i ended up getting a larger mouse for comfort. Keeping in the event i have to travel.",
+      "rating": 3.0,
+      "verified": true,
+      "author": "CosmicUnicorn2",
+      "helpful_votes": 0,
+      "publication_date": 20170102
+    },
+    {
+      "title": "Love the size",
+      "text": "Love the size. I personally never had Bluetooth connection issues with mine but I don't use it with a surface. The Scrolling is kinda weird but it has physical clicks!!!! Which shocked me!! Great mouse and the form factor is amazing as well extremely small.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Dan Mace",
+      "helpful_votes": 0,
+      "publication_date": 20170302
+    },
+    {
+      "title": "Great build quality and smooth texture for the touch surface",
+      "text": "Great build quality and smooth texture for the touch surface. The touch is actually just for up-down and right-left scrolling. Looks bit uncomfortable to hold but you get used to it with a day of use and quiet light to use. The only issue I have is the connection problem when the mouse lost connection for a few seconds almost every day. Overall a durable, light and well-built product for office or school use.",
+      "rating": 4.0,
+      "verified": true,
+      "author": "Gohan",
+      "helpful_votes": 0,
+      "publication_date": 20170402
+    },
+    {
+      "title": "Still works after 2+ years",
+      "text": "Bought this mouse 2+ years ago and still works just like I bought it yesterday. GREAT WIRELESS MOUSE",
+      "rating": 5.0,
+      "verified": true,
+      "author": "AznxWater",
+      "helpful_votes": 0,
+      "publication_date": 20190125
+    },
+    {
+      "title": "Must have accessory for Surface Pros",
+      "text": "This mouse is amazing. Long battery life. Pinpoint accuracy. Easy connection. You need this if you have a Surface. Looks and feels high quality for a great price.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Juan Berrios",
+      "helpful_votes": 0,
+      "publication_date": 20170801
+    },
+    {
+      "title": ".",
+      "text": "is ok. I enjoy the \"Microsoft Wireless Mobile Mouse 1850, Light Orchid (U7Z-00021)\" more",
+      "rating": 4.0,
+      "verified": true,
+      "author": "Amazon Customer",
+      "helpful_votes": 0,
+      "publication_date": 20180407
+    },
+    {
+      "title": "Very nice design and great functionality",
+      "text": "I purchased this for my new SurfacePro - I love it! It's a very unique and nice design - and it has great functionality! My friends at work really liked it too.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Amazon Customer",
+      "helpful_votes": 0,
+      "publication_date": 20170823
+    },
+    {
+      "title": "Great mouse, would by again.",
+      "text": "This mouse has a great feel to it and a good quality fit/finish. It's worked great so far. I'm not in school anymore, but it would have been a great mouse for throwing in the backpack because it is so compact.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Jantzen Rodgers",
+      "helpful_votes": 0,
+      "publication_date": 20170331
+    },
+    {
+      "title": "The only good thing about it was the compact size and the ...",
+      "text": "Started acting up after 6 months and finally died. The only good thing about it was the compact size and the fact that it didn't need a USB dongle with my Surface tablet but with that short life, it really doesn't worth it.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "Mason",
+      "helpful_votes": 0,
+      "publication_date": 20170420
+    },
+    {
+      "title": "Quick Battery Drain",
+      "text": "Uses one AA battery and the battery drains quickly. You will end up paying more for the batteries than the mouse itself in a very short period of time.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "Kambiz1",
+      "helpful_votes": 0,
+      "publication_date": 20171019
+    },
+    {
+      "title": "Works great with Surface Pro",
+      "text": "works well with my Surface Pro. Small size is convenient to carry. Takes a while getting used to the small size mouse. Doesn't work well with my HP laptop - it connects and works for a few minutes only, then disconnects.",
+      "rating": 4.0,
+      "verified": true,
+      "author": "Joel",
+      "helpful_votes": 0,
+      "publication_date": 20180410
+    },
+    {
+      "title": "Great ergonomic shape",
+      "text": "Very cool! I use this with the Maus Deck Vertical Mouse Pad and it works great! Sleek design and very responsive to scrolling. Love the ergonomic shape",
+      "rating": 5.0,
+      "verified": true,
+      "author": "sunny413",
+      "helpful_votes": 0,
+      "publication_date": 20180114
+    },
+    {
+      "title": "great product",
+      "text": "I love this mouse. A regular styled mouse causes pain in the palm of my hand and wrist. This one eliminates that problem. Plus it's very definitely travel size. I have one at work and one at home.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "cj.",
+      "helpful_votes": 0,
+      "publication_date": 20170304
+    },
+    {
+      "title": "It is nice and beautiful",
+      "text": "It is nice and beautiful. I loved the touch slide feature. Nevertheless, I found some design deficiency with this mouse being too wide. Now a days most mice in the market have some narrow grip so that you could hold and move it with only two fingers (thumb and ring finger). For this one though, you need to open the two fingers wider just to grip the mouse.",
+      "rating": 4.0,
+      "verified": true,
+      "author": "ssam",
+      "helpful_votes": 0,
+      "publication_date": 20161218
+    },
+    {
+      "title": "One Star",
+      "text": "Great idea with modern sensors but buttons need to be more traditional for this to be feasible. The click is to resistive, and the scroll is basically broken the way it is set up.",
+      "rating": 2.0,
+      "verified": true,
+      "author": "Micah White",
+      "helpful_votes": 0,
+      "publication_date": 20171003
+    },
+    {
+      "title": "better than using a trackpad",
+      "text": "Very small, better than using a trackpad. However the touch scrolling is a little weird, sometimes it just keeps going past what I intend(continues scrolling) so I have to scroll back. Overall I do like it and its very portable, connects quickly, fast and accurate. Great for the price.",
+      "rating": 4.0,
+      "verified": true,
+      "author": "VSK",
+      "helpful_votes": 0,
+      "publication_date": 20160912
+    },
+    {
+      "title": "Great, and inexpensive mouse that I purchased for use ...",
+      "text": "Great, and inexpensive mouse that I purchased for use on my Android tablet. Easy to set up, and connect to the tablet.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Kerry Branham",
+      "helpful_votes": 0,
+      "publication_date": 20170419
+    },
+    {
+      "title": "Nice looks and great multi surface tracking but the design ...",
+      "text": "Nice looks and great multi surface tracking but the design is flawed, you consistently find your self pressing the left button when you actually intend to press the right button which makes this mouse almost useless.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "Jeremiah M",
+      "helpful_votes": 0,
+      "publication_date": 20161117
+    },
+    {
+      "title": "Touch scrolling function does not work well",
+      "text": "It looks good and is small/portable. However, there is a fatal flaw with the touch scrolling function. The touch is not very precise. With the same movement you never know if it actually will scroll, or how far it will go.",
+      "rating": 3.0,
+      "verified": true,
+      "author": "C Do",
+      "helpful_votes": 0,
+      "publication_date": 20170224
+    },
+    {
+      "title": "This product is nice and compact but somewhat difficult to use and the ...",
+      "text": "This product is nice and compact but somewhat difficult to use and the shape is a bit awkward feeling on the hand. I also bought the Microsoft touch Bluetooth mouse and I far prefer that over this mouse for my Surface Pro 4.",
+      "rating": 3.0,
+      "verified": true,
+      "author": "Adam",
+      "helpful_votes": 0,
+      "publication_date": 20170403
+    },
+    {
+      "title": "Just OK",
+      "text": "This mouse doesn't track on some mouse pads, but does well on bare flat surfaces. Additionally, the touch scrolling isn't very smooth at all. It's a mouse to have in a pinch, and it's got style and branding.",
+      "rating": 3.0,
+      "verified": true,
+      "author": "eric",
+      "helpful_votes": 0,
+      "publication_date": 20161204
+    },
+    {
+      "title": "This is such a nicely built mouse",
+      "text": "This is such a nicely built mouse. It is small but feels great under my hand. It paired up fast and never drops on my surface 4 pro. If you own surface pro, this is such a great mouse to have.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "John",
+      "helpful_votes": 0,
+      "publication_date": 20161221
+    },
+    {
+      "title": "Perfect Fit",
+      "text": "I use this mouse in the car for my Samsung Galaxy S8 Plus. It works flawlessly, it's nice and small which makes this a great fit for what I am using it for. Connection is fast and easy.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Shane",
+      "helpful_votes": 0,
+      "publication_date": 20170606
+    },
+    {
+      "title": "Small, Compact, Powerful",
+      "text": "I love it. I use it with my Samsung Chromebook Pro and it works flawlessly.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Peanut",
+      "helpful_votes": 0,
+      "publication_date": 20180616
+    },
+    {
+      "title": "Small to take on travel",
+      "text": "Small but usable even for large hands. You do have to get used to how to hold it. I really seemed awkward at first but much better than a track pad.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "David No",
+      "helpful_votes": 0,
+      "publication_date": 20160922
+    },
+    {
+      "title": "I don't know if the seller I used gave me ...",
+      "text": "I don't know if the seller I used gave me a defective one but within 2 months it no longer turns on. Replaced the battery and still nothing.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "PenName25",
+      "helpful_votes": 0,
+      "publication_date": 20170208
+    },
+    {
+      "title": "4 out of 5",
+      "text": "I just got this in the mail a few hours ago and I'm already in LOVE with it! Not only is it an incredibly unique looking mouse, it's light, sleek and user friendly. The only complaint I have, and I knew this when I bought it, is that it's powered by a disposable battery. Even then, it's a great product. I highly recommend it to any Microsoft users.",
+      "rating": 4.0,
+      "verified": true,
+      "author": "Jacob Karre",
+      "helpful_votes": 0,
+      "publication_date": 20170329
+    },
+    {
+      "title": "Nice, functional and cheap mouse",
+      "text": "Nice, functional and cheap mouse. Build quality is superb, especially at this price point. My only complaint is that the scroll function could be a bit smoother/more natural (thus 4 stars). I'm willing to accept it as it is. Works for me!",
+      "rating": 4.0,
+      "verified": true,
+      "author": "harryandthehendersons",
+      "helpful_votes": 0,
+      "publication_date": 20161210
+    },
+    {
+      "title": "The bottom line is that it works, but really ...",
+      "text": "The bottom line is that it works, but really, its just too small. If I were to do it again, I'd pay the extra money and purchase the larger MS mouse.",
+      "rating": 3.0,
+      "verified": true,
+      "author": "HAG",
+      "helpful_votes": 0,
+      "publication_date": 20170624
+    },
+    {
+      "title": "Great mouse. Great price",
+      "text": "Great mouse. Great price. Been using it for months now and it's working perfectly. Bettery life is very good.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "CVelez",
+      "helpful_votes": 0,
+      "publication_date": 20171228
+    },
+    {
+      "title": "Works great paired to an old Samsung i5",
+      "text": "Works great paired to an old Samsung i5, Windows 10 laptop. And the price for this thing is fantastic. I got used to its ergonomics pretty quickly and have no problem using it.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "James Y. Kim",
+      "helpful_votes": 0,
+      "publication_date": 20170114
+    },
+    {
+      "title": "Works fine but a little fat",
+      "text": "I bought this because if it's compact size. Works fine but a little fat. Logitech makes a better compact mouse.",
+      "rating": 4.0,
+      "verified": true,
+      "author": "Ron Castillo",
+      "helpful_votes": 0,
+      "publication_date": 20170924
+    },
+    {
+      "title": "Quality Mouse, small size.",
+      "text": "The mouse works great but it's a little small. It does the job, though. It is though as I have dropped it several times on hard floors and it still works fine.",
+      "rating": 3.0,
+      "verified": true,
+      "author": "T. Hinckley",
+      "helpful_votes": 0,
+      "publication_date": 20170218
+    },
+    {
+      "title": "Perfect, small, handy!",
+      "text": "Small, mobile, handy, bluetooth, responsive. This is one of my most favorite Surface peripherals. Its a must have and worth every penny!",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Eli D. Smith",
+      "helpful_votes": 0,
+      "publication_date": 20160322
+    },
+    {
+      "title": "Surprise Surprise, I love this little mouse!",
+      "text": "Surprise Surprise, I love this little mouse! Tiny but it doesn't feel small. It is perfect for travel. Works perfect with my Surface Pro 4.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "ScS1024",
+      "helpful_votes": 0,
+      "publication_date": 20170212
+    },
+    {
+      "title": "Four Stars",
+      "text": "So far works fine, only its small and not that comfortable that I thought it would be",
+      "rating": 4.0,
+      "verified": true,
+      "author": "Marshan",
+      "helpful_votes": 0,
+      "publication_date": 20170209
+    },
+    {
+      "title": "perfect mate to a Surface",
+      "text": "awesome little mouse. took a while to get used to the weird shape but i really like it now. you can turn it off to save battery, small enough to fit in my little tablet bag with my Surface.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "TXJG",
+      "helpful_votes": 0,
+      "publication_date": 20160630
+    },
+    {
+      "title": "Works well and easy to pair up",
+      "text": "Works like it's supposed to and I like the size.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "ElizGarza",
+      "helpful_votes": 0,
+      "publication_date": 20180124
+    },
+    {
+      "title": "One Star",
+      "text": "Less than a month after receiving mouse the supplied battery exploded and leaked acid. Mouse is now useless",
+      "rating": 1.0,
+      "verified": true,
+      "author": "Tom K",
+      "helpful_votes": 0,
+      "publication_date": 20170912
+    },
+    {
+      "title": "Four Stars",
+      "text": "good price I keep it as an emergency mouse, very portable.. sometimes hards to pair.",
+      "rating": 4.0,
+      "verified": true,
+      "author": "Michael",
+      "helpful_votes": 0,
+      "publication_date": 20180309
+    },
+    {
+      "title": "Four Stars",
+      "text": "From the picture I even thought it is silver edge",
+      "rating": 4.0,
+      "verified": true,
+      "author": "Lyon P",
+      "helpful_votes": 0,
+      "publication_date": 20180712
+    },
+    {
+      "title": "Three Stars",
+      "text": "portable but not comfortable to use. Feel fatigue after a while.",
+      "rating": 3.0,
+      "verified": true,
+      "author": "Frank",
+      "helpful_votes": 0,
+      "publication_date": 20180516
+    },
+    {
+      "title": "Good stuff",
+      "text": "Took a second to realize how to set it up. Also, if you\u2019re traveling with it makes sure you have an extra battery. It\u2019s a battery sucker",
+      "rating": 4.0,
+      "verified": true,
+      "author": "Drey",
+      "helpful_votes": 0,
+      "publication_date": 20171211
+    },
+    {
+      "title": "Not at all comfortable to use",
+      "text": "Not at all comfortable to use. You have to have you hand in awkward position in order to use it. I've only had it a few weeks and already the \"button\" you click works sporadically.",
+      "rating": 2.0,
+      "verified": true,
+      "author": "Carol LeDuc",
+      "helpful_votes": 0,
+      "publication_date": 20171009
+    },
+    {
+      "title": "Replacing an old one because I liked it",
+      "text": "It's a good mouse. The touch \"wheel\" works okay, but mechanical wheel is usually more accurate. Still, this is amazingly light and compact.",
+      "rating": 4.0,
+      "verified": true,
+      "author": "Amazoner123",
+      "helpful_votes": 0,
+      "publication_date": 20170225
+    },
+    {
+      "title": "Cute and of good quality but causes hand strain",
+      "text": "Cute good quality mouse but because it it so small there is some hand strain. Definitely not good for a full day of work but just for a few hours its fine.",
+      "rating": 4.0,
+      "verified": true,
+      "author": "janebell",
+      "helpful_votes": 0,
+      "publication_date": 20170511
+    },
+    {
+      "title": "Bought this back at the beginning of August, scrolling ...",
+      "text": "Bought this back at the beginning of August, scrolling never worked properly, now unit just died. Will try to return it. Don't buy.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "G. Gaal",
+      "helpful_votes": 0,
+      "publication_date": 20170901
+    },
+    {
+      "title": "Nice product by Microsoft!",
+      "text": "I love this mouse! I've got big hands...but the mouse works well!",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Michael",
+      "helpful_votes": 0,
+      "publication_date": 20161028
+    },
+    {
+      "title": "the battery last pretty long. The mouse feels pretty comfortable",
+      "text": "Small and versatile. It use one AA battery, the battery last pretty long. The mouse feels pretty comfortable. Works great with my Surface 3.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Ron Lee",
+      "helpful_votes": 0,
+      "publication_date": 20160806
+    },
+    {
+      "title": "Love this thing",
+      "text": "Love this thing. Great style, practical and well designed. Not typically big on a \"touch mouse\", but once I got used to it it was excellent. Perfect for a portable computer setup.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Greg H.",
+      "helpful_votes": 0,
+      "publication_date": 20170303
+    },
+    {
+      "title": "Not bad. Takes some getting used to",
+      "text": "Not bad. Takes some getting used to. FULL DISCLOSURE. I work for Microsoft.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Luis H",
+      "helpful_votes": 0,
+      "publication_date": 20170409
+    },
+    {
+      "title": "Small!",
+      "text": "This was just too small. The price was extremely low, so I passed it on to someone else.",
+      "rating": 2.0,
+      "verified": true,
+      "author": "Nstarlight",
+      "helpful_votes": 0,
+      "publication_date": 20170502
+    },
+    {
+      "title": "Best mouse I've ever owned!",
+      "text": "Amazingly affordable and works perfectly. Very very easy to setup, and works so smoothly. I am truly happy with this purchase.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "SammyJo",
+      "helpful_votes": 0,
+      "publication_date": 20170210
+    },
+    {
+      "title": "Not bad, it does turn off after a bit but ...",
+      "text": "Not bad, it does turn off after a bit but it can accidently kick on again in auto shutoff mode, make sure you just turn it off when you put away.",
+      "rating": 4.0,
+      "verified": true,
+      "author": "Ellie",
+      "helpful_votes": 0,
+      "publication_date": 20170319
+    },
+    {
+      "title": "Three Stars",
+      "text": "Second one I ordered. No battery life whatsoever. No automatic shut off",
+      "rating": 3.0,
+      "verified": true,
+      "author": "Chad B.",
+      "helpful_votes": 0,
+      "publication_date": 20170517
+    },
+    {
+      "title": "I wasn't sure I would like the size",
+      "text": "I'm using this little thing now. I wasn't sure I would like the size, but, it actually is surprisingly comfortable. The battery lasts a very long time and it truly does work on pretty much any surface and is a pleasure to use.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Caroline Morrison",
+      "helpful_votes": 0,
+      "publication_date": 20150330
+    },
+    {
+      "title": "Great tablet mouse",
+      "text": "I like this, it's comfortable and accurate despite being small. Great for travel",
+      "rating": 4.0,
+      "verified": true,
+      "author": "Jonathan",
+      "helpful_votes": 0,
+      "publication_date": 20161120
+    }
+  ],
+  "product_meta": {
+    "title": "Microsoft Wedge Touch Mouse Surface Edition (3LR-00009)",
+    "description": "Microsoft Wedge Touch Mouse Surface Edition (3LR-00009)",
+    "rating": 3.9,
+    "feature_bullets": [
+      "BlueTrack technology: For pinpoint accuracy on almost any surface.",
+      "Backpack mode: Automatically powers down the mouse after 30 seconds when your laptop or tablet is hibernating to help conserve battery life.",
+      "4-way scrolling: Via a sleek touch strip, which allows you to scroll vertically or horizontally and use gentle swipes or quick flicks for versatile navigation.",
+      "Designed for Surface Windows 8 Pro and Surface Windows RT.",
+      "Bluetooth connectivity: Allows wireless operation with Bluetooth-enabled devices, including a variety of Android tablets, for wide-ranging use.Related Products"
+    ],
+    "specifications": {
+      "Wireless Type": "802.11a/b/g/n",
+      "Brand": "Microsoft",
+      "Item model number": "3LR-00009",
+      "Operating System": "Windows 8",
+      "Item Weight": "2.3 ounces",
+      "Product Dimensions": "2 x 2.1 x 0.9 inches",
+      "Item Dimensions  LxWxH": "2 x 2.1 x 0.9 inches",
+      "Color": "Black",
+      "Power Source": "Battery Powered",
+      "Batteries": "2 AA batteries required.",
+      "Manufacturer": "Microsoft",
+      "ASIN": "B00CCE3BIA",
+      "Is Discontinued By Manufacturer": "No",
+      "Date First Available": "April 13, 2013",
+      "Customer Reviews": "3.9 out of 5 stars301 ratings3.9 out of 5 stars",
+      "Best Sellers Rank": "#1,815 in Computer Mice"
+    },
+    "categories": [
+      "Computers & Accessories",
+      "Computer Accessories & Peripherals",
+      "Keyboards, Mice & Accessories",
+      "Electronics",
+      "Mice"
+    ],
+    "price": 28.74
+  }
+}

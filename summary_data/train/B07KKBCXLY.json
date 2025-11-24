@@ -1,0 +1,303 @@
+{
+  "website_summaries": [
+    {
+      "verdict": "The latest-gen Raspberry Pi in a smaller, cheaper form, the Pi 3 Model A+ is a no-brainer for Pi enthusiasts, even though it lacks the increased memory and port selection of the larger Model B+.",
+      "pros": [
+        "Tiny and inexpensive for experimental implementations",
+        "Quad-core processor",
+        "User-friendly, even for Linux newbies",
+        "Includes Wi-Fi and Bluetooth"
+      ],
+      "cons": [
+        "Only one USB port",
+        "Can't be overclocked",
+        "Half the memory of the Model B+"
+      ],
+      "aspects": {},
+      "publication_date": 20190222,
+      "rating": 7.0,
+      "source": "pcmag"
+    }
+  ],
+  "customer_reviews": [
+    {
+      "title": "As long as you only need a single USB and WiFi only, this is great",
+      "text": "This is at a crazy low price, so as an item I wanted to try out as cheap as possible, it was perfect. But be aware, compared to the B+ model, it has half the RAM, a quarter of the USB ports, and no ethernet. I'm using it to connect to my 3D printer via USB and to the network by Wireless, and it is great. Octoprint worked great on it, but I found an annoying bug in the image, so installed Repetier-Server instead, which works, but pushes the 512mb RAM to the limit, so may require occasional rebooting.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "S. Patel",
+      "helpful_votes": 7,
+      "publication_date": 20191106
+    },
+    {
+      "title": "Octoprint",
+      "text": "Working beautifully with octopi (octoprint), I added a cheap case I also got from Amazon and fitted a small fan to the top, I also added a USB hub to give me the extra port I needed for a WebCam, I used a MP1584 to drop the 12v from the printers power supply to 5v that the PI needs,. Check out the photo I added of the resource manager while printing to see The resources used and how much headroom you have.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "ray",
+      "helpful_votes": 3,
+      "publication_date": 20200206
+    },
+    {
+      "title": "Versatile and powerful",
+      "text": "Versatile piece of kit for anyone exploring electronics and coding. Lots of starter kits available. I have used my latest purchase as a kids jukebox to play music when an rfid card is scanned using an rfid module I bought separately. Be aware that it doesn\u2019t have the same amount of RAM and ports as the B+, so check your requirements carefully. I use a usb hub when not using headless. Wouldn\u2019t recommend as an everyday computer. Browsing is a little slow but great for fun projects.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "JonnyW",
+      "helpful_votes": 0,
+      "publication_date": 20200206
+    },
+    {
+      "title": "Nice little Raspberry Pi",
+      "text": "I purchased this as the basis for a smart mirror I am building...It's size made it perfect for what I wanted.. I do find these a little pricier than some other places but the quick delivery was what persuaded me.. You do need to know what you are doing with these little computers but it's not difficult to learn. It's a cracking little unit, would have got 5*s if the price had been that little bit lower...",
+      "rating": 4.0,
+      "verified": true,
+      "author": "Garry Carpenter",
+      "helpful_votes": 0,
+      "publication_date": 20200316
+    },
+    {
+      "title": "Mid-range computer excellent value for money",
+      "text": "I was so amazed at the price of this which is less powerful than the 4B+ but still is fantastic for project work. It was little more than the cost of the Zero WH but has the much better processor. I've recommended this to everyone since",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Mr. J. W. A. Thomson",
+      "helpful_votes": 0,
+      "publication_date": 20200521
+    },
+    {
+      "title": "Excellent minicomputer, great value.",
+      "text": "I've used first gen pi's for projects since they first arrived. I wanted a media centre for the lounge and built one with an old model b+ but Kodi was a bit jerky. I then saw the 3 a pi at \u00a322 and \u00a33.19 for the case. I now have an excellent media centre.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Mick Barker",
+      "helpful_votes": 0,
+      "publication_date": 20200628
+    },
+    {
+      "title": "Inexpensive way to start tinkering",
+      "text": "Fab little computer board, easy to use. I have put octiprint with 5mp camera on it. Easy to set up remote control on windows with vnc viewer and control it from there. It's not the most powerful of them all but good for the job!",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Anax",
+      "helpful_votes": 0,
+      "publication_date": 20200109
+    },
+    {
+      "title": "Does what it says, beware the lack of USB ports",
+      "text": "Does what it says on the tin, but I have come to find the single USB port annoying. Ended up having to buy a hub to plug in a mouse and keyboard at the same time. Would probably consider a B next time.",
+      "rating": 4.0,
+      "verified": true,
+      "author": "ezequiel85",
+      "helpful_votes": 0,
+      "publication_date": 20200321
+    },
+    {
+      "title": "A+ cases fit it",
+      "text": "An incredible upgrade to my Pi A+. Quad Core instead of single core Twice the ram 5ghz wireless included Bluetooth included My a+ Is now my pi-hole as look at turning this into a retropie or kodi box",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Philip",
+      "helpful_votes": 0,
+      "publication_date": 20200929
+    },
+    {
+      "title": "works great for octoprint",
+      "text": "hooked up to my 3d printer with octoprint setup and a raspberry pi camera module. its a solid piece of hardware for cheap and i can see my prints at work and pause them if needed because my wife doesnt know how to pause it haha.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Sam",
+      "helpful_votes": 0,
+      "publication_date": 20200907
+    },
+    {
+      "title": "Powerful little mite",
+      "text": "Got mine running motion eye OS with 5 rtsp streams attached, takes some tweaking motion eye but once set this thing just does it's job. Spot on",
+      "rating": 5.0,
+      "verified": true,
+      "author": "P Barber",
+      "helpful_votes": 0,
+      "publication_date": 20191214
+    },
+    {
+      "title": "Music Player and Streamer for less than \u00a320",
+      "text": "Perfect for when an ethernet connection is not required as it has easily configurable WiFi. Along with a good, speedy, CPU and enough RAM to run Volumio with gusto.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "I do my best",
+      "helpful_votes": 0,
+      "publication_date": 20200217
+    },
+    {
+      "title": "Excellent value for the price",
+      "text": "Bought this to add to my MotionEyeOs setup, work perfectly despite not having an ethernet port to configure the MEOS setup.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Carlos Spicyweiner",
+      "helpful_votes": 0,
+      "publication_date": 20200409
+    },
+    {
+      "title": "Excellent piece of kit",
+      "text": "Good value and an amazing improvement on the original Pi that this was bought to replace",
+      "rating": 5.0,
+      "verified": true,
+      "author": "900Sport",
+      "helpful_votes": 0,
+      "publication_date": 20191211
+    },
+    {
+      "title": "Amazing product",
+      "text": "Amazing little computer! Does the job very well. High performance is such a small unit!",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Alexandru-Marian",
+      "helpful_votes": 0,
+      "publication_date": 20191023
+    },
+    {
+      "title": "Powerful and easy to use",
+      "text": "One of the best raspberry pis available. Best bang for buck.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "UKRifter",
+      "helpful_votes": 0,
+      "publication_date": 20191207
+    },
+    {
+      "title": "Amazing!!",
+      "text": "Absolutely love this!! We\u2019ve got games from all years on it. Amazing!!",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Chantelle",
+      "helpful_votes": 0,
+      "publication_date": 20200115
+    },
+    {
+      "title": "Excellent little device",
+      "text": "Excellent little device. Easy to use. Useful in place of the full size model.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "peter",
+      "helpful_votes": 0,
+      "publication_date": 20190913
+    },
+    {
+      "title": "Cheapest linux PC.",
+      "text": "I love it, so cheap and so good. Very good for pentesting.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Evaldas",
+      "helpful_votes": 0,
+      "publication_date": 20191126
+    },
+    {
+      "title": "It is completely compatible with the \"standard\" Rpi 3 but for much less money",
+      "text": "Excellent as an imbedded processor with audio and HD video capability plus the very useful gpio connection. I used it to make a miniature push-button video player for digital signage applications.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Tony Clynick",
+      "helpful_votes": 0,
+      "publication_date": 20200306
+    },
+    {
+      "title": "It has very low ram and memory.",
+      "text": "With the 512mb model you can't even type on google with out it having to reboot. Everything else is fine. I hope this is fixed with this model.",
+      "rating": 3.0,
+      "verified": true,
+      "author": "J Mason",
+      "helpful_votes": 0,
+      "publication_date": 20200223
+    },
+    {
+      "title": "Love it!",
+      "text": "Very tiny, yet very powerful device. And best of all, comes with very little cost in comparison with the B+ version.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Fady Anwar",
+      "helpful_votes": 0,
+      "publication_date": 20191223
+    },
+    {
+      "title": "Second one",
+      "text": "I use it as a media player in my van running off a small solar panel. Unfortunately my first one stopped working so got another one. Probably my fault \ud83e\udd14",
+      "rating": 4.0,
+      "verified": true,
+      "author": "David Murray",
+      "helpful_votes": 0,
+      "publication_date": 20200411
+    },
+    {
+      "title": "Brilliant",
+      "text": "Very happy... It's this what I looking for... For that money cannot expect nothing Better",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Mario",
+      "helpful_votes": 0,
+      "publication_date": 20200910
+    },
+    {
+      "title": "Great Pi",
+      "text": "Purchased for a small project does the job perfect, very good entry level Pi.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "J. Jasper",
+      "helpful_votes": 0,
+      "publication_date": 20200319
+    },
+    {
+      "title": "Great",
+      "text": "Great product, easy to use, super fast next day delivery.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Jewels",
+      "helpful_votes": 0,
+      "publication_date": 20200421
+    },
+    {
+      "title": "Greatr product",
+      "text": "Graet little Pi. Bought to build a retropie. Wanted the quad core processor but in a smaller form factor ad the zero was just a little slow.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "andrew langdale",
+      "helpful_votes": 2,
+      "publication_date": 20191008
+    }
+  ],
+  "product_meta": {
+    "title": "Raspberry Base Plate PI 3 Model A+, Cortex to 1.4GHZ, WiFi 5GHZ (11811853)",
+    "description": "Small size, 1 USB port",
+    "rating": 4.7,
+    "feature_bullets": [
+      "Base plate PI 3 Model A+",
+      "High quality.",
+      "WiFi 5GHZ"
+    ],
+    "specifications": {
+      "Brand": "Raspberry Pi Spain",
+      "Product Dimensions": "9.6 x 7.11 x 2.69 cm; 50 Grams",
+      "Item model number": "1811853",
+      "Manufacturer": "Raspberry Pi Spain",
+      "Series": "RASPBERRY PLACA BASE PI 3 MODELO A+ , CORTEX a 1.4GHZ, WIFI 5GHZ",
+      "Processor Socket": "Dip",
+      "Processor Count": "1",
+      "RAM Size": "512 MB",
+      "Memory Technology": "LPDDR2, SDRAM",
+      "Computer Memory Type": "DDR2 SDRAM",
+      "Maximum Memory Supported": "512 MB",
+      "Wireless Type": "802.11bgn",
+      "Are Batteries Included": "No",
+      "Item Weight": "50 g",
+      "ASIN": "B07KKBCXLY",
+      "Customer Reviews": "4.7 out of 5 stars412 ratings4.7 out of 5 stars",
+      "Best Sellers Rank": "3,122 in Computers & Accessories",
+      "Date First Available": "15 Nov. 2018"
+    },
+    "categories": [
+      "Computers & Accessories",
+      "Components & Replacement Parts",
+      "Motherboards"
+    ],
+    "price": 29.39
+  }
+}

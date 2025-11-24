@@ -1,0 +1,644 @@
+{
+  "website_summaries": [
+    {
+      "verdict": "A truly superb music streamer, with just about everything a streamer should have built-in and painfully simple to use. No matter if you're a novice or an IT pro, you'll love it and it'll love you back",
+      "pros": [
+        "Easy to use",
+        "great design",
+        "open-source",
+        "huge codec support",
+        "Internet radio",
+        "on-demand music from Internet Archive",
+        "Last.fm integration",
+        "gapless playback"
+      ],
+      "cons": [
+        "Software not included",
+        "LCD screen could be brighter",
+        "no USB port"
+      ],
+      "aspects": {},
+      "publication_date": 20081212,
+      "rating": 8.8,
+      "source": "cnet"
+    }
+  ],
+  "customer_reviews": [
+    {
+      "title": "A Radio fan's delight",
+      "text": "As a lifelong radio listener, I've been very pleased with the Squeezebox Duet. I listen to classical music and traditional jazz on stations throughout the world and enjoy bopping around from station to station especially when I dislike what I'm hearing. I recommend this product wholeheartedly to others who might share my interest in a wide selection of programs and programming.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "John P. Berwald",
+      "helpful_votes": 0,
+      "publication_date": 20180814
+    },
+    {
+      "title": "Great, but requires attention.",
+      "text": "The Duet requires some fidgeting but it is totally worth it to me. I have it connected to my stereo system, which allows me to listen to internet radio through that system rather than my computer. I can also listen to music stored on my computer through this system. All of this can be controlled with the remote from any room. Unfortunately, the Duet is no longer in production, so I was happy to find this one.",
+      "rating": 4.0,
+      "verified": true,
+      "author": "Bigstroke",
+      "helpful_votes": 0,
+      "publication_date": 20170502
+    },
+    {
+      "title": "Horrible Item!! Does not work...",
+      "text": "This is my second unit within a month and I continue to have problems -- the replacement unit which also does not work and keeps trying to connect to the network but never does. The first unit would randomly shut off, the remote would not start even after removing the battery numerous times, and would stop playing music at will. Customer support acknowledges problems with many squeezebox units due to the latest software update -- they need to fix it!! I would not recommend this product to anyone, its pricey, the software is buggy, the unit just doesnt work and customer support is ill equipped to address issues..",
+      "rating": 1.0,
+      "verified": true,
+      "author": "ingeniusone",
+      "helpful_votes": 0,
+      "publication_date": 20100301
+    },
+    {
+      "title": "Still going strong after 4 years",
+      "text": "I've been using my duet system for about 5 years. It's provided countless hours of music. I hardly use the remote anymore however since I just use the squeemote app from the apple appstore on my iphone. Can't say it's been flawless or the most user friendly, but once you get it all set up, it works great. I understand this is now discontinued but one can get the same functionality from the newer models.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "michaelbebad",
+      "helpful_votes": 2,
+      "publication_date": 20111128
+    },
+    {
+      "title": "Extremely pleased",
+      "text": "I've been a fan of Logitech products for years, and their Squeezebox line of products does not disappoint. I picked up the Duet to connect my receiver to my music library / internet radio, and have been absolutely floored by logitech's implementation of this technology. The setup was a breeze, and controlling my library and internet radio stations is virtually lag-free and completely painless. Added android/iOS support is a nice bonus (the apps also happen to work well too). Whaddayaknow, sometimes tech companies get it almost totally right...only minor complaint is the build quality of the remote - feels a bit on the light side, and that battery door is also a tad squishy, but really no big deal.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Crispers",
+      "helpful_votes": 0,
+      "publication_date": 20110517
+    },
+    {
+      "title": "Couldn't ask for anything better....",
+      "text": "Wow. I was first amazed by how well this product 'felt'. The charging station is heavy and does not feel like other cheaply made plastic products. I had everything up and running and streaming music within 15 mins of opening the box. The worst part of setup was entering my WEP key for my wireless network. Other than that, setup was a breeze. I mainly use this for Pandora and the integration is awesome. I can't believe I had doubts on getting this.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Zshen",
+      "helpful_votes": 0,
+      "publication_date": 20090101
+    },
+    {
+      "title": "Squeezes an infinite universe of music into your \"Stereo\"",
+      "text": "Amazing device! Does just what it is supposed to do. Actually, if you think about it, it is nothing (much more) than a remove control for your computer playing through your HiFi. Still, sitting in your listening room with the small well thought-out remote in control of your library (in my case over 1 terabyte of music) plus internet radio and you can sit and listen without moving until you die. Not that you'd want to. You're going to have to stand up and dance from time to time and exercise your happy feet.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "A. Henderson",
+      "helpful_votes": 0,
+      "publication_date": 20110304
+    },
+    {
+      "title": "Great product, installation a bit mysterious....",
+      "text": "Works great but took me a little over two weeks to install, requires patience and a lot of trial and error. I am fairly technical and it stumped both me and my son, we would try like crazy one day, unplug and try the next, unplug, restart, and try again. Eventually with a new firmware patch one day it worked seamlessly. It would work sometimes and then not others but when it finally all \"clicked\" it worked great. Fun toy, useful, if you have patience and time to install I would recommend.",
+      "rating": 4.0,
+      "verified": true,
+      "author": "Tim Short",
+      "helpful_votes": 0,
+      "publication_date": 20090124
+    },
+    {
+      "title": "2- stars if you are trying to use multiple units.",
+      "text": "Nice interface on the duet. I love the functionality. But networking multiple squeezeboxes is unreliable. I have a duet and 3 Booms, and I spend a lot of time getting them to connect and synch. They can go for up to 10 hours, but afterward I have to spend at least 15 minutes resetting and reconnecting them all. The squeezebox receiver and duet controller seem to be the worst offenders unfortunately. I'm on the brink of returning mine. But I probably won't. Edit: I did return mine because the controller wouldn't charge. The replacement seems to be the same. Terrible. I would give this 2-stars if they would let me edit that.",
+      "rating": 3.0,
+      "verified": true,
+      "author": "Stan Gently",
+      "helpful_votes": 5,
+      "publication_date": 20090517
+    },
+    {
+      "title": "Could not be more satisfied",
+      "text": "This is exactly what I wanted; I have loaded a very large music collection (1000+ disks) on an external hard drive (backed to a second drive; I did not want to go through the ripping process again). I will never handle a disk again except when I by a new one. There are highly modified versions of this product available on the net that are said to be better in sound replication; maybe but for my ears it sounds great.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Amazon Customer",
+      "helpful_votes": 0,
+      "publication_date": 20090202
+    },
+    {
+      "title": "Very nice - Bang for the Buck!",
+      "text": "In under 30 minutes, this bad boy went from opening the box to streaming my ITunes library and any internet station to my sound system. Very cool. There is some confusion on installing the Squeezbox \"server\" software on your PC. Logitech obviously changed the branding/name of the PC based software so the instructions indicated \"SqueezeCenter\" when it is now \"Squeezebox Server\". Once I got past that, eveything was pretty easy. The controller is very easy to use and intuative. Purchases this from Amazon and there were no issues... delivery was prompt and the price was right. Nice job Logitech. Nice job Amazon.",
+      "rating": 4.0,
+      "verified": true,
+      "author": "OpusTwo",
+      "helpful_votes": 0,
+      "publication_date": 20091230
+    },
+    {
+      "title": "Amazing!",
+      "text": "Absolutely the best device to use to connect your amp to internet radio or music you have stored on your hard drive. Works completely as promised. The remote gives you so much ability to select music it is hard to explain just how cool it is. Skip the wires - get this and connect through your wireless router. Connect two cables to a digital input of your amp, download the software to your computer and listen to your favorites music right through the amp. It is amazing!",
+      "rating": 5.0,
+      "verified": true,
+      "author": "James E. Sellers",
+      "helpful_votes": 0,
+      "publication_date": 20100921
+    },
+    {
+      "title": "Free your music.",
+      "text": "I received a squeezebox duet for Christmas, and I love it. The setup was easy and straight forward. I decided to use a wireless setup. Both the remote and the SqueezeBox connect to SqueezeCenter over my wep enable wireless network. Sound quality is great, the remote control interface is intuitive and responsive. Rhapsody integration is outstanding. This is a must have.",
+      "rating": 4.0,
+      "verified": true,
+      "author": "Bob Wingard",
+      "helpful_votes": 0,
+      "publication_date": 20081230
+    },
+    {
+      "title": "Grerat product!",
+      "text": "It is one of the greatest products on the market for being easy to use and still reasonably priced. There are some issues mainly with the home network setup and your firewall settings. But the Duet itself works really well. Logitech is updating firmware regularly and small issues still present are likely to be resolved. One of those is use of headphones (still listed Beta) - it is unstable and works only sometimes. But all in all a terrific effort on part of Squeezebox/Logitech!",
+      "rating": 4.0,
+      "verified": true,
+      "author": "I. Gorin",
+      "helpful_votes": 0,
+      "publication_date": 20090202
+    },
+    {
+      "title": "A must have",
+      "text": "After some initial setup snags, mostly due to a weak cable signal on my end, I am now enjoying Pandora, internet radio and my music collection with ease through my Nuvo essentia whole home audio system. Overall setup was minimally painful. User guide could be a bit more detailed but found what I needed on the internet. If you have a whole home audio system I would highly recommend this as a source. Much less expensive than the options Nuvo has available. Was the best product for my needs when I compared this to others out there such as airport exp, casatunes, etc.",
+      "rating": 4.0,
+      "verified": true,
+      "author": "Critical1",
+      "helpful_votes": 0,
+      "publication_date": 20090702
+    },
+    {
+      "title": "It plays pandora",
+      "text": "Bought this to complete a stereo set up that includes a marantz stereo receiver with definitive technology speakers back in 2009. The squeezebox is not without it's faults. Drops wireless connections frequently, especially on earlier firmware versions. Current updated software seems to be stable.",
+      "rating": 3.0,
+      "verified": true,
+      "author": "J. Ruvio",
+      "helpful_votes": 2,
+      "publication_date": 20110627
+    },
+    {
+      "title": "Great Mothers Day Gift",
+      "text": "I just set this up yesterday for my mother who is 73. It was so easy to set up. She can now use the remote for all her radio stations, internet stations, facebook, pandora, etc. It's sooooooo cool. It even shows photos. I forgot to tell you that it also played all of her music on itunes and music library tunes. I highly recommend this product. I hope to get one for mothers day this weekend.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "AmazonCustomer",
+      "helpful_votes": 0,
+      "publication_date": 20110506
+    },
+    {
+      "title": "Love Squeezebox, but not this one",
+      "text": "I love Logitech's Squeezebox players. This one would be perfect if it were not for the crummy and unreliable charger stand (for remote) connection. It would be perfect if not for this. I had some minor connection problems too. But the unreliablity of the charging system is intolerable. I have replaced the Duet with a Squeezebox Classic, and that is wonderful. This is so aggravating I only gave it a couple of stars. Update: Given the fact that you can get Android apps to control this unit, it makes the remote point moot....for control. You still need the provided remote to set up the unit or reset it periodically.",
+      "rating": 3.0,
+      "verified": true,
+      "author": "Old geek",
+      "helpful_votes": 0,
+      "publication_date": 20110315
+    },
+    {
+      "title": "quick and easy!",
+      "text": "I ordered this through the Gold Box special on Saturday and it was at my door on Monday morning. I got pulled it out of the box and got it set up in less than 10 minutes - this with two preschoolers hanging around. My husband is going to be pleased when he gets home tonight! I obviously can't attest to how it will perform in the long run, right now there is hardly any lag to the remote and the same when I use iPeng on my iPhone. Now I am just waiting for my Squeezebox Boom to arrive (I ordered it at the same time)...",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Area Woman",
+      "helpful_votes": 0,
+      "publication_date": 20110321
+    },
+    {
+      "title": "Very cool device",
+      "text": "I love my new Squeezebox Duet. My only regret is that I did not buy one a few years ago. Until recently, I listened to mostly satellite radio, but over the past few years the music quality has declined. With the Squeezebox, I have access to hundreds of internet radio stations, making the satellite radio obsolete. The only downside is the set up. It was not as easy as advertised and I had problems connecting to the Squeezebox server. But all has been resolved, and I am completely happy. It's a very, very cool product.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "A. Moore",
+      "helpful_votes": 0,
+      "publication_date": 20110111
+    },
+    {
+      "title": "Spectacular, Wonderful!!!!",
+      "text": "Spectacular, Wonderful! It is incredible what this device from Logitech. I just got my new Squeezebox Duet and is simply amazing. I hear my favorite music from my computer, my favorite internet radio stations, all in the palm of the hand with a full color screen. It's Too Good, Great! WAUUUUUUUUU",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Eloy",
+      "helpful_votes": 0,
+      "publication_date": 20110402
+    },
+    {
+      "title": "Good audio product",
+      "text": "After some difficultly setting up this unit, it works fine,",
+      "rating": 4.0,
+      "verified": true,
+      "author": "Robert O'Brien",
+      "helpful_votes": 0,
+      "publication_date": 20170611
+    },
+    {
+      "title": "Solution to living in a small market",
+      "text": "This product allows me to listen to every genre of music from around the world- or talking heads in diverse languages. The setup to wifi is simple. I have had to restart the program a few times because I suspect logitech may have a software problem, but this is easy and quick. Since the last update from them this has not occurred. The control device is easy to use and the screen is vivid and clear. The actual unit is compact and lite weight making it easy to transport to my patio receiver from the primary listening room.",
+      "rating": 4.0,
+      "verified": true,
+      "author": "weatherman",
+      "helpful_votes": 0,
+      "publication_date": 20110420
+    },
+    {
+      "title": "Blown Away",
+      "text": "Having owned each of the Squeezbox's prior to the Duet, I have seen some major improvements with this 'ideal' media player. Great installation, simple to manage large libraries with security, no less. With the sale for $169, this is a no brainer. Get one, you wont regret it. And it even rock 24.96 no problem for the audioheads",
+      "rating": 5.0,
+      "verified": true,
+      "author": "todd edgerton",
+      "helpful_votes": 0,
+      "publication_date": 20110327
+    },
+    {
+      "title": "Perfect",
+      "text": "I've had earlier squeezeboxes, so squeezecenter already set up. I needed to move the box to an unwired location, though, so I thought I'd try the duet. Took a grand total of 10 minutes to get set up, found my network, existing squeezecenter etc. The whole thing, including packaging, is clearly intended to mimic the ipod. That's no bad thing.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "PeteK",
+      "helpful_votes": 0,
+      "publication_date": 20081020
+    },
+    {
+      "title": "It works great. Too bad Logitech has discontinued the squeezebox",
+      "text": "Bought this to hook to my stereo and play music from my server. It works great. Too bad Logitech has discontinued the squeezebox.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "J. Weber",
+      "helpful_votes": 0,
+      "publication_date": 20150109
+    },
+    {
+      "title": "This is awesome",
+      "text": "This is a really cool product. It takes a little bit to get it setup properly but once you do it seems to work well. I have it connected into a whole house audio system and I'm able to control it using my Ipad or the provided remote from anywhere in the house. I especially like the ability to link it into Rhapsody. No more messing with CDs or MP3s. You can play whole albums or individual tracks from an artist. This is my new favorite music source, I love it.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "D.Fuller",
+      "helpful_votes": 0,
+      "publication_date": 20110511
+    },
+    {
+      "title": "Not as good as the Squeezebox Touch!",
+      "text": "It`s very hit & miss whether it will work or not. It`s good when it works, but it freezes up on you more often than not. The Touch is a huge step up from this Duet. Same your money & buy the Squeezebox Touch.",
+      "rating": 2.0,
+      "verified": true,
+      "author": "boomquest",
+      "helpful_votes": 2,
+      "publication_date": 20110921
+    },
+    {
+      "title": "Awesome!",
+      "text": "I did have to call Support to help me set it up but it appeared that my ports were closed due to firewall, all was resolved and set up easily, love it love it love it! my computer is upstairs and I work downstairs so this little box saved my life!",
+      "rating": 5.0,
+      "verified": true,
+      "author": "TBL",
+      "helpful_votes": 0,
+      "publication_date": 20100119
+    },
+    {
+      "title": "Great WiFi Radio",
+      "text": "For those who like to listen to radio stations from all over the world, the Squeezebox Duet is a handy tool. I found it easier to use than my stand alone table top model --though the handset from the Duet mackes it easier to control as well. I have it wired into my stereo system for great sound through good speakers.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Haff Note",
+      "helpful_votes": 0,
+      "publication_date": 20111004
+    },
+    {
+      "title": "Music Problems: solved !!",
+      "text": "21st century solution for those struggling with 20th century CD's, home stereo. Fantastic product: superb design, perfect for Pandora and all online radio which is what I want (I'm bored of my music collection, right !. Least reported feature, is the one that tips this from a really good to a really great product: the remote is Wireless...which means you don't need to be anywhere near your stereo to control your music- including volume ! Took me 15 mins to set up. No problems. I'm done ! Music at home: solved.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Macker ",
+      "helpful_votes": 0,
+      "publication_date": 20100720
+    },
+    {
+      "title": "Even better with updated software",
+      "text": "Goodbye CD library, hello Squeezebox. My CD player is collecting cobwebs since I installed the Squeesebox Duet. I got it a few weeks before the recent major software update and was impressed with the ease of install and the sound quality. Now with a vastly improved user interface on the controller and an extensive list of new features I can recommend this product without hesitation to anyone who wants to bring internet radio and music sources directly to their home audio system without the need for an intermediate computer connection. And if you do have a music library stored on a networked home computer, Squeezebox can easily access it and play whatever you select.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "G.D.",
+      "helpful_votes": 0,
+      "publication_date": 20091012
+    },
+    {
+      "title": "Squeebox Duet impression",
+      "text": "This is the best new consumer electronics product I have tried in years. Setup took minutes - automatically connected to the router, all configuration right from the handheld. I was listening to global internet radio, pandora etc within 20 minutes. Doesn't come with much documentation because you won't need it. Handheld works from 50 ft away from the audio box in almost all cases, in the house or outside. The audio box is REALLY small - about the size of a small router. The handheld is very nicely designed. An awesome product.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Hidden Heaven Farm",
+      "helpful_votes": 0,
+      "publication_date": 20100704
+    },
+    {
+      "title": "The Logitech makes listening to your favorite Internet radio stations easy",
+      "text": "Program your favorite Internet programs/ stations in and you can easily access them without turning on your computer. I recommend this product.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "V. Turner",
+      "helpful_votes": 0,
+      "publication_date": 20140324
+    },
+    {
+      "title": "Squeezebox great for use with Savant Home automation",
+      "text": "This unit far exceeded my expectation in the integration area it runs on the Savant systems with ease of use and has taken the place of Sirius and XM Radio in many cases.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Darren",
+      "helpful_votes": 0,
+      "publication_date": 20110613
+    },
+    {
+      "title": "Logitech Squeezebox - Great Product!",
+      "text": "Absolutely a great product. Installed in minutes and was running with my music services. I use mostly the \"streaming\" music services (ie; Pandora, Slacker, etc), so I can't comment on how easy it works with a local music library. Currently only have 1 room setup, but thinking about adding a second soon. Coolness factor of the product is a 10+. Definitely needs a good WiFi signal which if you are using it outside can cause delays on updating the controller's now playing screen.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "RJ",
+      "helpful_votes": 0,
+      "publication_date": 20091009
+    },
+    {
+      "title": "Say bye to CDs forever.....super cool and simple",
+      "text": "Setup Pandora (free) on this device and Rhapsody ($10/month) and never look back. Local radio stations over the Internet means no bad reception. Themed stations like sports talk radio galore and seasonal music like multiple styles of Christmas music......awesome and easy.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Av guy",
+      "helpful_votes": 0,
+      "publication_date": 20110102
+    },
+    {
+      "title": "Great!",
+      "text": "Good value for this item...would purchase again if needed at a later date..would recommend to others to purchase also..thanks for product!",
+      "rating": 5.0,
+      "verified": true,
+      "author": "CMB6987",
+      "helpful_votes": 0,
+      "publication_date": 20130206
+    },
+    {
+      "title": "Excellent for Multiple Room Audio",
+      "text": "The squeezebox is great for multi room audio combining all your files from your base computer. No complaints as setup was easy and ready to go in less than 30 min. It found all my music files no matter what the file type. The only issue I ran into was losing wireless signal on the remote a few times, but a quick on and off and it was working fine.",
+      "rating": 4.0,
+      "verified": true,
+      "author": "Dorf 2378",
+      "helpful_votes": 0,
+      "publication_date": 20100321
+    },
+    {
+      "title": "So much better and more powerful than other analog / digital players",
+      "text": "Can't believe they stopped making squeezebox. So much better and more powerful than other analog / digital players.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Baron",
+      "helpful_votes": 2,
+      "publication_date": 20141229
+    },
+    {
+      "title": "Great for music lovers",
+      "text": "The Squeezebox Duet is a fantastic product. Does as advertised, relatively easy setup, if you've done your own wi-fi network. Range is a little iffy, but what a resource! Playing an almost unlimited number of internet radio stations on your stereo is great, plus easy access to all the info on each selection.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "D. Daley",
+      "helpful_votes": 0,
+      "publication_date": 20090818
+    },
+    {
+      "title": "Squeezebox Duet",
+      "text": "I purchased this item to listen to internet satalite radio. I was not aware that XM radio was not compatable with this unit. I tried to return it before the normal 30 days that Amazon usually offerers. Much to my surprise the company that shipped the unit only offered a 14 day return policy. I am a little disappointed with Amazon that they don't back their 30 day return policy.",
+      "rating": 3.0,
+      "verified": true,
+      "author": "Rick B.",
+      "helpful_votes": 0,
+      "publication_date": 20100506
+    },
+    {
+      "title": "DON'T BUY THIS PRODUCT",
+      "text": "This is a good product no doubt. However, it was marketed as being expandable by purchasing additional receiver units, clearly, on their product information and website. Guess what? LOGITECH NO LONGER SELLS standalone Squeezebox Receivers. You can \"expand\" your system by buying one of their other, myuch more expensive products. So, don't buy the Duet if you want to expand your system it in the future.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "Clint Alloy",
+      "helpful_votes": 2,
+      "publication_date": 20100205
+    },
+    {
+      "title": "Logitech Squeezebox Duet",
+      "text": "I love my Logitech Squeezebox Duet. This is a perfect way to use your own stereo and to stream music in a seamless manner from your computer. My taste in music is limitless which is why the Duet is perfect. I did not want to spend a $1,000 setting up a Sonos when this allowed me to do much the same thing especially in an apartment. A wireless speaker can address that issue.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "OglesbyK",
+      "helpful_votes": 0,
+      "publication_date": 20110402
+    },
+    {
+      "title": "Great Product",
+      "text": "I bought the Duet to use with a 2nd zone on an A/V receiver outside. I had some issues with setup that involved my firewall on my home network. Once that issue was cleared up, it works great. I have access to my entire music library from my pool with an easy to use remote. The internet radio is nice too. I just haven't used it as much. Would highly recommend.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Steve S. Lehman",
+      "helpful_votes": 0,
+      "publication_date": 20090915
+    },
+    {
+      "title": "Nice product but be warned.",
+      "text": "I have had the Squeezebox Duet for at least 2 years. It's a great product when it works, but can be extremely frustrating when it doesn't. Moving from the Squeezebox server (music files on your computer) to Squeezebox network (internet radio) can be a royal pain. Why does it need to be so complicated?? With that said, I love internet radio through my stereo system.",
+      "rating": 3.0,
+      "verified": true,
+      "author": "jtsymbo",
+      "helpful_votes": 0,
+      "publication_date": 20111111
+    },
+    {
+      "title": "Cool Product!",
+      "text": "I recently purchased the Squeezebox Duet and absolutely love it. The product is very simple to use and packed with features. Sound quality is excellent. Setup was a little bit of a challenge but Logitech's support was very simple to access and provided valuable information. I would highly recommend this product to anyone looking to acquire a music server.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "B. Schindell",
+      "helpful_votes": 0,
+      "publication_date": 20100218
+    },
+    {
+      "title": "A Fine Low-Cost Network Music Player",
+      "text": "I found the Logitech Squeezebox Duet very easy to set-up and connect to my home network. The Duet not only offers full iTunes interactivity and a remote with a full-color LCD screen, but also delivers a range of other network music options. You can have access to Pandora, Rhapsody, Slacker, Live365 and Radio Time. Automatic firmware updates should prove to be a nice feature in the future. I had some difficulty in getting all of the iTunes Album Artwork to transfer from my HomeServer iTunes database to the Duet. I found a fix for this at [...] Richard Mars, PA",
+      "rating": 4.0,
+      "verified": true,
+      "author": "Janice M. Brown",
+      "helpful_votes": 0,
+      "publication_date": 20090404
+    },
+    {
+      "title": "Squeeze box duo",
+      "text": "My wife and I wanted to have something to control our music for our outdoor speakers. We use Rhapsody to create playlists and wanted a way to select them while we sit outside. This product works great. We can easily select our playlists, see the cover art, and change the volume of our stereo receiver.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "cbs",
+      "helpful_votes": 0,
+      "publication_date": 20110122
+    },
+    {
+      "title": "Product is good, but low reliability",
+      "text": "The controller died after one month of operation. Continuous flashing red light no matter how many resets and impound you do. Seems to me Logitech spent substantial time trying to make their packaging similar to that of Apple, but meanwhile, forgot to focus on the quality and support for their products. No more Logitech for me.",
+      "rating": 2.0,
+      "verified": true,
+      "author": "MikeA",
+      "helpful_votes": 0,
+      "publication_date": 20110109
+    },
+    {
+      "title": "Logitech is CRAZY for discontinuing the Squeezebox Line",
+      "text": "More Jitter than than the Transporter, but great remote I use the duet remote to run my Transporter and relegate the duet base station to my son's room",
+      "rating": 5.0,
+      "verified": true,
+      "author": "KoshNaranek",
+      "helpful_votes": 0,
+      "publication_date": 20130511
+    },
+    {
+      "title": "Squeezebox Duet - Do Not Buy This Product",
+      "text": "I've had a Squeezebox Duet for over a year now, and it worked perfectly until the recent Squeezebox Server Upgrade. In the week since the upgrade, I have spent over 4 hours on the phone waiting on hold for Logitech's dismal product support specialists. When I actually get somebody, they just suggest I reset my remote and server, which works for about a day before the system is again unable to reconnect to my music server. Be weary about purchasing this product until Logitech does something about their squeezebox server. It won't work, and you would be better off buying a different network music system.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "Amazon Customer",
+      "helpful_votes": 13,
+      "publication_date": 20091017
+    },
+    {
+      "title": "Great Product for the Price",
+      "text": "This is a great product for the price. We used to randomly install the first version in our client jobs, but it is now a standard unit for all our installs due to the new numerous features and nice \"wow\" factor for the client. It integrates very well!",
+      "rating": 5.0,
+      "verified": true,
+      "author": "K0z1",
+      "helpful_votes": 0,
+      "publication_date": 20110920
+    },
+    {
+      "title": "logitech squeezebox duet a good equipment for music",
+      "text": "I want duet to work with my mini-hifi system DENON D-F107,bought recently from HONGKONG. the two compoments of duet works well under my little wireless LAN ,bring me high quanlity music just like Logitech Ad says\"free your music\" ,you can control anywhere inside the LAN range choose any type of music you like , wav ape flac mp3 and thousands internet radio stations , so it is a good toy for music lover. but it seems to have some problems switching from a squeezebox sever to another especilly when you shut down the current running sever.maybe some things related to my own internet config, this is really a good pruduct and the service I received is good",
+      "rating": 4.0,
+      "verified": true,
+      "author": "sxbsunny",
+      "helpful_votes": 0,
+      "publication_date": 20120305
+    },
+    {
+      "title": "Fantastic!",
+      "text": "This is a great product. Very easy to setup, sound quality is great, and the remote is very slick. If you have an iPad, definitely get the SqueezePad app to go with this setup.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Kindle Customer",
+      "helpful_votes": 0,
+      "publication_date": 20110129
+    },
+    {
+      "title": "Squeezebox",
+      "text": "Its a very product. Logitech makes good products. From the time you open the box and set the whole thing up maybe about 2o minutes tops. Very easy to setup and start enjoying your music. Great product!",
+      "rating": 4.0,
+      "verified": true,
+      "author": "BigL805",
+      "helpful_votes": 0,
+      "publication_date": 20100722
+    },
+    {
+      "title": "Only works occasionally",
+      "text": "I bought this about a year ago when it was offered through \"GOLD BOX\". I love being able to walk around the house with a remote that shows song info and artwork, but this unit only works occasionally. The artwork for about 20-30% of the songs/albums is blank or the wrong artwork. I have to uninstall the software and reinstall it every few weeks or months because it doesn't respond or work. I really wish this thing worked as it should but it's more time consuming and FRUSTRATING than it's worth.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "Uncle Beaver",
+      "helpful_votes": 0,
+      "publication_date": 20120403
+    },
+    {
+      "title": "great I own 3 of them check out the iphone and droid apps too",
+      "text": "excellemt product you just dont know what all it does till you have one, The ultimat music source with the the coolest control",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Mark E. Headley",
+      "helpful_votes": 0,
+      "publication_date": 20100321
+    },
+    {
+      "title": "Squeezebox Sensation",
+      "text": "This is a terrific product--pushing hard toward the convergence of our A/V and computer systems.",
+      "rating": 4.0,
+      "verified": true,
+      "author": "jackcatscal",
+      "helpful_votes": 0,
+      "publication_date": 20080627
+    },
+    {
+      "title": "Faulty remote",
+      "text": "The remote with this system loses its ability to connect to the squeezebox and needs to be rebooted (remove battery and reset) with every use. Logitech's support is nonexistent. The original squeezebox is pretty good I think but I would never buy this version again.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "R. Tilton",
+      "helpful_votes": 7,
+      "publication_date": 20081224
+    },
+    {
+      "title": "Duet",
+      "text": "Wonderful gadget - great for access to all the internet music - pandora, streaming radio, etc. And a great way to play your music from your computer.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "D. J. Campagna",
+      "helpful_votes": 0,
+      "publication_date": 20100502
+    },
+    {
+      "title": "not as discribed",
+      "text": "Missing items-former owners keys had to be eliminated requiring calls to Logitech -on phone for close to an hour. Still not woking properly.",
+      "rating": 2.0,
+      "verified": true,
+      "author": "Drinking Eddie",
+      "helpful_votes": 0,
+      "publication_date": 20130607
+    },
+    {
+      "title": "Don't buy the DUET before doing your homework.",
+      "text": "If you look on the Logitech's support forum, you will find a lot of complaints which unfortunately I didn't read before buying the Duet. After spending many hours with tech support they told me to return the unit. I feel that this is not a very well tested product, has worked for some lucky few though,I was not one of them.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "Prashant Gagneja",
+      "helpful_votes": 7,
+      "publication_date": 20081007
+    },
+    {
+      "title": "Had its day - that day is over",
+      "text": "We bought this in 2008 and loved it for the first few years. Then logitech stopped producing and supporting it and the problems started. The whole system started needing resets on a regular basis. Then we would have connection to computer but no internet (Pandora). Then the opposite. If anyone knows of another similar product that can run without a television to enable the interface, we would love to know about it.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "Dirk L. Dunlap, Jr.",
+      "helpful_votes": 2,
+      "publication_date": 20140116
+    },
+    {
+      "title": "NOT WHAT I EXPECTED",
+      "text": "THE ITEM WAS A LOGITECH SQUEEZEBOX DUET. SOLD AS A REFURBISHED ITEM. ITEM ARRIVED IN A BEAT BOX, MISSING THE MANUAL, AND A CONNECTOR PLUG. ITEM MOST DEFINETLY LOOKED USED BECAUSE OF ALL THE SCRATCHES. I'VE PURCHASED REFURBISHED ITEMS BEFORE, AND THEY LOOK NOTHING LIKE THIS. A REFURBISHED ITEM WOULD HAVE INCLUDED ALL PARTS AND MANUALS, ALSO THE SCRATCHED PLASTIC PARTS ARE USUALLY REPLACED AS WELL. THE DEVICE STILL WORKS, BUT I MUST SAY THIS WAS A DECEPTIVE SALES TRANSACTION.",
+      "rating": 2.0,
+      "verified": true,
+      "author": "THOMAS MAJER",
+      "helpful_votes": 0,
+      "publication_date": 20120202
+    }
+  ],
+  "product_meta": {
+    "title": "Logitech Squeezebox Duet Network Music System (Discontinued by Manufacturer)",
+    "description": "Listen to the music you love in any room in your home with the Logitech Squeezebox Duet. Play songs stored on your computer, tune in to thousands of Internet radio stations, or connect to online services such as Pandora and Rhapsody . Plus, the multi-room controller with 2.4-inch color display and scroll-wheel navigation makes it easy to browse, select, and play music from the palm of your hand.\n\nFROM THE MANUFACTURER\n\n\nSqueezebox Duet\nNoteworthy Features \u2022 Intuitive hand-held controller with color screen \u2022 Get easy access to free internet radio and all your digital music collection \u2022 Crystal-clear high-fidelity audio (24-bit DAC) for immersive music experience \u2022 Supports all major digital music formats \u2022 Simple set up without running wires from room to room \u2022 Rechargeable lithium-ion battery and sleek recharging stand \n\n Download a spec sheet\n\nEnlarge\n\nLogitech Squeezebox Duet Listen to news, sports, and music from your favorite Internet Radio stations\u2014from all over the world.\nThere's a whole world of music waiting for you on the Internet. With Squeezebox Duet, you can tune in to thousands of Internet radio stations and music services\u2014all on your home audio system. Chill with live jazz from a radio station in Paris. Or tune in to local news and sports from your hometown in Chicago. Plus you can create and play unique playlists from your personal music collection. The Squeezebox Duet Wi-Fi Internet Radio and remote control put all the music you love at your fingertips \n\nNow playing on your home stereo:\n\n\n\n\nFree Internet Radio\nListen to thousands of local, international and commercial-free stations. They're organized by music genre for easy browsing on sites like Radio IO and Live365. Check out Pandora to discover new music. Are you into Coldplay? Pandora gives you a station of similar-sounding artists like your favorite artist. And with Logitech's SqueezeNetwork, you can access all the Internet radio stations and online music services even when your computer is turned off.\n\nYour Personal Music Collection\nPlay songs stored on your PC or Mac in your den through the home stereo in your living room. No need to run wires or bring your computer to the living room to listen to your favorite tunes. Play your favorite tracks from the palm of your hand with the color remote. \n\nEasy set-up\nAll you need to get started is a Wi-Fi connection. Simply plug the Squeezebox Duet receiver into your home stereo system, bedroom stereo or kitchen audio system\u2014anywhere you have audio gear. With the intuitive remote control, it's easier than ever to browse, select and play your favorite music or discover new music.\n\n\n\nEnlarge\n\nColor remote control for easy access to all your music\nThe remote's 2.4-inch color screen and familiar music-player menus make it easy to pick and play songs from Internet radio, online music services and your personal music collection. The remote works with the entire Squeezebox family of players and its brilliant color display makes browsing playlists, albums, and artists a snap. Navigate long lists quickly with the thumb-friendly scroll wheel. Use the intuitive control buttons to easily pre-set and play your favorite Internet radio stations or repeat that killer Sting track. You can even pass the remote around the party for a lively game of \"name that tune\".\n\nEnlarge\n\nCrystal-clear high-fidelity audio for an immersive music experience\nYou don't want to miss a beat, note or nuance. That's why Squeezebox Duet features sophisticated audio rendering technology, including a true 24-bit DAC (Digital-to-Analog Converter). Translation: your compressed digital music actually sounds as crystal clear and richly detailed as listening to a CD. From the haunting oboe in the background of Beethoven's 5th to the driving drum kicks behind a Who classic, it's like hearing your digital music for the first time. \n\nEnlarge\n\nSimple set up\u2014without running wires from room to room\nWithin minutes, you'll be listening to music from all over the world. Squeezebox Duet's reliably strong 802.11g wireless connection brings music from your computer and the Internet to any room in your home-without having to run any wires. Just download the free set-up software, plug the player into your audio system, and start exploring music from all over the world. \nEnlarge\n\nRechargeable Battery and Recharging Stand keep your remote ready to rock \nYour Squeezebox Duet remote control is rechargeable, so you never have to buy new batteries. The battery indicator lets you know when the battery is low. To recharge it, simply dock the remote in its cradle. The sleek recharging stand is also a great \"home base\" for your remote, so it's always at hand.\n\nEnlarge\n\nAdd Squeezebox players for more music in more places\nPut more players in all the rooms where you want music. They can work together or independently, all controlled by your Squeezebox Duet remote. Listen to the same song throughout your house, or mix it up with a different song in every room. Get cooking with Tchaikovsky in the kitchen. Wake up to Brubeck in the bedroom. Jump-start your morning with local news in the bathroom. \n\n\n\nAWARDS AND ACCOLADES\n\n\n\n\nWinner:\nBest of CES, Home Audio, CES 2008 Honoree:\nInnovations CES 2008 CNET Editors' Choice Award\nMarch 2008 \n\nCOMPATIBILITY\n\n\n\n\n\nWhat's in the box? Squeezebox Remote Control Squeezebox Receiver Charging cradle with power supply Power supply for receiver RCA to Jack cables Rechargeable Li-ion battery pack Quick-Start Guide 2-year limited hardware warranty System Requirements PC with Windows XP, Windows Vista or Macintosh computer with Mac OS X (10.2.8 or above) 1 available USB port Internet access \nCOMPARE\n\n\n\nWhich Squeezebox Wi-Fi Music Player is Right for You?\n\n\nSqueezebox Radio\n\n\nSqueezebox Boom\n\nSqueezebox Touch\n\n\nSqueezebox Duet\n\nHighlight Compact design with high quality sound The original \"all in one\" solution Color touch-screen with rich, full digital music through your stereo or powered speakers Control the music you love from anywhere in your home Great for Kitchen Bedroom Home office Patio Anywhere without a stereo! Kitchen Bedrooms Home office Anywhere without a stereo! Living room Anywhere with a stereo or powered speakers On your desk Living room Hidden component systems Which should you choose? You want big sound in a small space. You are someone who likes to listen while you work. You need something to fit in your work area. You want music in every room of your home and you want to be able to control it from anywhere. You already own a Squeezebox Duet and want to add more zones. You are someone who likes to listen while you work. You need something small to fit in your work area. You don't have a stereo in your place but you still want big sound. You want music in every room of your home and you want to be able to control it from anywhere. You already own a Squeezebox Duet and want to add more zones You are a music lover and you want high fidelity sound and easy access to all your music. You are someone who has a personal music collection on an external USB drive. You enjoy viewing album art, photos, and visualizers You already own a Squeezebox Duet and want to add more zones. You are an entertainer, you love having friends over and listening to your favorite new music. But you don't want to have to go to the stereo every time you want to play a new track. You want music in every room of your home and you want to be able to control it from anywhere. Connection Sound output Integrated speakers (no stereo required) Integrated speakers (no stereo required) Connects to your stereo or self powered speakers Connects to your stereo or self powered speakers Control On board controls, optional infrared remote (line of sight required) On board controls and infrared remote (line of sight required) Color touch screen with infrared remote (line of sight required) Wi-Fi remote Special Features Seven day alarm with battery backup Connect iPod and other portable music players via 3.5mm stereo jack Connects to Facebook- share recommendations with friends 2.4 inch color display Optional battery pack for portability Seven day alarm with battery backup Built-in 30-watt digital amplifier Connect iPod and other portable music players via 3.5 mm stereo jack Subwoofer out allows you to connect an aftermarket subwoofer for better bass USB port and SD card slot allows access to music and pictures View album art and your photos Supports sampling rates up to 24 bit / 96 kHz Wi-Fi remote can control all of your Squeezebox players 2.4\" remote color display shows album art Link to your Flickr account to display your personal photos on the controller",
+    "rating": 3.2,
+    "feature_bullets": [
+      "Intuitive hand-held controller with color screen for easy access to all your digital music",
+      "High-fidelity 24-bit DAC for crystal-clear audio",
+      "Support for all major digital music formats for playing all your favorite songs",
+      "No need to run wires - wireless technology for clean, clutter-free installation",
+      "Rechargeable lithium-ion battery with sleek recharging stand"
+    ],
+    "specifications": {
+      "Product Dimensions": "4.45 x 9.57 x 8.39 inches",
+      "Item Weight": "2.9 pounds",
+      "Manufacturer": "Logitech",
+      "ASIN": "B0013IWYHU",
+      "Item model number": "930-000033",
+      "Batteries": "1 Lithium ion batteries required.",
+      "Customer Reviews": "3.2 out of 5 stars325 ratings3.2 out of 5 stars",
+      "Best Sellers Rank": "#182,162 in Electronics",
+      "Is Discontinued By Manufacturer": "No",
+      "Date First Available": "July 7, 2004"
+    },
+    "categories": [
+      "Home Audio",
+      "Internet Radios",
+      "Electronics",
+      "Compact Radios & Stereos"
+    ],
+    "price": ""
+  }
+}

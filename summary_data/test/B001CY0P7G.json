@@ -1,0 +1,950 @@
+{
+  "website_summaries": [
+    {
+      "verdict": "A network card that uses state-of-the-art technology to help you maximize system performance and boost your productivity.",
+      "pros": [
+        "Leverages auto-negotiation to ensure the card runs at the highest available network speed",
+        "Maintains full bandwidth capacity with a dedicated bandwidth of a PCI Express input and output",
+        "Boasts a low-cost, low-power, and compact profile"
+      ],
+      "cons": [
+        "Low maximum operating temperature",
+        "Sometimes fails due to high volume or large file transfers"
+      ],
+      "aspects": {},
+      "publication_date": "",
+      "rating": "",
+      "source": "bestreviews"
+    }
+  ],
+  "customer_reviews": [
+    {
+      "title": "A+++++ Recommended - Instant install, Plug and play Intel Love it",
+      "text": "A+++++ Recommended Instant install, Plug and play Intel Love it. I have twin Ethernet ports on the Motherboard, with ok as expected performance, with a performance hit system wide overall. The built in seem to be a resource hog. This takes the load off of the CPU and System RAM and utilizes the PCIe which is very fast, and has improved response time to where there is almost undetectable lag. Click bang. -_-_-_-_- PRO TIP -_-_-_-_- Go into BIOS and disable the other Ethernet adapters that are not being used to free up System Resources. GO to the control panel and use the search for new Ethernet drivers, Intel has updates for this. All done Enjoy.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "DaPoppa1",
+      "helpful_votes": 17,
+      "publication_date": 20180604
+    },
+    {
+      "title": "Product I received was not made by Intel",
+      "text": "A quick visual comparison of the image on the Amazon listing page and the product I received showed that I was sent the equivalent of a \"TOTOVIN PCI-e Gigabit Network Adapter Intel EXPI9301CT CT Desktop 82574L Chipset NIC\" not an Intel card. I double checked the serial number on Intel's website and it confirmed my suspicions (they had no record of it.) It might have worked but I didn't install it; I'm already having driver issues with my current RealTEK NIC and I didn't want to throw some unsupported no-name card in the mix. Bait and switch.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "Nick",
+      "helpful_votes": 8,
+      "publication_date": 20190723
+    },
+    {
+      "title": "My onboard RTL8968 NIC died so I got this as a replacement and it is also a pretty nice upgrade",
+      "text": "FYI: this uses the e1000e driver under Linux. My onboard RTL8968 NIC died so I got this as a replacement and it is also a pretty nice upgrade. With built in tests, dual queues, hardware accelerated checksumming, and optimized IRQ signalling this card can actually sustain gigabit speeds instead of just doing gigabit bursts and then tapering off like my old NIC (before it died). The hardware acceleration with checksumming and segmentation really helps CPU usage - with moderate to heavy network usage the CPU now idles at 3% to 7% usage whereas before under similar load it would be 7% - 13%. Overall I was pretty impressed with the purchase; would buy again.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Alexander",
+      "helpful_votes": 9,
+      "publication_date": 20160323
+    },
+    {
+      "title": "Good product for the price",
+      "text": "Solved my Gigabit ethernet connection issue and works well since I installed it. Took a bit to figure out how to kick up the connection from 100Mbps (hint - I had to manually set speeds on the connection).",
+      "rating": 4.0,
+      "verified": true,
+      "author": "EJ Honda",
+      "helpful_votes": 8,
+      "publication_date": 20180925
+    },
+    {
+      "title": "Instant recognition. Immediately connected.",
+      "text": "I had a virus attack on grandson's Z87M Extreme4 machine. After downloading full install of fresh Win10 Pro operating system, The onboard (intel) NIC went dead. A weekend of tinkering with different drivers and settings didn't bring it back to life. I ordered this Intel Gigabit CT PCI-E Network Adapter EXPI9301CTBLK from Amazon and when it arrived, I installed the new card and plugged cat 6 cable into it. Plugged in and restarted the computer and was back online without any other interaction. Job done. Much appreciated.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "MWM",
+      "helpful_votes": 3,
+      "publication_date": 20180922
+    },
+    {
+      "title": "Don't buy this...if you use windows 10",
+      "text": "I have windows 10, I installed it but when I tried to download the drivers since it did not auto install. I found that no drivers exists for this for windows 10. You can use it for windows 7 but not 10. I guess its my fault for not checking if it supports windows 10. I mean come on, Microsoft is encouraging people to upgrade to windows 10, so I expect to have everything supporting windows 10 first.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "Junaid Pirzada",
+      "helpful_votes": 4,
+      "publication_date": 20190323
+    },
+    {
+      "title": "Not genuine Intel",
+      "text": "The product is a Chinese knock-off of an Intel. Yes, it has \"Intel\" silk-screened on the board, but Windows 10 supplies its own Microsoft driver. After downloading the genuine Intel driver, installation is impossible, since it is not a true Intel card. Intel is the go-to NIC solution and the advertised chipset is solid and performs well....but again, the one I received is not a genuine Intel card. A simple Google search about this topic is very revealing. Demand genuine Intel. Buyer beware.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "Misfit",
+      "helpful_votes": 0,
+      "publication_date": 20200725
+    },
+    {
+      "title": "It worked, but its NOT new!",
+      "text": "Installed in my middle aged Dell when i upgraded to Win 10. I previously could not connect to the internet. Saw this Intel card and decided to give it a try. Pleasantly impressed that the machine found it installed a microsoft driver and it works. I'm getting full speed through the card (150M) I was disappointed to see that it came in a clear clamshell with NOTHING else. The seller should make it clear that this is a (used?, refurbished? returned? or otherwise not a new product) Intel is silkscreened on the card, and device manager shows it to be Intel, so i guess it is.",
+      "rating": 3.0,
+      "verified": true,
+      "author": "Gerry",
+      "helpful_votes": 0,
+      "publication_date": 20190507
+    },
+    {
+      "title": "Fake & Not working",
+      "text": "Fake CE markings, fake serial, fake chips. Runs and lets me ping sites via cmd but hangs trying to brows the net on TLS handshake. Not recognised by intel drivers either = non genuine part. Look up CE markings standards to see if the unit is a fake.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "HJA",
+      "helpful_votes": 5,
+      "publication_date": 20190911
+    },
+    {
+      "title": "Easily outperforms my Realtek Onboard NIC by 10Mbps Line Speed",
+      "text": "This products works and is cross-platform compatible if you need to move to a different OS or bridge it in between virtual hosts with different OS's. In particular, I noticed an immediate 10Mbps bump on speedtest.net with all other settings and physical cabling the same. One of the reasons I also selected this NIC was that it has Monitor (Promisc) Mode that is also compatible in Windows which you can set in the registry. According to the Intel KB000005498 it also supports showing runt frames for debugging switch interfaces as well. If you're looking for a reasonably priced Windows 10.x successor of the Pro/1000GT line; this is it. I'm very pleased with this purchase.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "D.C.",
+      "helpful_votes": 0,
+      "publication_date": 20200703
+    },
+    {
+      "title": "Intel Gigabit CT PCI-E Network Adapter delivers.",
+      "text": "Easier to install would be impossible. I purchased this item because my on board Network adapter driver was incompatible with Windows 10 and no new drivers were made available from Intel or Microsoft for my motherboard. And that would have forced me to buy a whole new system. The Intel Gigabit CT PCI-E Network Adapter was immediately recognized and connected flawlessly with the Internet. Using Windows 10 disabling feature in Device Manager, I disabled the onboard network adapter and that was it. 15 minutes worth of work and my system is good for another year.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "enriver",
+      "helpful_votes": 4,
+      "publication_date": 20170704
+    },
+    {
+      "title": "No Driver supplied",
+      "text": "The LAN card did not come with a driver disk. Neither did it come with instructions identifying a web site to download the driver. Googling to find a driver produced an intel package for all their lan cards. Trying to install this resulted in the message \"Installation failed. No intel product found\" The product is genuine intel verified with BRADY ID. That's why I rated it 3 stars rather than 1 Windows installed a 2013 driver. That works, but it does not have the intel proset feature. I contacted the vendor - BestBuyExtreme. They were quick to respond, but were unhelpful. They suggested an intel website which was did not help",
+      "rating": 3.0,
+      "verified": true,
+      "author": "Newbie",
+      "helpful_votes": 0,
+      "publication_date": 20200716
+    },
+    {
+      "title": "trash",
+      "text": "Died after 3 months. Running this in a small home server and it stopped accepting connections for some reason. Tested on windows and ubuntu and each time that I tested, my issues led back to the network card.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "Troy S.",
+      "helpful_votes": 8,
+      "publication_date": 20170401
+    },
+    {
+      "title": "Much faster than the motherboard nic",
+      "text": "Have a Dell XPS 8920 and the nic card on the MB, was slow and resetting often. Installed this card and problems went away. My box runs 24x7 running Blue Iris software. Zero network issues now. Very cost effective fix. One less star.. No drivers provided and the default drivers installed are from 2018 and are Microsoft drivers. Expected Intel to have newer drivers than Microsoft.",
+      "rating": 4.0,
+      "verified": true,
+      "author": "TommieT",
+      "helpful_votes": 0,
+      "publication_date": 20200506
+    },
+    {
+      "title": "Solid intel NIC chipset (9301 CT) for cheap",
+      "text": "Inexpensive $35 NIC with Intel chipset. When you look on the PCB board you can see the Intel chip plainly in the middle and that's exactly why you get this. 9301CT onboard. Plug it into PICe and that's it. No drivers needed externally, installs flawlessly into Win7. Reboot. Good to go. Speeds as expected, superior handling over non-server motherboard Realtak LAN ports (disable and ignore).",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Marty",
+      "helpful_votes": 0,
+      "publication_date": 20200814
+    },
+    {
+      "title": "Works great and was fully automatic on Windows 10.",
+      "text": "My main network adapter was built onto the mainboard in the computer and it started to fail (dropping connection every now and then) so I bought this one as a replacement. It came with everything needed for various computer slot openings, dropped right in the appropriate slot, and was recognized and installed automatically by Windows 10 OS. This adapter holds a good, strong connection working perfectly.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Robert D.",
+      "helpful_votes": 0,
+      "publication_date": 20190705
+    },
+    {
+      "title": "Works great!",
+      "text": "Worked great with minimal setup on a Ubuntu 16.04 server. Using it to share an Internet connection from an Intel Wireless card. Of note, the server is running the hwe-edge kernel (4.15 vs 4.4) for better driver support with other hardware, so if for whatever reason your results vary, try that. Also to note, if you have other Intel networking hardware, installing this may change the name they use in the system. If installing this causes them to stop working, that's likely the cause.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Christian Allyan Pate",
+      "helpful_votes": 0,
+      "publication_date": 20180726
+    },
+    {
+      "title": "WOL works in Windows 10",
+      "text": "Despite many of the negative reviews, the wake on LAN feature does work on Windows 10 (on my Asus motherboard). I had to disable Windows 10 fast startup to get it to work. You also need to make sure WOL is enabled in your BIOS and in the Device Manager network card properties (advanced tab and power management tab).",
+      "rating": 5.0,
+      "verified": true,
+      "author": "rdagger",
+      "helpful_votes": 0,
+      "publication_date": 20201024
+    },
+    {
+      "title": "Works well enough",
+      "text": "This card replaced a failed gigabit card. The previous card on the same port, same cable and same downstream networking hardware only pushes 75 megabytes per second instead of the full 125 that a gigabit card (and the previous card) should. I updated drivers and everything else to see if it could be resolved. Nothing ever resolved the issue. I replaced the card with another and was able to return to the full gigabit throughput in transfer speeds. The card works, just not at the full speeds expected.",
+      "rating": 3.0,
+      "verified": true,
+      "author": "Dra6onfire",
+      "helpful_votes": 3,
+      "publication_date": 20160304
+    },
+    {
+      "title": "Awesome",
+      "text": "Bought this NIC when I upgraded my internet to 1Gbps from AT&T and my motherboard only supported up to 100Mbps. Installed it in my motherboard PCI-E slot, Windows installed a driver for it and it has worked with no issues since. Intel has a good reputation for networking devices and this NIC is no different.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Andrew",
+      "helpful_votes": 0,
+      "publication_date": 20200217
+    },
+    {
+      "title": "Intel's website is broken - like all hardware manufacturers",
+      "text": "Two problems only. One, Intel's website is broken - like all hardware manufacturers, so it's impossible to download the drivers. Thankfully, Windows 7 and 8 both automatically install this card. Second problem - it's nearly impossible to install. The picture on this website is to scale, no joke. The thing is the tiniest component I'd say I've ever seen if I didn't order this with an SSD that's the same size. My normal size man hands made this a pain in the ass 10 minute process of trying over and over (also my mid-tower) but I finally got it.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Jameel",
+      "helpful_votes": 3,
+      "publication_date": 20150612
+    },
+    {
+      "title": "Works hard, lasts but 3 years.",
+      "text": "Replaced exact same device in PC. These last about 3 years and then start intermittent problems then one day, bad. Otherwise, good device. I use lost of fans in my game PC and have a Cyber Power surge / battery backup, so, the failure is in the device ... it does get allot of work when gaming.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Zimor",
+      "helpful_votes": 0,
+      "publication_date": 20200829
+    },
+    {
+      "title": "2nd NIC on our Internet PC's",
+      "text": "Purchased 4 of these cards to set up a 2nd network that only accesses our household NAS' & printers. Our primary network will provide Internet access through the motherboards primary Gigabit Ethernet port. The 4 PC's will eventually run Linux on a Ryzen platform and access Window Virtual machines that reside on the NAS. Right now the PC's are running Windows 7-SP1 64-bit This card is working great on our 2nd network. No complaints",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Dan JTop Contributor: Pets",
+      "helpful_votes": 0,
+      "publication_date": 20180310
+    },
+    {
+      "title": "Excellent answer to my problem",
+      "text": "Very easy plug and play card on Windows 7 machine. My problem was after I upgraded my Comcast Internet speed to extreme the on-board NIC couldn't keep up with the 177 download speed I was getting. After about 12 to 14 hours my download would drop to the low teens and I would have to re-boot the computer to get my speed back. I installed this card and the problem disappeared. I have seen a complaint about no CD or manual coming with the BLK version. Just plug the card in, restart the computer, drivers load automatically and your online. Go to device manager and update the drivers, that's all you need to do.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "WayneF",
+      "helpful_votes": 0,
+      "publication_date": 20150717
+    },
+    {
+      "title": "Killer Ethernet replacement",
+      "text": "I have a Gigabyte motherboard that 2 Ethernet ports. One Intel and one Killer. I recently been having problems connecting to the other computers on my network. Wasn't sure of the problem but a friend suggested replacing the Killer nic. Once I installed this card all my problems vanished. Not sure if it was a hardware or driver/software problem with the Killer nic but I haven't had any problems since disabling it.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "D. H. Sempeck",
+      "helpful_votes": 0,
+      "publication_date": 20190303
+    },
+    {
+      "title": "Great card for ESXi.",
+      "text": "Very good card! Works perfectly under ESXi 6u2, no need to install drivers or anything! Combine that with the Gigabyte GA-970A-DS3P motherboard that is also sold here and a compatible CPU, and 32 gigs of RAM and you get a sweet little ESXi server that supports IOMMU for PCI passthrough of a Sata controller for something like FreeNAS.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Kathryn S.",
+      "helpful_votes": 2,
+      "publication_date": 20160502
+    },
+    {
+      "title": "Does not like Win 10 Pro 64 Bit",
+      "text": "I purchased this to use in place of the onboard MOBO NIC. Installed and no good, I chatted with an Intel rep and I was told this card is not computable with Windows 10. There are no drivers available at Intels support page.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "Bob Nitkowski",
+      "helpful_votes": 3,
+      "publication_date": 20180904
+    },
+    {
+      "title": "Plugged it in and it worked...what more can you ask?  Highly recommend.",
+      "text": "Lightning had killed my computer's onboard ethernet connection, so I bought this and simply installed it into an open PCI express port on my motherboard. And it worked without any drama...no drivers to install, no BIOS to mess with. HIGHLY recommended.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "bajaman",
+      "helpful_votes": 0,
+      "publication_date": 20200914
+    },
+    {
+      "title": "BLOWN AWAY",
+      "text": "WOW. I was skeptical about the gains i would see with installing this card but it has easily surpassed my expectations. and earned itself a 5 star review. Cheap. Easy to install. Auto driver pickup. I pay for 75 Mbps I was receiving 30-50 Mbps with my motherboard network adapter I currently get 179 Mbps with the adapter; photo attached. BUY THIS NOW.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Jay P.",
+      "helpful_votes": 0,
+      "publication_date": 20180809
+    },
+    {
+      "title": "The BEST INTEL single NIC for Desktop!",
+      "text": "This is the 7th one of these that I have bought for my workstations. I love this NIC because, for starters, it only takes up one x1 slot, and nearly everyone has one of these that doesn't interfere with a GPU to spare, and secondly because it doesn't require any driver downloads, it just works! As long as you have fully updated your windows OS then you will not have to search online or personally install a driver. (This is true for: Win7, 8.1, and Win Server 2012 R2 so far)",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Blake B.",
+      "helpful_votes": 0,
+      "publication_date": 20160421
+    },
+    {
+      "title": "The best reasonably priced gigabit ethernet PCI-E adapter",
+      "text": "This card installs flawlessly under Windows 7 64 bit. It's on the ESXi support list as well. Can't think of any downside other than a slightly elevated price when compared to less known companies' competing adapters. Comes with a handy low profile bracket for smaller systems or a rackmounted chassis. But yes it's true you could have two cheaper cards for one of these but this is an Intel chipset. Excellent driver and software support. What's not to like?",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Cranky",
+      "helpful_votes": 20,
+      "publication_date": 20111202
+    },
+    {
+      "title": "A Simple Solution to a nagging problem!",
+      "text": "Product came as described. No drivers (you have to d/l them from manufacturer if needed). Super easy to install!! I did not need drivers, auto sensed; plug n play- It just works!! I did some research and found out DELL knew about the mother board Ethernet port failing, and did not put out a fix!! Thank you to all the great people on youtube for giving this solution!!",
+      "rating": 5.0,
+      "verified": true,
+      "author": "J. V.",
+      "helpful_votes": 0,
+      "publication_date": 20190318
+    },
+    {
+      "title": "Meets all expectations on all OSs.",
+      "text": "Perfect fit and performance. I disabled the onboard adapter because it was moody and spoiled. I\u2019m very pleased with the improvement. What does \u201csheerness\u201d or \u201cthickness\u201d have to do with an internet adapter?",
+      "rating": 5.0,
+      "verified": true,
+      "author": "sometimes savy",
+      "helpful_votes": 0,
+      "publication_date": 20200914
+    },
+    {
+      "title": "Excellent NIC",
+      "text": "This NIC is at the right place between price and performance. I never used onboard lan because it could be a bottleneck for the gigabyte internet connection. This NIC, however, has the ability to offload TCP traffic and CPU load, which considerably increase both performance and reliability. I highly recommend this not so pricy piece of work. By the way, you either need to download the driver from Intel site or you need another computer to do so, since this is the bulk OEM version, which means it does not come with the driver but only the hardware.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "RS",
+      "helpful_votes": 2,
+      "publication_date": 20130902
+    },
+    {
+      "title": "Improved every aspect of my connection",
+      "text": "I don't write a lot of reviews.. but this card is worth every penny. I already had an onboard Intel chip in my MSI X470 Gaming Pro Carbon motherboard, but decided to see if I could improve my new gigabit cable connection speeds. I was not disappointed. I'm not sure what caused the improvements, but they are substantial. Great buy.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Asher",
+      "helpful_votes": 0,
+      "publication_date": 20190324
+    },
+    {
+      "title": "Works wonders for my Pfsense box",
+      "text": "Installed in seconds and the drivers picked up immediately even in pfsense. Mine did not come quiet as shown as it has a metal casing around the port but it appears to be the same product regardless. Throughput is greater than the Realtek and TP-Link cards I had in before seemed to achieve so its highly recommended.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Slycamer",
+      "helpful_votes": 0,
+      "publication_date": 20190124
+    },
+    {
+      "title": "Does not work",
+      "text": "Buyer beware. The first unit I purchased did transmit 980 Mbps until it stopped working in less than 1 week. The replacement that I received only transmitted 98 Mbps. I installed the replacement in 3 different slots to confirm and then tested against my motherboard, which transmits over 450 Mbps. 2 bad board in a row should tell you something about the product.... good luck as I am returning this second and going with another vendor.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "PL",
+      "helpful_votes": 0,
+      "publication_date": 20190404
+    },
+    {
+      "title": "Great replacement for onboard",
+      "text": "This adapter really bailed me out when the onboard Intel NIC on my ASUS Z97-A failed. It was recognized immediately by Windows 7 and when I upgraded to Windows 10 there was no issue at all - runs perfectly with Intel's latest driver from March 2015 automatically installed. My speed with cable internet is exactly the same as the onboard LAN. I honestly don't need any special features the card may provide, but its great for the purpose I did need it for (saving me from sending my motherboard in for RMA).",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Jeffrey Morse",
+      "helpful_votes": 0,
+      "publication_date": 20150810
+    },
+    {
+      "title": "Nice network card",
+      "text": "Computer running win 10 recognized and installed necessary driver my old card would only get 30 to 35 Mbps. Thought it was comcasts fault, they tried to speed up but never increased. I figured I probably needed a new card. Now I get 160 to 175 Mbps. Happy camper now",
+      "rating": 5.0,
+      "verified": true,
+      "author": "R",
+      "helpful_votes": 4,
+      "publication_date": 20160303
+    },
+    {
+      "title": "It works very well!",
+      "text": "The network card shows an Intel logo, so contrary to some early reviews, this is as advertised. I have a Dell XPS 8700 that was not providing great download speeds using the original network card - about 90 MBPS compared to over 300 mbps on my laptop computer. This card plugged into an empty slot quite easily. I immediately ran another speed test - 450mbps instead of the former 90mbps. So, this was an outstanding investment.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Bruce B-Ev",
+      "helpful_votes": 0,
+      "publication_date": 20200412
+    },
+    {
+      "title": "Its a nic only does one thing",
+      "text": "I have a full-strength ethernet connection on my desktop PC I picked this card as Intel makes most of the chips a Network Card has to talk to, so I got a card from the same family.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Stephen B. Hale",
+      "helpful_votes": 0,
+      "publication_date": 20200322
+    },
+    {
+      "title": "They're too cheap for you to suffer with crap.",
+      "text": "The Killernetworking LAN port on my MoBo would flood the switch no matter what settings I changed. I plugged in the Intel (530TX anyone??) and there were zero issues. Four years of suffering with wireless only on a desktop fixed for twenty bucks. Done and done. The reputation on Intel NICs continues. They work. They're too cheap for you to suffer with crap.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Joe M.",
+      "helpful_votes": 0,
+      "publication_date": 20180710
+    },
+    {
+      "title": "Compatibility",
+      "text": "I use pfSense on a computer and needed a few vlans. Intel based network cards work without complications. I added them to a computer and they simply work. I bought a few more.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Newbully",
+      "helpful_votes": 0,
+      "publication_date": 20200215
+    },
+    {
+      "title": "I needed this for my FreeBSD home server since most ...",
+      "text": "I needed this for my FreeBSD home server since most systems don't support the Killer NIC that is onboard my motherboard, this really saved the day. My only issue is that it feels slightly loose and the color doesn't match my case, but I believe these are issues with my case more so than this NIC.",
+      "rating": 4.0,
+      "verified": true,
+      "author": "Shakyra",
+      "helpful_votes": 0,
+      "publication_date": 20170605
+    },
+    {
+      "title": "More than you expect for $30",
+      "text": "Minimal packaging no driver disc(a plus honestly). Downloaded latest from intel website install is easy but with a few software options I didn't understand until I looked them up online. Drivers are excellent and a lot of useful information is included about the options in the driver section that I found helpful. I upgraded from a Realtek on-board and I really did see a difference in gaming performance. You can get a similar product for less but this one is well worth those few dollars. It really does feel like no corners were cut. Great value and unexpectedly tweakable. Poor network card/drivers made my gaming frustrating at times and this card cleaned up a lot of that problem. Windows 7/64",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Rogue Two",
+      "helpful_votes": 2,
+      "publication_date": 20140601
+    },
+    {
+      "title": "Easy to install and works great!",
+      "text": "Easy to install and now I am finally able to take full advantage of my internet speed of 300 MB/sec from my wired connection! My PC has a built-in network card but it was only 100baseT.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Mark Marino",
+      "helpful_votes": 0,
+      "publication_date": 20171124
+    },
+    {
+      "title": "Have a Gigabyte mother board that the Lan connection stopped ...",
+      "text": "Have a Gigabyte mother board that the Lan connection stopped working. Tried every fix I could find on the internet, and nothing would fix the problem. Windows would not load driver, and would say network connection in deep sleep. When this arrived, took just minutes to install. Powered up the computer, and worked right away. No problems at all. Connected right away at 1 gigabyte speed too. Just wish I had purchased this 3 days sooner, rather than spend hours upon hours trying to get the motherboard network adapter to work. Well worth the money.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Bobby Carnicom",
+      "helpful_votes": 0,
+      "publication_date": 20140701
+    },
+    {
+      "title": "Decent card when your onboard Ethernet dies.",
+      "text": "You need to know some basic hardware knowledge in order to install this. Having that it should be fairly easy. Unfortunately for me I found out I had a dead pcie slot. However once it was installed in another slot it was recognized and immediately work.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Jphutch",
+      "helpful_votes": 0,
+      "publication_date": 20181022
+    },
+    {
+      "title": "Worth the cost",
+      "text": "I normally go for the cheapest components out there, but this is one case where it's worth paying a little more (and it's not really that expensive) My PC had a built-in Realtek NIC that would start dropping packets or disconnecting under load. I swapped it out for one of these, and haven't had problems since.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "fwr",
+      "helpful_votes": 0,
+      "publication_date": 20180113
+    },
+    {
+      "title": "Very easy install, Windows 10 pc picked the driver right ...",
+      "text": "Very easy install, Windows 10 pc picked the driver right away. I believe my integrated hardware was blown during the recent thunderstorm. Replacement was pretty easy and smooth.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Bimal Pati",
+      "helpful_votes": 2,
+      "publication_date": 20160831
+    },
+    {
+      "title": "... years and two different computer builds and it works like a charm",
+      "text": "I've had this adapter for over two years and two different computer builds and it works like a charm. No signal drops experienced so far and it has survived some power outages, at least 2 that I can recall. Provides good connection speeds (not that I necessarily max it out with my Comcast speeds anyway). Would recommend for your average internet user with Comcast at home :) Pros: Price and performance. Cons: None.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Midas",
+      "helpful_votes": 0,
+      "publication_date": 20160415
+    },
+    {
+      "title": "VERY FAST, VERY CHEAP...",
+      "text": "smokin' fast. was having speed problems with the onboard NIC on a new/fresh system. only posting 100Mbs in both windows and ubuntu. wasn't about to tear it back down to warranty the motherboard. intel to the rescue. 1000Mbs speed now. make sure you use INTEL drivers and not windows in device manager. make sure you are using \"e1000e\" drivers in ubuntu. all is good...",
+      "rating": 5.0,
+      "verified": true,
+      "author": "The End",
+      "helpful_votes": 2,
+      "publication_date": 20150915
+    },
+    {
+      "title": "Freenas",
+      "text": "When using freenas it works better with INTEL Nic and not realtek. Look at the reddit and forums. I tried to use Link Aggregation with this but Freenas does not let you do that since it is enabled on the switch.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Amazon Customer",
+      "helpful_votes": 0,
+      "publication_date": 20190320
+    },
+    {
+      "title": "Does the job",
+      "text": "I use these to bypass the onboard Dell ethernet jacks that are outfitted with the NSA backdoor system for accessing your computer stealthily using vPro, Intel ME, LILO, iDrac, MEBx nonsense, etc.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Josh S",
+      "helpful_votes": 0,
+      "publication_date": 20190429
+    },
+    {
+      "title": "getting on average better than 75MB/sec in file transfers",
+      "text": "I purchased this card when I was \"repurposing\" (\"semi-retiring\") a Linux workstation to be an internal firewall machine. On day one of the conversion I discovered that the TCP/IP port on the MB was dead, and I ordered this one. It came very quickly, and it works flawlessly at 1GB/s, getting on average better than 75MB/sec in file transfers. Highly recommended for Linux (RHEL6, Fedora FC20 & FC21) I haven't tried it on Windows and don't plan to, so I can't comment on its performance there.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Airedad",
+      "helpful_votes": 0,
+      "publication_date": 20150202
+    },
+    {
+      "title": "It worked so good that I if it was single and at a ...",
+      "text": "Installed in Windows 7 Pro (64 bit) when the computer booted up and I logged it, it instantly found the device and installed the driver. I am using this so I can connect to two networks at once. Setup was a breeze, the DHCP assigned it an address right away to 2nd network, and away I went networking and networking. It worked so good that I if it was single and at a networking event.... I would have hooked up with the bosses daughter, wife and mom.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Crazy Dave",
+      "helpful_votes": 0,
+      "publication_date": 20141204
+    },
+    {
+      "title": "Great Solution To A Simple Problem.",
+      "text": "Works as expected and works well. My 1GB ethernet port on my motherboard suddenly started linking as a 100Mb connection and I couldn't fix it no matter what. Threw this in my machine and got an instant 1GB connection to my router. Released the bottleneck and increased my speeds from 95Mbps to 230Mbps. Would recommend this product and would purchase again!",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Benio",
+      "helpful_votes": 0,
+      "publication_date": 20160629
+    },
+    {
+      "title": "Workes great",
+      "text": "I am using this adapter in a Debian Linux server and I have not encountered any issues. Setup was easy, the card has been super reliable, and being based on the Intel chipset, had native support in the kernel. Perfect, reliable, and exactly what I was looking for. Update: Later I utilized this card out of the box on a VMWare ESXi 6 server. ESXi is VERRRRRY fussy in supported hardware and this card worked flawlessly with no additional driver overloading required.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Miech",
+      "helpful_votes": 2,
+      "publication_date": 20140214
+    },
+    {
+      "title": "WARNING: maximum operating temp only 55C!",
+      "text": "This card while it may preform well has an absurdly low maximum operating temperature of 55C, meaning if you know your system gets hot this card isnt for you because its quickly going to degrade.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "Matthew Burghard",
+      "helpful_votes": 9,
+      "publication_date": 20170905
+    },
+    {
+      "title": "Died after two years of use.",
+      "text": "Worked great for two years but then died. Seems to me that something with no moving parts should last for more than 2 years.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "LARRY ROBERT JONES",
+      "helpful_votes": 0,
+      "publication_date": 20191022
+    },
+    {
+      "title": "It doesn't work",
+      "text": "I installed it at my PCI e slot and restarted my computer. It didn't show up at my device managerial lists. I reinstalled it at another PCI e slot, nothing happens. I had checked the bios and anything, spending 4 hours on it, then returning it.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "Jianfeyyu",
+      "helpful_votes": 0,
+      "publication_date": 20200103
+    },
+    {
+      "title": "Simple, basic, works!",
+      "text": "Slipped it into my machine running Windows 7. Configured automatically (though there's always that 'catch-22' with a NIC - you need internet access to have the autoconfiguration work - the system would not recognize the card or install a basic driver when I put the card in and disabled the onboard NIC). Throughput seems reasonable. Always difficult to tell exactly because I have switches in my home network - all Gigabit, but the speed can vary depending on other network factors. Definitely seeing a great improvement in accessing my RAID server over the network though.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Dan",
+      "helpful_votes": 0,
+      "publication_date": 20130703
+    },
+    {
+      "title": "Very pleased.",
+      "text": "Having been forced to replace my card in the Workstation after being hit by lightning, and my APC unit did not protect my whole computer, I was worried that I would be able to tell the difference between my old card and this one. Didn't happen. I cannot tell any difference. Delivery was quick, the part is quality, and I am happy!",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Janet McDonald",
+      "helpful_votes": 0,
+      "publication_date": 20161007
+    },
+    {
+      "title": "Windows 7 sees it right out of the box",
+      "text": "A recent storm fried a couple ethernet ports and cards at my church including the onboard ethernet in a Dell Vostro 460. Unfortunately, the 460 only has PCI-E slots and our stash of PCI ethernet cards was useless. The Intel Gb PCI-E was a great, cost effective solution for us. I disabled the dead onboard ethernet and installed this in a free PCI-E slot and was back on the network in minutes. The OS is Win 7 64 bit and it already had a driver for the card. I ran Windows Update and it found an updated driver which I installed also.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Regular Joe",
+      "helpful_votes": 0,
+      "publication_date": 20121205
+    },
+    {
+      "title": "Rock solid performance so far",
+      "text": "I like that it is as long as the slot and not very tall. It has two mounts - one for a short opening and one for a regular sized opening.",
+      "rating": 4.0,
+      "verified": true,
+      "author": "Dave Allmon",
+      "helpful_votes": 0,
+      "publication_date": 20190813
+    },
+    {
+      "title": "Linux-compatible",
+      "text": "I bought this for my Lenovo ThinkServer TS-140 because I needed a second NIC to make this machine dual-homed. I am running CentOS 6.6 distribution of Linux as the operating system on this server. No problems. All I had to do was edit the script file that configured the NIC card as \"em1\" and do a \"service network restart\". It was recognized and activated without any additional effort, so if you're concerned whether this card will work with Linux, it works just fine for me.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Raymond A. Boegen",
+      "helpful_votes": 3,
+      "publication_date": 20150205
+    },
+    {
+      "title": "Great fix for Wi-Fi issues",
+      "text": "Hardwired to my router to get around Dell's crappy Wi-Fi chip. (note Dell XPS line will default to Wi-Fi even when hardwired to the Ethernet port, when cabled to this you can bypass that, if you are constantly having to \"repair wireless connection\" or \"reboot PC\" to use the internet this is your fix) Install and if the PC doesn't have the driver in it go to Intel site and download it. Works great on speed, never use Wi-Fi on a desktop again.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Semi Hysterical  in Ky",
+      "helpful_votes": 0,
+      "publication_date": 20150609
+    },
+    {
+      "title": "Good Card.",
+      "text": "My onboard network card kept dropping my connection, so I ordered EXPI9301CTBLK to fix the problem. It seems to be much faster than my old one and I hand no problem installing it and down loading the drivers. My internet is not fast enough to get the full performance but it is still faster than before so I am happy with it.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Tim Williams",
+      "helpful_votes": 0,
+      "publication_date": 20141126
+    },
+    {
+      "title": "This adapter got me back online!",
+      "text": "The network adapter that came with my Dell XPS 8300 began to fail several weeks ago. After doing some research, I found that I could either replace the motherboard, because the failing Broadcom adapter was soldered to it, or purchase and install this Intel adapter. Spending $30 and a few minutes of time installing a new adapter seemed like the best way to go, and it works beautifully! Many thanks to everyone on Amazon and on the Broadcom forum who took the time to discuss the \"XPS 8300 problem\" and leave reviews. You helped me figure out how to get back online!!!",
+      "rating": 5.0,
+      "verified": true,
+      "author": "BinCO",
+      "helpful_votes": 0,
+      "publication_date": 20130217
+    },
+    {
+      "title": "Works With Current FreeNAS Version",
+      "text": "Bought this to replace the onboard Realtek (garbage) NIC in my FreeNAS box. Working just fine. Price was good",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Cole Green",
+      "helpful_votes": 0,
+      "publication_date": 20200427
+    },
+    {
+      "title": "It works for me",
+      "text": "When my on board LAN port pooped out, this did the trick. Plug and play with windows 7 64 bit. Driver installed on it's own at boot up. Plugged in the ethernet cable and, internet connection again.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "TomM",
+      "helpful_votes": 0,
+      "publication_date": 20180702
+    },
+    {
+      "title": "Dissapointing",
+      "text": "Works as far as allowing me to get connected to the web but the drivers aren't compatible with Windows 8.1 so you'll never get the full power this thing brings. With only the driver windows installs automatically my integrated killer nic is actually a bit faster. Grant you I have a pretty high end PC so that won't be the case for others. Never the less it wasn't worth it to me to keep so I sent it back.",
+      "rating": 3.0,
+      "verified": true,
+      "author": "Justin M.",
+      "helpful_votes": 0,
+      "publication_date": 20150707
+    },
+    {
+      "title": "Worked like a charm (most intel lan products do).",
+      "text": "The onboard MOBO LAN in one of our office computers was going out resulting in some network issues. So we installed this LAN card to fix the issue. Worked perfectly. Over the last 20 years, we have used a number of different brands of network cards but over the last 10 years have used Intel Lan cards exclusively as we have always been able to trust them for quality and reliability. I'm not sure they are the fastest, but for near bulletproof reliability, we have always been able to count on them to keep our business running.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Contrary One",
+      "helpful_votes": 0,
+      "publication_date": 20121128
+    },
+    {
+      "title": "Loving the speed!",
+      "text": "The card I have been using for the past 3 years blew out during a lightning storm... So far this adapter works great, fast, and was easy to install on both software and hardware.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Jeremiah Nunez",
+      "helpful_votes": 0,
+      "publication_date": 20181007
+    },
+    {
+      "title": "Set up fast, works fine",
+      "text": "I opened the case, plugged it into an available PCI slot and Windows found it right away. The only potential difficulty is that you need an Internet connection to get the driver for Windows XP. I just used the old existing motherboard 10/100 connection that this board was replacing, but if the new board is your only connection, you'll have a problem. Once Windows installed the board, I switched the Ethernet wire to the new board and got a 1 gigabit connection right away. I disabled the old connection through control panel and was done.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "JerseyJohn",
+      "helpful_votes": 0,
+      "publication_date": 20121006
+    },
+    {
+      "title": "Four Stars",
+      "text": "have Comcast with high speed internet. If you don't upgrade your computer card it will not allow full speeds.",
+      "rating": 4.0,
+      "verified": true,
+      "author": "Larry Hofmeister",
+      "helpful_votes": 0,
+      "publication_date": 20180304
+    },
+    {
+      "title": "Just Works",
+      "text": "Plugged it into a pci-e slot, disabled the onboard nic in bios, and fired up Kubuntu 18.04. Kubuntu picked up the card, loaded the driver, and off she went.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "HWO",
+      "helpful_votes": 0,
+      "publication_date": 20181222
+    },
+    {
+      "title": "nice network cards",
+      "text": "nice network cards that are even VLAN capable after you download the drivers from intels website. The included drivers in win 7/10 do not have that functionality, but will still work with the OS drivers.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "David",
+      "helpful_votes": 0,
+      "publication_date": 20180216
+    },
+    {
+      "title": "Works in Windows 10; 990Mbits",
+      "text": "Works in Windows 10 and I managed to squeeze 990mbits out of it.. What more can I say??",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Janie",
+      "helpful_votes": 0,
+      "publication_date": 20200901
+    },
+    {
+      "title": "Great network card I have used for years",
+      "text": "This is a great network card that can be used in basically any desktop. Comes with low profile and high profile bracket to fit any system. Works fine with both linux and Windows.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Aegis IT",
+      "helpful_votes": 0,
+      "publication_date": 20181008
+    },
+    {
+      "title": "this network adapter works very well but the only complaint ...",
+      "text": "this network adapter works very well but the only complaint I would have about it is that it wont activate fully until windows has completely loaded up. I am sure that this is due to the fact that it is an add-on card and not due to any malfunction of the card. some of the higher functions of windows wont work because of this fact.",
+      "rating": 4.0,
+      "verified": true,
+      "author": "Supersonic Dave",
+      "helpful_votes": 0,
+      "publication_date": 20160514
+    },
+    {
+      "title": "No brainier.",
+      "text": "It's an Intel NIC. No need to say anything more. Installed it on my Dell XPS. Why would I do that? Dell had saved a few pennies and installed a garbage realtek NIC which gave me nothing but trouble.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Bryan",
+      "helpful_votes": 0,
+      "publication_date": 20181030
+    },
+    {
+      "title": "Nice Product, Easy Install",
+      "text": "I've seen others' comments indicating this card didn't need drivers; that wasn't the case with me, as I had to navigate to Intel's site on another computer to get the software (it doesn't come with the card). I was troubleshooting an iffy network connection on a Dell desktop and needed to ensure its built-in ethernet card was working properly. Turned out to be another issue, but this Intel--once the drivers were installed--is really a rockin' card.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Bruce P. Barker",
+      "helpful_votes": 0,
+      "publication_date": 20140207
+    },
+    {
+      "title": "Superior performance",
+      "text": "My desktop is now has super fast speed. This card does the trick.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Loves music",
+      "helpful_votes": 0,
+      "publication_date": 20201023
+    },
+    {
+      "title": "A cheap, refreshing upgrade for any older PC's being used today.",
+      "text": "Working well. Brought gigabit speeds to an old PC running as a NAS for my home. Makes file transfers much quicker than the old standard 10/100mbps. Amazing how time flies. The price is right and fits into a 1x pci-e.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "FS",
+      "helpful_votes": 0,
+      "publication_date": 20180618
+    },
+    {
+      "title": "Stop wasting time.  Buy this now!",
+      "text": "This card has never failed me in three years. I recently had a motherboard network adapter fail on a different computer and naturally, I went with this one again. Not ttry to save a few bucks with a Realtek chipset. It's just not worth the hassle.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Gary Wool",
+      "helpful_votes": 0,
+      "publication_date": 20160721
+    },
+    {
+      "title": "Does the job but I don't see any difference from ...",
+      "text": "Does the job but I don't see any difference from the one built into Motherboards these days. But, If you don't have network adapter, this is your fix that is if you have an open PCI-E slot.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "G. L. Brewer",
+      "helpful_votes": 0,
+      "publication_date": 20171110
+    },
+    {
+      "title": "Stopped working after two weeks",
+      "text": "Stopped working after two weeks. We returned item for refund. Will look somewhere else for new card.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "W. Nelson",
+      "helpful_votes": 0,
+      "publication_date": 20190406
+    },
+    {
+      "title": "Just what I needed...",
+      "text": "Excellent product! Shipped fast, arrived very well packaged, installed quickly and drivers automatically installed. HP Slimline back up and running! Couldn't be happier. Definitely recommend this product.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Outlaw Starwind",
+      "helpful_votes": 0,
+      "publication_date": 20171209
+    },
+    {
+      "title": "Great fix.",
+      "text": "Had the network port go out on my old motherboard so I put this unit in. Upon boot there was a quick automatic setup/recognition and it has worked perfectly since. Amazing speed and performance. Worth the money and cheaper than MoBo replacement.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Cigar Smoke",
+      "helpful_votes": 0,
+      "publication_date": 20160729
+    },
+    {
+      "title": "Not sure if its new, never ran above 100Mps.",
+      "text": "Arrived warped, never ran above 100Mps. It should have been 1Gmps. Ordered a different brand and it fired up at 1GMps right away. I`m not sure this was used or new",
+      "rating": 2.0,
+      "verified": true,
+      "author": "dgpee",
+      "helpful_votes": 0,
+      "publication_date": 20191010
+    },
+    {
+      "title": "Great Value",
+      "text": "Great product slim profile and easy to install. Worked immediately on my 7 year old PC",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Aaron K.",
+      "helpful_votes": 0,
+      "publication_date": 20200118
+    },
+    {
+      "title": "Fantastic card. Using it for Ubuntu and haven't had ...",
+      "text": "Fantastic card. Using it for Ubuntu and haven't had any problems. Replaces the built-in Realtec NIC on the MB that was having intermittent problems.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "R. Nelson",
+      "helpful_votes": 0,
+      "publication_date": 20161231
+    },
+    {
+      "title": "Intel NIC",
+      "text": "Genuine Intel NIC. Works as advertised. Would not expect anything different from a brand like Intel. This item was purchased, I did not receive any discount, promotion or free merchandise to review this item.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Amazon4life",
+      "helpful_votes": 0,
+      "publication_date": 20160828
+    },
+    {
+      "title": "When you need more than a \"regular\" network adapter",
+      "text": "I bought a couple of these to replace the onboard motherboard NIC's on a couple of home made servers for my home lab. One of the machines runs VMWare ESXi 5.1 and the other runs Windows Server 2012. Both Hypervisor and operating system respectively recognized the network adapter without problems and it was a breeze to replace the onboard NIC's with this adapter instead. I will be buying a couple more for the Linux server and desktop I have since these work flawlessly with Linux as well. A recommended replacement when you run into issues or limits using onboard network adapters.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Kveld\u00dalfur",
+      "helpful_votes": 0,
+      "publication_date": 20130902
+    },
+    {
+      "title": "... the box and fixed my brothers computer trouble just fine. (His motherboard ethernet port was either dead or ...",
+      "text": "Worked straight out of the box and fixed my brothers computer trouble just fine. (His motherboard ethernet port was either dead or seriously malfunctioning. So why not replace the wireless PCI-E card he fried with a solid intel network adapter? Tip: Don't turn on your computer without the antennae for your wireless card. It's not exactly good for its health. :P",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Peter J. Brydon",
+      "helpful_votes": 0,
+      "publication_date": 20160331
+    },
+    {
+      "title": "Easy to install. Plug and Play",
+      "text": "Easy to install. Plug and Play for Windows Vista. Nice! No CD or other drivers need to be installed. About one minute after installing and booting the computer, internet access was available. By the way, the computer already had a network interface as part of the motherboard, but that network interface stopped functioning. When I installed this network adapter, it worked without having to turn off the integrated network interface.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "bob fox",
+      "helpful_votes": 0,
+      "publication_date": 20130708
+    },
+    {
+      "title": "Works with ESXI 6.0",
+      "text": "Had to buy this for an ESXI build that was wanting an officially supported network card. Inserted this guy and ESXI installed without any further troubles.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Daniel Frantz",
+      "helpful_votes": 2,
+      "publication_date": 20160928
+    },
+    {
+      "title": "Just what I wanted",
+      "text": "Fit and worked fine. I needed a second NIC and this card installed in Win 10 V1909 just fine.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Retired Computer Tech",
+      "helpful_votes": 0,
+      "publication_date": 20200111
+    },
+    {
+      "title": "Great network adapter!",
+      "text": "This network adapter is working better than the one on my motherboard that started to take a crap on me, couldnt be happier with this purchase and I will be dominating as planned once Battlefield 1 is relieased!",
+      "rating": 5.0,
+      "verified": true,
+      "author": "D. M. Castro",
+      "helpful_votes": 0,
+      "publication_date": 20160822
+    }
+  ],
+  "product_meta": {
+    "title": "Intel Gigabit CT PCI-E Network Adapter EXPI9301CTBLK",
+    "description": "Intel Gigabit CT PCI-E Network Adapter EXPI9301CTBLK",
+    "rating": 4.4,
+    "feature_bullets": [
+      "Intel Gigabit CT PCI-E Network Adapter EXPI9301CTBLK (bulk)"
+    ],
+    "specifications": {
+      "Product Dimensions": "0.5 x 0.5 x 0.5 inches",
+      "Item Weight": "3.52 ounces",
+      "ASIN": "B001CY0P7G",
+      "Item model number": "EXPI9301CTBLK",
+      "Customer Reviews": "4.4 out of 5 stars1,228 ratings4.4 out of 5 stars",
+      "Best Sellers Rank": "#21 in Internal Computer Networking Cards",
+      "Is Discontinued By Manufacturer": "No",
+      "Date First Available": "September 21, 2008",
+      "Manufacturer": "Intel",
+      "Language:": "English"
+    },
+    "categories": [
+      "Computers & Accessories",
+      "Network Cards",
+      "Internal Components",
+      "Computer Components",
+      "Electronics"
+    ],
+    "price": 32.99
+  }
+}

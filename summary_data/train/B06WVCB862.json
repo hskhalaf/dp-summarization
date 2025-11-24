@@ -1,0 +1,966 @@
+{
+  "website_summaries": [
+    {
+      "verdict": "The M5 is reliable and packs more useful features than most Wi-Fi systems in its price range.",
+      "pros": [
+        "The Deco M5 Whole-Home Wi-Fi System is easy to use and delivers reliable Wi-Fi over a large area",
+        "The system has more features than most other systems, including the ability to protect the entire network against online threats"
+      ],
+      "cons": [
+        "The M5 doesn't have a dedicated backhaul band, so it suffers from signal loss when its units are linked together wirelessly",
+        "It connects to TP-Link at all times and there's no access point mode for it to work well with an existing router"
+      ],
+      "aspects": {
+        "Setup": 8.0,
+        "Features": 8.0,
+        "Performance": 8.0
+      },
+      "publication_date": 20170412,
+      "rating": 8.0,
+      "source": "cnet"
+    }
+  ],
+  "customer_reviews": [
+    {
+      "title": "Replace my Apple router",
+      "text": "I am so deeply entrenched in the Apple eco system. I hated to take down my Apple AirPort Extreme router, but I was tired of trying to get WiFi throughout my whole house because I couldn\u2019t find a range extender that did the job, and I tried several. I swallowed my pride and replaced Apple with this TP-Link Deco, and am I ever glad! 20 minutes start to finish, three units on two floors. Easiest setup ever, and flawless. Max WiFi everywhere in house. Speed of WiFi exactly same as speed of modem. Great job, TP-Link!",
+      "rating": 5.0,
+      "verified": true,
+      "author": "John",
+      "helpful_votes": 180,
+      "publication_date": 20180825
+    },
+    {
+      "title": "Worked for an hour.",
+      "text": "Right after I installed the main unit and one satellite, I lost the internet due to the ISP. Unfortunately, the units would not support the LAN. My Plex server was unreachable, etc. The Internet came back but the units seem to be bricked. They were very fast while they worked. However, I'm ready to pack them up if I can't reset them. It's ridiculous that the LAN goes down if the internet is unreachable.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "L. Autry",
+      "helpful_votes": 30,
+      "publication_date": 20180911
+    },
+    {
+      "title": "AVOID if doing anything beyond the basics",
+      "text": "For doing whole home wifi with the most basic setup,it's fine. The moment you try to do anything beyond that the mobile-only management + inept customer support team will have you regretting this purchase. A simple example: You can't port forward to a static IP device. In AP mode it says it has no internet, even though it does. But it passes that (incorrect) knowledge along to android devices, resulting in your phone defaulting back to mobile data, your chromecast going berserk, etc. Would return if I could, the most disappointing tech purchases I've made in a long time.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "Mark Frnk",
+      "helpful_votes": 15,
+      "publication_date": 20190105
+    },
+    {
+      "title": "WiFi Everywhere!",
+      "text": "My home seems to be built like a prison. The only reception I had was on the first floor near the router. It's a small home but the walls are dense. Couldn't even get reception in the kitchen or upstairs. With the deco system, I finally have signal everywhere! I love it! Setup was very easy with the app! Only reason for four stars is that sometimes the decos go down (possibly due to my modem) and they take a while to restart. Otherwise I'm extremely happy with this product!",
+      "rating": 4.0,
+      "verified": true,
+      "author": "hashmaster3k",
+      "helpful_votes": 9,
+      "publication_date": 20180823
+    },
+    {
+      "title": "You're On Your Own!",
+      "text": "The only thing lacking more than documentation is customer service. I'm a tech professional and it has been challenging working through issues. I could not recommend this as a consumer product unless you are friends with a techie that is willing to spend the time with you if anything goes wrong or isn't working correctly. That said, once working properly, it works well. There are many things to love about this product. However, again, the lack of documentation on advanced features and the lack of support, even in the forums, forces me to remove a couple of stars.",
+      "rating": 3.0,
+      "verified": true,
+      "author": "STEVEN G.",
+      "helpful_votes": 11,
+      "publication_date": 20190915
+    },
+    {
+      "title": "Great coverage and easy setup!",
+      "text": "The Good The Deco M5 Whole-Home Wi-Fi System is easy to use and delivers reliable Wi-Fi over a large area. The system has more features than most other systems, including the ability to protect the entire network against online threats. The Bad The M5 doesn't have a dedicated backhaul band, so it suffers from signal loss when its units are linked together wirelessly. It connects to TP-Link at all times and there's no access point mode for it to work well with an existing router. The Bottom Line The M5 is reliable and packs more useful features than most Wi-Fi systems in its price range.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Tristan",
+      "helpful_votes": 2,
+      "publication_date": 20201012
+    },
+    {
+      "title": "Warning Obsolete security \"WPA/WPA2 (TKIP) is not considered secure\"",
+      "text": "10/23/2020 update. The firmware update has fixed the security problem. Updating to 4 stars - network still working well. The network part works fine. However, the M5 has an old security that your Iphone and other devices will flag as weak security. Error message \"WPA/WPA2 (TKIP) is not considered secure\" and your devices will not connect to the network automatically. I can not believe that they selling this as a current product. The website says a firmware update is coming... it better be coming in the next 10 days because that is when I will be returning to stay in the return window.",
+      "rating": 4.0,
+      "verified": true,
+      "author": "Mason",
+      "helpful_votes": 2,
+      "publication_date": 20201005
+    },
+    {
+      "title": "Loses connection if you move your devices",
+      "text": "I keep losing signal while I walk with my laptop from one room to another, probably the mesh does not hand-off properly between devices I see signal while I move, but lose signal a minute later and then it reconnects (the hand-off between M5s) Noticed this with my mobile too In a way, it's counter intuitive to why you buy a mesh Update: Got it replaced with M9 and all is well. Suggest trying it instead.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "NVK",
+      "helpful_votes": 6,
+      "publication_date": 20181010
+    },
+    {
+      "title": "Not a contender.",
+      "text": "I\u2019ve had 3 units in 2,600 square foot home for almost a year now and it\u2019s never work as advertised. We rely on calling over WiFi, well the calls drop intermittently. The same goes for the WiFi portion, that drops from time to time as well. The lack of logs makes troubleshooting impossible. I would never recommend this set to anyone.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "Mark Conge",
+      "helpful_votes": 6,
+      "publication_date": 20181120
+    },
+    {
+      "title": "Great value for the price",
+      "text": "Installation was breeze, except for the step where it asked \"What type of internet connection do you have\" It is very challenging to contact my ISP (Spectrum). Worked well with Spectrum Ubee EU2251 modem. I have 3 units on three different floors. Using speed tests (SpeedTest app), I have measured Upload/Download speeds of 22.3/459 Mbps next to my cable modem (basement); 21.4/131 on the first floor and 20.0/87.5 on the second floor. 21.5/72.3 outside on the deck. It certainly does not deliver the 400+ speed throughout the house, but it way better than using extenders or AT&T's wireless units. Speeds are sufficient for multiple wireless TV, iPad and phone applications.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "ttfan",
+      "helpful_votes": 3,
+      "publication_date": 20200903
+    },
+    {
+      "title": "This system never worked",
+      "text": "I purchase this tp link deco mesh system to get better movie streaming on our bedroom and living room, and facetime. Since we hooked it up it has been no more effective than just using our Linksys router. Our download speed averages 70, upload about 5.5, so this should not be an issue. It also conflicted with our TV's networking, showing the same network multiple times, this would not allow us to download old movies and tv series. I purchased the system on December 16, 2018, for Christmas, I have worked with their support team since January 6, 2019, to no avail. Very disappointed with this product and the money spent for nothing.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "Gail Morales",
+      "helpful_votes": 3,
+      "publication_date": 20190530
+    },
+    {
+      "title": "Insurmountable Shortcomings",
+      "text": "We purchased the 3-pack and found setup to be annoying as the stations could not detect each other until the third try when Bluetooth became an option. Further, only 2 of the 3 Deco M5 units were functioning. While the signal for the 2 functioning units were decent enough for an apartment, having a dead on arrival 3rd unit was irritating. Troubleshooting with TP-Link for the 3rd unit was extremely basic and did nothing beyond reading what the setup screen said in the phone app. After a few hours of DIY and another few hours of TP-Link tech support and RMA over the phone, we gave up and returned the product for Google Wifi.",
+      "rating": 2.0,
+      "verified": true,
+      "author": "Anthony T.",
+      "helpful_votes": 3,
+      "publication_date": 20180920
+    },
+    {
+      "title": "Better late than never",
+      "text": "I wish I would\u2019ve invested in a mesh WiFi system a while ago. This was well priced and so far, works good. The app to connect these is a easy and very user friendly. I hooked these up in a matter of 10 minutes, and that was me taking my time. I used one of the nodes as the router vice hooking it up to my replaced router and I get the speeds I was getting before. No problems so far and I don\u2019t expect to have any. I had an update of few days ago and it made the app easier and more informative. Definitely recommend for a budget mesh.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Ron M",
+      "helpful_votes": 2,
+      "publication_date": 20190711
+    },
+    {
+      "title": "Nothing not to like, seems rock solid so far",
+      "text": "Set up 3 units on 3 different floors in literally 10 minutes. The app is very well designed. This eliminated any dead spots and now provides completely trouble free connection even for devices that had poor wifi performance -- such as our security camera which is outside a brick wall from the house. A wifi printer with a weak radio that never worked well before is now rock solid. I can't compare this with other mesh systems but in my expereince it's first rate. The app provides very easy configuration and customization. I like the security features. And the price is very reasonable for a major brand mesh system.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Tom B",
+      "helpful_votes": 0,
+      "publication_date": 20201010
+    },
+    {
+      "title": "Great mesh wi-fi",
+      "text": "Ordered a 3 pack several weeks go, arrived as expected and in perfect condition. Unboxed, read instructions for about 10 seconds, downloaded the app, configured the 1st unit in less than a minute, once I placed the other two units round our villa whole thing was up and running with blazing speed in about 5 minutes. I also left my existing U-verse wi-fo active as I have about 20 smart home devices connected to it, so far with both sets of wi-Fi operating together everything is working much better than before. The app is great and very simple to configure and monitor all the connected devices. I would highly recommend this product.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "R. Kramer",
+      "helpful_votes": 0,
+      "publication_date": 20200911
+    },
+    {
+      "title": "Too Hot",
+      "text": "I installed the system and it works very well. Good range. Not too difficult to install and directions are pretty good. The problem I have is that the three routers get very hot. I measured the bottom surface with an infrared sensor and got readings between 130 degrees F and 155 deg F. I am concerned and won't put them on top of wood furniture. I am also concerned about premature failure of components. Electronics manufacturers often \"burn in\" products at similar high temperature to force weak components to fail before they ship them to customers. I hope I am not in the market to buy another system in a few months due to premature failure.",
+      "rating": 3.0,
+      "verified": true,
+      "author": "D. Frank",
+      "helpful_votes": 0,
+      "publication_date": 20200801
+    },
+    {
+      "title": "Instant profit",
+      "text": "Just installed this Mesh system in my Automotive Repair shop. We run all digital software and inspections and can't get a signal outside the building more than 10-20 feet. When we're outside its painful to load info and pics from our ipads. This installed in 1 hour including mounting, setting 3 units up, updating the firmware, and getting everyone on the new network. Amazing! I loaded a pic and vehicle inspection 60 feet from the building in about 3 seconds. Used to take 10-30 secs if it worked at all without having to run inside. This is going to pay for itself in a few days with the increased efficiency.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "DS - SA",
+      "helpful_votes": 0,
+      "publication_date": 20201012
+    },
+    {
+      "title": "I AM BEYOND HAPPY!!!!!!",
+      "text": "This is AMAZING!!!! Our internet provider wanted us spend $20 a months for the rest of our plans life to rent a router,we didn\u2019t want to do that so the customer care agent suggested we buy our current router on Amazon, the 1st photo shows our internet with the new router suggested by C@x by the way, but instead I heard about this product and I researched it on Amazon, Google, etc. We are super happy that we didn\u2019t have to upgrade our our router yet again because the 2nd picture speaks for itself, just AMAZING!!!!! I totally recommend you buy this before you give your hard earn money to those criminals at the internet companies.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Gina E. Lau",
+      "helpful_votes": 0,
+      "publication_date": 20200821
+    },
+    {
+      "title": "Quality, easy, reliable, and powerful!",
+      "text": "Amazing solution for any multi level home with modem at one end of house. I have this unit set up with each router on a different level of the home. I went to weak signal on top level (modem in basement) to full signal in every inch of the house. In fact, I get full signal outside of house now to edge of property 1/3 acre. And still get signal almost block away. This unit is powerful. Also, the customization options as you get advanced are plentiful. I would recommend this mesh network to anyone. I was able to make my home a full smart home, but only after improving Wifi through this unit.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "J. B.",
+      "helpful_votes": 0,
+      "publication_date": 20200820
+    },
+    {
+      "title": "Hot piece of junk if you need anything remotely advanced",
+      "text": "Things that you cannot do: cannot assign/reserve a IP address explicitly for a sole device. LAN network segment actually changes on every reboot (e.g. 192.168.68.x to 192.168.13.x). cannot disable the DHCP server altogether (no pi-hole). cannot resolve local device names such as i cannot look up my printer by name, must use IP address which happens to have it's IP changed every time the deco is reboot due to bug #2). These basic flaws and missing features that have been available on every router since 2002 has me returning this thing after 90 minutes of futzin. i really wanted this to work.",
+      "rating": 2.0,
+      "verified": true,
+      "author": "Jay Agey",
+      "helpful_votes": 0,
+      "publication_date": 20191017
+    },
+    {
+      "title": "Full Wi-Fi coverage in 15 minutes",
+      "text": "I was doubting the ease of installation which TP promoted, however, it installed exactly as instructed in the app and took about 15 minutes in total. Everything worked perfect on the first and only time thru the app. I finally have complete Wi-Fi coverage in my entire home( 5 bars everywhere) including the area around the outside of my house. I have had different routers and extenders and nothing has worked this well. I especially like the app and the options it gives me plus never having to connect to different Wi-Fi access points in my house when moving around.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "W. Mutter",
+      "helpful_votes": 0,
+      "publication_date": 20200828
+    },
+    {
+      "title": "Grea router.",
+      "text": "So far, this product seems to be working well. We live in rural VA and internet options have not been good at all. We recently went with InfinaSky and although it is higher speed it was not reaching the other end of the house. Our home is not big but long. The internet enters at one end and my computer and the TV are at the end. Lots of walls, microwave, etc. in between the two. My computer is working somewhat faster and the streaming on the TV has not showed weak signal messages since we installed TP-Link. We are probably set up as well as we can be under the circumstances.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Barbara",
+      "helpful_votes": 0,
+      "publication_date": 20200628
+    },
+    {
+      "title": "DO NOT BUY- MOVE ALONG TO ANOTHER PRODUCT",
+      "text": "Purchased on May 12, 2019. Begin to have connection issues with the units by Mid July. Spent several long sessions with Amazon Tech support and TP link tech support. Still don't have RMA to send back/replace. We constantly have to reboot and try connection- just isn't working. Speeds are 1.15, 1.54 and 1.46 Mpbs with speed test. At connection speed test is registering 115.4 Mbps downloads. Save the aggravation, time and money-DO NOT BUY-LOOK AT OTHER PRODUCTS!!!",
+      "rating": 1.0,
+      "verified": true,
+      "author": "C. Rooney",
+      "helpful_votes": 4,
+      "publication_date": 20190721
+    },
+    {
+      "title": "Get What you Pay For",
+      "text": "Bought due to good price point as I update cable modem and wanted complete house coverage of WiFi. Out of the box, went through app-based setup but stalled at last step as unable to connect to internet, tho Ethernet ports on modem were live. States 24/7 Tech support but the after-hour chat is only robot responses and phone support also has limit capability to troubleshoot. After a few hours looking for solutions online and and after tech support told me on Friday, it will escalate to someone on Monday, decided it was time to return and look at alternatives.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "Fred Flintstone",
+      "helpful_votes": 0,
+      "publication_date": 20200104
+    },
+    {
+      "title": "Needed these a year ago!",
+      "text": "We have fiber internet with 900mbps+ speeds up and downloading. However, there were dead spots in our house. Dead like a lead box dead. Also as we added more and more WiFi devices the dead spots invited friends to create new dead spots. After trying WiFi extenders with no luck we purchased these round saucers filled with special powers. WOW! Dead spot free, dropped signal free...wifi ghost free! Oh so happy!!!",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Coley",
+      "helpful_votes": 2,
+      "publication_date": 20191112
+    },
+    {
+      "title": "Phenomenal coverage; very easy setup",
+      "text": "I had a Netgear Nighthawk x6 R9000 router (looks like a drone) and couldn't get a good, consistent wifi signal within my 1200 sf apartment, so purchased an extender. Both are garbage. Don't waste your time and money. Too bad, Netgear is now off my list. On my list, now, is this TP-Link AC1300 (M5) mesh router. Phenomenal coverage and such easy setup. Very attractive and well-priced. Perhaps my only, very small, issue, is that when you name connected devices, the name doesn't always show up in the list on the app. Still, so, so happy and goodbye crappy Netgear. Thank goodness for honest reviews on this router. It's been a lifesaver.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "R. Arnold",
+      "helpful_votes": 0,
+      "publication_date": 20200525
+    },
+    {
+      "title": "Solid Red LED Error and nothing else",
+      "text": "I've tried setting this thing up for two hours now and no combination of resetting the router, switching to a different one out of the three, resetting the modem, switching which ethernet cable is used, nothing....everytime during the create network step it gives a solid red LED on the device. App doesn't return any errors, just sits there spinning trying to connect. Tried checking for help on their website and it puts you through an automated chat bot thing that is completely useless and at this point I gave up and submitted it for return.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "Matt Schrum",
+      "helpful_votes": 0,
+      "publication_date": 20200502
+    },
+    {
+      "title": "Guest network isn't secure",
+      "text": "While I really like this system, and it is easy to use, the guest network is not secure at all. I have the setting to turn on isolation from the main network, but I can still see other devices by navigating to their ip address or using an ip scanner if I am connected to the guest network. I am seeing all devices, whether or not they are connected to the main network or guest network, FROM the guest network. I was even able to navigate to my main router since these are in AP mode. Not secure AT ALL.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "Amazon Customer",
+      "helpful_votes": 0,
+      "publication_date": 20200915
+    },
+    {
+      "title": "Dual band M5 Decos work great when using the ethernet backhaul",
+      "text": "Three M5 decos are working great in my 3500+ two story house to support all my wireless devices (~15 with all the echos, fire sticks, phones, and laptops). I have each of them plugged into an ethernet port in the room they are in so am using the ethernet backhaul capability which frees up wifi bandwidth for actual usage. Even better is that since I no longer have FIOS TV, I can use one of the Decos as the router for the whole house and stop paying the lease fee on the FIOS router.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Keith",
+      "helpful_votes": 2,
+      "publication_date": 20200719
+    },
+    {
+      "title": "Glad I picked this instead of Nest wifi. cheap and amazing",
+      "text": "Router was extremely easy to set up.... Like really easy. Wifi works great. I get 260mbps speed on my cell phone with 500mbps internet. The pucks look decent and blend in. Don't plan on using this as a smart home though. You can only add tplink switches or Phillips hue. The app for this router is also very quick and intuitive. It's easy to manage who connects to wifi and to set priority devices. I'm so glad I saved money in this instead of going with the nest router.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Jon",
+      "helpful_votes": 0,
+      "publication_date": 20200811
+    },
+    {
+      "title": "Good solution to poor signal strength in long house",
+      "text": "Speed tests for the deco m5 are about 8% faster than the router it's plugged into when tested within a few feet of the two! 25 Mb/s from the router and 27 from the m5. Figure that one out. My house is long and narrow, with several walls between the bedroom on one end, where the router is, and the other end of the house where the garage is. With the router, there's barely a signal in the garage. Not enough to support a camera. With the m5, the signal strength in the garage is about 90% of what it is at the base unit. I'm very pleased with the performance.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "OY!  Ahsscheeks!",
+      "helpful_votes": 0,
+      "publication_date": 20190713
+    },
+    {
+      "title": "Super easy setup and very intuitive app",
+      "text": "I rarely write reviews for Amazon purchases but feel I need to for this product. My wifi in my house was spotty and disconnected me from the various routers and extenders I had cobbled together. I bought this product based off other\u2019s reviews and it didn\u2019t disappoint. The setup of this router can\u2019t be easier. It\u2019s almost grandma proof. The app you use to set things up is super intuitive and very easy to follow along with. The only thing I could see someone complaining about might be the lack of advanced nerdy settings you can have but if you just want to keep it simple and have strong seamless wifi in the house this is an amazing product.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Brian Amos",
+      "helpful_votes": 0,
+      "publication_date": 20200928
+    },
+    {
+      "title": "Waste of money. Worst router I ever had",
+      "text": "I had issues with my WiFi and needed to get into the setting but all i have is a tablet that used the WiFi to connect to the internet. See the issue here. There is no reason they need you to log into their website to control something local to you. I can only imagine the data they are collecting and selling about everyone. I saw less signal strength with three of these around my house vs my single router.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "Review",
+      "helpful_votes": 2,
+      "publication_date": 20190704
+    },
+    {
+      "title": "Could not get the device to work!",
+      "text": "I had assistance from my neighbor and from the vendor and it would not operate at all. Sent the device back and purchased a first generation Eero with which I am very pleased with. (Incidentally, the Eero device was a breeze to set-up).",
+      "rating": 1.0,
+      "verified": true,
+      "author": "James R. Craig",
+      "helpful_votes": 4,
+      "publication_date": 20180913
+    },
+    {
+      "title": "Game changer",
+      "text": "This was so easy to install with my AT&T Fiber. I have my home wired with ethernet throughout. From the router I went into the first Deco, then used the other port to go out to my switch for the home and everything works perfectly. I changed the AT&T router to IP Passthrough and disabled the wifi from that router to not have competing signals. I bought this so I could finally have wifi on my back patio. Now I have a strong signal throughout my backyard.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "jimlikesmath",
+      "helpful_votes": 0,
+      "publication_date": 20200519
+    },
+    {
+      "title": "1-star ratings are CORRECT !!!",
+      "text": "This system was easy to set up and I do like the parental controls. However, about 6 months in wifi started dropping and connection issues started happening frequently. I tried tech support, but they are not helpful at all -- lots of re-boots and re-set ups with no success. I don't know where to turn now, so I'll probably end up scrapping this system and write it off as a complete loss. I wonder if those who gave it higher stars just have not used it long enough yet. Other low star reviews mention problems several months in too. I would NOT buy this router system.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "Wexford123",
+      "helpful_votes": 3,
+      "publication_date": 20190707
+    },
+    {
+      "title": "Easy set up, works well!",
+      "text": "I liked how easy it was to set up. The app took me step by step with directions as simple as 'find this particular cord' and 'is the light yellow, tap yes or no.' We have brick and concrete walls in our older home and this product spread and strengthened our wifi throughout the house. No more deadzones. At first I thought being able to add 100 devices was overkill, but I seriously underestimated how many things/devices in the house are connected to wifi, especially with all 6 of us home teaching and taking classes from grade school through college during COVID.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Carrie Hartley",
+      "helpful_votes": 0,
+      "publication_date": 20200612
+    },
+    {
+      "title": "As described",
+      "text": "Note that I am not a paid reviewer. I ordered this product as a recommendation by a friend so that I could get rid of my monthly router charge and expand the reach of my wifi. The product was easy to set up in our two story 2800 sq ft house. Three pucks made the reach not only to every area of our house but also extended it beyond our home by about 150'. I am very satisfied with this product and would buy it again.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "shopperdkny",
+      "helpful_votes": 0,
+      "publication_date": 20200828
+    },
+    {
+      "title": "Great signal , massive issues",
+      "text": "If you\u2019re looking for whole home wi-fi, for just a few things , and nothing major, this will likely fit the bill If , however , you\u2019re looking for stability: low latency , low ping, low jitter (say, voice calls, remote work), this will not for the bill One of the recent firmware updates from tp-link has caused massive issues with all of the above , and this is massively noticeable on voip calls",
+      "rating": 2.0,
+      "verified": true,
+      "author": "T. Whiting",
+      "helpful_votes": 0,
+      "publication_date": 20200820
+    },
+    {
+      "title": "Very poor performance",
+      "text": "The Deco M5 is really bad! The wifi signal from the Deco is very poor, and it constantly comes and goes. I am 100% confident that it is the Deco, because connecting directly to the router (wifi and cable) provide a much better connection. I have tried fixing this issue with TP-Link support, but all they could instruct was to unplug everything and install everything back. This worked for a couple of hours, but then it got bad again. The only pro is easy installation, but even this point is useless if after installed the product doesn't work. I will dispose this product and buy another product.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "Samuel Kim",
+      "helpful_votes": 0,
+      "publication_date": 20200706
+    },
+    {
+      "title": "Fast and easy setup, simple to add devices.",
+      "text": "I was apprehensive about changing from a reliable wireless router-based system, as half my devices are on Ethernet and it had 4 ports. I longed for greater range and stronger signal throughout our 3-story (+ walk-in cellar) home, so bought the TP-Link Deco M5. By coming out of my cable modem direct to an 8-port Ethernet switch and then to the Deco M5. To my amazement, the Deco M5 was incredibly easy to setup, to add devices, and to manage. I could add one more unit to get \"4 bars\" in every area, and hope to do that soon. Highly recommended!!",
+      "rating": 5.0,
+      "verified": true,
+      "author": "K. Mitchell",
+      "helpful_votes": 0,
+      "publication_date": 20200714
+    },
+    {
+      "title": "Frequency Locked on Channel 4, No tech support in this matter. NOT RECOMMENDED IN BUSY PLACES.",
+      "text": "after using this item couple month without any problem, now on its nightmares, issues with this junk everyday. keep dropping signals after update. due to other wireless channel 4 frequencies in area. there is no option in Deco app to change wireless channel manually. Contacted Tech Support but no alternative, DO NOT RECOMMENDED THIS PRODUCT IN BUSY PLACES.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "Jatt Pannu",
+      "helpful_votes": 2,
+      "publication_date": 20190717
+    },
+    {
+      "title": "Highly recommended, easy setup and no dead zones",
+      "text": "This is a great product, model Deco M5. Throw away any of those silly plug in extenders that you may have. This is worth every penny. Easy to setup and once setup you can move the discs around the house to find the best location for any dead zone that you previously had. I had struggled for years trying to improve signal strength in parts of the house using a couple of different plug in extenders, those are a complete waste of money. This immediately eliminated all dead zones and the setup was quick and painless and easy. One SSID is broadcast for both 2.4 or 5 GHz and your WiFi device will automatically pick the best frequency. Highly recommended.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "R. Martin",
+      "helpful_votes": 0,
+      "publication_date": 20191116
+    },
+    {
+      "title": "Whole Home Meh Wifi System (sic)",
+      "text": "Because this product sits essentially in its own price class, it's more a question of adequacy. Does it work...at all? Well, yes, it does. Super easy installation, with speed that is good enough for most people most of the time, and meh reliability speckled with occasional inexplicable dropouts. Not fabulous praise, but...adequate. Do I wish I'd purchased a faster system? Yes. But I'm also glad I saved nearly $200 off the next most expensive mesh system, so it might be a wash. When you're in a class by yourself, you can get away with your mesh-wifi being meh wifi, I suppose.",
+      "rating": 4.0,
+      "verified": true,
+      "author": "Marty McCall",
+      "helpful_votes": 0,
+      "publication_date": 20190725
+    },
+    {
+      "title": "Amazing Wifi System + Booster",
+      "text": "This boosted our newly purchased UbiFi 4G signal from 5 down/1 up to 30-40 down/5 up instantly! We live out in the country and struggled to get decent service but after pairing this with UbiFi (highly recommend as well) we have an amazing WiFi signal throughout the house and even around 2-ish acres outside. We can now stream Netflix/Hulu/Amazon/YouTube on multiple devices. We can't recommend it highly enough, well worth the $$$.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Amazon Customer",
+      "helpful_votes": 3,
+      "publication_date": 20180826
+    },
+    {
+      "title": "Didn't work for me!",
+      "text": "Limited range and the units didn't like turning corners. Initial set up process was easy but the units repeatedly disconnected from the Deco Network that you're required to create and the Deco app deleted the created network making it necessary to start the Set Up process again and again. The longest it stayed on was 30 minutes but mostly disconnected after 10 minutes. The Deco App couldn't find the primary unit after that and the unit had to be reset. I returned it after trying for a couple days to get it working. Tech support tried to assist but didn't solve the problem.",
+      "rating": 2.0,
+      "verified": true,
+      "author": "Dan The Man",
+      "helpful_votes": 0,
+      "publication_date": 20181201
+    },
+    {
+      "title": "So far works well",
+      "text": "I purchased the M5 with the 3 devices. Easy and quick to install, only took a few minutes per device. I have the 200mbps plan with Xfinity and was really only getting 25mbps in my home. I have ring cameras, a gaming system, 4 smart TVs and several mobile devices running on my network so WiFi usage was a pain in my 3 story home. Now i get well over 230mbps on all 3 floors. In addition, this has extended the connection outside of my home where now my ring cameras that are placed 100 feet from the house are now getting better connection speeds.",
+      "rating": 4.0,
+      "verified": true,
+      "author": "AB",
+      "helpful_votes": 2,
+      "publication_date": 20191230
+    },
+    {
+      "title": "Outstanding coverage for 2600sf +basement",
+      "text": "I purchased this after having a bad and short-lived experience with a Netgear Nighthawk that (a) had major firmware issues and (b) lousy coverage upstairs. With the Deco, I put one unit on each floor and coverage has been excellent throughout the house. Devices move seamlessly between floors with no interruption in signal (although I'm not sure why anyone in my family needs to look at their phone or play Nintendo while on the stairs - SAFETY FIRST!). The app interface is easy/intuitive, and while I would have liked a few more controls - like the ability to set wifi channels - I haven't noticed any performance issues that would cause me to miss advanced features like that.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Brad U.",
+      "helpful_votes": 0,
+      "publication_date": 20200729
+    },
+    {
+      "title": "Highly recommended!",
+      "text": "This product is excellent. My house is 1900 sq ft and every part of the house and yard have Internet. Fast streaming and nice app. Before buying I compared highly to the Google WiFi. One of the biggest complaints I read from other reviews was that important features such as parental controls and port forwarding were not available. Rest assured the app has been updated and these features are now available. I have since purchased for my family members. I\u2019ve had for almost 6 months and I have had no issues. Not even a reboot.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "shadynasty92",
+      "helpful_votes": 0,
+      "publication_date": 20190402
+    },
+    {
+      "title": "Spectacular",
+      "text": "Very easy to set up. The WiFi performance is spectacular. I have internet service from our cable service, Optimum. I was previously using a Tenda Router. It's good equipment, but not the best way for a raised ranch house. Additionally, I needed to use 4 tp-link WiFi repeaters. Now, with the mesh system, no more repeaters. I'm paying for 100 Mbps service through our provider, and I'm experiencing 115 Mbps download and 36 Mbps upload. I'm also using 14 tp-link smart plugs, in the house, they all get discovered, by the mesh routers, no matter where the plugs are placed, in the house. You people make well engineered products, I am a grateful customer. Thank you.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Bodos",
+      "helpful_votes": 0,
+      "publication_date": 20200606
+    },
+    {
+      "title": "Internet in the basement",
+      "text": "Virtual school was killing our internet! This system has worked so well with our 6 kids online all at the same time including phones, laptops, Alexa music, printers, security cameras, and so on. I love using the app. I love that it alerts me to added devices and that I could set my own password. I have recommended this system to several of my friends. Our basement has never had such great internet coverage!",
+      "rating": 5.0,
+      "verified": true,
+      "author": "smniels",
+      "helpful_votes": 0,
+      "publication_date": 20200811
+    },
+    {
+      "title": "Doesn't kick off Apple devices like the Google Mesh router does!",
+      "text": "Got tired of the google mesh router kicking off my apple devices along with the spotty coverage. This mesh system completely covers my 4000 sq ft house. I like the interface a little better than the google one also. A back portion of my house could not be reached by three google routers, but the three units in this package cover my entire house completely. For some reason every single Apple device would periodically kick off the Google mesh. I researched this and it seems to be a problem for many people. I have had no problm with these so far. Reliable and fast speeds. I highly recommend this product.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Scott Alan Gunderson",
+      "helpful_votes": 0,
+      "publication_date": 20180916
+    },
+    {
+      "title": "Great looking, great value, great coverage!",
+      "text": "Was looking for an affordable mesh router and read a lot of reviews. I\u2019ve been impressed by other TP-Link products- especially the value- and this is no exception. The routers themselves are stylish enough they can be anywhere and blend in. We had a couple of tough spots that repeaters weren\u2019t adequately helping with. I\u2019ve had this for over 6 months and am loving being blanketed in WiFi signal everywhere.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Trevor P.",
+      "helpful_votes": 0,
+      "publication_date": 20200822
+    },
+    {
+      "title": "Frequent Dropped Connections",
+      "text": "Frequently dropping connections. I get notification from various home automation devices - cameras, smart plugs, amazon echo - as well as two nintendo switches that will report a lost of network. The wifi connection will come back but its frustrating. Firmware is up to date. No useful info on the support site. Seriously considering replacing with a different brand mesh wifi solution.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "kadac00",
+      "helpful_votes": 3,
+      "publication_date": 20181230
+    },
+    {
+      "title": "Easy setup Mesh WiFi that I should have gotten years ago",
+      "text": "After enduring months of phones and laptops in our 3300 sq ft home dropping WiFi signals at random times and for no apparent reasons, I purchased these and am glad I did. The setup was quick, easy, maybe even a little fun, and all of my dropped signal issues are gone PLUS I now have a signal in the backyard and the garage. I haven't looked at the parental controls very much yet but that feature looks like it could be useful. Slick app.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Rob",
+      "helpful_votes": 0,
+      "publication_date": 20201005
+    },
+    {
+      "title": "Great upgrade from a WiFi extender",
+      "text": "I live in a very long apartment with common spaces on one end (where the modem is set up) and bedrooms off a single long hallway at the other end. We originally had a WiFi extender, but the signal was too weak, and considered a powerline adaptor (which uses the wiring between different wall outlets for internet connectivity) but it didn't work with the wiring in our apartment. The M5 mesh network has a much stronger signal at the far end, whereas the signal with the WiFi extender was barely strong enough for video calls. Plus, not having to switch to a separate extender network is extremely convenient.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "AJ",
+      "helpful_votes": 0,
+      "publication_date": 20200430
+    },
+    {
+      "title": "I've tried the rest",
+      "text": "I took the route of trying to get a better router, then I tired using signal extenders and boosters. Each one wasn't good enough to stream. Then I read about mesh systems. Yeah, they are expensive, but they get the job done. I have very thick concrete and adobe walls. The previous methods wasted my time and money. I recommend these. The furthest room from the modem now gets a strong signal and I'm able to stream with no problems.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Pablo Valenzuela",
+      "helpful_votes": 0,
+      "publication_date": 20200819
+    },
+    {
+      "title": "Super easy setup, works perfectly, great price",
+      "text": "We have a 1-floor, 1100 square foot house, and wifi worked great for HDTV streaming everywhere except the back patio. I researched fixes and decided to go with mesh network, and went with the TP-Link M5 because of good reviews and great price point. So glad we did! Super user-friendly app and the whole setup was complete in 10 minutes or less. (The only thing that took awhile was sitting on hold with ATT for 10-15 min figure out our network-type, which turned out to be \"Dynamic IP,\" but this was pretty painless and wasn't a TP-Link issue). This solved our problem perfectly! Couldn't be more pleased. Thanks for the great product, TP-Link!",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Lizzy",
+      "helpful_votes": 0,
+      "publication_date": 20190922
+    },
+    {
+      "title": "Decos are slow compared to competition",
+      "text": "I have both the Deco and the Orbi WiFi hubs. My Orbi delivers 460 Mbps download speed and off the same switch the Deco delivers only 42 Mbps. I would clearly recommend spending a bit more and get the Orbi. Update: I updated the firmware and the performance is improved on some of the hubs. Still would recommend the Orbi, particularly if using in a mesh configuration where you wirelessly connect to one of the Wireless access points as the primary hub.",
+      "rating": 3.0,
+      "verified": true,
+      "author": "T Shopper",
+      "helpful_votes": 0,
+      "publication_date": 20190809
+    },
+    {
+      "title": "Great system and super stable!",
+      "text": "Great WiFi setup!! I have a 3,200 sq ft house plus basement and our WiFi is now strong everywhere in and around the house. Admittedly, I previously had a very outdated Apple AirPort Extreme, but the Deco setup was very easy and it\u2019s been super stable. I used to have smart devices disconnect constantly, but I haven\u2019t had one drop since we installed the Deco (we have roughly 25 smart devices connected) It would be great if they added a feature to \u201cpause\u201d individual devices instead of just profiles, but other than that, I couldn\u2019t be happier!",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Josh Graham",
+      "helpful_votes": 0,
+      "publication_date": 20200602
+    },
+    {
+      "title": "So far so good",
+      "text": "I wanted to replace my TP-Link C9 which continued to drop signals after five years. It\u2019s not as easy as they say to install the m5 units. I had to reboot the modem to connect the home pod several times. It finally connected. the deco m5 Doubled my charter spectrum 400 MB speed remote signal from about 40 MPs to over 90 MPs. On average throughout 3000 sq ft home. More importantly I now have a steady signal throughout the house no more dropped signals. I can also now go outside of my garage and outside on my back porch and still receive 50 Mb signals. If it continues to work like it is now it was a great investment",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Big E",
+      "helpful_votes": 0,
+      "publication_date": 20200609
+    },
+    {
+      "title": "More than a year after purchase",
+      "text": "This little mesh system is the best networking purchase I've made. My family moved into a larger house and our wifi would only work in the room with the modem, as well as the kitchen. Tried extenders to no avail and looked into a mesh system. We placed 3 nodes throughout our house which the app made easy figuring out where they needed to be placed. It's been over a year and I've yet to have any technical problems with these mesh nodes. Which is extremely pleasing considering they were the lower end of pricing for mesh systems. If you're having issues with wifi signal getting past plastered walls, consider a mesh system and these worked for our home.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Jacob Grim",
+      "helpful_votes": 0,
+      "publication_date": 20200604
+    },
+    {
+      "title": "Highly recommended. Ethernet backhaul works great.",
+      "text": "I don\u2019t have a bad thing to say about this system. Extremely easy to setup, fast and reliable. The app is also really good. We\u2019re using it in a 2-story 2,600 sq ft house and the signal is full strength everywhere, including the garage. Downstream from the \u201cMain\u201d Deco is a 16 port switch and the 2 Deco slaves using Ethernet backhaul. Works flawlessly. Would definitely recommend.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Entropy",
+      "helpful_votes": 0,
+      "publication_date": 20200920
+    },
+    {
+      "title": "Great Product, Great Signal, Easy Install...",
+      "text": "First of all the WiFi signal is great. I have a 3100 sq. ft. house and I now have strong signal throughout. Installation was easy. Actually the easiest router/wifi system I've ever installed. I purchased 2 systems because I have 5 TV's set up with Tivo in an old home. Each Deco gives me ethernet connection to my Tivo Mini's I have connected to my TV's. The 6th Deco from the 2 set's is in my detached garage. I now have a viable signal throughout my property. I would highly recommend this Deco system to anyone/everyone with WiFi issues and/or unique situations as my own, getting ethernet to my remote Tivo Mini's.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Robert Barragan Jr",
+      "helpful_votes": 0,
+      "publication_date": 20201024
+    },
+    {
+      "title": "AT&T Fiber and Google Home",
+      "text": "Got this hooked up to my AT&T Fiber router and it works great! It keeps my original Wi-Fi signal from AT&T up and running, while making a new network I connect to. This allows me to have my own private extended Wi-Fi network, separate from my roommates. I have 2 Google Homes hooked up to it as well, so far working great! I have my PS4 in my room connected via Ethernet into one of the extenders, which is located in a separate room from my main router, and I\u2019m getting great speeds! Over 100mbps, download and upload, I cannot complain!",
+      "rating": 5.0,
+      "verified": true,
+      "author": "David Lehr",
+      "helpful_votes": 2,
+      "publication_date": 20200614
+    },
+    {
+      "title": "A Great whole-home wifi setup",
+      "text": "I've been using my ISP's supplied router since moving in to our house (about 4,800 sqft) and tired of dead spots and signal dropoff. So I did my research and the TP-Link Deco was really well reviewed. The price is lower than the Google mesh system and we're an Alexa household so we decided to buy the three-unit Deco system. I'm so glad I did. Install was easy, speed and coverage is flawless now. A week in, the system is stable and fast. We're very happy with the Deco.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Chapman B. Rackaway",
+      "helpful_votes": 0,
+      "publication_date": 20200429
+    },
+    {
+      "title": "Increased my speeds pretty drastically",
+      "text": "Increased my WiFi speeds in my upstairs office. I have 1000mbps internet and was getting under 50 in my office (my router is in the kitchen on the middle level of the house). After connecting my computer via Ethernet to the MESH device, I now get over 200+ upload and download speeds. Sometimes 400+. Very happy with this. I tried a WiFi extender and this MESH system was much better than the extender.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Amazon User",
+      "helpful_votes": 2,
+      "publication_date": 20200905
+    },
+    {
+      "title": "Didn't work well",
+      "text": "Did not work very well at all. We have a small house, approximately 1500 square ft., and this didn't work as well as I had hoped. Even after going around the house making sure I was able to get each one in the best spot. It would disconnect often, and at times I received a page saying it could not be found. I found this mesh system too unreliable so I returned it.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "KG",
+      "helpful_votes": 0,
+      "publication_date": 20201018
+    },
+    {
+      "title": "As  close to plug and play as it gets...",
+      "text": "Have one in my dining room for my 750 foot house, one on lanai (which reaches to shed also), and one in the camper parked 200 feet away from house- all work like a champ. I tried to cobble together some router-extender-something-something first to save money... what a mistake. Just order these. I did all the research, also- they are well rated by the consumer elec mags/review pages!",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Jessica DePriest",
+      "helpful_votes": 0,
+      "publication_date": 20200714
+    },
+    {
+      "title": "My retired parents set this up on their own",
+      "text": "My parents' old WiFi router stopped working after a power outage. They were able to set this up on their own using the Android app's simple instructions. Now they have wall-to-wall WiFi coverage on all devices. I like the fact that the 3 points are interchangeable as the router vs. satellite, and that each point includes 2 Ethernet ports for connecting wired devices that are far from the router.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Aaron",
+      "helpful_votes": 0,
+      "publication_date": 20201018
+    },
+    {
+      "title": "So far so good",
+      "text": "No matter what we tried with our ISP we were never able to get a clear signal in some of the rooms of our house. It was difficult to form out the cash but absolutely worth it! These magic little \"pucks\" solved our issues immediately! We haven't had the same issues with getting a poor signal or getting dropped since we plugged them in. We are very happy with our purchase!",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Michele",
+      "helpful_votes": 0,
+      "publication_date": 20201006
+    },
+    {
+      "title": "Defective product, customer support is lacking",
+      "text": "1 of the power adapters did not work, out of the box. TP-Link tech support has yet to respond to my 3 (yes, THREE) inquiries. So I have 2 units that work great, and one is a paper weight. Since I have it all set up, it would be a huge inconvenience to return the whole product, just because of one bad power cord. Update: customer service finally replaced the cord. Works like a charm now.",
+      "rating": 4.0,
+      "verified": true,
+      "author": "theophobia",
+      "helpful_votes": 2,
+      "publication_date": 20181008
+    },
+    {
+      "title": "If you want a MESH WiFi system, this is a very good choice",
+      "text": "I bought and installed this WiFi system in a neighbor's home. Installation via the downloaded app on a cellphone was easy, as were changes to system configuration. This setup was installed in a 3,000 square foot single story home, and signal strength and coverage were both pretty darn good. System has been running for three months without a single failure, so reliability appears to be very good. For a set it and forget it system, this one works very well. TP Link builds excellent products, and this Deco Mesh system appears to be another winner for them.",
+      "rating": 4.0,
+      "verified": true,
+      "author": "bigdeal",
+      "helpful_votes": 0,
+      "publication_date": 20181023
+    },
+    {
+      "title": "Perfect way to extend signal!",
+      "text": "With working from home, have discovered new dead spots in the house. This made a huge difference and can now use wifi throughout house, even for data-intensive things like video conferencing. And all under same network name, no switching around. Set up was super easy, and was able to add another access point later on. A big bonus is being able to \"prioritize\" devices, so I can make sure my work laptop gets signal ahead of the kids many devices. Only complaint is that it was hard to know where to put the device. it says it gives you guidance, but found that confusing",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Jonathan Birnberg",
+      "helpful_votes": 0,
+      "publication_date": 20200609
+    },
+    {
+      "title": "Great WIFI",
+      "text": "My WIFI coverage is much improved from the cable provider's WIFI which used their TV Boxes as WIFI extenders. I was experiencing 'Cannot connect to the internet' errors before and I have not had that issue occur since installing the new TP-Link Deco M5 system. The download and upload speeds are higher and more consistent. So far I am very satisfied with the TP-Link product. My only concern is the how warm the underneath of each unit gets and whether that will shorten the its life span. Maybe little taller feet or some vents on top would allow the heat to dissipate better.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Online junky",
+      "helpful_votes": 0,
+      "publication_date": 20200329
+    },
+    {
+      "title": "No resetting our router anymore!",
+      "text": "We had a combined router & modem provided by Frontier Communications. We were always having to reset the router and didn\u2019t have a good signal throughout our 3400 sq ft house. Since installing the TP-Link mesh system we haven\u2019t had to reset once. Not once!! Mind you we were resetting several times a day at the worst! And we now have great reception throughout the entire house!! We did have to call Frontier & have them talk us through disabling their router. But after that the tech stayed online while I installed the TP-Link that was very easy. Wish we\u2019d done this a long time ago!",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Susan H",
+      "helpful_votes": 0,
+      "publication_date": 20200407
+    },
+    {
+      "title": "Super user-friendly and unbelievable coverage!!",
+      "text": "Wow!! So nice to have fast reliable Wi-Fi again. Setup was super easy and the coverage area is amazing!! With 3 routers I have 24,000 sqft of coverage on my half acre of property. One router in my cabana is 80ft away from the hub and has excellent connectivity and extends the signal another 80ft!! Far exceeded my expectations. Deco phone app is great and helps me manage the numerous Wi-Fi devices on my property. Thanks TP-Link for an awesome product!!!",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Rachel Etheredge",
+      "helpful_votes": 2,
+      "publication_date": 20201007
+    },
+    {
+      "title": "Super Easy Set Up and Great Speed!",
+      "text": "Let me start by saying I suffered on performance with my old router Apple AirPort Extreme. Since I'm in the Apple Eco system it was hard to let go. I tried adding a wi-fi extender to my Apple but still poor performance. I read the positive reviews on the TP-Link Mesh Wi-Fi so I ordered it. After completing install I asked my self why did I wait so long? Set up took a 1/2 hour. Once I installed the app on my Iphone the app walked me through installation. My down load speed went from 110 Mbps to 229 Mbps. Wow!. All my streaming sevices are great with no buffering while watching movies. And the price was good.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Richard Castillo",
+      "helpful_votes": 0,
+      "publication_date": 20200718
+    },
+    {
+      "title": "Easy setup. Strong signal. Has a fatal flaw",
+      "text": "The product sets up very easily and makes a net with seamless coverage. The interface is easy, but tech support is largely unresponsive. Here is the fatal flaw - if you move a unit, or if your power goes down, the entire network needs to be set up all over again. It does remember anything. If they could fix this, even with a short-term internal backup battery battery or flash memory, I would give this 5 stars. But given that I live in an area where the power sometimes goes down, this is a serious flaw.",
+      "rating": 3.0,
+      "verified": true,
+      "author": "steven grumet",
+      "helpful_votes": 0,
+      "publication_date": 20191223
+    },
+    {
+      "title": "Easy and Works!",
+      "text": "This works well and was easy for this non-IT person to install. We put it in our house that has an apartment at the far end and the house is old (plaster walls) and long.... it works well everywhere, including for the tenant. Plus you can also set up a separate wifi, so the tenant has a different password and isn't on ours. The other thing I love is that it resets itself during storm outages. VERY happy with this!",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Starlight",
+      "helpful_votes": 0,
+      "publication_date": 20190705
+    },
+    {
+      "title": "Don't waste your money on this product",
+      "text": "I bought this hoping to achieve a faster connection with my wi-fi. Called and waited about 1/2 hours for someone to answer, talked with a customer rep for about an hour then was disconnected. Called again, waited for about 20. min. for a customer service rep to answer, was on the phone with her for about 45 min. trying to get this system up and running, then was disconnected for the second time. There customer service is terrible, along with there product. I would not buy this product again.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "Amazon Customer",
+      "helpful_votes": 2,
+      "publication_date": 20200902
+    },
+    {
+      "title": "Great performance but lack of cost comes at a price in features",
+      "text": "Don't like the app, features are limited. Took a bit of tuning to get it all working as it should but I think they need some feature addons or enhancements. For the price, you can't beat it, for the common user, it's simple, reliable and easy to manage. For those more tech savy, spend a bit more money and get something you can manipulate on a higher level.",
+      "rating": 4.0,
+      "verified": true,
+      "author": "Zachary C Thompson",
+      "helpful_votes": 0,
+      "publication_date": 20191218
+    },
+    {
+      "title": "1 of 3 is the base unit",
+      "text": "These work fantastic and all areas of the house including outdoors have great WiFi reception and speed. What I didn't realize (probably my bad) was that one of the three units is plugged in near the existing router and connected with an ethernet cable, i.e., in the same room. It creates a different network with its own network name. The other two units are then placed in other areas around the house. I thought I would be able to place all three in other areas, but really it's only two. If you need more coverage then buy the 6 pack. Otherwise extremely easy to set up and they look great as well.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Bill",
+      "helpful_votes": 0,
+      "publication_date": 20200831
+    },
+    {
+      "title": "One of the Deco's MUST be physically connected to your router",
+      "text": "The reason i had to send these back is because they don't create a true mesh network if you have an existing wireless router. The only way they work is if one of the Deco's is setup as a hub and it must be connected via rj45 to your existing wireless router, effectively eliminating your existing wireless router. In order to do what I want, (after talking with tech support), I need to purchase the Archer A7 and use it in bridge mode. That lets me use my existing wireless router and its SSID and PW, setting up a more usable mesh network. We'll see how it works!",
+      "rating": 2.0,
+      "verified": true,
+      "author": "dan",
+      "helpful_votes": 0,
+      "publication_date": 20190514
+    },
+    {
+      "title": "System works Great!",
+      "text": "I found this system through Consumer Reports and purchased it right away based on it being highly rated and reasonably priced. It was easy to install with the free phone App and was up and running in 15 minutes with all three nodes active. It has only been up for a few days but it is working great and blows away my old Wifi system I was using with a repeater. Great value with very good results.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "J. Modica",
+      "helpful_votes": 0,
+      "publication_date": 20200908
+    },
+    {
+      "title": "Great purchase!",
+      "text": "Setup: it's so easy, I was able to walk my technologically inadequate parents through setting up their in-home Wi-Fi over the phone. 5 stars. Connectivity & Speed: set up in a home with Charter Spectrum 200 Mbps internet - getting close to full speed from anywhere in a house with 4200 sq ft. 5 stars. Overall Thoughts: mesh routers have been working flawlessly without any abrupt drops in service, lag, connection issues, etc for a month now. Hopefully this continues. I purchased this after doing tons of research on mesh Wi-Fi products... couldn't be happier. 5 stars.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Charlotte Svejda",
+      "helpful_votes": 0,
+      "publication_date": 20190509
+    },
+    {
+      "title": "Never got email to confirm account",
+      "text": "The app requires you to open an account with TP link and receive a confirmation email before you can run the app to set it up. Well, after waiting 1 1/2 hours no email was received. I re-registered with 3 different email addresses to be sure it wasn\u2019t my email account(s) ... not in spam folder either. No confirmation email. It shouldn\u2019t be this difficult to set up this equipment. Time is valuable to people and there are other options. I\u2019m returning and getting refund. Someone else can have this headache.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "Mike",
+      "helpful_votes": 0,
+      "publication_date": 20190103
+    },
+    {
+      "title": "Easy setup. Good coverage. Small footprint",
+      "text": "Does everything I need which is good cause there aren't many options compared to the old legacy routers that have page after page of setup screens with options I don't use. I have 3 for 3,300sf with a good, useable signal throughout. They are small and not noticeable. Replaced router + Wired Access Point + plugin extender and now I am happy.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "El Kati",
+      "helpful_votes": 0,
+      "publication_date": 20200818
+    },
+    {
+      "title": "GOOD SYSTEM",
+      "text": "This product was the only one to solve a dead spot problem in two rooms of my house, after trying several other products. I gave it four stars because it was rated to over 5,000 sq. ft. and it didn't cover my whole house despite it being a little over 3,000 sq. ft. I purchased another and connected them throughout the house, and it now covers 90 percent of my house. I still have a couple dead spots, but they are not an issue. Buying two was about the price of some of my other purchases, so it was a wash. The user interface is excellent.",
+      "rating": 4.0,
+      "verified": true,
+      "author": "Richard",
+      "helpful_votes": 0,
+      "publication_date": 20200314
+    },
+    {
+      "title": "Super Easy Setup and FAST!!!",
+      "text": "I purchased this as the Tenda Nova MW6 system I had was very unreliable and could only get speeds of around 280mps. Also it would not hand you of to the other access points or would for some reason connect to the one the farthest away. I am getting around 800mbps now and am very happy. I am happy it can link to Alexa and you can have it dim the LED or ask for a speed test. They are a lot smaller then I thought which was a great surprise! I have the main unit setup in the living room. and the other two in the master bedroom and guest room.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Mac Geek",
+      "helpful_votes": 0,
+      "publication_date": 20200924
+    },
+    {
+      "title": "Best bag for your buckssssss!!",
+      "text": "This thing is phenomenal. I\u2019m getting consistently 300mbs download speed vs 50 with previous routers standing right next to it. Worth the investment now my arlo cameras all gave great connection which results in less battery charging which makes me a happy camper. Very well recommended. Have my whole smart home set up including gaming devices, laptops, tablets and several smart phones hooked up to this. Great product!!",
+      "rating": 5.0,
+      "verified": true,
+      "author": "eduardo perez",
+      "helpful_votes": 0,
+      "publication_date": 20191130
+    },
+    {
+      "title": "Simply Doesn't Work",
+      "text": "I'm trying to write this review right now and I'm barely getting through it. Just took 30 minutes to download a tv show on Netflix. Deco app shows download speed of 112.9 Mbs yet I can't hardly watch a tv show. I've got 3 of these throughout a 1 story 1500 sq ft house and still it won't work. Sending it back hoping to find something that will. If you're reading this review, it's not completely useless but this page took 45 seconds to load on my mac. Pretty sad...",
+      "rating": 1.0,
+      "verified": true,
+      "author": "SoFlaFish",
+      "helpful_votes": 0,
+      "publication_date": 20191124
+    },
+    {
+      "title": "Easiest mesh r",
+      "text": "Quite possibly the easiest WiFi product to set up that I\u2019ve ever had! It was seamless. I called my ISP but didn\u2019t really need to, just wanted to confirm a few things. Now that it\u2019s up and running it works perfectly. Cleared up those spotty areas in the home, even the addition that is surrounded by cement walls! The parental controls add another layer of screen time controls for me. Just have to make sure devices don\u2019t swap out to the old SSID instead of the new one you created if you went that route. Extremely pleased with this product!!",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Jennifer",
+      "helpful_votes": 0,
+      "publication_date": 20191223
+    },
+    {
+      "title": "Super easy to set up.  Really like them.",
+      "text": "I really like these TP Link Deco's. I bought the 3-pack and added a 4th individual unit to put out in the garage. Super easy to set up using a smartphone. Uses bluetooth for initial setup. Seems to have a lot of advanced options. I don't go crazy optimizing my network like I used to. Plug and play has spoiled me. I plugged these in, they all talked to each other and talked to my phone app, and they took off running. They report a throughput of 522mb. Streams non-4k video just fine.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "CHAD M",
+      "helpful_votes": 0,
+      "publication_date": 20190326
+    },
+    {
+      "title": "Works well if setup goes well.",
+      "text": "One of the three units failed to work because of a firmware problem. Eventually got it to work with the help of support but it was a struggle because the support rep was in Beijing. This isn\u2019t a problem I foresee happening for a lot of users but it did worsen my experience. Since setup, I\u2019ve had no problems and would recommend as a cheaper alternative to other mesh systems.",
+      "rating": 4.0,
+      "verified": true,
+      "author": "Amzn Shopper",
+      "helpful_votes": 2,
+      "publication_date": 20190317
+    },
+    {
+      "title": "Great coverage for the house and also great wireless to Ethernet bridging",
+      "text": "I was having signal issues from my access point in my basement up to the second floor. To remedy this I was running two access points. I replaced the two access points with the Deco M5. One in the basement for my main router, one on the first floor to cover the first and second floors. The third I put in my game room and use it as a wireless to Ethernet bridge to run a Tivo mini vox. These routers solved two of my problems; one to cover the house in WiFi and the other to more reliably connect my Tivo mini vox (replaced flaky power line adapter).",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Mike",
+      "helpful_votes": 0,
+      "publication_date": 20191119
+    },
+    {
+      "title": "Super easy setup and woks great!",
+      "text": "Super easy to set up using the smartphone app. Love that they all reset after a power outage and I don\u2019t have to do anything. Red light on top let\u2019s you know if one is offline, and it is quick to reconnect it using the app. Parental controls in the app are awesome! Set time limits and content restrictions for your child\u2019s phone, computer, and tablet. I created two different user profiles for my son so I could set separate time limits for his phone and computer. Easily see all the devices that are using your network, and get a notification every time there is a new connection. Offers a Guest connection too.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Michele",
+      "helpful_votes": 0,
+      "publication_date": 20200601
+    },
+    {
+      "title": "2 months in and already broken, unreliable",
+      "text": "Worked great for about 2 months. Now its constantly dropping signal and bugging out. Tried everything to make it work again with no luck. So annoyed, should have just spent the extra money on something more reliable instead of wasting time and money on this thing. At least amazon was helpful and made the return process a breeze.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "WNCKOA",
+      "helpful_votes": 5,
+      "publication_date": 20180919
+    },
+    {
+      "title": "Easy to setup and provides great coverage",
+      "text": "We're in a 2 story, L shaped house with the DSL input at one end of the chain. We were using the Century Link provided modem/router combo and having trouble with slow up and download speeds in several parts of the house. Since installing the 3-pack of mesh system, those problems have gone away. The setup was super easy. The app walks you through the entire process in very easy to follow steps. Each unit is small with reasonably nice design features, they all have 2 wired ethernet ports available, which may be helpful if you're using an older device with hardware that doesn't have the newer wi-fi standards built in.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Pezhead780",
+      "helpful_votes": 0,
+      "publication_date": 20200424
+    },
+    {
+      "title": "Excellent Product to create a wifi grid in your home",
+      "text": "Easy to install - okay customer support, so 4 stars it is (instead of 5). I had to call customer support when our internet speed was increased. I had to ultimately figure out why the \"governor\" was set at my slower speed. In other words, I had to reset the device in the dashboard so that it would allow for the much larger download and upload speed from my upgraded service.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Russ J",
+      "helpful_votes": 0,
+      "publication_date": 20200716
+    }
+  ],
+  "product_meta": {
+    "title": "TP-Link Deco Mesh WiFi System \u2013Up to 5,500 sq. ft. Whole Home Coverage and 100+ Devices,WiFi Router/Extender Replacement, Parental Controls/Anitivirus, Seamless Roaming(Deco M5 3-Pack)",
+    "description": "Model:Mesh WiFi with HomeCare, 3-packMaximum wireless transmission rates are the physical rates derived from IEEE Standard 802. 11 specifications. Range and coverage specifications along with the number of connected devices were defined according to test results under normal usage conditions. Actual wireless transmission rate, wireless coverage, and number of connected devices are not , and will vary as a result of 1) environmental factors, including building materials, physical objects and obstacles, 2) network conditions, including local interference, volume and density of traffic, product location, network complexity, and network overhead and 3) client limitations, including rated performance, location, connection quality, and client condition. MU-MIMO capability requires both the mesh system and client devices to support MU-MIMO. *Free lifetime subscription to TP-Link HomeCare is included with purchase on select TP-Link models at no additional cost. \u201cLifetime Subscription\u201d refers solely to the life of the purchased device and can not be transferred. TP-Link reserves the right to modify the service and feature at anytime.",
+    "rating": 4.7,
+    "feature_bullets": [
+      "JD Power Award ---Highest in customer satisfaction for wireless routers 2017 and 2019",
+      "If you're Looking to ditch Your traditional router extender setup for a whole Home WiFi system, put the TP-Link Deco M5 WiFi system on your short list PC mag said",
+      "Better coverage than traditional WiFi routers: Deco M5 uses three units working seamlessly to create a mesh network that can cover homes up to 5, 500 square feet. No dead zone anymore.",
+      "Seamless and Stable WiFi: Rather than wifi range extender that need multiple network names and passwords, Deco M5 allows you to enjoy seamless roaming throughout the house, with a single network name and password.",
+      "TP-Link unique Adaptive routing technology automatically chooses the fastest path for every device and allows for more flexible placement than a satellite system",
+      "Secure WiFi Mesh Network: Protect your network and connected devices with a free lifetime subscription to TP-Link HomeCare\u00ad featuring Next-level Antivirus, Robust Parental Controls, and QoS. *",
+      "Easy to setup: Download the TP-Link Deco app, plug in your system, and follow the instructions to get your new home network up and running in minutes. Works with Alexa as well.",
+      "Industry leading 2 year and 24/7 technical support"
+    ],
+    "specifications": {
+      "Wireless Type": "5 GHz Radio Frequency, 802.11a/b/g/n/ac, 2.4 GHz Radio Frequency",
+      "Brand": "TP-Link",
+      "Series": "AC1300 Gigabyte Ethernet",
+      "Item model number": "Deco M5",
+      "Item Weight": "1.02 pounds",
+      "Product Dimensions": "4.72 x 4.72 x 1.34 inches",
+      "Item Dimensions  LxWxH": "4.72 x 4.72 x 1.34 inches",
+      "Color": "White",
+      "Voltage": "100240 Volts",
+      "Manufacturer": "TP-Link",
+      "ASIN": "B06WVCB862",
+      "Is Discontinued By Manufacturer": "No",
+      "Date First Available": "April 11, 2017",
+      "Customer Reviews": "4.7 out of 5 stars5,568 ratings4.7 out of 5 stars",
+      "Best Sellers Rank": "#10 in Computers & Accessories",
+      "Domestic Shipping": "Amazon only ships this item within the contiguous 48 United States. Other Sellers on Amazon may ship this item to Alaska, Hawaii and US Territories.",
+      "International Shipping": "This item can be shipped to select countries outside of the U.S. Learn More"
+    },
+    "categories": [
+      "Computers & Accessories",
+      "Electronics",
+      "Whole Home & Mesh Wi-Fi Systems",
+      "Networking Products"
+    ],
+    "price": 169.99
+  }
+}

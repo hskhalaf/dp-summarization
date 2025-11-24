@@ -1,0 +1,973 @@
+{
+  "website_summaries": [
+    {
+      "verdict": "D-Link's DWA-182 has the distinction of being the first pre-draft 802.11ac wireless adapter on the market, but with no performance gains over 802.11n adapters, the DWA-182 provides little benefit over existing adapters on the market\u2014except for the fact it can connect to pre-draft 11ac D-Link routers.",
+      "pros": [
+        "Easy install",
+        "Included wireless manager utility gives more network information than provided in an OS",
+        "Dual-band",
+        "Supports 802.11ac",
+        "Backwards compatible with older 802.11 standards"
+      ],
+      "cons": [
+        "Could not connect via WPS with a non D-Link router",
+        "No real performance gains over 802.11n adapter"
+      ],
+      "aspects": {},
+      "publication_date": 20121017,
+      "rating": 5.0,
+      "source": "pcmag"
+    }
+  ],
+  "customer_reviews": [
+    {
+      "title": "D-link AC1900 DWA-192 Drivers are flaky under Windows 10",
+      "text": "D-link AC1900 DWA-192 Drivers are flaky under Windows 10. I've tried Microsoft, D-link and Realtek drivers and still I get 'No Internet' message when connected after a reboot. The process then seems to be to disable then re-enable device in Device Drivers to kickstart the device into proper function. I've looked at D-link forums and there are too many issues with the DWA-192, to help me diagnose my particular issue, with solutions from simple driver updates, to replacing faulty hardware. This indicates to me that the device has too many potential points of failure to be considered reliable. This plus my experience so far, means I cannot recommend this device to others.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "Stuart",
+      "helpful_votes": 0,
+      "publication_date": 20190322
+    },
+    {
+      "title": "Works perfectly, but no Linux support out-of-the-box",
+      "text": "For my purposes, this should probably get less than 5 stars, but that wouldn't be fair, and besides it's a really cool design. I had foolishly assumed that the device would have Linux support, but that was not the case for me (KDE Neon, USB 3.0 port on motherboard). I had to compile a driver from source, for which Amazon will not let me post a link, but if you search for 'tpircher 8814AU' you'll find a github repository with a driver for this Realtek chipset. Works perfectly now, and I can recommend it.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Amazon Customer",
+      "helpful_votes": 2,
+      "publication_date": 20180922
+    },
+    {
+      "title": "this is the best. Easy to set up",
+      "text": "Of all the adaptors I have tried over the years, this is the best. Easy to set up, running for 2 weeks now without a hitch. One problem was: the Serial Number was not recognised when I went online to register the warranty. Contacted D Link's customer services who were very slow to do anything about it, however, all resolved now. I would recommend this product as my ADSL/VDSL router is at the other end of the house, downstairs and my D Link Adaptor is upstairs, the farthest point away, with no loss of speed/signal.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Mr. C. Ward",
+      "helpful_votes": 3,
+      "publication_date": 20171115
+    },
+    {
+      "title": "Do not buy for raspberry pi 2",
+      "text": "I have a raspberry pi 2 that I want to connect to a 5ghz WiFi network. The setup and outdated online articles for getting this working are extensive. Git, python + make and bash. Nothing worked in the end. Who knows what these processes have installed on my pi now. It's not worth it.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "Amazon Customer",
+      "helpful_votes": 0,
+      "publication_date": 20190626
+    },
+    {
+      "title": "Works for me",
+      "text": "For some reason my ASUS barebone M3A-3200 wouldn't recognise the Netgear wireless dongle which we had been using for a while in another machine (ACER 5100). Having a D-Link DIR-855 router I chose to go with the same manufacturer to try and sort it out. It worked, the signal quality is good enough for it be used in a bedroom, where the signal is passing through a floor and a wall. I can only give this product 5 stars as it does exactly what I wanted it to do and it does it well, is unobtrusive and is relatively inexpensive. Upload and download speeds are better than expected for a small dongle",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Clatters",
+      "helpful_votes": 0,
+      "publication_date": 20150325
+    },
+    {
+      "title": "The best USB Wireless Adapter so far.",
+      "text": "I have always had a problem with USB Wireless Adapters due ether to range and/or throughput. so I gave up for a while until this one came along. Good points: Excellent ranged on both bands. Excellent throughput due to the USB3.0 interface. Not so good points I found that I had to get Windows 10 to find a suitable driver to get it to work (there may be a better one from the D-Link web site.) I should of come with a stand and/or right angle adapter.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Martin D",
+      "helpful_votes": 0,
+      "publication_date": 20170522
+    },
+    {
+      "title": "useful to speed up wifi on older n series laptop",
+      "text": "i use this on an older dell XPS which had an old N card in it. it was cheap and it works great with both my work and home network. Had no issues with drivers. Windows 10 picked it up and installed drivers for it.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "William O' Connor",
+      "helpful_votes": 0,
+      "publication_date": 20190403
+    },
+    {
+      "title": "Works in Ubuntu Linux",
+      "text": "Like many others, I had a hard time figuring out what to get for my Linux machine. In the end, I thought I'd give this one a go. So, from a fresh install of Ubuntu 20.04 (with 3rd party drivers enabled during install), the DWA-131 was instantly recognised just by plugging it in. One WiFi password later, and I'm surfing the web!.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "SteveC",
+      "helpful_votes": 0,
+      "publication_date": 20200809
+    },
+    {
+      "title": "Great Product which works well.",
+      "text": "Interesting product for wireless connectivity (Note: If you are going to use such product, make sure it is USB 3.0). No complicated application front end, just a driver and away you go. The performance is very good on all bands and the bluelight is a nice touch. The only negative is the supplied cable could be longer.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Martin D",
+      "helpful_votes": 0,
+      "publication_date": 20180317
+    },
+    {
+      "title": "That it works",
+      "text": "This product is so old it does not auto load under Windows 10. It then failed in operation, so I gave up and threw it away.",
+      "rating": 2.0,
+      "verified": true,
+      "author": "Neal H",
+      "helpful_votes": 0,
+      "publication_date": 20200312
+    },
+    {
+      "title": "Superb",
+      "text": "Needed a cheap wireless adapter and this fits the bill perfectly. Reputable well known brand, allows for the computer to connect to WiFi for basic web browsing and video watching, auto-detected under Windows 10 and used straight away. Highly recommended for a cheap, reliable web surfing.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Gareth",
+      "helpful_votes": 0,
+      "publication_date": 20200902
+    },
+    {
+      "title": "Difficult to install; kept dropping connection; slow.",
+      "text": "Very difficult to connect (although I did eventually find the correct drivers on the D-Link website). Connection unreliable; keeps dropping out and needing to be reset. Returned it.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "Nicholas Tier",
+      "helpful_votes": 0,
+      "publication_date": 20190804
+    },
+    {
+      "title": "Have switched now to another make and working much better than this one",
+      "text": "This D Link adapter did not work on my computer, and when I took my computer into the shop to check it, the D-Link adapter was tested on 3 other computers and did not work on any, Unhappy with my purchase and will not be buying this D-Link Adapter again, it seems every time I purchase the same make and model they never last, Have switched now to another make and working much better than this one, I would not recoommend",
+      "rating": 1.0,
+      "verified": true,
+      "author": "Mrs. K. Davies",
+      "helpful_votes": 0,
+      "publication_date": 20160120
+    },
+    {
+      "title": "DOES NOT WORK WITH WD LIVE HUB",
+      "text": "I was tricked into buying this product following a previous review which raved about how easy it was to connect to WD live; It is not. Despite my best efforts including retuning the wi fi frequency, the adapter would not pick up the signal. And I can understand why - you need to instal a driver from the accompanying CD for it to work, which is not possible on the WD live hub which is esssentially a hard drive only. I am still looking out for an adapter that has inbuilt driver and I can use with my system!!",
+      "rating": 1.0,
+      "verified": true,
+      "author": "shipra22",
+      "helpful_votes": 0,
+      "publication_date": 20130822
+    },
+    {
+      "title": "USB adapter fo Synology NAS",
+      "text": "Originally bought it for a NAS, but was very disappointed as it did not work. Reason for this was chip revision other than supported by DSM. Tested it on an older PC however, and it works very well. Connection stable, no frequent drops etc.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Vitalijus",
+      "helpful_votes": 0,
+      "publication_date": 20200905
+    },
+    {
+      "title": "despite its small size it works",
+      "text": "Needed 2 installations to get it working but simple software and not glitchy. The speeds are sometimes less than my new laptop and often just 20 % higher but in difficult parts of the home with thick walls it still provides a consistent connection with good speeds whereas the laptop can't find the signal. Switches channels at random but when it gets the right one super speeds. Not disconnected yet (3 hrs) !",
+      "rating": 4.0,
+      "verified": true,
+      "author": "london1234",
+      "helpful_votes": 0,
+      "publication_date": 20140430
+    },
+    {
+      "title": "Nano Nano",
+      "text": "Bought this as my other adapter didn't work with Windows 8. Very compact. I use it on my desktop but it must be ideal on a laptop that requires such a device. Have to say though that it doesn't give as fast a speed as say an Ipad when the signal is a little weaker but hey still more than enough to watch an HD movie and more, so not worth getting obsessed about absolute speed as it makes up for this if you want something compact.",
+      "rating": 4.0,
+      "verified": true,
+      "author": "Madmart",
+      "helpful_votes": 0,
+      "publication_date": 20140228
+    },
+    {
+      "title": "Unreliable",
+      "text": "Requires D-link software to connect to WiFi rather than allowing windows to do the job. Device is pretty much unusable as it will disappear from the software until I take it out and plug it back in again. Stays for about two minutes then goes again. Get the edimax ew7711mac especially if you have a laptop. It's no bigger than a nano receiver you would have for a mouse so doesn't look out of place. It's 5ghz N or AC only and despite being labelled as Mac it's compatible with windows. I am using it with Windows 8.1. This D-Link is now sat gathering dust.",
+      "rating": 2.0,
+      "verified": true,
+      "author": "M. Johnston",
+      "helpful_votes": 0,
+      "publication_date": 20150124
+    },
+    {
+      "title": "This does not work correctly with windows 10. I ...",
+      "text": "This does not work correctly with windows 10. I have updated the driver with the same result. It won't be switched on with the computer start without starting the programme for the wireless connection. I have reverted to using the nano 131 version instead.",
+      "rating": 2.0,
+      "verified": true,
+      "author": "Salty",
+      "helpful_votes": 0,
+      "publication_date": 20170407
+    },
+    {
+      "title": "Does not work with QNAP",
+      "text": "Although listed on compatibility chart, this does NOT work on QNAP 451",
+      "rating": 1.0,
+      "verified": true,
+      "author": "JHE",
+      "helpful_votes": 0,
+      "publication_date": 20200814
+    },
+    {
+      "title": "Beware if using Windows 8.1",
+      "text": "I originally purchased this to install on my Windows 7 Dell laptop. Worked fine, everything super fast, over 100mbs download. bought a new HP laptop with Windows 8.1 and when I install this adapter it keeps crashing the computer. Even tried a friends Win8.1 laptop and fails on that as well. This with the latest drivers from Dlink.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "Bangjessie",
+      "helpful_votes": 0,
+      "publication_date": 20150429
+    },
+    {
+      "title": "Stopped working after 2 years",
+      "text": "Originally it worked fine on my Windows 10 machine but after 2 years I am getting the same issues mentioned in other reviews and haven't been able to resolve them. This is completely unacceptable for a product like this.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "John C.",
+      "helpful_votes": 0,
+      "publication_date": 20200529
+    },
+    {
+      "title": "... does come with a 1m USB extension to allow better dongle orientation) this dongle is much smaller and works ...",
+      "text": "I also bought the DWA-182 (much bigger dongle but it does come with a 1m USB extension to allow better dongle orientation) this dongle is much smaller and works well providing 38% better data throughput than my laptop standard wireless connection, I've yet to try it on a full AC signal though",
+      "rating": 4.0,
+      "verified": true,
+      "author": "MJT",
+      "helpful_votes": 0,
+      "publication_date": 20150101
+    },
+    {
+      "title": "Poor reception so returned for refund.",
+      "text": "I was attracted by the small size of this adapter and the compatibility with my D-Link router. However the adapter had a very limited range (as used in an XP laptop) and had difficulties in picking up a signal through one wall. I cannot recommend this product. Amazon as usual offered an immediate refund and provided an excellent service.",
+      "rating": 2.0,
+      "verified": true,
+      "author": "Tim",
+      "helpful_votes": 0,
+      "publication_date": 20130727
+    },
+    {
+      "title": "I waited a long time to get this",
+      "text": "I have bought two of these devices for my DELL Precision M6500 laptops and they represent a cheaper alternative to an internal wireless card. The delivery was excellent and the installation only takes minutes. The speed at which these devices work is phenominal and I am well pleased with my purchase",
+      "rating": 5.0,
+      "verified": true,
+      "author": "M.Allison CEng",
+      "helpful_votes": 0,
+      "publication_date": 20130929
+    },
+    {
+      "title": "One Star",
+      "text": "What you see is NOT what you get. Does not work with Linux",
+      "rating": 1.0,
+      "verified": true,
+      "author": "Ray B.",
+      "helpful_votes": 0,
+      "publication_date": 20180706
+    },
+    {
+      "title": "Brother likes it.",
+      "text": "Brother is a cheapskate so won't splurge on items you generally should. However it works great with our country bumpkin internet",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Amy",
+      "helpful_votes": 0,
+      "publication_date": 20181025
+    },
+    {
+      "title": "AMAZING PRODUCT WINDOWS 10",
+      "text": "Works great on windows 10. NO ISSUES AT ALL! No overheating like people say and no disconnecting at all. Fastest wifi ariel i have used",
+      "rating": 5.0,
+      "verified": true,
+      "author": "WorldLaidBare aka mark madden",
+      "helpful_votes": 0,
+      "publication_date": 20161010
+    },
+    {
+      "title": "A very fast solution to my broadband problems",
+      "text": "I am using this device on a DELL Precision M6500 laptop computer to connect wirelessly to a Linksys type N router. The resulting combination exceeds my expectations and represents a very economical and easily installed solution.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "M.Allison CEng",
+      "helpful_votes": 0,
+      "publication_date": 20131018
+    },
+    {
+      "title": "No good to me",
+      "text": "I bought this to give my wife's netbook better Wi-Fi coverage around the house, but couldn't use it as it requires a CD-ROM drive to run a set up disc, which the netbook doesn't have. It made no mention of this on the website blurb, and I wouldn't have bought it had I known. Set up can't be done (as far as I'm aware) from the internet either.",
+      "rating": 2.0,
+      "verified": true,
+      "author": "Mr Richard D Baxter",
+      "helpful_votes": 0,
+      "publication_date": 20131004
+    },
+    {
+      "title": "compatability issues",
+      "text": "I bought the wireless adapter for my wdtv live hub as this was on amazon and on the recommended list on wdtv live hub website. The light would not come on and i could not get it to work at all although it did work on my laptop. I had to send it back as i bought it for my wdtv live hub",
+      "rating": 2.0,
+      "verified": true,
+      "author": "garry",
+      "helpful_votes": 0,
+      "publication_date": 20130415
+    },
+    {
+      "title": "Awesome Item!",
+      "text": "Delivered early than expected on the tracking, easy setup (took 5 minutes) and works perfectly since I've had it.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Amazon Customer",
+      "helpful_votes": 0,
+      "publication_date": 20170125
+    },
+    {
+      "title": "Meh",
+      "text": "It's good for what it is. I would have hoped that it wouldn't be as slow as it is but I guess it's my fault for not buying a high gain antenna wifi adapter instead. It's alright if you're closer to the router though.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Bary Allen",
+      "helpful_votes": 0,
+      "publication_date": 20160528
+    },
+    {
+      "title": "Brilliant",
+      "text": "Small, cheap, does the job. Some people have complained about the wireless range and quality but I haven't had any problems. Running this from a Raspberry Pi (revision 2 board) and it's connecting and working fine.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Richard Sedman",
+      "helpful_votes": 3,
+      "publication_date": 20130108
+    },
+    {
+      "title": "D-Link Wireless N Usb Nano Adapter Review",
+      "text": "Plug and play adapter bought to run in conjunction with WD TV Live Hub Media Centre. Easy set-up, just plug it in and away you go. No compatbility problems connects straight to wirless network, so does exactly what it says on the tin. One slight irritation is that the blue access light flashes constantly even when the parent unit is turned off. Other than that a great purchase.",
+      "rating": 4.0,
+      "verified": true,
+      "author": "R SUTTON",
+      "helpful_votes": 0,
+      "publication_date": 20130319
+    },
+    {
+      "title": "Works with WD TV Live Hub 1tb",
+      "text": "Plugged it straight into my WD TV Live Hub after I had switched it on; and almost instantly a prompt poped up asking if I wanted to connect to the local Wi-Fi network. Have had no problems ever since and it remembers all your details so there are no issues with having to re-enter your Wireless key. One piece of advice is to make sure you plug it into the rear of the device as the flashing light is quite annoying whilst using the WD TV Live Hub. Hope this helps.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Nathskiii",
+      "helpful_votes": 0,
+      "publication_date": 20130308
+    },
+    {
+      "title": "Ok",
+      "text": "It as problems with the usb 2 port kept losing signal",
+      "rating": 3.0,
+      "verified": true,
+      "author": "Xigbar",
+      "helpful_votes": 0,
+      "publication_date": 20200128
+    },
+    {
+      "title": "Excellent product. Very easy to install drivers for mac ...",
+      "text": "Excellent product. Very easy to install drivers for mac osx and works brilliantly well (better than the built in card)",
+      "rating": 5.0,
+      "verified": true,
+      "author": "superbug",
+      "helpful_votes": 0,
+      "publication_date": 20170701
+    },
+    {
+      "title": "Using this with our older computer has allowed us to move the router to a location better liked by our TV",
+      "text": "Living in a big house we have had constant connection problems with our Sky TV. Using this with our older computer has allowed us to move the router to a location better liked by our TV. Everything is working perfectly now and there were no problems with installation.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Gayle",
+      "helpful_votes": 0,
+      "publication_date": 20150407
+    },
+    {
+      "title": "So easy",
+      "text": "I needed to convert my desktop PC to wireless, and chose the D-Link DWA-131 Wireless N Nano USB Adapter because that is what my broadband supplier was going to supply to me (at their inflated price). I'd read a few negative reviews about this D-Link product, and did have a few doubts concerning my ability to undertake this as I'm totally ignorant about IT matters. Need not have worried. The instructions are so simple, the installation process smooth and the Adapter works brilliantly. Would recommend this product without any reservation.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "total novice",
+      "helpful_votes": 0,
+      "publication_date": 20120421
+    },
+    {
+      "title": "Recommended the product",
+      "text": "Very nice. Follow the procedure. Till today amazing results. Recommended it.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Nihit S.",
+      "helpful_votes": 0,
+      "publication_date": 20200903
+    },
+    {
+      "title": "Five Stars",
+      "text": "Excellent product. Very pleased. All my Wifi issues have gone. Very reliable and strong signal. Highly rec.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Muhammad S.",
+      "helpful_votes": 0,
+      "publication_date": 20171218
+    },
+    {
+      "title": "micro adapter",
+      "text": "really made a difference to the signal strength on my laptop with being a distance from the hub.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "pabs",
+      "helpful_votes": 0,
+      "publication_date": 20160223
+    },
+    {
+      "title": "The easiest way to fix the Airport on my broken Macbook Pro",
+      "text": "SUCCESS! My Macbook Pro is growing old and has suffered from a common problem where the airport just stops working. After some research I purchased this device. I simply installed the drivers (which I had to download as the CD drive is also broken on my laptop \u2013 cheers Apple!) and entered the network key (which is the same as the passphase on my Virgin Media router) \u2013 this got my wireless internet back up and running on my laptop :)",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Iain Rex",
+      "helpful_votes": 0,
+      "publication_date": 20140929
+    },
+    {
+      "title": "Works great, easy to set up",
+      "text": "Works great on my Win10 laptop. Handy USB connector lead provided too.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Ash Brown",
+      "helpful_votes": 0,
+      "publication_date": 20200414
+    },
+    {
+      "title": "Five Stars",
+      "text": "Fantastic product, I use on a HTPC and it's easily able to wirelessly stream HD media from my server.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "ramble",
+      "helpful_votes": 0,
+      "publication_date": 20160603
+    },
+    {
+      "title": "Used in office on PC that we wanted to keep ...",
+      "text": "Used in office on PC that we wanted to keep off the main network as used for dropbox and we were concerned about security.",
+      "rating": 4.0,
+      "verified": true,
+      "author": "Maurice Taylor",
+      "helpful_votes": 0,
+      "publication_date": 20150911
+    },
+    {
+      "title": "Easy to use said the technophobe",
+      "text": "I usually leave all the hi tech stuff for my kids to sort out. But when the dongle arrived the kids had vanished, so after a few deep breaths I decided to install it myself. It was so way, broad band was connected to the PC in a flash. Clear and easy to install, well impressed.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "funky old bird",
+      "helpful_votes": 0,
+      "publication_date": 20140324
+    },
+    {
+      "title": "D-Link nano usb internet adapter",
+      "text": "Delivery was prompt. Input instructions very easy to follow - step by step guide. Speed is excellent and very small size so less chance of knocking it out. All in all an excellent product for wireless connection to router.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Nicky W",
+      "helpful_votes": 0,
+      "publication_date": 20100507
+    },
+    {
+      "title": "does the job cheaply",
+      "text": "it had average range software is not brilliant installed third party software online for free allowed me to connect blue tooth keyboard to a laptop with a broken built in keyboard",
+      "rating": 3.0,
+      "verified": true,
+      "author": "Brandon Davies",
+      "helpful_votes": 0,
+      "publication_date": 20131210
+    },
+    {
+      "title": "Why?",
+      "text": "Earlier versions used to work just fine with the Raspberry Pi, latest ones don't! What makes something worse than it used to be?",
+      "rating": 1.0,
+      "verified": true,
+      "author": "Ric Brook",
+      "helpful_votes": 2,
+      "publication_date": 20130402
+    },
+    {
+      "title": "... it with our BT Infinity hub and it's working great. Easy to set up and looks cool too",
+      "text": "Just set this up for my son's gaming PC paired it with our BT Infinity hub and it's working great. Easy to set up and looks cool too.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Sss",
+      "helpful_votes": 0,
+      "publication_date": 20161228
+    },
+    {
+      "title": "Great connectivity over my house for such a good price",
+      "text": "Have bought 2 of these. Great connectivity over my house for such a good price.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "David",
+      "helpful_votes": 0,
+      "publication_date": 20170917
+    },
+    {
+      "title": "Great Speeds",
+      "text": "I got this to improve an only laptop that only had 54Mps, Simply install software , plug in and nice fast speeds, gives old hardware and new life.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "K G",
+      "helpful_votes": 0,
+      "publication_date": 20130610
+    },
+    {
+      "title": "This Wi-fi USB device is great, I get high internet speeds",
+      "text": "This Wi-fi USB device is great, I get high internet speeds, download speeds are satisfactory, I don't have any internet problems since i've bought it",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Chris leek",
+      "helpful_votes": 0,
+      "publication_date": 20161031
+    },
+    {
+      "title": "Two Stars",
+      "text": "I had buy three of them. after a while they just stop working",
+      "rating": 2.0,
+      "verified": true,
+      "author": "Giorgia",
+      "helpful_votes": 0,
+      "publication_date": 20160911
+    },
+    {
+      "title": "Overview",
+      "text": "It does work with Draft n, however never noticed any increased range, so is of little benefit over the current 802.11g. But it is small and unobtrusive on my netbook.",
+      "rating": 4.0,
+      "verified": true,
+      "author": "G. Cran",
+      "helpful_votes": 0,
+      "publication_date": 20100407
+    },
+    {
+      "title": "crap",
+      "text": "What a crock of s*** we used it three times and windows blocked it trying to contact amazon to get a refund and just going round in circles dont buy its old firmware and aparently cant run on windows 7 or 8",
+      "rating": 1.0,
+      "verified": true,
+      "author": "ian",
+      "helpful_votes": 0,
+      "publication_date": 20150301
+    },
+    {
+      "title": "Good when close to the router",
+      "text": "Bought this as having problems connecting a toshiba netbook to the internet this seemed to fit the bill - very small and unobtrusive. It was easy to install however once 15 feet away the signal dropped significantly and then dropped out altogether. So my advice is buy this product if you only intend to use it close to a router.",
+      "rating": 2.0,
+      "verified": true,
+      "author": "Mr T Whtiing  Birmingham",
+      "helpful_votes": 0,
+      "publication_date": 20120612
+    },
+    {
+      "title": "wireless adaptor",
+      "text": "i wanted an adaptor that speeded up my wireless connection but didn't want anything obtrusive. this adaptor is the smallest i have come across but works superbly and is a doddle to install.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "blademan",
+      "helpful_votes": 0,
+      "publication_date": 20120606
+    },
+    {
+      "title": "D-link adapter",
+      "text": "Very useful in an area in the house with very thick walls in helping the signal to get through. This means that things are moving much quicker than they used to.",
+      "rating": 4.0,
+      "verified": true,
+      "author": "Stef",
+      "helpful_votes": 0,
+      "publication_date": 20120430
+    },
+    {
+      "title": "Great little Bertie",
+      "text": "Can confirm: works on OS X 10.13 High Sierra, using 10.11 drivers from D-Link support website. Great little Bertie!",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Jerrad",
+      "helpful_votes": 0,
+      "publication_date": 20171020
+    },
+    {
+      "title": "Great",
+      "text": "Bought this for my Raspberry Pi & it worked straight out of the box. Just the job for streaming media with OpenElec/ XBMC.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Bruss",
+      "helpful_votes": 0,
+      "publication_date": 20131125
+    },
+    {
+      "title": "Not compatible with Mac Yosemite",
+      "text": "Would have given this product more if it actually worked. Not compatible with Mac Yosemite. No compatible drivers on the CD or available online. Had to return.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "Ben",
+      "helpful_votes": 0,
+      "publication_date": 20160510
+    },
+    {
+      "title": "Excellent value",
+      "text": "Having had a previous much bigger unit which was always being knocked and eventually failed because of this, I find the much smaller design of the Nano adapter obviously less intrusive and therefore unlikely to be damaged.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "John Douglas",
+      "helpful_votes": 0,
+      "publication_date": 20130329
+    },
+    {
+      "title": "d link",
+      "text": "It does it job perfect Iwith some devices but did not work on my wii and wd. It was I got it and gave it a try bot did work on laptop",
+      "rating": 3.0,
+      "verified": true,
+      "author": "loriannec",
+      "helpful_votes": 0,
+      "publication_date": 20130918
+    },
+    {
+      "title": "Good modern device",
+      "text": "Had issues with a previous adapter not working properly with windows 10 so decided to try this. Works perfectly with windows 10 and I get great speeds.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Amazon Customer",
+      "helpful_votes": 0,
+      "publication_date": 20161125
+    },
+    {
+      "title": "Three Stars",
+      "text": "5G Band 4 is not available, only Band 1 can work.",
+      "rating": 3.0,
+      "verified": true,
+      "author": "Stacy",
+      "helpful_votes": 0,
+      "publication_date": 20180507
+    },
+    {
+      "title": "Great replacement for my internal wifi driver which was temperamental",
+      "text": "Works to perfection. Great replacement for my internal wifi driver which was temperamental.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Robin Evans",
+      "helpful_votes": 0,
+      "publication_date": 20170912
+    },
+    {
+      "title": "Nano adapter",
+      "text": "I am unimpressed with this product.Good point is that it is small,unlike previous adapter that because they were long kept getting bent.Bad point is that you must be in the same room as wireless router to pick up signal.",
+      "rating": 2.0,
+      "verified": true,
+      "author": "Amazon Customer",
+      "helpful_votes": 0,
+      "publication_date": 20121028
+    },
+    {
+      "title": "Great little device",
+      "text": "Efficient, and reliable. I had a computer for some time that loved to restart, and until I figured out what - it was the RAM btw - this little device survived maybe 1000+ crashes, no jokes.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Joshua N Cox",
+      "helpful_votes": 0,
+      "publication_date": 20140320
+    },
+    {
+      "title": "Fantastic little adapter",
+      "text": "I recently moved the desktop PC out of the living room and didn't want to trail the network cable across a hallway to the PC's new location. Purchased this item and have had no troubles with the connection to the internet from the desktop at all.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Ind0ctrin",
+      "helpful_votes": 3,
+      "publication_date": 20121112
+    },
+    {
+      "title": "Works with WD TV Live Plus HD Gen 2",
+      "text": "Purchased this to make my WD TV Live media player become wireless as this unit is quoted by Western Digital on their list of compatible devices. It works flawlessly with the unit, streaming HD video from one room to another.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Ste",
+      "helpful_votes": 0,
+      "publication_date": 20120706
+    },
+    {
+      "title": "Works without issue",
+      "text": "I've used it in a Raspberry Pi without issue, worked out of the box with recent Raspian releases, would buy again.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "John",
+      "helpful_votes": 3,
+      "publication_date": 20130316
+    },
+    {
+      "title": "Great piece of hardware",
+      "text": "All I can say is this is great!! Very easy and quick to install and gained access to the Internet straightaway. I can now say goodbye to Vodafone whose broadband signal is practically non-existent.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Zx",
+      "helpful_votes": 0,
+      "publication_date": 20130819
+    },
+    {
+      "title": "One Star",
+      "text": "It drops connection and is outperformed by cheaper, older wifi USBs.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "A Holland",
+      "helpful_votes": 0,
+      "publication_date": 20170201
+    },
+    {
+      "title": "Little",
+      "text": "I am sattisfied the range is very good, but the speed is normal. Price/quality very good. Till now no problems yet. Easy to install the software.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Osi",
+      "helpful_votes": 0,
+      "publication_date": 20110821
+    },
+    {
+      "title": "great",
+      "text": "Booster my internet connection, especially downloads from approx 500kb to 7mb, very impressed, small, non intrusive, great product",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Ms E J Hutchinson",
+      "helpful_votes": 0,
+      "publication_date": 20140804
+    },
+    {
+      "title": "Signal strenth is not that great",
+      "text": "I am not impressed with how capable this adapter is of picking up a wireless point that is positioned at the other side of a thin wall.",
+      "rating": 2.0,
+      "verified": true,
+      "author": "Hamid",
+      "helpful_votes": 0,
+      "publication_date": 20120601
+    },
+    {
+      "title": "Exactly what I wanted it to do",
+      "text": "Really fast, exactly what I wanted it to do. Easy to use, install... Generally just really user-friendly. 10/10 :) x",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Amy Turner",
+      "helpful_votes": 0,
+      "publication_date": 20121126
+    },
+    {
+      "title": "Didnt work with our system!",
+      "text": "But the fact that it doesn't work with our system is probably not the fault of the item but of our system!",
+      "rating": 3.0,
+      "verified": true,
+      "author": "JDMyers",
+      "helpful_votes": 0,
+      "publication_date": 20130217
+    },
+    {
+      "title": "easy to use and worked",
+      "text": "Prompt delivery, easy to use and worked. Cannot ask for more",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Leslie James",
+      "helpful_votes": 0,
+      "publication_date": 20151121
+    },
+    {
+      "title": "Five Stars",
+      "text": "Good device. Plugged in. Drivers found by Windows 8.1. No signal drops. Speed good.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "MR PHILIP BEST",
+      "helpful_votes": 0,
+      "publication_date": 20150325
+    },
+    {
+      "title": "Works fine with Ubuntu 11.10",
+      "text": "Very small, and very fast, I was looking for an Ubuntu compatible wireless USB. This was just plug and play.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "J. Gustard",
+      "helpful_votes": 0,
+      "publication_date": 20120425
+    },
+    {
+      "title": "Works perfect",
+      "text": "Works perfectly, no issue with install. Easy to use and configure.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Abdul Ahad",
+      "helpful_votes": 0,
+      "publication_date": 20150302
+    },
+    {
+      "title": "Compatability issues?",
+      "text": "I bought this because it is one of the few wireless adapters which Microsoft claim to be fully compatible with Windows 7. Despite a number of attempts, the drivers will not install from the D-Link product CD, and it took quite a bit of digging around to find a driver on their website which was suitable. I did, eventually, get it up and running however, but the connection was quite slow. I since moved this to my old Windows XP computer, and it installed first time, and works a treat.",
+      "rating": 3.0,
+      "verified": true,
+      "author": "Harvey E",
+      "helpful_votes": 10,
+      "publication_date": 20100501
+    },
+    {
+      "title": "WDTV Live Hub",
+      "text": "Just bought WD Live hub and D Link USB network adaptor. This combination DID NOT work as the network adaptor is a different series chipset, the WD site mentions series one and the one I bought is series two. My friend and I tried everything possible and it still didn't work. Look at the WD site before buying an adaptor. The adaptor works well with PC so there is nothing wrong with it, it is just that it does not work with the WD Live Hub",
+      "rating": 1.0,
+      "verified": true,
+      "author": "A. Craven",
+      "helpful_votes": 2,
+      "publication_date": 20130303
+    },
+    {
+      "title": "Great purchase.",
+      "text": "Although a little later in arriving than anticipated the Adapter is perfect for our requirements. Has transformed our working environment.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Mel B",
+      "helpful_votes": 0,
+      "publication_date": 20130416
+    },
+    {
+      "title": "Avoid this if you ever plan on unplugging it!",
+      "text": "Incredibly flimsy product - it didn't even last 5 minutes. After plugging it into my laptop, I tried to remove it and as I did, the black cover, circuit board & metal surround separated into 3 pieces leaving the metal surround stuck in my USB port. On the plus side, Amazon looked after the refund quickly & efficiently.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "Keith",
+      "helpful_votes": 0,
+      "publication_date": 20130206
+    },
+    {
+      "title": "... extension cable so you can mount the dongle for best reception, works okay but not noticeably better over ...",
+      "text": "Wireless AC dongle supplied with a 1m USB extension cable so you can mount the dongle for best reception, works okay but not noticeably better over G or N than the D-Link DWA-171 (but that was 38% better than my laptop native wireless) I will have to wait till my network is upgraded to AC",
+      "rating": 4.0,
+      "verified": true,
+      "author": "MJT",
+      "helpful_votes": 0,
+      "publication_date": 20150101
+    },
+    {
+      "title": "Dingle my Dongle that's fast",
+      "text": "FAST as a fast thing on a fast day. connects to the AC1750 really easily and has a great connection. It does not like the 5 k connection though!",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Si",
+      "helpful_votes": 0,
+      "publication_date": 20150307
+    },
+    {
+      "title": "Easy to set up",
+      "text": "Bought this because my laptop wifi adapter failed. Easy to set up, you don't need a disk drive as you can download software from the D-link website. Think it actually gives me a better connection than when my laptop adapter was working! Don't leave it connected to the USB drive when not in use though, I did and although it doesn't stick out that much I caught it and it broke, had to buy another one. Great product.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Colin Sinnott",
+      "helpful_votes": 0,
+      "publication_date": 20150512
+    },
+    {
+      "title": "This device overheats and disconnects. You will need to reboot or manually restart it.",
+      "text": "This device overheats and disconnects - windows still reports that you have a connection for a few minutes after disconnection - also does not automatically reconnect. You will need to reboot or manually restart it - TOTAL WASTE OF TIME AND MONEY - DON'T BUY!!",
+      "rating": 1.0,
+      "verified": true,
+      "author": "Radix",
+      "helpful_votes": 0,
+      "publication_date": 20160905
+    },
+    {
+      "title": "Buyer Beware !",
+      "text": "Found broken after two months of use and after a month now of D-Link help services trying to send me files and troubleshooting I have had to asked for a refund twice. The Product I was given became faulty after an update and the services have tried to fix but they have difficulty sending me on any way to refund the product. Would not recommend for this simple fact.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "Cal monahan",
+      "helpful_votes": 0,
+      "publication_date": 20180111
+    },
+    {
+      "title": "Four Stars",
+      "text": "Pretty good. Not high end but you get what you pay for.",
+      "rating": 4.0,
+      "verified": true,
+      "author": "Dean",
+      "helpful_votes": 0,
+      "publication_date": 20150713
+    },
+    {
+      "title": "Very small and works good.",
+      "text": "Really small, like as small as it looks in the picture. Isn't it amazing what they can do these days? I saw this documentary where this man had new eyes then and then he went in the fridge and ate a mouldy sandwich. Errrgh. I know this German girl who is petrified of mould - one day I held an Erlenmeyer flask of mouldy conkers up to her face and she ran out of the laboratory screaming. The French girl had to go out and calm her down before she would come back in. True story.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Stephen",
+      "helpful_votes": 4,
+      "publication_date": 20130426
+    },
+    {
+      "title": "One Star",
+      "text": "Waste of time would not communicate with my virgin hub.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "Amazon Customer",
+      "helpful_votes": 0,
+      "publication_date": 20170404
+    },
+    {
+      "title": "The drivers for OSX have critical bugs that cause kernel ...",
+      "text": "The drivers for OSX have critical bugs that cause kernel panics, every few days your machine *will* crash and it is as a result of this product's software being poorly made. Stay far away.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "G. Allott",
+      "helpful_votes": 0,
+      "publication_date": 20160918
+    },
+    {
+      "title": "Adapter works fine but only with windows very disappointed that it won't ...",
+      "text": "Adapter works fine but only with windows very disappointed that it won't work with Apple Time capsule as this is one of few Back up devices that utilises AC1750 I should have checked more carefully to ensure it was compatible with not just windows operating systems",
+      "rating": 2.0,
+      "verified": true,
+      "author": "MattDan",
+      "helpful_votes": 0,
+      "publication_date": 20150204
+    },
+    {
+      "title": "Nice product but wouldn't communicate with router",
+      "text": "Waste of time would not communicate with my virgin hub. Item returned.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "Amazon Customer",
+      "helpful_votes": 0,
+      "publication_date": 20160612
+    }
+  ],
+  "product_meta": {
+    "title": "D-Link WiFi USB Adapter AC1200 Mini Wireless Internet Dual Band 3.0 Wi-Fi Netowrk Desktop Laptop (DWA-182),Black",
+    "description": "Style:AC1200Upgrade to AC performance: today's households are connecting more devices than ever before - with more and more I phones, Androids, tablets, and laptops laying around in any given home, It's important that each device gets the speed and coverage It deserves. By upgrading your laptop and desktop computers to AC, you can immediately enjoy the benefits of faster wireless speeds and better connectivity - all with less wireless interference so you can enjoy doing what you love most. Delivering Wi-Fi dual Band speeds of up to 300/867 Mbps, the DWA-182 is the perfect solution for those looking to enjoy smooth gaming, high-quality HD video streaming and fast file transfers. Backward compatible: while the wireless AC1200 Dual Band USB adapter delivers blazing fast AC speed to your laptop or desktop computer, it's also backward compatible with older Wi-Fi routers and devices - no updates or adapters necessary. Maximize your AC performance: while your new AC adapter delivers the latest and the greatest in wireless performance to your laptop and desktop computers, you can further optimize your home network's performance by upgrading your current router to one of D-Link AC routers. By adding an AC router to your home network, you can avoid speed bottle-necks and maximize your AC performance. Dual Band advantage: The wireless AC1200 Dual Band USB adapter delivers dual Band performance to your laptop or desktop computer for intelligent, versatile, interference-free bandwidth. Check your e-mail and surf the internet on the 2. 4GHz band; or game, Make Skype calls and stream HD movies with less interference on the 5GHz band. Whatever you like to do online, dual Band has you covered. Easy push button setup: quickly and easily establish a fast, secure home network that will have you browsing, streaming, and watching in minutes. Connection is only a push of a button away!",
+    "rating": 4,
+    "feature_bullets": [
+      "Next Generation Wi-Fi AC Technology for Superior Wireless Performance",
+      "Dual Band Technology - 2. 4GHz (up to 300Mbps) or 5GHz (up to 867Mbps)",
+      "Supports USB 3. 0 for optimal connection throughput with your laptop or desktop computer (C1 version)",
+      "Backward compatible with 802. 11n",
+      "Draft IEEE 802. 11ac, 802. 11n, 802. 11g and 802. 11a Compliant",
+      "Access Secure Networks using WPA or WPA2",
+      "Wi-Fi Protected Setup (WPS) Push Button for Easy Connection to a Wireless Network",
+      "Next Generation Wi-Fi AC Technology for Superior Wireless Performance",
+      "Dual Band Technology - 2.4GHz (up to 300Mbps) or 5GHz (up to 867Mbps)",
+      "Supports USB 3.0 for optimal connection throughput with your laptop or desktop computer (C1 version)",
+      "Backward compatible with 802.11n",
+      "Draft IEEE 802.11ac, 802.11n, 802.11g and 802.11a Compliant",
+      "Access Secure Networks using WPA or WPA2",
+      "Wi-Fi Protected Setup (WPS) Push Button for Easy Connection to a Wireless Network"
+    ],
+    "specifications": {
+      "Wireless Type": "802.11n, 802.11a, 802.11g",
+      "Number of USB 3.0 Ports": "1",
+      "Brand": "D-Link",
+      "Item model number": "DWA-182",
+      "Operating System": "Windows XP, Windows 7",
+      "Item Weight": "0.705 ounces",
+      "Product Dimensions": "3.82 x 1.14 x 0.51 inches",
+      "Item Dimensions  LxWxH": "3.82 x 1.14 x 0.51 inches",
+      "Color": "Black",
+      "Voltage": "5 Volts",
+      "Department": "Wireless adaptor",
+      "Manufacturer": "D-Link Systems, Inc.",
+      "Language:": "English, French",
+      "ASIN": "B0099XFRIY",
+      "Is Discontinued By Manufacturer": "No",
+      "Date First Available": "September 12, 2012",
+      "Customer Reviews": "4.0 out of 5 stars1,381 ratings4.0 out of 5 stars",
+      "Best Sellers Rank": "#428 in USB Computer Network Adapters"
+    },
+    "categories": [
+      "Computers & Accessories",
+      "USB Network Adapters",
+      "Electronics",
+      "Network Adapters",
+      "Networking Products"
+    ],
+    "price": 47.69
+  }
+}

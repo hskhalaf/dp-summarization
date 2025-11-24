@@ -1,0 +1,958 @@
+{
+  "website_summaries": [
+    {
+      "verdict": "Despite a few usability quirks, Belkin's WeMo Insight Switch only improves on the simple, low-risk formula that made Belkin's original programmable WeMo Switch so appealing as a home automation starting point.",
+      "pros": [
+        "A smaller plastic housing and new power usage tracking on Belkin's WeMo Insight Switch bring greater visual appeal and usefulness to Belkin's already winning entry-level smart-home power plug line"
+      ],
+      "cons": [
+        "Setup remains a hassle, it's still large enough to block adjacent outlets, and reliance on IFTTT for advanced programming functions means you'll need to bounce between two different apps to get the most out of the Switch"
+      ],
+      "aspects": {
+        "Features": 8.0,
+        "Usability": 8.0,
+        "Design": 8.0,
+        "Performance": 9.0
+      },
+      "publication_date": 20180720,
+      "rating": 8.1,
+      "source": "cnet"
+    }
+  ],
+  "customer_reviews": [
+    {
+      "title": "Convenient but nit very \u2018user friendly\u2019",
+      "text": "Very convenient to control from my IPhone. Setting up \u2018rules\u2019 to go on & off at preset times is also a great convenience. Main issues: 1. updates need to applied manually when app is open. There should be an option to get them installed automatically. 2. To reconnect or update WiFi can be a real pain. Wish this process could be accomplished without having to crawl around, move furniture and push buttons on tve device & reset iPhone app. Not very user friendly to update WiFi!",
+      "rating": 4.0,
+      "verified": true,
+      "author": "Hajh",
+      "helpful_votes": 0,
+      "publication_date": 20190615
+    },
+    {
+      "title": "Does exactly what I expect",
+      "text": "I have been using this for over a year now on the coffee pot. I didn't want to spend $80 on a fancy coffee pot with a timer so instead I got the $15 one and put it on this switch. Every morning when I'm ready to get out of bed I switch it on from my phone and it's ready when I am. It also works seamlessly with my Amazon Echo. Maybe I got lucky, after reading some comments it sounds like others had issues but it's worked flawlessly for me. I'm about to order a few more and some light switches for various automation while I'm away from home.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "D. Cade",
+      "helpful_votes": 0,
+      "publication_date": 20160908
+    },
+    {
+      "title": "Great product with potentially serious flaw: Makes Apple's AirPlay virtually unusable.",
+      "text": "I really do like these switches. I recently bought 5 and have installed 3 so far. Setup is very easy, as is configuration. I could see purchasing more of these if it weren't for a major flaw. Currently, if have one of these plugged in, your AirPlay devices will randomly and frequently disconnect, making AirPlay music streaming virtually unusable. Let be clear, IF YOU CONNECT A WEMO VIA YOUR WIRELESS NETWORK, YOUR AIRPLAY SPEAKERS WITH RANDOMLY DISCONNECT IF THEY ARE ON THE SAME NETWORK.",
+      "rating": 2.0,
+      "verified": true,
+      "author": "Dopealope",
+      "helpful_votes": 5,
+      "publication_date": 20140917
+    },
+    {
+      "title": "Wouldn't stay connected to my wifi.",
+      "text": "Wouldn't stay connected to my wifi. Spent 45 minutes on phone with Belkin rep until finally on the third time, it actually connected to my wifi. After about 15 minutes, I could no longer detect it. It's being returned. I've had good luck with the Ankuoo Neo Pro, even though I think it lacks IFTTT support. [Update] I spent another hour on the phone with Belkin support (total of 2:45, including 45 minutes on hold one night where I never actually reached anyone), and finally got it working. Oh, and I was never able to get it to connect to my \"guest\" wifi. I'm sort of worried about this device spying on my home network traffic. [End update]",
+      "rating": 2.0,
+      "verified": true,
+      "author": "Michael A. Behr",
+      "helpful_votes": 0,
+      "publication_date": 20150617
+    },
+    {
+      "title": "Ok when it works",
+      "text": "We have 6 switches and have been using Wemo for 3 years. When it works, its smazing. However, firmware updates 50% of the time lose the devices and its painful to re-establish all the devices again. I have also had to replace two devices that quit working. At $50 each, they should last more than a year or two. Last, the software for iphone should be better. It takes awhile for it to connect to your devices. Mesnwhile, you are sitting in the dark, waiting for the lights to turn on. I am officially looking at other solutions.",
+      "rating": 2.0,
+      "verified": true,
+      "author": "Book Fan",
+      "helpful_votes": 2,
+      "publication_date": 20160709
+    },
+    {
+      "title": "it it is much better. At the beginning it was barely usable given ...",
+      "text": "I have had one for a year and a half. Now, after many software updates, it it is much better. At the beginning it was barely usable given the frequent need to re-initialize the device; I almost gave up on it. Clearly, when I bought it, WeMo was shipping a beta level product not ready for prime time, and that's very disappointing. For the past few months it has finally been a lot more reliable.",
+      "rating": 3.0,
+      "verified": true,
+      "author": "Claude Ezran",
+      "helpful_votes": 0,
+      "publication_date": 20170531
+    },
+    {
+      "title": "Cool Approach towards saving electricity.",
+      "text": "The possibilities for this switch are pretty much limitless. Setting the device up was (honestly) not all that difficult. I love the fact that this device allows you to use the (if this, than that) IFFT app. Personally I feel as though the IFFT concept has a long way to go...but that is an entirely different conversation. The App that goes along with this switch is pretty useful. I can definitely see this device being the solution to shaving a few bucks off the power bill. (Just be aware this this device is constantly drawing a couple watts of power, at all times.)",
+      "rating": 4.0,
+      "verified": true,
+      "author": "Michael",
+      "helpful_votes": 0,
+      "publication_date": 20141125
+    },
+    {
+      "title": "Works well... if not a little rough around the edges.",
+      "text": "Works as advertised. I have had no issues so far. The plug is still a little larger than I think it needs to be. The WeMo Insight Switch integrates with my Amazon Echo and I can now control my lights by speech... very cool! I suspect many of the bad reviews on this site are from users whom are not technical and not able to troubleshoot wifi issues. I am not going to say this product is perfect. I fell the app needs some work. But a pretty neat product none the less. I'd recommend this product to techies, but not to my mom and dad.",
+      "rating": 4.0,
+      "verified": true,
+      "author": "SincLabs",
+      "helpful_votes": 0,
+      "publication_date": 20150625
+    },
+    {
+      "title": "Wemo wall switch reveiw",
+      "text": "Had issues with installing the switches using the Android App which can be a little confusing at first. After clearing the \"operator headspace\", I did get all the switches to talk to my home network. It appears the wall switches just needed a reset. In addition, I was using them through Android App but have since purchased an Amazon Alexa (Echo). I use this to operate the switches and it works flawlessly and is the primary method for controlling the system.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "RRA ",
+      "helpful_votes": 0,
+      "publication_date": 20160604
+    },
+    {
+      "title": "Great Product, but below par App",
+      "text": "Endless fun with automation. I use Amazon Echo with it and its awesome to turn on a whole room with words. Major Con: Their WeMo app lacks functionality and is buggy. Thus, if you are hardcore do it yourselfer, grab the WeMo manager (3rd party android app) from the google play store. Suddenly you have a stable app that does way more than the WeMo original app. It costs ~9 bucks though, but its worth the enhancement it gives to WeMo.",
+      "rating": 4.0,
+      "verified": true,
+      "author": "Daniel Paschall",
+      "helpful_votes": 0,
+      "publication_date": 20160725
+    },
+    {
+      "title": "Needs updates",
+      "text": "Took a while to connect to the app, I had to let is sit for a day before it connected correctly. Also it sometimes randomly turns on and off. Which is not great when you are in the middle of a game or tv show. The app does an ok job at giving you insight into your usage, although there is no continuous/running log of how much electricity you used each day for the past month. Instead I have to write the daily usage into a google doc using IF (formerly known as if this than that; IFTTT).",
+      "rating": 3.0,
+      "verified": true,
+      "author": "Do",
+      "helpful_votes": 0,
+      "publication_date": 20150308
+    },
+    {
+      "title": "Works perfectly, will purchase more",
+      "text": "This technology is evolving rapidly. Many of these bad reviews become obsolete quickly because of firmware updates and product improvements. I had no trouble setting this thing up. It prompted me for a firmware update which only took a few minutes. Then I was able to turn it on and off instantly with my android phone, amazing. I'm actually using this to control my electric hot water tank (Via a 240V 30A contactor). I leave it off all day, then turn it on 30 minutes before I get home from work and my water is hot and ready for a shower. The product seems well built and the app works perfectly.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Cl13",
+      "helpful_votes": 0,
+      "publication_date": 20141223
+    },
+    {
+      "title": "Loved it, until random restarts started to happen.",
+      "text": "I loved this thing when I bought it and set it up. It was exactly the solution I was looking for with my home computer. Within a few weeks though I started to get weird behavior. The insight switch would randomly restart itself every few days with no rhyme or reason. I have updated the firmware and made sure that I had no rules setup, but it's continuing to happen. At this point, it's almost useless to me because I can't be in the middle of playing an MMO and have my computer restart itself. If it wasn't for this issue, I actually really love this thing, but random restarts are just a deal breaker.",
+      "rating": 3.0,
+      "verified": true,
+      "author": "Ryan D. Gilbert",
+      "helpful_votes": 0,
+      "publication_date": 20150221
+    },
+    {
+      "title": "Really worth it for some applications.",
+      "text": "I have some electronics in the house that I do not want on when I am not in the house. I bought one of these and set it up in no time. The only issue that I had was with the firmware upgrade. That part was a little wonky because there is no feedback as to what is going on and how long it will take. Belkin, some feedback would be nice. After I got it set up, I played around with IFTTT and found some pretty clever applications that I could create. I ordered another one of these so that I can play around with some of my ideas.",
+      "rating": 4.0,
+      "verified": true,
+      "author": "Temporal Singularity",
+      "helpful_votes": 0,
+      "publication_date": 20140726
+    },
+    {
+      "title": "The rule function seems to have failed after a few months of use",
+      "text": "It does not have the same functionality as the wired switch. With the switch, I can turn my light on and off when I am away from home. I have not successfully done this with this plug in one unless I am connected to the same wifi. It's still a great timer, but one of the features advertised doesn't work. Time to update this review, and lower my star rating. I've had the product for a few months and use it as a \"smart\" timer for a lamp. It works most of the time, but it also will turn on randomly in the middle of the night which is contrary to any of the rules i have set up.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "Jon A.",
+      "helpful_votes": 0,
+      "publication_date": 20150210
+    },
+    {
+      "title": "Love WeMo!",
+      "text": "I have the earlier version of the WeMo wi-fi enabled outlet, but I bought this newer version for my mother. It works seamlessly with Amazon Echo and is super convenient for her to walk into the house and say \"Alexa, turn on the living room light.\" Echo does as she commands. I think it's great that you can \"name\" the outlet whatever you want, and it will work. If she'd named her living room light \"spaghetti,\" the same task would have been completed by her saying \"Alexa, turn on spaghetti.\" Cool.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Louella",
+      "helpful_votes": 0,
+      "publication_date": 20160113
+    },
+    {
+      "title": "Easy set up",
+      "text": "Easy set up, App is very easy and simple to understand. Issues that I have had are the delays in pulling up the app and it fully recognizing the switches. The second issue is that it will not work with Home Kit and apparently will never work according to Belkin and the developers due to a hardware issue. I would like to see something like this to work with both Alexa and Homekit as it will keep me from being tied down to one service, but also I dont want a whole array of devices and have to use individual apps for each device.",
+      "rating": 4.0,
+      "verified": true,
+      "author": "Pat J",
+      "helpful_votes": 0,
+      "publication_date": 20160809
+    },
+    {
+      "title": "Wemo Insight Switch",
+      "text": "I really enjoy the automation Wemo is doing here. This unit was particular buggy until it finally went through a few firmware updates. This product in my opinion is still very much in its beginning stages. If you can deal with a few bugs while it updates after installation its okay. The app on my phone is still quite buggy. It does locate everything now (used to have problems with that), but now the app is EXTREMELY slow to scroll up and down. For the price i feel Wemo should have this a bit more streamlined. But at least they do well at keeping it updated to help address some of the issues.",
+      "rating": 3.0,
+      "verified": true,
+      "author": "Jordan",
+      "helpful_votes": 0,
+      "publication_date": 20140226
+    },
+    {
+      "title": "Worthless",
+      "text": "Buy this if you want a really expensive paper weight. As a remote switch it'd probably be easier to train your dog to go turn on your lamp. It is the most cumbersome software and glitchy interface I've ever used. It doesn't connect half the time, the phone won't detect the switch half the time. If you want automated lights get Phillips Hue, this one is worthless.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "JMLA",
+      "helpful_votes": 0,
+      "publication_date": 20151029
+    },
+    {
+      "title": "Work Great with Amazon Echo/Dot",
+      "text": "Works with Amazon Echo once setup and linked to the Amazon device. WeMo has improved these switches and software over the last two years. I've owned these for a couple years and recently purchased another Insight Switch to use with my Echo and Dot. Over that time the connectivity and stability of the three Insight switches I own have improved. They almost never loose connection with my WiFi network and they always respond to my Echo commands. Now I can highly recommend them.",
+      "rating": 4.0,
+      "verified": true,
+      "author": "DJ",
+      "helpful_votes": 0,
+      "publication_date": 20160512
+    },
+    {
+      "title": "Fails after switched On remotely and cannot be turned off",
+      "text": "Fails when remotely switched On and cannot be turned off. Warning for anyone using this switch remotely: Anything connected will remain on forever until returning home and doing a factory reset. Worked fine for about 3 months before problems began. Only fix by Belkin was to unplug and reset switch which obviously cannot be done remotely.",
+      "rating": 2.0,
+      "verified": true,
+      "author": "Oakpines",
+      "helpful_votes": 0,
+      "publication_date": 20151020
+    },
+    {
+      "title": "The first one I bought never worked, even after ...",
+      "text": "The first one I bought that you plug in for lamps never worked, even after extensive time with online support. I feel certain this was not user error - I am capable in this regard and then I did everything the help desk asked. The second one works sometimes, but it is programmed in vacation mode to go on and off at certain times. It is extremely unreliable in this regard - so unreliable that I'm not sure it really works on any pattern at all. The light switch I bought works as a regular light switch, but does not reliably go on or off as programmed. This one I had installed by a professional electrician.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "Dan",
+      "helpful_votes": 0,
+      "publication_date": 20160320
+    },
+    {
+      "title": "Trash",
+      "text": "I've spent more hours than I care to admit trying to get these to connect to my wifi. They will randomly drop out and need to be reset. Setting this up is a painful process that often fails. These are supposed to make your life easier but they are just a headache. After two years of on and off trying to get these to work, they are going in the trash.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "M. Peters",
+      "helpful_votes": 0,
+      "publication_date": 20171215
+    },
+    {
+      "title": "I love this device",
+      "text": "I love this device, being able to turn on and off devices remotely. We use two of them to remotely monitor A/c units. We're able to have them turn on an hour before we arrive home so the apartment is cool. It's also great to dial in the cost of electricity and see what you're paying per device. My only negative comment is that you can't plug two of these into one outlet, the size of one blocks the ability to plug another in above/below it. They should design a double version that takes advantage of both outlets.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "B Coyle",
+      "helpful_votes": 0,
+      "publication_date": 20150606
+    },
+    {
+      "title": "Not Ready for Production",
+      "text": "Returned it promptly. It was too flaky for me. I wanted it to work with the Amazon Echo. Setup of the switch too three tries to get connected to the network. Amazon Echo found the new device and not less than 10 minutes later the malarkey started. WeMo's app wasn't consistently finding the switch, then Amazon Echo could no longer see the device. Too frustrating.",
+      "rating": 2.0,
+      "verified": true,
+      "author": "Veronica Davis",
+      "helpful_votes": 3,
+      "publication_date": 20160108
+    },
+    {
+      "title": "Great device when it works, warranty replacement department sucks",
+      "text": "I love this device, I have several of them and they work great with Amazon Echo / Alexa and is easy to setup, and it doesn't require a hub like most other devices on the market. The only reason I don't give it 5 stars is I've had some issues with one and had to send it back under warranty and they did everything they could to drag that process out and try to tell me it was me screwing up instead of the device being faulty.",
+      "rating": 4.0,
+      "verified": true,
+      "author": "Kissell",
+      "helpful_votes": 0,
+      "publication_date": 20160520
+    },
+    {
+      "title": "Convenient home automation",
+      "text": "I love this switch, especially now since they get the bugs worked out of the firmware. You can finally use it as a timed switch (i.e. Auto-off after an hour, or anytime you set, after it's been turned on). It can also work on a time schedule either by hour or by sun rise or sunset or any combination of such. However the downside is you can't use the auto-off or scheduled time simultaneously on the same switch. It has to be one or the other. I do like the option of being able to check on my settings or actually turn on or off lights from across town or even out-of-state.",
+      "rating": 4.0,
+      "verified": true,
+      "author": "Mr. Feller",
+      "helpful_votes": 0,
+      "publication_date": 20150528
+    },
+    {
+      "title": "This would be a great product if you can get it setup",
+      "text": "This would be a great product if you can get it setup. Had it for a month and then the power went out. Power came back on and could see the device anymore. Tried resetting to default and setting it up again. Can't get it to connect to the app. Uninstalled and reinstalled the app. Same problem.",
+      "rating": 2.0,
+      "verified": true,
+      "author": "Nikoli",
+      "helpful_votes": 3,
+      "publication_date": 20151112
+    },
+    {
+      "title": "The product is great, the app",
+      "text": "The product is great, the app.... not so much. I was using all WeMo stuff (lights and these switches) I had ALL my WeMo bulbs explode for no reason and to get them replaced was a nightmare that I just hung up on them and replaced everything with the Phillips Hue stuff. If Belkin would actually work on it's stuff they would have an amazing product. It can just be very slow.",
+      "rating": 4.0,
+      "verified": true,
+      "author": "BrockintheBox",
+      "helpful_votes": 0,
+      "publication_date": 20160614
+    },
+    {
+      "title": "I primarily bought this for energy monitoring purposes. Unfortunately ...",
+      "text": "I primarily bought this for energy monitoring purposes. Unfortunately, there is no cloud service to view usage reports or store data. You have to off load the data from the switch in an e-mail. The live data UI in the phone app is poorly implemented and often freezes. I dont understand why Belkin does not invest more in the energy reporting side. They have the hardware and now all they need is a cloud service offering and a proper app. I'd rate this thing lower because I do regret spending money on it, however, it does turn stuff off and on remotely as advertised.",
+      "rating": 3.0,
+      "verified": true,
+      "author": "Pandatrack",
+      "helpful_votes": 0,
+      "publication_date": 20160218
+    },
+    {
+      "title": "Great ideal but these switches are not ready for prime ...",
+      "text": "Great ideal but these switches are not ready for prime time. I bought them to use with my Christmas lights and have been disapointed. Constantly saying they can't be found on my network. Often have to turn my phone off and back on to reconnect to switches. I did set rules to turn on and off at set times and that worked but the app was useless.",
+      "rating": 2.0,
+      "verified": true,
+      "author": "Michael Winkfield",
+      "helpful_votes": 2,
+      "publication_date": 20160122
+    },
+    {
+      "title": "It seems pretty expensive for a switch though",
+      "text": "I hooked it up to my wi-fi in a few minutes, plugged it into the outlet, plugged my lamp in, and can now turn it on via my. It's worked consistently for weeks. It seems pretty expensive for a switch though. If the prices goes down, I'd probably buy some more for other lights and whatnot in my apartment.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Caleb Kirksey",
+      "helpful_votes": 0,
+      "publication_date": 20160310
+    },
+    {
+      "title": "Gave me the info I needed and then some",
+      "text": "As a home energy auditor, I was looking for something to recommend to homeowners to utilize so they could determine how much energy their appliances were using. The Insight Switch is a perfect tool to do this. Just plug the Insight Switch into the garage wall and then plug in that 20 year old refrigerator. A few hours later you have accurate data on your smart phone, which you can screen capture for future reference, to better understand how much that refrigerator is contributing to the outrageous electric bill you receive each month. Just be careful because the Insight Switch has an on/off setting and the off setting almost cost me a refrigerator full of food.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "DanI",
+      "helpful_votes": 0,
+      "publication_date": 20140302
+    },
+    {
+      "title": "If it's working for you...don't update the app!!!!",
+      "text": "When I bought this item I ignored the naysayers who said they couldn't get it to work with their network, etc. Lucky me, it set up and worked perfectly ...until they updated the software. So after about a month I've been unable to use it at all. I have tried repeatedly, I have followed the instructions they sent me email. Still no luck. I have reset it and done everything I can think of. It \"clicks\" on but sends no power to whatever I have plugged into it. It's going back. I loved it while it worked, but that joy didn't last long.",
+      "rating": 2.0,
+      "verified": true,
+      "author": "Twigs",
+      "helpful_votes": 0,
+      "publication_date": 20151022
+    },
+    {
+      "title": "Great Design when it is working.",
+      "text": "Loses wifi connection at least twice a week. My wife jokingly said the other day, \"you spend 15% of your week messing with those plugs\". Not impressed.",
+      "rating": 3.0,
+      "verified": true,
+      "author": "Joe Buch",
+      "helpful_votes": 0,
+      "publication_date": 20190101
+    },
+    {
+      "title": "Each one I've bought has died within a month of deployment.  Most configuration is painful.  Junk.  AVOID.",
+      "text": "Junk. I have 3 now and they have all eventually died, most within a month of being in use. Usually problems seems to be maintaining wifi connection. Configuration is a big fat mess especially due to the wifi problems. AVOID.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "KevinTop Contributor: Pets",
+      "helpful_votes": 0,
+      "publication_date": 20180612
+    },
+    {
+      "title": "Good -- but Could be Better",
+      "text": "So far it is working. The only thing I wished was: if a connected device was switched on (as with a table lamp local switch) the WEMO would turn itself on automatically. This would not require to look for the iPhone or to go to the WEMO switch which could be behind the sofa. This functionality is already performed by an old home automation system called x10.",
+      "rating": 3.0,
+      "verified": true,
+      "author": "BattMan",
+      "helpful_votes": 0,
+      "publication_date": 20160424
+    },
+    {
+      "title": "let there be light",
+      "text": "We usually keep a light on when we know we're going to come home late for our dog. Sometimes we go in the day so keeping the light on just wastes electricity. But with this Switch, we could now control the light anywhere we are. I'm really happy we could use mobile data along with wifi from anywhere. We also have a home camera we could access from anywhere too, so we could see the lights on and off from far away. It works every time! Great invention!",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Carlos",
+      "helpful_votes": 0,
+      "publication_date": 20141211
+    },
+    {
+      "title": "The concept is excellent but overall the execution is lacking",
+      "text": "The concept is excellent but overall the execution is lacking. The network delays and being able to access the device isn't that reliable. Power monitoring is nice but exportation isn't reliable on my Nexus 5X and there isn't a good windows App for it yet. Overall maybe with better software this would work. But I'm going to probably return it, use my killawatt, and a normal smart switch.",
+      "rating": 3.0,
+      "verified": true,
+      "author": "J Martin",
+      "helpful_votes": 0,
+      "publication_date": 20160103
+    },
+    {
+      "title": "Horrible experience.",
+      "text": "I will try it again in a few months assuming they fix whatever firmware issues it has. I was able to set it up and after upgrading the firmware it wouldn't connect to any wireless network, regardless of router or wireless security setting, including none. This has happened twice, first time i thought it was a faulty product, but after receiving a replacement and going through the same steps I ran into the same problem.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "Amazon Customer",
+      "helpful_votes": 0,
+      "publication_date": 20140123
+    },
+    {
+      "title": "Love it!",
+      "text": "Goes hand and hand with the Echo! I love it being Wi-Fi, no wiring and you can place it anywhere you have a wireless signal! I plan on buying more to spread out over my home! Much cheaper than paying an electrician and you can control it from your smartphone!",
+      "rating": 5.0,
+      "verified": true,
+      "author": "David N. Clary",
+      "helpful_votes": 0,
+      "publication_date": 20160725
+    },
+    {
+      "title": "I love these things",
+      "text": "I love these things.. easy to setup, work great and the timer is dead on. I would give these 5 stars if Belkin would create an in-wall flush model to replace a regular outlet. They are a little bulky looking, but saves me a ton of money controlling devices throughout my house.",
+      "rating": 4.0,
+      "verified": true,
+      "author": "RockClimber4Life",
+      "helpful_votes": 2,
+      "publication_date": 20141005
+    },
+    {
+      "title": "What a good device!",
+      "text": "I love this thing. It is small, easy to install, easy to operate and configure and work pretty well. It has a couple of flaws though. If it's turned off before the scheduled time, when that time is reached, it turns on and immediately off, it can damage something connected to it. the other flaw is related to the wireless router, if the router has been turned off, it won't follow the schedule; why if it has been already programmed still needs the wireless connection to follow the schedule?",
+      "rating": 4.0,
+      "verified": true,
+      "author": "Jose Corral",
+      "helpful_votes": 0,
+      "publication_date": 20140125
+    },
+    {
+      "title": "just annoying when you're tired an just want to turn the ...",
+      "text": "It's handy to have the ability to set my lamps to turn on/off based on sunrise/sunset and time. My only complaint is the app seems to lose contact with the devices everytime I launch it. I usually have to \"refresh\" (and wait) about three times for the app to link up with the devices again. Not a deal breaker, just annoying when you're tired an just want to turn the lights off.",
+      "rating": 4.0,
+      "verified": true,
+      "author": "B. Elliott",
+      "helpful_votes": 5,
+      "publication_date": 20141104
+    },
+    {
+      "title": "Perfect, so far!",
+      "text": "I read some terrible reviews about this not working, but so far mine works perfectly with my Echo. Now setting up wasn't easy and did try my patience. But it was worth it to be able to say \"Alexa, turn on the lights!\" and see them come on in my living room. If only I could just say Let there be light!",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Gold Acres",
+      "helpful_votes": 0,
+      "publication_date": 20160108
+    },
+    {
+      "title": "Great first step into a \"smarter\" home",
+      "text": "This was my first purchase in the \"smart home\" area. I bought right before Christmas and plugged my Christmas tree lights into it. I loved the ease of programming start/stop times. It was also fun playing games with my wife and kids shutting it on and off from my phone while they were trying to figure out what was wrong with the lights. Once my wife got a hold of it, she has been using it for her crockpot, giving her more control on turning it on. My daughter loved it, so i bought her one for Christmas. I'd like to try the WEMO lights next, but unfortunately Santa did not bring me any.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "DJ In Ellington",
+      "helpful_votes": 0,
+      "publication_date": 20141226
+    },
+    {
+      "title": "is just a bad piece of equipment",
+      "text": "It came used, the box was obviously opened before. It did not work. I don't know if this is because it was returned as defective then sent out to me again or whether it, itself, is just a bad piece of equipment. I attempted to sync it up to the app provided by WeMo in the app store (They make it look so easy) but the Wemo would not connect. I returned it and will hopefully buy something similar that actually works.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "XavierD",
+      "helpful_votes": 0,
+      "publication_date": 20150415
+    },
+    {
+      "title": "Direct control by Alexa (Amazon Echo) is flawless and robust ...",
+      "text": "Direct control by Alexa (Amazon Echo) is flawless and robust. Control by the WEMO app itself is rarely successful. Turning lights on and off with the app directly works for only a couple of cycles before they freeze in the on or off state and have to be reset. Programmed light cycling through the app is hit or miss, mostly miss. If successful, the lights work for one cycle and may not shutoff or turn on again at the next scheduled time.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "Michael OBoyle",
+      "helpful_votes": 0,
+      "publication_date": 20161011
+    },
+    {
+      "title": "I was very pleased with this at first but after using for a ...",
+      "text": "I was very pleased with this at first but after using for a while, they do not work properly. I wanted them so I could turn lights on and off while out of town. Unfortunately, I am not comfortable doing that since it doesn't always work when I am in the same room. Not dependable. I do not think I would recommend this.",
+      "rating": 3.0,
+      "verified": true,
+      "author": "PNC",
+      "helpful_votes": 0,
+      "publication_date": 20160423
+    },
+    {
+      "title": "Works like a charm",
+      "text": "Works like a charm, I like it. I would've given it 5 stars had it been there is a companion Motion Detector product. For now, i have to manually use the App to turn it on and configure auto shut off. Good thing is that the Auto shut off works even if a I manually turn it on by pressing the button on the Switch.",
+      "rating": 4.0,
+      "verified": true,
+      "author": "Franco Nero",
+      "helpful_votes": 0,
+      "publication_date": 20160929
+    },
+    {
+      "title": "This definitely is an awesome way to track electricity usage",
+      "text": "This definitely is an awesome way to track electricity usage. I use it with our ac unit that we purchased here on amazon to remotely control our unit (on and off) from the bed and when we are out of the house. Because of the heat in Texas, I tend to let it run all day; however, I do have a brief schedule timer setup so that it turns off and allows the room to heat up before we wake up for work. It's a great little WiFi switch/timer.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Zack Stark",
+      "helpful_votes": 0,
+      "publication_date": 20140908
+    },
+    {
+      "title": "Doesn't work - don't waste your money",
+      "text": "Simply doesn't work. Can only recognize the WEMo network sporadically. When it is able to be recognized, it always shows the same initial values for energy use and cost, no matter what is plugged into it. A total waste of money and time trying to get a simple device to help me determine how much electricity is used by various devices in my home. I don't have time to spend an hour on hold for tech support for something that is supposed to be simple to use.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "Phillip Anglin",
+      "helpful_votes": 0,
+      "publication_date": 20141119
+    },
+    {
+      "title": "Caveat WeMo",
+      "text": "I bought a few of these work the dream of controlling my lights from anywhere, and that's what happened... For about six months. Now, the app rarely gives me an accurate read on the status of my devices and almost never gives me energy usage. At this point, the devices are glorified (and expensive) timers.",
+      "rating": 2.0,
+      "verified": true,
+      "author": "Derek Saul",
+      "helpful_votes": 0,
+      "publication_date": 20160728
+    },
+    {
+      "title": "Works great with an occasional phone reboot required.",
+      "text": "I use this to control a whole house fan. It's great to see how much power the fan is using (especially vs. an AC unit) and I can set the fan on and off times to control the indoor temperature. It' been installed for 6 months now and other than the occasional requirement of having to reboot my phone to rediscover it (and a WeMo light switch) it is working great.",
+      "rating": 4.0,
+      "verified": true,
+      "author": "dude",
+      "helpful_votes": 0,
+      "publication_date": 20151125
+    },
+    {
+      "title": "Reliability is a Big Problem",
+      "text": "On the plus side, the Belkin WeMo switches are easy to install and program. I deployed several in my vacation home so I could program lights and remotely turn them on/off. On the negative side, the switches love to drop connections so you can't access them or fail altogether. I have not been impressed with their reliability. I will be changing out all of my Belkin units for another brand on my next visit.",
+      "rating": 2.0,
+      "verified": true,
+      "author": "Big John",
+      "helpful_votes": 0,
+      "publication_date": 20150212
+    },
+    {
+      "title": "Not too happy",
+      "text": "These WeMo devices are difficult to set up and there is no technical support. They have an email but you don't get much help from it. Just generic answers. Randomly the app won't see the device once installed. I use an Amazon Echo so I can control devices by voice but the app is useless",
+      "rating": 3.0,
+      "verified": true,
+      "author": "Scott  L. Clark",
+      "helpful_votes": 0,
+      "publication_date": 20160215
+    },
+    {
+      "title": "Terrific product",
+      "text": "Awesome product! I am completely thrilled with this product. Works terrific and super easy set up. Just plug it in, download the app for free and works like a charm. Sometimes I can't get home in time to turn on our iguanas heater but this lil gadget has solved my problem...I can now control the heater from my phone even if I'm not home. Brilliant",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Tina Raffa",
+      "helpful_votes": 0,
+      "publication_date": 20160112
+    },
+    {
+      "title": "Its actually worse with the Smartthing",
+      "text": "I have to say I regret purchasing these WeMo switches. I have had to reset the my devices multiple times now. They constantly seem to loose the ability to communicate with the Android WeMo app and my Samsung Smartthing, Its actually worse with the Smartthing. After adding them to the Smartthing I get about one day of usefulness before they become unreachable. If your a Smartthing owner I would stay clear.",
+      "rating": 2.0,
+      "verified": true,
+      "author": "EntropyWorks",
+      "helpful_votes": 0,
+      "publication_date": 20160503
+    },
+    {
+      "title": "Works as advertised, but disconnects from wifi occaisionally",
+      "text": "This needs a longer review, but generally these things are fine. They do the job. My house has stone walls and so I have spotty wifi. I don't know if it's my house or what, but these things will randomly lose wifi connectivity, even if they are in a place that usually has 4 bars. It's very frustrating, but it is what it is. I use these for convenience indoor lights, not for more critical outdoor lighting that I feel really needs to go on every evening for safety. I also don't like that neither the wemo app nor IFTTT have sunset plus or minus x minutes as an option for turning on the lamps.",
+      "rating": 3.0,
+      "verified": true,
+      "author": "Red",
+      "helpful_votes": 0,
+      "publication_date": 20140203
+    },
+    {
+      "title": "I actually have had better luck with the mini",
+      "text": "I've had my share of issues with this product in the two years that I've used it. Sometimes, it would not connect to the network after router reboots. I had to reset it more often than I would prefer. Finally, it just refused to connect to wifi at all. It is getting tossed. I actually have had better luck with the mini.",
+      "rating": 2.0,
+      "verified": true,
+      "author": "Schamp\ud83d\ude1d\ud83d\ude0d\ud83d\udc96\ud83c\udf20\ud83c\udf1f\u2728",
+      "helpful_votes": 0,
+      "publication_date": 20170915
+    },
+    {
+      "title": "Not that great a WeMo product.",
+      "text": "Can be confusing to use as it shows as OFF on the app, but devices connected to it are ON. This means you have to turn it ON and then OFF to make sure devices connected to it are actually turned OFF. For over $40, it is not worth it. I won't buy this one again.",
+      "rating": 3.0,
+      "verified": true,
+      "author": "LeonardH",
+      "helpful_votes": 0,
+      "publication_date": 20160923
+    },
+    {
+      "title": "I love this switch",
+      "text": "Based on the reviews, I did not have high expectations. I am pleasantly surprised with this switch. I have not experienced any of the issues as some of the other reviewers. Rules work like a charm although I wish the wemo app had more functionality. For example I would like to see a single programmable preset that can turn on a combination of wemo devices.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Karl Kuzbiel",
+      "helpful_votes": 2,
+      "publication_date": 20141104
+    },
+    {
+      "title": "The Clapper for Cool Kids",
+      "text": "Once you get it set up, this remote switch works brilliantly from your iphone. The energy saving thing was, for me, just fluff. The real value was being able to turn my lights on from anywhere. It does sometimes lose connection and you have to operate your lights with the manual button on top...that's a little frustrating.",
+      "rating": 4.0,
+      "verified": true,
+      "author": "DrowsyKitten",
+      "helpful_votes": 0,
+      "publication_date": 20141024
+    },
+    {
+      "title": "Great device...when it works.",
+      "text": "Great device...when it works. I did experience some difficulty with initial set and subsequent attempts to program the device. After initial set up, I had to reset the device to the original factor setting three times to make subsequent changes. The iPhone App that allows you to operate and program the device was not very responsive. However, once you are able to program the device, it works great.",
+      "rating": 3.0,
+      "verified": true,
+      "author": "Ricky",
+      "helpful_votes": 0,
+      "publication_date": 20140911
+    },
+    {
+      "title": "Not what I was expecting..",
+      "text": "I ordered this thinking I would receive the wall outlet wemo switch, however I received the light switch instead. I was planning on ordering one anyway, so I'll live with it. Aside from that, the light switch was easy to install! I got it all setup with no previous experience in about 20 mins. It works perfectly as described with my android wemo app.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Mofugga",
+      "helpful_votes": 0,
+      "publication_date": 20150225
+    },
+    {
+      "title": "Perfect for energy conservationists ... and the lazy couch potato",
+      "text": "These are perfect. A little finicky to get set up but once that's done, works flawlessly. The app works well on Android and iPhone, although the iPhone was crap before the last update - now it works on iPhone fine. I love that I don't have to get up to switch on lights or my fan or my other gadgets. I will be ordering several more - soon.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "BuyerExtraordinaire",
+      "helpful_votes": 0,
+      "publication_date": 20150418
+    },
+    {
+      "title": "Not reliable",
+      "text": "Not very reliable. I have two units and they both lock up 2-3x a month. Unreachable by wifi and they fail to turn on at the scheduled times. Unplugging it from the wall and plugging back in fixes it. I can't think of any other network devices I have at home that need constant power cycling to keep them running.",
+      "rating": 3.0,
+      "verified": true,
+      "author": "Michael L",
+      "helpful_votes": 0,
+      "publication_date": 20150914
+    },
+    {
+      "title": "Needs serious improvement",
+      "text": "The wireless flakes out all the time. And it was a mild pain to set up (follow the instructions, hope it works, reset, repeat). With all this goofing around, I should have just gotten up off my lazy butt and turned the lights off myself. EDIT: Still struggling to get these working. These are awful.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "yliebermann",
+      "helpful_votes": 0,
+      "publication_date": 20150728
+    },
+    {
+      "title": "Wemo not detected",
+      "text": "When the wemo works it works great but unfortunately more than half the time my wemo app says the wemo is not detected. This is in spite of the fact I relocated my access point within 10 feet of it. I really would like my $60 back. I am an engineer and do wireless for a living. This thing has unacceptable reliability.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "Egan",
+      "helpful_votes": 0,
+      "publication_date": 20140806
+    },
+    {
+      "title": "No expensive hub needed",
+      "text": "Simple and easy to set up, no hub needed. Was able to schedule a small electric heater to turn on and warm up our basement gym from 4:40 to 6:45 AM on Monday Tuesday, Thursday and Friday. Other timers just had Weekday/Weekend or everyday scheduling. Can turn on or off from switch or the app from anywhere.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Greg M. Long",
+      "helpful_votes": 0,
+      "publication_date": 20151207
+    },
+    {
+      "title": "Brand name garbage",
+      "text": "This plug I bought because it was brand name and you would think be more reliable. It is garbage. It won\u2019t stay connected at all for a solid day. I have about 15 generic smart plugs in my house and 3 amazon branded that all work reliably and flawlessly. This wemo is complete garbage.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "Chris",
+      "helpful_votes": 0,
+      "publication_date": 20181202
+    },
+    {
+      "title": "Great for a Nightlight near Bird Cage",
+      "text": "I love this! I needed something for my parrots as sometimes they get night frights and flutter around in their cage. I can get to my iPhone screen and turn on the lights very quickly so that they can see. I'm getting more as soon as I get my next paycheck !",
+      "rating": 5.0,
+      "verified": true,
+      "author": "ich bin ein Berliner",
+      "helpful_votes": 0,
+      "publication_date": 20160701
+    },
+    {
+      "title": "What madness is this?",
+      "text": "I'm not very impressed. Setup wasn't too bad. But connecting to the device is frustrating. I can't connect to the device if I am on the same network as the device. I have to turn off my wifi on my phone and use cellular data to talk to the device. What madness is that? And connecting to it remotely doesn't work very often. If it worked the way it is advertised it would be amazing. It is not doing much for me.",
+      "rating": 2.0,
+      "verified": true,
+      "author": "D. Thompson",
+      "helpful_votes": 0,
+      "publication_date": 20141209
+    },
+    {
+      "title": "Very nice",
+      "text": "The reason why it is missing a star is because it takes a little while to connect and set up with alexa and all. But once you do, it's awesome. You can turn things on and off with your voice, so you can be across the room and control the power to a device.",
+      "rating": 4.0,
+      "verified": true,
+      "author": "Pterodactyl",
+      "helpful_votes": 0,
+      "publication_date": 20160714
+    },
+    {
+      "title": "like #VW. The basic issue is its router connectivity",
+      "text": "I do not normally do reviews, but this so sux i want to warn others before they purchase. I mean pure #GermanEngineering... like #VW. The basic issue is its router connectivity. I wanted to use this in conjunction with my Amazon Echo, and WHEN it worked... it was great and cool. But getting it to connect to the network in the first place took an entire day, and after moving it, I am unable to reconnect. Not to the device its self or to get it to connect to the network. It was a sad sad waste of money... I will have to find another solution. DO NOT BUY!!!",
+      "rating": 1.0,
+      "verified": true,
+      "author": "Lucky eL",
+      "helpful_votes": 0,
+      "publication_date": 20151025
+    },
+    {
+      "title": "but it is pretty cool technology and fairly easy to setup",
+      "text": "It is slightly buggy, and not the quickest thing in the world to connect, but it is pretty cool technology and fairly easy to setup. There have been constant firmware updates from Belkin making it more stable and less glitchy.",
+      "rating": 4.0,
+      "verified": true,
+      "author": "Jason M",
+      "helpful_votes": 0,
+      "publication_date": 20150916
+    },
+    {
+      "title": "I love my WeMo's",
+      "text": "I love my WeMo's. I like that it shows watts being used. They just cost much for me to have to many. Seems to work fine. Have not had any issues.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "TWM",
+      "helpful_votes": 0,
+      "publication_date": 20161228
+    },
+    {
+      "title": "I'm impressed!",
+      "text": "This was pretty easy to setup using my iPad. I first tried my Android phone and could not get it to connect. I think that was because my phone kept connecting to my home network at first. You have to connect to the devices wifi network first to set it up and then it will connect to your home network. I just purchased a switch for my garage and looking forward to purchasing more WeMo products.",
+      "rating": 4.0,
+      "verified": true,
+      "author": "Mhobizal",
+      "helpful_votes": 0,
+      "publication_date": 20140124
+    },
+    {
+      "title": "Don't waste your money",
+      "text": "The app is atrocious and the devices are worse. I wanted to add a timer control to the hot water circulation system in the far corner of the house. Even though my MAC Wireless Network has an extender not 20 feet away the WEMO would only connect 50% of the time. So I purchased their Belkin Wireless extender which only made thing worse. I have an Apple AirPort Express within 5 feet of the Switch, it works fine the WEMO does not. Don't waste your money.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "J Dorman",
+      "helpful_votes": 0,
+      "publication_date": 20141115
+    },
+    {
+      "title": "GREAT product!!",
+      "text": "LOVE this switch!! Connected easily to both wifi and cell phone app! Can control socket from any where even Hawaii when switch is in Texas!! Gives watts used and cost of appliance use. Also great to turn lights on when away from home for dogs - or coffee pot before getting out of bed ;)",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Texas Tramper",
+      "helpful_votes": 0,
+      "publication_date": 20150301
+    },
+    {
+      "title": "works great, got on 1/2 year black friday",
+      "text": "works great, got on 1/2 year black friday ... way better than i thought it would be. I would buy another one of these i use it to turn off my mac chargers (auto off certain times and verbal others) macbook pro chargers get very hot .. this solves that.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "laq",
+      "helpful_votes": 0,
+      "publication_date": 20160915
+    },
+    {
+      "title": "The firmware seems to have gotten better and removed many of the bugs and connection issues ...",
+      "text": "I own three WeMo devices. The firmware seems to have gotten better and removed many of the bugs and connection issues from a couple of years ago. Works well with my Amazon Echo.",
+      "rating": 4.0,
+      "verified": true,
+      "author": "Bobby",
+      "helpful_votes": 0,
+      "publication_date": 20161029
+    },
+    {
+      "title": "Seldom Works Correctly",
+      "text": "It's Junk! When it works it's pretty cool. That's the problem though, it seldom works. It's in the same room with the WiFi router and the WiFi signal is strong and fast. It works with my Iphone but they keep having to locate each other again. I bought an Amazon Echo and neither device has instruction on how to get them to pair. The Echo looks for devices and the WeMo can never be located. I keep ending up having to go to the WeMo and turn on the light manually. Don't buy this device, it's buggy and not worth the investment.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "Southbay",
+      "helpful_votes": 5,
+      "publication_date": 20160121
+    },
+    {
+      "title": "Very cool!  Works for me",
+      "text": "Has been working great for me. No router problems and I am 3 months in. The app is ok, could use some fine tuning, but overall it works. And it's really cool to be able to control your lights or any appliance from your phone!!",
+      "rating": 5.0,
+      "verified": true,
+      "author": "chris",
+      "helpful_votes": 0,
+      "publication_date": 20150221
+    },
+    {
+      "title": "Turns any appliance into a smart appliance",
+      "text": "Works great. I have it hooked up to my tv and linked with amazon echo. So to turn on my tv i just say \"alexa turn on the tv\". Works well with ifttt. Only negative is that its somewhat hard to insert any remove plugs from this.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Johnny",
+      "helpful_votes": 0,
+      "publication_date": 20151224
+    },
+    {
+      "title": "Love my Insight Switch",
+      "text": "Right now I have the fan, humidifier, CFL plant light, and root heater for my orchids controlled by an Insight switch. The switch is on for 12 hours a day. The switch tells me that my setup consumes 90 Watts on average and costs me around $3.65/month. This application may be over kill for the Insight Switch because the energy consumption is constant, but I'm loving just checking in every day or two.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Leonard Haile",
+      "helpful_votes": 0,
+      "publication_date": 20140421
+    },
+    {
+      "title": "I didn't believe others' reviews until I tried it myself ...",
+      "text": "I didn't believe others' reviews until I tried it myself. The device does not connect consistently--always disconnects, unable to detect, and remote (cellular connection) doesn't even work. Save your $.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "Justin C.",
+      "helpful_votes": 0,
+      "publication_date": 20160121
+    },
+    {
+      "title": "Still a bit pricey but a great piece of technology",
+      "text": "Really like the fact that this version can track and report energy usage. We are using it to manage an attic fan to help with overall temps in a stone house. Very nice to not have to climb up into the attic to turn it on and off to manage energy use better when cool days/nights don't require it to be run. Simple to set up and use with the iOS app.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "J. Landefeld",
+      "helpful_votes": 0,
+      "publication_date": 20140717
+    },
+    {
+      "title": "Bad device, even worse product support",
+      "text": "Bad device, even worse product support. This is the second WeMo device I've owned. Both were incredibly buggy and altogether unreliable. What's worse is that the Belkin product support people are clearly reading a script with troubleshooting steps right out of the manual.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "PD001",
+      "helpful_votes": 0,
+      "publication_date": 20150219
+    },
+    {
+      "title": "Excellent product for multiple in-home uses",
+      "text": "This product is simply excellent. It does exactly what it is supposed to do. We used it for our hot water recirculator, so hot water gets pumped to every faucet in our house between 7 and 9 am and 10 pm to midnight. Other than those times, we're saving electricity from the pump and the hot water heater, which doesn't have to turn on as frequently. Great product that could be used for so many things around the house!",
+      "rating": 5.0,
+      "verified": true,
+      "author": "JGregsCA",
+      "helpful_votes": 0,
+      "publication_date": 20141117
+    },
+    {
+      "title": "Very happy with these switches",
+      "text": "Very happy with these switches. You must have a continuous wifi connection where they are located, but they are sure handy with the ability to turn on and off items ( lights, appliances, heaters, etc) remotely. I have six of these and they have operated flawlessly.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Randy W",
+      "helpful_votes": 0,
+      "publication_date": 20150121
+    },
+    {
+      "title": "Doesn't work with Christmas Trees",
+      "text": "Wouldn't work with Christmas tree even tho Belkon said right in description being on the holiday cheer and turn on your lights. It didn't work with my Christmas tree. Kept turning the lights on and off every 1-2 seconds was obnoxious. Then I call tech support and they say it's not compatible with \"series lights\" aka I guess string lights that are on a pr-lit Christmas tree? Not sure couldn't understand the woman on the phone with heavy accents.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "Amazon Customer",
+      "helpful_votes": 0,
+      "publication_date": 20151202
+    },
+    {
+      "title": "Perfect for scheduling timers on electronics",
+      "text": "Excellent product, works well being able to set schedules for what I have it plugged into. As well, I really like the feature showing energy consumption. Highly recommended.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Eric Centanni",
+      "helpful_votes": 0,
+      "publication_date": 20160514
+    },
+    {
+      "title": "Frustrating experience",
+      "text": "To operate a lamp, I tried two of these devices. The first one failed incrementally and the second one never worked. Total waste of my time and money.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "Martin H.",
+      "helpful_votes": 0,
+      "publication_date": 20181123
+    },
+    {
+      "title": "Like some others have commented",
+      "text": "Like some others have commented, the device stops working after a while. Mine was working before, until I had to reset my router. The WiFi then stopped working. It's now useless.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "Tech Guy",
+      "helpful_votes": 0,
+      "publication_date": 20151010
+    },
+    {
+      "title": "STOPPED WORKING",
+      "text": "HAS STOPPED WORKING IN THE LAST WEEK AFTER MAYBE 6 MONTHS. GOING TO ATTEMPT TO RETURN, REPLACEMENT. WORKS GREAT TILL NOW.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "Chris",
+      "helpful_votes": 0,
+      "publication_date": 20170218
+    },
+    {
+      "title": "Works great but needs more range.",
+      "text": "Works great if you are not too far from the router? Mine was 58 ft from the router & I have to use a repeater. My phone & tables can easily go farther & communicate just fine",
+      "rating": 4.0,
+      "verified": true,
+      "author": "GW",
+      "helpful_votes": 0,
+      "publication_date": 20160821
+    },
+    {
+      "title": "Will buy more!",
+      "text": "Good product. Does what I need and is compatible with Amazon Echo. This product works great for any electronics that can be left in an ON position and works by simply controlling the flow of power. I have bought 4 so far and intent to get more. Do not exceed maximum wattage.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "BOOMER",
+      "helpful_votes": 0,
+      "publication_date": 20160228
+    },
+    {
+      "title": "... a device to a wifi network is flaky at best (3 stars for setup)",
+      "text": "devices and app are well designed (5 stars) but adding a device to a wifi network is flaky at best (3 stars for setup), so average is 4 stars i have deployed 4 of these and 6 are still in their unopened boxes because they take so long to setup",
+      "rating": 4.0,
+      "verified": true,
+      "author": "M A Zonin",
+      "helpful_votes": 0,
+      "publication_date": 20141116
+    },
+    {
+      "title": "great for what it is",
+      "text": "i have lofty aspirations of doing a full home automation thing one day, but currently i have a 1kw block heater in my truck that can run $75/month if left plugged in on time. this plug paid itself off in 1 month! even if you don't use this for the remote capabilities, the watt meter and that calculates cost per month is great",
+      "rating": 4.0,
+      "verified": true,
+      "author": "J. Meyer",
+      "helpful_votes": 0,
+      "publication_date": 20140407
+    }
+  ],
+  "product_meta": {
+    "title": "Wemo Insight WiFi Enabled Smart Plug, with Energy Monitoring, Works with Alexa (Discontinued by Manufacturer - Newer Version Available)",
+    "description": "The WeMo Insight Switch works with the free WeMo app to give you wireless control of your appliances and electronics; turn on a space heater to get the room nice and cozy before you get there, be at ease that you turned off the hair straightener or iron after the morning rush or bring on the holiday cheer and turn on the holiday lights! Put your little ones to bed and turn off the reading lamp and turn on the nightlight as you tuck them in. Modular system. Users can add additional switches easily any time. Control as much or as little of the home as desired. Plugs into any regular 120V wall outlet.",
+    "rating": 3.3,
+    "feature_bullets": [
+      "Works with Alexa for voice control (Alexa device sold separately).",
+      "Turn appliances and electronic devices on and off from anywhere + monitor and control energy usage and costs from anywhere. \u00a0How much is that power hungry space heater or air conditioner costing me? Heat up, cool down and turn on/off up from anywhere!",
+      "Easy to install and simple to use, Set schedules and receive customized notifications",
+      "Works with any smartphone or tablet running Android 4.1 and higher or iOS 8 and higher. Electrical Rating120V/15A/60Hz/1800W"
+    ],
+    "specifications": {
+      "Product Dimensions": "1 x 1 x 1 inches",
+      "Item Weight": "7.4 ounces",
+      "ASIN": "B00EOEDJ9W",
+      "Item model number": "RA49638",
+      "Customer Reviews": "3.3 out of 5 stars1,175 ratings3.3 out of 5 stars",
+      "Best Sellers Rank": "#246,155 in Tools & Home Improvement",
+      "Is Discontinued By Manufacturer": "No",
+      "Wireless communication technologies": "Wi-Fi, Zigbee",
+      "Other display features": "Wireless",
+      "Colour": "White",
+      "Included Components": "Quick Install Guide, Wemo Insight Switch",
+      "Department": "WiFi Enabled Smart Plug",
+      "Manufacturer": "WeMo",
+      "Date First Available": "October 23, 2013"
+    },
+    "categories": [
+      "Home Automation Devices",
+      "Tools & Home Improvement",
+      "Electrical",
+      "All Departments"
+    ],
+    "price": ""
+  }
+}

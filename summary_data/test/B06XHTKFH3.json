@@ -1,0 +1,950 @@
+{
+  "website_summaries": [
+    {
+      "verdict": "If you\u2019re new to multi-factor authentication or just need a quick and cheap option, the Thetis security key is an easy-to-use choice.",
+      "pros": [
+        "The built-in protective lid is perfect for making sure it doesn\u2019t get damaged",
+        "The included hook for use on a keychain makes it easy to take anywhere"
+      ],
+      "cons": [
+        "Design is somewhat bulky"
+      ],
+      "aspects": {},
+      "publication_date": "",
+      "rating": "",
+      "source": "bestreviews"
+    }
+  ],
+  "customer_reviews": [
+    {
+      "title": "Neat Dongle for Protecting Your Online Account Credentials",
+      "text": "I like this USB dongle...as I am always a bit paranoid with protecting my passwords/credentials when accessing online accounts...especially when I'm shoppoing online. Set-up is extremely easy...I tried with eBay, Google and Facebook...all three websites worked as expected. The drawbacks at this time are: 1. Limited websites that support U2F protocol 2. Limited to Chrome browser...which is fine for me as I primarily use Chrome...but I can see how this can become an issue for other users who do not use Chrome",
+      "rating": 3.0,
+      "verified": true,
+      "author": "Chihang",
+      "helpful_votes": 39,
+      "publication_date": 20171228
+    },
+    {
+      "title": "I bought this security key after receiving notice from Google ...",
+      "text": "I bought this security key after receiving notice from Google that someone had logged into my account on a new device. Checking on my IP address it was showing my location plus another one over 250 miles away. My internet provider was non-responsive to my inquiries, but with this key, my device is identified by Google, plus I've have also changed providers.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Joe Snowden",
+      "helpful_votes": 4,
+      "publication_date": 20180516
+    },
+    {
+      "title": "Simple and effective way to increase the security of your online accounts",
+      "text": "I've tried this on a number of services that support 2FA via U2F security keys, and it's worked flawlessly for all of them. After registering the security key with a provider, you merely need to press the button on the device. I tested this in Chrome as well as Firefox, and I had no issues with either. Just about the only thing I can critique is the choice of materials for the dongle itself. The part of the device with the keyring is indeed made from aluminum, but the dongle itself (including the piece that plugs into the USB port) is made from plastic. This is unlikely to pose an issue, but it certainly seems strange to me.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Rychard",
+      "helpful_votes": 0,
+      "publication_date": 20190721
+    },
+    {
+      "title": "Works well so far, and the price is great.",
+      "text": "It's cheap, easily fits on a keyring, works seamlessly with chromw, and protects my Stripe account. At some point I I'll set it up for my google and dropbox accounts, but I don't want to do it until I have the backup key. I wish I could use it to secure my Windows laptop login, but I don't see support for that on the Thetis web site. After purchasing I got an email asking that I write a review in exchange for a free backup key. So here it is.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Mark",
+      "helpful_votes": 0,
+      "publication_date": 20190717
+    },
+    {
+      "title": "Key works. Very little support of services for U2F keys.",
+      "text": "The Key itself works fine. However, I was not able to configure it anywhere. There are too many restrictions, only works in Chrome for example. For your Google Account it works but you need to disable your phone as 2FA, which I prefer over the hardware key. So, be aware that the services you want actually work with it before you buy. The construction is a bit plasticy as the outer part is made out of aluminium, but the the inner moving part (where the actual electronics are) is made out of plastic.",
+      "rating": 4.0,
+      "verified": true,
+      "author": "diegoj",
+      "helpful_votes": 2,
+      "publication_date": 20171220
+    },
+    {
+      "title": "Dodgy To Get It To Work",
+      "text": "I use this to secure my Google account login. To get this to work, you logon to Google with your regular password, and then you plug in this device to a USB port on your computer and press the blinking button for the second part of the 2-step verification. The problem is getting that darned light to blink. Most times, the light doesn't come on at all or it comes on steady without blinking. It is very difficult, and takes several attempts, to get this thing to blink. The verification will not work unless the light is blinking. Very annoying.",
+      "rating": 3.0,
+      "verified": true,
+      "author": "LT",
+      "helpful_votes": 0,
+      "publication_date": 20200305
+    },
+    {
+      "title": "Misleading",
+      "text": "The key works, but the description was a little misleading. I suppose it's my fault for not researching first, but I bought the key as a passwordless sign-in for my Windows 10 computer. This key is not compatible with Windows 10 sign-in, even though the description says \"Compatible with Windows, Mac, and Linux.\" I guess that's technically true, but any USB is technically compatible with those operating systems. This key seems to only work for a narrow band of web services that use U2F multifactor authentication as an option.",
+      "rating": 3.0,
+      "verified": true,
+      "author": "Sakura",
+      "helpful_votes": 0,
+      "publication_date": 20191112
+    },
+    {
+      "title": "Three Stars",
+      "text": "This key doesn't work with Vanguard accounts at this time.(July 23, 2018) My experience with Thetis was ok. They provided me with their security key promptly and, as far as I know, gave me good service. But their FIDO U2F key did not work with my Vanguard account application. Vanguard's compatible/recommended key is a Yubikey FIDO U2F. I expected the Thetis key to work also as they apparently use the same standards. But it did not. A Vanguard associate said I must use a Yubikey. I don't know what is the difference.",
+      "rating": 3.0,
+      "verified": true,
+      "author": "Amazon Customer",
+      "helpful_votes": 3,
+      "publication_date": 20180723
+    },
+    {
+      "title": "Solid U2F device",
+      "text": "Sold, sturdy device that fully conforms to the U2F_V2 specification. Note that the U2F_V2 specification does NOT include device PIN, Biometrics, or any new protocols introduced in WebAuthn, but as WebAuthn IS backwards compatible with U2F, that's not an issue. As a result, this device is perfect for modern 2FA, and works out of the box with popular sites like Google, Facebook, Twitter, and Dropbox, in addition to any other sites that implement U2F or compatible protocols.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Shirotaka",
+      "helpful_votes": 0,
+      "publication_date": 20191022
+    },
+    {
+      "title": "Great little gadget that will save you time!",
+      "text": "Our university is requiring two-step login and what a pain to download the app to a smart phone and then get the key code 10 times a day! This little gadget just plugs into the usb port and once it's registered, it will log you in for up to seven days. Time saving and hassle free! The price is right too. If you have to do this where you work or if you don't want to bother with codes on the phone for two-step login, then you will want this.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Sharecat",
+      "helpful_votes": 0,
+      "publication_date": 20181113
+    },
+    {
+      "title": "Security 101",
+      "text": "Device is much simpler to install than expected from previous reviews. I actually have have a \"key\" for protection, but why did I choose to try FIDO? Because anyone with knowledge could simply turn the key on and get closer enough and poof, all my info exposed. That and it needed to have software on each computer to be used. Now I can simply insert FIDO to USB, but it requires a password only I know, and I have access to what I need Well done",
+      "rating": 5.0,
+      "verified": true,
+      "author": "goaubie",
+      "helpful_votes": 0,
+      "publication_date": 20190725
+    },
+    {
+      "title": "Gets the Job Done for a Good Price",
+      "text": "I bought this as a backup 2FA key for signing up for Google's Advanced Protection Program. It's cheap, but feels tough, and is very lightweight. The swivel is a bit stiff but feels sturdy. It doesn't have wireless access, so connecting it to a phone requires an adapter, but that's why I'm using it as my backup key. I poked around the Thetis website and found it very easy to use, with good instructions for finding the 2FA signup portions of various websites. If you're looking for bluetooth or NFC to connect your key to a phone, you'll have to look elsewhere (and spend more), but for the price and features this is perfect.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Greg",
+      "helpful_votes": 0,
+      "publication_date": 20190619
+    },
+    {
+      "title": "Why not be secure and look like a secret agent while you're at it?",
+      "text": "After having lots of annoying people keep trying to break into my various online accounts, This gives me easy of mind, As well as ~80 character passwords... It's got a plastic USB plug end but if you keep it folded up in the aluminum housing it's actually incredibly durable, It's survived on my keychain where many others have died.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Amazon Customer",
+      "helpful_votes": 2,
+      "publication_date": 20171205
+    },
+    {
+      "title": "works as advertised",
+      "text": "Works as expected under Windows 10 in Chrome and Firefox. It works by default in Chrome, in Firefox you have to enable U2F by entering about:config into the address bar, and then enabling security.webauth.u2f The product is well made and sturdy. My only concern is the lanyard loop is really thin, and I am worried that it might break if I were to use it on a keychain.",
+      "rating": 4.0,
+      "verified": true,
+      "author": "Stinky The Grump",
+      "helpful_votes": 0,
+      "publication_date": 20190106
+    },
+    {
+      "title": "Best non-Bluetooth physical security key",
+      "text": "Smartly manufacturered with a folding function protecting the contacts inside a steel frame. Compatible with Google, Amazon, Facebook, GitHub, and many more accounts. In a majority of cases, if the account allows a security key to be used, the Thetis is compatible even if that account is not advertised. Great value and quality. The only security key I will use other than a Titan.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Michael",
+      "helpful_votes": 0,
+      "publication_date": 20191213
+    },
+    {
+      "title": "Security Key for the Budget Minded",
+      "text": "This key is simple to use and it works fine with my Chromebook. It works with most of my accounts, but unfortunately Amazon doesn't accept U2F Security. Construction looks flimsy. The USB plug housing is make out of very thin plastic. I think it'll crack over time. I have to admit, I brought this because it's cheap and so far it accomplished what I wanted.",
+      "rating": 4.0,
+      "verified": true,
+      "author": "Tponty",
+      "helpful_votes": 0,
+      "publication_date": 20200304
+    },
+    {
+      "title": "Doesn't work with Firefox Quantum",
+      "text": "With the new Firefox Quantum update it no longer works (Yes, I have security.webauth.u2f set to true). I had to buy a Yubico one which works fine.",
+      "rating": 3.0,
+      "verified": true,
+      "author": "John",
+      "helpful_votes": 4,
+      "publication_date": 20171127
+    },
+    {
+      "title": "Easy to use!",
+      "text": "Once this key is set up on Google, Facebook, or Github, it's really easy to use. After logging in with password, just press the button on the key, and you're in! Also, solid construction of aluminum makes this very durable. I'm hoping more sites use the FIDO standard in the future. There's a lot of hackers and phishers out there, and you really need the added protection of a hardware key.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Amazon Customer",
+      "helpful_votes": 0,
+      "publication_date": 20191231
+    },
+    {
+      "title": "Works well with what it works with.",
+      "text": "Pretty solid build, the cover is aluminum, however the body is actually plastic. Cover covers the body almost entirely, though, even when in use, and it seems fairly rugged. Works with some accounts, not others. Works well with Google, Dropbox, Dashlane and even Bitwarden (I use and love Bitwarden). Does not work with Microsoft account or Windows Hello, and a few less common accounts. Overall, I'd certainly recommend it, particularly at the price point. An excellent value.",
+      "rating": 4.0,
+      "verified": true,
+      "author": "Amazon Customer",
+      "helpful_votes": 0,
+      "publication_date": 20190106
+    },
+    {
+      "title": "Handy for added layer of security, but could be more intuitive.",
+      "text": "Handy for added layer of security, but could be more intuitive. As identity theft shows no sign of slowing down, I appreciate being able to add an extra layer of security to my most important logins. As other reviewers have stated, this doesn't work on every website, but as the U2F standard grows it may well make it there. Physically speaking it's a great little device; I really wish it doubled as a USB storage drive. That would definitely increase it's usefulness.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "R. Hill",
+      "helpful_votes": 0,
+      "publication_date": 20180104
+    },
+    {
+      "title": "....this will not work on my windows 10",
+      "text": "...when I attempt to activate this key a screen comes up and says that this key will not work with this browser - try a different key it says !!!!...I am using chrome, then tried IE...and still will not work.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "Larry M.",
+      "helpful_votes": 2,
+      "publication_date": 20190807
+    },
+    {
+      "title": "Good Security Key with some limitations",
+      "text": "Wanna add some more security in the online world, this U2F security works perfectly with the majority of websites such as google, facebook, ebay etc . Setting it up is pretty easy with provided instruction and if needed there are many youtube videos as well for reference. another thing to note is that it's limited to the only website which supports U2F protcols",
+      "rating": 5.0,
+      "verified": true,
+      "author": "J",
+      "helpful_votes": 0,
+      "publication_date": 20190217
+    },
+    {
+      "title": "Great Security Tool",
+      "text": "I bought this key to add a physical layer of security to several of my online accounts. I currently only have my Gmail accounts set up, but their instructions were very clear on getting 2 factor turned on.(if slightly outdated, Gmail changed their UI again). I plan on adding Amazon and Dropbox over the weekend. I wish they shipped them with key rings, now I have to buy a zillion-pack of key rings on Amazon to get it on my key chain. Packaging was also a bit annoying to get off, but still got it out safely within a minute.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Matthew Dickel",
+      "helpful_votes": 0,
+      "publication_date": 20181122
+    },
+    {
+      "title": "FIDO security , affordable 2 factor login device at the best price",
+      "text": "Having setup this device as a second factor login unit it works great with no issues to date at all. The only criticism I would offer is the surface does get scratched quickly as it is on my key-ring with other keys which quickly mark the surface , but this in no way affects the performance of the device. I can Highly recommend the FIDO U2F Security Key to keep your logins safer that passwords alone.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Gazza",
+      "helpful_votes": 0,
+      "publication_date": 20190305
+    },
+    {
+      "title": "Works perfectly as expected. Can be improved on the design.",
+      "text": "I have been using this device for over a year for my 2FA for multiple services - Gmail, Dropbox, Facebook, etc. It works flawlessly on all my devices - both Mac and PC. The USB device is small enough to be carried anywhere and it very much masks its presence due to its stealth like black color, which I really like about it. One thing I can improve in this is the key chain ring which is strong but feels unreliable to be put on a keychain, so I just carry it in my bag. I would love to see if we get a refresh on this with a reliable and strong key ring.",
+      "rating": 4.0,
+      "verified": true,
+      "author": "Sai Manoj Illendula",
+      "helpful_votes": 0,
+      "publication_date": 20190830
+    },
+    {
+      "title": "Limited",
+      "text": "Do your research before purchase. Limited functionality. If all you want to secure is your Google account, you're good to go. Does not work with Microsoft sign-in (To be fair; Thetis did not say that they support Microsoft sign-in. I just think it's silly to plug a security key into a computer and not even be able to use it on that computer.)",
+      "rating": 2.0,
+      "verified": true,
+      "author": "J\u00b2",
+      "helpful_votes": 0,
+      "publication_date": 20191221
+    },
+    {
+      "title": "Added security in online account",
+      "text": "I added the security key in my google account as additional security. Although there are not many web accounts that support the U2F security algorithm. It works well with my google account. However, some of PC running Window 10 Pro, did not recognize this key. I have used for a couple of weeks, I am not sure if this is an issue of the specific systems. But still satisfied with the security key.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "A man from the Universe",
+      "helpful_votes": 2,
+      "publication_date": 20170907
+    },
+    {
+      "title": "Tremendous value",
+      "text": "I use the name brand U2F key and the Thetis key is a huge improvement over the name brand key for the following reasons: 1) value -- save $$$ 2) Thetis design protects the usb contact points and fits firmly in the usb slot 3) Thetis aluminum case is sturdy and protects the key from accidental damage. Take it from someone who overpaid for the name brand, avoid my mistake, purchase THETIS !!",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Amazon Customer",
+      "helpful_votes": 0,
+      "publication_date": 20190603
+    },
+    {
+      "title": "It Works & Light Weight",
+      "text": "I was looking for a physical login key that would work for daily routine, which basically means I need 2 for backup. I bought this key because it is FIDO compliance and the price is good. It works just like Yubikey, except that the button must be pressed down vs touched. It is light, so it does not weight down my keys ring in the pocket. Thus far I have been able to make it work via Chrome browser with AWS Amazon cloud computing, Google accounts, Dropbox, and facebook since those are the sites which facilitate hardware keys and encourage users to do so. It is rather iffy with Microsoft sites.",
+      "rating": 4.0,
+      "verified": true,
+      "author": "NoHo Tech",
+      "helpful_votes": 0,
+      "publication_date": 20191006
+    },
+    {
+      "title": "crap",
+      "text": "this product is not for older users it is not user-friendly the directions for google chrome must be outdated or they assume that I understand more than I actually do I tried to google it as they say ha good friggen luck on that as most people know google gives you a bunch of useless crap",
+      "rating": 1.0,
+      "verified": true,
+      "author": "Paul B.",
+      "helpful_votes": 0,
+      "publication_date": 20190222
+    },
+    {
+      "title": "Love it",
+      "text": "Much more convenient than using a code for multi-factor auth. Feels durable and sturdy and works on all of my machines (Ubuntu, Mac, and Chromebook) without requiring any extra software. Great price too.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "some bloke",
+      "helpful_votes": 0,
+      "publication_date": 20180928
+    },
+    {
+      "title": "good product",
+      "text": "this product seems quite good, especially for someone like me who loves to have everything secured. Your facebook, google, dropbox and quite many other accounts can be safe and you can be sure that no one will get access to them without having your key. what more do you need?",
+      "rating": 5.0,
+      "verified": true,
+      "author": "George",
+      "helpful_votes": 0,
+      "publication_date": 20181220
+    },
+    {
+      "title": "while it may look and feel like it is built solid it is no where near ...",
+      "text": "This product does not work, while it may look and feel like it is built solid it is no where near the quality of the yubikey u2f or yubikey4. Spend the extra money and get the yubikey4 and get a backup one to program them both at the same time.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "Elijah Everson",
+      "helpful_votes": 2,
+      "publication_date": 20180401
+    },
+    {
+      "title": "FIDO U2F Security Key, Thetis",
+      "text": "Thanks a lot for this very affordable 2 Authentication Security Key USB, Very Good Design. Just a small detail - pls add a little of steps how to use so that the novice or non-technology savvy people will be able to figure it out easy. I like it Thanks a lot. they send me duplicate key....thanks a lot!",
+      "rating": 5.0,
+      "verified": true,
+      "author": "MonJ",
+      "helpful_votes": 0,
+      "publication_date": 20181005
+    },
+    {
+      "title": "Small price for convenient security in your pocket.",
+      "text": "As a newby to two factor security I found FIDO easy to use. It was a little tricky to setup but once i set it up it worked like a charm. I use different computers in many places and this made it easy to verify myself with out a cellphone around. It came in a easy open package with instructions on the back. (see pictures). The FIDO is less then inch long and very thin. Fit nice on a key chain.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Steven",
+      "helpful_votes": 0,
+      "publication_date": 20180105
+    },
+    {
+      "title": "Very EASY to use",
+      "text": "Simply insert into a USB port and click the lit up button when prompted. Couldn't be easier. Please note that this only operates on devices that allow USB ports so if you have duo-factor authentication set up for any apps that you use on a phone or tablet, it won't work, so I would recommend getting a key with Bluetooth capability. However, I only use this for sites that I need my laptop for, so it works perfectly. I sometimes share my laptop or PC with family members so it is nice to be able to have a physical object that I know they won't be able to get into any of my accounts that I need secure.",
+      "rating": 4.0,
+      "verified": true,
+      "author": "Gage",
+      "helpful_votes": 0,
+      "publication_date": 20200220
+    },
+    {
+      "title": "No Cell Signal Needed!!",
+      "text": "I should have bought this key back in August 2018. At my college, I can\u2019t get cell signal to receive my security code while in the classroom to login, had to go outside to receive the code, come back in the classroom to complete the login process. So glad I got the Thetis key, I heard it is more secure than receive the code by text and don\u2019t have to worry about cell signal. Another big plus, I get a free key after registered my first key!! Thank you Thetis :)",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Mark N",
+      "helpful_votes": 0,
+      "publication_date": 20190206
+    },
+    {
+      "title": "Good!  I bought two",
+      "text": "My company requires 2-factor using Duo to access company resources. It was a pain using the cell phone for this purpose so I bought two of these, one for the office and one for the home. Very convenient to press a button vs fussing with the phone.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Idiot Suvant",
+      "helpful_votes": 0,
+      "publication_date": 20190731
+    },
+    {
+      "title": "Sufficed the need to resurrect my Outlook on older Windows laptop",
+      "text": "As a former contract employee using government computers I was familiar with FOBs for security reasons. This simple 'key' device, to create an APP key, was all it took to get my Outlook to again communicate with the \"GOOGLE\".",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Wemyss Lassie",
+      "helpful_votes": 0,
+      "publication_date": 20200228
+    },
+    {
+      "title": "Works as advertised",
+      "text": "It works for exactly what is advertised. It's rugged, works consistently, and I have no doubt this will hold up on a key chain. The only real downside is that not many sites use FIDO U2F and I've found I consistently need TOTP as well (which this doesn't have). I'm giving it five stars though because it's clear what you are getting and it does that perfectly.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Tom",
+      "helpful_votes": 0,
+      "publication_date": 20180429
+    },
+    {
+      "title": "Simple, affordable, & versatile hardware key",
+      "text": "I've been using the Thetis USB hardware key for a few weeks now, and so far it has made it REALLY easy to secure my 2 auth accounts with it. Not every website supports FIDO U2F at the moment, but the Thetis key works fine with the ones that do. The key doesn't work with Windows Hello due to limitations, but I have used it for Dashlane, Google, Github, and many many more. The key for the most part is plastic, but it's still very durable, and the key swivel actually stays locked and tight. Very great product for the price, and I'm glad that I bought this!",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Brian",
+      "helpful_votes": 0,
+      "publication_date": 20191122
+    },
+    {
+      "title": "It is a cool little device",
+      "text": "It is a cool little device. Was kind of frustrating to install but I got it. Nice and durable to protect the device. Love that I can put it on my key ring and take it anywhere with me. I like that I can use it to protect all passwords and other important stuff. But I do not like having it stick out of my laptop. Only some sites support U2F protocol but hopefully more will allow it in the future.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Krista T.",
+      "helpful_votes": 0,
+      "publication_date": 20171229
+    },
+    {
+      "title": "Protect your accounts...",
+      "text": "If you are looking to protect your most important accounts (Gmail and Facebook) then this is the product you need. If you use your Gmail or Facebook to authentic other sites the possibilities are almost endless. Remember to always have a backup plan, such as recovery codes, which can be obtained from Google or Facebook upon registering for 2FA. Hopefully in the future LastPass will be supported.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Rich",
+      "helpful_votes": 0,
+      "publication_date": 20190130
+    },
+    {
+      "title": "Great value!",
+      "text": "This is my first time using a security key. I have found that by using this product, it has made logging into my certain accounts much easier. It is way faster than typing in a security code or using an authentication app.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Josh",
+      "helpful_votes": 0,
+      "publication_date": 20200522
+    },
+    {
+      "title": "Great Product at a Great Value",
+      "text": "This is a great product and gives me additional piece of mind when conducting online work. It helps ensure that my information is kept safe and protected and that is so important in this day and age of stolen personal information and so forth.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "MEB",
+      "helpful_votes": 0,
+      "publication_date": 20200109
+    },
+    {
+      "title": "Protection",
+      "text": "My first time buying a key, it was easy to set up and used it on Gmail, and other sites for protection as my Gmail had been comprised before, using a key. I haven't had any problems with it, works great with my bitwarden. I honestly should have gotten one long time ago. To protect all my accounts, I haven't try to see what other browsers work right now I just using chrome at the moment. I love this product for extra protection. I would recommend this product.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Javier Ortiz Jr",
+      "helpful_votes": 0,
+      "publication_date": 20190727
+    },
+    {
+      "title": "Cheap and Secure Security Key",
+      "text": "I purchased this security key to do some testing with various 2FA applications, and so far so good. I am currently using it with BitWarden after I dumped LastPass for various other reasons. The Security key is small and non-descript which is a great thing if you need to take it everywhere you go. I think long term durability will be good, but we will have to see. Overall a great choice and I am happy with my purchase!",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Steven Sarkhosh",
+      "helpful_votes": 0,
+      "publication_date": 20190719
+    },
+    {
+      "title": "What a wonderful key!",
+      "text": "It looks and feels great! Super sturdy! Super fast! Works with almost everything so far that I've tried it on (win10)! It's my first buy of its kind, and I have to say: this technology is fun, and I feel safe using it!",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Stonelar",
+      "helpful_votes": 0,
+      "publication_date": 20191031
+    },
+    {
+      "title": "Good Deal.",
+      "text": "I liked how solid it feels. Also how simple it was to set up. Unfortunately, I had to return it. After receiving it and going over the directions we discovered it would not work on the system we use.",
+      "rating": 4.0,
+      "verified": true,
+      "author": "Charles W.",
+      "helpful_votes": 0,
+      "publication_date": 20190731
+    },
+    {
+      "title": "Garbage. Died 2 days after the first time I used it.",
+      "text": "Not worth my time, money, and effort to send back. Looks like I'm in the minority here, hopefully others don't get a defective unit like I did.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "Jonathan M. Hyry",
+      "helpful_votes": 2,
+      "publication_date": 20180921
+    },
+    {
+      "title": "Works like any other U2F key, but it feels a bit more durable",
+      "text": "Another U2F security key. What can you say, it works like all the others? The noticeable difference on this one for me is that it's thicker, so it feels a lot more durable. The swivel mechanism is really solid as well, so again, it feels pretty durable.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Sagisarius",
+      "helpful_votes": 0,
+      "publication_date": 20171229
+    },
+    {
+      "title": "Easy to use security key",
+      "text": "I wanna make sure my valued information does not make it into unwanted hands, so I got this easy to use security key. Seriously, you set up two-factor verification on the websites this item supports, pop it into a USB drive, click it, and voila! I keep it on the keychain in my pocket and have had no issues with its durability.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "D. Kolle",
+      "helpful_votes": 0,
+      "publication_date": 20190118
+    },
+    {
+      "title": "Works as described",
+      "text": "The key is really well made, and works fine. However I was not able to trace when and how the private key was generated for it and if the key is truly unique and there isn't a copy of it saved in the manufacturer database or anywhere else. Thetis needs to make this point more transparent.",
+      "rating": 4.0,
+      "verified": true,
+      "author": "unclz",
+      "helpful_votes": 0,
+      "publication_date": 20191217
+    },
+    {
+      "title": "Durable & Reliable",
+      "text": "This is the 2nd Thetis Security Key I have purchased. I purchased this one to have the option of Bluetooth. These devices are durable and very reliable. I highly recommend them.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "MagicClown",
+      "helpful_votes": 0,
+      "publication_date": 20190621
+    },
+    {
+      "title": "Really good product",
+      "text": "I've had the Thetis key for about 10 months now and they are running strong, no issues as of yet. The only reason I'm giving 4 stars instead of 5 is that they advertised free replacements for the Thetis key, when I went to ask them for that, they said they would only give free replacements if I submitted a review. In all honesty, I think it's a 5 star product but I object to having to give a review for something that they advertise for free, thus the 4 star rating.",
+      "rating": 4.0,
+      "verified": true,
+      "author": "K. Kosten",
+      "helpful_votes": 0,
+      "publication_date": 20190606
+    },
+    {
+      "title": "Can you figure out how to use this?",
+      "text": "Does not seem to work, not sure its me or it....",
+      "rating": 1.0,
+      "verified": true,
+      "author": "HMWalsh",
+      "helpful_votes": 0,
+      "publication_date": 20190830
+    },
+    {
+      "title": "Good design and powerful features that prevent you from identify ...",
+      "text": "Very handy and portable. Good design and powerful features that prevent you from identify theft. Can be inserted into any USB port and support both PC and Mac. Personally, it is a reliable gadget providing additional protection for your account/password security.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "YL",
+      "helpful_votes": 0,
+      "publication_date": 20170828
+    },
+    {
+      "title": "I feel safer already",
+      "text": "What a neat little device! I was able to set it up with my Google account in just a few minutes, and it works perfectly. It seems solidly built and it's small size makes it easy to carry around. There are cheaper options out there but I none of them seem to share the same level of quality as this one - I would highly recommend it.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Cyber_Agent",
+      "helpful_votes": 0,
+      "publication_date": 20190515
+    },
+    {
+      "title": "Good key, will not work with Windows 10 Hello",
+      "text": "It's a good key that will work with most of the online services. I was confused and thought this was supported by Windows 10 Hello; it isn't, only FIDO2 keys are. The support team was very helpful and quick. I would recommend this product for those that need a FIDO U2F key.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Miguel Matos",
+      "helpful_votes": 0,
+      "publication_date": 20190605
+    },
+    {
+      "title": "Great product but needs to better material",
+      "text": "Love this key. It has been great. Unfortunately, the part that goes into your computer is made of plastic and less than a year later is has cracked and broke off. Need to get another one but due to the plastic, I will buy another key that can stand the test of time.",
+      "rating": 3.0,
+      "verified": true,
+      "author": "MaximilianoJRP",
+      "helpful_votes": 0,
+      "publication_date": 20200826
+    },
+    {
+      "title": "Decent Dongle",
+      "text": "I like that it's easy to use, I use both Windows and Linux (various versions), only tried it on Windows so far, Works with Google (very well actually didn't let me into it on Firefox when I forgot it at home), Works with some Crypto wallet and exchange websites which I thought was awesome. Disappointed I couldn't use it to log into windows instead of just their password, however that's not your fault, that's Microsoft.",
+      "rating": 4.0,
+      "verified": true,
+      "author": "Alex Hartwell",
+      "helpful_votes": 0,
+      "publication_date": 20190830
+    },
+    {
+      "title": "Great Makes Google Account more Secure",
+      "text": "If you looking to secure your facebook or Gmail Account this FIDO U2F key is for you! Great price and well worth the money clips on the key and easy to use fell better secure for my Gmail Account. Also Recommended buy 2 one just in case",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Jacob",
+      "helpful_votes": 0,
+      "publication_date": 20181108
+    },
+    {
+      "title": "Great way to 2FA",
+      "text": "Got it to test out security keys as a whole. Simple instructions, and integration. Sys admins / g-suite administrators will love the added security, but you will also hope your end users don't lose it or take it home. If your company doesn't provide phones for employees, this is the way to encourage/enforce 2FA. I'll be interested to see how Thetis market share holds up against other big name brands that have the support of our google-ords.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Summer",
+      "helpful_votes": 0,
+      "publication_date": 20191203
+    },
+    {
+      "title": "More documentations about configurations",
+      "text": "I just like to say that your product is ok, and you have to dedicate more attention about the documentation and configuration inside of your packing. Foruns and work around is not so good to make this nice product have a good reputation. you have to put your focus for the noobs and ordinary people to spread the use.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Ayr M. Goncalves",
+      "helpful_votes": 0,
+      "publication_date": 20171023
+    },
+    {
+      "title": "Cheaper than most U2F Keys, but works just as great!",
+      "text": "I bought this key specifically because of its fold in design, and because it was on the cheaper side (U2F Keys can run to around $40 for some reason) but it works great! I've had it for about a week now and I haven't had any real issues. My only complaint is that the button on the key does need to be pressed down kind of hard for it to register the button press, which I hope gets resolved in maybe a 2.0 Version. Otherwise, it does exactly what is advertised.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Michelle",
+      "helpful_votes": 0,
+      "publication_date": 20190327
+    },
+    {
+      "title": "An important security tool in our digital world",
+      "text": "This is an excellent U2F key. In the complex cyber security environment of our society, two-factor authentication is more important than ever. Security keys are excellent resources to help secure your digital world, and the Theits Security Key is one of the best keys that I have used. It fits great on my keychain and I use it every day. This is a small price to pay for the massive security benefits that you gain from using a security key. Do not hesitate to buy the Thetis!",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Colin",
+      "helpful_votes": 0,
+      "publication_date": 20181114
+    },
+    {
+      "title": "Far easier to use than I expected.",
+      "text": "The procedure for setting it up for use with google and facebook were super easy follow. Not that they are set up, I wonder when banks and paypal will get on board.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Bryan Costales",
+      "helpful_votes": 0,
+      "publication_date": 20180927
+    },
+    {
+      "title": "Good quality with max security",
+      "text": "After having a problem on my account, I started looking for a secure log in tools. I found this and very happy to have it. It is very user-friendly. Easy to start using it. The keychain option is giving you the carry it everywhere you go. It is not heavy not making to much crowded on your keychain. I strongly recommend this excellent quality secure tool",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Ilkr Phydone",
+      "helpful_votes": 0,
+      "publication_date": 20180102
+    },
+    {
+      "title": "Doesn't work with Lastpass",
+      "text": "Works well for Google, but not for Lastpass. I've started switching all my passwords to Google's password manager since it works better than Lastpass in both Chrome and Android apps.",
+      "rating": 4.0,
+      "verified": true,
+      "author": "J. Reed",
+      "helpful_votes": 0,
+      "publication_date": 20180906
+    },
+    {
+      "title": "Customers should be warned about which Web Browsers Work - before purchase",
+      "text": "I use Firefox. Come to find out that the key does not work with Firefox without an add-on. But customer service cannot tell me which add-on.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "E. M. Jentzsch",
+      "helpful_votes": 2,
+      "publication_date": 20190218
+    },
+    {
+      "title": "Does not work for Google in Firefox on Ubuntu",
+      "text": "I tested logging in to Google u2f with this device on Ubuntu 19.04 without installing any extra apps, configuration, or drivers. Over USB on Ubuntu, I could sign in with Chrome, but not Firefox or Qutebrowser. In those, it at first appeared to work, but then an error message appeared: \"There was a problem. Try using your security key again or try another way to verify it's you\"",
+      "rating": 3.0,
+      "verified": true,
+      "author": "michael",
+      "helpful_votes": 0,
+      "publication_date": 20190619
+    },
+    {
+      "title": "WARNING: NFG for Ubuntu 16.04",
+      "text": "Got this for use with Vanguard (Yubikey is the only hardware token they support). Was unable to get this device (vendor 1ea8, product f025) working with Ubuntu 16.04 and Chrome (and I'm the kind of Ubuntu user who has hacked kernel modules).",
+      "rating": 2.0,
+      "verified": true,
+      "author": "A Customer",
+      "helpful_votes": 0,
+      "publication_date": 20181212
+    },
+    {
+      "title": "Works well with Google and Linux",
+      "text": "This is a sturdy key that I'm not afraid to carry on my keychain. I use it to log into my Linux computers (using the pam_u2f login module). And of course it works fine with Google and my chromebooks. While not as feature filled as some the Yubikeys, the Thetis gets the job done. Thetis's main strengths are it's strong metal case, simplicity, and reliability.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Thomas M.",
+      "helpful_votes": 0,
+      "publication_date": 20200524
+    },
+    {
+      "title": "Personal security",
+      "text": "Feels high quality and I found it super easy to use. It's nice to have a physical button I can push instead of just copying SMS codes. Highly recommended addition for personal security!",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Lance J. Goyke",
+      "helpful_votes": 0,
+      "publication_date": 20200315
+    },
+    {
+      "title": "Amazing Little Key",
+      "text": "A great device for and very security. Great Price. My email accounts have been compromised so many times so I thought I'd try this device you know what it's amazing and it gives me peace and tranquility at last I feel secured not victimized",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Winter-Moon 7.Se.004",
+      "helpful_votes": 0,
+      "publication_date": 20190711
+    },
+    {
+      "title": "Strong or well built",
+      "text": "Strong or well built. Works as advertised and provides peace of mind.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Wes B",
+      "helpful_votes": 0,
+      "publication_date": 20180929
+    },
+    {
+      "title": "Best value for the money",
+      "text": "It\u2019s a really nice looking U2F key, I got the black one and it looks so cool and it\u2019s indeed very durable, I use it in my keychain and haven\u2019t noticed a single scratch. The materials looks and feels of premium quality as advertised. I recommend getting at least 2 units and keeping one as a backup in case you ever lose one which I hope don\u2019t.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "David De Smet",
+      "helpful_votes": 0,
+      "publication_date": 20190111
+    },
+    {
+      "title": "You get what you pay for.",
+      "text": "Don't expect it to last much longer than the warranty date. I used it exclusively for my pc, and only unplugged it a few times and after only 18 months it is not functioning.",
+      "rating": 4.0,
+      "verified": true,
+      "author": "William Edwards",
+      "helpful_votes": 0,
+      "publication_date": 20190223
+    },
+    {
+      "title": "Great Compact and Durable Security Key",
+      "text": "I bought this product recently and it has been great. Besides the initial stiffness of the opening and closing mechanism (which goes away after opening it a couple times), the product function quickly and is really compact which makes it perfect for keychains and lanyards. The build quality seems great and it doesn\u2019t look or feel like its going to wear easily overtime.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Hassan",
+      "helpful_votes": 0,
+      "publication_date": 20200722
+    },
+    {
+      "title": "Be careful, not FIDO2",
+      "text": "Be careful, this is not Fido2 for Passwordless login. It will not work for Microsoft Passwordless login.",
+      "rating": 4.0,
+      "verified": true,
+      "author": "Bryce",
+      "helpful_votes": 0,
+      "publication_date": 20191203
+    },
+    {
+      "title": "No complaints",
+      "text": "Works just fine and came sooner than expected. Registration and set up is done and I have no complaints.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Diane Delfino",
+      "helpful_votes": 0,
+      "publication_date": 20200316
+    },
+    {
+      "title": "Durable key that works for my security needs",
+      "text": "I carry this on my keys to help with my accounts needing TFA. Holds up to daily usage, and hasn't given me any issues.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Nick R.",
+      "helpful_votes": 0,
+      "publication_date": 20200421
+    },
+    {
+      "title": "Still far behind Yubikey",
+      "text": "Doesn't work with Windows Hello Doesn't work with Password Managers like KeePass Yubikey is very well supported for almost any software & platform",
+      "rating": 2.0,
+      "verified": true,
+      "author": "Unforgiv3N",
+      "helpful_votes": 0,
+      "publication_date": 20190809
+    },
+    {
+      "title": "Secure and portable",
+      "text": "This is a great product. Its so convenient and a good size. Small enough to fit on a keychain but it also doesnt feel flimsy. It makes it so easy to log into my accounts safely and securely. Also I can keep it on my keychain and it swivels into the metal housing so the USB end is protected.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Mimi M",
+      "helpful_votes": 0,
+      "publication_date": 20180115
+    },
+    {
+      "title": "Online Security",
+      "text": "I love this device for security. It is very easy to set up and add accounts to for added online security. It is small, not bulky like others. It can be used along with or as a keychain so you always know where it is. This is a great product all the way around.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Butterfly",
+      "helpful_votes": 0,
+      "publication_date": 20171227
+    },
+    {
+      "title": "neat product, prefect for gmail accounts",
+      "text": "The Fido key has worked fine for me just recently bought it, and have had no problems with it. It is really easy to use, at first I thought it would be a long process to secure accounts with but turns out that it's quite simple.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Customer MB",
+      "helpful_votes": 0,
+      "publication_date": 20180903
+    },
+    {
+      "title": "Thetis USB Key great idea!",
+      "text": "The product makes much sense to buy. However, I would have liked clearer instructions on how to use it. I'm certain once I expend a lot of thought to put it into use I'll succeed. It is best for technical writing to be done by people who can simplify the most complex thoughts clearly. Nevertheless, it makes sense to own this type of product.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Louis J. Pinga",
+      "helpful_votes": 0,
+      "publication_date": 20200207
+    },
+    {
+      "title": "Works fine as intend easy to use",
+      "text": "worked with gmail and windows 10 will update my review if used with outlook,dropbox....etc",
+      "rating": 5.0,
+      "verified": true,
+      "author": "BADER",
+      "helpful_votes": 0,
+      "publication_date": 20200213
+    },
+    {
+      "title": "Got a used one but paid for new",
+      "text": "Key was used with scratches and worn around edges. Still functioned, but when you pay for new, you should get new",
+      "rating": 3.0,
+      "verified": true,
+      "author": "Jacob Michealson",
+      "helpful_votes": 0,
+      "publication_date": 20180326
+    },
+    {
+      "title": "9.5 out 10 needs more web sites that support it but other than that a wonderful product",
+      "text": "great product definitely would recommend this product for an extra layer of security wish it had more web site support but for google it is great i just plug it in and works great",
+      "rating": 4.0,
+      "verified": true,
+      "author": "Austin Varney",
+      "helpful_votes": 0,
+      "publication_date": 20171017
+    },
+    {
+      "title": "Works as Advertised -Well.",
+      "text": "Does exactly what it is supposed to do. Tech support is responsive and helpful. Limited compatibility, but that's more the fault of companies not adopting the FIDO 2 Standard",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Old Timer",
+      "helpful_votes": 0,
+      "publication_date": 20190415
+    },
+    {
+      "title": "Practical Security Key",
+      "text": "My university has recently requested everyone to use a second factor authentication method. Since I don't like to rely on my smartphone in case I forget it at home or its battery is dead, I ordered this security key from Amazon and I love it. It is fully compatible with Duo Two Factor Authentication, convenient to carry in a keychain and very practical. It works as advertised.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Nader Bouacida",
+      "helpful_votes": 0,
+      "publication_date": 20190128
+    },
+    {
+      "title": "Good Security",
+      "text": "Works well with gMail. Amazon, please take note. I'd like to use it here, too.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "E. Mintz",
+      "helpful_votes": 0,
+      "publication_date": 20190803
+    },
+    {
+      "title": "Great product - installed it on my desktop and I ...",
+      "text": "Great product - installed it on my desktop and I know that when I visit websites my information will be secure. Very portable and easy to set up anywhere on a computer or laptop",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Anita M. Wise",
+      "helpful_votes": 0,
+      "publication_date": 20170909
+    },
+    {
+      "title": "Now I feel more Secure",
+      "text": "Easy to configure, it really provides an extra security to my email accounts.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Oscar A. Saenz",
+      "helpful_votes": 0,
+      "publication_date": 20190718
+    },
+    {
+      "title": "Great little key, albeit not super sturdy",
+      "text": "This key works well but a bit flimsy on the outside. Recommended otherwise.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Konstantin Gredeskoul",
+      "helpful_votes": 0,
+      "publication_date": 20200116
+    },
+    {
+      "title": "Nice security key form",
+      "text": "Seems like a good form, not too big, not overly small that it gets lost.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Draco Mal Trapnet",
+      "helpful_votes": 0,
+      "publication_date": 20190710
+    },
+    {
+      "title": "It doesn't work",
+      "text": "After one year of trying to get this to work, it doesn't work in any of my macs, and there is no support and no tutorial. It took me months to find something online usable. I feel scammed!",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Fabrik",
+      "helpful_votes": 0,
+      "publication_date": 20200330
+    },
+    {
+      "title": "Does what it says, easy install",
+      "text": "Does what it says, easy install. Lightweight and strutdy so I can keep it on my purse when traveling. To test it, I tried to sign into another computer I use (my old backup) and it it was locked. Great buy.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Unsaintly",
+      "helpful_votes": 0,
+      "publication_date": 20171201
+    },
+    {
+      "title": "Works as intended for the most part, but be aware some sites U2F compatibility may differ from Yubikey's U2F.",
+      "text": "Would have been 5 stars if this worked with existing Gitlab instances. Github hosted U2F works like a charm as does Google. More of a knock against Gitlab rather than Thetis. The authentication button is a little loose but gives a satisfying sound upon activation to let you know the 2FA has been used as opposed to touch sensitive activators.",
+      "rating": 4.0,
+      "verified": true,
+      "author": "NondescriptUser#1000",
+      "helpful_votes": 0,
+      "publication_date": 20180602
+    }
+  ],
+  "product_meta": {
+    "title": "FIDO U2F Security Key, Thetis [Aluminum Folding Design] Universal Two Factor Authentication USB (Type A) for Extra Protection in Windows/Linux/Mac OS, Gmail, Facebook, Dropbox, SalesForce, GitHub",
+    "description": "Color:BlackThetis FIDO U2F Security key with aluminum folding design provide a strong authentication to login account in addition to password via the USB port.\n\nPlatform and OS Support:\nThe key can only be used with the websites which support U2F protocol via Chrome, Opera browser (version 40 and later) on Windows, Mac OS X and Linux. Currently, websites which support U2F protocol include Google G-suite, Facebook, Dropbox, GitHub, SalesForce, Dashlane, GitLab, BitBucket, and FastMail.\n(Important Note: Not compatible with any email clients including Apple Mail, Mozilla Thunderbird or Microsoft Outlook) \n\nProduct Specifications:\nU2F protocol: Universal Second Factor service that allow user to add a strong second factor device to user login. (The key doesn't support OTP or UAF protocols)\n\nECDSA SHA Standard / SHA-256: Elliptic Curve Digital Signature Algorithm to generate 256 bits hash length characters private and public keys so that your account will keep in high security even using a simple password.\n\nSize and weight: compact usb flash drive size and lightweight design\n\nWarranty:\nThetis provide a one-year warranty.",
+    "rating": 4.4,
+    "feature_bullets": [
+      "PROTECT ONLINE ACCOUNT - Offer a strong factor authentication to your online account. Never lose your accounts through password theft, phishing, hacking or keylogging scams.",
+      "UNIVERSAL COMPATIBILITY - The Thetis U2F key can be used on any websites which support U2F protocol with the latest Chrome installed on your Windows, Mac OS or Linux. (Important Note: Not compatible with any email clients including Apple Mail, Mozilla Thunderbird or Microsoft Outlook)",
+      "FIDO U2F CERTIFIED - Safety is our priority. Certified by world's largest Ecosystem for Standards-based, interoperable Authentication. Only support U2F protocol (No UAF or OTP). Provide low-cost and simple solution with high security.",
+      "EXTREMELY DURABLE - Designed with a 360\u00b0 rotating metal cover that shields the USB connector when not in use. Also, crafted from a durable aluminum alloy to protect the Key from drops, bumps and scratches.",
+      "ONE-YEAR WARRANTY - Covered by a one-year warranty to protect against defects."
+    ],
+    "specifications": {
+      "Product Dimensions": "1.8 x 0.5 x 0.4 inches",
+      "Item Weight": "0.81 ounces",
+      "Manufacturer": "Thetis",
+      "ASIN": "B06XHTKFH3",
+      "Item model number": "8541576572",
+      "Customer Reviews": "4.4 out of 5 stars409 ratings4.4 out of 5 stars",
+      "Best Sellers Rank": "#709 in USB Flash Drives",
+      "Is Discontinued By Manufacturer": "No",
+      "Date First Available": "March 9, 2017"
+    },
+    "categories": [
+      "Data Storage",
+      "Computers & Accessories",
+      "Electronics",
+      "USB Flash Drives"
+    ],
+    "price": 18.99
+  }
+}

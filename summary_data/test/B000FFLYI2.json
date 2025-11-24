@@ -1,0 +1,695 @@
+{
+  "website_summaries": [
+    {
+      "verdict": "Though the Netgear WN511B notebook adapter is an overall decent performer, its times are still fall far short of the scorching speeds promised by the new draft-N standard. Don't jump on the draft N bandwagon just yet.",
+      "pros": [
+        "The WN511B's list of attributes includes solid maximum throughput, easy setup, thorough documentation, and a full-featured configuration utility"
+      ],
+      "cons": [
+        "When it comes to mixed-mode throughput, the WN511B displays comparatively slow performance, and support for the adapter lags behind that of the competition"
+      ],
+      "aspects": {
+        "Setup": 7.0,
+        "Features": 7.0,
+        "Performance": 6.0,
+        "Support": 5.0
+      },
+      "publication_date": 20060501,
+      "rating": 6.3,
+      "source": "cnet"
+    }
+  ],
+  "customer_reviews": [
+    {
+      "title": "Excellent quality and usage - thru the years.",
+      "text": "I bought 2 of these at the same time 2 yrs ago for my old faithful laptops that are loaded with everything - serial, 9-pin, usb, wifi, mini HD disk drive, and DVD slot. It took some looking around, but of course, amazon had them. SO worth it. Some of my work uses the old gear, the old apps, and just feels better using the (vintage?) gear. These were new in their original packaging that wasn't yellowed or in lousy storage or smelled like a pawn shop, etc. They shipped in padded envelopes lined with very heavy cardstock and bubble wrap added for protection. They work flawlessly. Plug and play as top shelf brand gear should.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Pen Silnink",
+      "helpful_votes": 0,
+      "publication_date": 20161220
+    },
+    {
+      "title": "Works Great on My Old Dell 8100 Laptop",
+      "text": "Installed this unit on my \"antique\" Dell 8100 Inspiron laptop when my old Belkin wireless adapter quit working after I installed a new router. The Netgear adapter installation went smoothly and had things running again quickly. This product installs easily as you wish all computer widgets would do. Highly recommended. Note: This old Dell laptop mostly collects dust. But it contains a licensed Audi service manual I need from time-to-time. In addition, this Dell has a high definition display and is built like a \"tank.\" And I can't toss away something that once cost thousands of dollars <g>.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "William I Russell",
+      "helpful_votes": 0,
+      "publication_date": 20160627
+    },
+    {
+      "title": "+ Economy Buy for Ubuntu, Mint, Mate, etc",
+      "text": "After the DKMS install from Synaptic I get the \"N\" band at 130 gb/s. Picks up nearby AP's, even the drones :) Has a BCM 4321 chipset. I use it in a card adapter I put in the PCI slot of a desktop. It works well in old laptops with bad or missing proprietary internal wireless cards.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "1sojourner",
+      "helpful_votes": 0,
+      "publication_date": 20170810
+    },
+    {
+      "title": "Not an Express Card - older PC Card Size.  - NO PROBLEM IF YOU KNOW WHAT YOU NEED",
+      "text": "I'm writing the review mostly to help potential shopper avoid order the wrong size card. From what I can tell, this card fits the older PCMCIA/PC Card slots. Most laptops built after 2006 or so will (if they have any slot at all) have an Express Card slot. So this didn't fit my laptop, but that's my fault for not realizing the standard changed 10 years ago. I have no doubt this card would work well if it fit.",
+      "rating": 3.0,
+      "verified": true,
+      "author": "d. ward",
+      "helpful_votes": 0,
+      "publication_date": 20160624
+    },
+    {
+      "title": "Works.",
+      "text": "Works in Windows Xp, it does stick out, and you can't remove the part that sticks out because it has a circuit board. (The circuit board sticks out, not just the anthenea) But other than that, no complaints.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "PurpleVanillaSugar",
+      "helpful_votes": 0,
+      "publication_date": 20200706
+    },
+    {
+      "title": "Easy Install!",
+      "text": "I am sure this would work but I have an outdated OS! Once I update my OS, it should work great! It was very easy to install!",
+      "rating": 4.0,
+      "verified": true,
+      "author": "Emc2park",
+      "helpful_votes": 0,
+      "publication_date": 20200529
+    },
+    {
+      "title": "Worked on old Dell laptop running Windows 7",
+      "text": "This worked great on my old Dell computer running Windows 7. It was communicating at 54 Mbps reliably using the built-in WiFi (Wireless G). When I used a USB WiFi adapter (wireless N) as a test I was able to get around 108 Mbps. Now, with the WN511B I connect at 216 Mbps! The WN511B came with Vista software which I installed using compatibility mode. I am not sure if you need to take this step, but it is what I did.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Calayan Rail",
+      "helpful_votes": 0,
+      "publication_date": 20160107
+    },
+    {
+      "title": "Throwback tech that works in the modern world",
+      "text": "I recently was given an old Dell Inspiron 1100 laptop. According to the service tag on Dell's website the computer was built in 2003. Quite a ways before wifi came standard. The notebook has very modest specs, and was able to easily utilize this adapter. I simply loaded on the software, and then plugged in the card. I was surfing the net in no time. If you have an older computer, I don't think you can go wrong adding this adapter to your setup. after all, who wants a laptop that you have to plug into a lan cable?",
+      "rating": 5.0,
+      "verified": true,
+      "author": "J. Banks",
+      "helpful_votes": 0,
+      "publication_date": 20120402
+    },
+    {
+      "title": "Great service!",
+      "text": "The wireless card works exactly as required. It arrived well before the expected arrival date. Plus, the price was really great!",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Amazon Customer",
+      "helpful_votes": 0,
+      "publication_date": 20180711
+    },
+    {
+      "title": "Great Unit",
+      "text": "Great unit! Great signal strength and reception. Supports W2K and WPA2 PSK security! This is a rare combination for a cardbus interface unit. I tried about 6 units before I got to this one. The interface program could be better! Its terse and clumsy. The BEST interface program I encountered was on my Parker Vision unit - but it only supported WEP security - and with the ISPs now spying on your network activity and reporting to the copyright gestapo - you want ALL the security on your access point you can get!",
+      "rating": 4.0,
+      "verified": true,
+      "author": "Ted de Castro",
+      "helpful_votes": 0,
+      "publication_date": 20110815
+    },
+    {
+      "title": "NIfty little adapter",
+      "text": "I ordered this to boost my wifi speeds in a old Thinkpad. It works better that the Cisco product...at least I get 150M reported speeds. A bit confusing to install...I skipped the Netgear tools and let XP take care of things. Less software bloat that way.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Rich Purdum",
+      "helpful_votes": 0,
+      "publication_date": 20170330
+    },
+    {
+      "title": "Breath new life into old hardware",
+      "text": "I used this with an old Lenovo laptop with internal Wi-Fi that has a compatibility issue with Windows 10 that causes it to crash the OS. The solution was to disable to the internal Wi-Fi and use this card. It's an old card, but works like a champ. The discounted price (pennies on the dollar) you can pick these up for is definitely worth the price.",
+      "rating": 4.0,
+      "verified": true,
+      "author": "Bruce Keever",
+      "helpful_votes": 0,
+      "publication_date": 20160205
+    },
+    {
+      "title": "WiFi Card",
+      "text": "The Netgear wireless card for my Thinkpad works flawlessly. The product as a re-manufactured works perfectly, and is a terrific value. The only difficulty is the soft had to be acquired on line, and was somewhat confusing toward it's installation. It would have been a greater value is a cd for the installation had been included, even for an additional charge.\\\\ I am as always very pleased in doing business with Amazon. Ron in St. Peters, MO",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Ronald Maybell",
+      "helpful_votes": 0,
+      "publication_date": 20110303
+    },
+    {
+      "title": "Item not as described or pictured",
+      "text": "I ordered the NETGEAR WN511B RangeMax Wireless-N Notebook Adapter and got the NETGEAR WN111 RangeMax Wireless- USB 2.0 Adapter instead. item not as shown, wrong item.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "zauts",
+      "helpful_votes": 0,
+      "publication_date": 20180518
+    },
+    {
+      "title": "Perfect for an older laptop to replace an older NETGEAR ...",
+      "text": "Perfect for an older laptop to replace an older NETGEAR PCMCIA adapter that finally stopped working because I bent it by leaving it in the laptop instead of removing it as I always had done when putting laptop inside it's case.. Price was great and it's plenty fast enough for the old laptop.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Timothy K Knechtly",
+      "helpful_votes": 0,
+      "publication_date": 20160717
+    },
+    {
+      "title": "Just works !!",
+      "text": "Among the 5 different wifi devices I tried on my 8 yr old laptop (3 USB, 1 other PCMCIA and this WN511B PCMCIA card), this one just works. I have XP on a old dell laptop that didn't have wifi. I installed the software on the CD, plugged the card in, selected my wifi, entered my password and it works like a charm. It works in my basement even though my router is on the 3rd floor.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Alpha Romeo",
+      "helpful_votes": 0,
+      "publication_date": 20140426
+    },
+    {
+      "title": "Fantastic wireless card that is Linux friendly!",
+      "text": "I was given an older laptop that did not have wireless networking embedded and had USB 1.x ports. My goal was to be able to connect using 802.11n. As most of you probably already know, there are not many choices out there if you need to use a PC card slot to connect using 802.11n. Luckily a quick Amazon search lead me to this card. It worked perfectly after installing the driver and wireless manager. I can now read all of the petty revenge stories on reddit without the burden of wires.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Max Power",
+      "helpful_votes": 0,
+      "publication_date": 20140316
+    },
+    {
+      "title": "Doesn't work with Windows 10. Drivers installed and it ...",
+      "text": "Doesn't work with Windows 10. Drivers installed but it didn't detect any wireless signals at all.",
+      "rating": 2.0,
+      "verified": true,
+      "author": "Allen R Lindgren",
+      "helpful_votes": 0,
+      "publication_date": 20161211
+    },
+    {
+      "title": "Great Product",
+      "text": "Great product and works as described. However you get error when running on OS Windows 7. But you can clear error.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Mark",
+      "helpful_votes": 0,
+      "publication_date": 20180713
+    },
+    {
+      "title": "Using it now and it work's great with windows 7 64 bit",
+      "text": "Using it now and it work's great with windows 7 64 bit, Fast Install, used for several month's now without any problems!",
+      "rating": 5.0,
+      "verified": true,
+      "author": "votedemocrat",
+      "helpful_votes": 0,
+      "publication_date": 20151201
+    },
+    {
+      "title": "Just fine",
+      "text": "A nice card. When I was shopping, I think I saw a review complaining that it was the older pcmcia format, and I was like . . yeah, I would especially want an N card on an older machine since newer once have 802.11n built in. So it was great when I want to do fast file transfers on my older machines, but I did break down and buy internal n cards but I like having this on hand.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Section",
+      "helpful_votes": 0,
+      "publication_date": 20110817
+    },
+    {
+      "title": "For Dell Latitude C810 running XP",
+      "text": "Had it for about a month. Installation was easy. Config is iffy. I toggled between using the supplied software and XP (built in interface) because with certain wireless access points it worked/performed well with one or the other. For the price, it was a great deal. Running on wireless N network getting a 130mb connection.",
+      "rating": 4.0,
+      "verified": true,
+      "author": "Mark",
+      "helpful_votes": 3,
+      "publication_date": 20110307
+    },
+    {
+      "title": "Works fine.",
+      "text": "This works on an ancient laptop I have that was made in the days before there was such a thing as wireless Internet.. Works fine.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "survivor '07",
+      "helpful_votes": 0,
+      "publication_date": 20150523
+    },
+    {
+      "title": "Slow",
+      "text": "I have always had good luck with Netgear products however this card was too slow for me. It installed easy and connected quickly but throughput was consistently slow. My Belkin card was much faster.",
+      "rating": 2.0,
+      "verified": true,
+      "author": "Mike T.",
+      "helpful_votes": 0,
+      "publication_date": 20160207
+    },
+    {
+      "title": "Simple to install, reliable in use.  Amazing bargin.",
+      "text": "This unit is easy to install (Win XP Pro & Win 7 pro) and has worked flawlessly. Good range and no dropouts at all. In fact, no problems of any kind.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "mingus",
+      "helpful_votes": 0,
+      "publication_date": 20140921
+    },
+    {
+      "title": "Five Stars",
+      "text": "Works perfectly on an older IBM THINKPAD A31 with Windows XP that had no internal wireless card.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Duane",
+      "helpful_votes": 0,
+      "publication_date": 20160119
+    },
+    {
+      "title": "Works Fine",
+      "text": "A great price on a wireless N, which is the latest wireless adapter for speed and reliability. A good price on a nice new adapter. I have nothing negative to say about it. I love it and you will too.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Tea Party Patriot",
+      "helpful_votes": 0,
+      "publication_date": 20130408
+    },
+    {
+      "title": "Netgear wireless",
+      "text": "It was shipped and arrived promptly. I purchased it as the old laptop didn't have a wireless card. The only internal that will fit is a G wireless adapter. Wanting a N I had the choice of USB or PCMCIA. the laptop has only two USB ports so I bought a PCMCIA even though I already had a USB N adapter. For some reason the USB adapter out performs it in detection of available connections. The Netgear sometimes won't find my router but it will dectect my nieghbors go figure?",
+      "rating": 4.0,
+      "verified": true,
+      "author": "Archie",
+      "helpful_votes": 0,
+      "publication_date": 20110927
+    },
+    {
+      "title": "Works great for older computers without wifi",
+      "text": "If you have an older computer that either has no wifi or the wifi card has failed, this works to get you on the air. I have rehabilitated an older IBM ThinkPad and use this card to get wifi. Works well even in low signal areas.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "L. Griffin",
+      "helpful_votes": 0,
+      "publication_date": 20111125
+    },
+    {
+      "title": "Works Perfect for Windows, requires some troubleshooting for Linux",
+      "text": "The card is plug and play for Windows 7 and above, however there is a lot of troubleshooting involved to get it working in Ubuntu Linux since it is Broadcom. I eventually did get it working in Linux Wlan1 up.",
+      "rating": 4.0,
+      "verified": true,
+      "author": "Computeguydude",
+      "helpful_votes": 0,
+      "publication_date": 20141111
+    },
+    {
+      "title": "Works Great",
+      "text": "No problems with the setup works great and allows me to use one of my old laptops as a loaner for when I teach TTP",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Amazon Customer",
+      "helpful_votes": 0,
+      "publication_date": 20140615
+    },
+    {
+      "title": "it works but",
+      "text": "it works on my old compaq evo n410c with ubuntu 10.04 os. setting up wireless networking is easy but after an hour or so, the adapter gets really hot and it stops working and I lose network connection. Not sure if the temperature is related to the card stopping to work.",
+      "rating": 3.0,
+      "verified": true,
+      "author": "dakix",
+      "helpful_votes": 0,
+      "publication_date": 20130318
+    },
+    {
+      "title": "Old computer up-dated",
+      "text": "We have an old computer that needed an up-date. This item was a helpful solution. Thank you Netgear for providing such products.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Tracy",
+      "helpful_votes": 0,
+      "publication_date": 20140307
+    },
+    {
+      "title": "I returned this product.",
+      "text": "Item arrived earlier than estimated due date stated. It was returned because where I resided was made with alot of bricks it would not give me good enough reception signal that I needed.",
+      "rating": 3.0,
+      "verified": true,
+      "author": "Tee Gee",
+      "helpful_votes": 0,
+      "publication_date": 20130617
+    },
+    {
+      "title": "On the one hand, I've been using those USB ...",
+      "text": "On the one hand, I've been using those USB dongles for add-on Wi-Fi , I'd forgotten how powerful a real antenna can be. On the other hand, no Linux support.",
+      "rating": 4.0,
+      "verified": true,
+      "author": "Rob K",
+      "helpful_votes": 0,
+      "publication_date": 20160615
+    },
+    {
+      "title": "worked perfect",
+      "text": "this worked perect on my old dell laptop with the pcmi slot. i can now go online wirelessly because the old laptop had no wireless port or caerd",
+      "rating": 5.0,
+      "verified": true,
+      "author": "mike",
+      "helpful_votes": 0,
+      "publication_date": 20131011
+    },
+    {
+      "title": "great",
+      "text": "great buy sent fast works as described, loving it loving it loving it loving it loving it loving it loving it loving it",
+      "rating": 4.0,
+      "verified": true,
+      "author": "Jay",
+      "helpful_votes": 0,
+      "publication_date": 20130209
+    },
+    {
+      "title": "Netgear Wireless N",
+      "text": "Only install the wireless software that comes with it and it will work better. Great card. Would be using it today but wanted to free up slot.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Daboniel",
+      "helpful_votes": 0,
+      "publication_date": 20120217
+    },
+    {
+      "title": "Winning Tradition",
+      "text": "I now have bought three cards and two generations of this card. I use each of them weekly if not daily. I have never had a problem that lasted more than a few minutes.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Burke And Company",
+      "helpful_votes": 2,
+      "publication_date": 20090922
+    },
+    {
+      "title": "Caution!! Windows ONLY.",
+      "text": "I am rescuing older laptops with \"Open Source\" operating systems that require an internet connection during the installation. These operating systems can identify and connect to the internet before the system is installed. I have 5 different PCMCIA cards from 3 different manufacturers that all work, but not these. Netgear cards will only work in a running Windows operating system, so they are worthless to anybody not running Windows.",
+      "rating": 2.0,
+      "verified": true,
+      "author": "Loren",
+      "helpful_votes": 0,
+      "publication_date": 20140424
+    },
+    {
+      "title": "270 Mbps connection",
+      "text": "Well, I finally learned the secret of how to get the best performance from the 11n wireless router: use this interface instead of the built-in one. Now, I can connect from the family room downstairs and get the full rated speed. Before, the best I could manage using the built-in Intel interface was half that. This interface connects on two separate channels to achieve the max. Setup was easy, even on Vista.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "The Other J. Hargrove",
+      "helpful_votes": 10,
+      "publication_date": 20080508
+    },
+    {
+      "title": "Great product",
+      "text": "Worked great on my older style laptop. This was just what I needed for my laptop to pick up signal!",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Carissa",
+      "helpful_votes": 0,
+      "publication_date": 20130428
+    },
+    {
+      "title": "Did not meet requirement",
+      "text": "Unfortunately the product did not meet my requirements which was to connect an old computer with a single USB port to a modern router. I found that only WPA (not WPA2) was supported and resisted downgrading the network security.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "John B. Beurket",
+      "helpful_votes": 0,
+      "publication_date": 20140826
+    },
+    {
+      "title": "Brought old computer back to life",
+      "text": "Newer computers all have wi-fi built in. But old computers need to have that added as a peripheral. This adaptor did that flawlessly. I needed a computer to give dumb TV some smarts. This adapter saved an old laptop from the electronics dumpster, so it can live out the rest of its life in dignity doing something useful. I fully expect it to survive the next life-threatening event: the loss of XP support on April 8, 2014.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Mr Graphics",
+      "helpful_votes": 0,
+      "publication_date": 20131229
+    },
+    {
+      "title": "Great wireless card",
+      "text": "I'm using it now; card setup was easy and it words really good. Used it everywhere, airports, hotels, coffee shops, Macdonalds, other homes, etc. Works better than my PC builtin interface.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "bruno rutkauskas",
+      "helpful_votes": 0,
+      "publication_date": 20121229
+    },
+    {
+      "title": "plug and play, working 15 seconds after i opened box",
+      "text": "Item came well packed, and i followed other peoples reviews and simply plugged it in...no installation CD. It worked perfectly..... uploading and downloading at max.....very pleased",
+      "rating": 5.0,
+      "verified": true,
+      "author": "M. K. Shead",
+      "helpful_votes": 0,
+      "publication_date": 20140915
+    },
+    {
+      "title": "Good signal, but not at all reliable",
+      "text": "Did not work for my computer. It would work for short periods and then reset itself every 5-10 minutes.",
+      "rating": 2.0,
+      "verified": true,
+      "author": "Aaron Olsen",
+      "helpful_votes": 0,
+      "publication_date": 20150118
+    },
+    {
+      "title": "Easy to install",
+      "text": "This brought an old laptop back to life. It was a useable laptop but not for wireless, this card has made it everything that was needed",
+      "rating": 4.0,
+      "verified": true,
+      "author": "Joelene R Steele",
+      "helpful_votes": 0,
+      "publication_date": 20131217
+    },
+    {
+      "title": "piece o' crap if it doesn't fit ur pc",
+      "text": "i have a standard dell laptop inspiron manufactured around the time this card came onto the market and it didn't fit, the pins weren't right even though the card dimensions allowed me to try to put it in the slot, i did my research best i could before buying but couldn't find compatability info anywhere to say it wouldn't work, the seller should give more info. going to leave my 'g' type card in as 5mb/sec is actually very fast (about what comes in on the cable to the house)... i have the N router though..",
+      "rating": 1.0,
+      "verified": true,
+      "author": "crap or worth having?",
+      "helpful_votes": 0,
+      "publication_date": 20110507
+    },
+    {
+      "title": "WN511B No Joy",
+      "text": "I still does not work. I will have to call in a professional. I am on chemo therapy so it will be awhile before something happpens. The OLD one works fine. Hardy",
+      "rating": 1.0,
+      "verified": true,
+      "author": "hland",
+      "helpful_votes": 0,
+      "publication_date": 20121111
+    },
+    {
+      "title": "RangeMax",
+      "text": "Very easy to install and setup(with a wired connection you must download the drivers and software). Range is very good and the speed is great. Shipped fast and packaged well.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Mr.Wilson",
+      "helpful_votes": 0,
+      "publication_date": 20110311
+    },
+    {
+      "title": "NETGEAR WN511B RangeMax Wireless-N Notebook Adapter",
+      "text": "This was a new item I received and there was no issue with installing it on my DELL INSPIRON 8600. It works as expected and needed with my Netgear Router.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "John Lorts",
+      "helpful_votes": 0,
+      "publication_date": 20140204
+    },
+    {
+      "title": "I got it to work",
+      "text": "The WN511B pcmcia wireless N product didn't work with my 500 mhz Toshiba Portage laptop running win 2k (although the specs said it would). It may need more power than my Toshiba Portage can provide. My netgear wpn111 usb wireless g adaptor works perfectly with Win 2k. Almost 2 years after I bought the card I got a used Dell laptop with 1 gig processor and I'm running Windows XP. The card works good on the Dell.",
+      "rating": 4.0,
+      "verified": true,
+      "author": "review stl",
+      "helpful_votes": 0,
+      "publication_date": 20110408
+    },
+    {
+      "title": "NO GOOD FOR AMD",
+      "text": "This would probably be a very good Adapter if it would work with an AMD processor, which it will not & didn't state as much in the description. I purchased the Wireless Netgear Router that this Adapter was recommended for & it's much better & easier to set up than the Lynksys i was using. I'm giving it a 4 star only because the Notebook N Adapter didn't work with the AMD. It installed easily & would work for a few minutes, then freeze up my Notebook. I did call Netgear to confirm it wasn't compatible with the AMD.",
+      "rating": 4.0,
+      "verified": true,
+      "author": "R. A. Green",
+      "helpful_votes": 3,
+      "publication_date": 20100111
+    },
+    {
+      "title": "Bad Card",
+      "text": "Card was defective right out of the package. I did not opt to have another sent should have know I would once again receive another defective electronic device form Amazon or one of their associated partners who sell electronics on Amazon. Every single thing I ordered was either returned for refund or exchange.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "Bregensb",
+      "helpful_votes": 0,
+      "publication_date": 20110518
+    },
+    {
+      "title": "NETGEAR WN511B RangeMax Wireless-N Notebook Adapter",
+      "text": "This worked right out of the box on my old laptop. It increased the range, and the number of WiFI sites that I can \"see\"",
+      "rating": 5.0,
+      "verified": true,
+      "author": "southy",
+      "helpful_votes": 0,
+      "publication_date": 20110815
+    },
+    {
+      "title": "Netgear WN511B",
+      "text": "Fast delivery, product worked as described and easy to install. The wireless range is very good without interruptions.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Daniel Howe",
+      "helpful_votes": 0,
+      "publication_date": 20110327
+    },
+    {
+      "title": "Called netgear support and that was the worst experieince ever",
+      "text": "Did not work for my lenevo win7 laptop. Called netgear support and that was the worst experieince ever. Filed in the round black file cabinet (trash can).",
+      "rating": 1.0,
+      "verified": true,
+      "author": "juan",
+      "helpful_votes": 0,
+      "publication_date": 20140825
+    },
+    {
+      "title": "Apparently even my old laptop is not old enough to ...",
+      "text": "Apparently even my old laptop is not old enough to fit this. I recall that when I did have one it fit, it goes intolerably hot.",
+      "rating": 3.0,
+      "verified": true,
+      "author": "Shane Cantwell",
+      "helpful_votes": 0,
+      "publication_date": 20151016
+    },
+    {
+      "title": "Does the job",
+      "text": "Perfect for an older laptop that does not have the radio installed.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "C. Burdick",
+      "helpful_votes": 0,
+      "publication_date": 20141224
+    },
+    {
+      "title": "One Star",
+      "text": "It was not what I was looking for and it did not meet my expectations.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "Dr.  Thomas Mallory Hill",
+      "helpful_votes": 0,
+      "publication_date": 20160814
+    },
+    {
+      "title": "NOT an 802.11N card",
+      "text": "Bought this PCMCIA for my laptop thinking it was 802.11N It is not, it only support B/D only. It is NOT supported under linux, which is what I use.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "leadpan",
+      "helpful_votes": 0,
+      "publication_date": 20110315
+    },
+    {
+      "title": "To good to be true",
+      "text": "When something seems to good to be true(the very low price), it usually is. The first hint was the lack of serial numbers on both adapters(I bought two). The second was when the installation software, WN511B_setup_v7.1_230-1037-13.exe, downloaded from Netgear per the instructions supplied with the adapters did not recognize the adapters at all and did not install either of them. The GENUINE Netgear WG511v2 adapter that I had hoped to replace with these did install properly and functions fine so there is nothing amiss with the notebook. Let the buyer beware.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "BeenScammed",
+      "helpful_votes": 0,
+      "publication_date": 20110520
+    },
+    {
+      "title": "Great Price - Poor Performance",
+      "text": "I have tried this on two laptops. Tried with two different WIFI routers of diffent brands with same results. The wireless G speed works pretty well. Wireless N starts out at 270 Mb (dual frequency) but drops to 1 Mb within 10 to 15 minutes. I am returning and purchasing a different brand.",
+      "rating": 2.0,
+      "verified": true,
+      "author": "JeffMac",
+      "helpful_votes": 0,
+      "publication_date": 20111024
+    },
+    {
+      "title": "bad",
+      "text": "It would see routers, but would never connect successfully. Tried 4 different routers. Driver software was crappy also. Junk.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "skip",
+      "helpful_votes": 0,
+      "publication_date": 20110528
+    },
+    {
+      "title": "not so great",
+      "text": "I bought it, downloaded the software (using a cable), plugged in the card, it didn't work. It also sticks out far from the notebook.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "RPB",
+      "helpful_votes": 0,
+      "publication_date": 20110616
+    },
+    {
+      "title": "doesn't work",
+      "text": "Got busy and didn't get this returned, but it never did work...it couldn't be 'recognized'. I have had these before and never had any trouble setting them up and installing, but this one never has worked at all. Thought something was funny when there was no serial number on the item. If it was truly a namebrand item it surely would have a serial number, wouldn't it?",
+      "rating": 1.0,
+      "verified": true,
+      "author": "FarmGarl",
+      "helpful_votes": 0,
+      "publication_date": 20110630
+    },
+    {
+      "title": "didnt fit",
+      "text": "i purchased this to upgrade my current wireless b system to n. nowhere in the specs or on the advertisement does it say that it uses cardbus and not expresscard. i received this product, tried to put it in, didnt fit, returned it. i know the picture is of a cardbus adapter, but i didnt think of it when i ordered it. i just looked at the technical specs. amazon should really update this page to state what it is instead of just notbook adapter.",
+      "rating": 2.0,
+      "verified": true,
+      "author": "John Brex",
+      "helpful_votes": 0,
+      "publication_date": 20100421
+    },
+    {
+      "title": "Need a PCMCIA slot!",
+      "text": "This is a PCMCIA card. It is for older machines which still have this slot available. They need to put this in the description of the item since size cannot be determined. Do not purchase this product unless you have a PCMCIA slot.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "Genon",
+      "helpful_votes": 0,
+      "publication_date": 20110420
+    },
+    {
+      "title": "meh",
+      "text": "It's ok. I like my linksys better. It's fine for people that sit at home and always connect to the same access point.",
+      "rating": 3.0,
+      "verified": true,
+      "author": "H. Simpson",
+      "helpful_votes": 0,
+      "publication_date": 20100608
+    },
+    {
+      "title": "doesn't fit",
+      "text": "it does not fit in my old toshiba laptop or my current hp pavilion dv6",
+      "rating": 1.0,
+      "verified": true,
+      "author": "Brian Buckley",
+      "helpful_votes": 0,
+      "publication_date": 20100803
+    }
+  ],
+  "product_meta": {
+    "title": "NETGEAR WN511B RangeMax Wireless-N Notebook Adapter",
+    "description": "RangeMax NEXT extends the possibilities of your wireless home network by providing a Steady-Stream of up to 270 Mbps, and is compliant with draft 802.11n. This next generation wireless standard utilizes advanced MIMO (Multi-In, Multi-Out) technology, which delivers incredible speed and range, and for the first time provides wireless interoperability at the highest speeds with other products with Intensi-fi. A RangeMax NEXT wireless network creates and maintains stable connection and enough bandwidth to surf the Internet, download MP3s, make Internet phone calls, share files, play network games, and stream high-definition videos, simultaneously at any distance or location in the home or office. Because RangeMax NEXT is compatible with all legacy b and g wireless products, you are sure to be connected. Preset internal antennas and 11n True -Test high-performance testing and tuning, provides maximum performance and high-quality streaming every time. Touchless WiFi Security makes creating the highest level of network security easy and includes WEP, WPA-PSK, or WPA2-PSK. Setup is simple thanks to NETGEAR\u2019s Smart Wizard\u2122 and 24/7 technical support.\n\nAMAZON.COM\nThe NETGEAR WN511B RangeMax Next Wireless-N Notebook Adapter makes it easy for you to provide blazing-speed wireless internet access to your notebook computer, letting you surf the web, check email, stream music, make internet phone calls, and get a leg up on opponents when playing online games. \n\n \n\nEasy Setup\nThe WN511B is a PC Card and requires a Pentium 3 class PC with an available PC Card slot for installation. It supports Windows Vista and is also compatible with Windows XP and 2000 SP4. Setup is as simple as inserting the card into the slot and installing the included software. A built-in stub antenna helps you receive a strong signal for the fastest possible speeds.  Fast, Backwards Compatible, and Secure\nThe NETGEAR WN511B uses the Wireless-N protocol (based on 802.11n draft) for speeds up to 270 Mbps and a range ten times that of 802.11g adapters. With this much speed and bandwidth, you can easily download large files, place Internet phone calls, download MP3s, stream video, and play online games -- all at the same time, without hiccups, and from farther away. You'll notice the difference immediately. \n\n The WN511B is backwards compatible with 802.11g and 802.11b wireless networks so you'll be able to connect to any hotspot, and it improves network performance up to 50 percent when used with the older 802.11b/g networks. \n\n You can feel secure about your information as the adapter supports Wi-Fi protected access (WPA2-PSK, WPA-PSK) and 64-bit and 128-bit WEP encryption for IEEE 082.11b and IEEE 802.11g. The included software makes managing different WEP passwords a breeze as you can set up different profiles for each location you frequent, saving yourself the trouble of having to type in encryption keys each time you connect to a hotspot you've already used. \n\n The NETGEAR WN511B RangeMax Next Wireless-N Notebook Adapter is backed by a 1-year warranty. \n\n What's in the Box\nWN511B RangeMax Next Wireless-N Notebook Adapter, setup CD, warranty/support information card. \n\n\n\n\nFROM THE MANUFACTURER\nWhat is RangeMax NEXT? \n\n RangeMax NEXT with Steady-Stream technology complies with draft 802.11n\u2021 and delivers up to 270 Mbps. This next generation draft standard and Steady-Stream technology enable stable connections at greater range for all your applications, all over the home, all at once\u2020. You can simultaneously share files, download MP3s, make Internet phone calls, play network games, and stream high-definition videos. RangeMax NEXT products interoperate at up to 270 Mbps speeds with other wireless products powered with InteNsi-fi technology, plus they are compatible with all legacy b and g wireless products. Advanced design and draft 11n-True-Test high-performance testing and tuning ensure maximum draft-11n performance every time. Setup is easy thanks to NETGEAR\u2019s Smart Wizard and 24/7 technical support. Touchless WiFi Security simplifies establishing the highest level of wireless network security with WEP, WPA-PSK, or WPA2-PSK. \n\n Compare the Advantages of the NEXT Generation in Wireless Connectivity \n\n First, there was RangeMax, which improved on the wireless g standard\u2019s limitations in speed and coverage. Now, NETGEAR offers RangeMax NEXT, which gives consumers a new level of capabilities and transfer speeds, including the ability to play online games, use VoIP, download large files, and stream HD video\u2014all simultaneously and with consistent speeds. \n\n\n\n\n\nSee more",
+    "rating": 4,
+    "feature_bullets": [
+      "Wireless-N PC Card delivers exceptional speed and range",
+      "Delivers up to 270 Mbps of wireless throughput",
+      "Provides up to ten times the range of 802.11g networ",
+      "Backwards compatible with 802.11g/b wireless networks",
+      "Device measures 4.85 x 0.33 x 2.13 inches (WxHxD)"
+    ],
+    "specifications": {
+      "Product Dimensions": "9 x 6.5 x 2 inches",
+      "Item Weight": "4 ounces",
+      "ASIN": "B000FFLYI2",
+      "Item model number": "WN511B-100NAS",
+      "Customer Reviews": "4.0 out of 5 stars112 ratings4.0 out of 5 stars",
+      "Best Sellers Rank": "#92 in Laptop Computer Network Adapters",
+      "Is Discontinued By Manufacturer": "No",
+      "Date First Available": "October 2, 2003",
+      "Manufacturer": "Netgear",
+      "Language:": "English"
+    },
+    "categories": [
+      "Computers & Accessories",
+      "Laptop Network Adapters",
+      "Electronics",
+      "Network Adapters",
+      "Networking Products"
+    ],
+    "price": 7.49
+  }
+}

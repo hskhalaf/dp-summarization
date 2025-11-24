@@ -1,0 +1,960 @@
+{
+  "website_summaries": [
+    {
+      "verdict": "This system works well, but the appeal might be too limited to justify the price.",
+      "pros": [
+        "The Netatmo Weather Station is easy to set up and use, performed well when we tested its accuracy, and features a well-designed app that's bursting with info",
+        "IFTTT integration is another nice touch"
+      ],
+      "cons": [
+        "For casual weather tracking, there isn't much separating Netatmo from the scores of free weather apps out there"
+      ],
+      "aspects": {
+        "Features": 7.0,
+        "Usability": 8.0,
+        "Design": 6.0,
+        "Performance": 7.0
+      },
+      "publication_date": 20140605,
+      "rating": 7.0,
+      "source": "cnet"
+    }
+  ],
+  "customer_reviews": [
+    {
+      "title": "Poor Quality and terrible support",
+      "text": "The product is of very low quality. The unit worked ok for about a year and then we started having issues with it. It would drop off the network periodically and there were large gaps of data. We called them and their support gave us the run around for about 2 weeks, they tried to blame our wireless network and just about everything they could before finally telling us the unit is defective and if we wanted to buy another one we could but that they would not replace it. If you want to waste time and money then buy this product, if not there are many more reliable alternatives out there.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "andy",
+      "helpful_votes": 108,
+      "publication_date": 20160809
+    },
+    {
+      "title": "The product shipped by Amazon is not as advertised",
+      "text": "Amazon ships an old version of the product that is not compatible with Apple HomeKit. Please note Apple HomeKit only supports v3 and later. The model shipped by Amazon is the old v2. So, while Amazon advertises the product as compatible with Apple HomeKit, they are shipping an outdated version for which this is not the case.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "Juliet Taylor",
+      "helpful_votes": 20,
+      "publication_date": 20200221
+    },
+    {
+      "title": "Inconsistent and slow to update",
+      "text": "I really liked it at first but for some reason the weather station app only gets updates intermittently, sometimes taking hours to update. This makes it not very useful when away from home and wanting to know the status of current conditions. Nothing I do seems to remedy the problem. I reached out to netatmo and haven\u2019t gotten a response. I don\u2019t plan to buy any more of their products and will look for a better weather station in the future. Downgrading rating to 1 star. Recently experienced a multi day failure to update. Expensive and not useful.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "Denver Photog",
+      "helpful_votes": 2,
+      "publication_date": 20191011
+    },
+    {
+      "title": "Worth it.  Try it.  Amazingly powerful and easy to setup.  Great add-ons too.",
+      "text": "Wow. How fantastic is this. I love it. I also bought an extra indoor one (different floors) and a rain sensor and wind sensor. An amazing setup. I have one at 3 different locations (home, office, extended family's home). I could say a lot more, but for now, I will keep it at this. Try it out. Easy set up, great app. great data. Main indoor/outdoor set: Extra indoor unit: Wind sensor: Rain sensor: Sensor brackets:",
+      "rating": 5.0,
+      "verified": true,
+      "author": "J",
+      "helpful_votes": 3,
+      "publication_date": 20170922
+    },
+    {
+      "title": "Lasted just over a year",
+      "text": "This electronic weather station finally broke the straw off the camels back. Lasting just 15 months and spending extras on the rain gauge and wind gauge. We've just had no luck in getting it to reconnect through our router and spare one. The phone and windows connection apps both either say the signal is too weak or wifi access point rejected connection request. The phone wifi signal shows high signal BTW. I've had enough of this Internet connection tech. Back to old school tech. At least that will not let me down! Get good exercise too!",
+      "rating": 1.0,
+      "verified": true,
+      "author": "M. F",
+      "helpful_votes": 2,
+      "publication_date": 20180908
+    },
+    {
+      "title": "Questionable water resistance & poor customer support",
+      "text": "Nice software but that's not useful when your outdoor module fills with water and doesn't work! Apparently when I purchased mine the outdoor modules were not waterproof (hard to believe to begin with) and now a new version they sell (but I can't find on Amazon) is claimed to be waterproof. Mine has failed and and I cannot find any email address for Netatmo customer support on their Web site. I'm debating about whether to pay $69 to replace the outdoor module because I'm not confident that they are actually waterproof. It's a weather station--shouldn't the sensors be suitable to be out in the weather???",
+      "rating": 3.0,
+      "verified": true,
+      "author": "RPM",
+      "helpful_votes": 2,
+      "publication_date": 20181231
+    },
+    {
+      "title": "Works better with HomeKit than Alexa.",
+      "text": "Setup with HomeKit is a little awkward. But it works well, better than with Alexa. With Alexa you have to ask \u201cAlexa ask Netatmo what the temperature is outside\u201d. SIRI can respond to \u201cwhat is the temperature in the backyard?\u201d",
+      "rating": 5.0,
+      "verified": true,
+      "author": "gowen",
+      "helpful_votes": 2,
+      "publication_date": 20200826
+    },
+    {
+      "title": "No Data Available For This Time Period",
+      "text": "I really liked this set up. I bought the base unit, the wind meter and the rain meter. Equipment seems pretty sturdy and mount without being too obvious. As far as the the supporting site and the dash board there is much to be desired. Very often you you get \"no data available for this time period\". At one point their site was in this state for over 12 hours. This is not an isolated case. It happens about once per week. For the price I should be much happier than I am. Later, Norm",
+      "rating": 1.0,
+      "verified": true,
+      "author": "Gloucesterman",
+      "helpful_votes": 0,
+      "publication_date": 20201005
+    },
+    {
+      "title": "Defective",
+      "text": "Will be returning. It won't find the outdoor station. Really wanted this to work. No access to tech support. As others have said the temp and humidity are way off from another indoor sensor I have. 78 vs 70F. 60% vs 46%H. This is way outside of a calibration tweak. Waste of time. Finally got the outdoor to register but the humidity 12% different than the indoor when sitting next to each other.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "JEB",
+      "helpful_votes": 6,
+      "publication_date": 20161102
+    },
+    {
+      "title": "Works well and integrates with Alexa via a Skill",
+      "text": "This is relatively easy to set up. I had some trouble getting the outside device connected due to the barely readable indicators for the battery pos/neg installation. If you want to integrate this with your Wink, don't count on it. Netatmo did set up an Amazon Skill for this which works great. The Netatmo app provides notification settings. For those not supported in the application, you can set up an IFTTT account and use some of their Netatmo resources. The outside sensor works great for me without any issues so far and is about 25 feet away from the main unit. Though I tested as far as about 50 feet from the house.",
+      "rating": 4.0,
+      "verified": true,
+      "author": "J. Kelly",
+      "helpful_votes": 0,
+      "publication_date": 20171028
+    },
+    {
+      "title": "Cheapest Remote CO2 level monitor",
+      "text": "The cheapest and very possibly best way to monitor CO2 levels remotely. If that\u2019s what you need there\u2019s nothing comparable. There\u2019s a great iPhone app for it called Comfort. The combo has worked for 3 years so far with no problems.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Mr. Peaks",
+      "helpful_votes": 0,
+      "publication_date": 20200620
+    },
+    {
+      "title": "I was skeptical that this unit would perform, but I was wrong!",
+      "text": "I was skeptical that this unit would perform, but I was wrong! This little unit keeps accurate temperatures and after having Netatmo adjust the humidity sensor it works perfectly. I purchased this along with the rain sensor and have compared it with my neighbor's expensive Davis unit and we are almost identical on the numbers. I really thought about spending the extra money on the Davis system, but this one works with your Nest thermostat and Rancho Iro system via the If This Then That interface(iftt.com). It is so nice to have my sprinkler system automatically adjust based on the weather station data and not me having to remember to do it!",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Sivart",
+      "helpful_votes": 5,
+      "publication_date": 20150425
+    },
+    {
+      "title": "Works well",
+      "text": "Nice gadget that worked on the first try. Measurements are reasonably accurate for routine use. Stores data on the cloud with no charge, but the storage intervals are irregular, I would have preferred one hour values. Outdoor temperature and humidity are stored in one file, barometric pressure in another. I\u2019d love to try the wind sensor and rain gauge, but my high rise location doesn\u2019t have a suitably exposed site. I\u2019m impressed with the CO2 monitor. The CO2 level goes up when I\u2019m in the living room all day. When I\u2019m in the bedroom at night it goes up there and down in the living room. It even dips when I\u2019m out on an errand.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Walter J Rymarczyk",
+      "helpful_votes": 0,
+      "publication_date": 20180126
+    },
+    {
+      "title": "Love Netatmo right now (after like 3 years!)",
+      "text": "Had this thing for years. On a hunch, checked in to notice cold temp in kid\u2019s room because of a complicated heating issue in house which caused a low of 64 degrees (F) in his room in middle of the night. Not life-threatening but as a parent fortunate enough to have the means (saddens me for those who are not) thats way too cold for a young kid who may not cover him/herself up enough. Need to set up an alert now through the app or maybe ITTT app even after i get to the bottom of heating issue. Thanks Netatmo",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Peeps Mcgee",
+      "helpful_votes": 0,
+      "publication_date": 20180116
+    },
+    {
+      "title": "Working well after 6+ years",
+      "text": "After 6 years of use the system (base, 1 outdoor [upper midwest winters], and 3 indoor modules) work well and appear accurate. Netatmo recently offered a discounted price to replace the base module with the Homekit compatible base. The changeover was nearly seamless except Netatmo tech support had to manually migrate the historic data from the outdoor module. Communication was prompt but the actual changeover after escalation took about 10 days. No data was lost. The Alexa app works without issues.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Private",
+      "helpful_votes": 0,
+      "publication_date": 20191207
+    },
+    {
+      "title": "Quality build. Doesn\u2019t do much more",
+      "text": "It\u2019s nice. Good quality. But doesn\u2019t feel like it does much more than a simple WiFi temperature sensor. And the graphs have no legends. So I don\u2019t get them. It\u2019s like a notch better than what\u2019s out there. But it could be much more.",
+      "rating": 4.0,
+      "verified": true,
+      "author": "CK",
+      "helpful_votes": 0,
+      "publication_date": 20200215
+    },
+    {
+      "title": "Barely ever got it to work",
+      "text": "It is both really easy to set up AND super difficult. I got mine to work sort of by luck and over a couple years it was very intermittent. I would go to the place I had it at (a remote site) and jiggle it and it might work. It is super hard to support. They made it with a goal of making it easy to run, but ironically it is not very intuitive. Maybe it has gotten better but I really dislike it.",
+      "rating": 2.0,
+      "verified": true,
+      "author": "E. Sayle",
+      "helpful_votes": 0,
+      "publication_date": 20200112
+    },
+    {
+      "title": "App unusable on iPhone X",
+      "text": "Just received Netatmo. Installed the app on Iphone X and wow, the worst app design i ever seen!!! Once you select a different screen like setting, notification, help, ... you cannot go back. you need to kill the app and restart to go back to dashboard. It starts on the app with setup: it asks to connect the Netatmo larger unit to the power plug and screen remains stuck...kill the app repeat, same thing... I had to download on my iMac the setup from a desktop to be able to make it work :-( This makes the app unusable, hence the whole thing unusable. I might return this expensive piece of technology. First impression : very disappointing",
+      "rating": 2.0,
+      "verified": true,
+      "author": "Abalgir",
+      "helpful_votes": 0,
+      "publication_date": 20180409
+    },
+    {
+      "title": "Current conditions, excellent history",
+      "text": "I just received and set up by Netatmo weather station this evening. Installation was not very straightforward, but not impossible. So far, I am very impressed with the information monitored and the world wide scope of the data that has been collected for us. The history graphs are great. Edit 5-19-19: Accuracy is very good.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "LPF1044",
+      "helpful_votes": 0,
+      "publication_date": 20190515
+    },
+    {
+      "title": "Piece of junk",
+      "text": "I bought the Netatmo to monitor the CO2 levels in my house. I assumed it would provide real-time data like every other one of these monitors. Nope. There is no way to directly connect to the Netatmo and read the sensor data. Instead, the device sends a single data point to the cloud servers *once every 10 minutes*. Worse yet, the Netatmo software is buggy, so sometimes the data is delayed by several hours, which makes this device pretty much useless. It is a terribly designed product in pretty packaging. I regret buying it and would instead recommend the Anself CO2 monitor which provides accurate real-time readings and only costs $49 at Walmart.com.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "Bill Mydlowec",
+      "helpful_votes": 0,
+      "publication_date": 20201001
+    },
+    {
+      "title": "A great product.",
+      "text": "I monitor 2 houses via my IOS phone App. I get internal and external temperature and humidity as well as carbon monoxide readings. The units are well constructed easy to use and the batteries last a long time. The only problem was a rain gauge broke after one season of use. I have an outdoor module, the main one at the computer, via USB and 3 additional modules that cover three floors of my house.",
+      "rating": 4.0,
+      "verified": true,
+      "author": "badmoonrising",
+      "helpful_votes": 0,
+      "publication_date": 20190724
+    },
+    {
+      "title": "Does not work.",
+      "text": "I would not recommend this product. Only one of the three items I purchased still works. Not intuitive to set up. Requires regular maintenance to keep it running. When it disconnects from wifi it is a real pain to reconnect. My outdoor unit no longer works nor does the rain unit. This is not a reliable product. It is not a user friendly product to use either. I spent too much time with tech support trying to keep this thing working. I do not recommend this Netatmo weather product.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "James",
+      "helpful_votes": 0,
+      "publication_date": 20201011
+    },
+    {
+      "title": "I had high hopes but this isn't the holy grail ...",
+      "text": "Update to below: We returned the set and got a new one. These units match very closely in measured temps and humidity. Still silly that you can't put the outdoor unit where it can get wet. Wonder if that is true of their rain gauge, too? ;-) I had high hopes but this isn't the holy grail of connected weather stations. Two basic problems: 1. the humidity isn't very accurate. My inside and 'outside' units disagree by 6 percentage points. 2. the outside unit isn't really an outside unit - you can't leave it in the rain! Seriously? That is what the instructions say.",
+      "rating": 3.0,
+      "verified": true,
+      "author": "Robert",
+      "helpful_votes": 3,
+      "publication_date": 20150525
+    },
+    {
+      "title": "Sensors do not match each other I always read different",
+      "text": "The humidity and temperature always reads different even if they're sitting right next to each other I do not trust the readings on these whatsoever would be nice if they worked right but I just don't trust them probably will never buy them again would probably suggest AcuRite over these they're cheaper and they seem to match on all the sensors way closer only a little bit off instead of 10 to 15 degrees or humidity the AcuRite seem to match almost all the time they only $99 for three sensors it just don't do co2 but the co2 probably ain't right anyways",
+      "rating": 3.0,
+      "verified": true,
+      "author": "man",
+      "helpful_votes": 2,
+      "publication_date": 20160115
+    },
+    {
+      "title": "Easy to Use and Seems Accurate",
+      "text": "We have one of these at our cabin and love that we can see outdoor and indoor temp and air composition. Also fun to see on the map where other units are located! We did not get the wind one, but plan to get the rain one. So far at least for indoor temp it matches what our Nest says. Easy to set up. Sleek, compact design.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "cox",
+      "helpful_votes": 0,
+      "publication_date": 20190909
+    },
+    {
+      "title": "Outdoor unit isn't good",
+      "text": "Indoor unit is good, shows temp, humidity, CO2 concentration and noise level. Can setup thresholds and get push or text on my iPhone (e.g. high noise level can tell me that my alarm went off or someone is having a party in my house); high CO2 level will let me know that it's time to run fan via nest. Outdoor unit shows temp and humidity and stopped working after few months, it recovers when I replace batteries but now each pair lasts less than a month, will try to get a replacement..",
+      "rating": 3.0,
+      "verified": true,
+      "author": "Max",
+      "helpful_votes": 2,
+      "publication_date": 20160203
+    },
+    {
+      "title": "Don't waste your money",
+      "text": "If I could leave a 0 star review I would. Don't waste your money. Netatmo don't care that their product is junk. I used my outdoor module outdoors and it voided the warranty and broke the device. The support team said I voided the warranty by letting it get rain on it. Reall??? Then, they said I could buy another if I wanted. This was after 5 days of not hearing from them. Ridiculous.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "Amazon Customer",
+      "helpful_votes": 6,
+      "publication_date": 20161124
+    },
+    {
+      "title": "The outdoor module broke down after several months. I ...",
+      "text": "The outdoor module broke down after several months. I guess it is not well designed for the severe weather of New England. The breakdown was caused by battery leak and it can't be repaired. I contacted customer service and got a new replacement. It failed again after couple of months cold weather outside due to the same reason. But this time after I cleaned up the inside and replaced new battery it worked. Then I put it in the garage, it worked for a month and failed again...... Now I just leave it there.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "Johnny TT",
+      "helpful_votes": 4,
+      "publication_date": 20150919
+    },
+    {
+      "title": "Erratic unpredictable performance.",
+      "text": "Periodically drops connection and won\u2019t update data for hours. I have one set up that works and one that is essentially worthless. Are you feeling lucky? Not odds I\u2019d have taken if I knew.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "John Galt",
+      "helpful_votes": 0,
+      "publication_date": 20190525
+    },
+    {
+      "title": "Comfort in the Bedroom",
+      "text": "I've always enjoyed the Netatmo weather station, but wanted to track more than the living room conditions. This lets me also monitor the bedroom for temperature, humidity and CO2 levels. They seem expensive, but do not charge for the cloud-based data service that feed my laptop and my iPhone from anywhere. Their weekly \"look ahead\" forecast (laptop only; not mobile) seems to be consistently more accurate than the weather bureau predictions.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Greggy SF",
+      "helpful_votes": 0,
+      "publication_date": 20191207
+    },
+    {
+      "title": "Equipment and customer service issues",
+      "text": "Outdoor model malfunctioned after 6 months and customer service was probably the worst I have ever experienced. I cannot recommend this product.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "cjohnst3",
+      "helpful_votes": 7,
+      "publication_date": 20161125
+    },
+    {
+      "title": "I don't recommend",
+      "text": "The system is difficult and not user friendly to set up. Instructions are vague. Batteries came corroded. I don't recommend this system. It's up and going now, but too difficult and no support to recommend.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "rgrgeo",
+      "helpful_votes": 0,
+      "publication_date": 20200223
+    },
+    {
+      "title": "External Sensor Not Very Accurate",
+      "text": "As much as I like this weather station, there is one major flaw for me. The external temperature monitor does not accurately track the temperature. I\u2019ve located it in several different locations outside, and readings never seem to align with weather stations in the same area on WeatherUnderground. The indoor sensor seems to work fine, but I really got it to track external weather.",
+      "rating": 3.0,
+      "verified": true,
+      "author": "Mojeska",
+      "helpful_votes": 2,
+      "publication_date": 20180201
+    },
+    {
+      "title": "It just doesn't work",
+      "text": "There's not much else to say, really. The weather station didn't turn on properly, even when I tried to use the OSX installation. It would flash green a couple times right when you plugged it in, and that was about it. Dead to the world after that. Nonexistent support, of course, except for a couple guides online that said to use a different cable/outlet. I did, and that didn't fix a thing. Very disappointed.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "William Driscoll",
+      "helpful_votes": 0,
+      "publication_date": 20190826
+    },
+    {
+      "title": "Weather Station is very good until something stops working......horrible support",
+      "text": "Great Device and interface....until something goes wrong. My outdoor united died and changing out the batteries did not bring it back to life. My frustration is with Netatmo support. I have sent emails in and never received an answer. So as long as nothing goes wrong with your device you are good. It seems that Netatmo has not invested in people to support their product....",
+      "rating": 1.0,
+      "verified": true,
+      "author": "Morgana",
+      "helpful_votes": 4,
+      "publication_date": 20150609
+    },
+    {
+      "title": "It's cold outside. Who knew?",
+      "text": "I liked the general idea of a wifi-accessible thermometer when I heard of it. The CO2 monitor seemed a cute gimmick. Now I can see just how stuffy my bedroom gets at night (graphs!) and how far below zero as I walk the dogs. The iPhone widget (allowing me quick access to indoor and outdoor temperature without even opening the app) has become my favorite feature.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "T. Westberg",
+      "helpful_votes": 5,
+      "publication_date": 20150216
+    },
+    {
+      "title": "Great while it lasted.",
+      "text": "Well it worked for 2 years then died. This is not the problem things break. The problem is there solution. 1) buy a new one 2) send it to France and pay 40 euro's and shipping both ways. I do not need a new outdoor unit so all I want to purchase is the indoor unit and this is not an option. I am going to buy another brand that gives me all the sensors in one unit for the same price. Good Luck Robert",
+      "rating": 2.0,
+      "verified": true,
+      "author": "R. Baxter",
+      "helpful_votes": 2,
+      "publication_date": 20170112
+    },
+    {
+      "title": "Niche/ Stay away use a wired product.",
+      "text": "I bought this product almost a year ago for its supposed ease of use and connectability/networkability. The biggest issue is the sensors are never connected. My base unit is the only thing I can ever get access to. No amount of syncing or replacing batteries etc help. I have a 2nd indoor module, a outdoor temp module, and a rain sensor. None stay connected beyond a day. I don't have time to constantly resync every day for this product. A big waste of money on my part.",
+      "rating": 2.0,
+      "verified": true,
+      "author": "A. Johnston",
+      "helpful_votes": 0,
+      "publication_date": 20160323
+    },
+    {
+      "title": "Great for RVs and Motorhomes.",
+      "text": "After a week of use, this product functions as described. I currently live in a motorhome full time and this device allows me to monitor the temperature in my RV while I am at work so I can ensure that my pets are in a safe and comfortable environment. I promptly receive alerts on my smartphone when the levels I set are exceeded. Setup was simple and quick and I can check up on the conditions in my RV anywhere with my phone. I placed the main sensor in the living area and the second sensor in the bedroom so I can monitor conditions in different parts of the RV. Excellent product.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Amazon Customer",
+      "helpful_votes": 2,
+      "publication_date": 20150901
+    },
+    {
+      "title": "Doesn't last, product and service is in France.",
+      "text": "Yep just like another review I read here. After working well for about 5-6 months, started draining the outdoor module batteries (2 AAA) every 7-10 days. I contacted Netatmo via email. They do take a long time to respond. They are willing to replace the outdoor unit if I ship mine back to them. No way, their shipping to address us France!",
+      "rating": 1.0,
+      "verified": true,
+      "author": "Doug D. Birmingham, AL",
+      "helpful_votes": 5,
+      "publication_date": 20161209
+    },
+    {
+      "title": "Easy to use.",
+      "text": "I like the ease of use. Easy to setup. Like the Alexa integration. Wanted to see that my data was contributing to WeatherUnderground, but still don\u2019t see it after a week or two. All-in-all, a nice station.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "D. R. Morgan",
+      "helpful_votes": 0,
+      "publication_date": 20191103
+    },
+    {
+      "title": "This will be returned, \"The station cannot reach our ...",
+      "text": "This will be returned, \"The station cannot reach our servers\" it does not find the other remote units, problems connecting to my WiFi, all my other devices can connect to WiFi. Support is practically non-existent, message, only no live support. It costs way too much, to have these problems out of the box. There are other similar devices on the market to try. Netatmo is not the only game in town.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "David",
+      "helpful_votes": 4,
+      "publication_date": 20161104
+    },
+    {
+      "title": "Dont buy this product",
+      "text": "This is a VERY cheap product and trying to get the station to sync to anything is almost impossible. Got fed up with it connecting then loosing connection so packed it up sent it back. Waste of time to order you'll just be sending it back.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "Learning in AK",
+      "helpful_votes": 0,
+      "publication_date": 20200118
+    },
+    {
+      "title": "I sent back the bad one. The new unit works beautifully",
+      "text": "The first one I received had a defective outdoor sensor. I let amazon know and they promptly sent out a whole new system. I sent back the bad one. The new unit works beautifully! I did notice that the new unit was slightly different with the power adapter. It has an actual plug not just a usb powered cord. I love it!",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Candance L Springer",
+      "helpful_votes": 0,
+      "publication_date": 20170531
+    },
+    {
+      "title": "Really good",
+      "text": "I have been using this product sience chritsmas and I really love it , the precision is really good and works fine over the web aplication. It send me an email when co2 in any room goes over 1000 ppm . My worst problem now ,is that because of Netamo, I discover that co2 on my bedroom goes over 2000 ppm at night because I sleep with doors and windows closed ( of noise and weather) so I am scared now that could be harmful for my health . Anyway is a good way to know what is happening at home and to take messures in advanced.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Francisco De Castro",
+      "helpful_votes": 0,
+      "publication_date": 20140319
+    },
+    {
+      "title": "Quality assurance poor. Two out of three units suggested abnormally high ...",
+      "text": "Quality assurance poor. Two out of three units suggested abnormally high CO2 levels both inside and outside my home forcing me to purchase the Air Quality Meter to verify CO2 levels. Two of the three outside units wear out batteries in 2 days on one, and 30 days on the second. I purchased the NETATMO to monitor inside temperature while away from home. It does that task, but temperatures don't agree with any other therometer in the house.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "Larry Ellison",
+      "helpful_votes": 8,
+      "publication_date": 20150703
+    },
+    {
+      "title": "Pricey but works great",
+      "text": "It's a little pricey, but it was a Christmas present, so I'm OK with that. It took 2 or 3 days for the info in the cloud to get al synhed up with the sensors in my house, but once that happened, it did exactly what it was supposed to do. I can see weather information from both inside and outside my house at any time, no matter where I am physically. The historical graphs are also very informative. I especially like the one showing sound levels - I can easily tell when the TV is turned on!",
+      "rating": 4.0,
+      "verified": true,
+      "author": "Sanford55",
+      "helpful_votes": 0,
+      "publication_date": 20150110
+    },
+    {
+      "title": "Disappointed that the outdoor sensor isn't waterproof",
+      "text": "I had read a few other reviews of the outdoor sensor not being waterproof and was disappointed that still hasn't improved the product after I received mine. Overall it's a ok product, but for the price point, I would have expected more (not only with the amount of items sensed, but quality of the product and added integration to thermostats (without the need for iftttt). Hopefully future firmware/software upgrades might bring more functionality.",
+      "rating": 3.0,
+      "verified": true,
+      "author": "rdub",
+      "helpful_votes": 2,
+      "publication_date": 20140617
+    },
+    {
+      "title": ". Otherwise great",
+      "text": "I only gave her three on accuracy because it does tend to be too accurate? Does that make sense. It\u2019s all about placement and where you put it especially the outdoor module. Make sure you read the instructions on placement. Otherwise great",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Thomas Linder",
+      "helpful_votes": 0,
+      "publication_date": 20190829
+    },
+    {
+      "title": "Great vacation home temperature monitor \ud83d\udc4d",
+      "text": "We have a camp at Sugarloaf ski area in Maine. We needed something we could monitor the inside temperature of the camp, as it gets extremely cold there and we are often 100 miles away. Our heating systems were not compatible with many other devices and we did not want a monthly fee for the service. This has been perfect. We use the outdoor monitor in our basement and the other in our upstairs. We have a battery backup for the monitor and our internet as we have frequent power outages. So far it's worked perfectly.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Amazon Customer",
+      "helpful_votes": 0,
+      "publication_date": 20190130
+    },
+    {
+      "title": "Happy with my purchase",
+      "text": "Bought it for a gift and the recipient loves it. Easy to set up. Looks nice.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Alan Berkowitz",
+      "helpful_votes": 0,
+      "publication_date": 20200629
+    },
+    {
+      "title": "A great device",
+      "text": "Highly recommended if you're looking for more than just basic temperature data. For a weather data geek, it's a dream come true. Allows you to set alerts for indoor/outdoor temps, indoor CO2 levels, etc. the sound meter on the main indoor unit is a great addition. The iOS is nice and provides easy access to all the data. The ability to view graphs for all the data is fantastic!",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Peter",
+      "helpful_votes": 2,
+      "publication_date": 20141207
+    },
+    {
+      "title": "Highly recommend",
+      "text": "This thing takes a beating and keeps right up. I've l left the rain gauge outside in a Maine winter where it was buried in a snow bank. It was fine in the spring.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Tom",
+      "helpful_votes": 0,
+      "publication_date": 20190124
+    },
+    {
+      "title": "Peace of mind",
+      "text": "I love this product. I spend six months in FL and six in PA. Helps me know info on the vacant house. Sends me alerts if temp or humidity go outside the range I have set. Peace of mind is priceless.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Richard Salezze",
+      "helpful_votes": 0,
+      "publication_date": 20200729
+    },
+    {
+      "title": "Love this system !",
+      "text": "Works perfect, showing the data nicely, I use it to monitor my house co2 to control automatic ventelation, works great with IFTTT ! If it only had pm2.5 sensor it would have been perfect. I use the small unit for bathroom ventilation control, to control humidity, works perfect too !",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Amazon Customer",
+      "helpful_votes": 0,
+      "publication_date": 20180707
+    },
+    {
+      "title": "Great devise, and great Android app",
+      "text": "Great devise, and great Android app. It does exactly what I needed; a way to monitor my home when I'm not there: sound (should be quiet), temperature (heater working and no house fires...), humidity (no water leaks), CO2 low (no one in the house breathing- yes, it is that sensitive.) When I see straight lines, I know everything is the way it should be; no one is in the house and everything is working the way it should.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Casey",
+      "helpful_votes": 0,
+      "publication_date": 20180214
+    },
+    {
+      "title": "Nice product, but horrible customer service from Netatmo",
+      "text": "Nice product, but horrible customer service from Netatmo. When my Outdoor module failed, I tried to call their help desk, only to discover they don't accept phone calls. I emailed repeatedly and got no response for two weeks. After complaining via social networks, I got a response and apology. I received three more messages over the next week, none of which helped fix the problem. I finally gave up with no resolution.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "R. Bellamy",
+      "helpful_votes": 8,
+      "publication_date": 20170219
+    },
+    {
+      "title": "outdoor module broken in less than a year",
+      "text": "the outdoor module simply stopped working after about 6 months and is absolutely not worth replacing at $70.00 each. absurd.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "Brian",
+      "helpful_votes": 0,
+      "publication_date": 20200113
+    },
+    {
+      "title": "Setup was fairly easy with the assistance of the software download",
+      "text": "After five furnace outages in fifteen years I finally found a product that gives me piece of mind. No more wondering if I will arrive home to find frozen pipes, busted water lines without the ability to phone a repairman. Setup was fairly easy with the assistance of the software download. The manual is pretty much useless. Customer service inquiries were answered quickly but not very thoroughly. However, I am into the experience for almost a week and I am a very satisfied customer!! As noted in other reviews, the outdoor module does take some time to adjust, but readings do stabilize over time. Would highly recommend the product.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Chuck M.",
+      "helpful_votes": 0,
+      "publication_date": 20160111
+    },
+    {
+      "title": "Works Well But Cost is Way Too High",
+      "text": "Received this as a Christmas present. Setup was a snap. Was a bit concerned about the Outdoor Unit's WiFi reception and battery life, but both have been good so far. Overall I'm very happy with the feature set, hardware and software, but as I said in the headline, the cost is WAY too high. Oh and, it'd be nice if it had a motion detection sensor incorporated in the indoor unit ...",
+      "rating": 4.0,
+      "verified": true,
+      "author": "Tom",
+      "helpful_votes": 0,
+      "publication_date": 20170117
+    },
+    {
+      "title": "Easy to set up and accurate.",
+      "text": "This was easy to set up and the readings appear to be very accurate. I like the iOS app that goes with it, too. It lets you set up \"alarms\" for temperature, etc., indoors and outdoors.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Rick D",
+      "helpful_votes": 0,
+      "publication_date": 20200119
+    },
+    {
+      "title": "Move on.",
+      "text": "Junk!! Lasted all of 6 months. Even when it worked the accuracy was way off. To add insult to injury I contacted them about the unit not working and got no reply. Look the other way and run. There are better alternatives out there.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "Bknight",
+      "helpful_votes": 8,
+      "publication_date": 20151201
+    },
+    {
+      "title": "Has worked reliably for a couple years in the brutal dry Arizona heat",
+      "text": "I love my netatmo wireless weather station. I also have the anemometer and rain gauge. My only criticism is that I wish they offered better/more flexible infographics features.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Dennis Swena",
+      "helpful_votes": 0,
+      "publication_date": 20170603
+    },
+    {
+      "title": "Nice unit and easy interface",
+      "text": "I would have given this a higher rating but I did not figure out from the information given that I would not be able to get environmental information from the outside unit in my city. Not all cities are covered. Nice unit and easy interface. You have to have your phone handy for this but who doesn't these days.",
+      "rating": 4.0,
+      "verified": true,
+      "author": "Jared Alden",
+      "helpful_votes": 2,
+      "publication_date": 20150208
+    },
+    {
+      "title": "This product ROCKS!",
+      "text": "I have 3 indoor modules and the rain gauge and I ADORE them. My daughter always complains that her room is hot. I put a sensor in her room and in the master bedroom, and sure enough her room is 78 and mine is 71.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Lisa",
+      "helpful_votes": 0,
+      "publication_date": 20200719
+    },
+    {
+      "title": "Great weather center!",
+      "text": "Very cool! I love this weather station! One of my favorite Christmas gifts this year (thanks kids!) Very nice iPhone app -- really pretty cool to be able to graph out the noise level and CO2 level in my apt and outside temp/humidity. Super simple to set up and use. Very modern and techy but unobtrusive looking solidly constructed parts!",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Gregory P. Moore, MD",
+      "helpful_votes": 0,
+      "publication_date": 20150106
+    },
+    {
+      "title": "easy to customize alerts (noise levels",
+      "text": "Simple to set up, easy to customize alerts (noise levels, temperature drops/increases, etc.). A little on the pricey side for what you get, but solid and user friendly.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Al",
+      "helpful_votes": 0,
+      "publication_date": 20180320
+    },
+    {
+      "title": "Is it humid in here or is it just this netatmo?",
+      "text": "I really wish I had returned this when I got it. The temperature and CO2 readings are accurate but as many other reviewers have stated the humidity isn't even close. Actual humidity levels are about 12% points lower than the unit reads. I do not recommend you buy this. It is essentially junk.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "Paul",
+      "helpful_votes": 4,
+      "publication_date": 20161101
+    },
+    {
+      "title": "Nice, if pricey, weather station.",
+      "text": "A nicely designed home weather station with very slick Web and app support. Setup was simple, and calibration with a plain thermometer showed that the readings were accurate out of the box. Haven't put the rain gauge outside yet due to temps being too cold.",
+      "rating": 4.0,
+      "verified": true,
+      "author": "John Paul",
+      "helpful_votes": 2,
+      "publication_date": 20150216
+    },
+    {
+      "title": "Bad Engineering",
+      "text": "Great concept but is poorly executed and badly engineered. I tried everything to have it work with my Netgear router but to no avail. Tried to get support but no response. Normally, I do no return products but this one just does not work. I mean I spent Saturday and Sunday to get it working but it just will not work. It is frustrating, you want it to work because it can be such a great hardware with corresponding app, especially since my wife is a disabled Gulf Vet that relies on her iOs devices for information and data since she cannot move around easily.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "Disabled Vet",
+      "helpful_votes": 4,
+      "publication_date": 20131209
+    },
+    {
+      "title": "Love our weather station!!!",
+      "text": "Love our Netatmo weather station. Actually, we are obsessed with it! It is accurate inside and out and we look forward to purchasing additional stations for the basement and upstairs.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Stacy Fox",
+      "helpful_votes": 0,
+      "publication_date": 20180128
+    },
+    {
+      "title": "I wasn't sure this would work the way I needed ...",
+      "text": "I wasn't sure this would work the way I needed it to....but it did! My thermostat is not in the room that we utilize the most so the temperature is always way off in there. I put this unit in that room, synced it with IFTTT, and along with my Nest thermostat I can now make this unit act as the thermostat's gauge on when to heat or not. I can also maintin a range of termperature for that room.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Cole seger",
+      "helpful_votes": 3,
+      "publication_date": 20160120
+    },
+    {
+      "title": "Icon on my main screen",
+      "text": "I found myself using this app enough that I moved it to my main screen on my phone. I have found many of the trending graphs to be spot on. For the cost it outperforms everything else I have purchased for similar data. Like someone else said, the small things like including the strap with the mounting pin is a great touch and shows attention to detail.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "J. Carter",
+      "helpful_votes": 0,
+      "publication_date": 20130207
+    },
+    {
+      "title": "Nice Connected Weather Station but Awful Customer Support",
+      "text": "When the system is operating, its nice but heaven forbid you have to contact customer support with an issue. Support is only done through email and the rep only responds every 2-3 days and when they do respond they repeat the same thing even though I completed the requested actions without success. Going on 6 days since opening a support request without resolution.",
+      "rating": 2.0,
+      "verified": true,
+      "author": "Brian J. Oldenburg",
+      "helpful_votes": 0,
+      "publication_date": 20170511
+    },
+    {
+      "title": "Brittle",
+      "text": "Difficult to keep working. Can\u2019t keep it paired to my home network.",
+      "rating": 3.0,
+      "verified": true,
+      "author": "Peter Danzig",
+      "helpful_votes": 0,
+      "publication_date": 20190824
+    },
+    {
+      "title": "You will not be disappointed!",
+      "text": "Netatmo is a rock star weather station. We\u2019ve had it for more than two years and I may have changed module batteries once. It\u2019s awesome to be able to check in on our home and outside weather from anywhere and it guides our other connected devices as well. Great product!",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Keith M",
+      "helpful_votes": 0,
+      "publication_date": 20171227
+    },
+    {
+      "title": "Great Weather Station, and Great Customer Support.",
+      "text": "4-13-15 I have truly enjoyed this weather station. Recently the outdoor module \"died\". It was still under a year since I purchased, so I contacted the manufacturer. Great communication. Sent it back, and they replaced it with a new one. Very please!!",
+      "rating": 5.0,
+      "verified": true,
+      "author": "S. Martin",
+      "helpful_votes": 0,
+      "publication_date": 20150413
+    },
+    {
+      "title": "... but there are some functions that are not possible like Air Quality",
+      "text": "I live in Mexico on the coast and it works well but there are some functions that are not possible like Air Quality. More information on CO2 data within the app would be more interesting",
+      "rating": 4.0,
+      "verified": true,
+      "author": "Juan Antonio Huerta",
+      "helpful_votes": 0,
+      "publication_date": 20180131
+    },
+    {
+      "title": "Horrible customer service",
+      "text": "Horrible customer service. Unit was working and they refused to take it back. Spent weeks with them trying to troubleshoot the issues until I stopped hearing from them. A very expensive paper weight.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "Mr. Todd P. Brinkman",
+      "helpful_votes": 5,
+      "publication_date": 20150916
+    },
+    {
+      "title": "NETATMO FEEDBACK",
+      "text": "I would really qualify it as \"I Love it' but even though the product is fantastic and works, \"NETATMO guys\" have to work a little bit more on the manual or instructions, ...... I did get at last, but let me tell you that the besides been short and not very step by step, it left a lot of things to your imagination or to your research....is kind of \"do it yourself\" or \"figure it out by your own\".....................at the end...Product Fantastic, Instructions or Manual , Mmmm, not so good fellows....you can do much better.",
+      "rating": 4.0,
+      "verified": true,
+      "author": "Andres J. G. White",
+      "helpful_votes": 3,
+      "publication_date": 20140530
+    },
+    {
+      "title": "Cool device",
+      "text": "I have enjoyed the netatmo station, it has everything I want and more in weather device like this. Several have commented on the lack for rain measurement, but as a southern California resident that's rather moot. I love that it watches CO2 and graphs temp over time. Recommended",
+      "rating": 4.0,
+      "verified": true,
+      "author": "Blair D. Callicott",
+      "helpful_votes": 2,
+      "publication_date": 20130712
+    },
+    {
+      "title": "Good all around weather station",
+      "text": "The app is a bit limiting specifically when it comes to custom tailoring what you want to see and how, but otherwise it works as intended. It would be nice if the rain gauge also measured snow. The internal climate detector based on noise and CO2 levels is pretty useless.",
+      "rating": 4.0,
+      "verified": true,
+      "author": "kpieper876",
+      "helpful_votes": 0,
+      "publication_date": 20150614
+    },
+    {
+      "title": "A very nice piece of hardware",
+      "text": "A very nice piece of hardware. Simple to set up and use. I replaced another brand of weather station with the Netatmo and it was a great upgrade.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Mark W. Clark",
+      "helpful_votes": 0,
+      "publication_date": 20180401
+    },
+    {
+      "title": "A must for your Rachio sprinkler controller.",
+      "text": "This station is great. I also purchased the rain gauge. Works well with my Rachio sprinkler controller and makes the way the Rachio waters more accurate. Need the wind gauge now.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Paul Baldwin",
+      "helpful_votes": 0,
+      "publication_date": 20170411
+    },
+    {
+      "title": "Perhaps a bit pricey but a great and seamless product",
+      "text": "Perhaps a bit pricey but a great and seamless product. I can check weather from any of my three stations from the web or my iphone at any time. Great to be able to see my station history and also browse the online map that shows readings from other station owners across the planet.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Matthew A. Stewart",
+      "helpful_votes": 0,
+      "publication_date": 20150705
+    },
+    {
+      "title": "the precision and cohesion with ITFFF great and makes possible enhancements to my WEMO system",
+      "text": "I wrote support and never got a reply, that said, the precision and cohesion with ITFFF great and makes possible enhancements to my WEMO system.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Nosveeemos2",
+      "helpful_votes": 0,
+      "publication_date": 20171224
+    },
+    {
+      "title": "The error was my fault, product works perfectly!",
+      "text": "This was my initial comment below however the error was user related and not the product. It now works perfectly, apologies Netatmo! \u201cThe product appears to be faulty and I have been unable to get it to pair with my iPhone. The previous unit I purchased from a store while travelling to London works perfectly so unsure what is different with this unit.\u201d",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Murray Griffin",
+      "helpful_votes": 0,
+      "publication_date": 20180608
+    },
+    {
+      "title": "Great weather sensor!",
+      "text": "Great sensor and easy to install. Your climate data when viewed on the webpage is amazing and looks great.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "DutchBreeze",
+      "helpful_votes": 0,
+      "publication_date": 20170311
+    },
+    {
+      "title": "Great idea and form",
+      "text": "Great idea and form. Setting up was easy but to invite another person to have control of this unit was rediculously cumbersome.",
+      "rating": 4.0,
+      "verified": true,
+      "author": "Jeffrey B.",
+      "helpful_votes": 0,
+      "publication_date": 20180201
+    },
+    {
+      "title": "Amazing",
+      "text": "I got this for my sister and brother-in-law for Christmas, who are technology addicts. They had an old clunky weather station in their prevoius home, and this is so much sleeker. Love that it connects to their phones and tablets. I am planning on getting one for myself!",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Katy",
+      "helpful_votes": 0,
+      "publication_date": 20140331
+    },
+    {
+      "title": "It works great, was easy to download to his phone",
+      "text": "I bought this for my husband for Christmas to keep track of the tempature in a well house. It works great, was easy to download to his phone. He loves it as it saves him from getting out in the frigid cold to make sure the heatlamp is still working. Highly recommend.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Timothy W Seip",
+      "helpful_votes": 0,
+      "publication_date": 20150109
+    },
+    {
+      "title": "If you have pets at home it\u2019s reassuring to know they are comfortable and all is quite!",
+      "text": "I found setting up and monitoring the system to be just as advertised! I plan future upgrades too! If you like to monitor weather around the house and about town this is a good tool!",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Debra R. Redmond",
+      "helpful_votes": 0,
+      "publication_date": 20180129
+    },
+    {
+      "title": "Fundamental flaws",
+      "text": "The item is simple to set up, and a lot of fun. Unfortunately, it has some fundamental technical flaws. I've had it lose connection twice. No biggie, you think, but it will never re-connect to the Wifi. When you try, it tells you DHCP doesn't work. When you try to manually configure the item, it never connects. My router shows it connected, but the device itself can't seem to see the internet connection. Right at this moment, it's completely unusual. And support is non-existent. You don't get responses back, the community forum is a joke. And the troubleshooting is primitive, at best.",
+      "rating": 2.0,
+      "verified": true,
+      "author": "Shelley P",
+      "helpful_votes": 3,
+      "publication_date": 20151208
+    },
+    {
+      "title": "Works like a charm",
+      "text": "We use it daily. We went all in and purchased the rain and wind gauges as well. Setting this up... just note that patients is a virtue. Love the weather maps too.",
+      "rating": 4.0,
+      "verified": true,
+      "author": "Phil",
+      "helpful_votes": 0,
+      "publication_date": 20180311
+    },
+    {
+      "title": "Great Product",
+      "text": "A little expensive, but high quality. Seems very accurate and always works. I have had zero issues with connecting or accuracy.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "William C Worrell",
+      "helpful_votes": 0,
+      "publication_date": 20170506
+    },
+    {
+      "title": "Nice product, Outdoor sensor battery does not last",
+      "text": "I love this product, it gives me accurate inside and outside temperature and forecast. The only issue I have is that the outdoor batter runs out very quickly. The app is great too.",
+      "rating": 4.0,
+      "verified": true,
+      "author": "Amazon Customer",
+      "helpful_votes": 0,
+      "publication_date": 20151208
+    },
+    {
+      "title": "Not collaborating with Weather Underground anymore",
+      "text": "I was pretty happy with the product until they decided to stop sharing data with Weather Underground. I\u2019ll just go for a Davis.",
+      "rating": 3.0,
+      "verified": true,
+      "author": "Rigo",
+      "helpful_votes": 0,
+      "publication_date": 20180828
+    },
+    {
+      "title": "Nice weather station",
+      "text": "A great weather station that could only get better once they release their wind meter. I have this integrated with PWS and Rachio Iro irrigation controller and everything works really well.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Idaho Hunter",
+      "helpful_votes": 0,
+      "publication_date": 20150612
+    },
+    {
+      "title": "Good but very pricey!",
+      "text": "I like this product, just wish it was not so expensive.",
+      "rating": 4.0,
+      "verified": true,
+      "author": "Matthew H. Kelly",
+      "helpful_votes": 0,
+      "publication_date": 20191231
+    },
+    {
+      "title": "NO Customer Support",
+      "text": "If you can't get it set up, good look! They don't have a customer support number so you might as well throw it in the garbage.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "Michael P",
+      "helpful_votes": 4,
+      "publication_date": 20170121
+    }
+  ],
+  "product_meta": {
+    "title": "Netatmo Weather Station Indoor Outdoor with Wireless Outdoor Sensor - Compatible with Amazon Alexa & Apple HomeKit",
+    "description": "The natation personal weather station lets you measure key data about your indoor and outdoor environment. Pull up your weather Details any time, any place using your Android or iOS smartphone, tablet or computer. The smart weather station features a unique set of sensors that let you track your indoor environment as well as the weather outside. Data on temperature, barometric pressure, humidity and CO2 concentrations are sent to your smartphone seamlessly and wirelessly. Monitor and measure your environment and your weather any time, any place, intuitively and effortlessly, indoors and out. We spend 90% of our time indoors. The natation weather station CO2 sensor warns you when you need to air out your home. The weather station lets you monitor indoor air quality, obtain real-time information on official pollution levels and choose the best time to get outside. Sensors and measurements: The outdoor module is now completely waterproof measurement Frequency: every 5 minutes Temperature units: \u00b0C (metric system) and \u00b0F (us system)barometric units: mbar (metric system) and night (us system)indoor: temperature: 0\u00b0C to 50\u00b0C/ 32\u00b0f to 112\u00b0f; accuracy: 0. 3\u00b0C/ 0. 54\u00b0Fhumidity: 0 to 100%; accuracy: 3%co2 sensor: 0 to 5000 ppm; accuracy: 50 ppm (0 to 1000 ppm) or 5% (1000 to 5000 ppm)sound meter: 35 dB to 120 dB outdoor: temperature: -40\u00b0C to 65\u00b0c/ -40\u00b0F to 150\u00b0f; accuracy: 0. 3\u00b0C/ 0. 54\u00b0Fmin and max temperature, \"real feel\" And dew point humidity: 0 to 100%; accuracy: 3%barometer: 260 to 1160 bar/ 7. 7 to 37. 2 night; accuracy: 1 bar/ 0. 03 in Hg seven-day weather forecasts connectivity: Wi-Fi: compatible with 802. 11 b/G/n (2. 4 Supported security: open/WEP/WPA/WPA2-Personal (trip and wireless connection between sensors. Extended range of 100 mwah-fi router and Internet access. Hotspots are not supported compatibility: iOS 9 or later, Android 4. 2 or later, Windows phone 8. 0 or later |PC & Mac via the Wasp |IFTTT compatible",
+    "rating": 4.2,
+    "feature_bullets": [
+      "UNDERSTAND YOUR INDOOR AND OUTDOOR ENVIRONMENT: indoor / outdoor temperature, humidity, air quality, indoor noise levels, barometric pressure.",
+      "RECEIVE REAL-TIME NOTIFICATIONS: use your Weather Station to customise indoor and outdoor alerts and get notifications on your smartphone. Ventilation alerts will tell you when it's time to air out your home.",
+      "ACCESS YOUR DATA REMOTELY AND WITH YOUR VOICE: easily access your weather readings at any time from your smartphone, tablet, computer or by voice via Alexa on Amazon Echo or via Siri thanks to the compatibility with Apple HomeKit.",
+      "ANALYSE PAST READINGS: review your data history to understand what happened while you were away or use graphs to understand weather trends.",
+      "FORECAST THE FUTURE: check seven-day weather forecasts to make sure you're wearing the right gear for your outdoor activities."
+    ],
+    "specifications": {
+      "Product Dimensions": "1.8 x 1.8 x 6 inches",
+      "Item Weight": "1 pounds",
+      "ASIN": "B0095HVAKS",
+      "Item model number": "NWS01",
+      "Batteries": "2 AAA batteries required.",
+      "Customer Reviews": "4.2 out of 5 stars1,040 ratings4.2 out of 5 stars",
+      "Best Sellers Rank": "#1,737 in Amazon Launchpad",
+      "Is Discontinued By Manufacturer": "No",
+      "Other display features": "Wireless",
+      "Colour": "Aluminium",
+      "Included Components": "1 Outdoor Module 45x45x105 mm powered by 2 AAA batteries",
+      "Manufacturer": "Netatmo",
+      "Date First Available": "September 3, 2012"
+    },
+    "categories": [
+      "Weather Stations",
+      "Patio, Lawn & Garden",
+      "Outdoor D\u00e9cor",
+      "All Departments",
+      "Thermometers & Weather Instruments"
+    ],
+    "price": 160.0
+  }
+}

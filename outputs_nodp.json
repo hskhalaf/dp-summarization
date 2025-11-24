@@ -1,0 +1,125 @@
+{
+  "split": "test",
+  "model": "meta-llama/Llama-3.2-3B-Instruct",
+  "device": "mps",
+  "outputs": [
+    {
+      "example_id": "0062820680.json",
+      "num_reviews": 93,
+      "reference": "A newer vegan cookbook with a host of unique and delicious plant-based takes on traditional comfort foods.\nPros: Includes 100 easy-to-make recipes; Cookbook is divided into clever sections; Suitable for non-vegans who are curious about vegan cooking; There's also a vast BOSH!; online presence to wade through that includes additional tips and recipes\nCons: Not necessarily a “healthy” cookbook; Many of the recipes are rich and heavy",
+      "summary": {
+        "raw": "assistant\n\n```\n{\n  \"verdict\": \"Overall, customers generally loved the cookbook, praising its flavor, variety, and beautiful photography, but some had issues with the layout and the lack of recipes.\",\n  \"pros\": [\n    \"Flavorful recipes\",\n    \"Great variety of recipes\",\n    \"Beautiful photography\",\n    \"Easy to follow recipes\",\n    \"Inspiring and tasty\",\n    \"Good for vegan and non-vegan people\",\n    \"Variety of mushroom recipes\",\n    \"Delicious and easy to follow\",\n    \"High-quality, visually pleasing\",\n    \"Inspiring recipes\",\n    \"Great for beginners and experienced cooks\",\n    \"Makes a great gift\",\n    \"Colorful and stunning photography\"\n  ],\n  \"cons\": [\n    \"Some recipes lack pictures to illustrate the final dish\",\n    \"Limited options to leave out or replace ingredients\",\n    \"Pages are upside down, backwards, and partially cut off\",\n    \"Damaged book upon"
+      }
+    },
+    {
+      "example_id": "0292720807.json",
+      "num_reviews": 36,
+      "reference": "Helpful for beginners who are mainly interested in edible mushrooms.\nPros: Helpful, detailed descriptions of more than 100 edible species; Attractive photographs are useful for identification; Well organized with important information on each mushroom alongside its photograph\nCons: Some feel the included recipes are distracting; Limited to the most popular edible mushrooms",
+      "summary": {
+        "raw": "assistant\n\n```\n{\n  \"verdict\": \"Overall, this book is a great resource for mushroom enthusiasts, providing useful information, clear photos, and recipes.\",\n  \"pros\": [\n    \"Excellent resource for mushroom identification\",\n    \"Clear photos to help identify edible and poisonous mushrooms\",\n    \"Recipes include diverse and interesting mushroom dishes\",\n    \"Good for beginners and experienced mushroom hunters alike\",\n    \"Easy to understand and non-technical language\",\n    \"Comprehensive information on edible and poisonous mushrooms\",\n    \"Excellent website provided by the author\",\n    \"Nice and compact size for carrying in the field\",\n    \"Tons of useful information and recipes\",\n    \"Great photos and clear definitions\",\n    \"Excellent for learning about wild mushrooms in North America\"\n  ],\n  \"cons\": [\n    \"Some users found the book to be outdated\",\n    \"Taxonomy of some species has changed, so a second edition would be welcome\",\n    \"Too many recipes might be overwhelming\","
+      }
+    },
+    {
+      "example_id": "0375402330.json",
+      "num_reviews": 43,
+      "reference": "This is a very informative and well-organized field guide detailing wildflowers of Western North America.\nPros: Book is organized by color of plant, which makes it interesting and easy to go through, especially given color-coded page corners; Includes color images; Showcases quality maps; Possesses a useful glossary\nCons: Some included photos focus on only the flower rather than entirety of the plant",
+      "summary": {
+        "raw": "```\n{\n  \"verdict\": \"Generally well-received, with many reviewers praising the book's photos, descriptions, and organization, but some mentioning limitations in taxonomy and coverage of certain regions or types of plants.\",\n  \"pros\": [\n    \"Many reviewers praised the book's clear and detailed photos, descriptions, and organization.\",\n    \"Perfect for identification of wildflowers, especially when grouped by color.\",\n    \"Excellent for nature hikes, especially for those who want to learn about a wide variety of flowers.\",\n    \"Well-organized and easy to use.\",\n    \"Great for beginners and experienced botanists alike.\",\n    \"Beautifully illustrated with vibrant colors.\",\n    \"A valuable resource for those interested in wildflowers and plant identification.\",\n    \"Fast and reliable shipping.\",\n    \"A great addition to any nature enthusiast's library.\"\n  ],\n  \"cons\": [\n    \"Some reviewers found the taxonomy and plant identification information to be lacking or not as helpful as they would like.\","
+      }
+    },
+    {
+      "example_id": "0393352242.json",
+      "num_reviews": 100,
+      "reference": "Will open the minds of those looking to diversify their investment portfolios with high-level information and common sense strategies.\nPros: Investment strategies for the sophisticated investor or students who are prepared for a book packed with information; While there are a breadth of investment concepts, each are written with an action plan that readers can implement in real life\nCons: Does require some prior knowledge of markets and investment strategy to gain the most from this book",
+      "summary": {
+        "verdict": "Generally, reviewers highly praise the book for its insightful and accessible approach to investing, with many considering it a must-read for beginners and experienced investors alike.",
+        "pros": [
+          "Easy to understand",
+          "Excellent approach to investing",
+          "Provides clear and practical advice",
+          "Well-organized and comprehensive",
+          "Good for beginners and experienced investors",
+          "Accessible to those with little to no prior knowledge",
+          "Timeless and relevant",
+          "Well-written and engaging",
+          "Supports long-term investing",
+          "Helpful for making informed investment decisions",
+          "A classic in the investing genre"
+        ],
+        "cons": [
+          "A bit slow in some places",
+          "May be too advanced for very beginner investors",
+          "Printing quality could be better",
+          "Some sections may be dry"
+        ]
+      }
+    },
+    {
+      "example_id": "0394507630.json",
+      "num_reviews": 100,
+      "reference": "A very nice bound-leather field guide that is useful for reference of anyone interested in insects.\nPros: Lots of good information in this book; Durable cover; Subjects photographed in their habitats; Helps aid with identification; Beautiful pictures; Children interested in spiders and insects will really enjoy this book\nCons: This book seems to not have as many insects featured as some others; It can be a little difficult to use",
+      "summary": {
+        "raw": "assistant\n\n```\n{\n  \"verdict\": \"Generally, reviewers praise the National Audubon Society field guides for their informative and well-illustrated content, making them a valuable resource for identifying insects and spiders. However, some reviewers mention limitations, such as the lack of region-specific guides and outdated information.\",\n  \"pros\": [\n    \"Compact and full of information\",\n    \"High-quality photos for identification\",\n    \"Excellent for beginners\",\n    \"Easy to use and organize\",\n    \"Beautiful illustrations\",\n    \"Informative and helpful\",\n    \"Good for field use or around the house, garden, or yard\",\n    \"Great for identifying insects and spiders\",\n    \"Clear and concise descriptions\",\n    \"Excellent photos and information\"\n  ],\n  \"cons\": [\n    \"Lack of region-specific guides\",\n    \"Outdated information\",\n    \"Too many insects to cover in just one guide\",\n    \"Some pages were ripped or bent\",\n    \"No in-depth"
+      }
+    },
+    {
+      "example_id": "0525577238.json",
+      "num_reviews": 100,
+      "reference": "Basic ingredients and meals made from scratch helped this author lose over 125 pounds.\nPros: Perfect for loving your Instant Pot or pressure cooker even more than you already do; Most of the ingredients in this diet are simple, inexpensive, and readily available at most grocery stores; Focuses on making health eating convenient and fast; Encourages lifelong changes\nCons: A basic guide on healthy eating, and cutting out junk; Recommends a very restrictive diet",
+      "summary": {
+        "verdict": "Generally positive reviews with many users praising the cookbook's recipes, instructions, and helpful content, but some users had issues with the inclusion of non-Instant Pot recipes and lack of references in the book.",
+        "pros": [
+          "Great recipes",
+          "Instant Pot instructions",
+          "Gluten-free recipes",
+          "Dairy-free recipes",
+          "Easy to follow recipes",
+          "Helpful meal plans",
+          "Healthy ingredients",
+          "Beautifully laid-out book",
+          "Delicious and wholesome meals",
+          "Love for the author's Instagram presence",
+          "Excellent for expanding ingredient usage"
+        ],
+        "cons": [
+          "Some recipes are not Instant Pot-only",
+          "Lack of references in the book for dubious science",
+          "Not suitable for users with severe food allergies",
+          "Not a 'keto' cookbook as some believed"
+        ]
+      }
+    },
+    {
+      "example_id": "0544609719.json",
+      "num_reviews": 100,
+      "reference": "Focuses on healthy foods, and totally eliminates sugar, but does not require you to count calories or watch amounts of food eaten.\nPros: The idea behind whole 30 is that you go on a very restrictive diet for 30 days and it resets your eating patterns, helps you lose weight, and makes you feel better; You eat whole foods only and skip processed foods; If you feel like you are addicted to junk food or sugar, this plan is designed to help you quickly break that addiction\nCons: This is literally a 30-day plan; While the authors say it could be healthy, they also advise it is not very practical as a long-term food total solution",
+      "summary": {
+        "raw": "```\n{\n  \"verdict\": \"The Whole30 book is a valuable resource for those looking for a lifestyle change, with many users reporting significant improvements in health, energy, and cooking skills.\",\n  \"pros\": [\n    \"Many users report significant weight loss and improvements in health\",\n    \"Users praise the book for its user-friendly approach and detailed recipes\",\n    \"The book provides valuable background knowledge and education on the Whole30 program\",\n    \"Users appreciate the flexibility and variety of recipes and meal plans\",\n    \"The book helps users understand the science behind the diet and its benefits\",\n    \"Many users report improved energy and mental clarity\",\n    \"The book provides a supportive community and motivation for success\"\n  ],\n  \"cons\": [\n    \"Some users find the Kindle version of the book to be glitchy and difficult to navigate\",\n    \"The book may not be suitable for vegetarians or those who avoid meat\",\n    \"Some users find the book to be too restrictive or"
+      }
+    },
+    {
+      "example_id": "0544781937.json",
+      "num_reviews": 77,
+      "reference": "Investment advice that's written in an entertaining manner that won't detract from the proposed financial opportunities.\nPros: An updated printing that takes years of sound advice and applies it to modern day scenarios; Great for novice and seasoned investors; Touches upon high-level investment tips as well as those that can be accomplished in daily life\nCons: Very conservative in its advice – to the dismay of readers who hunger for more risk",
+      "summary": {
+        "raw": "assistant\n\n```\n{\n  \"verdict\": \"Overall, the book is well-regarded for its practical and accessible advice on personal finance and investing, with many readers finding it to be a valuable resource.\",\n  \"pros\": [\n    \"Great for beginners and experienced financial planners alike\",\n    \"Entertaining writing style\",\n    \"Provides a healthy balance of basic and advanced information\",\n    \"Includes tips on preparing for life changes and common-sense strategies\",\n    \"Well-organized and easy to understand\",\n    \"Helpful for those looking to improve their financial literacy\",\n    \"Recommended by many readers\",\n    \"Authoritative and user-friendly\",\n    \"Simple and concise explanations\",\n    \"Good for a wide range of readers, from beginners to experienced planners\"\n  ],\n  \"cons\": [\n    \"Some readers found it too basic or outdated\",\n    \"Non-Americans may find too much irrelevant information\",\n    \"Politics and opinions can be distracting\",\n    \"Not all readers"
+      }
+    },
+    {
+      "example_id": "0618574239.json",
+      "num_reviews": 100,
+      "reference": "This is a good guide for birdwatchers who are just starting out, although some may find that the photos don't work as well as illustrations when it comes to identifying birds.\nPros: Easy to navigate, and a good compact size for field use; Photo-based with conversational text; Has a lot of info up front for beginner birdwatchers (how to choose binoculars, etc.); Index at the end has check boxes so you can keep track of sightings\nCons: Published in 2005, making it a bit outdated; Some felt that this guide is not organized well, and that the photos don't compare with the illustrations and paintings of other guides",
+      "summary": {
+        "raw": "```\n{\n  \"verdict\": \"A highly rated bird watching guide with both positive and negative reviews, praised for its organization, pictures, and ease of use, but some reviewers found it not ideal for beginners due to composite photos and smaller size.\",\n  \"pros\": [\n    \"Organization\",\n    \"Color-coded edge-tabs\",\n    \"Simple to use\",\n    \"Nice and detailed pictures\",\n    \"Easy to identify birds\",\n    \"Compact and durable\",\n    \"Great for beginners\",\n    \"Excellent search and find type of book\",\n    \"Sturdy binding\",\n    \"Good indexing\",\n    \"Easy to use\",\n    \"Real photos\",\n    \"Excellent illustrations\",\n    \"Good price\",\n    \"Great size\",\n    \"Complete\",\n    \"Vinyl cover\",\n    \"Easy to carry\"\n  ],\n  \"cons\": [\n    \"Composite photos may appear low resolution and blurred\",\n    \"Not ideal for beginners\",\n    \"Smaller size may be difficult to use for those"
+      }
+    },
+    {
+      "example_id": "0618966145.json",
+      "num_reviews": 100,
+      "reference": "A great update to a couple of classic birding guides, although its bulky size makes it better on a coffee table than the field.\nPros: Combines the Peterson Field Guide to Eastern Birds and Peterson Field Guide to Western Birds into one volume; Updates include new paintings and maps; Very detailed and inexpensive; Also includes access to 3 hours of video podcasts\nCons: A little too large and heavy to be a good field guide; Very general in nature; it can be hard to locate local birds",
+      "summary": {
+        "raw": "assistant\n\n```\n{\n  \"verdict\": \"Generally, users praise the guide for its excellent illustrations, organization, and information, but some find the larger size inconvenient.\",\n  \"pros\": [\n    \"Excellent illustrations\",\n    \"Well-organized\",\n    \"Comprehensive information\",\n    \"Helpful for identifying birds\",\n    \"Convenient for travel\",\n    \"Beautifully presented\",\n    \"Improved organization\",\n    \"Larger and more brilliant illustrations\",\n    \"Precise descriptions\",\n    \"Great for novice birders\",\n    \"Excellent for identifying migrating birds\",\n    \"Helpful for backyard birding\",\n    \"Great for identifying birds in the field\",\n    \"Well-suited for birders of all levels\",\n    \"Timely delivery\",\n    \"Good condition\",\n    \"Magnificent pictures and drawings\"\n  ],\n  \"cons\": [\n    \"Larger size may be inconvenient\",\n    \"Some users find the illustrations too small\",\n    \"Organization could be improved by"
+      }
+    }
+  ]
+}

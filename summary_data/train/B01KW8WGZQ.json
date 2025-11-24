@@ -1,0 +1,946 @@
+{
+  "website_summaries": [
+    {
+      "verdict": "The Wink Hub 2 is fine, but it's hard to recommend over platforms like Amazon Alexa and Apple HomeKit that reduce challenging behind-the-scenes integrations to simple voice commands.",
+      "pros": [
+        "The companion app is the $99/\u00a380/AU$130 Wink Hub 2's strongest asset -- the layout is logical and step-by-step tutorials make it relatively easy to pair (most) devices"
+      ],
+      "cons": [
+        "I received a steady stream of error messages when trying to create automation rules and never managed to run one successfully",
+        "Occasionally latency issues slowed things down and Lutron devices are still laughably difficult to connect to Wink"
+      ],
+      "aspects": {
+        "Features": 7.0,
+        "Usability": 7.0,
+        "Design": 7.0,
+        "Performance": 6.0
+      },
+      "publication_date": 20161019,
+      "rating": 6.8,
+      "source": "cnet"
+    }
+  ],
+  "customer_reviews": [
+    {
+      "title": "Don\u2019t walk away\u2014RUN",
+      "text": "Stay away! The company seems to be going out of business. Many customers complaining of the product just stopping working for days. Had product for 2 weeks and the hub stopped being recognized. Tried to call for service but the company admits their phones aren\u2019t in service and still have not heard back from their technical support after three or four days after emailing as instructed. I am just glad that I found the problem early so I could get a refund (Amazon did me well by that since there is a 30 day refund according to the manufacturer \u2014 if you can reach the manufacturer). Bottom line don\u2019t walk away, RUN!",
+      "rating": 1.0,
+      "verified": true,
+      "author": "Rick",
+      "helpful_votes": 242,
+      "publication_date": 20200426
+    },
+    {
+      "title": "Monthly 4.99 fee",
+      "text": "I have been a wink customer for about 5 years and today I was told it's now 4.99/month with no other option for service. I am running about 30-40 switches and various other items. I now have to either pay the fee or cancel and remove wink hub all together. Like others have said...DONT WALK....RUN AWAY",
+      "rating": 1.0,
+      "verified": true,
+      "author": "Nels",
+      "helpful_votes": 222,
+      "publication_date": 20200508
+    },
+    {
+      "title": "Extortion is a poor business model",
+      "text": "Wink has decided to disable my wink hub and demand a ransom to restore functionality. I bought this product as well as it's predecessor. Completely satisfied up until the moment that Wink decided to institute a month subscription without warning. I have no problem with a subscription model, but this was not the agreement. You can't change the rules after the fact.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "Wally",
+      "helpful_votes": 202,
+      "publication_date": 20200506
+    },
+    {
+      "title": "Bait and switch",
+      "text": "I've been a dedicated Wink user for years, ever since it was Quirky. No updates or increased functionality since Will.i.am bought it. Repeated outages. Now today I get an email that if I don't fork over $5/month,they will brick my hub and everything it controls. I have one week or they shut it all down May 13. One week notice. I know they've had financial difficulties, so this is apparently one last effort to grab some cash before the bankruptcy. On every label they talk about \"no subscription fees\", now the switch. The class action lawsuit will be the final nail in their coffin.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "Glori",
+      "helpful_votes": 60,
+      "publication_date": 20200506
+    },
+    {
+      "title": "Ransomware in a box",
+      "text": "I bought the unit and it worked ok. It went offline randomly but overall it worked ok. Suddenly, they say that I need to pay $5/mo to keep it working starting - next week! That is no way to treat customers. Yeah, $5/mo isn't much, but I paid a premium for this unit for the features that will now cost $5/mo. If you don't pay, it's a brick and won't work *at all*. That is fraud. Don't buy Wink, they aren't long for this world. The class action suit that will come out of this will bury them.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "B. Culver",
+      "helpful_votes": 31,
+      "publication_date": 20200507
+    },
+    {
+      "title": "In My Opinion WINK is extorting prior customers by requiring a subscription.",
+      "text": "WINK has been selling this Hub and App to customers for years as a stand-alone, subscription free hub device. That\u2019s what I bought. Now they have decided to extract more money out of prior customers (Almost 50% of what was originally paid for the device per year!!!). If you don\u2019t pay a fee going forward they will render your device effectively useless by taking away almost all of its functionality. IMO they are essentially installing ransomware into their own devices. I don\u2019t negotiate ransom with companies who hold my technology hostage. I won\u2019t do it with my toaster, my printer, my television and definitely not this hub.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "Ken",
+      "helpful_votes": 26,
+      "publication_date": 20200507
+    },
+    {
+      "title": "AVOID - stopped working, now trying to charge $4.99/month to work again",
+      "text": "When I purchased this device at a significant premium price when compared to every other option I considered (including samsung, alexa devices, google home, etc.) Wink had no information about ongoing maintenance/subscription costs. Almost immediately, the device stopped working consistently and tech support didn't answer the phone. I ultimately had to replace the unit with a Samsung device as it was not reliable and I read too many articles characterizing the company as having financial troubles and potentially closing. I just received an email stating that unless I sign up for a $4.99/month subscription, the device will stop working in 1 week. They are holding existing customers hostage to try to keep their business afloat.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "Concerned Customer",
+      "helpful_votes": 25,
+      "publication_date": 20200506
+    },
+    {
+      "title": "Was Great, Now Terrible",
+      "text": "I bought this years ago, and it has been working great as a smart home hub to control GE Link bulbs. Now Wink wants to charge $4.99 a month just to allow me to use the hub that I paid for. No thanks. No smart home hub is worth a subscription fee, and this does nothing special. In the garbage it goes. It was good while it lasted.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "RUSSELL",
+      "helpful_votes": 24,
+      "publication_date": 20200506
+    },
+    {
+      "title": "Do not buy!!!",
+      "text": "Spend hours setting everything up, then the servers on their side goes down and you cant use lights, fans, etc anymore. I purchased this on 4/17, went down on 4/18 and has been down for 16 hours now. Completely unacceptable that I cant even use my lights in my house.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "William",
+      "helpful_votes": 25,
+      "publication_date": 20200419
+    },
+    {
+      "title": "Holding my house hostage",
+      "text": "Got a message from wink just now letting me know that if I don't pay them $60/yr starting next week, my entire smarthouse will cease to work because I foolishly relied on Wink to control it all.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "Geoff",
+      "helpful_votes": 21,
+      "publication_date": 20200506
+    },
+    {
+      "title": "Beware of new subscription fees!",
+      "text": "Beware! Bought this hub, it had no subscription fees. Not even a year later, surprise, we are disabling everything unless you start paying our NEW subscription fee. Giving nothing extra, but now you need to pay us monthly to access your smart home. Holding me hostage. Terrible company. The hub is going in the trash and replacing with Samsung Smart Things. The Wink is now useless without paying a monthly fee. Stay away.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "Ryan E.",
+      "helpful_votes": 18,
+      "publication_date": 20200506
+    },
+    {
+      "title": "Do not Buy",
+      "text": "Wink just moved to a subscription monthly fee. Seems to be last effort to raise money but gave users 1 week notice. Do not use",
+      "rating": 1.0,
+      "verified": true,
+      "author": "Greg",
+      "helpful_votes": 20,
+      "publication_date": 20200506
+    },
+    {
+      "title": "Mediocre product and now they want $5/mo???",
+      "text": "I bought this hub in 2016. At first customer service was great. If I called in with an issue connectkng a new device I rarely even had to wait on hold and they could pinpoint the problem remotely. Soon after though, it wasn't that there was a hold, hit there was no help at all. And the device reliabikity and connectivity became spotty around the time the company sold. Now they announced today that they want $5/mo starting next week(?!?) to continue with the same crappy service level and product features. No thanks. Bye.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "R B",
+      "helpful_votes": 18,
+      "publication_date": 20200506
+    },
+    {
+      "title": "Avoid as of May 2020, devices are about to be bricked",
+      "text": "Unless you pay a $5 a month subscription price, that is. Wink just announced it plans to charge all customers (whether you just bought the hub or had it for years) a $4.99/month price to use their hub. Without paying the fee, the hub is essentially a brick. Obviously the company is in trouble, so if you're just joining the smart home generation, stay away from everything Wink.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "SP",
+      "helpful_votes": 17,
+      "publication_date": 20200506
+    },
+    {
+      "title": "Can't give this thing away.",
+      "text": "DO YOUR HOMEWORK BEFORE BUYING WINK. I really think they're going to go under any month now. Poorly designed product. Inferior in so many ways to what I ended up with (SmartThings) Difficult phone UI. Tech support responds but only with 'sorry about that' and workarounds. I've tried to sell mine on eBay and Craig's List for $20 and can't find a taker. Sigh.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "RTL Seattle",
+      "helpful_votes": 15,
+      "publication_date": 20200330
+    },
+    {
+      "title": "\u201cWe were unable to link Wink at this time.\u201c",
+      "text": "I\u2019ve owned this product since mid 2018 and it just randomly stopped integrating with Alexa. I\u2019ve done some digging and this is a common problem that users seem to have with this product. I have some Z-Wave technologies on my home network that would be costly to replace with WiFi options at this point so I\u2019m forced to go with a competitor despite my preference with the UI and ease of use with Wink. I\u2019ve searched for another solution. For days, and there appears to be none. When Alexa and Wink decide they are done with each other, there\u2019s nothing that can be done.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "Shaun & Debra",
+      "helpful_votes": 13,
+      "publication_date": 20200412
+    },
+    {
+      "title": "Beware",
+      "text": "Wink as a company is having severe financial trouble. As such, they are now charging a monthly subscription fee and the products will no longer work without paying. Buy at your own risk as Wink may not be around much longer (see articles on unpaid employees).",
+      "rating": 1.0,
+      "verified": true,
+      "author": "dfwcyclist",
+      "helpful_votes": 15,
+      "publication_date": 20200506
+    },
+    {
+      "title": "Now requires a subscription - with 1 week notice",
+      "text": "SO after buying this and using it for several years I was content with the way it was performing. Then they started to no longer support some devices. I have a box of about 7 Wink devices that are no longer supported. And yet I stayed with the hub. But after the announcement today of a subscription requirement with only 1 week notice before they disable the device I'm no longer happy and will be moving to another platform tomorrow",
+      "rating": 1.0,
+      "verified": true,
+      "author": "Jim",
+      "helpful_votes": 14,
+      "publication_date": 20200506
+    },
+    {
+      "title": "Do not buy any Wink product",
+      "text": "Wink just announced that they are moving to a for pay model, with one week's notice. It's a desperation move by a failing company. Do not buy any of their products. Mine will go into the trash as a failed experiment. It has worked well, but I won't be extorted out of $5/month after owning it for a year or so. Die, Wink, die. P.S. Where do I join the inevitable class-action lawsuit? Yes, I know I won't get anything substantial, but I will help to put a bullet in the head of this dying company.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "Amazon Customer",
+      "helpful_votes": 13,
+      "publication_date": 20200507
+    },
+    {
+      "title": "This Company Is Going To Tank!",
+      "text": "GARBAGE!! Wink is now requiring all users to pay a monthly subscription fee! If you don\u2019t (even if you purchased the unit before they made this change) they will lock you out of your smarthome system! Trash. Throwing it away and buying Samsung Smartthings. I will NEVER pay a subscription fee.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "Brandon",
+      "helpful_votes": 14,
+      "publication_date": 20200506
+    },
+    {
+      "title": "Switching to monthly fee... I am switching to a different brand",
+      "text": "1 star - sold as a buy it now and the app will work forever... wink got a part of each sale.... today i got email the are switching to subscription model and they want $5 a month from now on or nothing works. They can go out of business for all I care.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "Robert",
+      "helpful_votes": 14,
+      "publication_date": 20200506
+    },
+    {
+      "title": "Give Us $5/month or We'll Brick Your Device In One Week",
+      "text": "The Hub itself is capable and flexible but a bit flaky. Its reliance on cloud backend for every command means that if your internet is flaky or their server down (which happens more often than it should) you cannot control your devices, even locally. But what's a complete dealbreaker, not just for this product but for the company as a whole, is that on 5/6/20 they announced the Hub would stop working altogether in one week unless you signed up for a $5/month subscription. There are other options. Spend your money elsewhere.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "ivanski",
+      "helpful_votes": 13,
+      "publication_date": 20200506
+    },
+    {
+      "title": "Wink company is moving to a paid subscription basis",
+      "text": "Wink is moving to paid subscription basis starting 13 May 2020. For me, this is a smart home's death sentence. Wink 2 hub has local control capability, but will not provide local control via app without internet for \"security\" reasons. I am very fed up with everything existing in and happening through the Cloud.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "Christopher Chretien",
+      "helpful_votes": 14,
+      "publication_date": 20200506
+    },
+    {
+      "title": "Buyer beware, subscription ***REQUIRED*** after 5/13/2020",
+      "text": "I've had this hub for about 2 years now and the service has become increasingly unreliable. After some investigation I found out that the company has provided a 7 day notice to their customers on their blog and Twitter account that a $5/month subscription will be manditory or your device will cease to function. Run. Away. Now. Save your money on what will soon become a paper weight.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "Travis Page",
+      "helpful_votes": 14,
+      "publication_date": 20200507
+    },
+    {
+      "title": "Won\u2019t work without a subscription as of 5/13/2020",
+      "text": "Beware - effective 5/13/2020 Wink is going to a subscription service, this Hub will not work unless you subscribe for $4.99 a month. Originally purchased because they prominently noted \u201cNo Subscription\u201d. Company having financial difficulty, looks like a last gasp measure to get whatever revenue they can before bankruptcy. Eve if you\u2019re OK with the subscription I\u2019d wait a few months to see if the company survives so you don\u2019t end up with a paper weight. System - Not dependable, GE (wink bulbs) disconnect for no reason.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "Cal",
+      "helpful_votes": 12,
+      "publication_date": 20200506
+    },
+    {
+      "title": "Wink broke their commitment, and now my Wink hub is worthless.",
+      "text": "Wink wants to start charging a $5 a month \"subscription fee\" for me to continue using the device that I bought and paid for. I have one week to comply, otherwise the hub is bricked and worthless. I could understand a little if they started charging new customers, but not ones who bought their product with a commitment of no-charge cloud support. I refuse to be extorted to use a product I already paid for. This company won't be around long, so I recommend extreme caution to anyone considering it.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "Future Perfection",
+      "helpful_votes": 12,
+      "publication_date": 20200507
+    },
+    {
+      "title": "Now requires subscription service =(",
+      "text": "I liked this product. It simply worked to tie things together under one app, not seamlessly or perfectly, but well enough. They've just announced that they're transitioning to a subscription service, and the device will become useless unless you pay yet another monthly fee. No provision for legacy users. No limited functionality for free subscribers. Bad move, Wink.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "Andrew C.",
+      "helpful_votes": 12,
+      "publication_date": 20200506
+    },
+    {
+      "title": "Subscription service now required to use hub",
+      "text": "Wink hub 2 has worked ok for 2 years for me. Not super feature packed. More and more iot devices are going WiFi based instead of all the protocols that wink supports. And now they want users to pay a subscription fee with one weeks notice before their previously purchased hubs become a brick. The app is basic. I don\u2019t expect wink as a company to last much longer",
+      "rating": 1.0,
+      "verified": true,
+      "author": "John R",
+      "helpful_votes": 12,
+      "publication_date": 20200506
+    },
+    {
+      "title": "DO NOT BUY IT UNLESS YOU WANT TO PAY FOR A SUBSCRIPTION",
+      "text": "Was just notified by wink, that if you do not pay you no longer get to use the wink hub after owning it for years. I paid already for it, why would I have to pay for a subscription to keep using it. Extorting your customers for your own survival is a bad way of business. I will never use wink again.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "TJ",
+      "helpful_votes": 13,
+      "publication_date": 20200506
+    },
+    {
+      "title": "DO NOT BUY - Why pay mandatory surprising monthly subscription fees?",
+      "text": "I bought it because it looked sleek and easy. But after 2 weeks of activation, I was surprised by an email from Wink pretty much saying \"Sorry, but either you pay monthly subscription fees of $4.99 a month or be deactivated.\" It never said anything about subscription fees when I did my research and bought it. I am now returning the Wink product and buying the Samsung product which is much cheaper, does pretty much the same, and has no subscription fees. One time purchase price and that is it. Therefore, I do not recommend Wink.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "nikobef",
+      "helpful_votes": 12,
+      "publication_date": 20200508
+    },
+    {
+      "title": "Monthly fee suddenly required without much warning",
+      "text": "I've used the Wink Hub 2 for more than 3 years. They've changed ownership and not kept up with the various sensors out there. Suddenly, they have ambushed users with either a $4.99 monthly fee or our unit goes dark and fails. We are given only 1 week to decide. I'm choosing to let it go dark and buy another brand of hub.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "Consumer in SE Pennsylvania",
+      "helpful_votes": 13,
+      "publication_date": 20200506
+    },
+    {
+      "title": "Was decent, now HORRIBLE.  DO NOT BUY",
+      "text": "I bought this huh almost 3 years ago and it worked great for the first 2 years, then it seemed like the company just disappeared and stopped putting it new products and barely supporting current products. Yesterday they announced that starting next week (May 13, 2020) the device will be useless unless you pay the $5 subscription fee that they just came up with. This is ridiculous to start charging for something that has always been free and with only a week's notice. Like another reviewer said \"RUN AWAY!\". Go by a smartthings hub for half the price.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "A. Brown",
+      "helpful_votes": 11,
+      "publication_date": 20200507
+    },
+    {
+      "title": "*** WARNING *** WARNING *** Monthly fees or it doesn't work",
+      "text": "*** WARNING *** WARNING *** WARNING *** WARNING *** WARNING *** This device only works with a monthly service fee, you must pay sixty dollars a year, this is a monthly reoccurring cost of $5.99. No pay, nothing works. There is nothing mentioned about the expensive monthly fee, obviously if revenue fails. This company is out of business. NEXT TIME DIFFERANT TECHNOLOGY",
+      "rating": 1.0,
+      "verified": true,
+      "author": "Tommy Mallory",
+      "helpful_votes": 12,
+      "publication_date": 20200507
+    },
+    {
+      "title": "New monthly fee",
+      "text": "I can no longer recommend Wink due to them shifting to a monthly subscription model.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "Tech Gospel",
+      "helpful_votes": 13,
+      "publication_date": 20200508
+    },
+    {
+      "title": "Monthly Subscription no thank you!",
+      "text": "After 2 years of use and multiple sensors and devices added now Wink decides to hold my smart home hostage for $5 a month per user! I have a family of 6...Granted only 3-4 of them use smart apps to control the lights, door locks, garage door...etc...That's ridiculous that I'd have to pay $15-$20 so that everyone could access the features that have been part of the hub cost when purchased! No thank you...Switching to SmartThing Hub...no monthly costs!",
+      "rating": 1.0,
+      "verified": true,
+      "author": "cmanic",
+      "helpful_votes": 11,
+      "publication_date": 20200508
+    },
+    {
+      "title": "WINK 2 Hub - Decent device",
+      "text": "WINK was great it allowed me to utilize aspects of my SMART Home without too many issues. One of the primary reasons this product was great was there were no additional costs associated. I attached it to my network, and I set about connecting devices. Then today 5/6/2020 , I received notice that they are going to require a subscription to utilize the App in less than 9 days. There was no mention of this in my documentation or within the products specifications/requirements. Knowing this, I would never recommend this product to anyone. I would never have p",
+      "rating": 1.0,
+      "verified": true,
+      "author": "G.S. Smith",
+      "helpful_votes": 9,
+      "publication_date": 20200506
+    },
+    {
+      "title": "overpriced, very poor option for OSRAM lights,",
+      "text": "contrary to what the description says, this hub is an EXTREMELY poor choice for OSRAM lights. it does not support all functions. lights loose their settings when you use physical switch to turn them on. such as, you tune the light to 4000k and brightness to 50% and save it. then you turn on the physical switch and the light is at default settings, namely, 2700k and 100% brightness. i am also skeptical about firmware updates to osram bulbs through this hub. returning it back. on top of everything this piece of plastic junk costs $155 which is completely insane.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "BASHAH.LLC",
+      "helpful_votes": 9,
+      "publication_date": 20200401
+    },
+    {
+      "title": "NOW A SURPRISE FORCED SUBSCRIPTION SERVICE",
+      "text": "On May 6 2020 wink told all its customers (that bought their products with \"no mandatory subscription fees\" in bold on its website) that they had 1 week notice to sign up for the \"new subscription app\" at 5 bucks per month (May 13 2020) or the devices would be non-functional. Holding customers at ransom with less than a week's notice. The company has lost my trust and countless other customers. Will be finding a new platform.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "da_guitarist",
+      "helpful_votes": 10,
+      "publication_date": 20200507
+    },
+    {
+      "title": "Surprise Monthly Subscription Now Required",
+      "text": "On May 6th 2020 the company announced a mandatory $4.99 monthly fee to continue using the hub starting on May 13th 2020. If users choose not to subscribe, the hub becomes 100% disabled. Given the fact the app and hub have been buggy since day 1, no monthly fee is worth the cost. Time to trash and buy a different brand.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "ran99",
+      "helpful_votes": 11,
+      "publication_date": 20200507
+    },
+    {
+      "title": "Subscription to continue use is a scam",
+      "text": "After using the wing hub for 16 months I received an email this week that states that to be able to continue using it I have to sign up for a subscription, within a week! That is outrageous! The product cost included the use of the app and now they\u2019re changing the rules. I would have bought a different product if this was known and will seek a refund.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "Steven Dube",
+      "helpful_votes": 11,
+      "publication_date": 20200507
+    },
+    {
+      "title": "After buying this and using it for years, they are trying to extort $5 a month from me.",
+      "text": "It always worked great, but I just got a message saying that I have one week to hand over my credit card info and start paying a subscription, or they will turn off my features.... sorry Wink. You are going in the trash.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "Mark H",
+      "helpful_votes": 11,
+      "publication_date": 20200508
+    },
+    {
+      "title": "Changed to a subscription model",
+      "text": "Bought the wink hub because i did not want something that \"phoned home\" when i wanted to run a routine or turn on lights. May 13 they are disabling all functionality unless you pay a monthly subscription which defeats any reason I would have bought it. Hoping for a refund.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "admiralboom",
+      "helpful_votes": 10,
+      "publication_date": 20200506
+    },
+    {
+      "title": "$5 bucks a month for what?",
+      "text": "What is the new $5 / month fee for? A service that hasn't seen any new features for years? Cloud servers that are \"mostly\" available? Maybe I would have been willing to pay a nominal yearly fee to support operations but not after paying the full price for the hardware.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "Tim",
+      "helpful_votes": 11,
+      "publication_date": 20200507
+    },
+    {
+      "title": "*** New subscription fee *** Required on Wink",
+      "text": "Wink was a perfect home hub and well worth the money. Unfortunately they just announced that they are going to a $4.99 per month subscription fee immediately. Not the end of the year and not in 3 months. Starting May 13th you have to pay to use! So all of us who had no problem paying $150 for the hub now have to pay to use! Should have just went with the Samsung to begin with! Switching now.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "camley88",
+      "helpful_votes": 10,
+      "publication_date": 20200507
+    },
+    {
+      "title": "Subscription Now Required. Find Another Option.",
+      "text": "Blind sided. The company just announced a required subscription fee of $5 a month to people that already purchased. They only provided a 7-day notice and said all integrations would stop if not paid. My smarthome is being held hostage. Don't trust this company and don't buy this product. I did own for several years. It worked fairly well. Since mid-2019, it's been down more often than I'd like and support has been lacking. I get why they needed to add the subscription fee, but it's a bad value after an already expensive purchase and lack of end of life notice leave a bad taste. Look elsewhere.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "1DCbuyer",
+      "helpful_votes": 8,
+      "publication_date": 20200506
+    },
+    {
+      "title": "Wink will require a monthly subscription starting next week",
+      "text": "You\u2019ll have to pay $4.99 a month starting Wednesday, May 13th",
+      "rating": 1.0,
+      "verified": true,
+      "author": "Y. You",
+      "helpful_votes": 11,
+      "publication_date": 20200508
+    },
+    {
+      "title": "Watch out!",
+      "text": "Purchased product in Jun 19, today Nov 19 find out company is done and shut down and servers are down. There is no technical support or 800 number service. Hub does not work, With no warning to registered customers. I will monitor any product manufactured or supported by anything or anyone related to this product. To not post notices and warnings about shutting down their business and continue to sell their products, is unethical and disingenuous.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "SSM",
+      "helpful_votes": 9,
+      "publication_date": 20191125
+    },
+    {
+      "title": "NOW CHARGING A MONTHLY FEE",
+      "text": "Now looking to replace my wink because not willing to pay a monthly fee when I already pay so many fees for so many other things...",
+      "rating": 1.0,
+      "verified": true,
+      "author": "Jamie N",
+      "helpful_votes": 9,
+      "publication_date": 20200508
+    },
+    {
+      "title": "Don't Buy",
+      "text": "The hub works when it wants to and now they want to charge a subscription service for this junk. DON'T WASTE YOUR MONEY!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+      "rating": 1.0,
+      "verified": true,
+      "author": "Randall & Kim",
+      "helpful_votes": 8,
+      "publication_date": 20200506
+    },
+    {
+      "title": "DO NOT BUY!  Wink is blackmailing users!",
+      "text": "Hub worked well enough for a year or so, with frequent need to restart device to keep connection. For the last several months connections systemwide were being regularly lost and the Hub was only passable. Today Wink announced to its users that despite being sold as a \u201cno subscription needed\u201d device, starting in seven days, pay a monthly fee or nothing will work going forward. There is now NO reason to buy this device over the cheaper and subscription free competition from Samsung. Do not support this company\u2019s attempted blackmail.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "SGSSLC",
+      "helpful_votes": 7,
+      "publication_date": 20200506
+    },
+    {
+      "title": "HIdden fees",
+      "text": "So I've had my Wink Hub 2 for a while and have purchased many smart items compatible with it. I just received an email on 5/6/20 stating that I have until 5/13/20 to signup for a subscription or my stuff will quit working. Later that night (5/6/20) all of my stuff quit working without warning. Now I have hundreds of dollars of products that won't work as advertised because of this bait and switch. As for the product it self, it worked well before all of this.",
+      "rating": 2.0,
+      "verified": true,
+      "author": "RockinCWIfe",
+      "helpful_votes": 6,
+      "publication_date": 20200507
+    },
+    {
+      "title": "DONT BUY THIS",
+      "text": "Wink used to be great. Its gone straight downhill and now they are requiring a $5/month subscription or it will be deactivated. I hope you get sued into bankruptcy. You cant sell me something under the guise of the service costing nothing then demand payment or cut me off.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "Diablero",
+      "helpful_votes": 6,
+      "publication_date": 20200506
+    },
+    {
+      "title": "Costs 4.99 a month to use this HUB",
+      "text": "I bought this hub for $150 bucks. When I got it it was amazing and free. Today after having it for 2+ years I get an email saying it will no longer work without a subscription of 4.99 a month. Buyer be ware I\u2019m pretty sure this is Fraud. I see a class action lawsuit in there future.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "Ted E. Nick",
+      "helpful_votes": 7,
+      "publication_date": 20200506
+    },
+    {
+      "title": "DO NOT BUY",
+      "text": "Registered users received an email on 5.10.20 telling them that if they did not subscribe to a paid service by 5.13.20 their hubs would no longer be supported. They gave us 3 days to either sign up at $5 per month or find a replacement, after which all our supported devices will stop working. An Alexa hub would be a superior choice.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "The Writer",
+      "helpful_votes": 5,
+      "publication_date": 20200511
+    },
+    {
+      "title": "Now mandatory monthly fee = worthless product",
+      "text": "It worked fine from 2017 to May 2020, but Wink will go dark without a monthly fee and no way that works for me so it\u2019s going to Goodwill to be replaced by another Samsung SmartThings hub.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "Richard H.",
+      "helpful_votes": 6,
+      "publication_date": 20200506
+    },
+    {
+      "title": "Pay up or else!",
+      "text": "Holding you ransom for $5 a month. No thanks. Going in the trash. Hubitat is a much better platform and community driven",
+      "rating": 1.0,
+      "verified": true,
+      "author": "mjr",
+      "helpful_votes": 8,
+      "publication_date": 20200508
+    },
+    {
+      "title": "No notice of moving to subscription based",
+      "text": "Heads up for anyone thinking of buying Wink hub. I have been using it for a couple years now and happy with it but just received notice that in one week I have to start subscribing or everything stops working for the app and all that I have setup with it. Going to purchase the Samsung Smartthings to replace it so I will still be able to control my door lock.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "Laurel Englehardt",
+      "helpful_votes": 5,
+      "publication_date": 20200506
+    },
+    {
+      "title": "Buyer Beware... stay clear of wink!!",
+      "text": "Buyer beware!! Wink is not customer centric and support is limited and unavailable. Today out of the blue announced you must purchase a $4.99 monthly subscription or your device will be inoperable in 5 days. Dont waste your money!! Search wink online.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "Dawrench",
+      "helpful_votes": 7,
+      "publication_date": 20200509
+    },
+    {
+      "title": "I feel extorted",
+      "text": "All of a sudden, Wink sends an email that you have 3-day to subscribe or I will be locked out. I'm going to migrate to smartthings now but I have to subscribe for a month just so I have access to make the migration. Yeah, it's only $5 but it's going to take me a full day with all the switches and goodies I have.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "K Mathew",
+      "helpful_votes": 5,
+      "publication_date": 20200510
+    },
+    {
+      "title": "Wink is going down. 5 usd per month with 7 days notice.. Really??",
+      "text": "Do not buy they had offered the Wink as a free service and now with 7 day notice they will charge 5 usd per month or they will disconnect your devices of the plataform. Good bye Wink hello smartthings..",
+      "rating": 1.0,
+      "verified": true,
+      "author": "Amazon Customer",
+      "helpful_votes": 7,
+      "publication_date": 20200508
+    },
+    {
+      "title": "Do not buy!!",
+      "text": "DO NOT BUY!!! Was once good, with no fees....but now they are extorting all customers with only 7 days notice, that they will make it inoperable unless you now pay them $4.99 for each and every month!! I just switched hubs, to the Samsung SmartThings hub, and my lock and lights are working fine again, without Wink.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "ron k",
+      "helpful_votes": 5,
+      "publication_date": 20200513
+    },
+    {
+      "title": "3 Day warning before you start charging?!>!?!>",
+      "text": "3 years in, not a single update through the IOS app. Today you deiced to start charging $5 a month just to access the app on my phone, effective immediately....... The only thing I can think is that you are out of cash, this is a last ditch effort to stay afloat. Terrible, the only thing im signing up for is a spot on the class action lawsuit which will inevitably be coming soon.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "KJM 1st",
+      "helpful_votes": 5,
+      "publication_date": 20200510
+    },
+    {
+      "title": "DO NOT BUY",
+      "text": "BEWARE! Wink just notified all it's loyal customers (myself included) that in a week (May 13th 2020) that you will have to subscribe to their service for $5 a month or NONE of the features that have worked FOR YEARS, will work anymore. You're better off with a hub that ACTUALLY has no fees and won't pull a bait and switch DURING A PANDEMIC! People have already invested hundreds and sometimes thousands of dollars to get devices compatible with your hub then you get 7 days notice that you need to pay them $5 a month or redo your whole home automation. Wink is a sinking ship and your hub will be rendered useless shortly.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "Colleen R",
+      "helpful_votes": 5,
+      "publication_date": 20200508
+    },
+    {
+      "title": "Company with no Integrity",
+      "text": "Promised \"No subscription fees.\" Update, now they will charge a monthly subscription fee or your house goes dark. Not a fan of being held hostage, so time to go with a first class product from a first class company.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "Consumer",
+      "helpful_votes": 7,
+      "publication_date": 20200508
+    },
+    {
+      "title": "Moving on...",
+      "text": "99% of the time alexa cannot find my wink device. No updates . I am dumping this system and finding another smart home hub asap!",
+      "rating": 1.0,
+      "verified": true,
+      "author": "Mrs kelly",
+      "helpful_votes": 6,
+      "publication_date": 20200506
+    },
+    {
+      "title": "Wink now has a subscription fee per month.",
+      "text": "I bought wink hub in 2017 and have used it as a lights controller since that time. Today I received an email informing me that wink has \"changed to a subscription model\" and will now charge $4 per month beginning May 13 (2020). If I don't pay, my wink controller will no longer work after May 13. Please read the Consumer Reports article about this... you can find the article by just googling it. I view this as extortion... nothing less. I've already ordered a replacement. Even if you're willing to pay an extra fee per month, you may wish to consider whether wink is the kind of company you want to support.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "Joe Huff",
+      "helpful_votes": 4,
+      "publication_date": 20200510
+    },
+    {
+      "title": "Subscription?  Congrats on losing half your user base.",
+      "text": "loved this product but Wink decided to hold our automatons hostage with a subscription service and only a week to decide, well my decision is switching to Smarthings. DO NOT waste your money on Wink.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "Scott A. Williams",
+      "helpful_votes": 7,
+      "publication_date": 20200508
+    },
+    {
+      "title": "NEW MONTHLY FEE BEWARE",
+      "text": "Don\u2019t buy it. Starting May 13,2020 they are charging you a monthly fee. If you don\u2019t pay this fee your hub becomes a paper weight as they will turn all the integration off. They only gave all the customers a weeks notice. This is false advertising. The service has also been very spotty, they seem to have more and more outages.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "Ira Bearbower",
+      "helpful_votes": 6,
+      "publication_date": 20200506
+    },
+    {
+      "title": "Do NOT buy Wink products",
+      "text": "I have had this product for 3 years and it worked most of the time and would have rated it 4 stars. Today I received an email stating in 3 days I can start paying a monthly fee or they will turn off my service. They gave me no time to evaluate my options. So I have decide I can live without Wink automation while I evaluate other options. Look elsewhere.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "Kindle Customer",
+      "helpful_votes": 4,
+      "publication_date": 20200510
+    },
+    {
+      "title": "AVOID - Deceptive practices",
+      "text": "I was surprised by Wink when I got an email saying that I had a week to start paying them for a subscription or the hub advertised as being fee-free and not requiring a subscription would be worthless. I was an early adopter and upgraded to the newer hub. I get that business strategies change but when you entice people to buy and then switch the rules, then you have unhappy customers. You grandfather the current customers and charge the new ones.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "Bruce Wayne",
+      "helpful_votes": 4,
+      "publication_date": 20200511
+    },
+    {
+      "title": "7-day notice to go from free to $5 subscription",
+      "text": "Increasingly buggy with repeated service outages working with Alexa. On May 6, 2020, they announced that in one-week you'll have to pay $4.99 a month or have a bricked device that works only as a boat anchor. Look elsewhere because this is a dead product from a company clearly in a financial dire situation. There are just too many other functional options out there.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "Bruce Keever",
+      "helpful_votes": 4,
+      "publication_date": 20200506
+    },
+    {
+      "title": "Bait and Switch - Beware",
+      "text": "Marketed and promoted as \"No monthly or subscription fees.\" On 5/6, they sent a notice to users stating that in 7 days, their devices would no longer be accessible unless you signed up for a monthly subscription plan. Buyer be ware.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "Dan Rivito",
+      "helpful_votes": 6,
+      "publication_date": 20200506
+    },
+    {
+      "title": "NOT Compatible with the latest Schlage Connect Deadbolt!!!!",
+      "text": "First - Customer Support closed for the weekend!! Really??? Update: I finally got through to support the next week. The newest version of the SchlageConnect Deadbolt (BE-469ZP) is NOT compatible with the Wink Hub. It will allow you to open and close the deadbolt but it will not allow you to set up user codes because they haven't developed the firmware to make it happen. And they have NO IDEA when they will. So why in the world does everyone say this all works??? So deceptive!",
+      "rating": 1.0,
+      "verified": true,
+      "author": "Darlene E. Gerry",
+      "helpful_votes": 5,
+      "publication_date": 20190817
+    },
+    {
+      "title": "Run.. don\u2019t walk.. away",
+      "text": "DON\u2019T DO IT!! We purchased this item just over a year ago when we lost Iris from Lowe\u2019s as this was 1 of 2 hubs that worked with our thermostat and seemed to work fine most of the time, glitchy on occasion. Now we get an email with 3 days notice that If we want to continue using this expensive hub, that we have to pay for a monthly subscription!",
+      "rating": 1.0,
+      "verified": true,
+      "author": "A. Muns",
+      "helpful_votes": 4,
+      "publication_date": 20200510
+    },
+    {
+      "title": "Awful product. No support. No updates.",
+      "text": "Update: They just forced a five dollar subscription on us. So it\u2019s no longer free. Consider sixty dollars a year in subscription fees From 2018: There are many issues with wink. I have 2. They are no longer updating the features. For example, imagine you want to say \u201cif door 1 and door 2 are close for longer than 30mins each, do this\u201d There is no way to do that. They don\u2019t support \u201cand\u201d function. Only \u201cor\u201d functions are supported.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "Crazy shopper",
+      "helpful_votes": 4,
+      "publication_date": 20190831
+    },
+    {
+      "title": "Bait and Switch",
+      "text": "We bought this device in January of 2018 specifically because it stated \"no subscriptions.\" We paid more for this device despite lower ratings than others so as not to have a subscription fee. This week the company announced to all owners that we have one week to start paying $60/year to keep the product working. I have now joined the Wink Class Action Lawsuit Facebook page and will purchasing a new smart home hub today.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "Betsy",
+      "helpful_votes": 4,
+      "publication_date": 20200510
+    },
+    {
+      "title": "Wink now requires a $5/month subscription",
+      "text": "Wink has notified all Wink users that they must sign up for a $5/month subscription by 5/13. If not, this is what they will do: \"Should you choose not to sign up for a subscription you will no longer be able to access your Wink devices from the app, with voice control or through the API, and your automations will be disabled on May 13. Your device connections, settings and automations can be reactivated if you decide to subscribe at a later date.\"",
+      "rating": 1.0,
+      "verified": true,
+      "author": "Tom",
+      "helpful_votes": 3,
+      "publication_date": 20200510
+    },
+    {
+      "title": "Buyer Beware Wink is dishonest",
+      "text": "Two years after buying this product with the guarantee of \"no subscription fees\" they have now given customers a one week notice to cough up ransom or they'll disable your product. Do not trust or use them. I'll be replacing them immediately and never buying from them again.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "BPKC",
+      "helpful_votes": 4,
+      "publication_date": 20200513
+    },
+    {
+      "title": "Do not buy.  It was a ok choice, until they decided to force everyone to pay.",
+      "text": "Very disappointed to hear I only had a week to pay the new monthly fee or all my devices would stop working through the app. Also, there has not been any updates in quite some time.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "Nate",
+      "helpful_votes": 5,
+      "publication_date": 20200511
+    },
+    {
+      "title": "Wink software a weak link.",
+      "text": "The Hub itself is stable and consistent in function setup with z-wave devices is quirky. In my case it involved bypassing the automated linking, entering exclusion mode and rapidly pressing the sensor link button multiple times (10 or 15)\u2019 then repeating in inclusion mode. The wink software is clunky and non-intuitive. Robots are powerful, but modifying or deleting robots is 20th century clunky. I think it would make a good base for an automated. Home system in the hands of a professional installer, but you\u2019d need to be patient to set it up as a beginner, and be willing to have communication with the sensor and wink tech support. Needs better software interface...",
+      "rating": 3.0,
+      "verified": true,
+      "author": "mkeamy",
+      "helpful_votes": 5,
+      "publication_date": 20171219
+    },
+    {
+      "title": "Rip off",
+      "text": "Did not connect all of my devices. Thermostat kept disconnecting so i finally hooked it to my echo. The wink hub is now going into the trash now that they are requiring a subscription. Ive had it since 2017 and i dont see how they can force you to pay or kill your device. I can see that if they came out with a new version and only required it on the new version. I would have never bought it if i knew.",
+      "rating": 2.0,
+      "verified": true,
+      "author": "bryan",
+      "helpful_votes": 4,
+      "publication_date": 20200506
+    },
+    {
+      "title": "Really glad I finally settled with the Wink Hub 2",
+      "text": "Really glad I finally settled with the Wink Hub 2. I used the Vero Plus and the Kwikset deadbolt but that system was constantly going off line and the deadbolt would lose connectivity. I switched to the Wink Hub 1 and a Schlage deadbolt and had much better connectivity. Decided to upgrade to Wink Hub 2 so I could have it hard wired into my router and since then I have not had any issues with losing connection. Satisfied customer with Wink Hub 2 and Schlage Camelot deadbolt. I use this at a vacation home so having reliable connectivity is critical so I can set and reset renter pass codes before and after check in.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Matt Ohlschlager",
+      "helpful_votes": 7,
+      "publication_date": 20161209
+    },
+    {
+      "title": "Now with New Monthly Fee! Yay!",
+      "text": "Now charges a monthly fee, with a one week notice. It's also 2-3x more expensive than competing products. I will be selling my Wink hub today and migrating to Samsung.",
+      "rating": 2.0,
+      "verified": true,
+      "author": "DallasTrek",
+      "helpful_votes": 4,
+      "publication_date": 20200507
+    },
+    {
+      "title": "They were good but no longer",
+      "text": "When I purchased this product it was with the promise of no monthly service fees. With one week notice this company changed the rules and is giving me a choice to pay a subscription fee or they will brick my hub. This is not a company that will be around for long and it is not a company you want to do business with.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "Don R.",
+      "helpful_votes": 3,
+      "publication_date": 20200512
+    },
+    {
+      "title": "Wink = POS Company",
+      "text": "Screw wink. This company sold me subscription free device years ago and now I'm being forced to pay a monthly fee so I can unlock my front door remotely (I only use it for one device)? Naw, I'm good. I won't ever pay a monthly fee to use my IOT devices, there is no reason too. Just bought Samsung's SmartThings device for less than the cost of a year of Wink service. I'm no fortune teller but I see bankruptcy and possible a possible class action lawsuit in the future. I hope both happen.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "Matt C.",
+      "helpful_votes": 3,
+      "publication_date": 20200726
+    },
+    {
+      "title": "After three years of use, can't recommend",
+      "text": "Unreliable. Been using for three years now and don't recommend it. Functionally relies on the hub connecting to the Wink service and that goes down every few months, rendering your device control unavailable. No way to control things when that happens. Very irritating.",
+      "rating": 2.0,
+      "verified": true,
+      "author": "P. Graff",
+      "helpful_votes": 3,
+      "publication_date": 20200419
+    },
+    {
+      "title": "Get ready for monthly charges on top of purchase cost",
+      "text": "Starting at $4.99 per month as of 5/13/2020. I would only expect them to raise it in the future to make up for lost customers. Not what I bargained for when I bought it, and I can only see it going up from there before they lose customers. If they want to sell subscriptions they should have been honest up front and said so. And then, maybe, given the hardware away as an inducement to subscribe. Not the backwards approach they have taken. Bad management. Buyer beware.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "Joe Van Steen",
+      "helpful_votes": 3,
+      "publication_date": 20200506
+    },
+    {
+      "title": "Little notice of terms change (extortion)",
+      "text": "I've had both generations of the Wink and am disappointed in the way the subscription transition is being made. I can understand the need to get recurring revenue to offset hosting costs, but the haste of the move shows bad faith toward users.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "Kindle Customer",
+      "helpful_votes": 4,
+      "publication_date": 20200510
+    },
+    {
+      "title": "Monthly service fees required",
+      "text": "Beware: now requires a $5/month subscription fee just to use this device.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "krayj",
+      "helpful_votes": 4,
+      "publication_date": 20200508
+    },
+    {
+      "title": "bait and switch",
+      "text": "Bought a Wink2 hub. No service fee. Worked for a year. Stopped working after that; support was not to be found. Nowww, new policy: we will let your hub work IF you pay us $5.00 every month. My loss- know where you can stick this Wink2 Hub!!",
+      "rating": 1.0,
+      "verified": true,
+      "author": "ChasD",
+      "helpful_votes": 3,
+      "publication_date": 20200506
+    },
+    {
+      "title": "Beware!! Zero customer service",
+      "text": "Could not log into app after subscribing online and entering payment information for $4.99 monthly service charge. Account not found on the website after logging out either. Password resets in app and on website did not work. 800 number did not work. Two questions at wink emails went on answered. Basically there is zero customer service and I\u2019m fairly certain it\u2019s a scam product. I am extremely disappointed that this was recommended by Alexa customer service. I have friends with hubs from other companies that do not charge a subscription fee MONTHLY and work fine.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "Kathaleen Cole",
+      "helpful_votes": 3,
+      "publication_date": 20200725
+    },
+    {
+      "title": "They start to force 4.99/month subscription",
+      "text": "\u201dShould you choose not to sign up for a subscription you will no longer be able to access your Wink devices from the app, with voice control or through the API, and your automations will be disabled on May 13. \u201c I brought this device at the price that I expect no additional fee. Now they say if I don't pay the monthly subscription, my wink hub will become garbage.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "zhouditty",
+      "helpful_votes": 3,
+      "publication_date": 20200510
+    },
+    {
+      "title": "Beware, subscription now required",
+      "text": "Beware, subscription now required. I have had this for a few years, works great and integrates with a lot of different brands. Hasn\u2019t ever been a subscription fee until now. Only two weeks notice, must subscribe or will stop working. See Wink site for details. Disappointing so little notice on a big change.",
+      "rating": 3.0,
+      "verified": true,
+      "author": "Jeff Parker",
+      "helpful_votes": 4,
+      "publication_date": 20200507
+    },
+    {
+      "title": "User beware!",
+      "text": "Wink has decided to implement a subscription model basically making this product less desirable and unusable after May 13, 2020 in less you sign up for their monthly service. This means NOTHING will be accessible, thru the Wink app or web access. Although the monthly subscription is Only around $4.99 per month, that cost no longer makes this Integration hub worth the extra expense. Sorry Wink, you lost another customer for life.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "Larry R",
+      "helpful_votes": 3,
+      "publication_date": 20200506
+    },
+    {
+      "title": "Devices worked with Smarthings, but not Wink Hub2",
+      "text": "I was very excited about the potential of Wink Hub 2. It does have a long list of devices that are guaranteed compatible, but outside of that list it is hit and miss. All my devices are within 2 years of release and were not included in the list of compatibility. I tried pairing as a generic z-wave devices and it either did not work or functionality was severally limited. I did call tech support and they were helpful, but could not resolve. All of my devices worked with smartthings",
+      "rating": 3.0,
+      "verified": true,
+      "author": "Sawdust King",
+      "helpful_votes": 3,
+      "publication_date": 20170209
+    },
+    {
+      "title": "Product is good, but the server that runs it is garbage",
+      "text": "Impressed at first, then over time made aware of the garbage server its connected to. The product itself is good, and I like the app interface, but it seems as if the server is constantly down making it difficult to use! Also after some research I found out that wink doesn't generate any income other than through hardware sells, making it a lofty goal to sustain the company long term (especially when the hardware acnt work when their servers are constantly going down!) thought the hub was pricey now I know why. Going to go back to the original plan of getting a Samsung smart hub. At least they have income other than just hardware.",
+      "rating": 2.0,
+      "verified": true,
+      "author": "Brett Eklund",
+      "helpful_votes": 3,
+      "publication_date": 20190510
+    },
+    {
+      "title": "Smart Home Hub with a Smart price",
+      "text": "Works well for me. Price is great - even better now after recent drop. It is easy to set up and has many compatible devices that pair reliably. I'd like to see a web interface in addition to the mobile app. The hub does have some lag time executing commands and reporting status on occasion. It doesn't give accurate time of sensor detection (at least with GoContol devices) Most notable lInked devices I use: GoControl door/window and motion sensors GoControl dimmer switch on recessed lights Commercial electric z-wave recessed trims Ring Doorbell Rachio irrigation controller Kidde smoke/CO detector I have not had any notable issues with the Wink Hub 2 and",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Mr. MomTop Contributor: Baby",
+      "helpful_votes": 2,
+      "publication_date": 20170521
+    },
+    {
+      "title": "Do Not Buy there are other hubs with no contracts",
+      "text": "Instead of enticing purchasers to do a monthly subscription with additional features force you to do a monthly subscription for features that were originally advertised as a benefit with the purchase of a hub. This is classic bait and switch and should become a class action lawsuit. I no longer get the services they advertised when I purchased this hub, I would like a full refund!",
+      "rating": 1.0,
+      "verified": true,
+      "author": "Amazon Customer",
+      "helpful_votes": 3,
+      "publication_date": 20201009
+    },
+    {
+      "title": "I use this with my Z-wave Bali blinds",
+      "text": "I'm taking off a star only because it has open and close reversed for my Z-wave Bali blinds. I have to close the blinds in the app to open them and vice versa. I do not have to use a Bali hub or anything, just the blinds, this hub, and the app. I thought I had to create a \"robot\" in the app to open/close the blinds at specific times and couldn't get that to work, but a call to their support taught me that a robot wasn't necessary and that I just had to create a schedule instead. The app was a little confusing at first.",
+      "rating": 4.0,
+      "verified": true,
+      "author": "JD",
+      "helpful_votes": 2,
+      "publication_date": 20170421
+    },
+    {
+      "title": "Monthly FEE",
+      "text": "Purchased 3 of these. One for myself and 2 others for family. Now after we spent the last 3 years integrating them into our homes, Wink decided to disable our hubs unless we pay them a monthly fee. Nothing on our homes work. I'm not paying the ransom. I'm opting out.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "Cinci",
+      "helpful_votes": 2,
+      "publication_date": 20200729
+    }
+  ],
+  "product_meta": {
+    "title": "Wink WNKHUB-2US 2 Smart home hub, White",
+    "rating": 2.2,
+    "feature_bullets": [
+      "VOICE CONTROL: Works with Alexa and Google Assistant (devices sold separately)",
+      "CONNECT ALL YOUR SMART DEVICES: Easily connect and manage your smart home ecosystem with Wink Hub 2. Compatible with all major smart home categories, including cameras & doorbells, lighting & locks, thermostats, sensors & alarms, appliances, speakers and more.",
+      "ONE SIMPLE APP: Control all your home\u2019s smart devices, no matter where you may be, using the Wink app on your smartphone. Set up shortcuts that let you turn off all your home\u2019s lights with a single tap or automatically turns up the thermostat when the front door is unlocked.",
+      "ULTIMATE COMPATIBILITY: Wink Hub 2 enables you to connect and control 400+ smart home devices, including those made by Nest, Philips, Ring, Ecobee, Go Control, Schlage, Sonos, Arlo, Yale and Chamberlain.",
+      "THE LARGEST PROTOCOL SUPPORT: Wink Hub 2 supports Bluetooth LE, ZigBee, Z-Wave, Kidde, and Lutron Clear Connect. Works with more smart home protocols than any other platform.",
+      "MULTIPLE CONNECTION OPTIONS: Setup your Wink Hub 2 via 5GHz Wi-Fi or included Ethernet port.",
+      "A monthly subscription fee of $4.99 is required (effective May 20, 2020)."
+    ],
+    "categories": [
+      "Home Automation Devices",
+      "Tools & Home Improvement",
+      "Electrical",
+      "Hubs & Controllers"
+    ],
+    "price": 68.99,
+    "specifications": {}
+  }
+}

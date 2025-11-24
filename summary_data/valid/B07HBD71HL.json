@@ -1,0 +1,954 @@
+{
+  "website_summaries": [
+    {
+      "verdict": "The YubiKey 5 has a tough build and offers excellent protection. It's not the most streamlined security key by Yubico, but this is a minor concern.",
+      "pros": [
+        "It\u2019s waterproof and crush-resistant, so it does a great job withstanding wear and tear",
+        "Mid-range price, yet it works similarly to the brand's 5 Nano model"
+      ],
+      "cons": [
+        "The unit sticks out a quite a bit from most USB slots, which can be awkward",
+        "Some issues with the setup process noted"
+      ],
+      "aspects": {},
+      "publication_date": "",
+      "rating": "",
+      "source": "bestreviews"
+    }
+  ],
+  "customer_reviews": [
+    {
+      "title": "Who is giving this 1 star?",
+      "text": "This key is awesome, VERY user friendly, unless you don't know how to insert a USB into your computer or turn on NFC on your phone (then you are in need of help beyond this key). Most if not all people can do these basic steps. I really can't believe the people giving this 1 star reviews, it's quite absurd. If you are serious about 2 factor authentication, then this is a great product!",
+      "rating": 5.0,
+      "verified": true,
+      "author": "BlackSwan",
+      "helpful_votes": 105,
+      "publication_date": 20190215
+    },
+    {
+      "title": "Support documentation is the worst I have ever seen.",
+      "text": "The documentation is just plain terrible! Sometimes you just go round and round without getting anywhere. Setting up the 2FA documentation makes no sense. How is the computer supposed to read the QR on the screen? I spent hours and days trying to set the key up before contacting support. The support service was among the best I have ever received. Chis and especially Daniele were just superb. Thank you guys your are stars. Following their help made the setup quite easy. Great product useless documentation.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "Michael Mansvelt",
+      "helpful_votes": 55,
+      "publication_date": 20190219
+    },
+    {
+      "title": "Easy to setup for LastPass",
+      "text": "Just about perfect. I used a previous Yubikey for a Chromebook and thought about this upgrade. It worked on the same Chromebook so I turned to Lastpass. Got it working on the same Chromebook, my Win 10 desktop, and my Android smartphone through NFC. No hassles.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Amazon Customer",
+      "helpful_votes": 43,
+      "publication_date": 20190202
+    },
+    {
+      "title": "not recommended for the regular user",
+      "text": "I spent a few hours, reading documentation. It comes with a website where you supposed to know which software you should download for the specific key you own? not user friendly. Yubikey is still too complicated for the average consumer, as it\u2019s not exactly a plug and play device. It is a great concept but I have my doubts, I will not install it or return it, hopping they'll provide in the future with an easy set up to work in my cell phone or pc.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "Zozo",
+      "helpful_votes": 36,
+      "publication_date": 20190202
+    },
+    {
+      "title": "NFC works great with Pixel 3",
+      "text": "Glad to see this model being offered on Amazon now. Worked great. Have it setup for my Google and Facebook account and a bunch of other sites through the Yubico authenticator app which works seamless with the NFC function of this Key. Will probably buy a 2nd as a backup key.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Efren Andalis",
+      "helpful_votes": 24,
+      "publication_date": 20190128
+    },
+    {
+      "title": "DON'T BUY IT",
+      "text": "Zero Stars Once you buy a key, then you need to pay more for premium LastPass and even more for a second key or - no back up. They don't make these issue clear until your key arrives!",
+      "rating": 1.0,
+      "verified": true,
+      "author": "Rob Dubois",
+      "helpful_votes": 15,
+      "publication_date": 20190212
+    },
+    {
+      "title": "It just works",
+      "text": "Getting the key out of the package was harder than actually using it. Zero issues. However, on Debian / Ubuntu / Mint (perhaps on RPM-based Linux distros too), you may have to add a udev rule (this wasn't my first rodeo, so I didn't need to...). If the key is flat-out just not recognized, then Google [ ubuntu /etc/udev/ rules site:support.yubico.com ] or similar. Note that this may (or may not) require some trial-and-error, some simple command-lines, minimal modifications to system configuration, perhaps \"intermediate\" level Linux; if \"nano\" (or \"vim\") and \"sudo\" are familiar words, then you're all set.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "True Builder",
+      "helpful_votes": 4,
+      "publication_date": 20190406
+    },
+    {
+      "title": "YUBICO HAS RANSOMWARED MY PC! TAKING LEGAL ACTION AGAINST THEM",
+      "text": "DO NOT BUY THIS!!! THEIR STUPID NEW WINDOWS LOGIN SOFTWARE FAILED OT REGISTER THE KEY WHEN I TRIED AND HAS NOW HIJACKED MY PC. I then turned off my pc and when i tried to log on the software took over and is now asking me for a key that doesn't exist. AS IT FAILED OT REGISTER THE KEY IT ALSO DIDN'T GIVE A BACKUP CODE SO CANT EVEN USE THAT! It has now ransomawared my PC!!! I have contacted a lawyer and will be taking legal action against you Yubico for negligence and the theft of all my vital data!! DO NOT BUY THIS PRODUCT!!! IT WILL LOCK YOU OUT OF YOUR OWN PC!",
+      "rating": 1.0,
+      "verified": true,
+      "author": "Full Exposure",
+      "helpful_votes": 4,
+      "publication_date": 20191020
+    },
+    {
+      "title": "You can't use it on Dashlane, without a paid Premium account",
+      "text": "I bought them primarily for two security accounts and while one worked, Dashlane does not allow \"free Premium trial\" users to use U2F authentication. The keys setup is easy and work very well with websites that incorporate U2F authentication. You really have to look on Dashlane's website to find this limitation, whereas the restriction on using the Premium VPN is clearly indicated. I believe in try before you buy and my Dashlane experience was not desirable, I'm looking forward to finding and using these YubiKey 5 NFC keys on other sites for hardware secondary authentication.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Lou. S",
+      "helpful_votes": 2,
+      "publication_date": 20190606
+    },
+    {
+      "title": "Terrible customer service by Yubico.",
+      "text": "Great item and safe but very tecnical if you like to change your settings. Yubico customer service is terrible. No phone to get help with. All by email it takes 24 to 48 hrs to be answered. Great idea but the company has a long way to go with customer service.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Rod Guimaraes ",
+      "helpful_votes": 6,
+      "publication_date": 20190131
+    },
+    {
+      "title": "Works well, easy to set up",
+      "text": "This is my first Yubikey and I'm happy with it. It was easy to set up and it works reliably. At first I had a little trouble using it with my iPhone but that was my fault - when touching it to the back of the phone it needs to be at the top. It's sturdy enough to carry around in my purse and hasn't been damaged. I keep it on a separate key ring with a little wrist lanyard so it's easy to find. I would buy one of these again. My workplace is making us use our personal cell phones for 2FA and I wish they'd use these instead!",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Rebecca",
+      "helpful_votes": 2,
+      "publication_date": 20200218
+    },
+    {
+      "title": "If you think this is going to work with LastPass, be sure you have the premium plan",
+      "text": "I purchased this to use with LastPass as a master password and physical form of 2FA, little did I know that you needed a premium LastPass account. I just cancelled my premium LastPass account because it QUADRUPLED in price in one year. i wish I would have read about this a bit more since this version of the Yubico key is the only one that works with LastPass. I would have just stuck with my original Yubikey. Great idea but nothing supports it. so I wasted 50 bucks on something I can't use.",
+      "rating": 2.0,
+      "verified": true,
+      "author": "Brent L",
+      "helpful_votes": 2,
+      "publication_date": 20191007
+    },
+    {
+      "title": "Wouldn't live without it",
+      "text": "In this day and age: Security of your online information will be/is paramount. Initial setup was a bit confusing (I'm using some of the extra features available from the key), however, marrying it to your online accounts is super easy! -- We need more companies to utilize these security tokens as a means for account log-in/security.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "David",
+      "helpful_votes": 3,
+      "publication_date": 20190914
+    },
+    {
+      "title": "Plug and play",
+      "text": "Absolutely love. I recently decided to make the switch to a yubikey and completely overhauled my internet security. I installed LastPass backed with thus yubikey in lieu of 2FA texts wherever offered.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Becky A.",
+      "helpful_votes": 3,
+      "publication_date": 20200505
+    },
+    {
+      "title": "Genuine? Or Fake product????",
+      "text": "I purchased two keys. BOTH keys have identical serial numbers. Each serial is printed on the back. It would be reasonable to conclude one is genuine the other is not genuine or has been tampered. BOTH keys had ONE or both slots filled with data. BOTH came in what appeared to be original packaging.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "Matt Nicholson",
+      "helpful_votes": 4,
+      "publication_date": 20200519
+    },
+    {
+      "title": "Increases security, limited support by third parties",
+      "text": "SIGNIFICANTLY more secure than SMS based MFA. I use this to protect Last Pass, Google, Vanguard, Facebook, Dropbox, and a few other top tier services. With LastPass it results in an additional level of access control as well as passwords being double encrypted. I have a NFC key and the mini key so if one is lost or broken I'm still able to access my accounts. The biggest problem is while there is a good number of companies that do support it many services still don't (more and more will support it as hardware key support is becoming more standard).",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Jason",
+      "helpful_votes": 0,
+      "publication_date": 20190725
+    },
+    {
+      "title": "Better security than smartphones",
+      "text": "Security keys provide much better multi-factor security than the options available for smartphones. Texting is highly insecure and the authentication apps are vulnerable to any security flaws your phone may have. It's unfortunate that not all services allow security keys as a 2FA method, and some sites even have flawed implementations (even Facebook and Google), but that's not the fault of the product. I currently use my Yubikey with Dropbox, Google, Twitter, and KeePass. You can check Yubico's website to see which service's support Yubikeys. One thing to consider when purchasing a Yubikey is what features you'll need. There are some cheaper options such as the Security Key NFC that doesn't have all the features of the YubiKey 5.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Billy",
+      "helpful_votes": 0,
+      "publication_date": 20190513
+    },
+    {
+      "title": "I trust Yubikeys..",
+      "text": "I have had several Yubikeys now going back many years and I've never had an issue with them. When the v5 NFC came out I had to get one as a spare/replacement for my older v4 NFC authenticator. These just work for many 2FA (Two Factor Authentication) whether it be for my mobile device, home, and work desktops, or even just securing source code on various sites around the web (GIT, Sourceforge, Github, etc). As long as I'm in IT (20+ years ongoing) and there is a need for strong 2FA; I'll trust Yubico.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Richard B.",
+      "helpful_votes": 0,
+      "publication_date": 20191116
+    },
+    {
+      "title": "Don't try to protect your windows login. Not ready for Windows 10",
+      "text": "Not ready for production. Don't try to protect your windows login. Software is not ready. Works great for websites. Zero support. Your totally on your own",
+      "rating": 1.0,
+      "verified": true,
+      "author": "D. L.",
+      "helpful_votes": 3,
+      "publication_date": 20200507
+    },
+    {
+      "title": "Secure accounts now, yeah",
+      "text": "I have Google account using it. Works with Ubuntu Linux, not recommended for a Linux Rookie. The web pages for documentation helps. The numerous YouTube videos really helped setting up with various items. Security of my accounts are worth the $45. Works with Keeper password manager. In total I have my Google Account, Ubuntu Linux, Firefox Chrome, and my Keeper Password Manager configured to use YubiKey.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "CCM",
+      "helpful_votes": 0,
+      "publication_date": 20200504
+    },
+    {
+      "title": "Get This Now",
+      "text": "If you're serious about securing your access to various sites and services, you'll look into getting the YubiKey. I like the NFC edition which can also be used via USB, maximum flexibility. Set up is easy and the instructions are uncomplicated and easy to follow. I wanted to provide 2-factor access to my laptop, but it looked involved so I begged off for now until I can concentrate to follow the process. With support of various applications (such as LastPass and BitWarden among others), this is a must-get for anyone serious about maintaining a secure presence online.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Fred Woodbridge",
+      "helpful_votes": 0,
+      "publication_date": 20190725
+    },
+    {
+      "title": "What's not to love?",
+      "text": "In a world where MFA is critical this device surpasses expectations. The pro and the con is sometimes I have a hard time finding it in my pocket, but it always ends up there :-D It has never not performed, was incredibly easy to setup, and well no one has hacked into my account, sounds like the ideal measurement of success.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Trace W.",
+      "helpful_votes": 2,
+      "publication_date": 20191203
+    },
+    {
+      "title": "I wish more websites/applications utilized security tokens!",
+      "text": "Average Joe here: My credit union doesn't quite have the tech to accept security tokens, and neither does Capital One or Chase. Boooo! Gmail also accepts Yubikey (security tokens), which is important since password resets go through there. Once more financial institutions get on board with Yubikey, life will be more secure. Until then, this product is ahead of its time!",
+      "rating": 5.0,
+      "verified": true,
+      "author": "M Strong",
+      "helpful_votes": 0,
+      "publication_date": 20190924
+    },
+    {
+      "title": "Works for Gmail but will ONLY work in google chrome. Does NOT work for yahoo; yahoo is outdated",
+      "text": "It\u2019s absolutely necessary. It\u2019s amazing that most have not a clue how vulnerable they are. Hackers routinely compromise accounts in various forms and phones/recovery emails aren\u2019t enough to protect your account. If someone wants you bad enough, they\u2019ll compromise your account. But if your a person that just wants extra protection and a physical device to get into your account, this is it. It works for numerous avenues besides emails and I highly recommend using it for all other accounts that allow it. PLEASE NOTE: you can use it for gmail but will ONLY work in google chrome. It also does NOT work for yahoo as they have the weakest of security of mega-email providers.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Mr Clean",
+      "helpful_votes": 0,
+      "publication_date": 20190718
+    },
+    {
+      "title": "Has all the features I need",
+      "text": "I originally bought the blue security key and quickly discovered that its capabilities were limited so I upgraded to this key. This key has been great. You can download the YubiKey Configuration application and customize this key to provide both one-time password and static password support. I feel that this key can do it all. I would highly recommend this security key if you are serious about staying secure.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Michael C. Rockwell",
+      "helpful_votes": 0,
+      "publication_date": 20191123
+    },
+    {
+      "title": "requires browser tracking",
+      "text": "For being a security product, you would think they wouldn't require browser tracking to work for you to use their product. Sad. Definitely 1 star since I can't use the product unless it's enabled.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "not_the_mamma",
+      "helpful_votes": 4,
+      "publication_date": 20191220
+    },
+    {
+      "title": "Fragile - Snaps like a twig - Quickest way to lose access to your system - FAIL",
+      "text": "This could be a great product. The problem is the cheap plastic case is super fragile and snaps like a twig when bumped wrong. Until they make this product with a solid billeted aluminum body, I would avoid it.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "John C. Westra",
+      "helpful_votes": 4,
+      "publication_date": 20200304
+    },
+    {
+      "title": "Works, but sadly the world isn't using it much yet.",
+      "text": "It works just as it's supposed to. The only issue I have is with how few services on the web or an Android apps will actually support it. Fine for use with Google login, and with Vanguard. Despite me being a very online guy, that's about it... You cannot protect, for example, individual apps on your phone, nor lock down Gmail, etc.",
+      "rating": 4.0,
+      "verified": true,
+      "author": "Larry in FL",
+      "helpful_votes": 0,
+      "publication_date": 20190907
+    },
+    {
+      "title": "Safe secure",
+      "text": "This device is good for both mobile phones (with the NFC feature) and the desktop with the USB. Basically you plug it in then various websites will use the device for one time codes. I use it for websites such as gmail and other such devices. Think of 2FA but much more secure. The ease of use is pretty simple, just plug it in and it becomes a keyboard device, hit the button, and it generates the one time code. Most websites will just detect the token and you can go from there.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Glenn",
+      "helpful_votes": 0,
+      "publication_date": 20190331
+    },
+    {
+      "title": "Almost perfect",
+      "text": "This is my third Yubikey. I can't think of anything negative about it other than I would rather have the USB-C version. But it's not out yet. But I needed it for my iPhone. Too bad the iPad can't use it as well since they don't have NFC. The perfect Yubikey would have Lightning and USB-C connectors and NFC. Until then, this is worth it for now, and then it can be the backup in the Safe Deposit Box.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Eric W",
+      "helpful_votes": 0,
+      "publication_date": 20200826
+    },
+    {
+      "title": "A must have piece of tech for anyone worried about security!",
+      "text": "This little usb stick is a super convenient way to up the security on all your accounts that have compatibility. I use it on all the sites I have that are compatible with it. It's also a nice touch that you can use it with your android phone for additional security. I'm so happy that I can feel safer with my online activity with 2fa knowing that I'm using at least one piece that no hacker could ever get their hands on.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "KJSOARES2",
+      "helpful_votes": 0,
+      "publication_date": 20190406
+    },
+    {
+      "title": "Good security",
+      "text": "It\u2019s ready to go if you are using this directly as a security key with various sites like google, coinbase exchange, etc. The authentication app is awesome as it stores the private key on the yubikey device instead of your phone, but the app doesn\u2019t work with iPads (FYI if you have one). If you are planning to use his key as a way to log into Windows, then it can be a challenge to setup. Took me a bit since there is a learning curve but overall I\u2019m very happy with this product. Makes me feel good that my logins are secure.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Amazon Customer",
+      "helpful_votes": 0,
+      "publication_date": 20200628
+    },
+    {
+      "title": "Good product, though a little confusing on installation",
+      "text": "Overall, a good product and works well for a windows login security key. A little confusing on the process for getting it installed correctly and if you are not careful, could brick your computer. Read the directions several times before installing.",
+      "rating": 4.0,
+      "verified": true,
+      "author": "D. D. Sauder",
+      "helpful_votes": 0,
+      "publication_date": 20190701
+    },
+    {
+      "title": "Great for Security",
+      "text": "If you care about security, look no further. Once you figure it out, the Yubikey is very easy to use, and adds an extra line of security (one that a phone number, or email simply cannot provide). For 2FA (or u2f) this key is easy to use, and can hold almost infinite websites. For an increase in security, I would highly recommend this product. (It\u2019s super easy to use on a phone too!)",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Devon Adams",
+      "helpful_votes": 0,
+      "publication_date": 20200818
+    },
+    {
+      "title": "A Second Layer of Protection",
+      "text": "I thought this would work like Google Authenticator or Authy app but it doesn't. I wanted to add a 2nd layer of protection to my accts and banking with the NFC feature on this key, but the setup is confusing and doesn't give any obvious indication that it's working... of course I have a new S10e so I may not be using it correctly. If necessary I'll update this post.",
+      "rating": 4.0,
+      "verified": true,
+      "author": "Chryssy67",
+      "helpful_votes": 0,
+      "publication_date": 20200211
+    },
+    {
+      "title": "BUY TWO!",
+      "text": "I love these things for FIDO U2F authentication and I use them whenever and wherever I can. HOWEVER, PLEASE BUY TWO! Or at least buy just another U2F only key like the Yubico Security Key. Then wherever you register your key, make sure your register BOTH and hide the second key away somewhere safe. If you ever lose your key you will have a backup key that still works on those sites to authenticate. If you only have one and you lose it, it can make authenticating more difficult or impossible on those websites.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Marlene",
+      "helpful_votes": 0,
+      "publication_date": 20200626
+    },
+    {
+      "title": "Better Windows security, but can't use NFC capability in Windows as much as I had hoped.",
+      "text": "I love the 2-factor authentication for Windows. Now you need three things: username, password, and have the Yubikey to login to my Windows PC. The only thing I DON'T like is the fact that I can't use an NFC reader for Windows logon. I MUST plug the Yubikey into a USB port. However, the NFC feature DOES seem to work when authenticating a browser login with MS Edge.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Mike F.",
+      "helpful_votes": 0,
+      "publication_date": 20200229
+    },
+    {
+      "title": "I feel so much secure now",
+      "text": "If you're security conscious, the Yubikey is a must have (or something similar). I have two Yubikey linked to my password account in case I loose one so I can still access it with the other one and revoke the one I lost.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Francois P.",
+      "helpful_votes": 0,
+      "publication_date": 20200604
+    },
+    {
+      "title": "Not as useful as I thought it would be",
+      "text": "I bought two of these with the idea of using them in place of 2FA apps (I have Google Auth, Microsoft Auth, Okta Verify, and countless text message-based sites). Problem is that many products and websites don't support the key and the ones that do require going through hoops and extra software. They've both been sitting in a drawer, the second one is unopened because the first one was pointless.",
+      "rating": 2.0,
+      "verified": true,
+      "author": "BJ",
+      "helpful_votes": 0,
+      "publication_date": 20200912
+    },
+    {
+      "title": "Get the key its worth it",
+      "text": "Great if you want a physical 2 fator authentication method. Only suck on phones if they are not nfc compatible and some app like coinbase don't support the keys on mobile phones. Beyond that would highly recommend for security. For someone being into I.T work and cyber security. Help keep the ones not welcome to your accounts out and work amazing with lastpass. Makes the punch in protect harder then a jaw breaking punch.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Ikilzu",
+      "helpful_votes": 0,
+      "publication_date": 20191115
+    },
+    {
+      "title": "Does not work with google account over my Android cellphone so useless really PC no problem though.",
+      "text": "I do like this product but it needs better adoption with phone and internet services. I can read the keys with with NFC on the phone but it does not interconnect with google like with my desktop and laptop. So regardless your phone is always at risk. I guess this works with some phones \"I guess new phones\" so i suspect I would need to blow a load of cash on a new phone I don't really need to use it. The idea was nice but failed for me in the end.",
+      "rating": 3.0,
+      "verified": true,
+      "author": "Ronald N. Hoffman",
+      "helpful_votes": 0,
+      "publication_date": 20190222
+    },
+    {
+      "title": "Best Product comes with worst documentation and support",
+      "text": "I really like what Yubico offers but it is not for common people use. 0. No way you can register your key for warranty and support. You are in luck if you have got one 1. Good Product with Zero documentation 2.No or little help on the site 3.too much advertisement on their product compatibility but everything comes with lot of setup challenges. 4.Manufacturer decided that we can go to a URL and figure our things on our own. 5.NFC support is not there for iOS 6. You cannot use it with a dongle",
+      "rating": 3.0,
+      "verified": true,
+      "author": "Senthilkumar Manickavelu",
+      "helpful_votes": 0,
+      "publication_date": 20190919
+    },
+    {
+      "title": "No community forum?!",
+      "text": "It works but not all my accounts supports yubico. This is not yubico's fault, just FYI. What is yubico's fault is they no longer have a user forum. That's a bummer. I like having a user to user forum than just tech support alone. In terms of value, I've seen competing products selling for almost half price but they sold out quickly.",
+      "rating": 4.0,
+      "verified": true,
+      "author": "Piu",
+      "helpful_votes": 0,
+      "publication_date": 20200119
+    },
+    {
+      "title": "I Feel Safer Already",
+      "text": "I understand the difficulty people have with the Yubikey. Depending on your needs, it can be difficult to find the right path to your resolution. However, tech support has been very good with me and I have been able to use the Yubikey to achieve MFA for my company. I highly recommend the Yubikey and have already bought myself one and a backup for my personal use. I'm using mine with LastPass.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "J. D. Hyde",
+      "helpful_votes": 0,
+      "publication_date": 20190605
+    },
+    {
+      "title": "Does not work.",
+      "text": "I bought it to lock my email so it could only be accessed by my home computer. I set it up as directed by their web site, which is not easy to use, and it just did not work. Set up went fine, but email never asked for it. Basically it does nothing at all. Their is no customer support. Waste of time and money.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "The Kos",
+      "helpful_votes": 2,
+      "publication_date": 20200322
+    },
+    {
+      "title": "Works as advertise",
+      "text": "Cons: \u2022 Expansive. \u2022 Doesn't come with any case or lanyard. just the USB. Pros: \u2022 Just plug&play. \u2022 Looks Great on a keychain",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Roni. R",
+      "helpful_votes": 3,
+      "publication_date": 20190406
+    },
+    {
+      "title": "Good for products that support it",
+      "text": "It works well for the applications that support it. Unfortunately, most of the things I want to use it for don't support a physical security key. I'm hoping in the coming months/years more companies start integrating their 2fa features with Yubikey",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Ryan",
+      "helpful_votes": 0,
+      "publication_date": 20201017
+    },
+    {
+      "title": "Product's Quality Problem.",
+      "text": "I just got it today, and I have found that it seems to have a problem during the production. I didn't use it yet, but I think it might be still well functional. However, I'm a little disappointed about the QC. PS. I have to use it ASAP so I think I couldn't send it back to you for the claim. (By the time of this review is written, I don't even know that \"is it claimable or not.?\").",
+      "rating": 4.0,
+      "verified": true,
+      "author": "Pongsakorn Wechakarn",
+      "helpful_votes": 2,
+      "publication_date": 20200207
+    },
+    {
+      "title": "Best 2FA I've ever used.",
+      "text": "This is my favorite find on Amazon. I have purchased several of these over the years, and find it an essential tool for work and personal use. Thanks for a great product.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "TimeIsMoney",
+      "helpful_votes": 0,
+      "publication_date": 20200907
+    },
+    {
+      "title": "No quick start guide available.",
+      "text": "Consider the complexity involved, there should be some quick startup guides, instead of relying on open-source community.",
+      "rating": 3.0,
+      "verified": true,
+      "author": "sigp226",
+      "helpful_votes": 2,
+      "publication_date": 20200425
+    },
+    {
+      "title": "Terrible product",
+      "text": "It is not easy to use. I have been asking for help for two months and nothing from the company. If you are not a large company making a purchase from Yubico forget it. They simply do not care. $50 is a lot of money for a product that is simply not plug and play easy.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "Rick Sutherland",
+      "helpful_votes": 2,
+      "publication_date": 20200204
+    },
+    {
+      "title": "Works great with my iphone X",
+      "text": "This is my second Yubikey. These things are great. I highly recommend. It's a big plus that I can use it with the NFC reader on my iPhone X.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Mitch Carlson",
+      "helpful_votes": 2,
+      "publication_date": 20191122
+    },
+    {
+      "title": "Key works as expected",
+      "text": "Key works as expected with supported applications including MS login process. Worried about it being worn out or breaking, so purchased a second key. Would be nice it company had a package deal for buying a backup key. Had key for 4+ months, no issues with primary key.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "David Newsom",
+      "helpful_votes": 0,
+      "publication_date": 20200713
+    },
+    {
+      "title": "Still don't know what this is supposed to do",
+      "text": "So I've left it in the drawer until I have time to figure it out. It seems I have to make changes in other stuff, which at the moment is not of interest to me, and I still don't understand what this darn thing is supposed to do. The company does not explain itself very well.",
+      "rating": 2.0,
+      "verified": true,
+      "author": "Mac Townsend",
+      "helpful_votes": 0,
+      "publication_date": 20190323
+    },
+    {
+      "title": "Not a huge amount of support unless you're in tech",
+      "text": "You can use it on your Google account, your Github account, your AWS account, and a few other places, but overall the industry adoption of hardware keys hasn't expanded much outside of the tech industry. There's maybe two or three banks in the whole U.S. that support it, according to Yubico's website at least. None of that is the fault of this YubiKey 5 NFC however. It seems very solidly built, I'm not worried about carrying it around on my keychain forever.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Chris",
+      "helpful_votes": 0,
+      "publication_date": 20190813
+    },
+    {
+      "title": "Works like a charm",
+      "text": "I love my 2fa key. I found it easy to setup after checking their website for some additional information. It's not plug and play for most uses but anyone who is tech inclined with even mild command line experience should have no problem using it for many of its features. Very satisfied.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Shane B.",
+      "helpful_votes": 0,
+      "publication_date": 20191219
+    },
+    {
+      "title": "Works very well... for workflows that support it",
+      "text": "Really like the usability and design of the Yubikey (in addition to the security benefits of hardware-based authentication). My main gripe is less with the key itself but more around the current landscape of FIDO support, as there are still many common workflows where you can't use the Yubikey (i.e. many financial institutions still don't support non-email/sms MFA; I've also run into workflows where I have to authenticate into a FIDO compliant application through a non-FIDO supported browser... which was frustrating), so you'll likely still have to resort to less secure methods of MFA (which is still better than nothing) in the near future.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Vince Ye",
+      "helpful_votes": 0,
+      "publication_date": 20191226
+    },
+    {
+      "title": "Good idea, but there's no widespread use",
+      "text": "MFA using a Yubikey makes me feel a lot better than the one time passwords (OTP) that only contain 6 digits sent to your phone or email. However, not many apps support Yubikey. I bought it hoping I'd use it, but it's been months and I've used it maybe once for Google mail. Hopefully banks will start to support these devices one day.",
+      "rating": 4.0,
+      "verified": true,
+      "author": "ae1429",
+      "helpful_votes": 0,
+      "publication_date": 20190714
+    },
+    {
+      "title": "Very poorly written instructions",
+      "text": "I haven't used my Yubikey, because it is impossible to understand the leaflet that accompanies it. I use usernames and passwords for some things, and I use Google authentication on others. Where does Yubikey fit into this. Is it supposed to be in place of a password or a Google authentication, or in addition to them? How can one know that, by slotting one's Yubikey into one's computer USB slot, one is not risking cancelling one's existing passwords or authentications? Could Yubikey please take the trouble to locate someone whose mother tongue is English and ask him to write a complete guide to using Yubikey? It is exasperating to have to try to decipher Chinese English. Thank you.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "Mike Altmann",
+      "helpful_votes": 0,
+      "publication_date": 20190726
+    },
+    {
+      "title": "Good 2FA key",
+      "text": "Easy to set up and very useful for increasing security. Sometimes even though I\u2019ve set up 2FA with this key a program won\u2019t prompt me for the key, but I think that\u2019s an issue with those programs and not with this key. The touch verification works well and is a nice feature.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "B4E1",
+      "helpful_votes": 0,
+      "publication_date": 20200224
+    },
+    {
+      "title": "Works great on Windows and Linux",
+      "text": "Just wish they were cheaper. Maybe the competition from Google will drive some innovation in the HSM market. These don't replace passwords but they do things passwords can't, and they're the only way to get sufficient security for some cases. I should probably buy another one soon - Don't want to be locked out of my Gmail account if I lose one. $50 feels like a lot but heck it'll probably last years.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Tr.",
+      "helpful_votes": 0,
+      "publication_date": 20200821
+    },
+    {
+      "title": "Protect yourself!",
+      "text": "These are expensive little tools, but honestly a great deal considering the peace of mind they give you. Everything works as expected. Many people reviewing yubikeys complain about the workflow or versatility, but that\u2019s just a trade off you need to consider when implementing this level of security.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Carson",
+      "helpful_votes": 0,
+      "publication_date": 20190526
+    },
+    {
+      "title": "Works great with AWS",
+      "text": "I specifically purchased this item to use for 2FA on AWS. No problems at all getting it up and working, and now my AWS account is safer than ever.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "JustAGuy",
+      "helpful_votes": 0,
+      "publication_date": 20191014
+    },
+    {
+      "title": "Very easy to use, carry",
+      "text": "I use my Yubikey on every website I can. The NFC works well. I wear it on a ribbon necklace and it hasn't shown any wear due to that. I wish I'd known that it was a good idea to buy two, though. One for primary use, and one as a backup in case you lose the first one.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Rachel",
+      "helpful_votes": 0,
+      "publication_date": 20200216
+    },
+    {
+      "title": "Robust and wide range of services",
+      "text": "The key appears to be very robust and durable. For basic use it is easy to use, while it is not so easy to understand every functions it has. I was not able to use it with microsoft account but I'm not sure if it is my fault or if it is not compatible. Regarding NFC capability it needs a smartphone with a lot of \"power\" in radio NFC transmision. With my samsung s9 NFC only work if S9 is connected to power supply. I would buy again but I would choose the USB-C version",
+      "rating": 4.0,
+      "verified": true,
+      "author": "Homeronzolo",
+      "helpful_votes": 0,
+      "publication_date": 20190621
+    },
+    {
+      "title": "Simple to use.",
+      "text": "Works great, but hadvto have grandson set it up. Took him ten minutes. He had never seen one before, nor had I...",
+      "rating": 5.0,
+      "verified": true,
+      "author": "WG",
+      "helpful_votes": 0,
+      "publication_date": 20200307
+    },
+    {
+      "title": "Not liking this yet",
+      "text": "Can't use this with the free version of LastPass. Kind of useless to me since I don't want to pay for LastPass. I will probably end up returning this.",
+      "rating": 2.0,
+      "verified": true,
+      "author": "Brad",
+      "helpful_votes": 0,
+      "publication_date": 20200304
+    },
+    {
+      "title": "Works great",
+      "text": "Works great and is easy to use. I did not see in the reviews anyone talking about having to touch the metal part on the key in order to activate it each time under windows. But it is still convenient. For IOS I just place it behind the phone and it activates",
+      "rating": 5.0,
+      "verified": true,
+      "author": "M. Husseini",
+      "helpful_votes": 0,
+      "publication_date": 20200221
+    },
+    {
+      "title": "Makes me feel more secure online.",
+      "text": "Works great with Google & Facebook. Unfortunately not all sites allow YubiKey devices as 2FA. Only complaint I have, and it's a minor one., is that when the device is inserted into my Mac's USB port and I tap it to authenticate, the device bobs up and down. I am worried that after time the USB tab might break. But it is a great product, and when I can afford it in my budget I will look into getting a different YubiKey device. I feel much more secure online now.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Samuel Foster",
+      "helpful_votes": 0,
+      "publication_date": 20200730
+    },
+    {
+      "title": "Don't lose it?",
+      "text": "Yubikey has been simple to use for all of our team members, fortunately. It's a durable little key, compatible, and straightforward. If you're looking at it, you should already know what it does. If you need it, go for it. I personally prefer the Nano but one of our people likes this one better.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "KE",
+      "helpful_votes": 0,
+      "publication_date": 20190507
+    },
+    {
+      "title": "Very Nice Key",
+      "text": "I have not been hacked yet. The combination of this key and a password manager is very strong. A chain is only as strong as its weakest link. Now hackers could only access my accounts through specific website vulnerabilities, a keylogger, and or beating me with a pipe until I tell them my master password while having my yubikey.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "James Stephen Pope",
+      "helpful_votes": 0,
+      "publication_date": 20200911
+    },
+    {
+      "title": "Useless for mobile",
+      "text": "I am way beyond your average tech consumer, and while this works quite well on my laptop, it is utterly useless on my mobile devices (yes, I know how to turn NFC on). That renders it useless for me. Note: my experience is related to LastPass - if I can't get LP to authenticate on my devices, I have no use for LP, but since LP is critical for me, YubiKey, you're in the tech junk bin.",
+      "rating": 2.0,
+      "verified": true,
+      "author": "Bob",
+      "helpful_votes": 0,
+      "publication_date": 20190317
+    },
+    {
+      "title": "Fantastic security upgrade. Easy to use once you get the hang of it.",
+      "text": "It may be a little tricky for non-technical users to get comfortable with it, but the increased security is worth it. Remember to keep a spare in another location!",
+      "rating": 5.0,
+      "verified": true,
+      "author": "R. Clark",
+      "helpful_votes": 0,
+      "publication_date": 20190501
+    },
+    {
+      "title": "Not for every one",
+      "text": "May not be suitable for any body having average knowledge on computers . Construction could have been better .",
+      "rating": 4.0,
+      "verified": true,
+      "author": "Nadeem khawaja ( wermany ) ",
+      "helpful_votes": 0,
+      "publication_date": 20190720
+    },
+    {
+      "title": "I wish I would have bought one sooner",
+      "text": "Everything that I wanted in a security device. Small, easy to use. I wish I would have bought one sooner.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "AmazonCustomer",
+      "helpful_votes": 0,
+      "publication_date": 20200529
+    },
+    {
+      "title": "Great Extra security factor",
+      "text": "The key very useful but 2 things bothered me. The key to work on windows you have to log in locally. And will not work if you log in with Microsoft account.. After I bought it I discover in the instructions manual that you need 2 keys not one for buck up.. And this was not mentioned clearly on the page ofYubico.",
+      "rating": 4.0,
+      "verified": true,
+      "author": "Amin",
+      "helpful_votes": 0,
+      "publication_date": 20190314
+    },
+    {
+      "title": "Awesome U2F product",
+      "text": "Love this product for enhanced U2F protection. Works great with LastPass. Simply use this hardware token in place of the SMS short code for more security. Note: Consider buying 2 of these (primary/backup) in case you lose one.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "TX Geek",
+      "helpful_votes": 0,
+      "publication_date": 20190917
+    },
+    {
+      "title": "Do you want to protect yourself? This is how you do it!",
+      "text": "As an IT Security Practioner, this is an absolute must! So easy to use and so secure!",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Amazon Customer",
+      "helpful_votes": 0,
+      "publication_date": 20191025
+    },
+    {
+      "title": "Secure your life",
+      "text": "Security is important. I got this device to work with my LastPass account. It works as expected. I was not disappointed.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "SlySalimander",
+      "helpful_votes": 0,
+      "publication_date": 20190411
+    },
+    {
+      "title": "Future Now 2fa security.",
+      "text": "New Tech security. Works with PC, and Mobile phones NFC active. Takes a bit to get used to using another gadget. Buy 2 of these Keyring and Home. You will be happy you did. Use a VPN. PIA works great.. security set. Don't blindly open and click links.. verify or trash it.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Dontbesheepthink4urself",
+      "helpful_votes": 0,
+      "publication_date": 20200206
+    },
+    {
+      "title": "Don't lose the key",
+      "text": "For those of you who don't know, a security key is a relatively new concept that makes for additional security. This additional security guarantees that no one will be able to access your personal information, unless they have the physical key. This can be used to login to your gmail account, protect finances; but if you lose the key you can't log in to your account anymore. Great security, may not protect you from an online attack though",
+      "rating": 5.0,
+      "verified": true,
+      "author": "GypsySocks",
+      "helpful_votes": 0,
+      "publication_date": 20190705
+    },
+    {
+      "title": "Great for the extra security",
+      "text": "Using a yubikey is way better than typical 2FA methods like SMS or TOTP. I use this for work and it does what I need it to do. Touch feature ensures nothing in the background can authenticate without you realizing.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Harlie",
+      "helpful_votes": 0,
+      "publication_date": 20190724
+    },
+    {
+      "title": "Yubikey 5 NFC",
+      "text": "It's a great product works great protecting my personal laptop and most of my accounts fb,amazon,outlook and so on I had troubles the first day trying to configuring my account but after some research I was able to do it",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Jorge Chancay",
+      "helpful_votes": 0,
+      "publication_date": 20200517
+    },
+    {
+      "title": "NOT compatible with Windows Hello",
+      "text": "The device itself works great, but I bought it thinking I would be able to use it to sign in to Windows 10 on my devices. But it is just a U2F key and cannot be used with Windows Hello. Also, most websites will only prompt for the USB key as part of two-factor authentication - you still have to enter your account password. So I really don't understand how it enables \"passwordless\" authentication like Yubico claims it does.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Sagar Limaye",
+      "helpful_votes": 0,
+      "publication_date": 20200209
+    },
+    {
+      "title": "Works Great",
+      "text": "Kinda held back due to the reviews saying it doesn't work and etc. But don't listen to them, it works and it works great! Easy to incorporate into accounts that allow 2FA and overall great device to use for extra security.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "glenta3924",
+      "helpful_votes": 0,
+      "publication_date": 20190725
+    },
+    {
+      "title": "This made me not hate the 2-factor authentication",
+      "text": "I hated 2-factor authentication ESPECIALLY when it comes to Microsoft logins. But now, since I just have this plugged into my computer, I absolutely love the convenience of being able to log in without too much user input while still being secured. Works as advertised. I would definitely recommend this to anyone asking.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Dylan Studio",
+      "helpful_votes": 0,
+      "publication_date": 20200628
+    },
+    {
+      "title": "Just get one",
+      "text": "In fact, get a couple and start using them if you really want your accounts to be secure. I have 3; 1 that stays at home, 1 that is primarily for work, and 1 that is on my keychain and moves with me. Highly recommended and easy to set up with your Google/Facebook/etc accounts.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Chris",
+      "helpful_votes": 0,
+      "publication_date": 20191109
+    },
+    {
+      "title": "Good product, just want more apps covered",
+      "text": "To use this product with IPhone IOS it is frustrating and not easy to figure out. I actually want it to provide protection to my outlook, and my HP Spectra but neither has panned out so far. Overall though, Gmail accounts, Last Pass account and some Microsoft products are covered. Easy to use with those.",
+      "rating": 4.0,
+      "verified": true,
+      "author": "Andy P",
+      "helpful_votes": 0,
+      "publication_date": 20201009
+    },
+    {
+      "title": "Works with Mac and iPhone",
+      "text": "I have other security keys, but none of them work with my iPhone. This one does. I attached a USB C adapter to it with electrical tape for my Mac. It supports PIV and OTP which I like a lot.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Amazon Customer",
+      "helpful_votes": 0,
+      "publication_date": 20191229
+    },
+    {
+      "title": "Great product",
+      "text": "I\u2019ve always loved YubiKeys and this one didn\u2019t disappoint. It\u2019s durable enough to live on my key ring, in my pocket with a dozen other keys. Despite constant abrasion from the other keys, it has no sign of wear. The apps work as described, which is great. There\u2019s support for some of the smart card apps on iOS. Overall, I love this product and will probably stick with YubiKey for my HSM needs.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Michael Johnson",
+      "helpful_votes": 0,
+      "publication_date": 20200209
+    },
+    {
+      "title": "Very Durable",
+      "text": "I think it is probably a great product. I just have not been able to figure out how to use it. I know it would enhance the security of my online logins. Just wish I could figure it out.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Melissa H",
+      "helpful_votes": 0,
+      "publication_date": 20200221
+    },
+    {
+      "title": "Durable, simple, secure, widely accepted",
+      "text": "I purchased the 5 NFC with it Nano companion. Both are very durable, easy to use, secure, and most security sites I\u2019ve used accept them. I\u2019m mot a tech savvy cybersecurity expert and configuration difficulty was moderate to simple setup.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Tariq Sr",
+      "helpful_votes": 0,
+      "publication_date": 20200102
+    },
+    {
+      "title": "Exactly as described",
+      "text": "Yubico makes a great security key and PIV / smartcard. It took me seconds to setup two factor authentication on my primary accounts. A few minutes later I also had my encryption keys and SSH key securely locked away.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Justin Giorgi",
+      "helpful_votes": 0,
+      "publication_date": 20190727
+    },
+    {
+      "title": "Great product",
+      "text": "Functionality: Great, flawless. works great with all my accounts. Price: I wish it was a bit cheaper...",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Ts.Tr",
+      "helpful_votes": 0,
+      "publication_date": 20200522
+    },
+    {
+      "title": "Works as expected.  Bought 3 and I use them with LastPass.",
+      "text": "I use these with LastPass to store unique credentials for hundreds of sites. When 2FA is enabled in LastPass, if I happen to lose my Yubikey, or if I don't have it with me, I can bypass it and LastPass will fall back to 2FA. Faster than 2FA.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Judd Dare",
+      "helpful_votes": 0,
+      "publication_date": 20190705
+    },
+    {
+      "title": "Won\u2019t work and customer support is devious",
+      "text": "On iOS on yubico Authenticator app after nfc I get this error, status error returned by key. After I contacted customer support via email they asked me a bunch of questions and auto closed the ticket They won\u2019t give me back my money and are devious. I would suggest not buying.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "Anand",
+      "helpful_votes": 0,
+      "publication_date": 20200612
+    },
+    {
+      "title": "Solid device with fantastic support from company.",
+      "text": "There's wide support for a variety of systems. Using it on Fedora and can administrate it with an AppImage binary. I installed it right in my system manually because I know how to, but be advised that they don't have an rpm package for the yubikey manager gui app. The key itself is well-made and yubico even has a list of every major company compatible with it, as well as how they use it. It supports every standard you can think of, and I'm trying to use as many of them as I can. If I feel the need for a back up key, I would definitely buy another one.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Brenton Poke",
+      "helpful_votes": 0,
+      "publication_date": 20200212
+    },
+    {
+      "title": "Great product",
+      "text": "Came on time & works well. I actually bought 2 more of these for the family. Very happy with it. Wish the other software companies would get on board with this tech!",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Long Gone",
+      "helpful_votes": 0,
+      "publication_date": 20191109
+    },
+    {
+      "title": "Yubikey - Fantastic security",
+      "text": "Ease of setup with lastpass. Setup with GMail more difficult (not intuitive), had to shut down all 2FA before instituting the key - Be careful of relisting a 2nd method in case the Yubikey is lost or destroyed.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Amazon Customer",
+      "helpful_votes": 0,
+      "publication_date": 20190810
+    },
+    {
+      "title": "Not sopported much by iOS and complicated to figure out",
+      "text": "Way too complicated for setup for iOS iPhone 11 everyday user. Also does not seem to provide any critical support and only very self iOS programs recognize... overall not happy",
+      "rating": 1.0,
+      "verified": true,
+      "author": "norcal*buyer",
+      "helpful_votes": 0,
+      "publication_date": 20200113
+    }
+  ],
+  "product_meta": {
+    "title": "Yubico - YubiKey 5 NFC - Two Factor Authentication USB and NFC Security Key, Fits USB-A Ports and Works with Supported NFC Mobile Devices - Protect Your Online Accounts with More Than a Password",
+    "rating": 4.6,
+    "feature_bullets": [
+      "SECURITY KEY: Protect your online accounts against unauthorized access by using 2 factor authentication with the Yubico YubiKey 5 NFC security key. It's the world's most protective USB and NFC security key that works with more online services/apps than any other.",
+      "FIDO: The YubiKey 5 NFC is FIDO certified and works with Google Chrome and any FIDO-compliant application on Windows, Mac OS or Linux. Secure your login and protect your Gmail, Facebook, Dropbox, Outlook, LastPass, Dashlane, 1Password, accounts and more.",
+      "FITS USB-A PORTS: Once registered, each service will request you to insert the YubiKey PC security key into a USB-A port and tap to gain access. NFC-ENABLED: Also get touch-based authentication for NFC supported Android and iOS devices and applications. Just tap & go!",
+      "DURABLE AND SECURE: Extremely secure and durable, YubiKeys are tamper resistant, water resistant, and crush resistant. The YubiKey 5 NFC USB is designed to protect your online accounts from phishing and account takeovers. Proudly made in the USA.",
+      "MULTI-PROTOCOL SUPPORT: The YubiKey USB authenticator includes NFC and has multi-protocol support including FIDO2, FIDO U2F, Yubico OTP, OATH-TOTP, OATH-HOTP, Smart card (PIV), OpenPGP, and Challenge-Response capability to give you strong hardware-based authentication."
+    ],
+    "specifications": {
+      "Manufacturer": "Yubico",
+      "Brand": "Yubico",
+      "Item Weight": "0.106 ounces",
+      "Product Dimensions": "0.71 x 1.77 x 0.13 inches",
+      "Item model number": "Y-237",
+      "Is Discontinued By Manufacturer": "No",
+      "Number of Items": "1",
+      "Size": "YubiKey 5 NFC",
+      "Manufacturer Part Number": "Y-237",
+      "ASIN": "B07HBD71HL",
+      "Customer Reviews": "4.6 out of 5 stars1,678 ratings4.6 out of 5 stars",
+      "Best Sellers Rank": "#25 in USB Gadgets",
+      "Date First Available": "September 17, 2018"
+    },
+    "categories": [
+      "Computers & Accessories",
+      "Electronics",
+      "USB Gadgets",
+      "Computer Accessories & Peripherals"
+    ],
+    "price": 45.0
+  }
+}

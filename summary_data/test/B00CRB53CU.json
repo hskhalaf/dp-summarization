@@ -1,0 +1,542 @@
+{
+  "website_summaries": [
+    {
+      "verdict": "Once again, Synology raises the bar in the prosumer/SMB NAS space. The DS1813+ retains the hardware power of its predecessor, the DS1812+, with its excellent write and read speeds. The updated DiskStation Manager 4.3 interface is a storage joy.",
+      "pros": [
+        "Excellent Write speed",
+        "Record-breaking Read speed",
+        "Four GB Ethernet ports for aggregation and high availability",
+        "Rich, user-friendly UI",
+        "Expanded feature set"
+      ],
+      "cons": [
+        "Still skimpy on memory for the price"
+      ],
+      "aspects": {},
+      "publication_date": 20131211,
+      "rating": 10.0,
+      "source": "pcmag"
+    }
+  ],
+  "customer_reviews": [
+    {
+      "title": "AWESOME server. Very dependable and allows you so much ...",
+      "text": "AWESOME server. Very dependable and allows you so much control over your raid and system. I really love the DSM operating system. Very stable and easy to use. I've not lost data now for 2 years and going strong. I also like the easy backup with the USB ports. You can hook in an external drive and setup automated, incremental backups. Easy and free that step of your mind. Will buy Synology for the rest of my life. Also Synology support is very good! They help you right away and are friendly.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Chris",
+      "helpful_votes": 0,
+      "publication_date": 20170912
+    },
+    {
+      "title": "Great price/performance ratio for pro-sumers!",
+      "text": "Purchased this to replace a DS1513+....I wanted to leverage SSD Caching, which by Synology spec, requires 2 SSD Drives. As the 5-bay model would only allow for 3 bays to be used, and I prefer RAID 6, well, testing confirmed I needed more bays - hence the DS1813+. Performance is great for the price point. Sure, for 100x the cost, I could get a 3Par and get 10x the performance (have one at work) - but, then I'd have to feed the 3Par all that power and tolerate all the noise and heat. Contrast, this box is nearly dead silent and eats very little power.",
+      "rating": 4.0,
+      "verified": true,
+      "author": "jenksdrummer",
+      "helpful_votes": 0,
+      "publication_date": 20150203
+    },
+    {
+      "title": "This is a pretty nice device with many features",
+      "text": "This is a pretty nice device with many features. However, Synology\u2019s support is awful. If you call them for support, they will ask you to go through their web documentation which is very old and irrelevant or they will ask you to send them an email with your issue. If you are lucky someone will get back with you. I never got my issue resolved and I don\u2019t think Synology support team cared. They just send me an email how sorry they were. That is why I am given them 2 stars. Someone from Synology needs to look at their support manager and staff. They are really really really really bad.",
+      "rating": 2.0,
+      "verified": true,
+      "author": "S",
+      "helpful_votes": 2,
+      "publication_date": 20150111
+    },
+    {
+      "title": "Keep on rocking Synology!",
+      "text": "I've had this for over 10 months at this point. I've been through several updates (with no issues), and the software just keeps improving consistently. The interface for managing the device is the best I've ever seen. From quick ids, to cloud syncing with google drive; from backing up with rsync to the excellent android apps, I just love this NAS. It continues to put a smile on my face 10 months later, and I'm very much looking forward to expanded features (surveillance station!) and continued usage for years to come. Seriously, if you're on the fence about which NAS to buy, go for this one. These guys are getting it right.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "rlankford",
+      "helpful_votes": 0,
+      "publication_date": 20141110
+    },
+    {
+      "title": "Can't go wrong with this NAS",
+      "text": "I've had this NAS for about a week. The software is excellent and I've been playing around with the different packages available. When the NAS is converting files it can use close to 100% of the CPU which kind of concerns me. I was looking at a QNAP because of the better hardware but recommendations from friends and coworkers pointed me in this direction. I'll update the review after I have several users accessing the NAS at the same time.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Ken S.",
+      "helpful_votes": 0,
+      "publication_date": 20140515
+    },
+    {
+      "title": "Couldn't be happier. I would have preferred larger hard drives",
+      "text": "Couldn't be happier. I would have preferred larger hard drives, but 24 TB is nothing to sniff at. Besides with Synology's Ultra RAID, you can replace a drive at a time with a larger unit until you've swapped them all. Easy to use interface, and it emails me to warn when updates are ready to install. It sure is nice to have all of my music, pictures, videos, and selected documents available no matter where I am. I can get to them from my Android phone, iPad, and laptop when far away from home.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "DalGoda",
+      "helpful_votes": 0,
+      "publication_date": 20150208
+    },
+    {
+      "title": "we researched various NAS's to find one that would be easy to deploy and maintain",
+      "text": "When our SnapServer brand NAS started to show signs that it was on its last leg, we researched various NAS's to find one that would be easy to deploy and maintain. The Synology DiskStation seemed to fit the bill. After filling it up with 8 x 3TB hard drives in a RAID 10 setup we were all ready to see what all the fuss and glowing reviews were about. From the minute we walked through the setup interface we became true believers. After having been subjected to SnapServer's archaic, non-intuitive interface, the Synology DiskStation was a breath of fresh air.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Mike B.",
+      "helpful_votes": 0,
+      "publication_date": 20150225
+    },
+    {
+      "title": "I am very happy with the free software and updates that Synology provides",
+      "text": "I've been using the 8 bay Synology NAS box with (6) 4TB drives for over a year with no problems. It is the fastest NAS I have used, and will saturate a gigabit Ethernet connection. The expansion boxes seem overpriced for what they are. I am very happy with the free software and updates that Synology provides. Much easier to maintain and cheaper than running a dedicated MS server.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Steve Masuch",
+      "helpful_votes": 0,
+      "publication_date": 20150511
+    },
+    {
+      "title": "I <3 my Synology!",
+      "text": "I love, love, love my Synology DiskStation!! This thing has so many features that it is almost too good to be true! If you have never used a Synology, they come with a very intuitive GUI and they offer their own applications. In addition, the Synologys can be configured for iSCSI to block, CIFS, and NFS! I loved this NAS so much that I decided to purchase 2!",
+      "rating": 5.0,
+      "verified": true,
+      "author": "chris",
+      "helpful_votes": 0,
+      "publication_date": 20141102
+    },
+    {
+      "title": "Game Changer. But Not for Newbies",
+      "text": "This is the best thing I ever did for my household. This unit is great and the software is super easy to use. That being said, I am pretty tech savvy. There are some things that I had to tinker with to work properly. Probably shouldn't get this if you don't know, or don't know where to look to learn about port forwarding or DDNS.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Rory",
+      "helpful_votes": 2,
+      "publication_date": 20140623
+    },
+    {
+      "title": "Recent upgrade from 1512 to 1813+",
+      "text": "I do love these units. I must admit however that the noise (which is a known issue from the Synology forums) has continued from the previous versions (1812) to this newer model. It is disappointing that Synology hasn't invested in a better PSU fan which from all accounts is the culprit. Changing a PSU fan is not rocket science, but often requires soldering and arguably a bit beyond most hobbyists. That cost you a star Synology.",
+      "rating": 4.0,
+      "verified": true,
+      "author": "Mets",
+      "helpful_votes": 0,
+      "publication_date": 20140306
+    },
+    {
+      "title": "It's Synology.... so it just works",
+      "text": "Very fast NAS that is capable of saturating a 1Gbps network. I have mine setup as a Plex server and I can see a big difference in the processing speed compared to my other older Synology models. The new DS 5.0 software that runs on these is very nice. Hopefully Synology adds an option to add an internal caching SSD in future products.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "TheCrazyCanuck",
+      "helpful_votes": 0,
+      "publication_date": 20140517
+    },
+    {
+      "title": "Very fast, very quiet, runs cool, Great interface.",
+      "text": "Speed, speed, speed. In SHR2 mode (6 disks storage, 2 disks parity) this thing averages close to 120MB/sec. Crushing the pair of 6 year old NAS NV+ (speed of 25MB/sec) which it replaces. The interface is a breeze to use and the add-on packages add lots of additional functionality to it (web server, photo server, audio/visual server, programming languages [Python, PERL, etc.]",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Adam",
+      "helpful_votes": 0,
+      "publication_date": 20131106
+    },
+    {
+      "title": "Not sure. RAID 6 gives me half the 32TB storage. I think.",
+      "text": "Not for noobs. Had hoped it would be compatible with wifi. AFAIK, it's Ethernet only. Lots of reading ahead before I decide how to set it up for safe storage and smart shares of 6 devices.",
+      "rating": 4.0,
+      "verified": true,
+      "author": "G E B",
+      "helpful_votes": 0,
+      "publication_date": 20160322
+    },
+    {
+      "title": "Home/Small Business NAS - Can't be beat",
+      "text": "The functionality of this device is beyond description. Access is fast. I have it stocked with 8 3TB Seagate drives. I use it to provide iSCSI LUNs for my Hyper-V server as well as a media server for video throughout my house. Streaming multiple HD 1080p streams, moving data to/from and server I/O all at the same time. The CPU rarely runs above 25-30%. I did add the additional 2Mb RAM, but the memory usage is also minimal. Highly recommend!",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Steve Boone",
+      "helpful_votes": 0,
+      "publication_date": 20140410
+    },
+    {
+      "title": "Excellent NAS, not perfect though",
+      "text": "Love the hardware and the software. Very easy to get started and setup users and shared folders. Going on to the advanced features, a intermediate technology enthusiast may need to read up on some IT guides. Works great as a media server to iTunes but not to Apple TV. You can store media on the NAS and drop them into iTunes on a Mac which should stream to AppleTV but using Wifi between one of the devices results in long buffer times.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "G-Von",
+      "helpful_votes": 2,
+      "publication_date": 20130802
+    },
+    {
+      "title": "Excellent buy for the money",
+      "text": "I have been pleased with this unit. It allows adequate connectivity flexibility to work within the variety of virtualization technologies that I utilize. For the price it would be difficult to find fault with purchasing this device. I periodically get significant IO wait states, when doing migrations, mostly, but I am currently only running it with 3 3TB Seagate Barracudas. I am hoping for some good deals on Black Friday, or Cyber Monday, on the Seagate drives. I don't really need the storage space, but I am hoping that adding more drives will help to quash the IO Wait states.",
+      "rating": 4.0,
+      "verified": true,
+      "author": "Leslie R. Thomas",
+      "helpful_votes": 0,
+      "publication_date": 20131123
+    },
+    {
+      "title": "Almost perfect",
+      "text": "Great system, I only wish Synology had a few more programs to make it more like a windows server. The ability to host multiple websites from the device would be great like IIS 8.0 but its not quite there yet. You can do small websites in wordpress or something but not true multi-site serving.",
+      "rating": 4.0,
+      "verified": true,
+      "author": "Clint Banning",
+      "helpful_votes": 0,
+      "publication_date": 20150227
+    },
+    {
+      "title": "Another winner from Synology.",
+      "text": "I love the changes from the 1812 to this one. Disk installation for 3.5\" disks was incredibly easy. They now have \"strips\" that keep the drives in place without having to screw in four screws to keep each drive in its tray. Fantastic product, and I'll continue to order more.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "D. Stephen Haynes",
+      "helpful_votes": 0,
+      "publication_date": 20131002
+    },
+    {
+      "title": "Loaded with WD RED drives they are good performers. There is a newer model with a ...",
+      "text": "I purchased 2 of these and they perform well. Loaded with WD RED drives they are good performers. There is a newer model with a faster processor now.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Mike",
+      "helpful_votes": 0,
+      "publication_date": 20151225
+    },
+    {
+      "title": "Does far more than I expected",
+      "text": "Worked flawlessly. Had many more functions than I expected. I crammed it immediately with 7 4TB WD Red drives. Biggest issue is that it will take me a long time to figure out all of the things it can do above a beyond a simple NAS.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "E Baines",
+      "helpful_votes": 0,
+      "publication_date": 20140401
+    },
+    {
+      "title": "Straight foreword and easy to manage",
+      "text": "Set this up as an 8 drive x 4Tb Raid 6 system. Quick and easy to configure out of the box. I had it up and running with 24Tb of raw space in under 1 hour. Slight workmanship issue on the drive doors not closing all the way, but a lock provided will keep them closed. This has no affect on performance.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Ed Ladner",
+      "helpful_votes": 0,
+      "publication_date": 20130918
+    },
+    {
+      "title": "GREAT PRODUCT",
+      "text": "You get what you pay for. The Synology costs more than comparable products, but is well worth it. I have tried devices from WD, Seagate & Buffalo Tech and none of them compare to the Synology. Highly recommend.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Barry Kucher",
+      "helpful_votes": 0,
+      "publication_date": 20140413
+    },
+    {
+      "title": "A very nice unit and it works well",
+      "text": "A very nice unit and it works well, but you could buy a generation old server with redundant power supplies and 8 bays for less, just make sure your controller card will work with it.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Jason M. Maximovich",
+      "helpful_votes": 0,
+      "publication_date": 20141015
+    },
+    {
+      "title": "Great NAS",
+      "text": "Great product and easy to set up. Awesome as a file server. I purchased this for a VM ESXi server and after a little bit of playing around it worked perfectly. The only reason I only gave it a 4 is because although you can team the network adapters, the overall data transfer rate is a little slow.",
+      "rating": 4.0,
+      "verified": true,
+      "author": "B H",
+      "helpful_votes": 0,
+      "publication_date": 20140713
+    },
+    {
+      "title": "Powerful, extensible, flexible.  I have owned a few models over the years and will buy again.",
+      "text": "Bought this one to replace a very aged DS508. Great software and great community. Lots of plugins for customized behavior, and the ability to log in to the Linux OS itself and hack around if needed is nice.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Daniel Einspanjer",
+      "helpful_votes": 0,
+      "publication_date": 20131226
+    },
+    {
+      "title": "Too Easy!",
+      "text": "Absolutely astonishing that I could put together and configure Feature Rich NAS Device with 38TB usable disk space in under an hour for less than $3500, using WB RED 6TB SATA Drives.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "JC",
+      "helpful_votes": 0,
+      "publication_date": 20141030
+    },
+    {
+      "title": "Best NAS I've ever owned",
+      "text": "Best NAS I've ever owned. Rock solid years later and always up to date.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Shareef Yousef",
+      "helpful_votes": 0,
+      "publication_date": 20161117
+    },
+    {
+      "title": "Synology raid devices are the best in class",
+      "text": "Synology raid devices are the best in class. Strongly recommend. Humor4fun.tumblr.com and you can read a how to I wrote on setting one up.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Humor4Fun",
+      "helpful_votes": 0,
+      "publication_date": 20150529
+    },
+    {
+      "title": "Does everything I need and more.",
+      "text": "Very happy as an upgrade from my Thecus N7700. Great GUI and lots of options for customization. Use with VMware test environment.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "TheRedDog",
+      "helpful_votes": 0,
+      "publication_date": 20140201
+    },
+    {
+      "title": "Great product!",
+      "text": "Far more easy to use and set up then expected. It is perfect for our office and current setup. I highly recommend this product!",
+      "rating": 5.0,
+      "verified": true,
+      "author": "DinoNuggets",
+      "helpful_votes": 0,
+      "publication_date": 20140307
+    },
+    {
+      "title": "Synology is an outstanding unit for a NAS.",
+      "text": "Synology is an outstanding unit for a NAS. Rock Solid Performance. Sergio Handal.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Sergio Handal Zalaquett",
+      "helpful_votes": 0,
+      "publication_date": 20141006
+    },
+    {
+      "title": "Synology isn't just hardware they sell a solution and a great one at that",
+      "text": "changed, the way I thought about NAS, used to build my own and use other software to run the drives. Synology isn't just hardware they sell a solution and a great one at that.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Vincent M.",
+      "helpful_votes": 0,
+      "publication_date": 20141117
+    },
+    {
+      "title": "Slow formatting drives and waking up, but great otherwise",
+      "text": "An awesome high storage, backed up solution. I haven't tried all the bells and whistles for the software yet but as a media storage/backup solution I've been super pleased 3 months in..",
+      "rating": 4.0,
+      "verified": true,
+      "author": "Andrew Henderson",
+      "helpful_votes": 0,
+      "publication_date": 20131029
+    },
+    {
+      "title": "Fantastic NAS Unit",
+      "text": "Love the fact I can use this for multiple things at the same time. I have a network share for the home LAN, and also have a multipath iSCSI connection direct to my desktop PC as well. The third party applications you can run on it make it even more useful. Great interface, good device support, reliable and easy to setup. Will recommend without hesitation.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Zoid",
+      "helpful_votes": 0,
+      "publication_date": 20140224
+    },
+    {
+      "title": "Easy Peasy",
+      "text": "Easy set up and great features. I put 8 WD RED 2 TB drives in mine and it is running like a dream.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Brad B",
+      "helpful_votes": 2,
+      "publication_date": 20140615
+    },
+    {
+      "title": "Sweet!",
+      "text": "This NAS is just plain great. The interface, the hardware, itself and everything really is just awesome. I highly recommend this if you're in the market for a NAS.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Robert J. Grissom",
+      "helpful_votes": 0,
+      "publication_date": 20130909
+    },
+    {
+      "title": "2014 now and still going great. Reasonably simple to configure for various services",
+      "text": "***UPDATE*** 12/31/2018 5 years in, and it's still rock solid. No issues with the unit so far. I've replaced 3 drives due to normal wear and tear. Still handles all my homelab backups and TimeMachine duties flawlessly. I use CIFS to serve VM's to 2 separate Dell servers. Works great. Still no complaints. ____Original Review____ Purchased on December 17, 2013. August 4, 2014 now and still going great. Reasonably simple to configure for various services. DSM updates are frequent and vulnerabilities are patched quickly. Nothing negative to say about this device. It's handled everything I've thrown its way thus far.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "J. Hamm",
+      "helpful_votes": 2,
+      "publication_date": 20140804
+    },
+    {
+      "title": "I don't know hwo anyone can live without one!",
+      "text": "This does everything from home storage, photos, audio, video etc. Watches the disks to make sure your data remains in case of disk failure. So many additional options for simple and power users alike.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Elisdie",
+      "helpful_votes": 0,
+      "publication_date": 20140319
+    },
+    {
+      "title": "GREAT NAS for SMB",
+      "text": "I have two of these units deployed and I have to say - they are FAR better for business use than the Drobos I have deployed in business locations. The active directory integration lets me create shares for use on the network without having to pony up for server licensing and I don't lose the granular control that windows sever provides. The built in backup options are robust and varied -- though be sure to test each method before going live as some are less dependable than others. Definitely a product I would recommend.",
+      "rating": 4.0,
+      "verified": true,
+      "author": "Leon Carpenter",
+      "helpful_votes": 0,
+      "publication_date": 20131229
+    },
+    {
+      "title": "Well worth the money",
+      "text": "Easy to work with, nice user interface, works well with WoL to turn on as needed. Supports iSCSI unlike some less expensive competitor models. Nice library of extension modules.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Greg Merrell",
+      "helpful_votes": 0,
+      "publication_date": 20140707
+    },
+    {
+      "title": "Great Product",
+      "text": "After researching NAS solutions for my home entertainment systems, I find this Synology DS1813+. Awesome product, easy access, great software, good support. Easy to manage and setup for average user.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Junaidi Irwan",
+      "helpful_votes": 0,
+      "publication_date": 20130908
+    },
+    {
+      "title": "Couldn't be happier",
+      "text": "I have two of these now (one at work). Very simple to setup and network. Loaded both with 3 TB drives and other than it taking forever to format (24 TB should be slow to format) I couldn't have been happier. Running Plex to stream my DVD collection at home. Works great. Tons of other built-in apps.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "G. Spearman",
+      "helpful_votes": 2,
+      "publication_date": 20140626
+    },
+    {
+      "title": "just right",
+      "text": "So far so good, lots of useful feature, I have had this NAS for 2 mtgs. Good size. It would be nice if Synology made this NAS in a rack mount without raping a person on the price!",
+      "rating": 4.0,
+      "verified": true,
+      "author": "Jwojo",
+      "helpful_votes": 0,
+      "publication_date": 20140210
+    },
+    {
+      "title": "If you want a NAS you want this NAS!",
+      "text": "While I have only had it for Two weeks it is even nicer than I had hoped. So far flawlessly. Yes I will definitely be buying another one",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Frank W. Fulton Jr.",
+      "helpful_votes": 0,
+      "publication_date": 20141106
+    },
+    {
+      "title": "I LOVE SYNOLOGY",
+      "text": "I had the WD Sharespace and was not happy. I LOVE SYNOLOGY why ... because it works and has many functions beyond what I normally use.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Amazon Customer",
+      "helpful_votes": 0,
+      "publication_date": 20130901
+    },
+    {
+      "title": "is super quite, and the DSM software is amazing",
+      "text": "It just works, is super quite, and the DSM software is amazing.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Y. Girdhar",
+      "helpful_votes": 0,
+      "publication_date": 20141103
+    },
+    {
+      "title": "Amazing!",
+      "text": "Works as advertised A+++++ will be ordering more :) Installed 5 - 3TB WD RED drives and will be adding more later on.. Recommend!",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Irakli Tskhadadze",
+      "helpful_votes": 0,
+      "publication_date": 20140130
+    },
+    {
+      "title": "Best NAS, excellent private cloud solution",
+      "text": "A real piece of technology. The best NAS solution with an incredible price and support. I really recommend it.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Kevin Monsalvo",
+      "helpful_votes": 0,
+      "publication_date": 20140715
+    },
+    {
+      "title": "I love it",
+      "text": "100 times better than our old system. Super fast and really easy set-up.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Patrick Black",
+      "helpful_votes": 0,
+      "publication_date": 20140909
+    },
+    {
+      "title": "Just buy it already!",
+      "text": "I've been working in IT for years. This is one of the best buys on the market. I loaded mine up with many 4TB Enterprise class WD4000F9YZ disks.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "IT Guy",
+      "helpful_votes": 0,
+      "publication_date": 20140923
+    },
+    {
+      "title": "Simply the best available!",
+      "text": "A must have for anyone wanting to stream audio, video, pictures or any other type of media. A a a",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Michael Lleverino",
+      "helpful_votes": 0,
+      "publication_date": 20131220
+    },
+    {
+      "title": "Works like a charm!",
+      "text": "With data aggregation, I'm getting transfer speeds of almost 100 Mbps. That's pretty darn good. HDD trays in this 1813+ model are now toolless. Otherwise, not too different than the 1812+.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Eli Kim",
+      "helpful_votes": 0,
+      "publication_date": 20130621
+    }
+  ],
+  "product_meta": {
+    "title": "Synology DiskStation 8-Bay 24TB (8 x 3TB) Network Attached Storage with iSCSI, DS1813+ 8300 (DS1813+ 8300)",
+    "description": "Capacity:8 X 3TBWith its superior performance, scalability, resilience, and comprehensive features, Synology DS1813+ is the ideal storage solution for your growing SMB. The DS1813+ can help to simplify data management, providing a centralized destination for storage, backup, and sharing - with minimal setup and the freedom to expand capacity at any time. The DS1813+ is backed by Synology's 3-year limited warranty. Compatible with: Mac, PC",
+    "rating": 3.8,
+    "feature_bullets": [
+      "Pre-installed with 8 3TB HDD",
+      "Four LAN Ports with Link Aggregation Support",
+      "Scale up to 72TB with Synology DX513",
+      "Expandable RAM Module (Up to 4GB)",
+      "CPU Passive Cooling Technology & System Fan Redundancy",
+      "VMware, Citrix, Microsoft Hyper-V Ready",
+      "High Availability and Automatic Failover by SHA",
+      "Pre-installed with 8 3TB HDD",
+      "Four LAN Ports with Link Aggregation Support",
+      "Scale up to 72TB with Synology DX513",
+      "Expandable RAM Module (Up to 4GB)",
+      "CPU Passive Cooling Technology & System Fan Redundancy",
+      "VMware, Citrix, Microsoft Hyper-V Ready",
+      "High Availability and Automatic Failover by SHA"
+    ],
+    "specifications": {
+      "Brand": "Synology",
+      "Item model number": "DS1813+ 8300",
+      "Hardware Platform": "Pc, Mac",
+      "Item Weight": "11.5 pounds",
+      "Product Dimensions": "18 x 14 x 12 inches",
+      "Item Dimensions  LxWxH": "18 x 14 x 12 inches",
+      "Manufacturer": "Synology America",
+      "ASIN": "B00DJ7X58A",
+      "Is Discontinued By Manufacturer": "No",
+      "Date First Available": "June 21, 2013",
+      "Customer Reviews": "3.8 out of 5 stars111 ratings3.8 out of 5 stars",
+      "Best Sellers Rank": "#1,654 in Computer Network Attached Storage"
+    },
+    "categories": [
+      "Data Storage",
+      "Computers & Accessories",
+      "Electronics",
+      "Network Attached Storage"
+    ],
+    "price": ""
+  }
+}

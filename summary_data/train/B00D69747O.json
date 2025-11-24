@@ -1,0 +1,943 @@
+{
+  "website_summaries": [
+    {
+      "verdict": "With the AirStation Extreme AC1750 Gigabit Dual Band Wireless Router, Buffalo steps up its game: The router offers great new management software and  good performance. There's a lot to love about this router, but frustrating remote access and mobile management keep it from perfection.",
+      "pros": [
+        "Good throughput and range",
+        "Excellent interface",
+        "Can operate as router, access point, or bridge",
+        "Feature-packed"
+      ],
+      "cons": [
+        "Mobile management interface fairly useless",
+        "External access to attached USB drives messy to set up",
+        "Flimsy mounting structure"
+      ],
+      "aspects": {},
+      "publication_date": 20130815,
+      "rating": 8.0,
+      "source": "pcmag"
+    }
+  ],
+  "customer_reviews": [
+    {
+      "title": "I was that guy on the first episode of The New Screen Savers",
+      "text": "I originally bought this to hack it and install DD-WRT. I've since found the stock and updated official Buffalo firmwares to be excellent and support all of the features I have been looking for. 802.11 AC is extremely fast, but its range is limited - this can be made up for by utilizing the 2Ghz 802.11G and N antenna. It supports guest networks if you want, or you can treat your 2Ghz/5Ghz ranges as private and guest. The hardwired gigabit speeds are as fast and reliable as you would expect them to be. With this router, my wireless devices on the 802.11N or AC bands can easily utilize the full 50Mbps of my cable internet connection.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Garrett E. Culver",
+      "helpful_votes": 0,
+      "publication_date": 20150804
+    },
+    {
+      "title": "The Best I've Seen.",
+      "text": "This is a FANTASTIC Router. I have been using a Cisco Linksys E3000 for several years, which was \"state-of-the-art\" when I first bought it, but this new Buffalo AC1750 is faster, easier to configure and has superior U.S. based tech support. My wireless internet speeds are now almost identical with a wired connection. I purchased it in conjunction with the Buffalo NAS. I was not able to configure the NAS' Cloud feature with the Linksys but it was very easy to do with the AirStation. The price at Amazon made it a no-brainer compared to any other model.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "T.K.",
+      "helpful_votes": 5,
+      "publication_date": 20131120
+    },
+    {
+      "title": "this router was even worse than our first one",
+      "text": "I bought this router to replace another router that kept having connection issues. Unfortunately, this router was even worse than our first one. It worked okay at first, but after a while (about a week or maybe two), it started dropping connections like crazy. I do like how it's really easy to set up, and it has a lot of configuration options out of the box.",
+      "rating": 2.0,
+      "verified": true,
+      "author": "Dan R",
+      "helpful_votes": 3,
+      "publication_date": 20151002
+    },
+    {
+      "title": "More reliable than my last Buffalo, works great.",
+      "text": "I previously had a Buffalo WZR-HP-AG300H which worked well when I first got it, but it started being flaky over 6 months. Connections would come and go, etc... I'm wondering if a newer firmware made it flaky, because it happened to a number of them I have had. I decided to replace them with this model, and all of them have been working great over the last 6 months. I'm really only using dual-band APs these days because they provide so much better avoidance of congestion on the 2.4GHz band, and this is a good box for the price. I haven't been using any of the other functionality like USB file sharing.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Sean Reifschneider",
+      "helpful_votes": 0,
+      "publication_date": 20150412
+    },
+    {
+      "title": "Great dual band router.",
+      "text": "This was purchased as a replacement. The unit was easy to setup. I contacted support because my laptop would not pick up the signal from upper band. The support was great. Courteous and professional support agent politely informed me that upper band will only be picked up by devices designed to operate in the 5GZ band as in my cell. I was able to verify as my cell and tablet will both log into the upper band. The only thing prevented me from loving this unit is the WiFi range. I was hoping this router will resolve the WiFi dead spot in my house but it did not. I had to purchase a separate range extender.",
+      "rating": 4.0,
+      "verified": true,
+      "author": "gartail",
+      "helpful_votes": 0,
+      "publication_date": 20131225
+    },
+    {
+      "title": "I'd recommend this router to anyone looking to upgrade and needs ...",
+      "text": "Had a failing router and needed to replace it. Needed a router that could cover a 1700 sqft house with at least 5 items connected at a time. This router has worked flawlessly and we have had no coverage issues unless charter goes out. Noticeable speed increases throughout the house. I'd recommend this router to anyone looking to upgrade and needs to stream and game. I've gamed while my wife has been surfing the internet and streaming a movie in HD with no issues.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "David",
+      "helpful_votes": 0,
+      "publication_date": 20160414
+    },
+    {
+      "title": "Buffalo AC 1750 Router/endpoint",
+      "text": "Great product, when configured, has good range, and 3 year warranty. The documents are horrible, the company tech support does not know the product, or how to configure it. It took 2.5hs to get a tech that knew how to configure it as access point, and that the address changes to 192.168.11.100 in that mode. It comes configured as router with address of 192.168.11.1, and take one long push of the mode button on the back to switch to endpoint. 4 stars as tech support do not know the product, and poor documentation",
+      "rating": 4.0,
+      "verified": true,
+      "author": "ED",
+      "helpful_votes": 0,
+      "publication_date": 20150117
+    },
+    {
+      "title": "the range is excellent. I also like the dual wifi on the ...",
+      "text": "You k of, despite this thing not having those giant antenna of the other Buffalo routers, the range is excellent. I also like the dual wifi on the backwards compatible 2.4Ghz and the 5Ghz so clients can sign into either (or both with a dual band wifi adapter). Good intuitive software interface, and a few more features than I would ever use, namely external USB drive nap host, or USB printer host. I do use the pptp VPN all the time, and that works like a charm.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "drew kerlee",
+      "helpful_votes": 0,
+      "publication_date": 20150109
+    },
+    {
+      "title": "BE CAREFUL IF YOU WISH TO USE CUSTOM FIRMWARE",
+      "text": "If you plan on flashing custom firmware, DO NOT DO THE OFFICIAL UPDATE THAT IS AVAILABLE ONLINE. The update will lock you up of using custom firmware (DDWRT, etc). From what I understand, this is due to legal issues, but out of the box, it DOES have the capability of being flashed.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "n/a",
+      "helpful_votes": 0,
+      "publication_date": 20160702
+    },
+    {
+      "title": "Great product, great price",
+      "text": "Way, way better than the router provided by ATT Uverse. We used to experience \"slow downs\" in our downloads, due to the limited capacity of the standard ATT Uverse router, but since we installed this Buffalo AirStation Extreme 1750, those days are past. This thing is awesome. We used it to set up a 5Ghz wifi channel for our computers and smart phones, plus a 2.4Ghz for our other devices, plus a 2.4Ghz \"guest\" channel. Love it!",
+      "rating": 5.0,
+      "verified": true,
+      "author": "JohnT",
+      "helpful_votes": 0,
+      "publication_date": 20140928
+    },
+    {
+      "title": "It's ok.",
+      "text": "I needed a new dual brand router and this was recommended to me. The speed is very good and the set up is very easy. I has almost no technical skills at all and I was able to do it. It generally works well. It doesn't need rebooting very often. But the range is not what I expected or needed. I placed it in the center of my single level home, and I have almost no signal 2 rooms away (40 feet and 3 walls away). Should have gone with the ASUS RT-AC68U router instead.",
+      "rating": 3.0,
+      "verified": true,
+      "author": "Amazon Customer",
+      "helpful_votes": 3,
+      "publication_date": 20140625
+    },
+    {
+      "title": "works good at 802",
+      "text": "works good at 802.11 ac wireless router. I got this because I wanted to install dd-wrt, but once it recommended a firmware upgrade to 2.27 but after that happened I couldn't load dd-wrt without bricking this unit. I am using as wireless access point only. It could have been so much more. Beware Get the Model that comes preloaded with dd-wrt",
+      "rating": 3.0,
+      "verified": true,
+      "author": "fourwiller",
+      "helpful_votes": 0,
+      "publication_date": 20150905
+    },
+    {
+      "title": "Fantastic Router!",
+      "text": "Bought this router to replace another that was defective. Got it and then went through the set-up process. Easily the simplest set-up I have ever experienced. i connected it,updated the firmware, connected it to my isp, and got the wireless going all inside of 10 minutes. It is now working flawlessly and has improved the coverage throughout my house. Great wireless router! Highly recommended!",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Geough",
+      "helpful_votes": 0,
+      "publication_date": 20140617
+    },
+    {
+      "title": "Solid So Far",
+      "text": "I've had mine for a month. Flashed it immediately to DD-WRT. Its been working well. I get the same coverage I had with my 9dbi antenna rig from this internal antenna, and it takes up less space. One note: With two SSIDs, don't forget to manage both MAC exclusion tables.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "4.772727 MHz",
+      "helpful_votes": 0,
+      "publication_date": 20150128
+    },
+    {
+      "title": "Great router",
+      "text": "I purchased one and was so impressed by it that I purchased a few more. I have them deployed in multiple buildings and have not had any issues what so ever with any of them. Once they are setup and ready to go you can forget about them. I love the Norton filtering feature too. One of the fastest and easiest routers I have dealt with and a good price too.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "J. Barreto",
+      "helpful_votes": 0,
+      "publication_date": 20140507
+    },
+    {
+      "title": "Good product, strong signal and fast 802",
+      "text": "Good product, strong signal and fast 802.11ac connection! Can flash 1750DHPD's ddwrt firmware easily, although have no good support on ipv6<ddwrt>. If you concerned about IPv6 on your network and if you have comcast network, probably you will need to manually do DHCPv6-PD (  ) on this router. Just FYI.",
+      "rating": 4.0,
+      "verified": true,
+      "author": "Tony",
+      "helpful_votes": 0,
+      "publication_date": 20140827
+    },
+    {
+      "title": "Sweet",
+      "text": "Other than needing help from a friend that was a tech professional to set it up, it was flawless, I needed to have him turn down the power ( I'm not NASA), and help with encryption settings It has a advanced set up menu and shouldn't be purchased by a noob (new to wireless router set up.) My friend having advanced multiple degrees in computing commented it was a sweet set up. Yes, Travis it is. But only usable after your help.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "D.S. Arnold",
+      "helpful_votes": 0,
+      "publication_date": 20140509
+    },
+    {
+      "title": "Awesome router",
+      "text": "Very nice router with 512MB of memory and upgradeable to Buffalo supported version of DD-WRT. It doesn't have any external antennas, but it's enough to cover my apartment. I think that most if not all issues reported in the previous reviews have been addressed, and ability to load DD-WRT makes it a much better deal.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Adam P",
+      "helpful_votes": 0,
+      "publication_date": 20140616
+    },
+    {
+      "title": "Best router I have ever had",
+      "text": "Best router I have ever had, and I have had several (Linksys, Belkin, Cisco) Its stable, fast. Online options like using the smartphone app to control is lacking, and as of right now, no IPv6. But, its the fastest and best router I have ever used, and at times I have 20+ devices connected at once.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "PB & J Price",
+      "helpful_votes": 0,
+      "publication_date": 20140830
+    },
+    {
+      "title": "Extremely Disappointing",
+      "text": "I've gone through 2 of these in less than a year. Yes, it's very fast, but the range is very poor, even after constant fiddling with the channels. The units I had would just drop connection to the internet, even if the client devices had a good connection. Yes, it has a 3 year warranty, but after restocking fees and the RMA shipping price, I would be in the hole more than the price of the new router for another return. Customer service was about what you would expect. \"Try resetting to factory settings, if that doesn't work send it back.\" Yes, I even tried turning it off and back on again. I was using the latest firmware, v.2.24.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "GJM",
+      "helpful_votes": 6,
+      "publication_date": 20150128
+    },
+    {
+      "title": "Love the Buffalo Wireless Router",
+      "text": "Saw this router critiqued in a pc magazine. They rated it a 9 out of ten and it was the best buy of its class. I bought it and have been very pleased. I live in a two story house and now I have wireless upstairs and downstairs. I really recommend this product.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "loves to cook",
+      "helpful_votes": 0,
+      "publication_date": 20140502
+    },
+    {
+      "title": "Fast and versatile",
+      "text": "Haven't dug into all of the features quite yet - such as VPN - but am looking forward to it. This router completely solved our connectivity and local speed problems that we were having with a somewhat aging Airport Extreme that had previously served me well, but had started to lack in performance.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "IR",
+      "helpful_votes": 0,
+      "publication_date": 20140313
+    },
+    {
+      "title": "Beause You Can",
+      "text": "Great way to upgrade your Wifi speed to better support your newer mobile devices. Nice design and Easy setup. So far after several months of use, the performance has been rock solid.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "DonJ",
+      "helpful_votes": 0,
+      "publication_date": 20160531
+    },
+    {
+      "title": "It works well",
+      "text": "It's a decent router, but I don't find that the range is any better than my trusty old Linksys WRT54. I still have trouble with the signal in another room, just 25ft away, with the door open. This Buffalo router is much faster though.",
+      "rating": 3.0,
+      "verified": true,
+      "author": "6POINT1",
+      "helpful_votes": 3,
+      "publication_date": 20140531
+    },
+    {
+      "title": "Great great buy",
+      "text": "Must buy. I got this because I felt like my router was really hampering the speed of the internet I had. It was an old router and I was correct, once I got the buffalo I noticed my download speeds doubled and no more waiting for videos to buffer when i streamed. Not to mention my online gaming improved.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Delashon Atkins",
+      "helpful_votes": 0,
+      "publication_date": 20140711
+    },
+    {
+      "title": "Perfect",
+      "text": "Flawless. Truly impressed with this device. This replaced my old Linksys WRT56GL (dd-wrt) , and I should have done it sooner. Night and day. Gigabit switch is nice as well. The built-in firmware isn't half bad (great for non-tech people) but will be switching over to dd-wrt.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "JK",
+      "helpful_votes": 0,
+      "publication_date": 20150413
+    },
+    {
+      "title": "... for a few months now and it's been working fine. Stable and a good",
+      "text": "Have had this for a few months now and it's been working fine. Stable and a good, strong signal. I'm satisfied.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "David Vancina",
+      "helpful_votes": 2,
+      "publication_date": 20151008
+    },
+    {
+      "title": "The second one has a bad WAN/Internet port",
+      "text": "The first one I had decided it was going to have wifi issues.The second one has a bad WAN/Internet port. its over all between the 2 less than 6 months for the first one and 2 months for the second one. Avoid.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "Pete",
+      "helpful_votes": 0,
+      "publication_date": 20150220
+    },
+    {
+      "title": "Oh Give Me A Home...",
+      "text": "This router asks little. It sits in the corner and pumps out bits to my wireless devices. User interface is simple.",
+      "rating": 4.0,
+      "verified": true,
+      "author": "HappyinMN",
+      "helpful_votes": 0,
+      "publication_date": 20160328
+    },
+    {
+      "title": "This one has better range though",
+      "text": "My second Buffalo router. I'm a glutton for pain. Both routers have been touchy on setup. This one has better range though, and both seem to be fairly stable once you get past the initial finickyness.",
+      "rating": 4.0,
+      "verified": true,
+      "author": "Sojum",
+      "helpful_votes": 0,
+      "publication_date": 20160605
+    },
+    {
+      "title": "Works great!!",
+      "text": "I've been using a Motorola modem/router for my internet access for several years now, and was never fully pleased with it's performance. I purchased this after reviewing multiple sites and reviews. I can say I'm completely pleased with this Airstation's performance. I'm getting significantly better speeds both on my internal network and accessing streaming content, websites, and gaming. As an IT professional, I would recommend this to my clients.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Scott S.",
+      "helpful_votes": 0,
+      "publication_date": 20150311
+    },
+    {
+      "title": "Just plan and simply bad@$$. No DD-WRT on this ...",
+      "text": "Just plan and simply bad@$$. No DD-WRT on this model but still rock solid. (you can load DD-WRT on this one as well but will void the standard warranty)",
+      "rating": 5.0,
+      "verified": true,
+      "author": "David Herron",
+      "helpful_votes": 0,
+      "publication_date": 20160229
+    },
+    {
+      "title": "but not a great range. Probably only 10-15 meters for the AC ...",
+      "text": "It uses a 'not quite the actual open source' DD-WRT router os. Lots of config features, but not a great range. Probably only 10-15 meters for the AC range.",
+      "rating": 4.0,
+      "verified": true,
+      "author": "Humor4Fun",
+      "helpful_votes": 0,
+      "publication_date": 20150529
+    },
+    {
+      "title": "Limited user interface aside works wonderfully, almost getting 50MB/s throughput via windows",
+      "text": "Limited user interface aside works wonderfully, almost getting 50MB/s throughput via windows. Range is adequate for something this fast, almost a house and a half away and I still can get ac connection.",
+      "rating": 4.0,
+      "verified": true,
+      "author": "Amazon Customer",
+      "helpful_votes": 0,
+      "publication_date": 20170127
+    },
+    {
+      "title": "Good router",
+      "text": "Great router out of the box. It would be nice if it had the DD-WRT interface system installed. Had to change the channel on the 5.4GHZ to get the coverage that I needed. All in all, great router.",
+      "rating": 4.0,
+      "verified": true,
+      "author": "Tal Margalit",
+      "helpful_votes": 0,
+      "publication_date": 20140913
+    },
+    {
+      "title": "Lemon?",
+      "text": "Maybe I just got a lemon; I've heard that a lot of routers arrive DOA. But I spent an hour with tech support on the phone and they agreed that it was a bad unit. (Good tech support, though!)",
+      "rating": 1.0,
+      "verified": true,
+      "author": "William H. Coffin",
+      "helpful_votes": 0,
+      "publication_date": 20141205
+    },
+    {
+      "title": "Does the job",
+      "text": "Using as access point to network for home wireless network. Good range and speed but not the huge upgrade from older N wireless. Quick and easy setup.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Blake F",
+      "helpful_votes": 0,
+      "publication_date": 20151007
+    },
+    {
+      "title": "Fantastic router",
+      "text": "With anything there is always room for improvement. It's a fantastic router, but I guess I'm still waiting for the router you don't have to reboot once a week. Because one out of six devices loses connectivity, once every 1-2 weeks.",
+      "rating": 4.0,
+      "verified": true,
+      "author": "mike",
+      "helpful_votes": 0,
+      "publication_date": 20140107
+    },
+    {
+      "title": "Works well, missing would like features.",
+      "text": "Works very well; however, I think there are several features missing (would like features) missing from this router. The router worked as soon as I plugged in, and the setup was really easy. it has a nice setup wizard.",
+      "rating": 4.0,
+      "verified": true,
+      "author": "dg1987",
+      "helpful_votes": 0,
+      "publication_date": 20140910
+    },
+    {
+      "title": "went from 40mb Downloads to 90 just by plugging in",
+      "text": "I would say love it but purchased with the intention of formatting to W-DDRT that part has been a bit of a pain in the ass.",
+      "rating": 4.0,
+      "verified": true,
+      "author": "Ryan N. Cox",
+      "helpful_votes": 0,
+      "publication_date": 20160229
+    },
+    {
+      "title": "Nice and Strong Signal",
+      "text": "Bought this when I moved into a larger house. From the living room, this unit covers my entire house (2,000 sq. ft.) and garage with a strong signal. Signal reaches well into the front and back yards to push our Sonos speakers when we have guests over to grill. Definitely recommend.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "J. Marquis",
+      "helpful_votes": 0,
+      "publication_date": 20140416
+    },
+    {
+      "title": "This has been great up until Thanksgiving 2015",
+      "text": "This has been great up until Thanksgiving 2015. Kids and grandkids could not longer connect to this router, I cannot find out what is wrong or what might have gone wrong. Any ideas? Thanks",
+      "rating": 4.0,
+      "verified": true,
+      "author": "Sharon Chenoweth",
+      "helpful_votes": 0,
+      "publication_date": 20151225
+    },
+    {
+      "title": "I recommend it to friends/family whenever the discussion allows",
+      "text": "I've had quite a few routers in the past, and all fall FAR behind this AirStation. I have had zero issues with this router since plugging it in. I recommend it to friends/family whenever the discussion allows.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Dave T",
+      "helpful_votes": 0,
+      "publication_date": 20140907
+    },
+    {
+      "title": "Gerat Signel Strength",
+      "text": "I always like buffalo hardware they just work well and this is no exception",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Scotty",
+      "helpful_votes": 0,
+      "publication_date": 20150801
+    },
+    {
+      "title": "Best product and service tec the best I have had",
+      "text": "My range and speed is the best of any router I have ever owned. I will be buying another on for my office. The best thing about this was the service tec who helped me with set up I called he logged in my network and set up for me,it was great. I only wish more companies could have English speaking employees that knew as much as this company. I can not say enough about the service best I have had of any purchase in years. Thank you Todd",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Todd",
+      "helpful_votes": 0,
+      "publication_date": 20140123
+    },
+    {
+      "title": "great for the price easy to set up",
+      "text": "great for the price easy to set up. Delivery was fast. Sleek and great size and shape. It did not distribute coverage for the entire home which is normal but signal was detected even 60 feet out. I did purchase a range extender which solved all my issues. We now enjoy surfing the net at fast speeds with no loading issues.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Mr. Flores",
+      "helpful_votes": 0,
+      "publication_date": 20150415
+    },
+    {
+      "title": "Good all around purchase.",
+      "text": "Good product. Easy to connect and use. Great features.Great range.",
+      "rating": 4.0,
+      "verified": true,
+      "author": "NWGAbuyer",
+      "helpful_votes": 0,
+      "publication_date": 20150807
+    },
+    {
+      "title": "I'm not a electronics whiz but this works great for me",
+      "text": "I'm not a electronics whiz but this works great for me. Only using it as a firewall for desktop computer and Wifi for cell phone.",
+      "rating": 4.0,
+      "verified": true,
+      "author": "C.P.",
+      "helpful_votes": 0,
+      "publication_date": 20141203
+    },
+    {
+      "title": "Excellent wireless router",
+      "text": "This router was purchased at the recommendation of my computer consultant to increase the wireless router range of my Verizon wireless router for streaming Netflix movies to my DVD player in another room. It works great!",
+      "rating": 5.0,
+      "verified": true,
+      "author": "William S.",
+      "helpful_votes": 0,
+      "publication_date": 20140211
+    },
+    {
+      "title": "Awesome router!",
+      "text": "Bought this router once the price dropped (due to the newer versions with DD-WRT preloaded coming out) This version has proprietary boardcom software on it. You can easily flash over it with DD-WRT (which is what I did) I use this as an always on VPN router for the rest of my home network and it works great.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Mike",
+      "helpful_votes": 0,
+      "publication_date": 20140410
+    },
+    {
+      "title": "Smokes the competition!",
+      "text": "This router is an awesome performer! Versatile for any purpose. Buffalo has the best routers on the market in my opinion.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Brian",
+      "helpful_votes": 0,
+      "publication_date": 20150607
+    },
+    {
+      "title": "Very good product, good tech support",
+      "text": "Sorry that it took so long to review as this product working as a satellite with the same model is so simple to extend range. Very good product, good tech support, strongly suggest buying.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Laurence of Olympia",
+      "helpful_votes": 0,
+      "publication_date": 20160806
+    },
+    {
+      "title": "Good performance but lousy feet!",
+      "text": "Performance is very good, (mostly) well built. Buffalo has a great reputation and that's why I paid the up-charge for this unit rather than another brand at half the price. But... it appears the bean counters cornered good engineers into saving a penny on manufacturing a product placed at a $120 price point. Those soft plastic snap-on stabilizer feet are a joke at worst and cheesy at best. This otherwise decent unit lists to the left and right at least 5 degrees from vertical following the slightest touch. It's simply atrocious. I would give it 5 stars if the feet were solid.",
+      "rating": 3.0,
+      "verified": true,
+      "author": "M Newberry",
+      "helpful_votes": 0,
+      "publication_date": 20131202
+    },
+    {
+      "title": "Solid router",
+      "text": "I am upgrading from DLINK DIR-655. Signal strength is very good and covers every corner of 3 floors. Purchased from amazon warehouse for $76. Can't beat the price, looks very solid.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "VM",
+      "helpful_votes": 0,
+      "publication_date": 20140418
+    },
+    {
+      "title": "Five Stars",
+      "text": "This is a great router it has a long range, very reliable.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Craig M. Whitlock",
+      "helpful_votes": 0,
+      "publication_date": 20151219
+    },
+    {
+      "title": "remote client wi-fi repeat out of the box",
+      "text": "I thought I needed a switch that supports DDWRT, this one does but I didn't need to reflash this one because it already functions as a remote client repeater with Wi-Fi connect to my primary router. Works great!",
+      "rating": 4.0,
+      "verified": true,
+      "author": "Nc7r",
+      "helpful_votes": 0,
+      "publication_date": 20141215
+    },
+    {
+      "title": "Thumbs up!",
+      "text": "Easy set up and coverage through out my cape cod house is flawless.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "MEL",
+      "helpful_votes": 0,
+      "publication_date": 20160412
+    },
+    {
+      "title": "Mostly good",
+      "text": "It's very good but the g wireless part seem to like to limit my connection at time I have try an get help bout it from the company but the Suport mostly says it's the device it self when the problem has only come up with the routor itself that they say it shouldn't happen but does but the other part of the wireless works great if the devices can use that wireless over all works great the one little problem is manageable",
+      "rating": 4.0,
+      "verified": true,
+      "author": "leon blade",
+      "helpful_votes": 0,
+      "publication_date": 20140311
+    },
+    {
+      "title": "Faster",
+      "text": "First impression is this has easily twice the throughput of my old Linksys E2500. Given I have some AC clients now, this improvement is expected. I found the setup quite simple and easy. There was no need to connect by Ethernet to initialize this router. One can achieve the full setup via wifi from the very start. I purchased this at $108 and now the price is more? This is being used in an apartment setting. So while the distances are near, the wifi noise from surrounding routers is extensive. I immediately updated the firmware prior to setting up clients.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "paititi",
+      "helpful_votes": 0,
+      "publication_date": 20140611
+    },
+    {
+      "title": "This HAS to be the best router I've ever used/owned",
+      "text": "This HAS to be the best router I've ever used/owned. I love it so much. I'll never be able to go back to something else frankly. Buffalo is king.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Kindle Customer",
+      "helpful_votes": 0,
+      "publication_date": 20141231
+    },
+    {
+      "title": "best fouter ive owned",
+      "text": "Plugged it in set up Pc's no drops no problems what else can one ask for.",
+      "rating": 4.0,
+      "verified": true,
+      "author": "Konamonster",
+      "helpful_votes": 0,
+      "publication_date": 20150405
+    },
+    {
+      "title": "The Buffalo set up nicely and is more powerful",
+      "text": "replaced a Linksys that seemed to lose signal strength in a year. The Buffalo set up nicely and is more powerful.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "William H. Thompson",
+      "helpful_votes": 0,
+      "publication_date": 20141026
+    },
+    {
+      "title": "I had slow internet / old modem. We researched ...",
+      "text": "I had slow internet / old modem. We researched product reviews on CNET - found this one and took a chance. BAM FAST AS LIGHTNING! this is the modem you want.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Amazon Customer",
+      "helpful_votes": 0,
+      "publication_date": 20151230
+    },
+    {
+      "title": "Five Stars",
+      "text": "Super fast wireless amd wired. Very stable with original firmaware. Not that stable if u intend to run ddWRT",
+      "rating": 5.0,
+      "verified": true,
+      "author": "JRicardo",
+      "helpful_votes": 0,
+      "publication_date": 20150719
+    },
+    {
+      "title": "Great hardware...firmware needs improvement",
+      "text": "Buffalo AC 1750 is fantastic router hardware hamstrung by its firmware. As soon as DD-WRT is fully functional on the AC 1750, I'm quite sure it'll be the perfect router. Until that point, it seems to be hating life at my house due to my admittedly complex networking situation (2 long-range outdoor bridges to other houses, each with their own networks, not to mention the 15+ wired and wireless devices at my place).",
+      "rating": 4.0,
+      "verified": true,
+      "author": "Greg F.",
+      "helpful_votes": 3,
+      "publication_date": 20131026
+    },
+    {
+      "title": "Was hoping for increased range",
+      "text": "Not sure it's actually added any range to my previous one which was about 5-6 yrs old.",
+      "rating": 4.0,
+      "verified": true,
+      "author": "rae",
+      "helpful_votes": 0,
+      "publication_date": 20140722
+    },
+    {
+      "title": "seems to be very good. No reboots",
+      "text": "So far, seems to be very good. No reboots, good range and great speed! Using phones, tablets, PS3, laptop, Chromecast, and Harmony Smart Center wirelessly on both bands with no issues.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Dale Dover",
+      "helpful_votes": 0,
+      "publication_date": 20150420
+    },
+    {
+      "title": "SWEET! Very constant speeds unlike the four Xfinity all ...",
+      "text": "SWEET ! Very constant speeds unlike the four Xfinity all in one routers I went through.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Rherf44",
+      "helpful_votes": 0,
+      "publication_date": 20141018
+    },
+    {
+      "title": "instructions, only downside.",
+      "text": "Only downside to this router is the instructions, they need to be more clear and easier to understand. Other then that, awesome router!",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Blark W",
+      "helpful_votes": 0,
+      "publication_date": 20140225
+    },
+    {
+      "title": "short range",
+      "text": "nice looking, short range, not that fast compare to similar model.",
+      "rating": 3.0,
+      "verified": true,
+      "author": "kgabest",
+      "helpful_votes": 0,
+      "publication_date": 20150723
+    },
+    {
+      "title": "Five Stars",
+      "text": "It does what we need it to do, and does it well!",
+      "rating": 5.0,
+      "verified": true,
+      "author": "slswallows",
+      "helpful_votes": 0,
+      "publication_date": 20140925
+    },
+    {
+      "title": "Very Poor Choice to me",
+      "text": "I have had a very poor experience with two of these routers. The first was replaced when it failed to remain stable. The second is now failing in wireless signal strength and it is too late to return it for a refund. Look for a different manufacturer with a better reputation for reliability. I regret the time and money I have spent trying to get the performance I hoped for.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "Twice Retired",
+      "helpful_votes": 2,
+      "publication_date": 20140813
+    },
+    {
+      "title": "Spend your money elsewhere",
+      "text": "At first fast and easy to use, but started dropping connections. Very disappointing, had to revert to my former 802.11N wifi AP. Recently updated it to the Buffalo DD-WRT firmware, seems better, but can't get fast connections to it in AC mode from my Moto X or Samsung tablet. The 5Ghz band on my \"N\" AP provides 150Mbps connections, can only get 86Mbps on the AirStation setup at 5Ghz in AC mode. Very disappointed.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "Movie watcher...",
+      "helpful_votes": 4,
+      "publication_date": 20150216
+    },
+    {
+      "title": "Keep looking....",
+      "text": "Bought this to replace a 10 year old Buffalo AirStation that just wasn't keeping up with the increased ISP speeds. Very unhappy. Although this was easy to configure, the DHCP option will not turn off completely (I have DHCP running on a Windows server.) I have to configure a static IP address for my Apple iPad and two iPhones because they will not accept any other address then the ones generated from the \"turned off\" DHCP on the Buffalo. Returning this to Amazon and buying a NetGear.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "beenerd",
+      "helpful_votes": 0,
+      "publication_date": 20150109
+    },
+    {
+      "title": "I like it very much!!",
+      "text": "Because the performance of this product is very good, the access rate is fast, can satisfy the daily use of myself. So I like it very much, and I would recommend it to colleagues and friends.",
+      "rating": 4.0,
+      "verified": true,
+      "author": "leon_Voodoo",
+      "helpful_votes": 0,
+      "publication_date": 20131101
+    },
+    {
+      "title": "awesome router!!",
+      "text": "This router is absolutely amazing. Zero lag time. I have 7+ devices running on this router and it performs great. I can be streams an HD movie on Netflix, surfing the web and my nephew will be play on the xbox one and there are no buffeing or lag time on the game.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Randy Silva",
+      "helpful_votes": 0,
+      "publication_date": 20140220
+    },
+    {
+      "title": "Good hardware, poor firmware",
+      "text": "The hardware is very good, the firmware leaves something to be desired, and has very poor documentation. I bought this thinking I could install DD-WRT on it. I can, once it is finished. That is my fault for not checking the site first, but a warning to everyone else. as a basic router, it'll do what you want out of the box. If, however, you are like me and need a more complex arrangement, you may need to wait until DD-WRT releases a firmware file for this unit.",
+      "rating": 3.0,
+      "verified": true,
+      "author": "Lumosvalley",
+      "helpful_votes": 0,
+      "publication_date": 20131231
+    },
+    {
+      "title": "US Support was horrible, emails basically un-answered",
+      "text": "Bought this to do DD-WRT, as upgrade to previous Buffalo AG-300H. Played with loaded air-station and it did an upgrade which locked out DD-WRT option for upgrade. US Support was horrible, emails basically un-answered, had to call to get it \"escalated\" - was told to buy another. Emailed for an RMA which was subsequently ignored. I was a big Buffalo fan until this. Bye-bye buffalo.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "JB in NC",
+      "helpful_votes": 3,
+      "publication_date": 20150823
+    },
+    {
+      "title": "big improvement",
+      "text": "upgraded from n series router and it was worth it - much better connectivity through out the house very fast",
+      "rating": 5.0,
+      "verified": true,
+      "author": "J. Gary Vallely",
+      "helpful_votes": 0,
+      "publication_date": 20140118
+    },
+    {
+      "title": "Five Stars",
+      "text": "Great router at a great price, one nice feature about this router is that it supports DD-WRT.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "espereir",
+      "helpful_votes": 0,
+      "publication_date": 20150320
+    },
+    {
+      "title": "Five Stars",
+      "text": "Great so far, the kids game and I surf the internet.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "jajandesndcats",
+      "helpful_votes": 0,
+      "publication_date": 20140920
+    },
+    {
+      "title": "Works great",
+      "text": "Fast and easy to set up. Half the price of other top tier products. For the average user who wants to run your PC's, cell phone wi-fi and streaming devices (Roku, etc.) this is a champ.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "James R Tiley",
+      "helpful_votes": 0,
+      "publication_date": 20140216
+    },
+    {
+      "title": "Constant resets with old wifi router.",
+      "text": "I'm not a power user. I went for the stability reviews.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Francis Chiarilli",
+      "helpful_votes": 0,
+      "publication_date": 20160302
+    },
+    {
+      "title": "Easy set up",
+      "text": "I have a small computer repair business and have set up many wireless routers for others and myself. This is one of the easiest ones to set up and work on first try. It does not have quite the range as some of the other more expensive routers, such as the Netgear WNDR4500, but again - easier to set up. (The shorter range is why I deducted one star.)",
+      "rating": 4.0,
+      "verified": true,
+      "author": "David E. Hill Jr.",
+      "helpful_votes": 0,
+      "publication_date": 20140306
+    },
+    {
+      "title": "Great router. Speeds are great",
+      "text": "Great router. Speeds are great, worked out of the box with gamestream. Dual band works perfectly as well. Great coverage and signal strength.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Lurker",
+      "helpful_votes": 0,
+      "publication_date": 20141224
+    },
+    {
+      "title": "Great router once you get it going.",
+      "text": "Works great but setup was a little bit of a pain.",
+      "rating": 4.0,
+      "verified": true,
+      "author": "Mike Taylor",
+      "helpful_votes": 0,
+      "publication_date": 20141015
+    },
+    {
+      "title": "Don't pass this up!!!",
+      "text": "This router is awesome...I was blown away by how fast n great it was...everything in my house feels like it's hard wired into the modem",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Andre M Young",
+      "helpful_votes": 0,
+      "publication_date": 20140113
+    },
+    {
+      "title": "Awesome!!",
+      "text": "The best router hands down!! Amazing performance very easy to set up",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Bayardo E Rios",
+      "helpful_votes": 0,
+      "publication_date": 20141125
+    },
+    {
+      "title": "easy to set up",
+      "text": "Arrived on time, easy to set up, reasonable price, good user interface.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Robert Zambarano",
+      "helpful_votes": 0,
+      "publication_date": 20141028
+    },
+    {
+      "title": "Excellent",
+      "text": "Set up in five minutes, excellent speed and hasn't gone down once. Huge improvement to my network and worth the price.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Jason Sickles",
+      "helpful_votes": 0,
+      "publication_date": 20140611
+    },
+    {
+      "title": "Great if you don't have a lot of wireless devices",
+      "text": "This router is great if you only have a few wireless devices. Don't get this router if you have more than 7 wireless devices, it simply can not handle all the wireless traffic.",
+      "rating": 2.0,
+      "verified": true,
+      "author": "staupy53",
+      "helpful_votes": 0,
+      "publication_date": 20140407
+    },
+    {
+      "title": "Go Buffs!!!",
+      "text": "Super awesome!! Going to buy 2 more!! I would recommend to friends and family fo sho! Buying 2 more for vacation house.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "DOACLNR",
+      "helpful_votes": 0,
+      "publication_date": 20131127
+    },
+    {
+      "title": "But so far so good.",
+      "text": "Not completely used yet, Right now just using as router, No USB device attached or tested. But so far so good.",
+      "rating": 4.0,
+      "verified": true,
+      "author": "Parth",
+      "helpful_votes": 0,
+      "publication_date": 20140909
+    },
+    {
+      "title": "Five Stars",
+      "text": "Work excellent in my next generation playstation and xbox no lag",
+      "rating": 5.0,
+      "verified": true,
+      "author": "OGKVMIKVZE ",
+      "helpful_votes": 0,
+      "publication_date": 20140805
+    },
+    {
+      "title": "very, very, very poor wireless speeds",
+      "text": "Does not handle fast broadband DSL internet -- I have 40 Mbps DSL and I barely get 20 Mbps via speed test and route is only 18 feet away. Average speeds during speed test are usually around 11 to 12 Mbps. If I hard wire connect laptop to router I get 38 to 39 Mbps ever time. I would highly recommend another AC Router as that is what I will be doing.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "JEutaw",
+      "helpful_votes": 0,
+      "publication_date": 20140326
+    },
+    {
+      "title": "wireless keep losing intyernet access",
+      "text": "i spent on a decent router with the hope of get a quality product. unlucky my devices, specially my laptop keep getting limited access when connect to a wireless. i have two switch to the other wireless to keep working on the net.",
+      "rating": 2.0,
+      "verified": true,
+      "author": "marlon f gomez baumann",
+      "helpful_votes": 0,
+      "publication_date": 20140123
+    },
+    {
+      "title": "Must have got a bad one?",
+      "text": "Could not set it up - followed quick start instructions - would connect, then drop the signal, never actually got on the internet. Made in China.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "dougiestyletone",
+      "helpful_votes": 0,
+      "publication_date": 20140908
+    },
+    {
+      "title": "Drops signal",
+      "text": "I could not get these to stay online. While up and running, they were quite fast, but would drop signal every couple of minutes. I upgraded the firmware to 2.13 and that made no discernable difference.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "jcobbjr",
+      "helpful_votes": 0,
+      "publication_date": 20140211
+    },
+    {
+      "title": "Buffalo Airstation works well",
+      "text": "It is perfect for home use. Good reception and great performance. I recommend it for new media items you received as gifts.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Dr Tex",
+      "helpful_votes": 0,
+      "publication_date": 20140108
+    },
+    {
+      "title": "No Windows 10 Compatibility",
+      "text": "I loved my first Buffalo but this one I returned because it does not support Windows 10",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Big AL",
+      "helpful_votes": 0,
+      "publication_date": 20160624
+    }
+  ],
+  "product_meta": {
+    "title": "Buffalo AirStation Extreme AC1750 Gigabit Dual Band Wireless Router (WZR-1750DHP)",
+    "rating": 3.8,
+    "feature_bullets": [
+      "Wireless 802.11ac high speed Wi-Fi",
+      "HighPower Technology offers outstanding range and coverage",
+      "Simultaneous dual band operation - great for media streaming and lag-free gaming",
+      "Priority Control QoS for media prioritization",
+      "Web Filtering and Parental Control by Symatec restricts unsafe content"
+    ],
+    "categories": [
+      "Computers & Accessories",
+      "Electronics",
+      "Routers",
+      "Networking Products"
+    ],
+    "price": "",
+    "specifications": {}
+  }
+}

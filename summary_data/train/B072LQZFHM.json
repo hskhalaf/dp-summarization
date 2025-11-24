@@ -1,0 +1,964 @@
+{
+  "website_summaries": [
+    {
+      "verdict": "Hard-core gamers will get their money's worth if they have a Killer PC, but everyone else should find a less expensive option.",
+      "pros": [
+        "Gamers will love how it stabilizes in-game ping"
+      ],
+      "cons": [
+        "The speeds aren't great and the menu isn't the most user-friendly",
+        "No hardware changes from the Linksys WRT3200ACM"
+      ],
+      "aspects": {
+        "Setup": 6.0,
+        "Features": 9.0,
+        "Performance": 8.0
+      },
+      "publication_date": 20171215,
+      "rating": 7.5,
+      "source": "cnet"
+    }
+  ],
+  "customer_reviews": [
+    {
+      "title": "Crazy amazing, just with 3rd party firmware",
+      "text": "I got this router for 123.xx$ + 6.xx$ shipping, so around 130$. This is one freaking amazing piece of hardware. All the stars are only for hardware. The stock firmware is crappy. Almost no settings at all. You can't even disable IPV6 (seriously ?? ). But feed this monster with DD-wrt and this gives out 5 star performance. I use it as a dedicated VPN router. This maxes out my internet connection when connected to VPN (70 mb/s). Shout out to Hardware engineers, Booo to stock firmware (Web UI) developers, for being lazy and not giving some basic settings/configs.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Ap***a",
+      "helpful_votes": 47,
+      "publication_date": 20181114
+    },
+    {
+      "title": "Works well but benefits greatly from a DD-WRT flash.",
+      "text": "If you've got a killer enabled NIC it's worth grabbing at the $125 or under price point. There's no real options in the router other than the standard port forwarding, dns, and SSID setup and that's where the DD-WRT flash came in. After the flash I got anything you could hope for and more. The hardware on this router is great, the software/firmware side are wonderful after the DD-WRT flash too. Great router, cheaper than the version that comes factory flashed with the ddwrt type firmware and interface.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Richard Nibbler",
+      "helpful_votes": 9,
+      "publication_date": 20190206
+    },
+    {
+      "title": "the worse router",
+      "text": "I am not a techy by any means.; I just need stuff to work and expect it! The router from the beginning malfunctioned. I could never get reception when more than 2 items were connected. Tech support would have me be my own technician or an addition fee was charged if they did it. I increased my speed as they requested but still did internet was dropping. They replaced it but still did the same. Finally, after several calls to linksys and my technical skills, I just gave up and bought another router with verizon. I had my linksys router for less than a year.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "Amazon Customer",
+      "helpful_votes": 3,
+      "publication_date": 20190411
+    },
+    {
+      "title": "It's ok",
+      "text": "First off, it wants you to use wireless to set it up, but the wireless password that came with it wouldn't work (it wants only numbers, passcode was numbers and letters). Not much security for wireless, only PSK (can't set up to not allow people to connect automatically). Wouldn't talk to router at first. If I didn't have some technical knowledge, I would have been stumped for how to get it to work.",
+      "rating": 3.0,
+      "verified": true,
+      "author": "Jim",
+      "helpful_votes": 3,
+      "publication_date": 20181009
+    },
+    {
+      "title": "All Bells and No Whistles",
+      "text": "Does not connect with IPVanish VPN service. A lot of features are preset and can not be changed. DHCP can not be turned off. IP scheme is set to 192.168.1.x and can not be changed. This router is sold at a premium price and has has no firmware updates to address the many issues. Would not buy or reccomend. \"Killer Enabled\" featue has very limited compatibility.",
+      "rating": 2.0,
+      "verified": true,
+      "author": "Darrell",
+      "helpful_votes": 2,
+      "publication_date": 20181115
+    },
+    {
+      "title": "UPDATE: Great Router",
+      "text": "Easy setup and it delivers a very high quality user experience. This router keeps disconnecting, without any apparent reason. Unfortunately, there are hundreds of other users experiencing the same issue. I've tried every fix presented online, contacted LinkSys for assistance and even paid a networking specialist to come take a look at the setup. My specific piece of equipment is either non-functioning or there is a problem with the AC3200 (WRT32X) router. I am 10 months into my one-year warranty and have done my best to resolve the issue and be patient. At this point, I need a replacement router that functions...... maybe a long-term solution is ASUS? Very disappointed and would not recommend that anybody buy this router.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "Merritt Wiley",
+      "helpful_votes": 0,
+      "publication_date": 20190502
+    },
+    {
+      "title": "This is my second purchase.",
+      "text": "I am a software developer. my first purchase WRT32X was from a local store, i wish i had bought it from here. was half price, it's truely a ping killer! I had an 80$ router didnt realize how much upload time i saved from single upload of a large file. it literally reduced my upload time from 2min to 10 seconds. same spectrum internet provider, tested on the same large file before and after WRT32X. Got one for my family too.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Dracwula",
+      "helpful_votes": 0,
+      "publication_date": 20190201
+    },
+    {
+      "title": "Very nice router! - No remote management.",
+      "text": "Very nice router! I am disappointed in Linksys though. This router does not have an app for remote management. It also won't connect to the Linksys Smart account, because it is not compatible. This is still a really nice router for the price. I really enjoy being able to see my up and down stream live through the web management. I also like that it has Killer wireless optimization. I really love this router, and would buy it again.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Mark Burfeind",
+      "helpful_votes": 0,
+      "publication_date": 20180918
+    },
+    {
+      "title": "Limited Admin / parental controls",
+      "text": "I would say the reach is great since I\u2019m able to access Wi-Fi in other areas of my room now. I am not happy that the admin area is lacking. I should\u2019ve read the forums and reviews on various sites on the web to find that little detail. Even my older linksys routers had the robust admin access and capability\u2019s. You\u2019d think they keep some essential or basic settings and parental controls etc. but they remove that. I am already thinking of replacing it because I need parental controls. If you don\u2019t need that, then it\u2019s good for what it\u2019s designed for, ...Gaming. for that, I still give it a good rating.",
+      "rating": 3.0,
+      "verified": true,
+      "author": "Gummie",
+      "helpful_votes": 0,
+      "publication_date": 20191119
+    },
+    {
+      "title": "Awesome hardware for a great price once you flash it with DDWRT",
+      "text": "Needed to replace my old Linksys WRT-54GL router that ran DDWRT. The WRT-32X is the same hardware as the WRT3200-ACM but for less money and in a black case. The factory firmware interface is pretty bare, I only got to see it for as long as it took me to select the DDWRT Firmware file and flash the router. Once you flash the firmware to DDWRT there's a plethora of features you can configure.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Mark Hepler",
+      "helpful_votes": 0,
+      "publication_date": 20190604
+    },
+    {
+      "title": "Decent router but it's just an overpriced version of the AC3200",
+      "text": "So the router works just fine, but my main issue is that it's just an \"eXTREME GAMER!!!1!1\" version of the AC3200. It has optimization features if you use a \"Killer\" brand NIC but I don't know why anybody would even own one of those either when pretty much all onboard NICs these days work just fine. The GUI is definitely dumbed down for advanced users, however for most people it should be sufficient at least, you have your main options like port forwarding, VPN usage, custom DNS, etc. And you can flash the firmware to DD-WRT if you desire more options. In any case you should probably get the cheaper AC3200 if you can.",
+      "rating": 3.0,
+      "verified": true,
+      "author": "Michael Abrams",
+      "helpful_votes": 0,
+      "publication_date": 20200528
+    },
+    {
+      "title": "Fast but featureless",
+      "text": "This router cost a good chunk more than my last router which included the ability to block mac addresses and hide the SSID. This thing? All you can do is set up your security and that's it. I wouldn't buy another \"gaming\" router again. Edit: So I installed a custom firmware, dd-wrt, that dramatically increased the performance and value of this router. Still docking 2 stars as I shouldn't have had to do that for a decent router but oh well, that's why it was made.",
+      "rating": 3.0,
+      "verified": true,
+      "author": "Masamune Date",
+      "helpful_votes": 0,
+      "publication_date": 20190529
+    },
+    {
+      "title": "Linksys WRT32X",
+      "text": "Router has not dropped any connections with the most recent firmware update. Prioritization options are easy to configure. There is no way through the Linksys software to disable SSID.",
+      "rating": 4.0,
+      "verified": true,
+      "author": "IndianaJ",
+      "helpful_votes": 2,
+      "publication_date": 20180415
+    },
+    {
+      "title": "Wi-Fi: Incredible Coverage",
+      "text": "This router has excellent Wi-Fi coverage. I use the build in VPN client and it works exceptionally well. I don't use the Killer Prioritizing because the MSI motherboard I have has really terrible driver compatibility, but all other features appear to work fine without ever experiencing any of the problems listed in other reviews. I'm very pleased with this product.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Bob Sale",
+      "helpful_votes": 0,
+      "publication_date": 20180427
+    },
+    {
+      "title": "DO NOT BUY, HEADACHES FOR MONTHS!!!",
+      "text": "Have had my internet in and out of my house, new lines new modem, all to find out this router is the cause of it. My return and product support window is closed so hopefully I can get a response somehow with writing this review. I knew it being so cheap was too good to be true.....I even purchased a Wifi Stick from Linksys as well...Pay for 60/6 And this router gives me 9-15 download but I get 6 upload.....update. MY WIFI now does not show any connections. This is garbage.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "Stormz",
+      "helpful_votes": 0,
+      "publication_date": 20190625
+    },
+    {
+      "title": "Good discounted router for those technical peeps!",
+      "text": "Purchased as I had a WRT1900ACS. Those days I went through the pain of the stock linksys firmware being crap and dabbled with dd-wrt and openwrt. DD-WRT I found was always flaky. Openwrt is where its at for these routers. I would only recommend this router if you are comfortable installing using and configuring Openwrt. Definitely not for a novice. To be honest I haven't used the stock firmware much on this unit. But have had no issues when using. The stock firmware on this unit lacks configuration options. Great deal, fast shipping and quick delivery. Very happy!",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Larry",
+      "helpful_votes": 0,
+      "publication_date": 20190814
+    },
+    {
+      "title": "In Use For Over 2 Years With No Complaints!",
+      "text": "We have used this router for over 2 years now and haven't had any issues or complaints to report on! It has proven reliable with decent speeds on the 5 GHz band as well. I'd recommend it, although by now I'm sure there is something more modern available on the market by this point.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Blaine",
+      "helpful_votes": 0,
+      "publication_date": 20200818
+    },
+    {
+      "title": "Fantastic Router",
+      "text": "This is extreme from the build quality to performance. Easy to use and program with stock firmware. If you want a bit more granular abilities then use open source firmware. Linksys is a true favorite of mine due to performance and construction. Have worked with the EA9500 and this model and Linksys does not disappoint.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "EcoActive",
+      "helpful_votes": 0,
+      "publication_date": 20190224
+    },
+    {
+      "title": "Great for advanced users who want to try out opensource firmware",
+      "text": "The stock firmware is some of the most user friendly UI I\u2019ve seen for router. Unfortunately, the VLAN tagging does not work as intended as ISP in my country (Malaysia) need proper VLAN support for it to function. End up with multiple trial to install DD-WRT & OpenWRT firmware. Its working great now with OpenWRT firmware, but the UI are not intended to be user friendly at all.... The stock firmware does not have the capability to limit bandwidth per device basis, only higher or lower priority assignment. And only support very basic/simple fearures",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Y.M",
+      "helpful_votes": 0,
+      "publication_date": 20190521
+    },
+    {
+      "title": "Fast and easy to use",
+      "text": "The graphical user interface is fantastic and extremely simple. The speeds and prioritization of gaming consoles is fantastic and easy to set up. I can tell this is definitely going to last a while.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Courtney Cowan",
+      "helpful_votes": 0,
+      "publication_date": 20181112
+    },
+    {
+      "title": "Wifi wont stay connected",
+      "text": "Dont be duped, it may say linksys but the wireless radios are belcon! Belcon bought linksys and since then, their products have gone bad!",
+      "rating": 1.0,
+      "verified": true,
+      "author": "Rhianna",
+      "helpful_votes": 0,
+      "publication_date": 20190123
+    },
+    {
+      "title": "Not as many configurable options as i would like, but performance seems pretty good",
+      "text": "Not as many configurable options as i would like, but performance seems pretty good. Really needs a better QoS setup instead of this device prioritization it uses.",
+      "rating": 4.0,
+      "verified": true,
+      "author": "Shawn",
+      "helpful_votes": 2,
+      "publication_date": 20180212
+    },
+    {
+      "title": "Buy if you are only going to use 1 or 2 devices simultaneously",
+      "text": "Amazingly priced. worked great for reducing lag on gaming computer but cannot multitask well. Signal quality degrades if more than 2 devices are being used at one time. Love the user interface.",
+      "rating": 4.0,
+      "verified": true,
+      "author": "Jonathan Trout",
+      "helpful_votes": 0,
+      "publication_date": 20190620
+    },
+    {
+      "title": "Does not work with some Android Apps",
+      "text": "This router blocks Android Apps. Lot of my apps stopped working, they said no Network. I had to use my data plan or my old router. I have an OnePlus 7 Pro, same problem with other One plus.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "Chris M.",
+      "helpful_votes": 0,
+      "publication_date": 20200213
+    },
+    {
+      "title": "Great gaming router",
+      "text": "The packaging was great. The item is exactly what we were looking for and great quality for the price. We had multiple devices connected to our Wi-Fi and multiple gaming devices. The gaming devices prior had high ping and constant lag, however this device eliminated all of those problems. Couldnt be happier with the performance.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Johnna Keberlein",
+      "helpful_votes": 0,
+      "publication_date": 20190716
+    },
+    {
+      "title": "Buy this router if you enjoy wanting to beat your head against a wall",
+      "text": "Most expensive, worst performing router I've ever had. We used it for 2 Xbox consoles and it was issue after issue.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "Synicl3",
+      "helpful_votes": 0,
+      "publication_date": 20190119
+    },
+    {
+      "title": "Don't buy a Linksys",
+      "text": "A terrible router. Wasn't able to get it to connect to my internet directly. Had to connect it to the ethernet out from my old router. Called Linksys customer support and they were not able to fix the issue. Was able to exchange the first router I recieved, but the replacement they sent me had the exact same problem.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "James Powers",
+      "helpful_votes": 0,
+      "publication_date": 20190407
+    },
+    {
+      "title": "unimpressed",
+      "text": "i bought 2 of these. i'm totally unimpressed with their performance. slow and intermittent wireless even after firmware updates, resets... buy another router.",
+      "rating": 2.0,
+      "verified": true,
+      "author": "LegalTech",
+      "helpful_votes": 0,
+      "publication_date": 20191111
+    },
+    {
+      "title": "Love It",
+      "text": "We Love this router. After having problems with internet provider equipment, we bought this unit. We are Not disappointed After 2yrs still working perfect. Nice signal throughout the house and outside. . Highly recommend",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Mrs. B",
+      "helpful_votes": 0,
+      "publication_date": 20201013
+    },
+    {
+      "title": "Awesome with DD-WRT",
+      "text": "Beautiful router with great hardware. I went with the open source DD-WRT software like other users, and couldn't be happier. I plan on using this for 10 years as the primary router in my home.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "C. Gregory",
+      "helpful_votes": 0,
+      "publication_date": 20190410
+    },
+    {
+      "title": "Cool looking Router",
+      "text": "I was using netgear R6400 router Immediately noticed a huge performance increase. Connection speed to websites improved , ping went down 3 or 4 ms no stuttering no lag in game. I own MSI gaming laptop with KIller E2500 ethernet port Killer enable",
+      "rating": 4.0,
+      "verified": true,
+      "author": "Jak Black",
+      "helpful_votes": 0,
+      "publication_date": 20180702
+    },
+    {
+      "title": "Default firmware has a lot of lacks.",
+      "text": "The user interface of this router is under my expectation. I do have a Linksys 1900acs and a Linksys 3200acm The bad: Instead of having a lot of settings like import/export settings, content filtering, scheduling time for wifi, etc, he is just a regular router with minimum settings. I could have this with 50$. The good: easy to install, strong signal, low timing, possibility to change fw to ddwrt or openwrt.",
+      "rating": 3.0,
+      "verified": true,
+      "author": "Ciprian L",
+      "helpful_votes": 0,
+      "publication_date": 20200315
+    },
+    {
+      "title": "Quite exceptional.",
+      "text": "I love this router so far, I wish it came with more security features, and more options to it like the older routers did (like the EA6500 for one)... I haven't had any issues with it. It's just nice.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Nextarkid122",
+      "helpful_votes": 0,
+      "publication_date": 20191113
+    },
+    {
+      "title": "I have had this up and running for 3 days ...",
+      "text": "I have had this up and running for 3 days and the wifi locks up every hour and has to be restarted. During trouble shooting I split out the 2.4ghz network and the 5ghz network and the 5ghz one doesn't even work. The SSID is no where to be found. Also I was expecting the same kind of functionality I had from other WRT routers but the admin tool is severely handicapped compared to the old tools. I know Lynksys claims it is just supposed to work but when it doesn't and you are hamstrung to troubleshoot yourself it means it is probably going back. Perhaps I just got a defective unit but it's been a extremely frustrating 3 days.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "Steve Rodda",
+      "helpful_votes": 8,
+      "publication_date": 20171127
+    },
+    {
+      "title": "Good router but all my other linksys products have die after 18 months",
+      "text": "Good router If you call tech support they will ask for $10 to help you set it up or $20 for them to help you for a year. All my previous linksys routers have die after 18 months. If this one does it too it will the last linksys product I ever buy",
+      "rating": 4.0,
+      "verified": true,
+      "author": "Amazon Customer",
+      "helpful_votes": 0,
+      "publication_date": 20190218
+    },
+    {
+      "title": "Zero control",
+      "text": "The control/user interface of this router is terrible. No parental controls. Not even basic IP control.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "tim32115",
+      "helpful_votes": 0,
+      "publication_date": 20200909
+    },
+    {
+      "title": "what a monster router woooopaaa",
+      "text": "This thing is so a beast if you have the correct connection its hyper almost 1G/s up and down that's without even the 3rd part dd wrt firmware its firmware is just fine with the full speeds its achieving",
+      "rating": 5.0,
+      "verified": true,
+      "author": "ahm",
+      "helpful_votes": 0,
+      "publication_date": 20190311
+    },
+    {
+      "title": "Linksys wrt32x",
+      "text": "Good replacement for old router. Newest features and great wireless range.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Jon",
+      "helpful_votes": 0,
+      "publication_date": 20190904
+    },
+    {
+      "title": "LIke everyone else i thought the issue with the router ...",
+      "text": "LIke everyone else i thought the issue with the router was a one off issue.. But unfortunately I have to keep rebooting the router to keep the speed above 1mb/s right from the get go. Annoying",
+      "rating": 2.0,
+      "verified": true,
+      "author": "D. Puerta",
+      "helpful_votes": 2,
+      "publication_date": 20180507
+    },
+    {
+      "title": "Love it",
+      "text": "Excellent router. Put dd-wrt on it and it works like a charm",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Meech33",
+      "helpful_votes": 0,
+      "publication_date": 20190701
+    },
+    {
+      "title": "Lack of advanced settings but great overall",
+      "text": "Very good and stable router. Great quality wireless signal. On the bad side we have oversimplified GUI which lacks DHCP and IP settings and some other minor things. NTP works improperly and software has not been updated since 2018. Tech support is okay, but lack of actual software updates in 2019 still concerns me.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Edward",
+      "helpful_votes": 0,
+      "publication_date": 20191202
+    },
+    {
+      "title": "Connected",
+      "text": "Great product and deal. A little trouble setting up to my network. But time will tell the Longevity of the router.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Larry A Kling",
+      "helpful_votes": 0,
+      "publication_date": 20191206
+    },
+    {
+      "title": "LINKSYS TRASH PRODUCTS",
+      "text": "DO NOT BUY LINKSYS Products. Their tech support seems to be run out of the basement of a house. I\u2019ve been waiting 48 hours for someone to call me back for a Firmware reinstall to no avail. Oh , by the way when I asked for the woman\u2019s name I was talking to she said \u201cPrincess\u201d. You tell me if this is not a joke!",
+      "rating": 1.0,
+      "verified": true,
+      "author": "Vincent G Giardina",
+      "helpful_votes": 0,
+      "publication_date": 20190830
+    },
+    {
+      "title": "Good for gaming and streaming hard set up",
+      "text": "It is a difficult process to set up. The customer service was terrible at first hung up on the first guy because he was not doing anything right. But the second guy was able to get the set up complete. Seems to be good for up to 3 consoles connected wirelessly. Good range. Streaming movie with no lag or buffering.",
+      "rating": 4.0,
+      "verified": true,
+      "author": "A real boy made of wood",
+      "helpful_votes": 0,
+      "publication_date": 20190428
+    },
+    {
+      "title": "Router",
+      "text": "The best I have used. My gaming experience has improved",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Amazon Customer",
+      "helpful_votes": 0,
+      "publication_date": 20190206
+    },
+    {
+      "title": "Works good for me.",
+      "text": "Works good for me as a gaming. I get to sneak online as an admin and put everyone else internet slower while i game. I love it so far.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Susan Le",
+      "helpful_votes": 0,
+      "publication_date": 20190922
+    },
+    {
+      "title": "Good ethernet hardline - horrible wi-fi reliability",
+      "text": "So I purchased this thing like 3 months ago and it works... well enough for hardline connections but for the wi-fi connections it drops out here an there an its very annoying because I'll be in the middle of updating apps or on YouTube and the connection drops out, or even some friends spam text me on a group chat and I'll get no notifications because I lost connection.",
+      "rating": 2.0,
+      "verified": true,
+      "author": "Blackhart97",
+      "helpful_votes": 0,
+      "publication_date": 20180907
+    },
+    {
+      "title": "Do not purchase",
+      "text": "Would not purchase. Lasted a year and quit working. Linksys would not replace because warranty ends after a month.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "Amanda ",
+      "helpful_votes": 0,
+      "publication_date": 20190326
+    },
+    {
+      "title": "Super fast easy hook up.",
+      "text": "Wow the speed is truly amazing. I have 250mps incoming fiber optic signal. I have 245 to 250 mps coming out via wifi. Fixed all my lag trouble on my games.",
+      "rating": 5.0,
+      "verified": true,
+      "author": " K McFarland",
+      "helpful_votes": 0,
+      "publication_date": 20191017
+    },
+    {
+      "title": "Not for home use",
+      "text": "it is great only for gaming disappoint it. End up buy the regular 3200.",
+      "rating": 3.0,
+      "verified": true,
+      "author": "ivanrene21",
+      "helpful_votes": 0,
+      "publication_date": 20180927
+    },
+    {
+      "title": "Multi Level Coverage",
+      "text": "Once everything was hooked up, it works great! I have internet coverage all over my house, even upstairs!",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Renee",
+      "helpful_votes": 0,
+      "publication_date": 20180417
+    },
+    {
+      "title": "Rock solid stability, great performance!",
+      "text": "I haven't had to think about this equipment since I set it up a year ago, it has just worked without need for restarts or fiddling which is exactly what I want from networking equipment!",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Amazon Customer",
+      "helpful_votes": 0,
+      "publication_date": 20200118
+    },
+    {
+      "title": "Best router ever!",
+      "text": "This thing has some serious power! Keeps my internet super strong while gaming or streaming!",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Dustin",
+      "helpful_votes": 0,
+      "publication_date": 20200322
+    },
+    {
+      "title": "Had issues from day one. Roughly four months after ...",
+      "text": "Had issues from day one. Roughly four months after purchasing, the router simply ceased functioning in the middle of operation, and all attempts at diagnostic have failed. Will probably have to throw away, as it's effectively an expensive paperweight as of now.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "Xagmus Xeale",
+      "helpful_votes": 5,
+      "publication_date": 20180603
+    },
+    {
+      "title": "POS",
+      "text": "Would be a great router if it didn't come loaded with some junk 3rd party firmware!",
+      "rating": 1.0,
+      "verified": true,
+      "author": "Chris",
+      "helpful_votes": 0,
+      "publication_date": 20190612
+    },
+    {
+      "title": "Garbage security...",
+      "text": "So I purchased a new WRT32X router from Linksys, and was amazed to find out, the security on this equipment is pathetic... Over $180 dollars, and it doesn't have any web security. Not even a self-signed cert. What a piece of expensive garbage.",
+      "rating": 2.0,
+      "verified": true,
+      "author": "BigDaddyJ",
+      "helpful_votes": 0,
+      "publication_date": 20200128
+    },
+    {
+      "title": "useless piece of equipment",
+      "text": "The wireless signal dropped within 1 day of use, couldn't get it up and running after several tries.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "AmznNJ",
+      "helpful_votes": 0,
+      "publication_date": 20181215
+    },
+    {
+      "title": "unbelievable difference",
+      "text": "Have had this router for about 2months now and it lives up to the hype!! have had zero interruptions since install on any streaming or gaming platform. Lightining fast internet. Love the ability to prioritize",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Michael",
+      "helpful_votes": 0,
+      "publication_date": 20190825
+    },
+    {
+      "title": "High quality router",
+      "text": "Routers great. Best signal I ever had. All my devices are connected and in all I have the lowest possible ping. I love hw I can pick how much bandwidth any device can get. This is a high quality device. Totally pleased how it's running. Easy install and softwares easy to use. That's all I gotta say",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Jeffrey Cruz",
+      "helpful_votes": 0,
+      "publication_date": 20171124
+    },
+    {
+      "title": "The Router sounds great but",
+      "text": "The Router sounds great but constantly looses signal and when it does work it is half the speed of what the previous router was. Don't bother with this one sorry.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "JD",
+      "helpful_votes": 0,
+      "publication_date": 20181029
+    },
+    {
+      "title": "Not like the similar model. Not worth the price, missing features.",
+      "text": "Firmware wouldn't update properly. This model does not allow remote features or monitoring.",
+      "rating": 2.0,
+      "verified": true,
+      "author": "Lovelace",
+      "helpful_votes": 0,
+      "publication_date": 20180525
+    },
+    {
+      "title": "Five Stars",
+      "text": "Worked great but not for what I wanted it for.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Eugene Williams Jr",
+      "helpful_votes": 0,
+      "publication_date": 20180602
+    },
+    {
+      "title": "Linksys AC3200 Dual-Band WiFi Gaming Router... disappointing router for price",
+      "text": "disappointing router for price. Thought it was time to upgrade,told I could install my VPN onto this router, but could not. customer service was not helpful at all. I don't see the prioritize feature works since even though I have highest speed, streaming can still be difficult. The most annoying fact, I have to restart this router every 2 days or so, something I never had to do with my Cisco M20 Valet Plus. I'd return but I'm passed the time to do so.",
+      "rating": 3.0,
+      "verified": true,
+      "author": "Alyssa",
+      "helpful_votes": 4,
+      "publication_date": 20180206
+    },
+    {
+      "title": "#Junk",
+      "text": "Talk about garbage - I spent $150 for a unit that drops connection in the middle of games and gives me less than 10mb of download and .75 upload. ***BUYER BEWARE*** Do not buy this piece of junk!!!",
+      "rating": 1.0,
+      "verified": true,
+      "author": "Amir",
+      "helpful_votes": 0,
+      "publication_date": 20190611
+    },
+    {
+      "title": "Five Stars",
+      "text": "So far so good love it for all my device's i use",
+      "rating": 5.0,
+      "verified": true,
+      "author": "big moe",
+      "helpful_votes": 0,
+      "publication_date": 20180223
+    },
+    {
+      "title": "Downgraded version of WRT3200ACM",
+      "text": "The software is far less capable than the WRT3200ACM. Killer engine is only supported by certain PCs. The linksys app is not supported.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "Fernando Ponce",
+      "helpful_votes": 0,
+      "publication_date": 20181030
+    },
+    {
+      "title": "Great WiFi, lackluster LAN",
+      "text": "The wifi was excellent. Range and speed were great, but wired LAN performance was terrible. At first I had the Killer speed optimization on, and no Killer devices but that didn\u2019t affect wifi. However, having it on slowed LAN speeds to 4-20mb/s. Turning off Killer went back up to 120mb/s, but then over time came back down to a crawl. I had my service provider come out and inspect my line and service, and they replaced my modem even though no issues were found but the issue continued. Unfortunately I need LAN as much as I need wifi speed and range, so I had to send it back for the EA9300 which has been great.",
+      "rating": 3.0,
+      "verified": true,
+      "author": "Chad F",
+      "helpful_votes": 9,
+      "publication_date": 20171201
+    },
+    {
+      "title": "Holds up the challenge",
+      "text": "Only non 5 star is the old linksys had app support where this doesn't but overall a great buy.",
+      "rating": 4.0,
+      "verified": true,
+      "author": "Richard",
+      "helpful_votes": 0,
+      "publication_date": 20200221
+    },
+    {
+      "title": "Fast & Nice Looking... But!!!",
+      "text": "I like it because I like Linksys. They need an app for this particular router for configuration. In theory the application UI should have more functionality and administrative functions as the previous family of Linksys routers. I also wish that the color of the light in the front were more than just blue. The good: It\u2019s fast and performs well - that is what matters!",
+      "rating": 3.0,
+      "verified": true,
+      "author": "TNEWTO1",
+      "helpful_votes": 3,
+      "publication_date": 20171014
+    },
+    {
+      "title": "I love the interface on this",
+      "text": "I love the interface on this! I also love the fact that there is an off switch. We've only had it for a week, but so far the performance is phenomenal.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "heather",
+      "helpful_votes": 0,
+      "publication_date": 20180302
+    },
+    {
+      "title": "Works great",
+      "text": "Works great setup was easy haven't had any problems at all. Great for playing games online ex C.O.D. where you need that open port",
+      "rating": 5.0,
+      "verified": true,
+      "author": "jonathan gomez",
+      "helpful_votes": 0,
+      "publication_date": 20180830
+    },
+    {
+      "title": "Linksys",
+      "text": "OK it's working , but haven\"t reset the router yet",
+      "rating": 4.0,
+      "verified": true,
+      "author": "Michael Fung",
+      "helpful_votes": 0,
+      "publication_date": 20200222
+    },
+    {
+      "title": "Solid router with minimal setup.",
+      "text": "A nice, reliable router that is easy to configure. No issues or fuss with what I received. Good speed improvements as an upgrade to the Cisco/Linksys E3000.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Private",
+      "helpful_votes": 0,
+      "publication_date": 20180402
+    },
+    {
+      "title": "Router Rocks",
+      "text": "Amazing Router. Packaged to perfection. Best router I\u2019ve ever owned.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Jens Schmidt",
+      "helpful_votes": 0,
+      "publication_date": 20191226
+    },
+    {
+      "title": "Buy this!!",
+      "text": "Lightning fast WiFi. Easy internal interface. Used for gaming and WiFi devices.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Vulk",
+      "helpful_votes": 0,
+      "publication_date": 20190219
+    },
+    {
+      "title": "I am enjoying it so far, its been a ...",
+      "text": "I am enjoying it so far, its been a week and its nothing I can find that I can complain about.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Zerobeat313",
+      "helpful_votes": 0,
+      "publication_date": 20171007
+    },
+    {
+      "title": "Yeah... Its worth it. shockingly worth it.",
+      "text": "I was shocked on the performance jump in the WiFi connections. Even the wire connection even showed an improvement. but over its really easy to setup was bonus.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Bruce",
+      "helpful_votes": 0,
+      "publication_date": 20171201
+    },
+    {
+      "title": "Great router",
+      "text": "I did initially have a problem setting up this router to work with my cable internet service. I had to contact Linksys technical support. Although their tech support is located offshore they did provide excellent help and got me up and running. I am pleased with the router and have much better coverage than my old router provided. I did install a VPN on the router, but had to remove it because Netflix and Amazon Prime would allow using a VPN. I may try another VPN service to see if it will work with these services. I am not a gamer, but this would be a good router to for gamers to use.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Craig  Wann",
+      "helpful_votes": 0,
+      "publication_date": 20171208
+    },
+    {
+      "title": "It took a bit of configuration to get this to ...",
+      "text": "It took a bit of configuration to get this to work properly, but wow what a difference it made just in coverage over my old router!",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Big Johnson",
+      "helpful_votes": 0,
+      "publication_date": 20171201
+    },
+    {
+      "title": "Fast and steady speeds",
+      "text": "Very fast easy set up you can tell the difference rite away would recommend to people with cameras and want to monitor your speeds",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Barry ",
+      "helpful_votes": 0,
+      "publication_date": 20180407
+    },
+    {
+      "title": "Item is not new",
+      "text": "Just received the Router, was suppose to be new and it is not. On top of that it is missing the power cord.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "Amazon Customer",
+      "helpful_votes": 0,
+      "publication_date": 20190324
+    },
+    {
+      "title": "Got this tone and works like a charm",
+      "text": "My wireless was dropping few times a day with my previous Linksys EA9200 AC3200 Tri-Band Wi-Fi Router. Got this new one that works great.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Dan V.",
+      "helpful_votes": 0,
+      "publication_date": 20180224
+    },
+    {
+      "title": "Awesome range, Fast speeds, Easy setup",
+      "text": "BEST ROUTER I'VE EVER OWNED. We were using Xfinity's router/modem in our townhome which is not very big and speeds would be down to 7 mbps in the opposite corner of the townhome (Paying for 150 mbps) . We switched to this Linksys router and the speeds improved immediately to at a minimum of 70 mbps on a bad night. We no longer had to hardwire whenever we wanted to play fortnite.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Sandra Price",
+      "helpful_votes": 2,
+      "publication_date": 20180719
+    },
+    {
+      "title": "Don't buy this wireless",
+      "text": "This wifi device should be one of the most good devices on the market, but the true is not. The Killer Prioritization is just a QoS concept. The wireless network down/freeze out of the blue, search on the internet about the problem, a lot of people have the same problem. The support don't have any idea of how to fix it. The device by herself is just a Linux machine with a fancy body. Probably the linksys pay for youtubers to do a good review, just a few do a review with more than one month of use.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "Ricardo Leka",
+      "helpful_votes": 3,
+      "publication_date": 20171220
+    },
+    {
+      "title": "This thing is awesome. Its fast sure but the added ability to ...",
+      "text": "This thing is awesome. Its fast sure but the added ability to prioritize connections in the event that you actually hit the limits on this router is GREAT.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Amazon Customer",
+      "helpful_votes": 0,
+      "publication_date": 20171030
+    },
+    {
+      "title": "Five Stars",
+      "text": "i like the most the way run my game no llack Nothing negative",
+      "rating": 5.0,
+      "verified": true,
+      "author": "melvinfg",
+      "helpful_votes": 0,
+      "publication_date": 20171216
+    },
+    {
+      "title": "Worst router I've owned",
+      "text": "Had since November 2017 and only worked for 17 days. Called linksys and they asked me to hold onto it until a firmware fix is released. Had for 8 months with no fix and asked for a refund but they stated they don't issue refunds. I now use a Netgear Nighthawk XR500.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "Steve Guthrie",
+      "helpful_votes": 2,
+      "publication_date": 20171124
+    },
+    {
+      "title": "not worth $25",
+      "text": "after a several months of contact with Belkin which now makes these, I have had several issues with his unit, the speed is no better than a $50 one, in fact it looses connection quite frequently and has to be reset, the usb ports do not work properly and I am wasting a lot of time with their tech team fixing their problem for them while they get paid. I was offered a refund which they claimed they would do but for 4 weeks they have refused to answer any more emails or calls about this. I am no longer buying any linksys or belkin product.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "R. Burghorn",
+      "helpful_votes": 0,
+      "publication_date": 20180709
+    },
+    {
+      "title": "Easy setup",
+      "text": "Easy to set up. Signal quality and speeds are great.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Cliff ",
+      "helpful_votes": 0,
+      "publication_date": 20181027
+    },
+    {
+      "title": "WiFi unusable",
+      "text": "After 6 days spent diagnosing the WiFi with tech support, i am returning this router. Eventually the WiFi would cut out and drop all WiFi clients. The SSID would still broadcast, but devices cpuld no longer connect. It consistently happened within 5 hours of restarting the router. It was definitely a WiFi issue as our 6 wired Ethernet devices maintained connection.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "John Watson",
+      "helpful_votes": 7,
+      "publication_date": 20171213
+    },
+    {
+      "title": "Its OK so far but Echo dot and even Alexa ...",
+      "text": "Its OK so far but Echo dot and even Alexa (1st generation) in the same room are now falling off the Wifi. I will test protecting this Wireless router behind a Palo Alto NGFW 3020 and see if it still drops clients. If it does.......the gains from the reduced pings and limited menu features are not worth it. Going back to Asus and making my own firewall. Stay tuned.",
+      "rating": 3.0,
+      "verified": true,
+      "author": "Kevin",
+      "helpful_votes": 0,
+      "publication_date": 20171231
+    },
+    {
+      "title": "Five Stars",
+      "text": "I love this thing. Killer Ethernet works great with my MSI motherboards Killer E2200 & E2500",
+      "rating": 5.0,
+      "verified": true,
+      "author": "jason",
+      "helpful_votes": 0,
+      "publication_date": 20180228
+    },
+    {
+      "title": "The wifi freezes multiple times a day",
+      "text": "Even day 1 I've had to restart this router multiple times a day, due both wifi bands completely disconnecting. Have a look around and you'll find a big problem with the latest firmware (late 2017). Linksys rolled everyone back to version .208, but that didn't fix my router, which came with .208 firmware. I worked with Linksys tech support for 2 days. It's not acceptable for a router this expensive to not have any base functioning firmware. Not even Windows servers expect a periodic restart any more. I learned years ago to not buy Linksys, but I was lured in by the Killer performance feature. I'm trying the Netgear Nighthawk next.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "Andrea Smith",
+      "helpful_votes": 5,
+      "publication_date": 20171219
+    },
+    {
+      "title": "beware",
+      "text": "Matches my switch but after less than 6 months it started to slow down and nothing I did helped so I tossed it the bin of useless things and put mt old faithful apple airport extreme!",
+      "rating": 2.0,
+      "verified": true,
+      "author": "Ptluzzi",
+      "helpful_votes": 0,
+      "publication_date": 20180418
+    },
+    {
+      "title": "So far the Linksys wrt32x is performing as advertised the ...",
+      "text": "So far the Linksys wrt32x is performing as advertised the ping time were cut in half before the linksys I was averaging 17ms after I installed linksys in went down to 8ms no buffering at all on different types of live streams.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "carleton",
+      "helpful_votes": 0,
+      "publication_date": 20171126
+    },
+    {
+      "title": "The Key to High Speed Internet",
+      "text": "If you need just absolute network performance, this is the router for you. The setup interface is fairly straight forward. Connecting to the ISP can take several power cycles on the router and cable MODEM. I have Cox cable as an ISP provider. What this router does not have is, the ability to administer a lot of security like some of the other Linksys routers. I also am still having problems getting the USB ports to work properly. This is the only reason I rated it at four stars.",
+      "rating": 4.0,
+      "verified": true,
+      "author": "Amazon Lover",
+      "helpful_votes": 3,
+      "publication_date": 20171221
+    },
+    {
+      "title": "Works great. Easy to set up",
+      "text": "Works great. Easy to set up. No hiccups. Ping times are much lower than my previous routers. No cons.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Heavy Bass",
+      "helpful_votes": 2,
+      "publication_date": 20171006
+    },
+    {
+      "title": "This is like oh I am winning because of a cool technology",
+      "text": "This is like oh I am winning because of a cool technology. This router is the best on the market!",
+      "rating": 5.0,
+      "verified": true,
+      "author": "GunOil",
+      "helpful_votes": 0,
+      "publication_date": 20180330
+    },
+    {
+      "title": "Great product, I buy from amazon all the time ...",
+      "text": "Great product, I buy from amazon all the time for gifts etc. would tell everyone about amazon if they did not already know",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Kindle Customer",
+      "helpful_votes": 0,
+      "publication_date": 20171211
+    },
+    {
+      "title": "Easy Open VPN",
+      "text": "Easy set up, and the Open VPN feature is a snap to use. Great speeds. Nice interface",
+      "rating": 5.0,
+      "verified": true,
+      "author": "GForse",
+      "helpful_votes": 0,
+      "publication_date": 20180416
+    }
+  ],
+  "product_meta": {
+    "title": "Linksys WRT32X AC3200 Dual-Band WiFi Gaming Router with Killer Prioritization Engine",
+    "description": "Model:WRT32XEngineered purely for gaming, the Linksys WRT32X Gaming Router with Killer Prioritization Engine provides a dominating home network. This high performance gaming router synchronizes with Killer enabled PCs from brands such as Alienware, Gigabyte, MSI and Razer to reduce peak ping times by 77 percent and deliver smooth, lag free gaming. You gain an unrivaled advantage over your competition in MOBAs, shooters, and other games where a single millisecond can mean victory or defeat.\n\nFROM THE MANUFACTURER\n \n\n\n\n\nBuilt Exclusively for Gaming The WRT32X Gaming Router uses the Killer Prioritization Engine to make gaming the most important networking actvitiy in the home. This high-performaning router synchronizes with Killer-enabled PCs--Alienware, Gigabyte, MSI and Razer--to deliver smooth lag-free gaming.\n\nReduce Peak Ping by up to 77%* Built from the ground up, the WRT32X with Killer Prioritization Engine reduces peak ping by up to 77% to provide faster response and smoother gaming.* \n*Killer reduces peak ping by 77%, calculated from the reduction of peak ping rate from 74 milliseconds (ms) to 17 ms when using the Killer Prioritization Engine on the WRT32X and a Killer-enabled PC using a 10 megabits per second (Mbps) down/2Mbps up internet connection that has multiple devices consuming the 10Mbps connection. \n\n\n\n\nCombined Wi-Fi Speeds Up to 3.2 Gbps The WRT32X delivers combined Wi-Fi speeds up to 3.2 Gbps for top Wi-Fi speeds throughout the home. \n\nCustom-Built User Interface With a custom-built user interface that allows you to see your home\u2019s Internet traffic, see Killer device connection, run a speed test, and more. \n\n1.8 GHz Dual-Core CPU Powerful dual-core CPU for high-speed data processing so you don't lose your edge when performing multiple task: streaming, gaming, or strategizing over voice chat.\n\n\n\n\nGigabit Ethernet Switch Ideal for LAN parties, you can connect gaming PCs, game consoles, 4K TVs, streaming devices, and additional switches at phenomenal speeds from a built-in Gigabit Ethernet switch with four ports. Whether you\u2019re wired or wireless, improved gaming is now possible.",
+    "rating": 4,
+    "feature_bullets": [
+      "The first router purpose built to prioritize gaming",
+      "The Killer Prioritization Engine identifies, prioritizes and accelerates gaming network traffic above all else, to reduce peak ping by upto 77 percent",
+      "Synchronizes with Killer enabled PCs from brands such as Alienware, Gigabyte, MSI and Razer",
+      "Promotes simultaneous high speed data processing",
+      "The WRT32X gives you dominating Next Gen AC Wi Fi speeds up to 3.2 Gbps that keep you at the top of your game",
+      "Each connected client device receives its own dedicated data stream, so multiple users won't have to compete with 1 another for bandwidth",
+      "The WRT32X gaming router also features a pro grade Gigabit Ethernet switch with 4 ports, making it ideal for connecting multiple gaming rigs or consoles at your next LAN party",
+      "Dynamic frequency selection (DFS) certification from the FCC not only allows operation at 160MHz enabling Tri Stream160, but it also triples the channels available at 80MHz so the WRT32X can operate in the clearest airspace that other routers aren't allowed"
+    ],
+    "specifications": {
+      "Wireless Type": "802.11a/b/g/n/ac",
+      "Brand": "Linksys",
+      "Series": "WRT32X",
+      "Item model number": "WRT32X",
+      "Item Weight": "1.76 pounds",
+      "Product Dimensions": "2.04 x 9.68 x 7.63 inches",
+      "Item Dimensions  LxWxH": "2.04 x 9.68 x 7.63 inches",
+      "Color": "Black",
+      "Voltage": "12 Volts",
+      "Batteries": "1 Lithium ion batteries required.",
+      "Manufacturer": "Linksys",
+      "ASIN": "B072LQZFHM",
+      "Is Discontinued By Manufacturer": "No",
+      "Date First Available": "August 22, 2017",
+      "Customer Reviews": "4.0 out of 5 stars349 ratings4.0 out of 5 stars",
+      "Best Sellers Rank": "#6,473 in Computers & Accessories"
+    },
+    "categories": [
+      "Computers & Accessories",
+      "Electronics",
+      "Routers",
+      "Networking Products"
+    ],
+    "price": 289.99
+  }
+}

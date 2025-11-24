@@ -1,0 +1,535 @@
+{
+  "website_summaries": [
+    {
+      "verdict": "Intel's newest NUC (Next Unit of Computing) Kit  D54250WYK improves on the original version by offering more connectivity features and the latest processor technology. You'll still have to supply many of your own components though.",
+      "pros": [
+        "Tiny form factor",
+        "HDMI and DisplayPort outputs",
+        "USB 3.0",
+        "Haswell technology"
+      ],
+      "cons": [
+        "Price does not include storage or RAM",
+        "Limited expandability",
+        "Sluggish graphics performance"
+      ],
+      "aspects": {},
+      "publication_date": 20140116,
+      "rating": 8.0,
+      "source": "pcmag"
+    }
+  ],
+  "customer_reviews": [
+    {
+      "title": "Fantastic little Linux box",
+      "text": "I bought this system with the Crucial 16GB kit (CT2C8G3S160BM) and a Crucial M500 240GB mSATA Internal Solid State Drive (CT240M500SSD3) and it is awesome. I installed Fedora 20 on it and everything booted first time, flawlessly. In the 15 years I've been working with Linux, that's a first. With the SSD, this computer boots in 10 seconds (including the 5 second delay for you to select which Linux kernel to boot). The performance is fantastic as the system is unbelievably responsive. Admittedly, this is not a gaming system, but it smokes our windows laptop and crushes everything our family want to do with it.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Kevin Somervill",
+      "helpful_votes": 10,
+      "publication_date": 20140412
+    },
+    {
+      "title": "Great mini PC - Be aware of potential thermal issues.",
+      "text": "These are exceptionally awesome little computers. I have one of them for each TV in the house configured with 16GB of RAM and a 240GB SSD drive, and use them for everything from streaming Netflix to surfing Amazon, email and word processing, etc. without any slowness. I highly recommend the Logitech K400 wireless keyboard with touchpad as an accessory. They are somewhat thermally sensitive. If you put them in a closed space with no ventilation, they will periodically overheat and require turning completely off, letting them cool down, and powering back up. They need some \"breathing room\", but besides that, I highly recommend them.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Tessa",
+      "helpful_votes": 0,
+      "publication_date": 20151210
+    },
+    {
+      "title": "Wonderful device, small, power efficient, and speedy",
+      "text": "I really love my new NUC! Have already recommended this product to friends and family, and would recommend it to anyone but a high-end gamer. Very cost effective, no fan or HD noise, and very speedy for all of the business applications I have tried. I am driving an HP QHD display (2560x1440) with an inexpensive DisplayPort cable. I have also tried driving a small 1080p flat-panel television using the HDMI output and this worked quite well. Being 100% solid-state has the advantage of fast RAM, and fast SSD storage. This is a wonderful combination, which works very well with Windows 8.1.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Russell D.",
+      "helpful_votes": 0,
+      "publication_date": 20140604
+    },
+    {
+      "title": "Great replacement bench computer for my old XP tower machine",
+      "text": "With the advent of motherboard peripheral integration, very few people use expansion cards any more. Everything is available either on the motherboard or via USB connection. So I dumped the old XP tower used for testing and repair (mostly imaging disks) in favor of this tiny beast. For a fraction of the footprint with the addition of 16g memory $80, an 250g SSD $119, a StarTech drive $79 dock and Win 8.1 I got a state of the art bench computer in a few square inches. It would be 5 stars if they could get the pricing down a little.",
+      "rating": 4.0,
+      "verified": true,
+      "author": "Veritatis cupitor",
+      "helpful_votes": 0,
+      "publication_date": 20140527
+    },
+    {
+      "title": "I have deployed 3 of these in businesses as a ...",
+      "text": "I have deployed 3 of these in businesses as a enterprise web app servers and mysql dbs. Added 16GB RAM, 500GB SSD....running on ubuntu. This thing is a beast. After a year of operation on one of them, it hasn't given me any grief so far. Small footprint is key. It beats out older loud power-sucking 1U servers that I would have used back in the old days.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "A. Chang",
+      "helpful_votes": 2,
+      "publication_date": 20150210
+    },
+    {
+      "title": "Great machine!",
+      "text": "Fantastic and powerful little machine. I loaded mine up with 8GB DDR3RAM, 120GB SSD, and an internal Wifi NIC and it has performed beautifully! The only issue I ever have is the cooling/airflow. The NUC will overheat quickly during any kind of moderate-intense processing without proper cooling (which currently doesn't seem readily available - after looking around, I haven't really found a whole lot of cooling designs/options). I find that it will mostly take care of what I want it to (Browsing/video playback/very light gaming) as long as I have it on it's side with a fan aimed at it.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Jeremy",
+      "helpful_votes": 0,
+      "publication_date": 20150402
+    },
+    {
+      "title": "Surprisingly fast. Couldn't ask more from it.",
+      "text": "Put it to work with 8Gb of memory and an SSD msata drive and used it as media center. This thing flies, boots windows 8 in about 8 seconds and is perfect for what I need from this box (mostly browsing, streaming and photo editing). Of course, it lacks real graphics power for any real gaming, but that's to be expected from the intel graphics. Only problem I had was with the network driver. The ethernet port seems to loose connectivity every few days and require me to restart the network adapter. Only happened with windows (probably a driver issue).",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Francisco Costa",
+      "helpful_votes": 0,
+      "publication_date": 20140920
+    },
+    {
+      "title": "it's working beautifully. I have a continuous integration server package running ...",
+      "text": "I bought this little box to run in my office as an energy efficient continuous integration server, and loaded it up with a 120M SSD and 16G RAM. I've got Debian 7 installed on it as the base operating system. So far, it's working beautifully. I have a continuous integration server package running on it (Jenkins CI) that builds virtual machines for running automated tests, then tears down the virtual machine and leaves the test results for reporting purposes. It's handled everything I've thrown at it so far. I love the fact that it's quiet, reliable, and \"just works\".",
+      "rating": 5.0,
+      "verified": true,
+      "author": "PHPDeveloper",
+      "helpful_votes": 0,
+      "publication_date": 20141216
+    },
+    {
+      "title": "This is an awesome little computer",
+      "text": "This is an awesome little computer. Boots up in less than 5 seconds, is fast, totally silent, and mounts on the back of the monitor so it's completely invisible from the front. I'm never going to buy another full-size desktop again. You may not want it if you're into heavy-duty gaming, but for most uses it's perfect.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Stuart L.",
+      "helpful_votes": 0,
+      "publication_date": 20150304
+    },
+    {
+      "title": "I liked this so much I bought a second unit for ...",
+      "text": "I liked this so much I bought a second unit for my ham radio station, where I didn't have space for a bigger computer. Easy to assemble, runs the latest Windows 8.1. I installed the wifi card, 16 gigs of ram, and a 240 gig SSD, all of which work well. Highly recommended!",
+      "rating": 5.0,
+      "verified": true,
+      "author": "David Hume",
+      "helpful_votes": 2,
+      "publication_date": 20150304
+    },
+    {
+      "title": "and I enjoy tinkering with it as an HTPC XBMC client",
+      "text": "Works well, and I enjoy tinkering with it as an HTPC XBMC client. I only gave it 4 stars because initial Linux setup on this NUC was slightly trickier than on any other computer I've installed it on. But once I figured it out it's worked well for the most part.",
+      "rating": 4.0,
+      "verified": true,
+      "author": "jcfromsanjose",
+      "helpful_votes": 0,
+      "publication_date": 20141101
+    },
+    {
+      "title": "My setup: Intel Network 7260. HMWG WiFi Wireless-AC ...",
+      "text": "My setup: Intel Network 7260.HMWG WiFi Wireless-AC 7260 H/T Dual Band 2x2 AC+Bluetooth HMC Crucial 8GB Single DDR3 1600 MT/s (PC3-12800) CL11 SODIMM 204-Pin 1.35V/1.5V Notebook Memory CT102464BF160B Crucial MX200 250GB mSATA Internal Solid State Drive - CT250MX200SSD3 Acer G247HL bid 24-inch Full HD (1920 x 1080) Widescreen Display I first installed the linux fedora 20 but had to settle with windows 7. For dual monitor setup you will need a mini hdmi to hdmi cable and a mini displayport to hdmi cable.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Lee Mbugua",
+      "helpful_votes": 0,
+      "publication_date": 20150325
+    },
+    {
+      "title": "This is close to perfect. Wifi is perfect with the \"Intel Network 7260",
+      "text": "This is close to perfect. Wifi is perfect with the \"Intel Network 7260.HMWG WiFi Wireless-AC 7260\" card installed. It constantly wakes up from sleep mode and I think its an issue with Displayport or HDMI. I could have utilized more than 2 USB ports in the back.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "cmk1523",
+      "helpful_votes": 0,
+      "publication_date": 20150128
+    },
+    {
+      "title": "A sweet little Home Theater PC base unit",
+      "text": "This is the perfect unit for home theater PCs. I love that it has a built-in infra-red receiver on the front which allowed me to removed a couple devices and an external IR repeater. I followed another Amazon Buyer's advice and picked up these additional parts: mini-HDMI to HDMI:  mini WiFi / Bluetooth card:  mSATA 256 Gig:  A nice ATSC HD Antenna:  A really nice HD Tuner to go with that antenna:  To save a little money I only put 4 Gig of Crucial RAM",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Chad Brinkman",
+      "helpful_votes": 3,
+      "publication_date": 20140707
+    },
+    {
+      "title": "Bought to make my own windows imac equivalent",
+      "text": "It works just as well as my laptop. Which has the same processor. No problem installing windows 8.1 on it. Went smooth. Its reasonably quite. It makes a little noise when running a matlab simulation for about 1 hr straight, this is my way of testing my computers. That is expected. But not as much as my old computer. The vesa mount worked well. All necessary screws were included.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Anindya Ambuj",
+      "helpful_votes": 0,
+      "publication_date": 20140522
+    },
+    {
+      "title": "Works. Running 16 gb ram, 240 gb ssd ...",
+      "text": "Works. Running 16 gb ram, 240 gb ssd, linux host and windows vm's, dual monitors. Silent operation. Hokey intel bios. Firmware update required to boot linux from USB. Tiny footprint, about the size of a stack of 3 slices of white bread.",
+      "rating": 4.0,
+      "verified": true,
+      "author": "bob",
+      "helpful_votes": 2,
+      "publication_date": 20150302
+    },
+    {
+      "title": "Second try was the charme gret supplier!",
+      "text": "The computer came in as a Chinese market computer and I could not load the drivers. the supplier sent a correct unit out with in 32 day I was here and is working great. Everything else was perfect. Very good supplier",
+      "rating": 5.0,
+      "verified": true,
+      "author": "HT3",
+      "helpful_votes": 0,
+      "publication_date": 20141120
+    },
+    {
+      "title": "How Could Something So Small Be So Powerful?",
+      "text": "You have to patiently step through all of the driver downloads. Some are at windows, some are at Intel. But, once it is all loaded and up and running it works like a charm. I am using it as an HTPC. I installed a 500 GB SSD drive and 16GB of memory.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "H. B. Calder",
+      "helpful_votes": 0,
+      "publication_date": 20141228
+    },
+    {
+      "title": "Great buy",
+      "text": "I love this thing ! It's blazing fast, ultra compact and decoding video is suberb. Only reasons I didnt give it 5 stars is that Intel needs to add a power-on via keyboard option (you can only wake it from sleep, not power on via keyboard) and that it's still actively cooled (I always prefer passive cooling, although I must say the noise the cooler makes is very faint).",
+      "rating": 4.0,
+      "verified": true,
+      "author": "Allard",
+      "helpful_votes": 0,
+      "publication_date": 20140418
+    },
+    {
+      "title": "Does everything I want it to do very well. ...",
+      "text": "Does everything I want it to do very well. I got sick of those half baked media players out there have unusably slow interfaces. I put a 256GB SSD in this with a spare wireless card I had lying around, put windows 8.1 on it, installed XBMC and everything worked flawlessly.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Boyd",
+      "helpful_votes": 0,
+      "publication_date": 20150725
+    },
+    {
+      "title": "Intel NUC - The new DIY computer",
+      "text": "I've built several computers in the past, but when this became available it formed the ideal base for a computer replacement for my wife's dying Dell laptop. Adding a WiFi card, memory and an SSD was easy. Loaded Windows 7 and she has been thrilled by it's speed and reliability for the last 6 weeks. She loves the small form factor. I'll probably build one for myself also.",
+      "rating": 4.0,
+      "verified": true,
+      "author": "Jay Friesen",
+      "helpful_votes": 0,
+      "publication_date": 20140610
+    },
+    {
+      "title": "smart, high performance kit",
+      "text": "It is a small, smart, high performance kit. I just replace my old compatible PC with this new box. I installed win8.1 and archlinux on it. It runs very well, fast and quietly.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Xin Jin",
+      "helpful_votes": 0,
+      "publication_date": 20150417
+    },
+    {
+      "title": "and I couldn't think of anything better if you're looking to run a low powered server ...",
+      "text": "Bought two of these to run as an ESXi cluster in my house. They're tiny powerhouses, and I couldn't think of anything better if you're looking to run a low powered server at home.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Ian",
+      "helpful_votes": 0,
+      "publication_date": 20141123
+    },
+    {
+      "title": "The Intel NUC is really a great small computer",
+      "text": "The Intel NUC is really a great small computer. Installation was seamless except the bios needed an update first and it didn't seem to read a NTFS USB memory stick on boot up. It read a FAT32 stick just fine and then allowed me to install Win7 with no issues. With a 128GB SSD, the Boot time is less the 10 seconds.",
+      "rating": 4.0,
+      "verified": true,
+      "author": "Crabby",
+      "helpful_votes": 0,
+      "publication_date": 20141230
+    },
+    {
+      "title": "fast and quiet!",
+      "text": "This is a very fast unit and is whisper quiet. It is providing a very low power alternative to a Windows NAS and Media server, quite capable of handling the load.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Thomas W. Knox",
+      "helpful_votes": 0,
+      "publication_date": 20140504
+    },
+    {
+      "title": "So cool.",
+      "text": "Love these units. With 8GB RAM and SSD this should be plenty fast for general use for a long time. You won't believe the size!",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Matthew Kuennen",
+      "helpful_votes": 0,
+      "publication_date": 20141023
+    },
+    {
+      "title": "Great computer",
+      "text": "My son is a computer science major. The NUC would easily fit in his backpack. When compared to the workstations in the computer science lab the NUC won the overall experience rating. It was a little slower but, that was only because it was being compared to an i7 Intel processor. It performs well and is fast and quite.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "George",
+      "helpful_votes": 0,
+      "publication_date": 20140515
+    },
+    {
+      "title": "Installed 16Gb memory, Crucial M500, 480Gb mSATA Logitech ...",
+      "text": "Installed 16Gb memory, Crucial M500, 480Gb mSATA Logitech K400 wireless keyboard and Windows 10 Plus an external USB blue ray dvd player/recorder, a usb harddrive and a 128GB USB flashdrive. The msata drive was not initially recognized. I had add a delay in the bios setup. After that everything worked Initially the windows screen on the TV was a little outside the limits and I could not see the entire menu. After installing the graphic drivers from intel (plus all the other drivers and updating the bios), I was able to adjust the screen to match the TV. So far all is working and I did not encounter any problems. It seems fast and responsive.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Bill",
+      "helpful_votes": 0,
+      "publication_date": 20141206
+    },
+    {
+      "title": "Nice little server if the fan wasn't rattling",
+      "text": "Great powerful product. Installed Ubuntu on it and works like a charm. However after a month of continuous use as a low load server, the fan is making rattling noises. Calling in the support to ask for a fan replacement.",
+      "rating": 4.0,
+      "verified": true,
+      "author": "DataR2",
+      "helpful_votes": 0,
+      "publication_date": 20160119
+    },
+    {
+      "title": "Great HTPC & Workstation Pick",
+      "text": "These are fast, small and barely use any power. I've purchased two, one for our home theater PC & one to replace my wife's desktop and they're perfect in both applications.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Format",
+      "helpful_votes": 0,
+      "publication_date": 20150124
+    },
+    {
+      "title": "Great Small form PC",
+      "text": "Great Small form PC, with flexibility to add memory (RAM and SSD) and wireless. Very small, quiet, making it perfect to stay in your living room.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Gilberto Guimar\u00e3es",
+      "helpful_votes": 0,
+      "publication_date": 20150203
+    },
+    {
+      "title": "Love this. Wish I could load Mac OS X ...",
+      "text": "TINY! FAST! Love this. Wish I could load Mac OS X on it :)",
+      "rating": 5.0,
+      "verified": true,
+      "author": "P. Cahill",
+      "helpful_votes": 0,
+      "publication_date": 20141208
+    },
+    {
+      "title": "Love my media Server!",
+      "text": "Totally awesome. Setup a breeze and it is the perfect media server! Both Linux or Windows 7 were easy to configure. Settled on W7 for iTunes.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Astroguy22",
+      "helpful_votes": 0,
+      "publication_date": 20140616
+    },
+    {
+      "title": "Disable UEFI and you have a stellar portable ESXi or KVM server!",
+      "text": "I simply cannot say enough positive things about this product. Order it with 16GB of RAM, a 120GB or greater mSSD, a 32GB USB 3.0 thumb flash drive (to get an OS loaded on it), and a mini-HDMI-to-HDMI cable, and you're in business! I'm seriously considering replacing every tower in my home lab with these now.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "CISSP",
+      "helpful_votes": 3,
+      "publication_date": 20140320
+    },
+    {
+      "title": "Works perfect.",
+      "text": "I use it as a media center PC and file server. Works perfect.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Egon",
+      "helpful_votes": 0,
+      "publication_date": 20150202
+    },
+    {
+      "title": "Excellent stuff, I use it with a TV for ...",
+      "text": "Excellent stuff, I use it with a TV for web browsing and even some gaming (minecraft, steam+portal) and it works excellent. There is a fan in in, but it produces no notable noise.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "M. Banny",
+      "helpful_votes": 0,
+      "publication_date": 20141218
+    },
+    {
+      "title": "Nice little machine...",
+      "text": "I really like the machine. Unfortunately for me I broke one of the wires going to the Wi-Fi card.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Creative Artist",
+      "helpful_votes": 0,
+      "publication_date": 20141220
+    },
+    {
+      "title": "If you are not demanding gamers is highly recommended. Has a very small size of the personal ...",
+      "text": "If you are not demanding gamers is highly recommended. Has a very small size of the personal computer, Windows 8.1 and very good resistance. The use of a wireless mouse and keyboard makes the book very cool parent. The perfect product for me. Since if more advanced products will once again come to the same purchase. Very satisfied with the product referred Thanks to Amazon.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Eun Mok",
+      "helpful_votes": 7,
+      "publication_date": 20150324
+    },
+    {
+      "title": "Over all is a great system with such a small footprint for its PoweR",
+      "text": "I Honestly build high end gaming rigs... left and right when my friend opened the box to this NUC and I heard the sound I was sold, listed my x99 34k Firesrike 3dmark pc ASAP. Over all is a great system with such a small footprint for its PoweR. who needs to render at Terra flops, i just need to be-able to host multiple applications on a system that wont under or over power its self. =]",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Core",
+      "helpful_votes": 0,
+      "publication_date": 20141215
+    },
+    {
+      "title": "very nice exp.",
+      "text": "This device is very powerful computer with i5. But it use low electronic power and very silent. And delivery was very fast. so gooood.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Kei noh",
+      "helpful_votes": 0,
+      "publication_date": 20140515
+    },
+    {
+      "title": "Five Stars",
+      "text": "Very good small pc, good value! shipping a bit slow, but good packing.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Patrick Wan",
+      "helpful_votes": 0,
+      "publication_date": 20140914
+    },
+    {
+      "title": "I'd give it 10 stars if it were less costly",
+      "text": "I guess the latest processor justifies the high price. This unit's video is wonderful. It is very fast running Windows. I added an 8-port USB hub to attach all my stuff, all of which works fine. Recommended, especially if space is tight.",
+      "rating": 4.0,
+      "verified": true,
+      "author": "A. L. Shultes",
+      "helpful_votes": 0,
+      "publication_date": 20140403
+    },
+    {
+      "title": "Liking it so far...",
+      "text": "I successfully installed the 8gb single ddr3 ram (will eventually add another 8gb in the future), the m-sata 240gb, and the ac7260 wifi + bluetooth. The biggest challenge for me was trying to attach the two grey and black antenna wires onto the chip. I was eventually able to get it in. Using this as a HTPC. On first boot set up, I forgot to make changes to BIOS but it didn't seem to matter as it was able to successfully install and boot into windows 8.1 anyways. Everything seems to be running smoothly overall.",
+      "rating": 4.0,
+      "verified": true,
+      "author": "Raymond Ng",
+      "helpful_votes": 0,
+      "publication_date": 20140327
+    },
+    {
+      "title": "Amazing!",
+      "text": "Amazing computing power in such a tiny package - running windows 10 like a dream. Requires RAM & storage, but also accepts a wifi card - I got 8GB RAM and a 240GB SSD with an AC wireless card. Runs stable, quiet & cool.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "rets38mot",
+      "helpful_votes": 0,
+      "publication_date": 20151001
+    },
+    {
+      "title": "Great Product !!!",
+      "text": "I bought two of these devices (Intel NUC D54250WYK1 Intel 4th Gen Core); one in April and one in June, 2015. Both have been working great. They've been running very nice, quiet and haven't have any problems.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "MTL",
+      "helpful_votes": 0,
+      "publication_date": 20150809
+    },
+    {
+      "title": "Great Performance",
+      "text": "I was very surprised with this device. The performance is unbelievable for the size, comparable to some full sized desktops.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "JPhillips",
+      "helpful_votes": 0,
+      "publication_date": 20140519
+    },
+    {
+      "title": "Intel NUC is super addition to my small lab",
+      "text": "Love it, small but a big lab multiplier; Brocade vADX, vRouter (Vyatta); CentOS w KVM VMs, etc. Lots more possibilities",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Eyes_and_Ears",
+      "helpful_votes": 2,
+      "publication_date": 20140409
+    },
+    {
+      "title": "I love this NUC",
+      "text": "I love this NUC. Replaced a huge desktop and is twice as fast. I just wish it came with dual NIC's.",
+      "rating": 4.0,
+      "verified": true,
+      "author": "Skiff Sumner",
+      "helpful_votes": 0,
+      "publication_date": 20141229
+    },
+    {
+      "title": "really mini HDMI  ???",
+      "text": "Really Mini HDMI and not mention anywhere in the box.. Still looking for connector cables mini HDMI to DVI is not available. Would have to get a new monitors",
+      "rating": 4.0,
+      "verified": true,
+      "author": "Angel",
+      "helpful_votes": 0,
+      "publication_date": 20140424
+    },
+    {
+      "title": "Front USBs don't work. Heating issue if VESA mounted ...",
+      "text": "Front USBs don't work. Heating issue if VESA mounted on the back of a monitor. One of twenty that I ordered was DOA",
+      "rating": 2.0,
+      "verified": true,
+      "author": "Danish",
+      "helpful_votes": 3,
+      "publication_date": 20141006
+    },
+    {
+      "title": "Fast - but not that future proof!",
+      "text": "This little thing can play 1080p videos encoded with current codecs flawlessly by leveraging Intel QuickSync technology through the video chipset. However, it falls flat on its face when a new video codec standard (H.265) was thrown at it. QuickSync could not decode H.265 so that leaves the job up to the cpu - which pegged at 100% on complex scenes. The result was still pictures instead of fluid motion. Perfect for online audio/video, web browse, lab, etc..., but barely missed the mark as a high-end local networked video streaming system.",
+      "rating": 3.0,
+      "verified": true,
+      "author": "BD",
+      "helpful_votes": 8,
+      "publication_date": 20140220
+    },
+    {
+      "title": "Great size, quiet as can be, but integrated graphics are terrbile",
+      "text": "Just about anyone who has a working set of eyes is complaining about the graphics on these things. You can add me to that list too. The integrated Intel HD Graphics 5000 on this little thing is a joke. If I had a chance to do it over again, I would have paid a little more and gotten the Gigabyte Pro/Gamer model with the separate GPU installed on it. This tiny machine servers it's purpose as an inexpensive secondary HTPC, but I would go crazy looking at this thing all day as my primary device. If you have to adjust the overscan/undersscan to work with your monitor you will see exactly what I am talking about.",
+      "rating": 3.0,
+      "verified": true,
+      "author": "Matthew Jensen",
+      "helpful_votes": 0,
+      "publication_date": 20141017
+    },
+    {
+      "title": "Intel dictates what software you can run on hardware that ...",
+      "text": "Intel dictates what software you can run on hardware that you purchased. They only support desktop operating systems and do not offer any drivers for server based systems. My next purchase certainly won't be another Intel.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "awelch",
+      "helpful_votes": 4,
+      "publication_date": 20140915
+    }
+  ],
+  "product_meta": {
+    "title": "Intel NUC D54250WYK1 4th Gen Core i5-4250U Processor with Power Cord",
+    "description": "GENERAL\n\nCPU SUPPORTED\n\nMEMORY SUPPORTED\n\nEXPANSION SLOTS\n\nSTORAGE\n\nGRAPHICS\n\nAUDIO\n\nCOMMUNICATIONS\n\nFRONT PANEL PORTS\n\nBACK PANEL PORTS\n\nPOWER SUPPLY\n\nPHYSICAL SPEC\n\nFEATURES\n\nPACKAGING",
+    "rating": 4.2,
+    "feature_bullets": [
+      "4th Generation Intel Core i5-4250U processor",
+      "Intel HD Graphics 5000",
+      "Dual channel SODIMM DDR3L 1333/1600 MHz, 1.35V",
+      "Intel Turbo Boost Technology 2.0",
+      "Supports Mobile SATA (SSD) card via full-length PCIe Mini Card",
+      "Intel WiDi Supported",
+      "4 USB3.0 Ports",
+      "Headphone/Microphone Jack"
+    ],
+    "specifications": {
+      "Product Dimensions": "4.59 x 4.41 x 2.03 inches",
+      "Item Weight": "2.55 pounds",
+      "Manufacturer": "Intel",
+      "ASIN": "B00H3YT8CC",
+      "Item model number": "BOXD54250WYK1",
+      "Batteries": "1 Lithium Metal batteries required.",
+      "Customer Reviews": "4.2 out of 5 stars104 ratings4.2 out of 5 stars",
+      "Best Sellers Rank": "#207 in Desktop Barebones",
+      "Is Discontinued By Manufacturer": "No",
+      "Date First Available": "September 18, 2013"
+    },
+    "categories": [
+      "Computers & Accessories",
+      "Electronics",
+      "Computer Components",
+      "Desktop Barebones"
+    ],
+    "price": ""
+  }
+}

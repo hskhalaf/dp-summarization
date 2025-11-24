@@ -1,0 +1,963 @@
+{
+  "website_summaries": [
+    {
+      "verdict": "At a very affordable price, the D-Link Wireless N Router DIR-615 makes a great entry-level Wireless-N router and would satisfy most situations where a wireless network is needed.",
+      "pros": [
+        "D-Link Wireless N Router DIR-615 offers decent Wireless-N performance at a very affordable price",
+        "It also has a responsive and intuitive Web interface"
+      ],
+      "cons": [
+        "D-Link Wireless N Router DIR-615 lacks Gigabit Ethernet, USB ports, and its throughput speed and range could be better"
+      ],
+      "aspects": {
+        "Setup": 8.0,
+        "Features": 7.0,
+        "Performance": 6.0,
+        "Support": 7.0
+      },
+      "publication_date": 20090813,
+      "rating": 7.0,
+      "source": "cnet"
+    }
+  ],
+  "customer_reviews": [
+    {
+      "title": "Four Stars",
+      "text": "It\u2019s a great product and with excellent quality. I received it very quickly. I bought this product to replace the current product I\u2019m using in the same category and I must say that it definitely does the job better than I ever would\u2019ve thought. Packaging, materials are all top notch and above my exceptions. I found this product by accident and decided to give it a shot and I couldn\u2019t be happier. It\u2019s lightweight and durable. I don\u2019t believe I will be switching products anytime soon. If you\u2019re contemplating on buying this product I\u2019d definitely give it a shot, I don\u2019t think you will be disappointed!",
+      "rating": 4.0,
+      "verified": true,
+      "author": "Nicholas Ramsey",
+      "helpful_votes": 0,
+      "publication_date": 20150918
+    },
+    {
+      "title": "but it was great router for the money",
+      "text": "I used one of these for years using both the stock firmware and DDWRT. I eventually had to replace it since the wireless signal wasn't strong enough in my new home.. but it was great router for the money. the custom firmware for DDWRT was also excellent. It was one of the most stable routers I've owned. good luck finding one, though.. long since discontinued.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Daniel Davidson",
+      "helpful_votes": 0,
+      "publication_date": 20160120
+    },
+    {
+      "title": "I have another much earlier hardware version of this router ...",
+      "text": "I have another much earlier hardware version of this router which has performed flawlessly for 5 years and still going strong. That is something I can't say about any of the other 4 brands of routers/modems I've had so getting another DIR-615 was a no-brainer for me. I run speed tests now and then to see how our 15meg fiber service is performing. Our provider guarantees 15meg service at all times and it has never varied. These routers show NO band width degradation. I'm thinking about buying another to have on hand.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "cahartley",
+      "helpful_votes": 0,
+      "publication_date": 20150124
+    },
+    {
+      "title": "Perfect for OpenVPN and Home Use",
+      "text": "This router works well with OpenVPN DD-WRT firmware. I bought this router in January 2012 to replace a Buffalo Technology Air Station Wireless Router WZR-HP-AG300H that is pre-confirgured to use DD-WRT. The Buffalo router was difficult to configure so I send it back and bought the D-Link 615 E3 instead. The D-Link router was easy to flash with the DD-WRT firmware and is working well. The signal is decent and comparable with other routers in its class. If you are looking for a router for OpenVPN at a low price,then the D-Link 615 E3 is a good choice. Hope this review will help other shoppers who would like to explore OpenVPN, but having challenges choosing the right router.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Cisco",
+      "helpful_votes": 0,
+      "publication_date": 20120905
+    },
+    {
+      "title": "Excellent Router for my needs",
+      "text": "We have two Kindles, two Droid phones, two computers, and a wifi printer on our home system. The old model G had gotten a little slow and its coverage in our home, 2K sqft, was marginal. The new D-Link DIR-615 was very easy to set up, kept same SSID name and password, and instantly everything was connected and running. I have a very fast computer and can tell the differnce that the new N300 makes. I went crosseyed reading all the Amazon rewiews and finally just picked out a router based on another friends recommendation. Well I am one of the 5 star reviewers. I can not emagine anything more straight forward or easier.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Art  Z.",
+      "helpful_votes": 0,
+      "publication_date": 20120103
+    },
+    {
+      "title": "Set up not worth it",
+      "text": "My rating is based solely on the difficulty I had with set up and installation. I started using the tutorial on the installatin CD, but when that came up with an error message I called tech support. I was on the phone with them for about 2 hours. I finally gave up and sent the router back. It probably performs well after it is installed, but the installation wizard didn't work for me with set up, and tech support told me it would have to be manually installed. They tried walking me through that. To make matters worse it was hard to understand the people I spoke with at tech support because of their strong foreign accents.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "Marilyn",
+      "helpful_votes": 0,
+      "publication_date": 20110714
+    },
+    {
+      "title": "Long lasting! Color me impressed!",
+      "text": "I bought this way back in 2010 when my last router died on me. It lasted for 6 long years with no problems before it suddenly died! So, when it finally did quit working, I decided to go with a router I trusted, and went with this exact same one again! The router I received though was different in appearance to what I had before(And different to what is pictured), but it's still the same, just has a newer look! Hopefully this will last me at least 6 years too :D",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Shaide",
+      "helpful_votes": 0,
+      "publication_date": 20131211
+    },
+    {
+      "title": "Lose wireless printer connection intermittent",
+      "text": "My wireless HP would work a couple of times then the message printer not found would show on my iPad, printer showed no error message but turning it off and back on would get it to work for a couple more times. Replaced router with a Linksys WRT54g and it worked perfect. That is why I changed my rating to two star as it would work ok with my cable modem and iPads using the Internet and my TiVo seemed to work ok.",
+      "rating": 2.0,
+      "verified": true,
+      "author": "James Reed",
+      "helpful_votes": 0,
+      "publication_date": 20150328
+    },
+    {
+      "title": "A good router for DD-WRT, and maybe for regular usage as well?",
+      "text": "I replaced the firmware with DD-WRT, and it works great. Edit: 2 years later - It still works great. The only issue is that one of the antennas has gotten a little loose and won't stay upright unless you prop it up. I still have DD-WRT on it, and it still works great. I can't speak to how well the original firmware is on this thing, but it totally will take DD-WRT, and DD-WRT gives me so much freedom. Black Lives Matter",
+      "rating": 4.0,
+      "verified": true,
+      "author": "Gabe Grimes",
+      "helpful_votes": 0,
+      "publication_date": 20180705
+    },
+    {
+      "title": "This router is absolute crap.",
+      "text": "I've had this router for a few months now and my internet has never been worse. Only when we got this \"new\" router did our internet start cutting out. If i move from the room the router is in, the internet wont connect to my computer or phone. We were also sent a different router than is pictured. So be wary before purchasing that this router may not be what you're expecting and likely wont work.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "mjferra",
+      "helpful_votes": 0,
+      "publication_date": 20190207
+    },
+    {
+      "title": "Very basic",
+      "text": "Couldn't get it to broadcast. Customer support was stumped. It's doing it's thing as a router.",
+      "rating": 3.0,
+      "verified": true,
+      "author": "brad brady",
+      "helpful_votes": 0,
+      "publication_date": 20181225
+    },
+    {
+      "title": "No issues, works fast, good range",
+      "text": "As others have stated, the firmware updates that have occurred in the time period since some of these reviews has fixed all of the problems that anyone may have had with this router. My husband had this router installed within minutes, and I was able to connect with my laptop downstairs with no issues. I have used this router to stream Amazon Instant Videos, YouTube videos, and play World of Warcraft, all wirelessly, with no noticeable lag. Considering the price of this router versus other routers in the same category, it is well worth the money.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "M. Smith",
+      "helpful_votes": 0,
+      "publication_date": 20120102
+    },
+    {
+      "title": "Worthless",
+      "text": "Complete garbage. This router likes to reboot itself frequently and will not stay online. I updated the firmware twice, tried changing settings; disabling traffic shaping, turn off WPS, all that garbage. After screwing around with this thing for like 2 weeks, and getting the exact same result with different cable modems in different locations, I have come to the conclusion that this product is garbage. The price is enticing, but don't waste your time.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "The 3 of Us",
+      "helpful_votes": 0,
+      "publication_date": 20150510
+    },
+    {
+      "title": "Had to use it as a wireless access point",
+      "text": "The router did not work with my Bellsouth Westell DSL modem. Tech support tried but were not much help, only recommendation at the end was to update Firmware. After the software update, still no luck. Then, I found on the internet that it may work as a wireless access point. Turned off DHCP, and turned it into basically a switch or hub. I am using this way and is working fine. Good signal strength and good throughput. So far is working fine (in this mode), but just be aware you may have connection issues depending on your ISP and interfacing equipment.",
+      "rating": 3.0,
+      "verified": true,
+      "author": "Hector A. Ramos",
+      "helpful_votes": 2,
+      "publication_date": 20080517
+    },
+    {
+      "title": "Not better signal strength",
+      "text": "I bought this N router to replace a G netgear so I could get better signal strength to a particular location. This N router doesn't get as strong a signal to that desk than the G does. I also bought a Dlink USB MIMO antenna for the laptop I use there and got 6.5 Mbps compared to 11 Mbps from G with built in antenna. N didn't help for this location and Dlink MIMO doesn't work as advertised for me. I will never buy Dlink again. I also had setup problems. I finally had to call tech support to get it working. I did have good tech support from them.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "T. McClanahan",
+      "helpful_votes": 0,
+      "publication_date": 20091219
+    },
+    {
+      "title": "D-Link DIR 615 wireless n router",
+      "text": "After reviewing some of the reviews I was concerned, but other reviews were very good. I have been running this router for my new laptop and old Dell desktop. The Dell is plugged in with an ethernet cord, the laptop is wireless N. NO PROBLEMS hooking the router up to Verizon DSL. No problems connecting the laptop. Some difficulty with the network (PC-PC), but this is not a big deal to me. This router was an awesome price, $30-$40 less than other brands. It performs better than my Linksys or Netgear routers ever did. The range covers the whole house. I am very pleased!",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Yoyo",
+      "helpful_votes": 0,
+      "publication_date": 20090408
+    },
+    {
+      "title": "This is the perfect entry level router",
+      "text": "This is the perfect entry level router. You get what you get. It is not fancy and does not do all the things a $150 router does.. But for the price you can not beat it. I have used D-Link for over 12 years and have only had one go bad. You plug it in, set it up and you are done. This is the router I also purchase for my pc home users. Make sure you read the setup instructions and take your time. It will work. A+",
+      "rating": 5.0,
+      "verified": true,
+      "author": "William Michael Alford",
+      "helpful_votes": 0,
+      "publication_date": 20140702
+    },
+    {
+      "title": "Doesn't work with Polycom VOIP phones",
+      "text": "I was attempting to upgrade from a Linksys WRT54GS (with current firmware) to obtain \"n\" wireless and perhaps better wireless range. I never dreamed I'd be stopped dead in my tracks hooking up my VOIP phone. I opened all ports per the phone manufacturer's instructions, and even put the phone's IP in the DMZ: no joy. Next, I called D-Link customer no-service: the agent was difficult to understand and could offer no assistance to correct the issue. This dog won't hunt so is going back for refund. Too bad, because wireless on this router is excellent.",
+      "rating": 2.0,
+      "verified": true,
+      "author": "DiverCat007",
+      "helpful_votes": 0,
+      "publication_date": 20110210
+    },
+    {
+      "title": "Port forwarding failed to configure",
+      "text": "There must be a way, but not obvious, since I just configured the obvious thing -- and I usually very savvy when it comes to configuring routes and iptables. Also, the version being sold (DIR-615 I1) is not yet supported by DD-WRT -- that was my original plan. Finally when I tried to write D-LINK for support (after failing to search anything to help me with portforwarding) they must have misconfigured the url in their form. In other words, their site is broken, and I can't send messages to support. So they get 1 star because Amazon doesn't allow me to set 0 stars :)",
+      "rating": 1.0,
+      "verified": true,
+      "author": "Jan Pfeifer",
+      "helpful_votes": 0,
+      "publication_date": 20120706
+    },
+    {
+      "title": "Decent hardware if you know what you're doing, but too many dropped wifi connections",
+      "text": "After I first installed, my speeds were terrible. I had to manually program all my devices and the router itself to use the -N speed. The only drawback is any devices that don't support N (I have a couple), I had to set up a separate device or I'd lose speed on everything. I could work around all of that, but I have unreliable wifi that drops connections, once in a while I need to completely reboot the system. Not bad for the money, if you are comfortable programming it.",
+      "rating": 3.0,
+      "verified": true,
+      "author": "ktulo37",
+      "helpful_votes": 0,
+      "publication_date": 20140201
+    },
+    {
+      "title": "Couldn't be happier...",
+      "text": "One of the easiest routers I've ever set up. Hub works great as well as the Wireless. Sends a dependable and strong signal through the house that has solid walls with no problem. This is the second time I've purchased the DIR-615. Direct hit from lightning took out the first one I'd been using for several years. Couldn't be happier.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Tony Loper",
+      "helpful_votes": 0,
+      "publication_date": 20150915
+    },
+    {
+      "title": "Customer Service problems",
+      "text": "I will start by saying that the D-Link router I bought seems to be a good product at a very reasonable price. I had problems setting it up. I called customer service. The people were very difficult to understand. In addition, even though I called back many times, they kept taking me through the same routine every time even though it was obviously not correcting my problem. I finally resolved the problem on my own. The bottom line is that the product is good, but don't count on the instructions or customer service to get it set up.",
+      "rating": 3.0,
+      "verified": true,
+      "author": "J. F. Weber",
+      "helpful_votes": 0,
+      "publication_date": 20090219
+    },
+    {
+      "title": "A Waste of Time and Money",
+      "text": "My old D-Link router was giving out after several years, so I bought this one as a replacement. What a disaster! The set up program kept crashing during set up, so it took me almost 6 hours to finally get the darn thing working. It worked fine for a week or so. Then I kept having problems with all of my connections (notebook, netbook, wireless printer, PS3, and Wii). It got to the point where I had to reboot the router every time I wanted to get online, play a game, or print anything. Buyer beware!",
+      "rating": 1.0,
+      "verified": true,
+      "author": "Jonathan Woodman",
+      "helpful_votes": 0,
+      "publication_date": 20091227
+    },
+    {
+      "title": "Newer revisions don't have detachable atennas!",
+      "text": "I bought this router because I needed to upgrade to high-gain antennas in my house to get acceptable signal everywhere, and Internet reviews of the DIR-615 specifically mention that it has external antennas that I could swap out for high-gain ones. Unfortunately this is only true for older versions of the router -- D-Link killed this important feature without changing the part number, only making a tiny footnote on their product specifications page. So I will now have to pay return shipping and buy a router whose external antennas are ACTUALLY removable.",
+      "rating": 2.0,
+      "verified": true,
+      "author": "Becky KT",
+      "helpful_votes": 0,
+      "publication_date": 20110929
+    },
+    {
+      "title": "Excellent Wireless Router for my Needs",
+      "text": "Received D-Link DIR-615 router quickly via Amazon. Set-up out of the box was extremely fast and easy. After set-up, I encountered a problem connecting to the internet so I contacted D-Link and spoke with Robert, the specialist who patiently walked me through the configuration process and now I'm up and running. The process was painless and took less than 30 minutes to complete. Thanks to all of you for your reviews which helped me decide on purchasing this router.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "D",
+      "helpful_votes": 0,
+      "publication_date": 20090427
+    },
+    {
+      "title": "... this device for years and it is still working fine. I used to connect this router with the ...",
+      "text": "I have been using this device for years and it is still working fine. I used to connect this router with the modem D-Link DCM-202 and was perfect. I have recently bought a new modem, Motorola SB6141, and this router still works fine. I first had a problem to connect the router to my new modem, but I called the D-link Costumer Service and got helped with a nice lady, Jake Agent ID= AR004229, and now again I can enjoy my router.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Zen",
+      "helpful_votes": 0,
+      "publication_date": 20141226
+    },
+    {
+      "title": "Lot of disconnects",
+      "text": "We used the router for over a year and had lots of disconnects, however, I've heard you can use some 3rd party firmware that can fix those issues. Since we've changed ISP's and are using there box, I never bothered with it again. I do have it still as a back up, but honestly, hope we never need it, it was that annoying to us.",
+      "rating": 3.0,
+      "verified": true,
+      "author": "HostileHST",
+      "helpful_votes": 0,
+      "publication_date": 20140411
+    },
+    {
+      "title": "never recommend",
+      "text": "I have 3 negative points to make: 1). Product Durability is not good. Antenna broke within an year. 2). Strangely, I'm experiencing poor connectivity on my personal Laptop (running Windows 7). Whereas, it's working fine on another Laptop running Windows Vista. I have upgraded my FARM Ware but it didn't help. 3). I tried to call the Customer Support on 1-877-453-5465. To my surprise, I need to give my credit card details and pay as warranty expired !!!",
+      "rating": 1.0,
+      "verified": true,
+      "author": "Anjan",
+      "helpful_votes": 0,
+      "publication_date": 20130623
+    },
+    {
+      "title": "upgrade the firmware!",
+      "text": "this thing ran terribly until i upgraded the firmware from version 5.10 to version 5.12 (Hardware Version: E3). all my devices, wifi and ethernet, would constantly lose sight of the gateway. the upgrade is not currently available from the dlink website but is available from within the router admin interface. the page is tools_firmw.asp -> Firmware Information -> \"check now\". be sure to backup you existing config as a precaution. mine was preserved in the upgrade.",
+      "rating": 2.0,
+      "verified": true,
+      "author": "Andrew J.",
+      "helpful_votes": 0,
+      "publication_date": 20150822
+    },
+    {
+      "title": "D-Link DIR 615 Wireless-N Router",
+      "text": "It did not work well at all. It is not the best quality router as it is an older one. Customer Support is very limited and they make you feel like an inconvenience to them when you call.",
+      "rating": 2.0,
+      "verified": true,
+      "author": "Kathryn Diamond",
+      "helpful_votes": 0,
+      "publication_date": 20160717
+    },
+    {
+      "title": "This router is wimpy",
+      "text": "I read lots of products descriptions before I ordered this router. I found it very hard to configure. After what seemed like two hours of frustrating attempts to set it up, it finally began working. I don't know how I did it. The real problem is that it is not powerful enough to let me use my computer troughout my 2100 square foot, two-story house. It is a real disappointment.",
+      "rating": 2.0,
+      "verified": true,
+      "author": "Rio Verde Guy",
+      "helpful_votes": 0,
+      "publication_date": 20130111
+    },
+    {
+      "title": "return",
+      "text": "Unfortunately, this piece of equipment had to be returned because it didn't work properly. I did call D_link for support and someone spent a bit of time with me trying to get it up and running, however, it didn't stay connected. I even had a computer Tech here for another computer that needed repair and he looked at this connection too and while it was properly connected; it just didn't work. I am not sure if it was the product or just a defective item.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "Quiltinfun",
+      "helpful_votes": 0,
+      "publication_date": 20090912
+    },
+    {
+      "title": "Awesome router",
+      "text": "This is my favorite router so far (I own 4 at the moment and have used many). I haven't used the Wifi so I can't speak for the wireless performance but the switch works as expected. I installed OpenWrt (Barrier Breaker, r37568) on it as soon as I received it and have had no hardware problems. Did have a minor software glitch but turning off the network bridge corrected it.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "NCTech",
+      "helpful_votes": 0,
+      "publication_date": 20131015
+    },
+    {
+      "title": "Would buy this again!",
+      "text": "I bought this since I needed a cheap and reliable wireless router with at least two ethernet ports. With $25.48 price tag, this fit the bill perfectly. I bought it used, but couldn't find anything wrong with it, not even a scratch. No heating issues with day-long continuous usage. (I switch it off at night.) Wireless works fine in a studio. Not tested for a larger space. Have owned it for about a month and am very satisfied. It's unobtrusive and just works. I like that in a router :-)",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Tejaswini",
+      "helpful_votes": 0,
+      "publication_date": 20121114
+    },
+    {
+      "title": "Works well, easy to setup",
+      "text": "I purchased this item 2 months ago to replace my ehome wireless b router and it has improved my internet connection. Whereas before I frequently lost my internet connection (I have a sony laptop and comcast provides the internet service), I have not had that problem with this dlink router. Maybe other routers would be just as good, but this one worked fine. It was simple to set up and started working as soon as I connected it.",
+      "rating": 4.0,
+      "verified": true,
+      "author": "rbm",
+      "helpful_votes": 0,
+      "publication_date": 20091226
+    },
+    {
+      "title": "good router skip the installation disc",
+      "text": "It works good the range is OK but the installation CD didn't work at all. I know how to administer a router and I wasted 20 minutes trying to use their disc. It is fairly simple to administer like any standard router. Seems to work well",
+      "rating": 4.0,
+      "verified": true,
+      "author": "CharleyChicago",
+      "helpful_votes": 0,
+      "publication_date": 20160206
+    },
+    {
+      "title": "Works as advertised",
+      "text": "I have used this Router every day and it has always performed as advertised. I have observed no dead zones (in my 3000 SF, 2 level home); however, I do need to reboot the Router every 5 to 7 days (unplug the Router for at least 60 seconds, plug it in and wait about 60 morw seconds)",
+      "rating": 4.0,
+      "verified": true,
+      "author": "lewis J.",
+      "helpful_votes": 0,
+      "publication_date": 20131222
+    },
+    {
+      "title": "Junk. I replaced it with an ASUS RT-N56U about ...",
+      "text": "Junk. I replaced it with an ASUS RT-N56U about 1.5 years ago and have never needed to reset it or update the firmware as I frequently had to do with the D-Link.",
+      "rating": 3.0,
+      "verified": true,
+      "author": "California Native",
+      "helpful_votes": 0,
+      "publication_date": 20160502
+    },
+    {
+      "title": "Fantastic",
+      "text": "As a non-geek and sixty years old my son was very concerned that I would purchase and then set my own wireless. He is a geek and offered to come set it up some day. Imagine his shock when I called him and told him I was up and running. This set up was so easy, even I pull it off. Fantastic is the word that comes to mind. No I don't play games but I am sure it is fast enough to do that if I ever want to.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "D. Holt",
+      "helpful_votes": 0,
+      "publication_date": 20090420
+    },
+    {
+      "title": "It worked fine for a number of years",
+      "text": "It worked fine for a number of years. I had to get rid of it when I updated other equipment and it would not work with the new technology.",
+      "rating": 4.0,
+      "verified": true,
+      "author": "Grandpa",
+      "helpful_votes": 0,
+      "publication_date": 20160428
+    },
+    {
+      "title": "Wireless? WHAT Wireless?!",
+      "text": "Okay, I took this out of the box, tried WPA2, no go, WEP, no go, WIDE OPEN NO SECURITY, no go. Would not connect to ANY wireless adapter or notebook computer no matter what I did. Wired works fine but I wanted a wireless router. Past the 30 days return time so can't send it back to Amazon, forget D-Link they won't even talk to me. Really disappointed in this thing.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "Risenheart Consulting",
+      "helpful_votes": 0,
+      "publication_date": 20110720
+    },
+    {
+      "title": "When I received this router, it was supposed to ...",
+      "text": "When I received this router, it was supposed to be new. It was not; it had been previously configured. I had to reset the router to configure it. Then it would not reboot. Tried downloading new firmware, but it still would not work. Talked to tech support for three hours, but still could not get it to work. Had to return it.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "David Clemens",
+      "helpful_votes": 0,
+      "publication_date": 20150621
+    },
+    {
+      "title": "Works Well",
+      "text": "Works well but isn't outstanding. It does what I was hoping for and I'm satisfied with it because I was able to get it for such a low price. One downside is that it has problems fairly frequently (two or three times a week) where the router will have to be restarted in order for devices to pick up its signal, but other than that it works fine.",
+      "rating": 3.0,
+      "verified": true,
+      "author": "Superman_04",
+      "helpful_votes": 0,
+      "publication_date": 20130924
+    },
+    {
+      "title": "DIR-615 Router - good",
+      "text": "Good wireless router. Relatively simple installation. Set up is a bit confusing and the documentation is vague at best. D-Link could stand to have better technical writers to develop the user manuals for their products. Three years and still working great.",
+      "rating": 4.0,
+      "verified": true,
+      "author": "Doc",
+      "helpful_votes": 0,
+      "publication_date": 20131127
+    },
+    {
+      "title": "Works fine.",
+      "text": "Works fine for my basic use. I have a home PC plugged in directly to the port and another laptop that uses the wireless. Setup was easy (I did not use the D-Link install CD) and my laptop found it on the first try. So, it is well priced and no problems for my basic set up. (I previously was using a D-Link \"b\" rated wireless router from 2003 and that power supply died last month.)",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Joe S",
+      "helpful_votes": 0,
+      "publication_date": 20100125
+    },
+    {
+      "title": "Very satisfied with it.",
+      "text": "The router was replacement for another just like it that seemed to have stopped working and I, being very non-tech, could not get to work again. So I had decided to just purchase a new one and so this was it....I needed help setting it up but that was not the fault of the D-Link; and now it is working wonderfully. I am very happy with it and the speed, as well as the simplicity of using it.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Anita Merrick",
+      "helpful_votes": 0,
+      "publication_date": 20131221
+    },
+    {
+      "title": "Disappointingly Cheap",
+      "text": "The wifi likes to drop regularly, remaining connected, but loosing internet access. I'm close to the router with few other networks around me. it does this on all my machines. I've never had an issue while hardwired. I thought I'd save some money and get this, but it's just causing me problems instead.",
+      "rating": 2.0,
+      "verified": true,
+      "author": "Ian Davis",
+      "helpful_votes": 0,
+      "publication_date": 20130618
+    },
+    {
+      "title": "Works Great!",
+      "text": "This was purchased to replace a Netgear WGT624 Super G router. Which started acting up about a year after purchase. Randomly stop brodcasting and required frequent reboots. The Dlink was actually easier to setup. Later I purchased a Dlink DWA642 Rangebooster N Notebook adapter for my laptop. Which is giving my stronger signal and 130 MBPS transfer rate.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Escapemax",
+      "helpful_votes": 0,
+      "publication_date": 20090623
+    },
+    {
+      "title": "Great technical support",
+      "text": "My router was not working, so I called D-Link technical support. I was skeptical about their ability to help. The agent was very helpful and clear in her instructions. She discovered that both my modem and router were using the same IP address. She had me change the IP address on the router and that fixed the issue. Here's to you excellent tech agent. I hope your supervisor sees this case number and my review. Case No. C6571720 AR004233",
+      "rating": 5.0,
+      "verified": true,
+      "author": "RAD",
+      "helpful_votes": 0,
+      "publication_date": 20141104
+    },
+    {
+      "title": "Speed",
+      "text": "Like it, only had it a week, but seems to be doing real good. Bought this one to replace mu NetGear N600",
+      "rating": 5.0,
+      "verified": true,
+      "author": "L Busch",
+      "helpful_votes": 0,
+      "publication_date": 20200701
+    },
+    {
+      "title": "Great gift for my mom, but setup had to be pro since she has a Mac",
+      "text": "My mom needed a router and this fit the bill - good price, speed, and brand. The only issue was that since she has a mac, we ended up having an IT professional come in to do the actual installation since you can't use the auto-install. It apparently wasn't too bad to do, just not something she could have done on her own.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Ariane",
+      "helpful_votes": 0,
+      "publication_date": 20100526
+    },
+    {
+      "title": "Easy out of the Box setup",
+      "text": "This Router worked easy enough and considering the price is very tough to beat ($40). My major issues with my ISP Comcast make it difficult to give this a totally untainted review. The newbie setup modes are easy and the advanced setup features give you plenty of flexibility. It was a bit annoying that on multiple occasions when i wanted to simply reset it, instead it reset to factory defalts and i had to totally reconfigure.",
+      "rating": 3.0,
+      "verified": true,
+      "author": "Oren",
+      "helpful_votes": 0,
+      "publication_date": 20090405
+    },
+    {
+      "title": "not what I expected",
+      "text": "I wanted a router that had good coverage in the house. Product description was \"....... Intelligent Antenna technology to transmit multiple streams of data which enables you to receive wireless signals in the farthest corners of your home. Not only does the D-Link Wireless N 300 technology extend your wireless range,.......\" This is not the case. Very poor signal. Also could not connect to Apple devices. They could see the router (if I was close to the router) but could not connect to the network.",
+      "rating": 2.0,
+      "verified": true,
+      "author": "Dirk",
+      "helpful_votes": 0,
+      "publication_date": 20130107
+    },
+    {
+      "title": "Connection was hard but...",
+      "text": "Connecting my laptops and ps3's to the router was a lil hard at first ( they didn't want to link for nothing in this world) but I firgured it out and now the router works amazing. I love. The signal strenght is good the range is pretty good. Everything is great. Like I said the only bad part was that first time linking them.",
+      "rating": 4.0,
+      "verified": true,
+      "author": "Nick & Debby",
+      "helpful_votes": 0,
+      "publication_date": 20110413
+    },
+    {
+      "title": "Piece of cake to set up, works great",
+      "text": "I have a MacBook Pro, and connected this router to a cable modem. It was an absolute breeze to set up, I skipped the install CD completely and just followed the 7 steps in the booklet. Took me about 7 minutes and it was ready to go. I have no problem streaming video and downloading large files over it. Great product.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Chowder Head",
+      "helpful_votes": 0,
+      "publication_date": 20120909
+    },
+    {
+      "title": "excellent value",
+      "text": "I bought this as a black friday cheap upgrade from my old wireless b system and it has been working absolutely great. don't use the cd that comes with the product - somehow that cd did not make any sense when i tried to follow instruction. installation would have been a breeze if I had just followed the 4 step easy set up sheet. Overall, the product is working great, signal has not dropped even once in over a month and I get much better reception throughout my hose.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "RD_Austin",
+      "helpful_votes": 0,
+      "publication_date": 20091228
+    },
+    {
+      "title": "home office user",
+      "text": "Primary use: Mobile home computing and working from home on the weekends. Ease of install: Installing on my first laptop was a breeze the instuctions were brief but easy to follow, the second laptop install a week later was a little more taxing, I ended up having to reinstall the software on both computers one after another to properly set them up. I am concerned I will have the same problem when I buy a wireless printer to complete the network. I have a feeling this was more installer error than a product flaw. Signal Strength and Stability: No issues here what so ever, even with both laptops streaming music and running Windows 7. Couldn't be happier.",
+      "rating": 4.0,
+      "verified": true,
+      "author": "Andrew E. Bloomfield",
+      "helpful_votes": 0,
+      "publication_date": 20100302
+    },
+    {
+      "title": "Good router but.....",
+      "text": "Good router with good options but their are 6 different revisions of this router with the same model number. Earlier versions had removable antennae but the latest revision does not. It would have been nice of D-Link to change the model number or made it clearer from revision to revision.",
+      "rating": 3.0,
+      "verified": true,
+      "author": "Todd Rorie",
+      "helpful_votes": 0,
+      "publication_date": 20130625
+    },
+    {
+      "title": "and it is great. I did have to purchase a network extender ...",
+      "text": "I've been using this well over a year now, and it is great. I did have to purchase a network extender for the far end of my house, but I am not complaining. It was a breeeze to set up and has been tirelessly working the past year plus.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Lee A Bacon",
+      "helpful_votes": 0,
+      "publication_date": 20141218
+    },
+    {
+      "title": "Wireless Router",
+      "text": "I bought this router years ago and it's still going strong. it sits on top of my file cabinet and blinks away. You can setup a password, security, or not if you like. It's was rated high when I bought it and I'm glad I got it because it lasted!",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Big Daddy",
+      "helpful_votes": 0,
+      "publication_date": 20130926
+    },
+    {
+      "title": "Easy set up - great router!",
+      "text": "Because I was new at this, I was nervous about setting up a wireless network but the self install kit for this router walked me through the process and I was up in minutes! I get great speeds on my laptop and it's at the other end of the house from the router. I highly recommend this product.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "DeeDee",
+      "helpful_votes": 0,
+      "publication_date": 20090411
+    },
+    {
+      "title": "Garbage",
+      "text": "Garbage. Works but drops once or twice a day and not just for a single device, but for all devices. I have to release DHCP and reassign. You get waht you pay for, and I got junk :( Buy newer and better and a different brand.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "Mike",
+      "helpful_votes": 0,
+      "publication_date": 20150205
+    },
+    {
+      "title": "I am satisfied with the router",
+      "text": "My order arrived on the day I was told it would. I am satisfied with the router. I did have to call tech support to configure my router. The disc included in the package did not allow me to configure it. D-link tech support was very helpful and knowledgeable. I would recommend this product to my friends.",
+      "rating": 4.0,
+      "verified": true,
+      "author": "Richard Morris",
+      "helpful_votes": 0,
+      "publication_date": 20150409
+    },
+    {
+      "title": "Works well",
+      "text": "The set up can be a challenge for a neophyte like myself.There are no written instructions included.One must rely on an installation CD.I will spare the details but if you make a mistake you must call tech support as did I.It probably would have been a 10 minute job with detailed instructions rather it was at least an hour including a call to my DSL tech people.That bother aside it works fine through my home.",
+      "rating": 4.0,
+      "verified": true,
+      "author": "Seamus",
+      "helpful_votes": 0,
+      "publication_date": 20110325
+    },
+    {
+      "title": "Problems with iphone 3G",
+      "text": "This is a pretty descent n draft router for the price. Setup was a bit problematic as the setup cd didn't work on my windows 7 profesional 64 bit system, so I had to manually configure it, which is very simple if you know what you are doing, but if you aren't technically proficient, then you'll be making a call to the shoe fairies in India.",
+      "rating": 3.0,
+      "verified": true,
+      "author": "J. Hall",
+      "helpful_votes": 0,
+      "publication_date": 20100203
+    },
+    {
+      "title": "Worst router ever",
+      "text": "I've used routers for about 8 years. I've always liked D-link the best, but this is the worst router I've ever had. I cannot connect my lexmark wireless printer. The signal is terrible! I only get signal in my livingroom. I do not have a big house, and I only need to get signal in my livingroom, kitchen, sunroom, and on the deck. I already discarded the packaging, but I will try to send it back. I have a HP Touchsmart computer and the rounter drops the signal all the time. My computer is 6 ft away from the router. I constantly have to reset the router. Get the more expensive ones with a stronger signal.",
+      "rating": 2.0,
+      "verified": true,
+      "author": "Colleen",
+      "helpful_votes": 0,
+      "publication_date": 20110607
+    },
+    {
+      "title": "no problems",
+      "text": "I had to adjust some settings manually, it works perfectly fine and has excellent range. Network magic doesn't bother me and I found it had useful tips in setting up sercurity, after setup you don't need to use network magic if you don't want to. I think some people might have computer or spyware issues or interference with household applicances or their sercurity software. If you have a cordless phone switch to a 5.8ghz. All in all it hasn't dropped the internet. I had a linksys before and it dropped the internet 5 times a day and nothing I did to configure it with tech support worked and after a month I returned it and bought this d-link.",
+      "rating": 4.0,
+      "verified": true,
+      "author": "NANHAN",
+      "helpful_votes": 2,
+      "publication_date": 20071211
+    },
+    {
+      "title": "Great product for the price.",
+      "text": "I have purchased hundreds of these (I supply them to condo complexes) over the past 5 years and they have a very low failure rate. For the price, 2% failure rate after 2 years is not bad. Very easy to program and has lots of options and features.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Lyndhurst Bodden",
+      "helpful_votes": 0,
+      "publication_date": 20140628
+    },
+    {
+      "title": "Very good router",
+      "text": "I just purchased this router and it works fine, the set-up was quick and easy, and I can easily pick up the wifi signal for my ps3 which is located upstairs and the router is located downstairs. Just remember to write down your ssid name, your password and your security key ( when pairing your ps3 to this router it will ask for your encryption key instead of security key, same thing ) I am very happy with the purchase and recommend to anyone.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "T.O. from the SIPPI",
+      "helpful_votes": 0,
+      "publication_date": 20090214
+    },
+    {
+      "title": "Works great so far",
+      "text": "It was very easy to setup. Like all routers I am just waiting to see when it will crash and stop working. After day one of working it did stop working and all i had to do was unplug it to reset it. Since then no issue. I do think my internet works faster than it did before with the old router and even with just the motem by itself. Good value for the money!",
+      "rating": 4.0,
+      "verified": true,
+      "author": "Katie G.",
+      "helpful_votes": 0,
+      "publication_date": 20100211
+    },
+    {
+      "title": "REALLY easy with the CD",
+      "text": "I bought this router to upgrade my D-Link DIR 615 Draft 802.11N on Amazon. The set up was REALLY, REALLY easy with the CD. Now, there was a problem with my Laptop connecting to the router so I called D-Link Customer Services. I was impressed with the service, knowledge and the attention. Zhaina (AR004631) was very friendly, professional and fixed my problem in 1, 2, 3. The product is great but the Customer Services was better than I expected!",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Ralph Ojeda",
+      "helpful_votes": 0,
+      "publication_date": 20150203
+    },
+    {
+      "title": "Good router,very fast and reliable.",
+      "text": "when i got this router it was a top rated model,I now have a new netgear wndr4500 new,and gave this to my mother in law who uses it without issue,easy to hook up and is fast and secure.# generations of routers and its still doing a fine job.",
+      "rating": 4.0,
+      "verified": true,
+      "author": "Sabrina Abbatiello",
+      "helpful_votes": 0,
+      "publication_date": 20120612
+    },
+    {
+      "title": "A snap to set up, great price, fast.",
+      "text": "I am running Vista-64 on an HP system and have a Comcast voice and data modem. I inserted the CD, followed the instructions and it worked with no problem. I didn't even have to reset the modem. My laptop is running Ubuntu Linux with a Belkin card. Fast and reliable.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Dale J",
+      "helpful_votes": 0,
+      "publication_date": 20100306
+    },
+    {
+      "title": "3rd D-Link router",
+      "text": "I needed another router and had good luck with two D-Link routers already. Both still in service for some years now. For this new router I didn't need anything special, application is for a small home with multiple 'general purpose' users. The D-Link DIR- 615R fit the bill for around $40 on Amazon. Total setup time including unpacking, plugging in wires and running disk was under 15 minutes. Only had this unit for a few months but so far its doing the job. I'm satisfied and so are the other users.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "CC PHX, AZ",
+      "helpful_votes": 0,
+      "publication_date": 20100712
+    },
+    {
+      "title": "Easy breezy",
+      "text": "Even for me who has little computer background, the set up of this light weight router is as easy as 1, 2, 3. Just pop in the CD that comes with it and you will be guided through the entire set up. This D-link Wireless N Router works for my laptop, which has a G wireless card. The price $38.99 is unbeatable. And free shipping with Prime shipping during free trial period was bonus. I received the item 2 days after placing the order.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "TDV",
+      "helpful_votes": 0,
+      "publication_date": 20090823
+    },
+    {
+      "title": "Good product! Amazon has the best prices.",
+      "text": "I have purchased two of these to work with a survelliance camera. One as a gift. Amazon always has a good variety on Good product. This product works well and you can depend on it. No problems with it at all.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "JB",
+      "helpful_votes": 0,
+      "publication_date": 20121009
+    },
+    {
+      "title": "Cheap and GOOD!!",
+      "text": "GOOD!!! The singal is strong and easy to access and set up! I like the button set aside, it connivence to make another laptop access in. But the password always give from it machine and could not change by yourself.",
+      "rating": 4.0,
+      "verified": true,
+      "author": "Huang Wei",
+      "helpful_votes": 0,
+      "publication_date": 20131121
+    },
+    {
+      "title": "D-link DIR-615 Wireless N Router, 4 ports",
+      "text": "I couldn't believe it. Without running the CD setup deal I was already on the Internet! This has got to be the easiest setup around. Great signal strength as far as I can tell. Use Bandwidth Place and Speedtest.net speed tests, both show almost as much as my wired speed using wireless (my one bedroom apartment and my neighbors apartment (same floor) two doors down on the other side of the hallway) My neighbors one floor down, about two doors down on and on the other side of the hallway about 8 to 9 Mbps (my connection is 20 Mbps) Not too shabby for an inexpensive router, this replaced my old faithful WRT54GL (I wanted N for some reason?)",
+      "rating": 5.0,
+      "verified": true,
+      "author": "jws2346",
+      "helpful_votes": 0,
+      "publication_date": 20110405
+    },
+    {
+      "title": "Pas on this router!",
+      "text": "I couldn't get it to work, period. I followed all of the instructions several times and while I could connect to the router, I could not get to the Internet. I could not find a single tech support phone number. I went to Radio Shack, bought a Cisco, and was on the Internet in minutes. Plus, they have tech support with actual people at the other end. I have returned this router to Amazon and have put D-Link on the banned list.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "David Davenport",
+      "helpful_votes": 0,
+      "publication_date": 20100413
+    },
+    {
+      "title": "Not the best router.",
+      "text": "Not the best router. Switched to an ASUS and it works much better.",
+      "rating": 3.0,
+      "verified": true,
+      "author": "Kimberly Greenman",
+      "helpful_votes": 0,
+      "publication_date": 20161206
+    },
+    {
+      "title": "received defective item...",
+      "text": "didn't work at all ...plugged it in , did nothing , so we returned it...my old one(same model) worked for 3 years with little or no trouble...",
+      "rating": 3.0,
+      "verified": true,
+      "author": "P F",
+      "helpful_votes": 0,
+      "publication_date": 20150716
+    },
+    {
+      "title": "Absolute Junk- Not worth the $$",
+      "text": "I wish it was possible to rate 0 stars or less. As with most of the other negative reviews, this thing just drops off line randomly. Have to reboot it multiple times daily, iPhones will not connect to it, laptop will not communicate with the printer which is hooked to it, etc. I have been on with tech support multiple times, to have it reset and re-set up. It will work for about a day or so and then back to it's old hijinx. Updated firmware, tried everything. It's on to buying a better router.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "Dustin Svec",
+      "helpful_votes": 0,
+      "publication_date": 20121012
+    },
+    {
+      "title": "Package arrived re-wrapped by postal due to original package being ...",
+      "text": "Package arrived re-wrapped by postal due to original package being opened. Product did not have everything I need in order to use it.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "John Pearcy",
+      "helpful_votes": 0,
+      "publication_date": 20160609
+    },
+    {
+      "title": "Work great for",
+      "text": "D-Link is the only router i use. Work great for me",
+      "rating": 5.0,
+      "verified": true,
+      "author": "fred",
+      "helpful_votes": 0,
+      "publication_date": 20151228
+    },
+    {
+      "title": "Excellent device",
+      "text": "Ordered this item for myself first then 2 other friends. This device has been working smoothly and great so far. Will always suggest this as for it's price.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Amazon Customer",
+      "helpful_votes": 0,
+      "publication_date": 20140122
+    },
+    {
+      "title": "wireless for dummies",
+      "text": "if you need a router for wireless access and you are not technically savvy this is for you. It's easy to use and works right out of the box. You may even find yourself going further and learning more about wireless connections. Have fun!! I did",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Karen B.",
+      "helpful_votes": 0,
+      "publication_date": 20100303
+    },
+    {
+      "title": "Hard to setup",
+      "text": "I spent all afternoon trying to get this thnig to work. First I used the CD program; no luck. Then I tried just cabling everything and turning it on afterward. Nothing. Finally I powered everything off, including the computer, and the powered up this order: Modem, Router, and finally computer. Voila! All works, and the other computers on the router also worked OK. It is VERY dependent on precise procedure to initialize. Once started, though, it performs just as well as the former D-Link (non wireless) unit I had before. I haven't tried the wireless part yet, because I do not have any wireless equipment yet. All in all a good buy for Amazon's low price and free shipping.",
+      "rating": 3.0,
+      "verified": true,
+      "author": "Richard Blanchard Jr",
+      "helpful_votes": 0,
+      "publication_date": 20100922
+    },
+    {
+      "title": "Three Stars",
+      "text": "Second one I have ordered, first on went out quick.",
+      "rating": 3.0,
+      "verified": true,
+      "author": "Wayne McNeal",
+      "helpful_votes": 0,
+      "publication_date": 20160620
+    },
+    {
+      "title": "Do not buy",
+      "text": "This is a terrible router, however, this does not reflect on D-Link. I have ordered sever D-Link items and have always been happy with them, but this one seems to be destined for the scrap heap. Should be taken off the market.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "Scott Jeffrey",
+      "helpful_votes": 0,
+      "publication_date": 20130111
+    },
+    {
+      "title": "Five Stars",
+      "text": "I've been using this for over a year with no issues. Would buy it again, for sure.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Blessed",
+      "helpful_votes": 0,
+      "publication_date": 20170222
+    },
+    {
+      "title": "Don't waste your time or money.",
+      "text": "This router offers a very good range, however it is completely unreliable. I began having problems with it failing within the first week, but it happened rather infrequently. I have now owned the D Link for almost six months and at this point I'm forced to reset it (disconnect and reconnect to powers source) at least every couple of days; sometimes multiple times in the same day. I should have known better since I had similar issues with another D Link router, but learn from my mistake and go with another brand.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "Swoop",
+      "helpful_votes": 0,
+      "publication_date": 20100331
+    },
+    {
+      "title": "Works Out of the Box -- Good Value",
+      "text": "I bought this for my low-tech son. He hasn't yet got around to accessing the internal web server to configure the device but it has been working fine out of the box with no configuration.",
+      "rating": 4.0,
+      "verified": true,
+      "author": "R. Tucker",
+      "helpful_votes": 0,
+      "publication_date": 20131004
+    },
+    {
+      "title": "Low power and hard to stay connected",
+      "text": "This particular model is temperamental. Some day you forget it exists because it works perfect. Other days I have to reboot it two or three times a day so mi IPad and my Nexus phone can stay connected. Would not buy this brand again. Too much hassle for something so critical.",
+      "rating": 3.0,
+      "verified": true,
+      "author": "Jorge D. Salazar",
+      "helpful_votes": 0,
+      "publication_date": 20140325
+    },
+    {
+      "title": "DO NOT BUY THIS ROUTER!!!  IT'S GARBAGE!!!",
+      "text": "Worst POS router I've ever had the displeasure of experiencing. It took two weeks to arrive due to the weather, then I get it today and set it up according to the manual. Everything works great for a little while...then...no connection. Flashing lights on the device...but no connection. So I check the settings and reboot...works great...for another 10 minutes. Then again...no connection. I go through this rotten dance for the next 3 hours...rebooting every 10 minutes. I'm done. Refund my money and take this garbage back. I'll be dropping this turd off with UPS tomorrow morning!",
+      "rating": 1.0,
+      "verified": true,
+      "author": "Detman101",
+      "helpful_votes": 0,
+      "publication_date": 20150226
+    },
+    {
+      "title": "Cheap price, yet works perfectly.",
+      "text": "Couldn't believe the price of this wireless router at $23. It was recommended by the IT guy where I work. For such a cheap price, it works perfectly. I have not tried it in a wide area, but for a small place, it works quite well.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "E. Flanagan",
+      "helpful_votes": 0,
+      "publication_date": 20120123
+    },
+    {
+      "title": "Didn't work",
+      "text": "Didn't work out of the box. I had to return it. Amazon accepted the return and I went and bought a Belkin router that works great, missing a couple features I wanted but it works.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "J. August",
+      "helpful_votes": 0,
+      "publication_date": 20130212
+    },
+    {
+      "title": "Great price & great router",
+      "text": "I needed a replacement for a router I had that was failing. this had decent reviews, and was cheap. I called their support and had them talk me through set up and they were very helpful and it was up and running in no time.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Filloutthebox",
+      "helpful_votes": 0,
+      "publication_date": 20100616
+    },
+    {
+      "title": "Works Perfect",
+      "text": "Been using it for a month now and It has been working awesome. I never go near it and there has no connection drops wat so ever. Ease of install was very high and I got it up and running in a minute :) Totally recommend this product.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "CallMeB",
+      "helpful_votes": 0,
+      "publication_date": 20091004
+    },
+    {
+      "title": "Good router.",
+      "text": "This router works great for me. I've never had any problems with it. Good security, reaches all locations in my home, and good speed.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "JoeBoone",
+      "helpful_votes": 0,
+      "publication_date": 20131024
+    },
+    {
+      "title": "Good wireless router for the price",
+      "text": "The installation was easy. Had some problems connecting with an iPad2 but that was a problem with the security on the iPad2 and not the router. The router seems to be a little slow when transmitting files such as jpg pictures. My work-around is to connect directly from my computer to the cable modem and the files transfer at a much faster speed. Othe than that I am satisfied with the wireless router especially when you consider the price.",
+      "rating": 4.0,
+      "verified": true,
+      "author": "K. Miller",
+      "helpful_votes": 0,
+      "publication_date": 20110608
+    }
+  ],
+  "product_meta": {
+    "title": "D-Link DIR-615 Wireless-N Router, 4-Port",
+    "description": "AMAZON.COM\n\n\n\n\nFROM THE MANUFACTURER\n\n\n\nThe D-Link Wireless N 300 Router (DIR-615) provides a better wireless signal for your network than previous-generation Wireless G technology. Upgrading your home network to Wireless N 300 provides an excellent solution for sharing an Internet connection and files such as video, music, photos, and documents. D-Link Wireless N 300 products use Intelligent Antenna technology to transmit multiple streams of data which enables you to receive wireless signals in the farthest corners of your home. \n\nNot only does the D-Link Wireless N 300 technology extend your wireless range, it also works with previous-generation wireless devices. The DIR-615 also includes QoS (Quality of Service) Prioritization Technology that analyzes and separates multiple data streams based on sensitivity to delay, enabling multiple applications to stream smoothly across your network.\n\n\n\n\n\n\n\n\n\nThe D-Link DIR-615 Wireless N 300 router (see larger image).\n\n\n\nRear view of 4 Fast Ethernet ports (see larger image).\n\nKEY FEATURES\n * Powerful Wireless N 300 technology outperforms Wireless G*, provides superior wireless performance, clarity, and coverage  \n   \n   \n * Single-band Wireless N connectivity  \n   \n   \n * Intelligent QoS technology prioritizes both wired and wireless Internet traffic to enable enhanced gaming and phone calling (VoIP) experience  \n   \n   \n * Wi-Fi Protected Setup (WPS) for secure, simple 1-button setup  \n   \n   \n * Capable of streaming audio and video to compatible UPnP-enabled devices  \n   \n   \n * Easy-to-use wireless security features with Active Firewall protection  \n   \n   \n * 4 High Speed Ethernet ports for fast wired connectivity  \n   \n   \n * Parental controls to supervise Internet activity \n\nEASY TO SET UP\nThe D-Link Quick Router Setup Wizard quickly configures your new Wireless N 300 Router to get you up and running in minutes. Our Setup Wizard walks you step by step through the installation process to configure your Internet connection, wireless network settings and security, and everything else you need to get your network up and running so that you don't have to be a networking expert to get it set up.\n\nEASY TO SECURE\nThe DIR-615 supports the latest wireless security features to help prevent unauthorized access, be it from over a wireless network or from the Internet. Support for WPA and WPA2 standards ensure that you will be able to use the best possible encryption, regardless of your client devices. In addition, the Wireless N 300 Router utilizes dual active firewalls (SPI and NAT) to prevent potential attacks from across the Internet.\n\nDelivering great wireless performance, network security and coverage, the D-Link Wireless N 300 Router (DIR-615) is ideal for upgrading your existing wireless home network.\n\nBENEFITS OF A WIRELESS N 300 ROUTER\nThis Wireless N 300 Router uses powerful 802.11n technology with multiple intelligent antennas to maximize the speed and range of your wireless signal to significantly outperform previous-generation Wireless G MIMO devices. The antennas on the Wireless N 300 Router make use of your home's environment by bouncing multiple wireless signals off walls and ceilings to work around obstructions and help eliminate dead spots.\n\nNETWORK SETUP\n\n\nSPECIFICATIONS\n * Standards: IEEE 802.11n, IEEE 802.11g, IEEE 802.3, IEEE 802.3u \n * Interface Type: 4 Fast Ethernet LAN Ports (10/100), 1 Fast Ethernet WAN Port \n * Antenna Type: Single External Antenna \n * Security: WPA & WPA2 (Wi-Fi Protected Access) \n * Advanced Firewall Features: Network Address Translation (NAT), Stateful Packet Inspection (SPI), VPN Pass-through / Multi-sessions PPTP / L2TP / IPSec \n * Device Management: Internet Explorer v7 or Later; Mozilla Firefox v3.0 or Later; or other Java-enabled Browsers \n * Certifications: FCC Class B, IC, Wi-Fi, IPv6 Gold \n * Dimensions: 7.8 x 5 x 1.2 inches (WxDxH) \n * Recommended System Requirements: For optimal wireless performance, use with the Wireless N 300 Adapter (DWA-130) \n * Minimum System Requirements: Computer with Windows 7, Windows Vista, Windows XP SP3 or Mac OS X (v10.4); Internet Explorer v7 or Mozilla Firefox v3.0; CD-ROM Drive; Network Interface Card; and for Internet access a Cable or DSL Modem and Subscription with an Internet Service Provider (ISP) \n\nWHAT'S IN THE BOX\nD-Link DIR-615 router, CAT5 Ethernet cable, 2 antennas, power adapter, CD-ROM with installation wizard and operating instructions\n\nD-LINK WIRELESS N ROUTER COMPARISON\n\n\n* Maximum wireless signal rate derived from IEEE Standard 802.11 specifications. Actual data throughput will vary. Network conditions and environmental factors, including volume of network traffic, building materials and construction, and network overhead, lower actual data throughput rate. Environmental factors will adversely affect wireless signal range. Wireless range and speed rates are D-Link RELATIVE performance measurements based on the wireless range and speed rates of a standard Wireless G product from D-Link. Maximum throughput based on D-Link Wireless N devices.",
+    "rating": 4,
+    "feature_bullets": [
+      "The D-Link Quick Router Setup Wizard quickly configures your new Wireless N Router to get you up and running in minutes.",
+      "This Wireless N Router uses draft 802.11n technology with multiple external antennas to maximize the speed",
+      "Supports the latest wireless security features to help prevent unauthorized access",
+      "Setup Wizard walks you step by step through the installation process to configure your Internet connection",
+      "Create a wireless network to share high-speed Internet access with computers, game consoles",
+      "Setup Wizard walks you step by step through the installation process to configure your Internet connection",
+      "Supports the latest wireless security features to help prevent unauthorized access",
+      "Create a wireless network to share high-speed Internet access with computers, game consoles",
+      "This Wireless N Router uses draft 802.11n technology with multiple external antennas to maximize the speed",
+      "The D-Link Quick Router Setup Wizard quickly configures your new Wireless N Router to get you up and running in minutes.",
+      "production version number is E1"
+    ],
+    "specifications": {
+      "Product Dimensions": "10.69 x 2.63 x 8.5 inches",
+      "Item Weight": "9.3 ounces",
+      "Manufacturer": "D-Link Systems, Inc.",
+      "Language:": "English, French",
+      "ASIN": "B000QD7B6W",
+      "Item model number": "DIR-615",
+      "National Stock Number": "7025-01-601-5345",
+      "Customer Reviews": "4.0 out of 5 stars853 ratings4.0 out of 5 stars",
+      "Best Sellers Rank": "#9,661 in Computers & Accessories",
+      "Is Discontinued By Manufacturer": "No",
+      "Date First Available": "July 7, 2004"
+    },
+    "categories": [
+      "Computers & Accessories",
+      "Electronics",
+      "Routers",
+      "Networking Products"
+    ],
+    "price": 29.99
+  }
+}

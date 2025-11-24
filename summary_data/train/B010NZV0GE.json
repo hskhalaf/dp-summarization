@@ -1,0 +1,975 @@
+{
+  "website_summaries": [
+    {
+      "verdict": "If you're looking for an easy and (relatively) affordable entry point into home automation, then SmartThings makes a lot of sense.",
+      "pros": [
+        "With easy-to-install sensors, wide product compatibility, and no monthly fees, SmartThings gets home automation right",
+        "We love that it's compatible with IFTTT, too"
+      ],
+      "cons": [
+        "The SmartThings Hub is a little bit limited in terms of range",
+        "Also, the newly redesigned SmartThings app feels overcrowded with redundant features"
+      ],
+      "aspects": {
+        "Features": 9.0,
+        "Usability": 7.0,
+        "Design": 8.0,
+        "Performance": 8.0
+      },
+      "publication_date": 20131218,
+      "rating": 8.1,
+      "source": "cnet"
+    }
+  ],
+  "customer_reviews": [
+    {
+      "title": "DO NOT BUY!",
+      "text": "DO NOT BUY! DO NOT BUY!! Absolutely the worst \u201csmart\u201d hub on the market. I bought this to use as a home security system with SmartThings multi-purpose sensors and it has left my home unprotected and unsafe. The sensors do not work, the hud continues to go offline and the alarm goes off randomly scaring everyone in the house. Worst of all is the customer service. I called Samsung and they refused to let me speak to a manager and would not replace my hub/sensors that were under warranty. Do yourself a favor and don\u2019t buy this or any Samsung product.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "Bryce Wible",
+      "helpful_votes": 4,
+      "publication_date": 20181214
+    },
+    {
+      "title": "Too buggy",
+      "text": "I thought the Veras were horribly buggy but this is worse. With just a single GE switch paired I get extreme delays in turning the switch on and off. about 1/3 of the time it's instant. The other 2/3 of the time it takes several minutes to respond. The user interface is so confusing. I'm a software developer that usually can make sense of confusing things. This one took about four hours to figure out how to install custom smart apps (scripts). As far as adding or deleting devices that's easy enough but that's not terribly useful by itself. They way they handle triggering events could be so much better.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "Bullphourg",
+      "helpful_votes": 11,
+      "publication_date": 20160407
+    },
+    {
+      "title": "Unable to conect to the hub on 2 of the 3 days I've owned the hub.",
+      "text": "I've had the hub three days. On two of those days the hub spent most of the evening \"offline\" due to smartthings server issues. The first time I had to 'press the red button' to reboot the hub, tonight it is once again not responding. When it is up - I've been able to easily connect several z wave outlets, and GE smart bulb and the Android app is good. But all this is moot if I can't connect to my hub. I'll update this review if things get any better - but for now I assume that \"smart things\" refers only to their hardware.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "spouse of knitter",
+      "helpful_votes": 16,
+      "publication_date": 20151210
+    },
+    {
+      "title": "Huge disappointment!",
+      "text": "I can't say how extremely disappointed I am with this product. The ST platform is so unstable that even simple home automation tasks such as tuning on lights at sunset routinely fail. These platform issues have been known to the ST staff for many months now and things have not only not improved, but the reliability has gotten much worse. If you're considering buying this hub please read the ST support forums first, there are literally hundreds of user complaints about poor reliability. Very disappointed.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "Amazon Customer",
+      "helpful_votes": 16,
+      "publication_date": 20160122
+    },
+    {
+      "title": "Great if you like constantly resetting sensors and the HUB",
+      "text": "I purchased this as my central home hub to work with all my Z-wave lights and locks, as well as pairing it with samsung multi sensors. It worked fantastic the first few weeks and now the multi sensors are constantly showing as unavailable. I had the siren paired with sensors and have set the alarm to away and had it never go off. The ring camera integration is worthless. Looks like I need to get all stuff together for a return and see if the Wink Hub works any better. Not happy with all the device errors and drop offs for something that I am using for smart home and security.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "Jennifer Henderson",
+      "helpful_votes": 5,
+      "publication_date": 20171205
+    },
+    {
+      "title": "Start your SmartHome with SmartThings",
+      "text": "If you are adding smart home technology, start with the SmartThings hub. It works with virtually every smart home sensor, switch or light and eliminates the need for other control hubs. The app is really simple to setup and provides macro control functions that you can customize. My connected devices: Chamberlain MyQ Garage Control Amazon Echo Phillips Hue bulbs GE SmartSwitches Fireplace DrySwitch control Nest Thermostat Nest Alert 4x Nest Cam Indoor 2x Nest Cam Outdoor 4x Schlage Camelot Dead Bolt",
+      "rating": 5.0,
+      "verified": true,
+      "author": "tdell",
+      "helpful_votes": 5,
+      "publication_date": 20170701
+    },
+    {
+      "title": "With to Samsung app was a disaster",
+      "text": "I had used the Samsung smart home hub for about 2 years and it was acceptable. Samsung forced me to change from my SmartThings app to the new and improved Samsung app and I spent 2 hours trying to convert to it and was unable. There was an I am not a robot portion where they give you blurry pictures as a test that were really annoying. I was so frustrated that I ordered a Wink home hub and put my Samsung unit in the trash. The Wink is a lot easier to use and has more functionality.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "Vitog",
+      "helpful_votes": 4,
+      "publication_date": 20181129
+    },
+    {
+      "title": "Replaced my Wink with SmartThing and much happier",
+      "text": "I replaced my Wink with the SmartThing hub and I am much happier. The true difference is the SmartThing Development site that allows users to develop there own programs to support more devices. I had multiple devices which was not supported on Wink or SmartThing but due to the developer site they now run on my SmartThing. I would recommend for the average user the SmartThing over Version 1 of Wink. I would be interested to see what improvements Wink made in Version 2. UPDATE: A must with SmartThings is to sign up with RBoy Apps, they develop additional SmartApps for SmartThings that expand the uses of the product.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Shawn D",
+      "helpful_votes": 5,
+      "publication_date": 20161127
+    },
+    {
+      "title": "Doesn't seem to find any devices well at all.",
+      "text": "I had a rough first week with this, as Samsung had major outages in its network for several days. Okay - maybe that's just bad timing... But since then, I have had trouble pairing every single device I have attempted. There is absolutely zero feedback as to why something fails. No logs, no error code, no messages. The application just spins and spins. I have no idea if I have a faulty unit. Docs online are out of date.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "M Perryman",
+      "helpful_votes": 3,
+      "publication_date": 20180319
+    },
+    {
+      "title": "I would definitely recommend it.",
+      "text": "This is my first smarthome hub. I went with Smartthings because it's more of an open platform with a lot of people doing custom development, which means you can find lots of great customizations and tweaks that other people write and offer up for free. So far we only have a Schlage Connect lock hooked up to it, and that has worked flawlessly. I'm looking forward to adding more things to our smart home and I feel confident that Smartthings will let us do that easily and with a lot of features. I would definitely recommend it.",
+      "rating": 4.0,
+      "verified": true,
+      "author": "Visceral SoulTop Contributor: Smart Home",
+      "helpful_votes": 14,
+      "publication_date": 20170117
+    },
+    {
+      "title": "Did not meet my expectations",
+      "text": "Sadly, the SmartThings product family did not work for me. I had several contact sensors (a couple of different brands) all of them would randomly drop their connection. I suspect this was a range issue, but my hub was in a room directly above my front door and that sensor would not reliably stay connected to the hub. I even switched out the sensor, no improvement. My kwikset smart lock had the same issue. Sometimes it would be available sometimes not. I ended up disconnecting and retiring my SmartThings hub. It just never lived up to my expectations.",
+      "rating": 2.0,
+      "verified": true,
+      "author": "Pablo509",
+      "helpful_votes": 0,
+      "publication_date": 20190503
+    },
+    {
+      "title": "Huge, unreliable time suck, don't buy.",
+      "text": "I had over a dozen devices connected to this thing, some of which took over an hour to pair. When you make changes to your network, it won't connect anymore and your only option is to do a factory reset. The amount of work is literally more than double initial installation, each device must be forcefully excluded before being paired anew. Without swearing, it's difficult to express how mad I am towards Samsung. Money is not that big deal, my time is, replacing this POS is going to suck up a lot of time I don't have. BTW Customer Support verified the network change issue.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "Radar",
+      "helpful_votes": 3,
+      "publication_date": 20171014
+    },
+    {
+      "title": "Its a waste of money",
+      "text": "Im VERY disappointed in this product. I took a long time before buying a hub, i researched and watched videos about different hubs before choosing this one due to my TVS being Samsung. Well it doesnt connect to either TV, it looses connection to the one thing it will connect to (a lightbulb) and even worse its a leech on my internet! I want to return it but missed the 1 month deadline. Im very dissatisfied with it and wish i had gone with a different device, I am not even using it so i have an overpriced paperweight",
+      "rating": 1.0,
+      "verified": true,
+      "author": "Stefanie ",
+      "helpful_votes": 2,
+      "publication_date": 20181209
+    },
+    {
+      "title": "NO support",
+      "text": "When it works all is good, however as soon as you need support...all bets are off. My device has not been working for almost a year. After multiple attempts to contact support (voice and e-mail), and receiving the standard \"we have received your ticket,\" \"your ticket is waiting for an assignment,\" I have given up. It has been well over nine months and no activity on the ticket. I even open a new ticket recently, because of the inactivity on the first one and I have been receiving the same responses. My suggestion is to find a hub that has better support, you might need it down the line.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "DJ",
+      "helpful_votes": 2,
+      "publication_date": 20181127
+    },
+    {
+      "title": "Good interior flood protection, insufficient instructions",
+      "text": "I use it ONLY for a water sensor in my basement. It goes off-line every few months because of minute breaks in the electric supply, but comes back quickly. It reports to my phone in a text. It's good insurance against a repeat of the costly damage of an appliance-caused flood when I was away. BUT it took me ages to learn how to open and close the hub's casing to insert and replace the batteries, and I'm not sure I can remember how next time. Better instructions?",
+      "rating": 4.0,
+      "verified": true,
+      "author": "SWA",
+      "helpful_votes": 0,
+      "publication_date": 20190811
+    },
+    {
+      "title": "Samsung Will NOT work with a NEST Thermostat",
+      "text": "I have mixed views regarding the human interface software. First, I cannot figure out (after viewing the 3rd party instructions and since Samsung officially does not support the NEST thermostat) how to integrate this software with my thermostat. Also, the \"automatons\" allow one to turn on a light based upon sundown BUT there is no way to automatically turn off the light at a random time after it turns on??? I went back to the WeMo software.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "J. Williams",
+      "helpful_votes": 2,
+      "publication_date": 20180527
+    },
+    {
+      "title": "Beware does not work with most HVAC thermostats",
+      "text": "Warning. If you intend to operate a furnace or heat pump thermostat with this controller then know that Samsung only supports Echobee and Honeywell brands. I had purchased a GoControl model in September 2018 and when I had difficulty maintaining a connection, Samsung support refused to assist me. Their response was \"sorry, GoControl brands are not a supported device on our zwave network\". I cannot assist you with troubleshooting.\" Unless you are a capable network engineer, have lots of time on your hands or want a very limited number of devices to control then avoid this samsung zwave controller.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "P Finger",
+      "helpful_votes": 0,
+      "publication_date": 20180928
+    },
+    {
+      "title": "Not worth the money and disappointing",
+      "text": "Update: Still flaky. AND to add insult to injury, Samsung is now requiring you to create an account with them and ask for irrelevant PERSONAL information or they will disable your app. Is there something less than one star? Amazon should remove this item or provide a tech to come reconfigure this hub every other month. It had gone down AGAIN. Does not play well with Alexa. Often goes off line. Very disappointing. Samsung usually has better products. Buy something else or spend all your time configuring and reconfiguring this hub.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "Nekoatl",
+      "helpful_votes": 2,
+      "publication_date": 20180116
+    },
+    {
+      "title": "It works, but it's not completely simple and easy yet",
+      "text": "This is fun, useful, and works, but folks should know that this is still somewhat early days for home automation in terms of ease of use in setting things up, and support for some devices requires a little extra effort. There is an excellent Smartthings community at Smartthings.com, where you can find other users offering tons of help. You can also find out there how to use devices outside the officially supported items. Reliability has been great, I've had little or no drop outs, and being able to monitor and manage my home via voice (using both Alexa and Google Home), and remotely via the Smartthings app.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "D. White",
+      "helpful_votes": 3,
+      "publication_date": 20161219
+    },
+    {
+      "title": "Does not do the job.",
+      "text": "This device worked wonderfully when I first received it. Connected to the Open/Close door sensor I bought and the GE light bulb i purchased for testing. Thought that I should purchase zwave devices because they were more cost effective. Bought and returned 5-6 different z-wave devices because they would not pair with my hub. I contacted Smartthings customer services...while they were helpful had admitted the problem was probably with my hub. Returned first hub to Amazon and purchased another. Now none of my devices will now pair with the hub even after exluding and including devices. My hub will not even pair with the Smartthings open/close sensor even after following video exclusion instructions.",
+      "rating": 2.0,
+      "verified": true,
+      "author": "Junswifey",
+      "helpful_votes": 6,
+      "publication_date": 20160619
+    },
+    {
+      "title": "This is the best thing for people who want smart home and home ...",
+      "text": "This is the best thing for people who want smart home and home automation but don't want to learn how to set it up themselves directly between smart home things. I got mine for $50 on sale and I've added so many things: 10+ contact sensors 5+ water sensors 6 smoke sensors Light bulbs (from hue and smartthings) Outlets and switches from Wemo and Kasa (3rd party device handler needed) Thermostats (nest with 3rd party device handler) Schlage locks Siren Motion sensor Iris keypads (3rd part device handler needed) And soon I'll be adding some 3rd generation august pro locks that will also integrate This also integrates with IFTTT for things that don't interoperate with smartthings.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Rob",
+      "helpful_votes": 0,
+      "publication_date": 20171127
+    },
+    {
+      "title": "Not compatable!",
+      "text": "I purchased this together with the Schlage Connect deadbolt. I thought the Amazon god's knew what I needed. They did not! Read up on this Hub. There's actually very few products this thing can work. It must be a dinosaur or something. I know little about this part of technology so I relied upon their recommendations. Nope, they don't know either. Love my lock. Returned this hub.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "Critter Queen",
+      "helpful_votes": 2,
+      "publication_date": 20180808
+    },
+    {
+      "title": "Seems like more of a toy than a serious product",
+      "text": "Seems like more of a toy than a serious product Very buggy, It keeps saying that switches are offline yet all my flows from stringify work fine. I can't control directly from smarttings though. All my addons work fine from other controllers, Smartthings recognized for weeks, but now will not register them. I'll replace this before i replace all of my switches, lights, thermostats and cameras. This has been even worse lately. I will never purchase another samsung product. I need to re add devices weekly. below 1 star",
+      "rating": 1.0,
+      "verified": true,
+      "author": "Amazon Customer",
+      "helpful_votes": 2,
+      "publication_date": 20171218
+    },
+    {
+      "title": "but you also have the ability to code custom automation applications which is pretty awesome!",
+      "text": "If you're starting to get your feet wet with home automation, this is a must have for your environment. I have noticed that any devices that have the ability to natively integrate with the Smartthings Hub have a shorter lead time and are more responsive to set off triggers when compared to IFTTT. I use Smartthings to manage everything from my door sensors, Philips Hue lights, WeMo light switches, and Z Wave sirens. I haven't had a chance to play with it yet, but you also have the ability to code custom automation applications which is pretty awesome!",
+      "rating": 5.0,
+      "verified": true,
+      "author": "AJTop Contributor: Smart Home",
+      "helpful_votes": 3,
+      "publication_date": 20170410
+    },
+    {
+      "title": "After 2 years my GE light switch was dropped and Samsung wouldn't reconnect",
+      "text": "I installed this in 2017 and pared it with a GE light switch as per the instructions after 2 1/2 years all of a sudden it I could not remotely access my GE light switch. After rebooting the hub & trying to re pair it it still wouldn't pair. I called Samsung twice for help and after 40 minutes into the second call I was told they no longer supported the GE light switch. So drop them before they suddenly drop you",
+      "rating": 1.0,
+      "verified": true,
+      "author": "McKee Vineyard",
+      "helpful_votes": 0,
+      "publication_date": 20200321
+    },
+    {
+      "title": "Doesn\u2019t work",
+      "text": "Firsrly, I cannot believe Amazon recommended this for the Schlage. I got the lock to connect but all it does in the basic lock and unlock feature, and does not work remotely. Then I found out that I needed to download the \u201cclassic\u201d SmartThings app to have all those features available. Lies! At this time I was going back and forth with customer support. I really wanted this to work. Finally I just returned it and bought a Wink (1) for $29. Connection was easy. Just keep it away from the router and move the hub around if you have issues connecting.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "Lady Di",
+      "helpful_votes": 0,
+      "publication_date": 20180831
+    },
+    {
+      "title": "Unreliable with poor support.",
+      "text": "Has to be reset about every six hours to control my z wave Kwikset 910 lock. Works perfectly after a reset and then stops working several hours later. The only support is via email. How can one effectively trouble shoot and fix when it takes 24-48 hours between email responses. Don't purchase unless you have a lot of extra free time and know how to code. I bought this hub to automate and simplify my life, not complicate and frustrate it.",
+      "rating": 2.0,
+      "verified": true,
+      "author": "Ryan Boone",
+      "helpful_votes": 9,
+      "publication_date": 20151010
+    },
+    {
+      "title": "One of the best smart home hubs on the market.",
+      "text": "PROS - Easy setup. Works with multiple 3rd party apps. If you have a Samsung phone and/or television you can add them to the Smarthings app. Works with Alexa, IOS, Wemo, Android, Arlo and multiple 3rd party apps. Excellent support and online community. CONS - Still not the one Smart Home Hub too support everything. No support for the cheaper wifi security cameras like those from Yi. CONCLUSION - If your looking for an alternative to the Apple home or the Google home Smart products this is your best solution. So far I have found Samsung's integration of third-party vendors the best out of all the big three. If you found this helpful please click the link below. Thank you.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Peter Franzke",
+      "helpful_votes": 0,
+      "publication_date": 20190323
+    },
+    {
+      "title": "Not reliable.  Prepare to be frustrated and annoyed!",
+      "text": "Not reliable. Every few days it goes \"inactive\" and has to be unplugged to reset it. I have it plugged in out of sight next to my router so it's not the most accessible spot to unplug. It did connect with a GE light switch and lyric thermostat with no problem and works beautifully when it's not \"inactive\". Probably going to keep it but I'm not happy with it at all. I'll update further after working with customer service and connecting more devices.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "Doug",
+      "helpful_votes": 6,
+      "publication_date": 20160510
+    },
+    {
+      "title": "Better get the customer service number early in the game to see if the hub is going to work as diagrammed for you.",
+      "text": "No code can be found to activate this device. Customer service no help. Reset the hub and entered the code from the back of the hub...nothing, nada...big waste of money. Too bad as we had high hopes for this controlling all of our new lights in a very special room. We bought it prematurely prior to its installation on our wireless grid and now too late to send it back. OUCH!",
+      "rating": 1.0,
+      "verified": true,
+      "author": "Brian Lewallen",
+      "helpful_votes": 3,
+      "publication_date": 20180310
+    },
+    {
+      "title": "We often have intermittent power outages and it triggers on ...",
+      "text": "We often have intermittent power outages and it triggers on every devices connected to it when such event occurs. It is definitely not reliable source for automating your devices until they improve such issues unless don't mind racking up on the electricity bill as well as going through frustrations of turning off all connected devices manually every time when it occurs.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "honest.review",
+      "helpful_votes": 5,
+      "publication_date": 20160921
+    },
+    {
+      "title": "Pretty Cool Device!",
+      "text": "I researched the different Smart hubs. From my research I was most interested in the Wink or the Smart Things Hub. I decided to go with the Smart Things Hub since it is backed by Samsung and I figure it will get better and better. Upon opening the box I was able to get things up and running very easily. I connected the hub to my router. Next I paired 3 light dimmers. After that I set some automation to automatically turn off these lights at 11:00 pm each night. I created an automation to turn them all off or all on. Everything was pretty straight forward and has worked well so far.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Haley",
+      "helpful_votes": 4,
+      "publication_date": 20161125
+    },
+    {
+      "title": "Very unreliable",
+      "text": "Very unreliable, keeps going offline with no reason. It's a big deal if you have most of your house connected to it, and all of a sudden nothing is working. In a recent incident, the hub got deleted from my account because of a bug on their end, and non of my devices are listed or functioning. It feels like there's no QA on new versions they release, and no accountability.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "Ohad",
+      "helpful_votes": 3,
+      "publication_date": 20180624
+    },
+    {
+      "title": "Have tried using for over a year now. Still ...",
+      "text": "Have tried using for over a year now. Still have ZWave devices drop out over time. Have been in contact with support about once a month over last year. Now it takes them multiple weeks to answer requests. They always want to start over. I spend hours resetting ZWave devices and it works for a couple of weeks and then they start dropping again. The app also still needs a lot of work.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "D. Farris",
+      "helpful_votes": 4,
+      "publication_date": 20180607
+    },
+    {
+      "title": "NCC1701-ME",
+      "text": "I don't even know where to begin....I won't drone on about all the things you can do with it....I have no doubt you will do your research. All I can say is If you are a person who loves to tinker, tweak, and explore you should have gotten one yesterday. I get to play with hardware! I get to play with software! I get to integrate home improvement projects......all the while ever so slowly turning my house into the The ENTERPRISE.....and my wife doesn't suspect a thing....",
+      "rating": 5.0,
+      "verified": true,
+      "author": "P.  Santorello",
+      "helpful_votes": 2,
+      "publication_date": 20171209
+    },
+    {
+      "title": "It's nice when it works but too many bugs and issues",
+      "text": "It's nice when it works but too many bugs and issues. Given it's lake of stability, I'd consider the current software, particularly Samsung's own SmartApps to be a Beta at best. The automations don't always work. It frequently complains that I'm having network issues when everything else is fine. I haven't tried writing my own IFFT scripts yet but I may have to given the unreliability of Samsung's. Give it a year to mature (hopefully.)",
+      "rating": 2.0,
+      "verified": true,
+      "author": "Stewart H",
+      "helpful_votes": 9,
+      "publication_date": 20151216
+    },
+    {
+      "title": "CRAP",
+      "text": "The Smartthings home hub is advertised to work with the Schlage key pad lock's remote features but it does not. A complete waist of $200 for the door handle and lock plus the $100 for Smarthings hub if I can't change the key pad combination for renters remotely. Lairs!!! Hours and hours messing with it between Smarthings Customer service and Schlage customer service then Smarthing says the latest unit only locks and unlocks and no idea when they will update the firmware",
+      "rating": 1.0,
+      "verified": true,
+      "author": "Mary R.",
+      "helpful_votes": 0,
+      "publication_date": 20181004
+    },
+    {
+      "title": "Requires Internet connection to work",
+      "text": "While it might not seem like having Internet is a big deal, consider what happens if your Internet goes down. The ST hub requires an Internet connection. This means if your Internet goes down, so does access to all of your devices (you can still control them manually). So, if you have programmed ST to turn on all of your outside lights at sunset, but your Internet goes down prior to, you will arrive home in the dark. This is a major product flaw since the hub itself only needs your wi-fi router to access the devices, and your wi-fi router is separate from your Internet connection (in fact I don't recall my router ever going down).",
+      "rating": 3.0,
+      "verified": true,
+      "author": "Just Your Average Consumer",
+      "helpful_votes": 0,
+      "publication_date": 20190403
+    },
+    {
+      "title": "The center of a smart home.",
+      "text": "This particular unit was bought as a house warming gift for my son, who is buying his first house. I bought one for myself soon after I got my first Echo. At the time Echos required a hub to control smart home devices and, even though the new Echo Pluses have a Zigbee radio built in, I still prefer the SmartThings hub. It also has a ZWave radio, and it can interact with external cloud apps like IFTTT and Yonomi. I recommend it to anyone interested in making their home smart.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Grady Richardson",
+      "helpful_votes": 0,
+      "publication_date": 20181011
+    },
+    {
+      "title": "OK as long as it works, terrible customer support",
+      "text": "Using v2 hub for more than a year, good community support, many interesting integration. Basically, it is OK as long as it is working ... About a week back, without doing any changes, all of sudden, app said my Hub was offline. Everything stopped working because this is a cloud-based solution. Reaching Smartthings support multiple times either by phone or emails, no one was there. Terrible services, do not buy!",
+      "rating": 1.0,
+      "verified": true,
+      "author": "Hao Cheng",
+      "helpful_votes": 2,
+      "publication_date": 20181228
+    },
+    {
+      "title": "Let me start the review by saying I have worked ...",
+      "text": "Let me start the review by saying I have worked in IT for the last 30 years. I've had the Smartthings Hub v2 since April, 2017. Although it seemed to work most of the time, there have been intermittent problems with devices going off-line, being unavailable and having incorrect status displayed in the app. Tonight I am, despite restarting the hub, restarting my network infrastructure (i.e. routers, switches etc.), unable to control my devices. I'm done. This was supposed to make things easier. Instead it has been a total exercise in frustration.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "J Boettiger",
+      "helpful_votes": 4,
+      "publication_date": 20180104
+    },
+    {
+      "title": "not the new Samsung Smart Things hub",
+      "text": "Does not have full functionality with Schlage Connect locks, despite what the Schlage website claims. Will lock and unlock, but cannot remotely setup or delete user codes. As per Schlage customer service, Wink hubs and a few others WILL work, not the new Samsung Smart Things hub. Very disappointing as am a big Samsung supporter.",
+      "rating": 2.0,
+      "verified": true,
+      "author": "Jay Madhu",
+      "helpful_votes": 5,
+      "publication_date": 20171107
+    },
+    {
+      "title": "No longer worked after one year...",
+      "text": "I had a bunch of devices connected to my smart things. Worked fine for a year or so until it was out of warranty of course. Tried to with customer service for MONTHS and they kept telling me to restart and reset the device (which I did every time to make sure I hadn't missed a step when I did it on my own). Finally even they conclude the hub is defective they tell me that I have to buy a new one because it is not out of the warranty. What a waste of my time. Could have really used the hub when I became disabled. I'll be looking into different hubs.",
+      "rating": 3.0,
+      "verified": true,
+      "author": "Youknoewhat",
+      "helpful_votes": 0,
+      "publication_date": 20191026
+    },
+    {
+      "title": "Look Elsewhere",
+      "text": "This thing works about 5% of the tine. I've had it for at least a year, it has seen provably 30 firmware updates and still cant lock or unlock my door. Worked for a week, then decides to work once every 20x. Find another smart hub.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "Chris Z",
+      "helpful_votes": 4,
+      "publication_date": 20171118
+    },
+    {
+      "title": "... a shame - the possibilities for this hub are great BUT unfortunately",
+      "text": "What a shame - the possibilities for this hub are great BUT unfortunately, it is Internet based and the server is quite quirky. Many times I can't use things at all, and those that are supposed to happen automatically sometimes work, and sometimes don't. In a word, it's unreliable. And that just doesn't work for home automation - lights should come on when they're supposed to - not just sometimes, but all the time. I don't recommend and would love to return/sell mine - it's useless for me.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "Tapper",
+      "helpful_votes": 5,
+      "publication_date": 20160331
+    },
+    {
+      "title": "Stopped working after two weeks",
+      "text": "My hub worked for about two weeks, both through the mobile app and Amazon Echo, and then stopped working. It shows as offline or inactive in the mobile app, and unavailable to Amazon Echo. I followed the support directions, without joy. I've reset using the recessed reset button, and got a green light, but still showed as offline. I unplugged power & network cables & pulled the batteries, and got a green light, but still shows as offline. I'll be replacing with a different ZigBee & ZWave hub.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "Lou Lembcke",
+      "helpful_votes": 2,
+      "publication_date": 20171007
+    },
+    {
+      "title": "Good if you have existing smart devices requiring a central hub.",
+      "text": "I have several Z-wave devices and got a Z-wave compatible door lock so I decided to purchase the hub. For me, it works great. If I were looking to purchase, I would ask myself whether this is the way to proceed. It seem like the cheaper devices now being marketed do no require the hub and are not compatible with the hub. If I had to guess, the future is hub-less, with the competition being which technology/app will win out. I don't have high expectations for the longevity of Z-wave and similar technologies.",
+      "rating": 4.0,
+      "verified": true,
+      "author": "Kevin from Boston",
+      "helpful_votes": 0,
+      "publication_date": 20180102
+    },
+    {
+      "title": "Samsung offers chat and email support, but the chat ...",
+      "text": "Samsung offers chat and email support, but the chat person doesn't know the product, and email doesn't have the product listed. No manuals are available, since December of 2017. This is unreal. I guess I'm stuck with a $90, internet connected, paper weight.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "MIKE",
+      "helpful_votes": 3,
+      "publication_date": 20180319
+    },
+    {
+      "title": "Wish I\u2019d purchased ages ago!!!",
+      "text": "As a wink user, I kept hearing how great ST was. Completely open, community driven, etc. I purchased on one of the $49.99 sales, and boy howdy, was everyone right (and more). I\u2019ve never seen so many possibilities. Between webcore, and the rboy add-ons, I have my home automation doing stuff that I only dreamed of with Wink. So, now my Wink Hub lives in the kitchen cabinet handling my cabinet lighting tied to a Lutron Connected Remote (Smartthings doesn\u2019t allow the cool \u201c4 Button mode\u201d of these remotes like Wink does). Seriously, if you want to up your home automation game, ST is the way to go!",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Ryan Stasel",
+      "helpful_votes": 2,
+      "publication_date": 20170915
+    },
+    {
+      "title": "Useless product",
+      "text": "This product is useless. The devices that connect to this hub are offline more than they are online. Their firmware updates result in weeks offline. Once they are back online, they are too inconsistent to depend on - especially door locks. Sometimes they even report incorrectly meaning you will unlock a door that is actually locked. If Samsung can ever gets things working and then leaves them alone this is a great idea. It's time has not yet come, however.",
+      "rating": 2.0,
+      "verified": true,
+      "author": "McR",
+      "helpful_votes": 0,
+      "publication_date": 20201016
+    },
+    {
+      "title": "Helped out so much with our home and family activities.",
+      "text": "Bought this because we had purchased the Yale Deadbolt Lock and wanted to be able to use our smart phones to lock and unlock the door wirelessly.  We ended up loving the system so much that we now have the Smartthings sensors and Z-Wave Smart Dimmable Switches. Works great for our family. Unlocks and turns on lights when we arrive home and turns off lights when we leave as well as locking the door. We recommend this product if your looking into turning your home into a smart home an letting home automation make your daily chores a little bit easier.",
+      "rating": 4.0,
+      "verified": true,
+      "author": "Victor Briceno",
+      "helpful_votes": 0,
+      "publication_date": 20170222
+    },
+    {
+      "title": "I just started using Smart Home system recently and this Smarthing sometimes works like ...",
+      "text": "I just started using Smart Home system recently and this Smarthing sometimes works like a charm and sometimes doesnt. At first I thought it was defective, but even after getting the second one, I still cannot get it to detect an outlet I'm trying to install. I have changed the outlet about 4 times with between Leviton and Go Wave. No luck. I kept thinking it was the outlet problem so I kept exhanging for new outlets and even different brands. Now, I'm starting to think it's the smart things that's not working correctly. This Smartthing did pick up my Leviton light switch right away though.",
+      "rating": 3.0,
+      "verified": true,
+      "author": "San Diego Mommy",
+      "helpful_votes": 0,
+      "publication_date": 20171101
+    },
+    {
+      "title": "Upgrade from Gen 1 = horrible experience",
+      "text": "I upgraded from 1st Gen SmartThings, and it has been terribly painful. The process involves excluding then re-including every device manually with the new hub. The fact that Samsung provided no upgrade path makes me feel like they don't care about loyal customers, early adopters or their time.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "JD",
+      "helpful_votes": 5,
+      "publication_date": 20170216
+    },
+    {
+      "title": "Garbage",
+      "text": "Worked fine and easy to set up when new. Recently got a Samsung TV and was unable to add it to the hub. Reset the hub and now unable to add anything to it. Samsung support takes a month to respond and tells you to reset it which I already did 3 times.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "Andrew",
+      "helpful_votes": 2,
+      "publication_date": 20190115
+    },
+    {
+      "title": "Great with smart locks",
+      "text": "Pro: I bought this to control my Kwikset 910 door lock. It performs as advertised including lock/unlock, code entry and status. Note: this is version 2 of the hub. Version 3 is now for sale but does not work with locks (at least my Kwikset locks) even though they advertise otherwise. To work well, you need an application that only works with version 2 of the Smartthings hub-\u2018\u2018this hub). Con: This hub is Ethernet connection only. WiFi is not supported. The Ethernet cable included is too short to be practical for many installations (I think it\u2019s 5 feet). I bought a 15 footer so I could move the hub around the room.",
+      "rating": 4.0,
+      "verified": true,
+      "author": "David",
+      "helpful_votes": 0,
+      "publication_date": 20181002
+    },
+    {
+      "title": "An Excellent Choice for the Internet of Things (IoT)",
+      "text": "So, far -- so excellent! I am glad I chose Samsung over the other brand hubs for the IoT devices in my home. The deciding factor was the hub's ability to communicate with BOTH Z-Wave and Zigbee. Although I definitely prefer Z-Wave protocol, it is reassuring to have a device that will work well with Zigbee devices in the event I need a specialized IoT device that is not available in the Z-Wave protocol. As of today's date, I've used this product for about 90 days, and there have been no material, workmanship or operational issues.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Thomas Ott",
+      "helpful_votes": 0,
+      "publication_date": 20180114
+    },
+    {
+      "title": "Don't buy this garbage",
+      "text": "I have 2 homes,, 2 hubs, 7 door sensors, 4 leak detectors and 2 motion detectors. Virtually everyone has failed within 1 year of purchase. \"Unavailable\" is the most common problem. I've reset the units, removed and replaced batteries and deleted and added the units back in until the app would no longer allow me to delete non-working units. My guess is I've spent $400.00 on the most useless Samsung product line. When you contact Customer Support they either do not respond or say thanks for contacting us and do nothing or provide no help. Do not buy.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "Jim E",
+      "helpful_votes": 0,
+      "publication_date": 20190202
+    },
+    {
+      "title": "Fine while it works, completely useless if you need support",
+      "text": "Calling support just has you on hold for hours without anyone picking up... My e-mail to support hasn't been answered for 3 weeks despite having an actual ticket number. So yeah, frankly the community support for openhab was much better. And sure, ST has its forums, but forums don't have access to your account so good luck fixing an issue that involves ST servers. After the Samsung account merger, my hub has just been a nice white paper weight.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "Andrew Karpenko",
+      "helpful_votes": 0,
+      "publication_date": 20190104
+    },
+    {
+      "title": "good, not great",
+      "text": "In general, I am satisfied with this as a replacement for my legacy X-10 home automation system. X-10 with ActiveHome Pro offers a greater level of configuration than this product (i.e. \"security\" mode - random on/off times around a defined schedule), but Z-wave has been more reliable and offers much more in the line of available devices. Oh, and then there's internet connectivity, which has helped me to solve other issues. I purchased this device in March 2017 and have owned it for 8 months now. I have not had any bad experiences with firmware updates as I read in reviews before I purchased. Samsung has notified users in advance (by email) of updates.",
+      "rating": 4.0,
+      "verified": true,
+      "author": "Valued Customer",
+      "helpful_votes": 0,
+      "publication_date": 20171106
+    },
+    {
+      "title": "Used items for new prices",
+      "text": "I was a little disappointed in Amazon on this one. I ordered what I thought was going to be a new Smart Things hub, and instead received a used, open box item. Instructions were removed from packaging, and device was already added to someone elses account. I had to factory reset it before i was even able to connect to it. The power cord, instead of being twist tied together like any other electronic you buy, was tied in a knot at the bottom oc the box. There are also marks or scratches on top of the hub. All in all Im seriously disappointed in Amazon here.",
+      "rating": 2.0,
+      "verified": true,
+      "author": "Tim Meadows",
+      "helpful_votes": 4,
+      "publication_date": 20180221
+    },
+    {
+      "title": "Sorry I spent so much money on this stuff",
+      "text": "The 25% of the time that the Smartthings devices actually work they are great. The issue is they don't work about 75% of the time. Smartthings support's answer is always remove and put back the batteries when the peripherals stop contacting the hub. The batteries are very difficult to remove especially when you have to climb a ladder to get to them. Sometimes a door sensor will not work then 5 minutes later it is working again then 2 days later it stops working again and does not work until the battery is pulled.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "JKR",
+      "helpful_votes": 3,
+      "publication_date": 20170610
+    },
+    {
+      "title": "It nails the basics and has potential, but just doesn't work like it should for advanced functions right now",
+      "text": "The basic functions works, but you can quickly run into issues and waste a lot of tie trying to program it to do anything other than simple on/off of devices. It has problems with just able any multi-step task (or If-Then commands) you program it to do. Tried to get it to turn off lights after 2 hours (for example) t it always shuts them off within 30 seconds. Other times devices randomly aren't recognized. It reads the temperature from my multi-sensor but is very unreliable with turning on or off my portable AC unit when \"trigger\" temps are reached as another example. It has potential, but right now is a bit of a headache :).",
+      "rating": 3.0,
+      "verified": true,
+      "author": "IGP2016",
+      "helpful_votes": 3,
+      "publication_date": 20151021
+    },
+    {
+      "title": "Make sure you have reliable internet",
+      "text": "Works OK if there is internet. For some reason, even though you should be able to access things on you local network, if the internet is down so is this and all connected devices. Worse, the in-wall outlets (a seperate device) goes into some kind of setup mode if the hub is offline. I'm not real happy with this since we lose internet and have slow response from our ISP",
+      "rating": 3.0,
+      "verified": true,
+      "author": "Chill Frog",
+      "helpful_votes": 4,
+      "publication_date": 20161212
+    },
+    {
+      "title": "Smartthings -  should be called \u201cSometimes\u201d",
+      "text": "Have used both Smartthings and Wink. In my experience, while Smartthings may be more versatile - Wink is more reliable and less time consuming. I also do not want to have to be a programmer or spend hours Googling \u2018Smarthings\u2019 to figure out how to make it do something. Examples: reliability - Zigbee sensors continuously drop off regardless of how many I have. Ease of use - Wink allows me to set user codes on my Schlage locks without having to download third-party scripts. I am sure Smartthings works great for people who have the technical/programming background and time to fiddle - but it is not for me.",
+      "rating": 2.0,
+      "verified": true,
+      "author": "STM",
+      "helpful_votes": 0,
+      "publication_date": 20171226
+    },
+    {
+      "title": "Doesn't Pair with Many Smart Home Devices",
+      "text": "So far, this thing is useless. It does not recognize my Sensi smart thermostat, my ADT alarm, my Logitech Harmony Elite remote, or my Hausebell wifi plugs. It always says my iphone is away, even if I am holding it right next to the thing with the app open. The only reason I haven't returned it yet is because it recognizes my door lock and I have some GE switches on order that I am hoping it will work with. Samsung needs to work better with others in general and stop being to proprietary.",
+      "rating": 2.0,
+      "verified": true,
+      "author": "JusLaugh",
+      "helpful_votes": 2,
+      "publication_date": 20170317
+    },
+    {
+      "title": "Have A Problem? GOOD LUCK!",
+      "text": "Set up was pretty easy and works well most of the time however if you have a problem and need help be prepared for VERY LONG HOLD TIMES VERY LONG HOLD TIMES VERY LONG HOLD TIMES and because of this I would not recommend this product to anyone not TECH savvy and willing to scour the Smartthings forums for answers and when all that fails be prepared to be on hold for A LONG LONG LONG LONG TIME I have been on hold as I write this for 1 hour 14 mins 25 secs. The final time on hold tonight 1 hour 20 min 11 secs rep hung up on me GREAT JOB SAMSUNG",
+      "rating": 1.0,
+      "verified": true,
+      "author": "Drk5ide",
+      "helpful_votes": 0,
+      "publication_date": 20190207
+    },
+    {
+      "title": "Home Automation is a hobby for the technically inclined.",
+      "text": "This is more of a problem with poorly documented devices, but I've been consistently disappointed by compatibility and ease of use. Home Automation is *not* a set-it and forget-it thing. I've been consistently disappointed to discover that many devices offer bare-bones functionality out of the box, and many require custom code to work as expected. Home automation is cool, but it's not as reliable as an old fashioned light switch.",
+      "rating": 2.0,
+      "verified": true,
+      "author": "Spam Weishoff",
+      "helpful_votes": 0,
+      "publication_date": 20180607
+    },
+    {
+      "title": "worked just fine for 1.5 years, then went bad",
+      "text": "I just use this for water leak sensors. Everything was great for just over a year, but then things started disconnecting randomly. At first I could reconnect them, but then it became impossible to get devices reconnected. I thought it was the device sensors going bad or their batteries, so I bought new sensors, but they couldn't connect either. Turns out it was this v2 hub going bad - completely useless after 2 years and 4 months.",
+      "rating": 3.0,
+      "verified": true,
+      "author": "Nathan Tomlin",
+      "helpful_votes": 0,
+      "publication_date": 20200529
+    },
+    {
+      "title": "Unstable, no support",
+      "text": "Support straight up ignores everything. Device will work for 3 months, and then randomly disconnect half of my devices. It has done this 4 times over the course of the last year. I am finished with Samsung products because of this. Absurd.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "Chuck Baker",
+      "helpful_votes": 2,
+      "publication_date": 20181011
+    },
+    {
+      "title": "Mostly pretty happy with this device",
+      "text": "Mostly pretty happy with this device. Possibly the most compatible hub on the market; I've only come across on device that I can't connect with it - and that is the Aeotec G5 recessed door sensors. Everything else (20+ different kinds of Z-Wave devices) connects quickly and simply. Those that disconnect with any regularity are all from Aeotec, so I'm feeling confident that is not the Hub's fault. Every other product I have stays connected. Otherwise, this is simple to set up and administer, and runs cool and quietly without issue.",
+      "rating": 4.0,
+      "verified": true,
+      "author": "Boyd Shermis",
+      "helpful_votes": 0,
+      "publication_date": 20180703
+    },
+    {
+      "title": "Good, still quirky",
+      "text": "I've used a few different home automation hubs including older models of Smarrtthings and all of them are quirky. Smartthings is quirky as well, but the latest model is less quirky than others. It looks like since Samsung took over there is less user created content which is disappointing. In terms of what is out there now, Smarrtthings is the tops and best in my opinion. None are perfect, they all still seem to be evolving. The zigbee and zwave are becoming more standardized which will help quite a bit. In my opinion, there isn't a home automation hub on the market today that is without quirks, Smartthings makes it more livable and functional though.",
+      "rating": 4.0,
+      "verified": true,
+      "author": "VelocityTop Contributor: Camping",
+      "helpful_votes": 0,
+      "publication_date": 20180105
+    },
+    {
+      "title": "Don't do it.",
+      "text": "Pure junk. Even the pre-installed programs won't run consistently, with only 5 things. The geofence 'sensor' fails almost daily. While I was on vacation, they pushed an update and froze my hub. There is no way I can find to control the updates. Asked for service help and days later got a 'form letter' type email assuring me I was a valued customer and thanking me for my patience. What makes these idiots think I'm patient? I'm looking for a replacement today.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "David Burch",
+      "helpful_votes": 6,
+      "publication_date": 20160524
+    },
+    {
+      "title": "A work in progress but gets the job done",
+      "text": "Purchased to pair with a remote valve shutoff unit and water sensor. Pairing with remote \"things\" was not difficult, but no as straight forward as it could have been. Overall, with time and patient this hub paired with remote shutoff unit and water sensor, sends a notification when water is sensed and closes the cold water valve to hot water tank in the presence water around the tank. All pieces operate and function as expected. Not overly impressed with IOS or Android apps, but they are functionally useful when used with the PC Web interface. Spent most of my time trying to identify the proper device handler, other than that very straight forward.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Arthur O. Harris",
+      "helpful_votes": 0,
+      "publication_date": 20160802
+    },
+    {
+      "title": "A useful gadget.  Powerful options. Opens up endless ways to spend more money on gadgets.",
+      "text": "I bought this initially to monitor two sets of GoControl door and motion sensors. Since then I've connected this to my Honeywell thermostat, two connected light bulbs, and a garage door opener. If you have the time to tweak everything you can make this do a lot of great stuff. I recently tied this in with IFTTT so that I can control the lights and garage from my Pebble smartwatch.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "mnmike",
+      "helpful_votes": 3,
+      "publication_date": 20161027
+    },
+    {
+      "title": "We have the same lock in another house and love it. However",
+      "text": "I purchased this to control a Schlage lock. We have the same lock in another house and love it. However, we use a Wink hub at the other house. Comparing the user interface of the two hubs was my complaint. The Wink interface is more user friendly and allows up to a six digit code while the Samsung SmartThing Hub only seems to allow a four digit code. The rest of the interface is just not up to par with the Wink either. I purchased the Samsung hub because it came as a bundle and I was lazy. I do want to say, it is easy to set up and does everything it advertises.",
+      "rating": 3.0,
+      "verified": true,
+      "author": "Edwin Wadsworth",
+      "helpful_votes": 0,
+      "publication_date": 20180222
+    },
+    {
+      "title": "Dead Unit/Terrible Customer Service",
+      "text": "I have only had this unit for less than a year and it is no longer working. Two weeks ago, the unit would no longer power up. I have contacted Smartthings Customer Service many times, but they always give me the run around. They can not find my Ticket # to get this replaced. I will call again today and see if they can rectify this. I may be looking for another ZWave Hub.....",
+      "rating": 1.0,
+      "verified": true,
+      "author": "k302",
+      "helpful_votes": 0,
+      "publication_date": 20181105
+    },
+    {
+      "title": "Lump Samsung in with the rest of the manufacturers who don't adequately test their products.",
+      "text": "So far, I'm not impressed. The setup process hung up and cycled for nearly an hour on two different mobile devices (Droid Turbo and iPad Mini). I finally had to force close the app, unplug the hub and start over again. While initial setup problems are not unique to Samsung's products, Samsung - like other \"smart\" product manufacturers - needs to realize that first impressions (setup) are lasting impressions. There are a few manufacturers whose setups run simply and flawlessly so it can be done. With a 30+ year background in technology, my guess is that Samsung is rushing products to market without adequate testing. Time to step up your game, Samsung.",
+      "rating": 2.0,
+      "verified": true,
+      "author": "Jack Frost",
+      "helpful_votes": 2,
+      "publication_date": 20160525
+    },
+    {
+      "title": "So far I am liking it. At the moment ...",
+      "text": "So far I am liking it. At the moment we only have it controlling lighting. I've set up about a dozen Cree dimmable LED bulbs. Had a little trouble with syncing the first couple of bulbs but that was more and issue of me not reading the instructions properly. Once I did that, I had no further issues syncing the rest. The down side is that you are forced to do the syncing and all the configuration on the mobile app. The stock system totally lacks a web based interface. When setting up a number of devices and routines, having to do all work on a phone can get old fast.",
+      "rating": 4.0,
+      "verified": true,
+      "author": "Kevin M Agard",
+      "helpful_votes": 2,
+      "publication_date": 20160613
+    },
+    {
+      "title": "This product does not deliver what it advertises.",
+      "text": "Great potential, lots of vision on the part of SmartThings. Unfortunately the quality assurance and execution has missed the mark by a long shot. This device is a cloud connected device. It's means that it's \"brains\" reside on a server somewhere. SmartThings continually introduces bugs into their platform which seems to break functionality with every new release. This hub will appear to work fine with a small number of devices. How as you add more devices with different function you begin to discover half baked attempts to support these solutions. .",
+      "rating": 2.0,
+      "verified": true,
+      "author": "G. McGowan",
+      "helpful_votes": 3,
+      "publication_date": 20160104
+    },
+    {
+      "title": "Has potential but it has become completely unreliable lately",
+      "text": "I can't go a day anymore without something failing to turn on or turn off which completely defeats the purpose of home automation. My setup isn't even all that complicated either. The company has been releasing patches regularly to combat this instability but so far nothing has helped. Save your money and some frustration and look elsewhere for now.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "Michael McGrath",
+      "helpful_votes": 11,
+      "publication_date": 20151214
+    },
+    {
+      "title": "A waste of money, only a dummy would buy it. Are you a dummy?",
+      "text": "Having had this for a year, I can safely say it sucks and isn\u2019t worth the cheap plastic it\u2019s made out of. I have a number of Samsung multipurpose sensors, a door lock and hue bulbs connected to this. It\u2019s constantly losing components, not working in general. All this smart home stuff is all well and good until none of it works and it ends up costing you more time than it saves you. Good luck getting any intelligible help from the overseas customer service, I can\u2019t understand a word of what they say or write.",
+      "rating": 2.0,
+      "verified": true,
+      "author": "JohnHowardP",
+      "helpful_votes": 0,
+      "publication_date": 20181029
+    },
+    {
+      "title": "Does not pair with GE Z-Wave outlet",
+      "text": "At least the hub showed up in the Samsung iOS app, that was not a problem. But it did not pair with the GE Z-Wave Outdoor outlet. Despite many attempts over two days. I have no idea if the issue was the hub or the GE outlet, but the Samsung troubleshooting guide did not resolve this for me, and of course no 800 number to call on the weekends. So only two stars for you Samsung. I have two TP-Link outlets that DONT require a hub and they work perfectly with Alexa so I'll stick with TP-Link.",
+      "rating": 2.0,
+      "verified": true,
+      "author": "D. Goulian",
+      "helpful_votes": 0,
+      "publication_date": 20180812
+    },
+    {
+      "title": "Not Ready for Primetime",
+      "text": "The app was buggy. I could never get my lights to do what I wanted. I was really excited about this, but it turned out to be an expensive disappointment. I actually returned the hub and the LED bulbs I purchased to use with the hub.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "Toby",
+      "helpful_votes": 6,
+      "publication_date": 20160616
+    },
+    {
+      "title": "Does not work as described; too much struggle",
+      "text": "I started to use this about 7 months ago and each time there is power or internet outage struggle to get it online again. All devices lose their connections and have to reconnect manually. I certainly do not recommend this devic, even though it was the Amazon\u2019s choice and best reviewed hub in other platforms",
+      "rating": 1.0,
+      "verified": true,
+      "author": "OnurK",
+      "helpful_votes": 0,
+      "publication_date": 20190118
+    },
+    {
+      "title": "not reliable - too many issues",
+      "text": "problems with smart home monitor app: recently became unable to \"arm\" from app though app shows armed. system basically stuck in disarm mode. automations related to disarm are working but cannot arm. emailed support but also seeing lots of posts on internet over same issue. i'm not convinced that these are technologically reliable yet. have also had a few false alarms on garage door sensor not showing closed when it is - requiring me to return home to check.",
+      "rating": 3.0,
+      "verified": true,
+      "author": "Scott P.",
+      "helpful_votes": 3,
+      "publication_date": 20160317
+    },
+    {
+      "title": "Customer Support Lies",
+      "text": "The version 2 hub had a software update around Oct 2018. It was poorly done. Many devices were knocked offline - some like the Fortrenz still won't come on line. Customer support knows nothing about this. I spent hours figuring it out. Come on Samsung....you're software development team need to get their act together. You could have a great product, but its only a 3 of 5. You act like the clowns at TIVO. Check out your upgrades BEFORE you bring them online.",
+      "rating": 3.0,
+      "verified": true,
+      "author": "Houston, TX",
+      "helpful_votes": 0,
+      "publication_date": 20181227
+    },
+    {
+      "title": "Not Impressed",
+      "text": "I've had smartthings for about 6 months now and I feel it is a total waste of money. I have it set up to turn on lights at sunset and to turn on lights at night when I get close to home. The first couple months it worked great. Now I can be home for 30 minutes before it recognizes that I've arrived. And that's if it even knows I left. Lately it doesn't even recognize I've left, so it's not arming my house in the away mode. I only have 40 items connected to my smartthings hub. Not impressed at all and will definitely be shopping for a replacement soon.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "Brizehouse",
+      "helpful_votes": 3,
+      "publication_date": 20170613
+    },
+    {
+      "title": "and initially was very pleased. The pairing has some potential",
+      "text": "I have put a few weeks into this device. Support is unresponsive, unit has wonder potential; however is is buggy and extremely unreliable; I purchase this to pair with the Echo unit, and initially was very pleased. The pairing has some potential, but the smartthings portion has not work for more than 1 day without issue. I like playing with things; however when other family members abandon these devices then their value is severely diminished. I am looking for another home automation device which can pair well with Echo. Samsung's name on this device is not a mark of quality.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "Bob Jackson",
+      "helpful_votes": 5,
+      "publication_date": 20160124
+    },
+    {
+      "title": "I was extremely excited about this product. But this ...",
+      "text": "I was extremely excited about this product. But this device doesn't work with existing AT&T Digital, Doesn't work with Apple products. Wasn't able to connect any of my devices. Called Customer Service, they failed to assist as well. Returned this product.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "~ Ash ~",
+      "helpful_votes": 2,
+      "publication_date": 20180719
+    },
+    {
+      "title": "Z-Wave radio failed in both original and warranty replacement...going to try Wink Hub 2",
+      "text": "There have always been nuances that I didn't like, starting from the user interface for setting the thermostat (it was a slider, and VERY difficult to hit the target temperature...that has since been fixed). What I absolutely can't live with is the fact that the Z-Wave radio has failed twice...first in the original purchase, then a year later in the warranty replacement. Having even a handful of devices makes having to re-pair a problem, but when your whole house is automated, it is absolutely unacceptable. I've decided to give Wink Hub 2 a try.",
+      "rating": 2.0,
+      "verified": true,
+      "author": "JDavidX",
+      "helpful_votes": 0,
+      "publication_date": 20180608
+    },
+    {
+      "title": "Not ready for non-geeks.",
+      "text": "This simply isn't a technology that is ready for prime time. I have had my hub fail 3 times, requiring a full reset and a re-registration of all 13 of my devices on the system. This is a system that is more of a pain than pleasure. Sure, its great I can adjust my thermostat from afar, but the fact that I have spent nearly 20 hours maintaining it negates any benefit. Its not like I dont know what I am doing, I have been messing with home automation since the X10 days. I just thought I would be getting a headache free tool and what I got was another pile of annoyances.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "C. Barret",
+      "helpful_votes": 7,
+      "publication_date": 20171229
+    },
+    {
+      "title": "Good when it works",
+      "text": "It's great..... when it works. If there's any connection disruption whatsoever, it will remain unusable (along with all devices) until you take the batteries out, unplug it, and then reconnect it all. It won't reset the connection even when internet is restored. It just stays in a fault mode. I tried two of them; same problem. It's a firmware problem that's apparently been ongoing for 6mos or so given the reviews. I guess they don't care about addressing it.",
+      "rating": 2.0,
+      "verified": true,
+      "author": "K. Pitchford",
+      "helpful_votes": 6,
+      "publication_date": 20160320
+    },
+    {
+      "title": "No connection issues for my 1500 sqft house",
+      "text": "I was nervous about buying this because of all the mixed reviews, but I decided to try it as a home security system. So far, this thing has outperformed my expectations. The app is clean and fast, even on my laggy phone. All the devices paired quickly and the app registers status changes almost instantly. I bought some grounded smart outlets and bulbs to make a stronger network for the hub, but I don't think they're even necessary for my 1500 sqft house. I'll update if anything changes, but so far setting it up was easier and took less time than installing my Wi-Fi router.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "S.H.",
+      "helpful_votes": 0,
+      "publication_date": 20180723
+    },
+    {
+      "title": "Best DIY coordinator",
+      "text": "The SmartThings hub is the best there is! If you are new to Smart Homes, it provides a very simple interface to pair almost any smart home device (Zigbee or Z-Wave) to your hub. If you are more tech savvy, you can pair almost ANY device out there through the use of Device Handlers. You can find all kinds of information on SmartThings community forum. The \"dev site\" graph.api.smartthings.com is a fantastic tool that isn't well advertised in the starter documentation, but it helps with debugging and more advanced features if you are interested in knowing more about your devices.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Ryan",
+      "helpful_votes": 0,
+      "publication_date": 20181125
+    },
+    {
+      "title": "Unable to set up... app hung up ...",
+      "text": "Unable to set up...app hung up when initializing the hub and was unable to connect (solid green light displayed). Tried all the troubleshooting I could find online, as Samsung's own troubleshooting section is abysmal, bordering on non-existent. I'm returning this and buying a Wink instead.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "Alexandra Parmater",
+      "helpful_votes": 2,
+      "publication_date": 20180708
+    },
+    {
+      "title": "Buy the newer version",
+      "text": "I bought the older version because of the price, and it was easy to set up - at first. But then I wanted to make some changes to my system, and I ran into a brick wall. I fiddled with it but was unable to get it to reset. After a while I just gave up. I am using the WINK hub instead.",
+      "rating": 3.0,
+      "verified": true,
+      "author": "RJMAN",
+      "helpful_votes": 0,
+      "publication_date": 20190128
+    },
+    {
+      "title": "Despite what Schlage says in their specifications, the Samsung ...",
+      "text": "Despite what Schlage says in their specifications, the Samsung SmartThings Hub app DOES NOT allow for remote addition or deletion of lock codes in Schlage Z-wave locks. The app only remotely locks or unlocks the door lock.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "jordan",
+      "helpful_votes": 4,
+      "publication_date": 20171101
+    },
+    {
+      "title": "Annoying",
+      "text": "Keeps disconnecting multiple times in a row. Every time they do an update I have to reset my light settings. If this keeps up I will be switching to another hub because this one has been annoying.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "Angela",
+      "helpful_votes": 3,
+      "publication_date": 20180420
+    },
+    {
+      "title": "Replaced my v1 which was a major headache to use.  Reliable so far and pretty snappy response by system.",
+      "text": "Migrated from first generation to this (2nd gen). Old hub almost caused me to have a aneurysm trying to keep everything working reliably. Got fed up and figured I'd give Smart Things another chance, as most first gen products have many design flaws and bugs to work out. Was not able to exclude Aoetec products during the migration (kept getting errors) and since they were poorly designed by not allowing a factory reset to allow them to re-pair with a new hub that was $200 down the tube. Going with Smart Things products as they allow for this contingency. Everything works quite well, no more constantly resetting hub, router, etc. So far this is win...",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Loves To Read",
+      "helpful_votes": 0,
+      "publication_date": 20170508
+    },
+    {
+      "title": "Loved V1 and not V2 is even better",
+      "text": "Started with Hub V1 and now on V2. everything is working great. I wish they has a better system for upgrading to the new hub besides doing everything all over again but I got it done and all is working. I do notice a faster response time to triggers and I like the idea of having more processes being controlled locally instead of in the cloud. The battery back up is cool just not really part of my system now. If the lights go out I wont need smartthings to turn them on for me (no power). Besides that with the back Friday discount I could not find a reason not to upgrade.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Edited Visions",
+      "helpful_votes": 2,
+      "publication_date": 20161128
+    }
+  ],
+  "product_meta": {
+    "title": "Samsung SmartThings Smart Home Hub 2nd Gen.",
+    "description": "SmartThings lets you easily control, monitor, and secure your home from anywhere in the world. The heart of your smart home, the Samsung SmartThings Hub will connect all of your different smart locks, lights, outlets, thermostats, and more and let you control them from the free SmartThings app. Receive notifications about what's happening in and around your home and use your smartphone to remotely control your home's security, energy usage, lighting, and more. Since SmartThings is compatible with a wide variety of smart devices from different companies, once you have the SmartThings Hub and the free app for iOS, Android, or Windows, you can add as many additional SmartThings sensors or other popular Z-Wave, ZigBee, or Internet-connected products as you want to enhance your connected home. The Samsung SmartThings Hub works in the US and Canada. \n\nIf the Honeywell Programmable Thermostat was not detected, you may need to reset the device through a Z-Wave exclusion before it can successfully connect with the SmartThings Hub. To do so in the SmartThings mobile app: 1. Tap the menu 2. Tap the Hub 3. Tap Z-Wave Utilities 4. Tap General Device Exclusion 5. When prompted: 1. Press the System button on the left side of the thermostat's display 2. Press and hold the blank center button until the display changes 3. The first set of numbers/arrows is the \"Function\" section - Scroll until you find \"RF10\" 4. The second set of numbers/arrows is the \"Setting\" section - Select 0 5. Press Done in the lower left corner to save and exit After the app indicates that the device was successfully removed from SmartThings, follow the first set of instructions above to connect the Honeywell Programmable Thermostat.\n\n\nNote: Please reference User Guide and Specification Sheet below under 'Technical Specifications' for instructions on how to add devices and troubleshoot connectivity issues.",
+    "rating": 3.7,
+    "feature_bullets": [
+      "Your smart home needs a brain, so get started with a SmartThings Hub. It connects wirelessly with a wide range of smart devices and makes them work together",
+      "Add smart devices and put your home to work. Choose from a wide range of compatible devices, including lights, speakers, locks, thermostats, sensors, and more",
+      "Use the SmartThings app or Amazon Alexa to control your smart home. Teach your house new tricks by telling it what to do when you\u2019re asleep, awake, away, and back home",
+      "Power: In-wall power adapter with about 10 hours of backup power from 4 AA batteries (included) Communication. Protocol: ZigBee, Z-Wave, IP. Range: 50-130 feet Operating Temperature: 41 to 95\u00b0F. Compatible Brands: Honeywell, Philips Hue, Kwikset",
+      "Requires an internet-connected Wi-Fi router with an available Ethernet port, plus the free SmartThings app for Android (4.1 or later) or iPhone (iOS 9.0 or later)",
+      "Compatible Brands: Honeywell, Philips Hue, Kwikset",
+      "A more powerful processor and local app engine means faster performance and enabled offline processing",
+      "Hub connects to your Internet router via the included Ethernet cable, the Hub has a ZigBee, Z-Wave, and Bluetooth radio and also supports selected IP-accessible devices",
+      "Replaceable batteries provide backup power that keeps the hub operating locally for about 2 hours if there's a power outage",
+      "Please reference User Guide and Specification Sheet below under 'Technical Specifications' for instructions on how to add devices and troubleshoot connectivity issues",
+      "Kindly refer user manual and instruction video for reference",
+      "Hub connects all of the different smart devices around your home so you can remotely control your home's security, energy usage, lighting, and more,Range: More than 50 to 100-ft, Power Source: In-wall AC (100-240V)"
+    ],
+    "specifications": {
+      "Manufacturer": "Samjin",
+      "Part Number": "STH-ETH-250",
+      "Item Weight": "8 ounces",
+      "Product Dimensions": "4.9 x 4.2 x 1.3 inches",
+      "Item model number": "STH-ETH-250",
+      "Batteries": "4 AA batteries required.",
+      "Is Discontinued By Manufacturer": "No",
+      "Color": "White",
+      "Style": "SmartThings Hub",
+      "Power Source": "Corded-Electric, Battery",
+      "Voltage": "100 Volts",
+      "Item Package Quantity": "1",
+      "Included Components": "Samsung SmartThings Hub, Quick Start Guide",
+      "Batteries Included?": "Yes",
+      "Batteries Required?": "Yes",
+      "Battery Cell Type": "Alkaline",
+      "Average Battery Life": "10 Hours",
+      "ASIN": "B010NZV0GE",
+      "Customer Reviews": "3.7 out of 5 stars2,784 ratings3.7 out of 5 stars",
+      "Best Sellers Rank": "#70,774 in Tools & Home Improvement",
+      "Date First Available": "June 30, 2015"
+    },
+    "categories": [
+      "Home Automation Devices",
+      "Tools & Home Improvement",
+      "Electrical",
+      "Hubs & Controllers"
+    ],
+    "price": 87.99
+  }
+}

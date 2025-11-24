@@ -1,0 +1,961 @@
+{
+  "website_summaries": [
+    {
+      "verdict": "With fast performance and a competitive price, the OCZ Agility 3 SSD makes a very good replacement hard drive for any computer, especially one that has built-in support for SATA 6Gbps.",
+      "pros": [
+        "The OCZ Agility 3 solid-state drive supports SATA 6Gbps and offers fast performance",
+        "The drive works in any SATA-based storage application and is relatively affordable"
+      ],
+      "cons": [
+        "The OCZ Agility 3, though fast, is noticeably slower than other SATA 6Gbps SSDs without being proportionaly cheaper",
+        "It's capped at only 240GB, takes a long time to format, and doesn't come with a drive bay converter to fit in a place of a 3.5-inch hard drive"
+      ],
+      "aspects": {
+        "Design": 8.0,
+        "Features": 6.0,
+        "Performance": 8.0,
+        "Support": 7.0
+      },
+      "publication_date": 20110525,
+      "rating": 7.3,
+      "source": "cnet"
+    }
+  ],
+  "customer_reviews": [
+    {
+      "title": "Worked flawlessly for over 6 months",
+      "text": "It has worked flawlessly for over 6 months now (over 4,300 hours powered on according to SMART). I installed this in my new HTPC which runs an underpowered AMD E-450 APU. HDTune shows 75% of the drive running at 240MB/s and 25% of the drive running at 130MB/s. The drive is partitioned using GPT and booting fine in UEFI mode. I've installed/re-installed the OS several times (supports TRIM), and currently using about 25% of the drive space. Is this the 25% that is running at 130MB/s? I don't know, but it runs fast enough for my purposes. The access time is 0.3ms which helps the underpowered APU feel almost snappy.",
+      "rating": 4.0,
+      "verified": true,
+      "author": "Unhandled Exception",
+      "helpful_votes": 0,
+      "publication_date": 20121208
+    },
+    {
+      "title": "Agility 3 by OCZ",
+      "text": "I got an Apricorn Velocity Solo to mount this wonderful SSD in my Q6700 socket 775 motherboard as a raw new drive. I got the 180 Gig drive since I had planned to Update the OS from Vista to Win 7. The update to Win 7 and all the Win 7 updates were three times faster than a spinning platter SATA drive. Boot times are twice as fast and web surfing is much; much faster!",
+      "rating": 5.0,
+      "verified": true,
+      "author": "critter number one",
+      "helpful_votes": 2,
+      "publication_date": 20120913
+    },
+    {
+      "title": "Cost effective refurb for older hardware",
+      "text": "1st happy moment: Drive arrived much sooner than expected. 2nd happy moment: Drive \"just worked\" when installed. 3rd happy moment: Applications that previously took 60-90 seconds to start snap into place within 10 seconds. Installing this drive has *nearly* invalidated the reason I bought a tablet, giving my 3 yr old laptop the ability to boot, sign into the network, and look up whatever odd thought crossed my mind, and shut down during the commercial breaks of my television shows. tl/dr: It's as fast as advertised for the normal consumer. Edited to add: It's been running solidly with no generated errors as of 03MAR15. No regrets, yet...",
+      "rating": 4.0,
+      "verified": true,
+      "author": "sklutch",
+      "helpful_votes": 0,
+      "publication_date": 20120814
+    },
+    {
+      "title": "Exactly what I expected",
+      "text": "I purchased the 60GB for about $90 in Jan of 2012. I have had no problems with it, and have not needed to do any updating. I've been using it in an ASUS G53SX as the \"OS and one game\" drive. Boot to Windows, fully ready to use, is only 22 seconds. It really makes the update restarts painless! My only substantive complaint is that 60GB is not enough for Win 7 pro, Office 2010, and a game. It's not OCZ's fault, but a word to the wise, 120/128 is pretty much a minimum size for a modern computer, 60GB is really not enough. Solid Reliable Affordable FAST 60GB is too small Peace.",
+      "rating": 4.0,
+      "verified": true,
+      "author": "Amazon Customer",
+      "helpful_votes": 0,
+      "publication_date": 20120304
+    },
+    {
+      "title": "Fantastic quality, and very fast",
+      "text": "This is the single best thing you can add to your computer to speed it up. Of course, your computer will have a speed bottleneck that you need to manage, so if you have a single-core old PC, this may not help that much... However, with a Quad core i5 and 8GB of RAM, throw one of these in and you'll go from powered off to powered on and 100% useable in about 10 seconds. I'm not talking 'OK it's on, but I have to wait for stuff to keep loading, or it's too slow' - I mean ready to go. In 10 seconds. Buy one.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "JB",
+      "helpful_votes": 0,
+      "publication_date": 20130804
+    },
+    {
+      "title": "This drive worked for well over a year in my ...",
+      "text": "This drive worked for well over a year in my MacBook Pro 2010, I don't even keep my data on it, only the OS and Apps. But once it failed, it failed hard. Probably for many of the reasons stated in the many many reviews. Disk Utility could not repair it and suggested I \"Back up as many files as possible, reformat the disk, and restore your backed up files.\". I did that and decided to check the drive for errors and restore all my backed up data 2x to this disk. Unfortunately this is a recurring issue and one without a remedy. I would not buy this drive again.",
+      "rating": 2.0,
+      "verified": true,
+      "author": "ScottyWil",
+      "helpful_votes": 0,
+      "publication_date": 20140726
+    },
+    {
+      "title": "oh my",
+      "text": "I have played with this SSD for months now I have cloned it, an installed and it works for a while, Then i start getting write delay errors. then finally it tells me I have disc errors and to restart my machine. and it never boots again. I have used it with windows seven windows 8 and xp same results. I have lost track of how many times I have did this on several machines. I have other brand SSD drives that work without any problems. So I guess I am stuck with an over-sized flash drive. I am afraid to put anything important on it. I hope others have better luck.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "Pops",
+      "helpful_votes": 0,
+      "publication_date": 20130105
+    },
+    {
+      "title": "Complete success",
+      "text": "I rolled these out in 2 companies for developers in both Macs and Windows machines. Surprisingly I did not get a single lemon. As a rule of thumb I updated the firmware before I imaged them and I must have rolled out perhaps 50 of these already with complete success. They are very speedy, Great value and have had no issues with Lion, Mountain Lion, Windows 7 x64 and Windows 8. The Vertex 4's I can safely say are a long way off firmware stability or quality control so this TRIM supporting device is a win.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Oisin Mcguigan",
+      "helpful_votes": 0,
+      "publication_date": 20120925
+    },
+    {
+      "title": "The worst experience I've ever had with any product!",
+      "text": "Simply put, this hardware was terrible. Customer service was argumentative and slow. They insisted I tested the failed ssd with a product that did error correction. I used dd instead, the thing failed miserably and this is how i returned the first one. The second was a refurbished piece of crap too! These guys are trying to re-coop losses by recirculating damaged products. I bought an Intel SSD and it works PERFECTLY! I wish I could have the days that i spent trouble shooting back!",
+      "rating": 1.0,
+      "verified": true,
+      "author": "James",
+      "helpful_votes": 0,
+      "publication_date": 20140613
+    },
+    {
+      "title": "Excellent",
+      "text": "Stellar performance, very fast and reliable solid state drive. Windows 7 gives a Windows Experience Index rating of 7.9, and it deserves it. I thought that 120GB would have been too little for my needs but it turns out to be plenty when only programs that benefit from the speed boost are installed on it. I don't have any 2.5inch bays but thedrive converter worked out very well and holds it plenty. SATA III 6GB/s really shows its true colours with this fantastic product.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Sam Lewis",
+      "helpful_votes": 0,
+      "publication_date": 20120101
+    },
+    {
+      "title": "you can get a very clear idea of how bad their quality is and how big their failure rate ...",
+      "text": "Failed after months. Had an RMA and got a refurbished item directly from OCZ. I installed it and it failed very soon again. I sold the second replacement SSD and will never trust OCZ. For potential buyers - given the prices, deals, sales they are having nowadays, and the huge amount of refurbished OCZ products circulating around everywhere, you can get a very clear idea of how bad their quality is and how big their failure rate is.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "givoLtaqe",
+      "helpful_votes": 0,
+      "publication_date": 20141202
+    },
+    {
+      "title": "The single best upgrade I've ever made to a computer",
+      "text": "Pros- The single best upgrade I've ever made to a computer. Excellent performance. 18+ months of constant operation without issue. Cons- Firmware issues. Many others appeared to have early failures and reliability issues that seemed to be related to the original firmware. I ran mine as is for almost a year without issue before finally succeeding in updating the firmware. The firmware update was very difficult and after several attempts, I finally ended up having to create a bootable USB drive in order to flash the firmware to the SSD.",
+      "rating": 4.0,
+      "verified": true,
+      "author": "Mike Thomas",
+      "helpful_votes": 0,
+      "publication_date": 20130422
+    },
+    {
+      "title": "Does not work; causes \"blue screen of death\" (BSOD) errors",
+      "text": "I wanted to like this drive, as it made my laptop much faster. However, it caused \"blue screen of death\" (BSOD) errors every day or two, even with the latest firmware. Apparently, SSDs with a Sandforce some controllers are not super stable. Unfortunately, many SSDs, including this one, use a Sandforce controller. Evidently, Samsung makes SSDs with their own controllers. So I'm going to give that a try and see if I have better luck. Also, I bought the 180gb version after I bought a 120gb version that had the same issues, assuming that maybe I just got a bad drive. I think it's an issue with this product in general. I recommend going with a non-Sandforce drive.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "mrbarefoot325",
+      "helpful_votes": 0,
+      "publication_date": 20121007
+    },
+    {
+      "title": "This drive 'works', but definitely has the same issues most SandForce drives have.",
+      "text": "When this drive worked, it was great. But this drive caused my system to completely freeze for a 5-10 seconds at least once an hour. This is related to the well known issues with the SandForce chipset that this drive, and many other older SSDs, use. I returned mine and paid $15 more to get a Samsung 830 that I absolutely love, even though that meant reinstalling Windows 8 again. I would never recommend for anyone to get this drive. Only reason it isn't 1-star is because it did 'work', kind of.",
+      "rating": 2.0,
+      "verified": true,
+      "author": "pseudosavant",
+      "helpful_votes": 0,
+      "publication_date": 20130520
+    },
+    {
+      "title": "Failed",
+      "text": "I initally had 2 60GB drives in raid0 because they were on sale... one of them failed immediately and I exchanged both for a 120GB drive. That lasted one month of infrequent use and one month of heavy (personal) use before it would no longer boot; unclear if it was a MB (ASRock Deluxe5) issue or a SSD issue, but the MB and SSD never got along very well the whole time. Worked great when it worked, the drive was lightning fast. Oh well...",
+      "rating": 2.0,
+      "verified": true,
+      "author": "C. M.",
+      "helpful_votes": 4,
+      "publication_date": 20120203
+    },
+    {
+      "title": "2 out of 3 ain't bad.",
+      "text": "I received the drives (I ordered 3 - 90GB) as expected but one of the drives died as I was transfering data to it. The bottom line is with this drive or any SSD drive if you replace the \"C\" drive in your computer with one of these you'll reduce your boot time to about a minute or less, tops, using today's processors. I put this in my S10-3t Lenovo Netbook and Windows 8 boots in 30 seconds. Works great, it's smooth to touch and no screen lag at all meaning there is little I/O happening with the SDD.",
+      "rating": 4.0,
+      "verified": true,
+      "author": "Amazoniansince95",
+      "helpful_votes": 0,
+      "publication_date": 20120921
+    },
+    {
+      "title": "Works great!",
+      "text": "Used this with a 2008 Aluminum Unibody MacBook. OCZ has a utility to force the drive to run at 3.0GBs compared to 1.5GBs that it does on auto-detect, it's a problem with the nForce chipset in these computers. Once installed it ran great, sleep mode worked, no beachballs, no freezing up. It wasn't quite as fast as the Kingston SSD Now 64GB I had before (JMIcron) but it was way faster than the 160GB HD Apple put in at the factory.",
+      "rating": 4.0,
+      "verified": true,
+      "author": "Robert V",
+      "helpful_votes": 3,
+      "publication_date": 20120827
+    },
+    {
+      "title": "Speed Demon",
+      "text": "This drive sped up boot up time significantly. Everything, including internet pages and programs load quickly as well. It came with the latest firmware (2.15 I think) installed so I didn't have to update it before installing. The Windows 7 Experience Index is 7.8 out of a possible 7.9 even though it is connected to a SATA II, not a SATA III connector. Others have reported problems with OCZ drives but so far no problems for me. This one replaced an OCZ 120GB Solid SSD because I wanted more storage. I had the same experience with that one too.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Andre Ricaud",
+      "helpful_votes": 0,
+      "publication_date": 20111230
+    },
+    {
+      "title": "Horrible Product Horrible Warranty return process",
+      "text": "Buyer Beware Product went out in less then 2 months time not even month worth the usage actually and OCZ makes you pay for shipping for their almost DOA products, careful do not buy OCZ if you can afford it I was value shopping and regret my purchase every day as well as its taken OCZ several months to get replaced and charged me for anotehr one they sent me in replace till they got this one bunch of nonsense not worth the 20 bucks I saved not getting a better brand.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "Anonymous",
+      "helpful_votes": 0,
+      "publication_date": 20121012
+    },
+    {
+      "title": "SSD upgrade",
+      "text": "i was skeptical as to whether my five year old laptop would accept and SSD and work properly. i can proudly say my computer is running better than ever. installation was easy.. installation of OS was faster than on a HDD. definite improvement on my graphics. so far i haven't experienced problems as with old HDD. this SSD definitely makes my old laptop feel like a new to date comp. OCZ definitely gives quality & performance for it's price. great upgrade for those wanting to keep their old computers as new.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Harnaldo",
+      "helpful_votes": 0,
+      "publication_date": 20111227
+    },
+    {
+      "title": "Much better than a mechanical HD",
+      "text": "I have my OS/frequently used applications installed on this, and still have roughly half the drive free. Windows 7 (W7) boots up in under a minute, and all applications open almost instantaneously. I have everything else installed on a traditional 2 TB mechanical drivewith intend to pick up a few more when they drop back down in price from the floods and setup a RAID system.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Fox Racer30",
+      "helpful_votes": 0,
+      "publication_date": 20120617
+    },
+    {
+      "title": "Super easy install.  Outstanding performance for the laptops. Recommended upgrade",
+      "text": "I added these into old laptops There was also a memory upgrade and Win 7 re-load afresh The laptop now is an extremely fast performer due primarily to these OCZ SSD drives. These are not the biggest capacity nor the latest-tech with best-of-class features However, the laptops are now able to boot to sign on in 18-20 seconds. Faster than when new! Remember to disable Windows Indexing service to extend the life of any SSD",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Colorado Richard",
+      "helpful_votes": 0,
+      "publication_date": 20131126
+    },
+    {
+      "title": "Nice Drive",
+      "text": "I use this drive for my W7 install and some programs that have to be installed to the system drive. This along with 16GB of PC3-1600 ram and a I7-3930K W7 starts up in as little as 12 seconds and shuts down in 4 or less. The packaging is misprinted a bit as far as the maximum iops (it says 50K but it is really 85K on a 6G port) but that does not really effect anything. No blue screens yet so looks like OCZ fixed their hardware problems.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "George Williams",
+      "helpful_votes": 0,
+      "publication_date": 20120506
+    },
+    {
+      "title": "Can't go wrong",
+      "text": "All I have to say is connected (Via SATA II so slower then this is meant for) to a 6 core AMD 2.8ghz with 8 gigs of ram, I get a windows 7 experiance score of 7.4 for the hard drive. Also, once the Bios are done and windows starts to boot, I am fully booted in 9 seconds.... Thats right, 9 SECONDS, the loading bar doesn't even show up when windows is booting. Best performance upgrade I could have made, only downside is I regret getting only 60gb. I will be getting a second one of these in the near future and will raid them for speed increase and double the memory.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "mnadamn",
+      "helpful_votes": 0,
+      "publication_date": 20111205
+    },
+    {
+      "title": "Huge change in performance",
+      "text": "I had a nice 10k RPM drive before and I migrated my OS over to this drive almost two months ago. Huge performance gains. Boot time is wicked fast. On my old system it would take 35 seconds from the time I hit enter at the log in screen to the time I was logged into all of my start up applications. After installing this drive it now takes 6 seconds. No joke. Huge improvement!",
+      "rating": 5.0,
+      "verified": true,
+      "author": "hw_engineerTop Contributor: Photography",
+      "helpful_votes": 0,
+      "publication_date": 20121001
+    },
+    {
+      "title": "Super fast",
+      "text": "This drive has been fantastic. I partitioned it into a big Mac system drive and a smaller Windows 7 drive. Now I can boot into either SUPER fast. I'm an iPhone/iPad developer and I can run apps almost instantaneously and build even faster than before in Xcode. It's awesome. I keep good backups. Even if this drive failed in a year I think the time savings because of its speed might still be worth it. I have the 2.15 firmware and it seems fine.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Eric",
+      "helpful_votes": 0,
+      "publication_date": 20120305
+    },
+    {
+      "title": "Wouldn't work",
+      "text": "I just built my new pc a little over a month ago and did not get an ssd for it. So I got this ssd, was going to re install windows 8 on the ssd along with my programs. The install would fail at the same spot every time. I did hours of trouble shooting, and then tested installing my OS on a hdd, and it worked. OCZ has terrible costumer service, and I can't wait for my money back to get a brand that is worth it.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "Jason",
+      "helpful_votes": 0,
+      "publication_date": 20130911
+    },
+    {
+      "title": "very fast, no reliability issues",
+      "text": "I bought one of these to replace an Agility 2 series that died quickly. I've had this for about a year with no problems. Night and day speed increase over a normal hard drive. This is the most noticeable upgrade you can do for a computer. Boots in seconds, programs open almost instantly. Saving and loading files is super fast.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Jimmy James",
+      "helpful_votes": 0,
+      "publication_date": 20140113
+    },
+    {
+      "title": "Mac pro upgrade",
+      "text": "Perfect to upgrade my 3 year old Mac book pro. Put this drive in a holder, and used a program to clone my existing drive over to it. Opened my Mac book pro, pulled out the old drive, plugged this one in. Then I turned on the computer and it worked with no additional setup. Took about 2 hours to clone and less than 10 minutes to install the drive. Easy Peasy.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Ritzeola",
+      "helpful_votes": 3,
+      "publication_date": 20120907
+    },
+    {
+      "title": "Very fast",
+      "text": "I just needed a small/cheap SSD for my Media PC and this was perfect. The PC is mainly for streaming or playing media over our network so I didn't need a lot of space. This isn't the fastest SSD around but compared to my old HDD, it is amazing. If you primarily want a drive to speed up the boot process and don't need a ton of space, this is a great little drive.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "JR",
+      "helpful_votes": 0,
+      "publication_date": 20120916
+    },
+    {
+      "title": "Worthless",
+      "text": "My friend bought one of these for his Macbook Pro so I figured I would give it a try. Well right after mine came in his SSD died and within 24 hours of having mine installed (Had issues those entire 24 hours) it died. Wouldn't show up in OSX or Windows when I connected it to another computer. The short time that it worked on my computer it constantly lagged and would lock up every 5 minutes for about 20 seconds. I have returned the item and am waiting for a 128gb Samsung 830.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "Matt",
+      "helpful_votes": 0,
+      "publication_date": 20121006
+    },
+    {
+      "title": "works....",
+      "text": "It's fast but not modern SSD fast. also it came out of the box slow because it had not been secure erased and was apparently an open box item. after a secure erase and OS re-install this thing is much better but still not quite what I expected. I would still recommend it however as it does what it claims. It runs fast and is a HUGE improvement over mechanical drives.",
+      "rating": 3.0,
+      "verified": true,
+      "author": "ViolentMouse",
+      "helpful_votes": 0,
+      "publication_date": 20121127
+    },
+    {
+      "title": "Fast, reliable",
+      "text": "Purchased almost 1 year ago now. Approximately 10 TB has been written to it so far and not a single remap yet. Remaining life level remains at 100%. It is important to do the firmware update though -- drives often remain in the warehouse for many months before being sold and you cannot do the update once the operating system is installed. Without the firmware update, you WILL have data loss issues. With it, you have a solid and dependable drive you can count on for many years to come in the average enthusiast's home system.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Customer",
+      "helpful_votes": 0,
+      "publication_date": 20130204
+    },
+    {
+      "title": "Runs great, but takes a while to set up",
+      "text": "I am writing this review on Win7 that I just installed on this drive. It runs amazingly fast, I get 7.9 experience for disk transfer rate. Took a while to configure though. You need to first change bios to use ACHI instead of IDE driver, then update firmware by downloading an OCZ tool (basically a lightweight Linux that runs from CD), then reset cmos on motherboard (if first time using ssd, sata3). Not sure why it is this complicated. Make sure to get 3.5\" to 2.5\" hard drive kit and sata cable since it does not come with anything (even though it is retail packaging).",
+      "rating": 3.0,
+      "verified": true,
+      "author": "AS Roma",
+      "helpful_votes": 2,
+      "publication_date": 20120512
+    },
+    {
+      "title": "Works well",
+      "text": "Have been using it for a while now and have not had any issues with it; I installed it on my netbook and it has made some considerable improvements in boot time and data access. Only issue with this unit is that even with the ocz drivers it uses a lot of power, i lost about 2 hours on my battery life since using this SSD. But its worth the transfer rate increase for me.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "BG",
+      "helpful_votes": 0,
+      "publication_date": 20130224
+    },
+    {
+      "title": "Perfect OS drive.",
+      "text": "This is a perfect starter SSD. Good price, plenty of speed. Just big enough for an OS and some critical programs. I can start Win7 Ultimate 64 bit in less time than it takes my raid to initiate and my tv to start up. If I log in fast enough, I can go from final bios flash to all startup programs complete in less than 15 seconds. I have had this more than a year. I use my computer constantly and have yet to notice any sort of slow down.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Glenn Burrow",
+      "helpful_votes": 0,
+      "publication_date": 20130702
+    },
+    {
+      "title": "DOA",
+      "text": "This drive was not recognized by two different computers and has been returned. It was originally intended for a new build with an Asus Sabertooth x79 motherboard,which would not recognize the drive. The boot drive is a 60 Gig Intel SSD that was recognized with no problems. Tried different ports and cables with no success. Updated motherboard drivers did not help. Also tried the drive in another machine with no luck either. Tough to tell if the issue is build quality or poor packaging (the drive comes in a blister pack that provided very little cushioning), but would not recommend.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "Meredith S",
+      "helpful_votes": 0,
+      "publication_date": 20121006
+    },
+    {
+      "title": "Still works perfectly",
+      "text": "I purchased this when I recycled a laptop a friend gave me for myself. I noticed an increase in battery life, and a massive increase in boot speed. This SSD is amazingly quick, and I haven't had a single fault in it at all. I have recommended this exact model to several friends, and they are all happy with the ones they have purchased too.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Matthew Lashure",
+      "helpful_votes": 0,
+      "publication_date": 20120810
+    },
+    {
+      "title": "*title*",
+      "text": "After a bit of research on this drive I decided to pick it up for the price. Following what I found in my research, I updated the firmware on the drive before installing Windows. I had bit of an issue updating the firmware as the update utility didn't recognize the drive while it was plugged into my SATA 6.0Gb/s port, I had to plug into my SATA 3.0Gb/s port for it to be recognized. After that, I haven't had a single issue in the 3-4 months I've owned it, and it's crazy fast. I want to pick up a 2nd one at some point and set up them in a raid array.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Cole Loudermilk",
+      "helpful_votes": 0,
+      "publication_date": 20120403
+    },
+    {
+      "title": "3. 5 years later this drive is still running ...",
+      "text": "3.5 years later this drive is still running strong. I have my OS installed on this drive on a HTPC that runs 24/7. Lightning fast, Server 2012 R2 boots in a few seconds and applications open almost instantly. Once you go SSD you won't go back.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Todd Kieffer",
+      "helpful_votes": 0,
+      "publication_date": 20150926
+    },
+    {
+      "title": "No problems whatsoever.",
+      "text": "I bought the 90gb version with the after rebate deal of 54.99. I don't really understand why people have so much problem with this SSD. It's not that hard. Step 1: Update firmware. Step 2: Profit. Did the firmware updating on my old computer and then did a clean install of Windows 7 Ultimate for my new rig. The thing has been doing it's job ever since. Buy this if you have some decent knowledge on computers. I don't know too indepth about computers but I can proficiently build my own computers. If you are someone who cannot deal with any sort of work involved then don't buy this drive I guess. But honestly it's not that hard.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "C. Lo",
+      "helpful_votes": 0,
+      "publication_date": 20120703
+    },
+    {
+      "title": "I have 2 in RAID configuration",
+      "text": "I have two of these in a raid configuration (managed by Windows 8, not at the hardware level) and it's extremal fast. I'm using it for several months with no issues. Make sure your MB (BIOS) is setup for SSD. Some people, from what I've read have issues when MB is trying to read it as a regular HD.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "wk",
+      "helpful_votes": 0,
+      "publication_date": 20131229
+    },
+    {
+      "title": "Great performance on MacBook Pro",
+      "text": "I was a little wary in purchasing this drive since there have been some firmware troubles in the past. I didn't have any problems with the stock firmware, though I have updated to the latest 2.15 (as of Dec 18, 2011), and it has been smooth sailing for the entire time (a couple of months now), with great performance (similar to what you'll find in reviews of this unit for compressible and incompressible data). I'm using a MacBook Pro (13-inch, Early 2011) where the drive is running on a 6-Gbit/s SATA link (this is a model where the optical drive has a max of 3 Gbit/s) with 8 GB of RAM running 10.7.2.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "James Snyder",
+      "helpful_votes": 2,
+      "publication_date": 20111218
+    },
+    {
+      "title": "Fast and cheap!",
+      "text": "I got this for my girlfriend to install to a system I was giving her. I built another machine on windows 8 that claims to have faster boot times, but I think hers boots faster. My windows 8 machine out performs the one I gave her in every way possible--I don't get it. I guess this SSD is that fast D:",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Reizero00",
+      "helpful_votes": 0,
+      "publication_date": 20130111
+    },
+    {
+      "title": "MrGolf",
+      "text": "This is the best upgrade I have done for my computer in years. You do not need to get a new processor or motherboard, just upgrade your hard-drive to SD. this is a great hard-drive for the money. It is fast. Boot time cut in half. I have this as my boot drive and then have a 500 GB for my data.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "MrGolf",
+      "helpful_votes": 2,
+      "publication_date": 20120906
+    },
+    {
+      "title": "Not worth the money and the hassle",
+      "text": "I purchased this SSD a few months back and have had nothing but trouble. Random blue screens and freezing are the most common problems. I ended up replacing the drive with a Crucial SSD. I cloned my desktop image onto my new drive and it's been working perfectly. Cloning the image to the new drive just confirms that the blue screen and freezing have nothing to do with the operating system, just the drive itself. There are better, more reliable SSD's on the market. Keep away from this one.",
+      "rating": 2.0,
+      "verified": true,
+      "author": "IV",
+      "helpful_votes": 3,
+      "publication_date": 20111216
+    },
+    {
+      "title": "Five Stars",
+      "text": "Super fast, I've been using this drive for many years flawlessly..",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Brandon",
+      "helpful_votes": 0,
+      "publication_date": 20170611
+    },
+    {
+      "title": "Worked great the first time... no issues at all!",
+      "text": "Purchased this product for a laptop. Some of the reviews have been critical of no mounting hardware - this was not a problem for me (since I was going to use the same mounting bracket from my laptop). Installed it... installed Windows 7. Installation was a LOT faster with this drive. Now, it takes about 15 seconds to get to the Windows log in screen and about 5-10 seconds to be in Windows and ready to go after I log in (that is after it loads all of my \"junk\"). Right now I am looking at 8 different programs that load when Windows loads. Great purchase!",
+      "rating": 4.0,
+      "verified": true,
+      "author": "Solomon 5",
+      "helpful_votes": 2,
+      "publication_date": 20120213
+    },
+    {
+      "title": "very fast",
+      "text": "works like a charm dispite bad reviews due to earlier firmware problem. the product I received already has the newest fixed firmware so it performed excellent without any problem. this is perhaps the fastest ssd on the market today, with most advanced technology and best prices, can't be beat!",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Jianre Hsiung",
+      "helpful_votes": 0,
+      "publication_date": 20111215
+    },
+    {
+      "title": "Good product",
+      "text": "Good product, fast and quiet but I've read that there may be some instability / failure issues with OCZ drives, have to wait to see when they crashes. Before you buy them, look into OWC's sad drives and compare. Personally I like the OWC for my macs, I'v been placing these in PC's ...",
+      "rating": 4.0,
+      "verified": true,
+      "author": "W.H.",
+      "helpful_votes": 0,
+      "publication_date": 20121221
+    },
+    {
+      "title": "Not worth the trouble",
+      "text": "Bought this SSD to run Windows 7 on an Intel Core i5 3.31Ghz/Asus P6Z68-V Pro motherboard. After installing Windows, the drive began to crash and present the \"blue screen of death\". After attempting to update the firmware, repair my Windows installation, and reinstall Windows, I gave up. Returned this and ordered a Crucial M4 instead. I would not recommend the Agility 3. I understand that SSDs can be temperamental, and some are prone to crashing, but the Agility 3 seems to be a shoddy model.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "J.P. Kiernan",
+      "helpful_votes": 0,
+      "publication_date": 20120606
+    },
+    {
+      "title": "Great price for a quality product",
+      "text": "I replaced my laptop hard drive with this solid state drive and I have seen an increase in its performance. It now boots up much faster and the laptop runs a lot cooler. I would definitely recommend this product. Great price for a great product.",
+      "rating": 4.0,
+      "verified": true,
+      "author": "Allan7284",
+      "helpful_votes": 0,
+      "publication_date": 20121009
+    },
+    {
+      "title": "Good product",
+      "text": "Pros: -Fast -Small -Price Cons: -1st one was DoA -Manufacturer provides little to no installation guide or feedback on their site -Manufacturer doesn't provide bracket, screws or SATA cables (others do) Overall, this is a good product. It was cheaper than other SSD's in the same storage capacity but lacks any \"frills\". As with many SSD's they can be very faulty, our 1st one was DoA.",
+      "rating": 4.0,
+      "verified": true,
+      "author": "Mary Finney",
+      "helpful_votes": 0,
+      "publication_date": 20120926
+    },
+    {
+      "title": "Solid State Drive",
+      "text": "The only problem with this drive is that it does not install in the 3.5 bay like I thought it would. You need a special adaptor so it will install correctly because it is not wide enough to fit like a floppy drive does. After searching more information on the net I just plugged it in and left it loose in the 3.5 bay. There is no vibration problem or heat problem and works fine.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Claude",
+      "helpful_votes": 0,
+      "publication_date": 20120529
+    },
+    {
+      "title": "This thing flies, sort of!",
+      "text": "I bought this SSD when I was redoing my build and I have nothing negative to say other than I wish I would have purchased a larger one. I've loaded Win7 on there and after eliminating junk our of the OS I had the size down to about 20Gig which left space for some of my games. My OS boot (after my mobo POSTs) take between 2-4 seconds with about 6-8 seconds as my entire boot time from off to desktop ready to be fully utilized. I'll probably end up buying another one of these and doing a RAID 0 with them.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Anthony Hodges",
+      "helpful_votes": 0,
+      "publication_date": 20120711
+    },
+    {
+      "title": "Head Ach",
+      "text": "Ive always bought OCZ. Ram, memory, you name it. But this thing is terrible. The first one i got crashed after 3 months, then after the return shipping and ocz sending another NEW one to me it had been a month and a half. Well the replacement unit arrived DOA. I am now currently in the process of sending the replacement drive for another replacement drive. Havent been able to use my computer for over two months now. Forget about promt service from OCZ, they take their sweet time even after they were told my story. This is their last chance before im done with the whole line.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "Sapperjoe",
+      "helpful_votes": 5,
+      "publication_date": 20111029
+    },
+    {
+      "title": "Descent SSD for the price!",
+      "text": "Drive worked well for awhile then went out. Lost all information on drive. Make sure you back up files.",
+      "rating": 3.0,
+      "verified": true,
+      "author": "ABM GIFTS ONLINE",
+      "helpful_votes": 0,
+      "publication_date": 20180331
+    },
+    {
+      "title": "Using it in my laptop",
+      "text": "This drive is still going strong, I know that it had some inital firmware issues, but I got one that was already fixed. No issues from day one, great write and read speed. This thing seriously increase the life of my old first generation Core i5 laptop.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Michael Chang",
+      "helpful_votes": 0,
+      "publication_date": 20140413
+    },
+    {
+      "title": "Works fine in my VMware environment",
+      "text": "This OCZ Agility 3 is in my computer that runs VMware and several guest machines running Windows XP. The SSD works fine. But first, you should upgrade the firmware in this SSD to prevent occasional dropping off line. After the firmware upgrade, this OCZ is smooth and reliable.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "F. R. Keller",
+      "helpful_votes": 0,
+      "publication_date": 20130323
+    },
+    {
+      "title": "Performance as desired",
+      "text": "First time shifting to SSD, 2wks running without issue. Using as boot drive, terrific performance improvement...just make sure you apply firmware updates before hand to streamline process. There was some complaints about rebates, no issues with the process...just waiting on the mail now.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "10,000 Lakes",
+      "helpful_votes": 0,
+      "publication_date": 20110630
+    },
+    {
+      "title": "good deals on them",
+      "text": "I bought 2 when they were on rebate (fyi, the rebate comes in amex-gift card form). So far, so good, decent performance boost. Had to update the BIOS for one computer to recognize the SSD. I'd probably wouldn't get these if it wasn't on sale/rebate.",
+      "rating": 4.0,
+      "verified": true,
+      "author": "Alex Leung",
+      "helpful_votes": 0,
+      "publication_date": 20130529
+    },
+    {
+      "title": "Great Power In Small Size",
+      "text": "After much debating on getting the \"OCZ Vertex-3 120GB\" plus a new SATA-3 mobo I decided to get two \"Agility-3 60GB\" and put them in RAID0 on the existing ASUS P6T-SE mobo, which is limited to SATA-II. I am able to achieve 559MB/s READ and 518MB/s WRITE. I saved about $300 in this config and very happy with it so far, until the next upgrade. My previous drive was a 10,000 rpm WD VelociRaptor and these SSD's are over 5 times faster! (see Photos). BTW: Unlike the Vertex series, these DO NOT come with 3.5\"-2.5\" adapter brackets.",
+      "rating": 4.0,
+      "verified": true,
+      "author": "M. M. Chow",
+      "helpful_votes": 4,
+      "publication_date": 20110722
+    },
+    {
+      "title": "First time for OCZ and a great solution",
+      "text": "I have never used OCZ products before and gave this inexpensive unit a try. So far, after a few months, it has performed perfectly. I am using it as a boot drive in a WHL ESXi server and it is fast. Recommended as a great SSD alternative.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "MJH",
+      "helpful_votes": 0,
+      "publication_date": 20121201
+    },
+    {
+      "title": "15 sec BIOS to Windows 8",
+      "text": "This thing is by far the best investment I have made. Not only do I go from completely off to on in 20 secs or less. Everything and anything I load or transfer is lighting fast. Recommend it if you are a person who likes everything done quickly.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Eric A. Rodriguez",
+      "helpful_votes": 0,
+      "publication_date": 20131031
+    },
+    {
+      "title": "Fast and stable",
+      "text": "Looks pretty good. Just fit it in my laptop's hard drive bay and it was good to go. Updated the firmware to the latest version. This erases the disk contents so I did that first. Boot times have decreased a lot and programs load fast. No stability problems so far.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Sandeep Raghuraman",
+      "helpful_votes": 0,
+      "publication_date": 20120123
+    },
+    {
+      "title": "Been going strong for a while",
+      "text": "This SSD is super quick and exactly what I was looking for. I've had this for a while now and had no issues with drivers or failure. I'd recommend this to anyone who is skeptical about purchasing and SSD. Reviews can really scare you but don't let them.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "V Guariglia",
+      "helpful_votes": 0,
+      "publication_date": 20130115
+    },
+    {
+      "title": "Very Fast",
+      "text": "I bought this SSD along with a new computer. This company(OCZ) has always been a leader in computer components. This hard drive loads windows in 12 seconds or less. The hard drives (5400) installed in new laptops are too slow. Solid State Drives(SSD) are the way to go. This particular hard drive is blazing fast.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "amaknot",
+      "helpful_votes": 0,
+      "publication_date": 20120311
+    },
+    {
+      "title": "Really fast.",
+      "text": "This item peaks at the advertised xfer rate specs. Makes my already fast new laptop incredible fast and responsive. Only issue: Win7 might still try to put the hdd to sleep and the computer *may freeze as the ssd can't 'spin down' to save energy. Make sure this is OFF.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "J.M.",
+      "helpful_votes": 0,
+      "publication_date": 20111011
+    },
+    {
+      "title": "Fast and reliable.",
+      "text": "Part of the Maximum PC \"Budget\" build circa December 2012. Better than expected. No issues with performance or build quality. Wish OCZ had included a management tool like Samsung's \"Magician\" though...but not a requirement for this drive to excel.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "M. Vida",
+      "helpful_votes": 0,
+      "publication_date": 20130112
+    },
+    {
+      "title": "Have good experience with it!",
+      "text": "Purchased this SSD about 1 year ago and it's still going strong. Not top of the line product, but works much faster then regular hard drive. As long as it works, I don't have any complaint.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "N Ding",
+      "helpful_votes": 0,
+      "publication_date": 20130725
+    },
+    {
+      "title": "Nice and fast",
+      "text": "Great drive, easy install simple packaging. Passmark Performance Test 7.0 rates it at 2923.7 in my system (see [...] Note that you'll need a 2.5\" to 3.5\" adapter for most desktops which is not included. Great bang-for-the-buck SSD.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Interstellar",
+      "helpful_votes": 0,
+      "publication_date": 20120102
+    },
+    {
+      "title": "Lots of space & speed (SSD speaking)",
+      "text": "For the price per gigabyte on a solid state this was an amazing deal on Black Friday, 2012. (~100$). It's not the cream of the crop for speed by any means but as a computer programmer/web designer loading times for applications are blazing fast and response times are always snappy. This is by far a lot of space to fill even with a few games, application suites and giant project folder I'm left with 70G to spare. Research your SSDs before you choose, deals change all the time.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Jay",
+      "helpful_votes": 0,
+      "publication_date": 20130306
+    },
+    {
+      "title": "Solid, inexpensive",
+      "text": "I bought this for a laptop over a year ago - so it's been in use for some time. the performance is the same as the day I bought it. It's a good drive for a low to mid-range laptop.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Daniel Davidson",
+      "helpful_votes": 0,
+      "publication_date": 20131217
+    },
+    {
+      "title": "Rebate takes forever to be processed and arrive",
+      "text": "The product itself works brilliantly and is indeed very fast. The only problem I have is with OCZ's rebate processing, which is awfully slow, and even \"offers\" you an expedited service, of course at a cost. So when you go calculate the price of this item, do not taken any rebates into consideration.",
+      "rating": 4.0,
+      "verified": true,
+      "author": "F. Meneguzzi",
+      "helpful_votes": 0,
+      "publication_date": 20120226
+    },
+    {
+      "title": "Love these drives",
+      "text": "I have 4 of these drives in my computers. These things are awesome for the money you spend. They are super fast, very reliable and inexpensive. OCZ definitely gets my vote on affordable SSDs.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Ryan S",
+      "helpful_votes": 0,
+      "publication_date": 20130208
+    },
+    {
+      "title": "Terrible.",
+      "text": "Continually crashing after only two months of very sporadic usage. Multiple bad cells won't let me even update Windows 7. Not sure if I can return since it's outside the return window. Super aggravating.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "Meg",
+      "helpful_votes": 0,
+      "publication_date": 20130616
+    },
+    {
+      "title": "SSD review",
+      "text": "This is a pretty good SSD the only fault that I have with it is that some times when I boot up my Computer it doesn't see the SSD I have to unplug the sata cable from it and plug it back in then try a reboot it will then work for a month or so then do it again.",
+      "rating": 3.0,
+      "verified": true,
+      "author": "Kidblue",
+      "helpful_votes": 0,
+      "publication_date": 20120629
+    },
+    {
+      "title": "The Jury is still out",
+      "text": "I don't know about this brand of SSDs . I had it in a raid1 and constantly kept getting faults from the AMD raid software and finally one SSD gave out and I had to replace it. I took it out of raid 1 with the replacement drive and now I just cloned the new one for back up in case the primary fails. Needless to say it it does fail i wont purchase OCZ brand again.",
+      "rating": 3.0,
+      "verified": true,
+      "author": "Jason Jewett",
+      "helpful_votes": 0,
+      "publication_date": 20130725
+    },
+    {
+      "title": "Great main drive for my DVR",
+      "text": "Read about using an SSD as a main drive and putting updates and non essential programs on a slave drive and you will get a lot better use of this little beast, also avoid running speed tests or benchmarks because that could actually reduce lifespan of the drive.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "zonianjohn",
+      "helpful_votes": 0,
+      "publication_date": 20130115
+    },
+    {
+      "title": "Fast!!  No faster!",
+      "text": "I have nothing to criticize with this drive. Fast simply doesn't do it justice. It loads Windows 7 Professional in 10 seconds flat!! It was a total no-brainer to install. Windows 7 found it and installed perfectly, and really fast.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "MarvinMartian",
+      "helpful_votes": 0,
+      "publication_date": 20120415
+    },
+    {
+      "title": "Good drive as far as I know, just a little small",
+      "text": "I actually bought this drive and returned it quickly because I changed my mind about whether it was big enough. There's nothing wrong with it that I noticed...it's just kind of small.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "G. FarnsworthTop Contributor: Board Games",
+      "helpful_votes": 0,
+      "publication_date": 20131116
+    },
+    {
+      "title": "Five Stars",
+      "text": "Works like a charm and still running now (more than 2 years from purchase)!",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Cmac168",
+      "helpful_votes": 0,
+      "publication_date": 20150706
+    },
+    {
+      "title": "My First SSD",
+      "text": "It is working great so far, I am using it with a linux Distribution (ubuntu). The performance gain from this drive is very noticeable. My computer now boots in 10 seconds, from the time I press the power button till firefox browser starts up. I still dont trust ssds completely so I back up my data frequently, its a good thing that this drive has a 3 year warranty.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Jorge Alvarez",
+      "helpful_votes": 0,
+      "publication_date": 20110906
+    },
+    {
+      "title": "Exactly as desribed",
+      "text": "I purchased this for my HP2133 netbook. With only 2gb of RAM, this SSD allowed me to install windows 7 on this little machine. Installation was a breeze and the drive has performed flawlessly. VERY happy with the upgrade!",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Doug",
+      "helpful_votes": 0,
+      "publication_date": 20120709
+    },
+    {
+      "title": "Great ssd",
+      "text": "I have had no problems with this. In comparison to others is a little slower, it really isn't noticeable but when doing speed tests other tested higher.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Electronics man",
+      "helpful_votes": 0,
+      "publication_date": 20130418
+    },
+    {
+      "title": "Super Fast!",
+      "text": "This drive is great! I have used it for about 6 months now and have had no problems. I get very consistent transfer rates and reliable use. I bought an add-in card to get SATA3, so I don't max this drive out, but I am very happy with it.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Chris Farley",
+      "helpful_votes": 0,
+      "publication_date": 20121218
+    },
+    {
+      "title": "Three Stars",
+      "text": "These were a great price at the time. But I did have problems with them running in raid.",
+      "rating": 3.0,
+      "verified": true,
+      "author": "james",
+      "helpful_votes": 0,
+      "publication_date": 20160214
+    },
+    {
+      "title": "Good, when it worked.",
+      "text": "The SSD fast blazing fast, but died in a week. My computer froze and then it wasn't being recognized in the BIOS. i5 2500k GTX 560 ti 448 Classified 8GB Corsair Vengeance LP MSI P67A-GD55 Corsair TX 850 Modular Corsair 500R 500GB HDD",
+      "rating": 2.0,
+      "verified": true,
+      "author": "Karen D. Andon Sansur",
+      "helpful_votes": 0,
+      "publication_date": 20111025
+    },
+    {
+      "title": "good",
+      "text": "It's very good~I like it.I will be back soon.So i will take ti more.It's very very good.It's very very nice.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "HK",
+      "helpful_votes": 0,
+      "publication_date": 20140328
+    },
+    {
+      "title": "Randomly disappears from BIOS",
+      "text": "This hardrive works very unstalbe with my ASUS Z68 motherboard. I was able to install OS and later in few hours Win7 died with BSOD and hard driver disappeared from BIOS. After unplugging and plugging hard drive back it appeared in BIOS and OS booted normally, but soon same problem repeated again... and again... and again. It might work with other motherboards/chipsets, but doesn't work with mine ASUS P8 Z68-V PRO. I will think/google twice before I buy other OCZ product.",
+      "rating": 2.0,
+      "verified": true,
+      "author": "Alan",
+      "helpful_votes": 0,
+      "publication_date": 20110910
+    },
+    {
+      "title": "Fast for my PC",
+      "text": "My super-awesome PC I have built has the OS installed on the SDD. I unfortunately do not have enough space to add any applications, so I just load them onto a standard HDD",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Maat",
+      "helpful_votes": 0,
+      "publication_date": 20130107
+    },
+    {
+      "title": "no trouble",
+      "text": "Received drive very easy to install. Need to order a adapter bracket with it if you are not putting it in a laptop. Started right up running great. will buy again.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "ford2tough",
+      "helpful_votes": 0,
+      "publication_date": 20121023
+    },
+    {
+      "title": "new computer",
+      "text": "This drive has more than doubled the speed of my laptop and it was easy to install and three more words",
+      "rating": 5.0,
+      "verified": true,
+      "author": "pc",
+      "helpful_votes": 2,
+      "publication_date": 20130906
+    },
+    {
+      "title": "Three Stars",
+      "text": "The solid state drive did improve operating system speed, but barely lasted no more than 2 years.",
+      "rating": 3.0,
+      "verified": true,
+      "author": "ernesto",
+      "helpful_votes": 0,
+      "publication_date": 20160313
+    },
+    {
+      "title": "Don't let the negative reviews fool you!",
+      "text": "This solid state drive is blazing fast and is by far the best priced one on the market. After I upgraded, the windows score immediately boosted to 7.9! That is the highest possible score for a disk drive. I would recommend upgrading the firmware on the drive when you get it using the OCZ linux based tool and then secure erasing it. I clean installed the OS on without any problems.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Andrew",
+      "helpful_votes": 2,
+      "publication_date": 20120808
+    },
+    {
+      "title": "Great Product",
+      "text": "The product was everything that was advertised. I had no difficulty replacing my drive with this one,and the startup time under 20 seconds.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Pedro Monsalve",
+      "helpful_votes": 0,
+      "publication_date": 20130125
+    },
+    {
+      "title": "Impressed!",
+      "text": "So far, i have had this running for almost a whole day. Migrated my os over from a 320 gb hdd to this and wow! Booting and shut off is super quick! my base windows score is now 7.4 which is my cpu and this bad boy is holding down a 7.6 and gpu a 7.9. I enabled ACHI in my bios before i even thought of migrating the Os. Great ssd for the price and damn am I impressed with the speed!",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Jared Hack",
+      "helpful_votes": 0,
+      "publication_date": 20120605
+    },
+    {
+      "title": "Affordable, Reliable...FAST",
+      "text": "This is my first SSD. Read a lot of reviews and was skeptical but pulled the trigger during their lighting deal. It's been running solid for 2 weeks now and no problems yet. It is well worth the money...It's FAST...VERY FAST. Made my Alienware Aurora R3 even better than I could ever imagine",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Houng",
+      "helpful_votes": 0,
+      "publication_date": 20120802
+    },
+    {
+      "title": "Nice Drive!",
+      "text": "Upgraded my system. This drive being on of the upgrades. This model has really good specs. It's silent, boots fast, and has plenty of room for future software installs.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Steve",
+      "helpful_votes": 0,
+      "publication_date": 20120622
+    },
+    {
+      "title": "Speedy!",
+      "text": "all that much faster and then some. very reliable and great price. it has been over a year since installation and no problems",
+      "rating": 5.0,
+      "verified": true,
+      "author": "rdiprima013",
+      "helpful_votes": 0,
+      "publication_date": 20131202
+    }
+  ],
+  "product_meta": {
+    "title": "OCZ\u00a0Technology 240GB Agility 3 Series SATA 6Gb/s 2.5-Inch Midrange Performance Solid State Drive (SSD) with Max 525MB/s Read and\u00a0 Max 85K IOPS- AGT3-25SAT3-240G",
+    "description": "Size:240 GBOCZ Technology 240GB Agility 3 SATA 6Gb/s 2.5-Inch Midrange Performance Solid State Drive (SSD) with Max 525MB/s Read and Max 85K IOPS- AGT3-25SAT3-240G\n\nAMAZON.COM\n\n\n\n\nDesigned and built to provide an exceptional balance of performance and value, the OCZ Agility 3 SATA III Series solid state drive implements the cutting-edge SATA 6 Gbps interface to deliver excellent sequential and random data transfer rates, significantly improving your computing experience over hard drives.\n\nThis model of the 2.5-inch Agility 3 (AGT3-25SAT3-240G) offers 240 GB of storage capacity, a 500 MB/s maximum write speed, and up to 45,000 random 4k write performance. It's backed by a 3-year limited warranty.\n\n\n\nThe OCZ Agility 3 2.5-inch SSD (view larger).\n\nSUPERIOR PC EXPERIENCE\nIn addition to maximum performance, an Agility 3 upgrade promotes cooler, quieter, and more energy efficient conditions compared to traditional mechanical hard drives. With no moving parts, SSDs provide peace of mind with their superior durability and reliability. Read more about SSDs below.\n\n\n\n\n\nMORE SPECIFICATIONS\nRELIABILITY/PROTECTION\n * Mean Time Between Failures (MTBF): 2 million hours \n * Data Path Protection: ECC corrects up to 78 random bits per 1 KB sector (BCH) \n * Product Health Monitoring: Self-Monitoring, Analysis and Reporting Technology (SMART) Support \n\nCOMPATIBILITY\n * Serial ATA (SATA): Fully compliant with Serial ATA International Organization (Serial ATA Revision 3.0) and ATA/ATAPI-8 Standard Native Command Queuing (NCQ) \n * Operating System: Windows XP 32-bit / 64-bit; Windows Vista 32-bit / 64-bit; Windows 7 32-bit / 64-bit; Linux; Mac OS X \n\nADDITIONAL FEATURES\n * Native TRIM support (requires OS support) \n * Shock resistant up to 1500G \n * Low power consumption (2.7W active, 1.5W idle) \n * Service & Support: 3-year warranty, toll-free tech support, 24 hour forum support \n\nTHE SSD ADVANTAGE\nWhether you're refreshing an older laptop or trying to maximize the potential of the latest platform, SSDs provide substantial benefits over traditional hard drives.\n\n\n\nGREATER DURABILITY\nSolid State Drives feature a non-mechanical design of NAND flash mounted to circuit boards, shock resistant up to 1500g. Hard disk drives consist of various moving parts making them susceptible to shock and damage.\n\nFASTER PERFORMANCE\nSSDs have 100 times greater throughput and instantaneous access times for quicker boot-ups, faster file transfers, and overall snappier performance than hard drives. HDDs can only access the data faster the closer it is from the read/ write heads, while all parts of the SSD can be accessed at once.\n\nLESS POWER CONSUMPTION, SILENT OPERATION, AND LIGHTWEIGHT\nSSDs use significantly less wattage at peak load than hard disk drives--less than 2W versus 6W for an HDD--delivering longer battery life in notebooks, less power strain on system, and a cooler computing environment. With no moving parts, SSDs run virtually silent in your notebook or PC case to eliminate distracting noises during gaming or entertainment. And SSDs won't weigh down your laptop, netbook, or tablet PC when you're on the go.\n\n\n\n\nFROM THE MANUFACTURER\n\n\n\nOCZ Agility 3 SATA III Solid State Drives are designed and built to provide an exceptional balance of performance and value. The Agility 3 Series implements the cutting-edge SATA 6Gbps interface to deliver excellent sequential and random data transfer rates, significantly improving your computing experience over hard drives.\n\n\n\nProviding an exceptional balance of performance and value\n\nIn addition to enhanced performance, an Agility 3 upgrade promotes cooler, quieter, and more energy efficient conditions compared to traditional mechanical hard drives. With no moving parts, SSDs provide peace of mind with their superior durability and reliability. Unique and innovative, Agility 3 SSDs deliver a one-of-a-kind storage solution.\n\nRELIABLE, FAST STORAGE\nThe Agility 3 makes an SSD the ideal storage alternative to hard drives and delivers the quality, reliability, and durability demanded by consumers that will not settle for anything but the best. Built with SATA 6Gb/s, the Agility 3 Series easily integrates into today\u2019s mobile and desktop platforms and features TRIM support to optimize performance over the drive\u2019s lifespan as an ideal Windows 7 notebook or desktop upgrade.\n\nLIGHTWEIGHT AND TOUGH\nhock resistance of up to 1500G ensures your data stays protected, in a drive that weighs only 77 grams. Get fast, durable performance in a drive that won't weigh down your laptop or notebook.\n\nLOW POWER CONSUMPTION\nFor all their power, the Agility 3 series of drives consume very little. Agility 3 drives only consume 2.7 watts during operation, and only half a watt in standby.\n\nRAID COMPATIBLE\nWith a 3.5\" adapter for desktop drive cages (sold separately), so you can use the Agility 3 in desktops as well as laptops. The drives are RAID compatible, so you can slot them into a desktop RAID configuration as easily as into a laptop.\n\nAVAILABLE IN A WIDE RANGE OF SIZES\nOCZ Agility 3 SSDs are available in 60GB to 240GB and come backed by a 3-year warranty and 2 million hour MTBF for ultimate peace of mind.\n\nWHAT THE CRITICS ARE SAYING ABOUT THE OCZ AGILITY 3\n\n\n\"It's becoming a bit of a repetitive story with OCZ's SATA III (6G) range of SSD products, but it is as simple as this .. no product out there can match the performance (at this time) and being reasonably aggressive with the pricing, OCZ really might have a big hit in their hands with the Agility 3.\"\n--Hilbert Hagedoorn, guru3D.com\n\n\"In the 4K 32QD tests with AS-SSD and CrystalDiskMark, the OCZ Agility 3 SSD nearly topped our charts and leads among the best high-performance consumer storage devices. With the results we've received in our tests, hardware enthusiasts can expect extremely high operational performance and storage functionality for demanding applications and extreme I/O environments. Considering the level of performance we've experienced with the OCZ Agility 3 SSD, it's easy recommend this solid state drive to high-performance computer hardware enthusiasts and hardcore power-users. The blazing fast transfer speeds and outstanding operational performance earn the OCZ Agility 3 SSD our Silver Tachometer Award.\"\n--Olin Coles, BenchmarkReviews.com\n\n\"\"It\u2019s easy to say that this is one fast drive. Just looking at the performance increase from the previous generation Agility 2, we can see that the Agility 3 can at times double the performance of its predecessor, both in synthetic and real-world benchmarks. In all, the Agility 3 is the fastest drive we have tested to-date, and an amazing product all around.\n--Chris Ledenican, NeoSeeker\n\n\n\n\nSee more",
+    "rating": 4.3,
+    "feature_bullets": [
+      "Max Read: up to 525MB/s; Max Write: up to 500MB/s",
+      "Random Write 4KB: 45,000 IOPS; Maximum 4K Random Write: 85,000 IOPS",
+      "MTBF: 2 million hours",
+      "Compatible with Windows 7, Vista, XP 32-bit/64-bit, Mac OSX, Linux",
+      "Operating Temp: 0\u00b0C-70\u00b0C; Ambient Temp: 0\u00b0C-55\u00b0C; Storage Temp: -45\u00b0C-85\u00b0C",
+      "Low Power Consumption: 2.7W Active, 1.5W Idle; Shock Resistant up to 1500G"
+    ],
+    "specifications": {
+      "Brand": "OCZ",
+      "Item model number": "AGT3-25SAT3-240G",
+      "Hardware Platform": "Mac",
+      "Item Weight": "3.2 ounces",
+      "Product Dimensions": "6 x 0.6 x 5 inches",
+      "Item Dimensions  LxWxH": "6 x 0.6 x 5 inches",
+      "Flash Memory Size": "240",
+      "Manufacturer": "OCZ Technology",
+      "ASIN": "B004Z0S6S4",
+      "Is Discontinued By Manufacturer": "No",
+      "Date First Available": "May 2, 2011",
+      "Customer Reviews": "4.3 out of 5 stars816 ratings4.3 out of 5 stars",
+      "Best Sellers Rank": "#2,934 in Internal Solid State Drives"
+    },
+    "categories": [
+      "Data Storage",
+      "Computers & Accessories",
+      "Electronics",
+      "Internal Solid State Drives"
+    ],
+    "price": ""
+  }
+}

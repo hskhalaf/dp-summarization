@@ -1,0 +1,680 @@
+{
+  "website_summaries": [
+    {
+      "verdict": "This accessory is a decent and reasonably priced add-on for existing Philips Hue households -- especially if you're interested in Hue's new lineup of outdoor lights.",
+      "pros": [
+        "Hue's Outdoor Sensor works with Apple HomeKit, and it's actually three sensors in one -- motion, temperature and ambient light",
+        "The app's sensitivity controls are the best I've seen for a device like this, with accurate real-time feedback that makes it easy to calibrate"
+      ],
+      "cons": [
+        "The Hue app doesn't currently do anything with those temperature readings, and it forces you to go into the settings to see any information about the sensor at all",
+        "Also, our lights didn't always jump to the correct scene when motion was detected"
+      ],
+      "aspects": {
+        "Features": 8.5,
+        "Usability": 8.0,
+        "Design": 8.0,
+        "Performance": 7.5
+      },
+      "publication_date": 20190315,
+      "rating": 8.1,
+      "source": "cnet"
+    }
+  ],
+  "customer_reviews": [
+    {
+      "title": "Love it.",
+      "text": "More than for security purposes I lighting outdoor that reacts to me. Normally I keep the outside lights rather bright in case I am out there in the evening. Now with this I can keep them on but dimmed (a bit more neighbor friendly) and when I drive up or go out back all the lights back there come on full bright..., Gives you what a motion sensor would do but in a more flexible way.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "P. Weyzen",
+      "helpful_votes": 12,
+      "publication_date": 20190314
+    },
+    {
+      "title": "Awesome HomeKit Integration",
+      "text": "This motion detector works fantastically. It\u2019s easy to install and isn\u2019t too big. I love that I can use it to control other non-Hue smart items in my home using the Home app on my iPhone. So while you can use it to control your Hue Lights, you can also use it to control any other items that you can add to HomeKit on iOS. Pretty fantastic. Damn worth the money.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "J. Buff",
+      "helpful_votes": 13,
+      "publication_date": 20190515
+    },
+    {
+      "title": "Excellent product. If you have their  lightbulbs you need this.",
+      "text": "I have a Wyze in the window looking onto front porch. Wyze does not do well on glass in darkness and our area is pitch black because neighborhood association does not allow street lights or all-night lights. All the lighting is our home comes from Phillips Hue, which we love and trust so I thought I would buy an extra bulb and put it on porch. No, it is not an outside bulb but we have a well covered porch and an enclosed porch light. I figured the motion detector would trigger the light and then the Wyze. Works perfectly. Now, when a bear comes around we know it!",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Patty",
+      "helpful_votes": 8,
+      "publication_date": 20190603
+    },
+    {
+      "title": "Detects motion, provides you the lux, and temperature.",
+      "text": "I love the fact that Hue Labs is producing automation scripts for the device. I can see the current brightness outside, and the current temperature. Also can be alerted when motion is detected, and can be configured to not notify you at specified times. Oh and it can turn lights on when motion is detected as well (you know, what it\u2019s advertised as?) day or night. Only gripe, wish I could trigger other non Hue devices to receive an audiable tone on phone or in home when motion is detected. May order a second unit for perimeter of house.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Matt McKeown",
+      "helpful_votes": 10,
+      "publication_date": 20190424
+    },
+    {
+      "title": "Works well, will update if it's starts to not",
+      "text": "Update: still working without the hub still showing 100% battery after almost 2 weeks. Original review: Required a device handler to work with smart things without a hue hub. Which shouldn't be an issue for anyone that is familiar with such things. I ended up mounting with outdoor rated Velcro rather then drilling holes I think that easier for battery replacements. Gets good coverage both distance and radius on my long driveway.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Victor Markuski",
+      "helpful_votes": 2,
+      "publication_date": 20190319
+    },
+    {
+      "title": "Does exactly what it says",
+      "text": "This a great accessory that fits well into the Hue ecosystem. Easy to install and connect to the bridge. I like the ability to configure the behavior separately for day/night times, how long it stays on after motion is detected, sensitivity, etc... and have it trigger a configurable group of lights. Only complaint would be the price/value, seems steep for a motion sensor. Also the app allows you to configure day/night times manually and the sensor also senses daylight so its not immediately clear why you need to set both, should be one or the other.",
+      "rating": 4.0,
+      "verified": true,
+      "author": "briandr",
+      "helpful_votes": 0,
+      "publication_date": 20200906
+    },
+    {
+      "title": "Philips Hue Dusk-to-Dawn Outdoor Motion Sensor tight!!",
+      "text": "Philips hue out motion sensor are awesome.. Install is easy to install. Yes I recommend!!",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Mr. Luis M. Figueroa Jr.",
+      "helpful_votes": 6,
+      "publication_date": 20190323
+    },
+    {
+      "title": "Impressive range to hue lights",
+      "text": "I needed a way to turn on my outdoor lights from the bottom of a huge set of stairs, and I was honestly surprised (and delighted) that this motion detector was able to connect at such a great distance. I haven't played around with the motion sensitivity much, but the fact that it can connect to hue lights over 60 stairs away more than meets my needs.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Swenyo",
+      "helpful_votes": 2,
+      "publication_date": 20190830
+    },
+    {
+      "title": "GREAT PRODUCT",
+      "text": "I have nothing but PHILIPS HUE inside & outside my home. This product for me is tricky. Trying to adjust motion and activation can be a problem. I don\u2019t know if the SENSOR is set right or not. BUT IF STILL GOING TO PURCHASE PHILIPS HUE ... I\u2019ll keep trying on the sensor.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Mike",
+      "helpful_votes": 0,
+      "publication_date": 20190710
+    },
+    {
+      "title": "Sensor",
+      "text": "This sensor is a nice addition to my hue collection...I included it into the system and mounted it under the eave on my shed...I adjusted the settings and now if someone walks within 20 feet of the shed the lights come on ..Feels well made plus philips hue makes nice stuff...",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Len Ricupero",
+      "helpful_votes": 0,
+      "publication_date": 20190427
+    },
+    {
+      "title": "Buyer Beware",
+      "text": "Beware. Don\u2019t buy this product on Amazon. Item was defective out of the box. There was no power on set up. Tried every manufacturer remedy to activate. This is not eligible for return so you have to call customer service to negotiate with Phillips. This is a complete hassle. I\u2019m very surprised being Phillips makes great product. Extremely disappointed.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "James Tracy",
+      "helpful_votes": 2,
+      "publication_date": 20190714
+    },
+    {
+      "title": "Barely functional with Apple HomeKit",
+      "text": "Due to severe Philips Hur software limitations this motion sensor is barely useable with Apple HomeKit. It will trigger things when motion is detected and stops being detected, but that\u2019s it. What I really want is to be able to trigger something 10 minutes after motion detection stops. The temperature and lux detection do nothing in HomeKit except increase the price.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "dotScott",
+      "helpful_votes": 0,
+      "publication_date": 20200612
+    },
+    {
+      "title": "Another excellent quality HUE product",
+      "text": "My whole house runs HUE and these sensors were just what I needed to compliment my outside lights. Compared to the indoor sensor this thing is built really solid, it\u2019s heavy and clearly designed to withstand the elements. The more granular sensitivity control compared to the indoor unit is a great feature too.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Chris H.",
+      "helpful_votes": 2,
+      "publication_date": 20190407
+    },
+    {
+      "title": "Requires Hue Bridge/Hub - not truly HomeKit compatible",
+      "text": "Tried to use this without the Hue Bridge; unable to setup using the iOS 13 Home app. I know that\u2019s listed as a requirement. But it\u2019s Year 2020 and I don\u2019t want an extra hardware that adds complexity, nor a Hue app on my phone, nor to create a login at Philips. I expect a \u201cHomekit compatible\u201d device to just work. Will wait for a better future.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "T.C.",
+      "helpful_votes": 0,
+      "publication_date": 20200607
+    },
+    {
+      "title": "Homekit temperature below freezing not reliable",
+      "text": "Sometimes reacts to trees moving in the wind even on low sensitivity mode, forcing me to disable it. The built-in temperature sensor stopped reporting temps below 32*F/0*C to Apple Homekit. It simply stops at 32/0 now despite sub-zero weather. I replaced the batteries (a challenge) to rule out low power and tested it in my freezer. Confirmed: 32/0 is the lowest Homekit will report from this sensor. Other temperature sensors from other companies work fine.",
+      "rating": 2.0,
+      "verified": true,
+      "author": "A.R.",
+      "helpful_votes": 0,
+      "publication_date": 20200124
+    },
+    {
+      "title": "Best Hue accessory for outside",
+      "text": "The Mrs didn't like the idea of a smart light outside...thankfully they came out with this motion accessory. We live in a lot home and the old lights were hard wired. Now I can turn on, off, and have motion!",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Nathan H.",
+      "helpful_votes": 0,
+      "publication_date": 20190523
+    },
+    {
+      "title": "Waste",
+      "text": "Didn\u2019t know I had to purchase another piece to this for it to work also download apps also this is way too much. It shouldn\u2019t be one way only",
+      "rating": 1.0,
+      "verified": true,
+      "author": "Moe",
+      "helpful_votes": 0,
+      "publication_date": 20200518
+    },
+    {
+      "title": "Excellent outdoor sensor",
+      "text": "Turns on my Hue porch light every time a car, person, or animal passes where it is mounted on a shed alongside my diriveway. It's about 75 feet from the porch and works every time.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "threej",
+      "helpful_votes": 0,
+      "publication_date": 20190804
+    },
+    {
+      "title": "Another great HUE product",
+      "text": "I have HUE products all over the house and love them. I have the sensor set up by the garage so the flood light turns on when somebody get near. Our cameras captured a fox walking past the garage and it triggered the light to come on. I am very pleased with it and highly recommend it.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "K D",
+      "helpful_votes": 0,
+      "publication_date": 20200328
+    },
+    {
+      "title": "Cannot add them to HUE app",
+      "text": "I cannot add them as new features. Never finds the sensors, even with all the reset instructions... Also requires a internet connection of the router on which the HUE hub is connected. There are setups, where this is not possible. Bad strategy to require a online update before you can use it.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "Cliente Amazon",
+      "helpful_votes": 0,
+      "publication_date": 20200805
+    },
+    {
+      "title": "Works perfectly!",
+      "text": "I have become a Phillips hue fan. They all seem to work and the ability to have my porch lights turn on when anyone approaches I really like. Yes I have seen someone approach my porch, the lights come on, they see my camera, and they leave. Battery life is good. I am in Alaska and it survived the winter without any issues.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Richard Poage",
+      "helpful_votes": 0,
+      "publication_date": 20200813
+    },
+    {
+      "title": "Great Addition to Smart Home",
+      "text": "Set up outside in minutes. Very easy to install on your house or garage and very easy to set up in the app. I would prefer if more color options were offered but that can be fixed with a little bit of paint.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Attention to Detail ",
+      "helpful_votes": 0,
+      "publication_date": 20200118
+    },
+    {
+      "title": "what a disappointment",
+      "text": "Motion sensor was unreliable and light was so dim I could barely see anything 2 ft away. Changing the setting on Hue app to max and most sensitive made no difference. Was it out of battery?",
+      "rating": 1.0,
+      "verified": true,
+      "author": "ccc",
+      "helpful_votes": 0,
+      "publication_date": 20200115
+    },
+    {
+      "title": "Works well - motion sensor is VERY sensitive",
+      "text": "I have it set to the VERY LOWEST sensitivity and it still picks up cars in the street and people walking sometimes. About 50 feet away. Very easy to install. Works well, once all things lined up in the software.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Jason P. Nemeck",
+      "helpful_votes": 0,
+      "publication_date": 20200711
+    },
+    {
+      "title": "It works",
+      "text": "Just like the rest of the Hue lineup, these are simple to set up, once you are familiar with the app. Works great thus far. It's a bit pricy, but it fits that Hue ecosphere and works with Apple HomeKit.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Falcon",
+      "helpful_votes": 0,
+      "publication_date": 20200723
+    },
+    {
+      "title": "Works ok",
+      "text": "Easy to install, I use it to turn on/off garage lights. There is a delay between detection and the lights activating, but it is tolerable.",
+      "rating": 3.0,
+      "verified": true,
+      "author": "McLovin",
+      "helpful_votes": 0,
+      "publication_date": 20191221
+    },
+    {
+      "title": "easy to install, works",
+      "text": "I had to had to write a Hassio automation to disable it whenever I open my front door but that's not the sensor's problem. It faces away from the street so no false alarms fro cars.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "bturrie",
+      "helpful_votes": 0,
+      "publication_date": 20200805
+    },
+    {
+      "title": "Not a light. Only a sesnsor",
+      "text": "I thought this was a dusk to dawn light but turns out it is a sensor for other phillips lights. Not what I needed. Not sure if I didnt read description correctly but it was very unclear",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Monique Chappell",
+      "helpful_votes": 0,
+      "publication_date": 20200525
+    },
+    {
+      "title": "Easy install",
+      "text": "Love this thing in concert with our Phllips Hue lights. Installed in front and rear outside lights which helps to illuminate pathways when needed",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Marius",
+      "helpful_votes": 0,
+      "publication_date": 20200111
+    },
+    {
+      "title": "Works perfectly",
+      "text": "Have a bunch of indoor sensors and this is a perfect addition for the outdoor lights. Great range and sensitivity. Also very easy to install as it's shaped to allow many mounting options.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "A. Bor",
+      "helpful_votes": 0,
+      "publication_date": 20190419
+    },
+    {
+      "title": "Cool outdoor motion sensor to trigger Hue Light action",
+      "text": "The sensor works well. I mounted it to a tree in the front yard, so that front door lights come on when any motion is detected in the driveway. I was worried about the Hue Light hub not connecting with the sensor outside, but it hasn\u2019t been a problem so far.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "J. Faris",
+      "helpful_votes": 0,
+      "publication_date": 20190517
+    },
+    {
+      "title": "This is a title for sure",
+      "text": "It has great motion sensitivity and you can trigger Alexa routines with it to control non-Hue home automation devices",
+      "rating": 5.0,
+      "verified": true,
+      "author": "A root",
+      "helpful_votes": 0,
+      "publication_date": 20191211
+    },
+    {
+      "title": "Add these to your system.",
+      "text": "No complaints here. These were an addition to my Hue system and they work like a charm. If you have a Hue system these are a must have.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "KS",
+      "helpful_votes": 0,
+      "publication_date": 20200628
+    },
+    {
+      "title": "Super!",
+      "text": "Easy and battery is built in. Picks up motion at the 90 degrees very well. Can link with Phillips hue bulbs and turn multiple light on at same time with one sensor.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "iolanta kovaler-akerlind",
+      "helpful_votes": 0,
+      "publication_date": 20190707
+    },
+    {
+      "title": "Great",
+      "text": "Love this. Not too sensitive. Make sure if you have lights come on at a specific time not to overlap the program time when you want sensor to be working.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "meowjs",
+      "helpful_votes": 0,
+      "publication_date": 20190326
+    },
+    {
+      "title": "Easy to Install and Works Great",
+      "text": "Set up quickly and works great. I like a set and forget item like this. Never wished it had turned on and it didn't as well as vice versa. Couldn't ask for more. Highly recommend.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "MarkTGT",
+      "helpful_votes": 0,
+      "publication_date": 20190828
+    },
+    {
+      "title": "Looked nice",
+      "text": "I sent it back because I thought it had a bulb in it. I guess I must have read it incorrectly",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Newdl",
+      "helpful_votes": 0,
+      "publication_date": 20191229
+    },
+    {
+      "title": "Good integration in hue system",
+      "text": "Wish could lower motion sensitivity a bit. It s triggered too easily at the minimum setting",
+      "rating": 4.0,
+      "verified": true,
+      "author": "Jf Sauzeat",
+      "helpful_votes": 0,
+      "publication_date": 20191208
+    },
+    {
+      "title": "Love it",
+      "text": "Brings me so much comfort. Hasn\u2019t missed a sensor. I use It on my back fence since we live in a lake and people walk by really late at night. The sensor picks them up and then I have hue lights that behave according to the time of day. Love it",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Amazon Customer",
+      "helpful_votes": 0,
+      "publication_date": 20190811
+    },
+    {
+      "title": "Works great.",
+      "text": "Works great with my other Philip hue lights. I plan on getting another one soon",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Adam Newby",
+      "helpful_votes": 0,
+      "publication_date": 20200729
+    },
+    {
+      "title": "Worked like a charm for 11 months. I must go see why it stopped working.",
+      "text": "Worked like a charm for 11 months. I must go and see why it stopped working.",
+      "rating": 4.0,
+      "verified": true,
+      "author": "Jim Anthony",
+      "helpful_votes": 0,
+      "publication_date": 20200809
+    },
+    {
+      "title": "Great motion sensor for hue",
+      "text": "Great outdoor motion sensor. Love how much more advanced the sensor is. The option to turn on multiple lights(even indoor) with this is amazing.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Jordan",
+      "helpful_votes": 0,
+      "publication_date": 20200130
+    },
+    {
+      "title": "Works great!",
+      "text": "Easy to install and to connect with Phillips lights in and outside my house.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "rmbcam",
+      "helpful_votes": 0,
+      "publication_date": 20200809
+    },
+    {
+      "title": "Easy to install- good detection of movement",
+      "text": "Very easy to install and get running with the application. Note the bulbs are separate.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Pamela",
+      "helpful_votes": 0,
+      "publication_date": 20191231
+    },
+    {
+      "title": "Not IFTTT compatible",
+      "text": "I bought one and was shocked to discover that it is not IFTTT compatible .",
+      "rating": 3.0,
+      "verified": true,
+      "author": "Rick K",
+      "helpful_votes": 0,
+      "publication_date": 20200704
+    },
+    {
+      "title": "A little tricky to get going",
+      "text": "Do you motion detection and operation of this product is a little curious. I have not yet fully installed it because I haven't been able to have the emotion detection operate reliably",
+      "rating": 4.0,
+      "verified": true,
+      "author": "R. Reed",
+      "helpful_votes": 0,
+      "publication_date": 20190606
+    },
+    {
+      "title": "Another great Hue product.",
+      "text": "easy to install and great coverage for what I needed.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Dennis",
+      "helpful_votes": 0,
+      "publication_date": 20190505
+    },
+    {
+      "title": "Works Perfectly",
+      "text": "Works perfectly, mounted outside for a pair of Hue outdoor lights that light up when motion is detected at bull brightness. Been a couple of months and it works fine.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Joseph Martin",
+      "helpful_votes": 0,
+      "publication_date": 20190529
+    },
+    {
+      "title": "Too sensitive",
+      "text": "This product works too well. The sensitivity need to have an adjustment for distance so you can reduce the usable arc.",
+      "rating": 2.0,
+      "verified": true,
+      "author": "Peter Gore",
+      "helpful_votes": 2,
+      "publication_date": 20190509
+    },
+    {
+      "title": "Great sensor. Easy to install.",
+      "text": "Works well, let's me group lights on different circuits into one and set brightness lower so my neighbors aren't blind by my spots. \ud83d\udc4d\ud83c\udffc. Really like the extra temp sensor feature too. A great sensor.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Stanley Carrico",
+      "helpful_votes": 0,
+      "publication_date": 20190713
+    },
+    {
+      "title": "Easy to Install",
+      "text": "Takes some adjustment since the sensor is very sensitive, but once set up correctly it works great.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Chief645",
+      "helpful_votes": 0,
+      "publication_date": 20190611
+    },
+    {
+      "title": "It works very well",
+      "text": "I am using one of these as a power saver for my lights One of several uses for this device",
+      "rating": 5.0,
+      "verified": true,
+      "author": "John Finn",
+      "helpful_votes": 0,
+      "publication_date": 20190503
+    },
+    {
+      "title": "Great product",
+      "text": "Works as it should. I have set up for a pathway light and this detector lights up as you approach the walkway",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Dave Hale",
+      "helpful_votes": 0,
+      "publication_date": 20190622
+    },
+    {
+      "title": "Amazon's deceiving selling website",
+      "text": "Amazon's confusing website had this item bought before I had a chance to decide not to buy it. Not good.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "David73",
+      "helpful_votes": 0,
+      "publication_date": 20200307
+    },
+    {
+      "title": "Hue motion",
+      "text": "Great motion detection. Easy to install. Bonus lumen and temp gauge. Pairs great with outdoor spotlight.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Ranger-R",
+      "helpful_votes": 0,
+      "publication_date": 20200228
+    },
+    {
+      "title": "Super easy to install and works great!",
+      "text": "Very pleased with the product. It has good range for motion detection and is very easy to install.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "SP-MD",
+      "helpful_votes": 0,
+      "publication_date": 20200308
+    },
+    {
+      "title": "Nice to have lights on when you come home.",
+      "text": "Super simple and now my outdoor lighting comes on (after dusk) as I drive in every time.",
+      "rating": 4.0,
+      "verified": true,
+      "author": "Mobeus",
+      "helpful_votes": 0,
+      "publication_date": 20190610
+    },
+    {
+      "title": "Works as advertised",
+      "text": "I connected this sensor to the Hue outdoor floodlight fixture. It works perfectly.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "ChiMac",
+      "helpful_votes": 0,
+      "publication_date": 20190414
+    },
+    {
+      "title": "Incomplete",
+      "text": "There was no hardware to mount the motion sensor. Might send item back",
+      "rating": 2.0,
+      "verified": true,
+      "author": "Amazon Customer",
+      "helpful_votes": 0,
+      "publication_date": 20191205
+    },
+    {
+      "title": "Works as expected",
+      "text": "Must really update software immediately. Pay attention to the programing times. It will shut off lights connected and you don't know why. I finally figured it out...",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Scott Robinson",
+      "helpful_votes": 0,
+      "publication_date": 20190419
+    },
+    {
+      "title": "Nice",
+      "text": "Great product, but took a minute to set the detection zone and sensitivity. Once set up, they operate great!",
+      "rating": 5.0,
+      "verified": true,
+      "author": "John Reynolds",
+      "helpful_votes": 0,
+      "publication_date": 20191104
+    },
+    {
+      "title": "Work as expected",
+      "text": "Good product, usual Hue quality - you get what you pay for.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Shar",
+      "helpful_votes": 0,
+      "publication_date": 20191027
+    },
+    {
+      "title": "Great",
+      "text": "Exactly what I needed. Will be adding more to my system.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Joshua R",
+      "helpful_votes": 0,
+      "publication_date": 20190817
+    },
+    {
+      "title": "Works as advertised",
+      "text": "Setup was easy. No issues. Should have got the outdoor sensor sooner.... Great product from HUE.....",
+      "rating": 5.0,
+      "verified": true,
+      "author": "ccrider",
+      "helpful_votes": 0,
+      "publication_date": 20190422
+    },
+    {
+      "title": "Great buy!",
+      "text": "It was easy to install. Took some time to tweak all the settings in the Phillips Hue App but so far it\u2019s working like a charm.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Heffery07 ",
+      "helpful_votes": 0,
+      "publication_date": 20190618
+    },
+    {
+      "title": "Better trigger then IFTTT",
+      "text": "These work great. I was using IFTTT to trigger events and while that allows you to piggyback of Ring or other devices, the nighttime only scripting is not great. Adding a stand alone motion sensor is well worth the cost. Set up while I did have to discover twice took under 10 minutes. The Hue app also allows you you adjust both light and motion sensitivity. Mounting is simple and if adding to a flare surface consists of a single screw. Hue Motion sensor is small and unassuming which allows it to go semi unnoticed. I am considering adding a few more.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "G. VO",
+      "helpful_votes": 0,
+      "publication_date": 20201011
+    },
+    {
+      "title": "Great useful addition to Hue system",
+      "text": "Great, useful item. I often leave for work before daylight and get back after dark. Great to have it turn the lights on. I love the Hue stuff. It is a bit overpriced.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Vic Mclendon",
+      "helpful_votes": 2,
+      "publication_date": 20190502
+    },
+    {
+      "title": "Fast/easy setup, does exactly what it\u2019s supposed to do",
+      "text": "Fast/easy setup, does exactly what it\u2019s supposed to do. I bought this to automatically brighten my HUE floodlights when there is motion in my back yard. It does that perfectly. I am thinking about adding more of these for other locations around my house.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Percolato",
+      "helpful_votes": 0,
+      "publication_date": 20191118
+    }
+  ],
+  "product_meta": {
+    "title": "Philips Hue Dusk-to-Dawn Outdoor Motion Sensor for Smart Home, Wireless & Easy to Install (Hue Hub Required, for use with Philips Hue Smart Lights)",
+    "description": "The Philips Hue Outdoor Motion Sensor automatically turns on the Philips Hue Smart Lights you want, both outdoor and indoor.The sensor detects variations in infrared radiation in its environment, allowing it to detect human movement and automatically turn on the lights (sensor motion sensitivity can be adjusted in the app). By connecting the motion sensor to your Hue hub via the Philips Hue app, you can choose which of your Philips Hue lights go on, both inside and outside your house. Also choose the scene or light setting that should be triggered. The integrated dusk-to-dawn sensor ensures your lights only switch on when it is actually dark outside helping you to conserve energy. This Philips Hue outdoor sensor is specially designed for use in outdoor environments and has undergone rigorous tests to ensure its performance. Certified by UL, the product will withstand heavy rainfall and other weather conditions.\u200b 160 degree horizontal/80 degree verticle view angle with 39 ft x 8 ft detection radius. Optimized for far range and close proximity (antering and leaving home). Able to fix the motion sensor on both a flat wall and corner.",
+    "rating": 4.5,
+    "feature_bullets": [
+      "ENHANCE YOUR SMART HOME EXPERIENCE: The Philips Hue Outdoor Motion Sensor detects outdoor motion and can trigger both Philips Hue Indoor and Outdoor lights. Set your Hue sensor to welcome you or guests home with lights, or detect intruders or potential package thieves with pre-set light scenes, Philips Hue Hub and Hue Smart lights required and sold separately, Works with Apple HomeKit",
+      "EXTREME RESISTENCE: Resistant to all weather conditions, this Philips Hue outdoor sensor is designed for use in outdoor environments and has undergone rigorous tests to ensure its performance. Certified by UL, the product will withstand heavy rainfall and other weather conditions,",
+      "EASY INSTALLATION: Installed in a matter of minutes, the outdoor motion sensor is easy to mount and is fully wireless. You don\u2019t need an electrician to have it installed. Just unpack the sensor, set it up through the Philips Hue app and install it wherever you like. Configuring the outdoor sensor and setting the daylight and motion sensitivity is also done via the Philips Hue app",
+      "LIMITLESS POSSIBILITIES: Place the Philips Hue Outdoor Motion Sensor where you want. The kit comes equipped with different mounting components. You can mount it on a flat wall, on the inner or outer corner of a wall or post, or on a pole or rain pipe. It's perfect for front yard lighting, deck lighting, porch lighting, around the door, garage or any place around your smart home where it matters. One lens to see it all: The lens of the outdoor sensor is custom designed to detect movement directly below the sensor \u2013 for example when you step out of the door or are at a longer distance it detects you. When closely examining the lens you can see how the lens pattern changes to detect movement at close range and the upper part at long range",
+      "UNLOCK HUE'S FULL POTENTIAL: For the full set of smart light features, add a Hue Hub (sold separately) to your smart lights to experience the full set of Philips Hue features. With a Hue Hub, you can control up to 50 smart lights throughout your home (even outdoor!). Create timers and routines to automate your entire smart home lighting setup; use your lights to wake up and go to sleep; or make it look like you're home when you're on vacation using presence mimicking features. Control your lights while away from home or add accessories such as motion sensors and smart switches to further enhance your experience. The possibilities are yours to unlock when you add the Hue Hub (sold separately)",
+      "MAXIMUM SECURITY: Scare away potential package thieves or intruders, Thanks to the large view angle and detection range the outdoor sensor will spot any movement near your smart home, It can directly turn on your outdoor lights to expose intruders while turning on indoor Hue smart bulbs so it looks like you're home, even when you're not"
+    ],
+    "specifications": {
+      "Manufacturer": "Philips Hue",
+      "Part Number": "541730",
+      "Item Weight": "5.1 ounces",
+      "Product Dimensions": "2.99 x 2.2 x 2.99 inches",
+      "Item model number": "541730",
+      "Color": "Black & White",
+      "Material": "Synthetic Polymer",
+      "Shape": "Round",
+      "Power Source": "Electric",
+      "Voltage": "3 Volts",
+      "Item Package Quantity": "1",
+      "Type of Bulb": "Electric",
+      "Included Components": "1 x Motion Sensor 2 x Wall Brackets 2 x screw",
+      "Batteries Included?": "No",
+      "Batteries Required?": "No",
+      "Warranty Description": "2 year warranty.",
+      "ASIN": "B07NDFQF2T",
+      "Customer Reviews": "4.5 out of 5 stars340 ratings4.5 out of 5 stars",
+      "Best Sellers Rank": "#11,359 in Tools & Home Improvement",
+      "Date First Available": "February 19, 2019"
+    },
+    "categories": [
+      "Lighting & Ceiling Fans",
+      "Tools & Home Improvement",
+      "Outdoor Lighting",
+      "Lighting Accessories"
+    ],
+    "price": 49.97
+  }
+}

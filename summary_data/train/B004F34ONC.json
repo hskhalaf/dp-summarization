@@ -1,0 +1,964 @@
+{
+  "website_summaries": [
+    {
+      "verdict": "A highly integrated and cost-effective network card that ensures you can efficiently utilize network bandwidth for maximum data throughput.",
+      "pros": [
+        "Supports 10, 100, and 1000 Mbps throughput",
+        "Features an LED indicator that displays the status of data transmission",
+        "Offers an excellent choice for those who want to upgrade a network for a high-traffic power server and video-conferencing workstation"
+      ],
+      "cons": [
+        "Does not work on Windows 10",
+        "Does not properly or securely seat Ethernet cables"
+      ],
+      "aspects": {},
+      "publication_date": "",
+      "rating": "",
+      "source": "bestreviews"
+    }
+  ],
+  "customer_reviews": [
+    {
+      "title": "seems to work well with Linux Mint 19.1 on an old HP computer",
+      "text": "I installed this in an old HP Pavilion p6537c to give it gigabit ethernet. It easily installed and worked immediately with the installed Linux Mint 19.3 (Kernel 4.10.0-38-generic). I confirmed I can get gigabit speeds with iperf: user@machine1 ~ $ iperf -c machine2 ------------------------------------------------------------ Client connecting to machine2, TCP port 5001 TCP window size: 85.0 KByte (default) ------------------------------------------------------------ [ 3] local 192.168.1.235 port 38452 connected with 192.168.1.15 port 5001 [ ID] Interval Transfer Bandwidth [ 3] 0.0-10.0 sec 1.10 GBytes 941 Mbits/sec",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Dale Frakes",
+      "helpful_votes": 18,
+      "publication_date": 20190320
+    },
+    {
+      "title": "Technical Skills required on Linux",
+      "text": "This is for the 10Gb Ethernet adapter. Comes with Linux instructions, but the files that compile with the included drivers *do not* support the card. Short story is you have to download some additional .h and .c files, and run make with additional parameters set. Do a search for: github acooks tn40xx-driver and there should be some help there. It works now, after compiling the correct drivers, but I would not recommend this for a casual Linux user.",
+      "rating": 4.0,
+      "verified": true,
+      "author": "Some Dude",
+      "helpful_votes": 15,
+      "publication_date": 20181119
+    },
+    {
+      "title": "Works GREAT with Windows 10 Pro 64bit",
+      "text": "Works perfectly with Windows 10 Pro 64bit. I read nearly all the reviews and saw that many said it does NOT work with Windows 10. So I went to the manufacture's website and found they had Windows 10 drivers, image that! So card came in, put it in my PC and wouldn't you know, Windows 10 recognized it without me installing any drivers and it works like a champ! I mean full 1 Gbps right off the bat. It's small and takes up hardly any space in your setup. I even went ahead and installed the drivers from the manufacture's website and it still works great!! I highly recommend this card to anyone that needs one.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Lacey",
+      "helpful_votes": 31,
+      "publication_date": 20170115
+    },
+    {
+      "title": "Great for an upgrade to older pc",
+      "text": "I upgraded my internet to 300 mbps but when I did a speed test I was only getting about 94 mbps. The cable tech told me I probably needed a gigabit ethernet card to get the full speed out of my service. I looked up the specs for my PC and lo and behold, it did indeed only have 10/100 mbps capacity! I popped this little card in, went into my BIOS to disable the onboard LAN, and voila! The first time I tested it I got 330 mpbs! Wow! I regularly get about 230-270 depending on the time of day, but it sure beats 94! This is a good card to upgrade an older pc.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Denise Green",
+      "helpful_votes": 14,
+      "publication_date": 20161123
+    },
+    {
+      "title": "From 5 mbps to 85 mbps!!!",
+      "text": "I tried everything to figure out what was causing such a slow wired internet speed on one computer...a Dell Optiplex 960. Yes, it IS an older computer, and after checking many other adjustments ON the computer, trying a new Cat6 cable (that STILL gave the same 5 mbps speed, if I was lucky!), I ordered this new network card. The price couldn't be beat, and it was very easy for a senior lady to install :P As soon as I hooked the computer back up and turned it on, the card was already installed (Windows 10, version 1903) and I now have around 85 mbps, which is GREAT for me....not a gamer!",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Jeanne",
+      "helpful_votes": 3,
+      "publication_date": 20190719
+    },
+    {
+      "title": "Works Great on XP!",
+      "text": "I have an old 2008 Dell Dimension 4700 running XP in my computer room and just upgraded my home network (for my many other computers) from 10/100 to 1000 gigabit speeds since Comcast recently bumped up my plan from 100mbps to 250mbps. Upgrades included a TP-Link TP-ER5120 gigabit router, Arris SB6183 modem, Netgear Gigabit Switches and Cat5e cable wherever there was Cat5. I then disabled the internal Intel Pro /100 VE in XP, put in the Roswell card, popped in the included CD and XP found the correct driver on the CD. Easy as can be, lol. Ookla Speed test shows (on Firefox 46) a jump from 83mbps to 306mbps. A bargain at $11.00! Woo Hoo!",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Siffert",
+      "helpful_votes": 4,
+      "publication_date": 20180502
+    },
+    {
+      "title": "Packets be flyin across this thing!",
+      "text": "It's a dual port NIC. You plug two ethernet cables into it and plug the other ends into a switch. In my case, it enabled me to turn my 10 year old Dell into an IDS/IPS. Only buy it if you need two ports. If you need more ports, buy one with more ports. This one has two ports and works well for what I needed. Your use case may be different. Choose accordingly. PROS: - It's cheap. - It works. CONS: - If you need more ports, this one isn't for you. This did not affect my use case.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Amazon Customer",
+      "helpful_votes": 5,
+      "publication_date": 20180110
+    },
+    {
+      "title": "Windows 10 Teaming",
+      "text": "You CANNOT use this for teaming network ports on Windows 10, nor any other NIC. Microsoft has completely disabled this ability on Windows 10, and it only functions on Server 2012+. I would give this card 3 or 4 stars because it essentially functions as a NIC with two ports, but the Rosewill website leads you to believe you can accomplish 2.0 Gbps throughput with this card on Windows 10 and you cannot.",
+      "rating": 2.0,
+      "verified": true,
+      "author": "Pastreh",
+      "helpful_votes": 6,
+      "publication_date": 20180828
+    },
+    {
+      "title": "Double check that you ordered the correct one",
+      "text": "Pay attention to the interface type. I swore I ordered the PCI Express version, but I actually ordered the PCI card. There is a difference and I knew that difference. It was totally my fault that I ordered the wrong card. But I'm about an hour away from the nearest FedEx or UPS so it's really not even worth returning it. I do wish that they had separate pages for each type, but I'm sure it's just easier on them this way. I can't attest to how the product performs as I don't have a PC compatible with it anymore. I'm just here to say double check your selection to make sure you get the card you need.",
+      "rating": 3.0,
+      "verified": true,
+      "author": "Robert D.",
+      "helpful_votes": 3,
+      "publication_date": 20180819
+    },
+    {
+      "title": "Ubuntu Linux 12.04 LTS - Plug and Play - it just worked",
+      "text": "Got one of these to change a network interface over to 1Gbit on an rather old Lenovo desktop, which currently runs Ubuntu 12.04 LTS. Although a driver CD is provided with the card, as well as a short bracket, I did not need the driver CD - it just worked, and connected to its router at 1Gbps. I also had it briefly in a machine with a more recent LTS and that also \"just worked\". [ 1.738773] r8169 0000:02:00.0: eth0: RTL8168evl/8111evl at 0xf842c000, (MAC ADDRESS HERE), XID 0c900800 IRQ 42 [ 1.738787] r8169 0000:02:00.0: eth0: jumbo features [frames: 9200 bytes, tx checksumming: ko]",
+      "rating": 5.0,
+      "verified": true,
+      "author": "cube1",
+      "helpful_votes": 0,
+      "publication_date": 20181008
+    },
+    {
+      "title": "It got Mom back online!",
+      "text": "My mother has a refurbished Lenovo PC that I found for her about a year ago. A few months back it began to drop its Internet connection intermittently, and after spending some time testing out her cables, connections, and cable modem/router functionality, we narrowed the problem down to the PC's built-in ethernet port. Since this Rosewell card was so affordable and had decent reviews, I crossed my fingers and ordered one. When it arrived, I disabled the built-in ethernet device and installed the new card, which was a snap. It was easy to configure her PC to use the new card, and it has worked flawlessly ever since installation. Highly recommended.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Bob Conway",
+      "helpful_votes": 0,
+      "publication_date": 20180903
+    },
+    {
+      "title": "Works great with RockStor Linux",
+      "text": "I use an old Dell Inspiron as a file server running RockStor Linux, with WD Red drives used for storage. With the built in ethernet port on the motherboard, my file transfer speeds over ethernet maxed out at 10 mb/s...painfully slow. After putting in this NIC, my transfer speeds increased to a consistent 110 mb/s...over 10 times faster! And it was plug and play...installed it and everything just worked...no drivers to mess with or anything, didn't even have to plug in a mouse/keyboard/monitor to the server to adjust anything! Well worth the low price to get significantly faster speeds for my NAS!",
+      "rating": 5.0,
+      "verified": true,
+      "author": "f_santino",
+      "helpful_votes": 0,
+      "publication_date": 20200509
+    },
+    {
+      "title": "Hardware/Network Tech Here - Can't Get It To Work.",
+      "text": "It just did not work. Installed the device, disabled the motherboard's in case of conflict, hooked up a quick USB wireless device to find the drivers online, installed the correct, Windows 10 rated drivers. Nothing. I did everything one could possibly think of and Windows won't so much as detect the thing exists - even if the lights are blinking and it knows SOMETHING is connected there. Waste of time and money - as others said, maybe go with an Intel adapter next - they tend to be truly plug and play.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "Bruno Berchieri",
+      "helpful_votes": 0,
+      "publication_date": 20190128
+    },
+    {
+      "title": "Easy to use NIC, well worth the price.",
+      "text": "Great product if you\u2019re looking for a network interface card, gets up to 2gigabits per second if you set to full duplex mode. It is in pcie format, but it will also fit in a pciex16 slot or other formats if you have no more room like me. If you\u2019re installing for windows10, it will automatically install drivers for you, and if you don\u2019t have win10, there\u2019s an included CD with drivers. I don\u2019t really notice a significant effect on load reduction on cpu vs onboard LAN, but at least I can run gigabit speeds with my fiber service.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "JL",
+      "helpful_votes": 0,
+      "publication_date": 20200122
+    },
+    {
+      "title": "Simple install, works great.",
+      "text": "Unbeatable value, really. I've had it installed for a few months now on a mid-low end PC (i7-2600) running Windows 10 Pro that's in fairly heavy daily use and connected to a gigabit switch via Cat6 cable. There's no sacrafice of performance with this card; I get full use of the badwidth just as I do on my other PCs and NAS. If you need a basic gigabit wired ethernet card; you can't beat the value of this Rosewill card.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Gordon Runkle",
+      "helpful_votes": 0,
+      "publication_date": 20191010
+    },
+    {
+      "title": "Works like a charm",
+      "text": "There's not a lot to ask from a network adapter. Just that it works. And this works perfectly with Windows 10. My onboard ethernet adapter died so i needed a PCI solution. I was worried about having to download drivers and not having a working internet connection. I popped the card in, turned on PC, Windows immediately installed, plugged in my network cable and done. Can't ask for anything better than that.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Ken",
+      "helpful_votes": 2,
+      "publication_date": 20170615
+    },
+    {
+      "title": "Worth Every Cent.",
+      "text": "Easy to install into the mobo and Windows 10 automatically installed the correct drivers even without an internet connection. I had one issue. The internet speed was maybe 50% of what it should be so uninstalled the driver that Windows installed for me and then reinstalled it. Fixed the issue somehow. I've been using it for 6 hours continuously with no issues at all. Would highly recommend.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Amazon Customer",
+      "helpful_votes": 5,
+      "publication_date": 20161009
+    },
+    {
+      "title": "PnP, but no screws?",
+      "text": "PRO: PnP for Windows 10 Pro x64, so it worked right away. CON: Bit pricey. No screw(s) - buyers better have one lying around in the house or be a data center employee Adapter shows as RealTek Realtek PCIe GbE Family Controller Connection Name: Ethernet 3 when viewing from systeminfo. My connection setup goes from this adapter to a 1G LAN port on ASUS RT-AC88U, then to ATT's BGW210 using IP Passthrough/bridge mode, then out the fiber line. Network speed test screenshots added here.",
+      "rating": 4.0,
+      "verified": true,
+      "author": "Miles",
+      "helpful_votes": 0,
+      "publication_date": 20191103
+    },
+    {
+      "title": "Worked and installed great.",
+      "text": "arrived, installed exceptionally easy and worked right off the bat. Software installed fast and flawless. performs very well. quite pleased.Old 10/100 card provided 46Mbps new card 197Mbps",
+      "rating": 5.0,
+      "verified": true,
+      "author": "mtn1955",
+      "helpful_votes": 3,
+      "publication_date": 20180122
+    },
+    {
+      "title": "Plug and play with the right drivers.",
+      "text": "At first I couldn't get it to work, some conflict with existing drivers on the motherboard (which had a bad ethernet port.) Disabling the integrated ethernet port and uninstalling the drivers, then connecting this up it worked immediately, and has worked flawlessly on a small home server for over a month without any issues now.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Christopher Olson",
+      "helpful_votes": 0,
+      "publication_date": 20200323
+    },
+    {
+      "title": "RNG-407-Dualv2 Did NOT work reliably on Windows Server 2012 R2 ...",
+      "text": "RNG-407-Dualv2 Did NOT work reliably on Windows Server 2012 R2 and Hyper-V. The item would fade in and out from time to time and I noticed this on 2 different units by the same model. There are no specific drivers produced by the manufacturer for the server platform and none of the other drivers will install on Server 2012 (for instance the drivers for Server 2008, Vista, Win7, Win8x).",
+      "rating": 1.0,
+      "verified": true,
+      "author": "Monte",
+      "helpful_votes": 0,
+      "publication_date": 20180714
+    },
+    {
+      "title": "Immediate improvement in Internet Access Performance!",
+      "text": "Disabled the 10/100M onboard LAN Adapter via BIOS, removed existing LAN Drivers and installed this new 10/100/1000 LAN Card. Rebooted my machine (Win10 Pro 64 Bit) expecting to have to install device drivers from included CD-ROM. However, system immediately recognized new LAN Card and I had Internet access immediately! Tested web speed at popular testing website and discovered throughput improved 15%. Also, a noticeable reduction in web page load times! Very pleased with this purchase!",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Bayou Reader",
+      "helpful_votes": 0,
+      "publication_date": 20180509
+    },
+    {
+      "title": "Typical mid end Realtek chipset",
+      "text": "Very common and typical mid-level Realtek chipset. Unfortunately the same chipset I already had in the PC. It's the RTL8168/8111 series which according to Realtek's description are almost identical. Too common apparently.",
+      "rating": 3.0,
+      "verified": true,
+      "author": "videobruce",
+      "helpful_votes": 2,
+      "publication_date": 20180404
+    },
+    {
+      "title": "Improved my internet speed by 3x",
+      "text": "Holy schneigies Batman! I popped this little adapter into my old desktop computer and increased the internet speed from 100mb per second to over 300/mb per second. It turns out that the motherboard ethernet port on my computer was limiting my internet speed. Once I popped this little guy into the PCI Express slot the same ethernet cord gave me over 300/mb per second!",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Buyer",
+      "helpful_votes": 0,
+      "publication_date": 20180604
+    },
+    {
+      "title": "Easy Ethernet upgrade that boosted my download speed from 100 Mbps to 300 Mps",
+      "text": "The card was easy to install on my Dell XPS 8700 (6 years old). All I needed was one open PCIe x1 slot (the smallest PCIe connector). I powered down the PC, pulled the power cord and opened the side panel. Installed the card and rebooted to Windows 10. The driver installed automatically and I was online again. It couldn't have been simpler. I installed the Ookla Speedtest app from the Microsoft store to measure performance. They recommend using it over the webpage version to measure speeds above 100 Mbps.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Jerry D. Smith",
+      "helpful_votes": 0,
+      "publication_date": 20190711
+    },
+    {
+      "title": "EZPZ Plug and play. Takes less than 5 minutes ...",
+      "text": "EZPZ Plug and play. Takes less than 5 minutes if you know what you're doing, which means you're probably not reading this...",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Lando",
+      "helpful_votes": 2,
+      "publication_date": 20180414
+    },
+    {
+      "title": "Transfer speed drops to 30mbits",
+      "text": "The transfer speed on this card drops to 30mbits (from 6gbits) on file transfers after this has been running for X number of hours (I'm not sure). Only a system reboot fixes this, and disabling/re-enabling doesn't fix it. My new card (TRENDnet 10G card from Amazon) doesn't have these issues.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "John D.",
+      "helpful_votes": 0,
+      "publication_date": 20200603
+    },
+    {
+      "title": "It worked.  Would order it again.",
+      "text": "Had a desktop that actually got a serge threw the ethernet port and smoked the old one. Replace it with this one. Doesn't seem to have any lack of speed. Didn't have any contact with tech support. So gave them a neutral 3 stars on tech support. I just installed it and it worked.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Jon Mc Donald",
+      "helpful_votes": 0,
+      "publication_date": 20191001
+    },
+    {
+      "title": "1 Star for the build",
+      "text": "I was using in a Pfsense Box. I should have known better. Constant crashes on the system forcing a full restart. Not thrilled. Do what Reddit says and stick with an Intel Card, not this one.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "evendude7763",
+      "helpful_votes": 0,
+      "publication_date": 20190526
+    },
+    {
+      "title": "Easy to install",
+      "text": "This was very easy to install and Windows 10 recognized that card. I use both ethernet ports, 1 for fingerprint ID system and the other for internet. No issues at all.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Carl Busch",
+      "helpful_votes": 2,
+      "publication_date": 20171121
+    },
+    {
+      "title": "pci ethernet card",
+      "text": "a addon ethernet card for the full size pci slot thats on nearly most of the motherboards the card works wonders when motherboard lan port fails or you want to add a port for a ethernet connection windows 10 automatically installs drivers",
+      "rating": 5.0,
+      "verified": true,
+      "author": "robert bush",
+      "helpful_votes": 0,
+      "publication_date": 20190725
+    },
+    {
+      "title": "Great NIC",
+      "text": "Solved my connection issues immediately and they have not returned. I installed this in a Dell and disabled the onboard NIC. This one works perfectly.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Kolleen Phillips",
+      "helpful_votes": 0,
+      "publication_date": 20190130
+    },
+    {
+      "title": "Good value",
+      "text": "It came on time, handles fairly heavy network traffic without a stutter, and was very economical. I've found all of the Rosewill products to be of good quality, from the case power supply and RAM I have to the surge protector and a/v adapters I've purchased over the years. Rosewill is always a good choice for solid performance at a reasonable price.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Ed Fischer",
+      "helpful_votes": 0,
+      "publication_date": 20180830
+    },
+    {
+      "title": "Don't see why the other ones are expensive",
+      "text": "I got this since I was suspecting my motherboard NIC was bad since I was getting lower speeds on my PC than others in the house. This let me find out that it's some other issue with my PC since I also got the same lower speeds with this card.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "AyyMD",
+      "helpful_votes": 0,
+      "publication_date": 20200711
+    },
+    {
+      "title": "Early review",
+      "text": "The new NIC has only been in service a few days, and it seems to be working well. (Can't speak to durability, yet, of course.) A local computer hardware place I use pretty regularly--and which generally has excellent value and prices--wants more than $30 for its least expensive NIC (Ethernet, not wireless). At one-third the price, this seems like a deal, and it uses Realtek drivers, so I am presuming the chipset is sound.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Richard Cushing",
+      "helpful_votes": 0,
+      "publication_date": 20180810
+    },
+    {
+      "title": "Simple, easy, it just works.",
+      "text": "My 7 Y.O. I7 workstation one day simply did not recognize the network chipset on the motherboard. After chasing the issue for a week with no resolution, I ordered and installed this adapter. It - just - works! No messing around, it just works. It has taken longer to write this review than to get the machine back on the internet.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "John Stuedle",
+      "helpful_votes": 0,
+      "publication_date": 20180917
+    },
+    {
+      "title": "Good Value, May Shift in the Slot",
+      "text": "This is a great little NIC! Good price, haven\u2019t had any trouble with it. The only thing I could gripe about is that it doesn\u2019t site tight in my Dell 3431... it slides pretty easily in the slot and at times doesn\u2019t seem very secure.",
+      "rating": 4.0,
+      "verified": true,
+      "author": "Jack Henwood",
+      "helpful_votes": 0,
+      "publication_date": 20200514
+    },
+    {
+      "title": "Still works great and it actually fixed my driver install problems too",
+      "text": "I was having driver problems because the people who sold me my PC installed the wrong drivers. This driver CD wasn't used at first but when this was having problems too, I used the install CD and it forced the install of the right drivers and it worked right away. After looking at my old 100Mb NIC, I see that the chipset is by the same manufacturer... not Intel unlike what was installed before I got this...",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Lauren Glenn",
+      "helpful_votes": 0,
+      "publication_date": 20180629
+    },
+    {
+      "title": "Dependable NIC",
+      "text": "Bought this for an older motherboard with a shot ethernet port, and ended up using it on a few systems before finally throwing in an old server. Was detected in both Win7/10 and Ubuntu / FreeBSD without any issues.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "James",
+      "helpful_votes": 0,
+      "publication_date": 20190923
+    },
+    {
+      "title": "Easy to install. No driver download needed for Windows 10!",
+      "text": "I ordered this for my Dell desktop that recently lost its on-board network card. For the price of this card I received a quality product that needed no drivers when being installed into a Windows 10 environment. The card was recognized after a minute and got my computer back online. I would purchase this again.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "J. Parduhn",
+      "helpful_votes": 0,
+      "publication_date": 20181028
+    },
+    {
+      "title": "Inexpensive, gets the job done",
+      "text": "Just got it less than a week ago but so far it has been serving me just fine. An extremely inexpensive fix for when my Ethernet port went out. Just slipped it in and that was that. No hassle, no fuss. Edit 28 May 2018: I cannot verify whether or not it is this product or the socket on my mobo, but something is no longer working. I\u2019m going to order a replacement and see if that solves anything. Leaving the 5-Star review up until I find out more.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Evan",
+      "helpful_votes": 0,
+      "publication_date": 20180517
+    },
+    {
+      "title": "Does not deliver but half of internet speed",
+      "text": "Bought a Dell that did not have an ethernet port. When hooking the ethernet up to my desktop I get 100 mbps. However, when hooking up through the adapter to my laptop only get 48 mbps.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "jennifer Harnett",
+      "helpful_votes": 0,
+      "publication_date": 20190202
+    },
+    {
+      "title": "Solves a $150 problem much cheaper",
+      "text": "Took a little finicking to make sure the right drivers were installed, but that's all in the instructions that come with it. Works perfectly on windows 10 with the most recent creators update. Boosted my internet speeds from ~25mbps to ~80mbps. No more internet lag in games",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Josiah Volz",
+      "helpful_votes": 0,
+      "publication_date": 20170724
+    },
+    {
+      "title": "Works perfectly with Windows Server 2019",
+      "text": "For some reason there are few Windows 2019 drivers for the Intel chipsets often found on motherboards like Gigabyte, and the Windows 10 drivers don't work. This one was immediately recognized and installed, and I get excellent bandwidth.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "J. Churchill",
+      "helpful_votes": 0,
+      "publication_date": 20190628
+    },
+    {
+      "title": "Works as expected!",
+      "text": "Works as expected! Buyer beware if you plan on using this to team a desktop operating system such as Windows 10. Depending on what revision of Windows 10 you have you will NOT be able to use this adapter for teaming.",
+      "rating": 4.0,
+      "verified": true,
+      "author": "Dead Scorpion 62",
+      "helpful_votes": 0,
+      "publication_date": 20200210
+    },
+    {
+      "title": "It will not work with some computers",
+      "text": "This card would not work with my Lenovo desktop. It was easy to install but would not allow my video to come up. I bought this card because I was having trouble getting the speeds I felt like I should be getting. A friend helped me trouble shoot as to what the problem might be. Could not get it to work with my computer. Sold the card to him and it works great in his computer. It just did not like my computer for some reason. Went back to my old card.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "larry frye",
+      "helpful_votes": 0,
+      "publication_date": 20190402
+    },
+    {
+      "title": "Nice NIC for the price!",
+      "text": "Overall not a bad NIC for the price. Ran into an interesting issue where the driver had a conflict with an onboard NIC of the same chipset. I had to disable the onboard NIC from BIOS in order for the OS (Win10 Pro) to install without conflict. Been running like a champ ever since! Would purchase again.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "TheKraken",
+      "helpful_votes": 0,
+      "publication_date": 20181014
+    },
+    {
+      "title": "Easy install, functions well.",
+      "text": "Arrived quickly in secure packing. Easy install if you know electronics, plug and play. Only thing wrong is that the description in my CPU properties doesn't show the device as 1 gig capable. Other than that it works fine and I get over 200 mbps which is what my Spectrum service allows.",
+      "rating": 4.0,
+      "verified": true,
+      "author": "MDC Jr",
+      "helpful_votes": 0,
+      "publication_date": 20180915
+    },
+    {
+      "title": "It's good",
+      "text": "I had my concern since I have not owned a Rosewill product before. Wasn't sure how it was going to work. It's working great, no issues. Easy to install. To update just go to the website.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Edwin",
+      "helpful_votes": 0,
+      "publication_date": 20200816
+    },
+    {
+      "title": "Works well with no hassles on OS X/macOS, and Ubuntu",
+      "text": "Works on last generation's MacBook Pro (back when it still had ports that were not USB C) as well as an Ubuntu box. Pretty handy to keep in your computer bag, and faster than the fastest WiFi when you do have wired access. My old complaint is that it's already starting to show some wear along the joints, but for the price, it's a great item that I'd buy again.",
+      "rating": 4.0,
+      "verified": true,
+      "author": "CthulhuTop Contributor: Pets",
+      "helpful_votes": 0,
+      "publication_date": 20171121
+    },
+    {
+      "title": "It works so far.",
+      "text": "Easy installation. I did not have to use the included CD as Windows 10 recognized it immediately. My onboard integrated network adapter (8 years old) died, so this was an inexpensive replacement. Not sure what the failure rate will be over time, as Chinese products tend to die much too soon.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Birdieman",
+      "helpful_votes": 0,
+      "publication_date": 20180930
+    },
+    {
+      "title": "Worked perfect running Windows-10",
+      "text": "I was having a problem with the LAN Port on my ASUS computer Motherboard. I plugged this card in running Windows-10 and it worked just perfect.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Davespc",
+      "helpful_votes": 2,
+      "publication_date": 20180202
+    },
+    {
+      "title": "Plug n play",
+      "text": "Brain-free installation and instant acceptance by my Windows 10 system. I installed the driver anyway since it was included on disc. My internet has now reached its potential! Super fast.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Shudder Bug",
+      "helpful_votes": 0,
+      "publication_date": 20191124
+    },
+    {
+      "title": "Worked as expected!",
+      "text": "I have a 200 mb download speed which my phone and is wireless gets over 200. My computer received 96mb but replaced it with this hardware and now I am matching the wireless so very happy!",
+      "rating": 5.0,
+      "verified": true,
+      "author": "CJB COMPUTER REPAIR",
+      "helpful_votes": 0,
+      "publication_date": 20190607
+    },
+    {
+      "title": "Great card for the price.",
+      "text": "I bought this card because my ethernet on my motherboard burned up due to a lightening. Works great for the price. better than the old card. Windows picked right up.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Daniel Purisch",
+      "helpful_votes": 0,
+      "publication_date": 20200730
+    },
+    {
+      "title": "Inexpensive, easy install, works great.....",
+      "text": "My on-board Ethernet port stopped working and I ordered this to get the rig back on-line. It came well packaged and was easy to install. Driver disc is included by the way. It literally took maybe 5-10 minutes from opening the package to me being back on-line.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "cadman",
+      "helpful_votes": 0,
+      "publication_date": 20181112
+    },
+    {
+      "title": "Installed easily on Win10 x64 with zero issues. As fast or faster than my on-board NIC.",
+      "text": "This Rosewill Gigabit Network card was installed in a Win10 x64 rig and needed no drivers. It just worked. As fast or faster than the network interface that was installed on the PC's motherboard. FedEx had it delivered in less than 36 hours. Completely satisfied. Would recommend to family and friends.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Plasmajam",
+      "helpful_votes": 0,
+      "publication_date": 20180327
+    },
+    {
+      "title": "This card was easy to install and get running",
+      "text": "I purchased this network adapter to replace the built in network adapter on the motherboard on my computer after it failed. This card was easy to install and get running. It worked great. I am very satisfied with this network adapter.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Kindle Customer",
+      "helpful_votes": 0,
+      "publication_date": 20180315
+    },
+    {
+      "title": "Fast and easy.",
+      "text": "Installation and setup are simple and quick, even in Linux. No bottlenecks in my network now and I can utilize the extra bandwidth I paying for at my ISP.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "K. Evans",
+      "helpful_votes": 0,
+      "publication_date": 20200731
+    },
+    {
+      "title": "Doesn't get easier",
+      "text": "This Ethernet card works as advertised. Very simple to install. The instructions are easy to follow. The driver for Windows 10 installed with no problem. Very happy with this purchase.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "HomeFixer",
+      "helpful_votes": 0,
+      "publication_date": 20200520
+    },
+    {
+      "title": "Great little card!",
+      "text": "I swapped out an old 10MB card with this. I only get 20-40 MB transfer speeds, but most likely due to my set-up. It's definitely better than what I had. Super easy install, great price to value.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "JAFO",
+      "helpful_votes": 0,
+      "publication_date": 20190112
+    },
+    {
+      "title": "Cured our woes",
+      "text": "Our computer was randomly disconnecting a reconnecting to the Internet while browsing. I tried all kinds of firmware and driver updates for the built in network on the motherboard, but the issue persisted. So, I bought this, installed it, and was up and running in minutes. No more issues. This is on a Dell Inspiron that's maybe 2-3 years old.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "John Lipfert",
+      "helpful_votes": 0,
+      "publication_date": 20180918
+    },
+    {
+      "title": "Outstanding but plan ahead as driver downloads are involved",
+      "text": "Works flawless, but need to add note that computer should be rebooted after installing drivers (suggest you download them in advance if possible before product arrives. I no longer have to worry about noticing my motherboard's ethernet port acting up oddly. I plugged the Rosewill product into one of rear USB 3.0 and never looked back and it's pretty much consistent!",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Saber-Epyon",
+      "helpful_votes": 0,
+      "publication_date": 20180525
+    },
+    {
+      "title": "Simple and easy",
+      "text": "Excellent little card. Doesn't cost much, great speed, it works with no third party drivers required on every operating system that matters, as it uses a common-as-dirt Realtek chipset. And has a low-profile bracket in the box. There's really not much more you could want from a gigabit NIC.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Michael Parks",
+      "helpful_votes": 0,
+      "publication_date": 20170103
+    },
+    {
+      "title": "Does a great job!",
+      "text": "Plug and play. Literally nothing you have to do after that except plug your ethernet cable into it. Speeds are solid and the price is awesome! I use it on my gaming PC on a daily basis.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "PuterGeek2",
+      "helpful_votes": 0,
+      "publication_date": 20190320
+    },
+    {
+      "title": "Drivers First",
+      "text": "Received on time and in good shape. Everything worked perfectly (maybe because I followed the instructions and installed/updated the drivers before installing the card). Speeds are as expected. Overall a good buy to fix a problem with a failed motherboard port.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Evan J.",
+      "helpful_votes": 0,
+      "publication_date": 20180812
+    },
+    {
+      "title": "plug and play",
+      "text": "works right out of the box. didnt need to load drivers but i did just because. works well for a bad NIC on a motherboard and cheap price.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Thomas D. House",
+      "helpful_votes": 0,
+      "publication_date": 20190711
+    },
+    {
+      "title": "Piece of Cake - Easier than I expected.",
+      "text": "I slapped this bad boy in the slot, installed Ubuntu Linux and it recognized the card right away. I didn't have to do a thing.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Damon J. Gray",
+      "helpful_votes": 0,
+      "publication_date": 20200311
+    },
+    {
+      "title": "Card works as Advertised",
+      "text": "Installation went great, fit into the PCI-E slot, it replaced the failing onboard NIC card and the lag in connection stopped once the card was installed and used.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Midgard23",
+      "helpful_votes": 0,
+      "publication_date": 20190805
+    },
+    {
+      "title": "So far, perfect!",
+      "text": "Got this to replace my on board 10/100 lan Very simple setup, I disabled the on board lan first, then popped this rosewill into the pci e slot and booted up the pc. Windows 10 loaded the drivers, now I get the speed I pay for",
+      "rating": 5.0,
+      "verified": true,
+      "author": "J Rott",
+      "helpful_votes": 0,
+      "publication_date": 20180807
+    },
+    {
+      "title": "Lights are on, nobody home",
+      "text": "First time I've purchased a Rosewill product and it won't function. Linux o/s sees the card, attempts DHCP, but no ETX output. ERX is working, arp lists hosts.",
+      "rating": 2.0,
+      "verified": true,
+      "author": "T0mW",
+      "helpful_votes": 0,
+      "publication_date": 20200518
+    },
+    {
+      "title": "Worked well to replace failed mother board network adapter.",
+      "text": "This worked well for small price. Church's motherboard (Dell Computer) network adapter failed. This adapter got it back on line. Installed easy and Windows 7 installed driver without a problem. Serving our needs well. Thanks!",
+      "rating": 4.0,
+      "verified": true,
+      "author": "C. Strain",
+      "helpful_votes": 0,
+      "publication_date": 20180805
+    },
+    {
+      "title": "Worked perfectly in my Windows 10 Pro 64 bit system ...",
+      "text": "Worked perfectly in my Windows 10 Pro 64 bit system. No driver needed Windows 10 recognized it on first boot after startup. Running Comcast (Xfinity) Gateway. Connection speed (download) running up to 122 Mbps (approximately 15 MBps).",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Michael Bilak",
+      "helpful_votes": 0,
+      "publication_date": 20180721
+    },
+    {
+      "title": "Love it!",
+      "text": "My husband's computer's network card was giving Him problems, so a friend found this and we bought it. Neither of us know ANYTHING about hardware, but with simple instructions found online, we had it installed in minutes, and His computer is doing GREAT!!!",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Vixen Princess",
+      "helpful_votes": 0,
+      "publication_date": 20181121
+    },
+    {
+      "title": "Works great, all the speed I need",
+      "text": "Am impressed at how easy this was to install and how fast the connection is. Cost was well worth avoiding the frustration of solving the issue with my HTPC's ethernet connection by just plugging this in and being done with it. Had wasted too much time not solving the issue already.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "River Rivers",
+      "helpful_votes": 0,
+      "publication_date": 20180916
+    },
+    {
+      "title": "Works Great!",
+      "text": "My onboard network card stopped working and I ordered this board to restore my internet connection. The Rosewill board was easy to install with the low profile adapter and automatically loaded in Windows 10 without using the driver disk. Speed checks on my 100 MB connection now check in the 94 MB range. The old board was 50 MB at best. This is definitely a much faster board than the original.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Bob from Sharpsburg",
+      "helpful_votes": 0,
+      "publication_date": 20180914
+    },
+    {
+      "title": "Works Great",
+      "text": "This item works great for the one purpose I got it for - Wake on LAN. The old NIC integrated into my motherboard didn't support Wake on LAN so I picked this up, enabled Wake on LAN in the properties tab of the device manager, and it worked flawlessly! Great speeds and a small form-factor as well. Very happy.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Garrett",
+      "helpful_votes": 0,
+      "publication_date": 20170505
+    },
+    {
+      "title": "Installed in my home server (Server 2012) and it was ...",
+      "text": "Installed in my home server (Server 2012) and it was immediately recognized. No need to install any drivers. Ports teamed and set with LACP 802.3ad and there have been no issues whatsoever.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Randy S.",
+      "helpful_votes": 2,
+      "publication_date": 20160606
+    },
+    {
+      "title": "Does the job well for very little money",
+      "text": "My onboard ethernet adapter went out on my eight year old PC last month, a real problem as I play World of Warcraft on this computer. It arrived quickly, and I was able to install it with no trouble.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Raymond Bradshaw",
+      "helpful_votes": 0,
+      "publication_date": 20180922
+    },
+    {
+      "title": "Best card for the money.",
+      "text": "Simply the best little nicer card I have found. Very inexpensive and out lasted some very costly network adapter cards I've used. Runs on Linux without a hitch. It is unbelievable how in inexpensive the card is. Great bang for the bucks! :-)",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Heaven Bound",
+      "helpful_votes": 0,
+      "publication_date": 20191101
+    },
+    {
+      "title": "A good choice",
+      "text": "Does what it's supposed to do; it is easy to install; this product is fully plug and play; and this is a good value.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "FOSTERBDAV66 ",
+      "helpful_votes": 0,
+      "publication_date": 20200522
+    },
+    {
+      "title": "Works as it should",
+      "text": "I'm not too sure if there's a big difference but I think a little compared to my factory on board..",
+      "rating": 5.0,
+      "verified": true,
+      "author": "FatKatMOTO",
+      "helpful_votes": 0,
+      "publication_date": 20190629
+    },
+    {
+      "title": "Dead on Arrival.",
+      "text": "Well, I got two of them, installed one when I got it, working fine. The second one I just installed, about 6 months later in another machine and it is DOA. Won't do anything, it is recognized by the computer but won't send any packets. Yes I tried multiple cables.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "devious",
+      "helpful_votes": 0,
+      "publication_date": 20180120
+    },
+    {
+      "title": "The card works fine with no drivers needed and got a 15 percent ...",
+      "text": "The card works fine with no drivers needed and got a 15 percent boost over my old connection. Not the cards fault but windows 10 considered it a hardware change and deactivated my license, and have to fight with getting it reactivated.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Leon",
+      "helpful_votes": 0,
+      "publication_date": 20180616
+    },
+    {
+      "title": "solid and good price.",
+      "text": "Great no frill replacement/addition for onboard NIC ports. I did have to download drivers to make this work on Windows 10 despite claiming it doesn't. Once recognized, it worked flawlessly.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "JY.",
+      "helpful_votes": 0,
+      "publication_date": 20180513
+    },
+    {
+      "title": "Do not use with linux/ubuntu",
+      "text": "The card works well. I was able to pull gigabit over it. The only problem that I had is the latest linux kernel (ubuntu) does not support the r8190 chip set properly. The built in driver works for a few days then stops dumping a watchdog message on the console. I did download the driver from realtek but nothing changed. I did not test this card on windows. I will probably keep it if I have a windows machine that needs a network card update.",
+      "rating": 4.0,
+      "verified": true,
+      "author": "Justin Markowitz",
+      "helpful_votes": 0,
+      "publication_date": 20161019
+    },
+    {
+      "title": "Works well",
+      "text": "Imjust plugged it in, Windows 7 recognized it, installed drivers automatically and it worked.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Industrial Review",
+      "helpful_votes": 0,
+      "publication_date": 20200811
+    },
+    {
+      "title": "This NIC pushes through the data like nobody's business",
+      "text": "I can't believe I had to pay for a NIC add-on card for a brand new motherboard, but it was way easier than dealing with an RMA for a defective built-in network card. This NIC pushes through the data like nobody's business. Great card.",
+      "rating": 4.0,
+      "verified": true,
+      "author": "Sean Peters",
+      "helpful_votes": 0,
+      "publication_date": 20170520
+    },
+    {
+      "title": "Great Product",
+      "text": "First and Foremost let me say that this product is amazing lives up to the description in detail was very easy to install on my Asus Sabortooth mobo just popped it in the pci express slot and powered on my pc reconized it right away and the speeds you get are gigabit would recommend this product to anyone that is wanting a very reliable and consistent download and upload bandwith",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Ronnie Silva",
+      "helpful_votes": 0,
+      "publication_date": 20190528
+    },
+    {
+      "title": "Didnt work.",
+      "text": "Didnt work on my pc. Not sure what the issue was but I tried everything.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "rhonda",
+      "helpful_votes": 0,
+      "publication_date": 20191231
+    },
+    {
+      "title": "Simply Works!",
+      "text": "This worked without loading software- just plug and go. It is well made and definitely worth having in your inventory of adapters to get off WIFI (i.e., slow and non-secure) when possible.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Dr. Ed",
+      "helpful_votes": 0,
+      "publication_date": 20180813
+    },
+    {
+      "title": "Great buy",
+      "text": "Work like it should, got gig speed agian. My on board went out on me and this worked perfectly",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Kilo230",
+      "helpful_votes": 0,
+      "publication_date": 20190708
+    },
+    {
+      "title": "Works well, speed is good.",
+      "text": "I wanted a GigE port on my aging Dell 530 , and this has worked just fine! Worked just fine in the x16 port that I had available (don't use a graphics card).",
+      "rating": 4.0,
+      "verified": true,
+      "author": "Amazon Customer",
+      "helpful_votes": 0,
+      "publication_date": 20191118
+    },
+    {
+      "title": "Add a port",
+      "text": "Used to replace a bad Ethernet port on my motherboard. Easy set up and works well",
+      "rating": 5.0,
+      "verified": true,
+      "author": "jfd8982",
+      "helpful_votes": 0,
+      "publication_date": 20200817
+    },
+    {
+      "title": "Worked right out of the box",
+      "text": "Bought this product to replace an on-board LAN port. Card went in easy and Windows 10 recognized it right away. Speed test showed speeds expected from our provider.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "April K",
+      "helpful_votes": 0,
+      "publication_date": 20180925
+    },
+    {
+      "title": "Can't load a working driver",
+      "text": "Used CD, but it defaulted to loading drivers for mobo lan that was 10/100 and labeling the new lAN with name of mobo lan, and restricting it to 10/100, when I was looking for gig speed. Can't figure out if it's the card, the drivers, or both.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "Thomas Rossetos",
+      "helpful_votes": 0,
+      "publication_date": 20190527
+    },
+    {
+      "title": "Worked great with Windows 10",
+      "text": "Wanted to add a second NIC to my HP EliteDesk G1 that I use for security to isolate the cameras. This adapter worked great. Plugged it into PCI slot and Windows 10 found it.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "John Powers",
+      "helpful_votes": 0,
+      "publication_date": 20180916
+    },
+    {
+      "title": "Works exactly as it should.  Very nice.",
+      "text": "Excellent choice. Purchased this in the PCIE variation. Works exactly as it should with very easy installation. Would buy again if needed. Great job Rosewill!",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Graff",
+      "helpful_votes": 0,
+      "publication_date": 20181020
+    },
+    {
+      "title": "Five Stars",
+      "text": "Worked on windows and linux. Also I was able to get it working with vmware esxi 6.x",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Amazon Customer",
+      "helpful_votes": 0,
+      "publication_date": 20180413
+    },
+    {
+      "title": "Works straight out of the box in Windows 10",
+      "text": "Great card, no drivers needed, Windows 10 recognized it right away.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "playerdark",
+      "helpful_votes": 0,
+      "publication_date": 20200830
+    }
+  ],
+  "product_meta": {
+    "title": "Rosewill 10/100/1000 Mbps Ethernet Card, Network Adapter Card, Network Interface Card (NIC), Gigabit RJ45 PCIe Network Card with Power Saving for Computer Systems and Servers, PCIE 1000M (RC-411v3)",
+    "description": "Capacity:PCIE 1000MRosewill RC-411v3, The Gigabit 10/100/1000Mbps PCI Express Network Adapter allows you to connect a desktop computer to a gigabit wired network at a high-bandwidth network connection speed. It is a highly integrated and cost-effective Gigabit Ethernet Adapter to efficiently utilize network bandwidth for maximum data throughput, and an excellent choice to upgrade your network for high traffic Power Server and Video-Conferencing Workstation. Features: Supports 10 / 100 / 1000 Mbps throughput Supports Wake-on-LAN Auto-Negotiation and Auto MDI/MDIX. Supports IEEE 802.3x Flow Control for Full-duplex Mode and backpressure for Half-duplex Mode. Supports IEEE 802.1p Layer 2 Priority Encoding and IEEE802.1q VLAN tagging. Supports power down/link down power saving. Supports Windows XP / Vista / 7 / 8 / 10",
+    "rating": 4.6,
+    "feature_bullets": [
+      "Wake-on-lan supporting auto-negotiation and auto MDI/MDIX supports IEEE802. 3x flow control for full-duplex mode and backpressure for half-duplex mode",
+      "Supports IEEE 802. 1p Layer 2 Priority Encoding and IEEE802. 1q VLAN tagging Supports power down/link down power saving DOS/Win98SE/Me/2000/XP/Vista/Linux/Novell Netware",
+      "Standards and protocols: IEEE 802. 3, 802. 3U, 802. 3ab, 802. 3x, 802. 1Q, 802. 1P, csma/CD, TCP/IP interface: 32-bit PCIe 1. 0a transmission rate: 10/100Mbps for half-duplex mode; 20/200/2000Mbps for full-duplex mode",
+      "Jumbo frame: 4K bytes port: 1x 10/100/1000 Mbps RJ45 Network media: 10baset-t: UTP Category 3, 4, 5 cable (maximum 100M) EIA/tia-568 100 STP (maximum 100M)",
+      "100Baset-tx: UTP Category 5, 5E cable (maximum 100M) EIA/tia-568 100 STP (maximum 100M) 1000baset-t: UTP Category 5, 5E cable (maximum 100M)",
+      "Designed to meet PCI Express base Specification Revision 1. 0a, Single-lane (or x1) PCI Express throughput supports rates of 2. 5Gbps",
+      "Led indicator: LEDs indicate the status of data transmission, 1000M Link/Act, 100M Link/Act",
+      "Designed to meet PCI Express Base Specification Revision 1.0a",
+      "Single-lane (or x1) PCI Express throughput supports rates of 2.5Gbps",
+      "Automatic MDI/MDIX crossover at all speed"
+    ],
+    "specifications": {
+      "Brand": "Rosewill",
+      "Series": "NIC",
+      "Item model number": "RC-411v3",
+      "Operating System": "Windows 2000 / XP / Win7 / Win8 / Win8.1 / Win 10",
+      "Item Weight": "2.4 ounces",
+      "Product Dimensions": "8 x 6 x 2 inches",
+      "Item Dimensions  LxWxH": "8 x 6 x 2 inches",
+      "Manufacturer": "Rosewill",
+      "ASIN": "B004F34ONC",
+      "Is Discontinued By Manufacturer": "No",
+      "Date First Available": "December 4, 2010",
+      "Customer Reviews": "4.6 out of 5 stars681 ratings4.6 out of 5 stars",
+      "Best Sellers Rank": "#32 in Internal Computer Networking Cards",
+      "Domestic Shipping": "Item can be shipped within U.S.",
+      "International Shipping": "This item can be shipped to select countries outside of the U.S. Learn More"
+    },
+    "categories": [
+      "Computers & Accessories",
+      "Network Cards",
+      "Internal Components",
+      "Computer Components",
+      "Electronics"
+    ],
+    "price": 14.99
+  }
+}

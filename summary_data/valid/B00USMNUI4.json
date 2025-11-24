@@ -1,0 +1,753 @@
+{
+  "website_summaries": [
+    {
+      "verdict": "Although the prospect of scheduled blinds is cool, and the basic functions work well, outfitting a whole home with Somfy's Motorized Blinds and the MyLink hubs to run it would cost thousands.",
+      "pros": [
+        "Somfy's app is intuitive, its hardware is pretty reliable, and waking up to a home that opens your blinds for you would be just plain cool"
+      ],
+      "cons": [
+        "The features are sparse, and the system often requires a separate product for each new feature you want to access",
+        "Overall, the price for admission is way too high"
+      ],
+      "aspects": {
+        "Features": 6.0,
+        "Usability": 6.0,
+        "Design": 6.0,
+        "Performance": 7.0
+      },
+      "publication_date": 20160117,
+      "rating": 6.2,
+      "source": "cnet"
+    }
+  ],
+  "customer_reviews": [
+    {
+      "title": "Try this if you can't locate your somfy device!",
+      "text": "I got it working with my roller shades and iPhone after many many attempts. Through trial and error the steps below worked for me. For those who got the error somfy mylink cannot be found, try this: 1. Use a 2.4ghz wifi network 2. Go through the setup process on the app. After you enter your WiFi network password it goes through a 4 step process to locate your somfy device. At the 4th step, use your remote and move all your shades up or down (do this while the app is locating your Somfy motor!) This allowed the device to discover my somfy motors. Nothing else worked and the troubleshooting guides are non existent. Good luck!",
+      "rating": 4.0,
+      "verified": true,
+      "author": "Sydney",
+      "helpful_votes": 30,
+      "publication_date": 20180624
+    },
+    {
+      "title": "Avoid this unit, get Bond smart home",
+      "text": "Somfy blinds are a great product but this unit performs horribly. I have a very stable wireless connection in my small apartment, but somfy mylink has a Very unreliable connection to the blinds, always showing a weak connection even having the unit next to any of my antennas. Most of the time there is a blind not responding. Technical support was useless solving the issue. Alexa integration suks and Mobile Application is super slow and has a horrible interface. ALTERNATIVE: get the BOND smart home, it solves all the issues and works great with control 4 and Alexa.",
+      "rating": 2.0,
+      "verified": true,
+      "author": "userccs",
+      "helpful_votes": 2,
+      "publication_date": 20200211
+    },
+    {
+      "title": "Too bad it doesn't work",
+      "text": "This item doesn't work properly. Installation cannot be completed because it cannot be found on my network during installation (despite trying more than 20 times on 4 different routers). If I chose the \"join existing system\" option instead of \"start new system\", I can find the device on my network but since there is no default PIN, I cannot link to it. So, apparently the device does actually connect to my network, also indicated by the solid green light, but either the application or the device is defective. Either way, it doesn't work and I am returning it. After waiting on hold for more than 15 minutes, customer service could only tell me to try again. Gee thanks.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "Carolyn",
+      "helpful_votes": 16,
+      "publication_date": 20160302
+    },
+    {
+      "title": "Works ONLY while you're at home but not remotely as described.... false advertisement",
+      "text": "Total false advertising about the device's capabilities on where you can control blinds, awning...etc. The box and the description indicates \"Always have control of your motorized applications regardless of where you are.\" This is ONLY applicable when your phone or tablet is on the SAME WIFI NETWORK. As soon as you're outside of your wifi network or anytime you're on cellular network, you WILL NOT HAVE CONTROL of any of the devices. SO \"...Regardless of where you are\" is completely false advertisement. Perhaps Somfy had wanted to be that way, but never rolled out the firmware nor the app to support that statement. BTW, I did update the firmware and the app to the most current public release.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "jl",
+      "helpful_votes": 0,
+      "publication_date": 20191017
+    },
+    {
+      "title": "5 Channels, App needs work, Range is not great",
+      "text": "The bad: This only comes with 5 channels. Like any other RTS controller, you can combine motors onto 1 channel. Range is not great. You can use more than one MyLink to control more than 5 channels at a time but will get pricey. App is not the greatest. On a schedule, sometimes motors do not respond to the command. The good: Easy way to control your somfy blinds, remotely, and or put them on a schedule.",
+      "rating": 3.0,
+      "verified": true,
+      "author": "E. Perez",
+      "helpful_votes": 3,
+      "publication_date": 20170502
+    },
+    {
+      "title": "OK, but could have been better...",
+      "text": "Not sure what the fuss is about programming this gadget. It took about five minutes to set up. Perhaps experience with similar gizmos made it easier for me, but anyway it works. Scheduling is a bit arcane, but I was ultimately successful. However, unlike other products it does not give any feedback about the state (i.e. open or closed) of the shades being controlled. Kasa, MyQ and Nest, for instance, provide information that allows you to manage your systems effectively. This deficiency makes the Somfy MyLink an incomplete product.",
+      "rating": 3.0,
+      "verified": true,
+      "author": "WAH",
+      "helpful_votes": 0,
+      "publication_date": 20190703
+    },
+    {
+      "title": "Overpriced, poor product. Zero customer service.",
+      "text": "Product was set up to control 7 shades in three different rooms. At first, it worked beautifully. Then after a few weeks it randomly stopped controlling certain shades. Then it stopped controlling my largest shade (the one with the heaviest sun exposure) and never recovered. Two emails, describing the problems, were sent to Somfy on its webpage via the \"contact us\" feature. No response to either. Stay away from this useless, frustrating product and Somfy's non-existent customer service.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "Ed Kelety",
+      "helpful_votes": 3,
+      "publication_date": 20170426
+    },
+    {
+      "title": "Unreliable and frustrating",
+      "text": "I hope they go out of business. The range in this is so small that some windows open and some don't. The app is badly designed too. Everything about somfy is bad, I do not know how this company is able to compete with any other one",
+      "rating": 1.0,
+      "verified": true,
+      "author": "unisyean",
+      "helpful_votes": 2,
+      "publication_date": 20180823
+    },
+    {
+      "title": "Installed via app easily and works well from 30 feet away",
+      "text": "Worked as advertised. I was concerned by reviews by folks who had problems with the app interface, but my install went flawlessly, the first time. This was installed on an Apple network with the Somfy MyLink plugged in about 30 feet away from a SunSetter awning with a Somfy RTS motor. The MyLink is located inside a room, so it's capable of communicating through a wall from that far away. Happy customer!",
+      "rating": 5.0,
+      "verified": true,
+      "author": "wklemp",
+      "helpful_votes": 0,
+      "publication_date": 20180627
+    },
+    {
+      "title": "A solid product that could use some UI improvements",
+      "text": "Overall, I think this is a good product. Set-up was relatively straight-forward (though I did initially have a wifi range issue), and I've found the features and functionality to be very good for my single outdoor shade application. It also has functioned very reliably - raising and lowering my shade (including to the \"my\" position) as scheduled. I've taken off one star, though, because of the iOS interface. It's very clunky and can be slow at times. For scheduling the shade, it's fine, but I would never rely on it as my remote. It's far too slow.",
+      "rating": 4.0,
+      "verified": true,
+      "author": "Amazon Customer",
+      "helpful_votes": 0,
+      "publication_date": 20170505
+    },
+    {
+      "title": "Not reliable",
+      "text": "I purchased one of these for my home automation integration. It is constantly disconnecting and complaining of poor wifi coverage despite nothing else in the house having issues. I've tried moving it around and it doesn't seem to help. Just seems like it has a garbage wifi radio. When it works, the range and functionality is identical to a four-channel remote and works as expected.",
+      "rating": 3.0,
+      "verified": true,
+      "author": "wiconsumer",
+      "helpful_votes": 0,
+      "publication_date": 20190420
+    },
+    {
+      "title": "Unreliable / Inconsistent",
+      "text": "This just seems like 1990\u2019s tech. I have it controlling four curtain motors in one room, and it frequently will open the wrong curtain, will leave one unopened or just do whatever it wants. I end up using the manual remote about 75% of the time to correct what the device was supposed to do. Plenty of clear instructions on how to program, use, etc. Bottom line is that it\u2019s just not a reliable product and doesn\u2019t consistently operate as designed.",
+      "rating": 3.0,
+      "verified": true,
+      "author": "TM",
+      "helpful_votes": 0,
+      "publication_date": 20191024
+    },
+    {
+      "title": "Superb Automation Device",
+      "text": "Somfy MyLink works perfectly well with my 2009 Somfy Glystro motor. I am very pleased with my purchase and the great courteous service from the seller Brandmotors which I highly recommend. With this purchase I have most systems controlled with my cellphone. Superb Somfy quality!",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Rogelio Garcia de Paredes",
+      "helpful_votes": 2,
+      "publication_date": 20180909
+    },
+    {
+      "title": "Not worth the money",
+      "text": "Mine stopped working after 4 months it is hard to program, not impossible but for the cost it should be much easier. the app is horrible and gives no data. I like my blinds but they should not do any more tech work till they get a new team of techs that understand a smart home.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "Lighting Tech",
+      "helpful_votes": 0,
+      "publication_date": 20190729
+    },
+    {
+      "title": "Works fine",
+      "text": "I had no issues integrating with my WiFi. Followed the directions EXACTLY. I now have 5 swings on a schedule. I set the awnings to the same frequency and the all come out and close at the same time. I can control by iPhone if I need to open or close. Not sure what all the negative review are all about. Only complaint is that it seems expensive for what it does.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "c0ld0",
+      "helpful_votes": 0,
+      "publication_date": 20191025
+    },
+    {
+      "title": "Works as described.  Easy set up",
+      "text": "I bought this for Alexa integration. I read some reviews that said it will not integrate with Alexa, but that's not true. It took about 15 minutes to set up three shades in my house and they are all able to connect with Alexa now. The only thing that's minorly annoying about that Alexa skill is that you have to give a full command \"Alexa, ask my link to raise living room shade\". The mylink app works as well but I don't think I will use that as long as Alexa is working",
+      "rating": 5.0,
+      "verified": true,
+      "author": "K. Moghadam",
+      "helpful_votes": 0,
+      "publication_date": 20191031
+    },
+    {
+      "title": "Call tech support to set it up !!!",
+      "text": "Almost impossible to set it up right without tech support help. I had to return the first one, as it looked like someone already worked with it. When the second one arrived I called customer service and they walked me through, without them you would spend hours without getting anywhere.",
+      "rating": 4.0,
+      "verified": true,
+      "author": "Isaac & Natalie",
+      "helpful_votes": 0,
+      "publication_date": 20191118
+    },
+    {
+      "title": "Works with Sun Setter Awnings",
+      "text": "Purchased this Somfy RTS device to operate three Sun Setter awnings with RTS motors ordered through Costco. Thus far the device works flawlessly. It does exactly what we wanted it to accomplish (open and close automatically at a predetermined time). During the set up process needed to operate each remote first during programming in order for the Somfy to register it. Once I figured it out, set up was a breeze.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "WR",
+      "helpful_votes": 0,
+      "publication_date": 20180110
+    },
+    {
+      "title": "Works well and with Alexa",
+      "text": "Set up was really easy. Connected with a RTS remote control for a retractable patio screen that we\u2019ve had for 13 years. Integrated with Alexa right away. Admittedly the voice commands are a little strange Me: \u201cAlexa tell MyLink to raise the screen A: \u201c you want to move everything up?\u201d Me: \u201cyes\u201d A: ok So I\u2019d say maybe tighten that aspect up a bit but if you like smart home stuff, this works great.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "seth shapiro",
+      "helpful_votes": 0,
+      "publication_date": 20200428
+    },
+    {
+      "title": "Disappointed. I purchased my window coverings specifically so I ...",
+      "text": "Disappointed. I purchased my window coverings specifically so I could use this product, which included an upgrade of motor to Somfy, which has a reputation for being the best. I had customer service on the phone, and they were great-too bad the product isn't. They basically said I would have to purchase one of these for each room! An expensive proposition. I wish I had known that earlier.",
+      "rating": 2.0,
+      "verified": true,
+      "author": "Amazon Customer",
+      "helpful_votes": 3,
+      "publication_date": 20160617
+    },
+    {
+      "title": "stay away and save your money, time and frustration if you have an Android phone",
+      "text": "I have an android smartphone, HTC. This product will not work with it and after spending time with a tech there learned that they have compatibility issues with lots of Android devices. If you are purchasing it for use with an Android device, then you may have issues. They say it works with Apple products.",
+      "rating": 3.0,
+      "verified": true,
+      "author": "dusty",
+      "helpful_votes": 0,
+      "publication_date": 20190925
+    },
+    {
+      "title": "easy set up",
+      "text": "This was easy to set up to use with our motorized blinds and outdoor screens. It works great with the I-phone and the price was 50% less on Amazon than the blind company wanted for the exact same product.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Donna",
+      "helpful_votes": 0,
+      "publication_date": 20190819
+    },
+    {
+      "title": "Good concept - spotty reliability.",
+      "text": "Works pretty well but we have multiple shades and it doesn't handle custom groups reliably. For example I have 3 shades in a group in the same room more-or-less equidistant from this transmitter and often only 2 actually move at the scheduled time. They seem to go up more reliably than they go down. I have not contacted the manufacturer to help resolve given the other reviews about them being hard to reach.",
+      "rating": 3.0,
+      "verified": true,
+      "author": "M. Palmer",
+      "helpful_votes": 2,
+      "publication_date": 20161104
+    },
+    {
+      "title": "Works great with Google Home Products!",
+      "text": "Love this product able to link google home Nest to control my blinds, make sure you are up to speed on program knowledge to link programs- lots of videos to reference on Somfy site. IFTTT. Would like to see this later be used on multiple devices!",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Gary O",
+      "helpful_votes": 0,
+      "publication_date": 20200624
+    },
+    {
+      "title": "often falling into sleep with not response",
+      "text": "I have been using this for months, all is fine, but this device often falls into sleeping status with no response, the green light would be off too, you have pull it off the plug and put it back to wake it up, not sure what is issue. Other than that, all is fine, but it often falls into sleep like every couple of hours, which is really annoying--I had to either use the original remote or unplug and plug the device. not sure if anyone is having the same issue or just mine?",
+      "rating": 4.0,
+      "verified": true,
+      "author": "Minle Z.",
+      "helpful_votes": 0,
+      "publication_date": 20191014
+    },
+    {
+      "title": "Annoying setup but now I don't want to miss it anymore!",
+      "text": "I love to sleep in a pitch dark room with my Somfy motorized blackouts and be woken up by sun and daylight. This device works well with your phone once you successfully complete the setup (it took me more than 5 attempts on two different phones). It works well and the only downside is, when you have a scene scheduled like opening the shades MON-FRI at 7:20AM, it'll only work if your phone remains connected to WiFi / it won't open while the phone is in flight mode = the device doesn't have any memory and is a simple (and expensive) transmitter. But well...I'd buy it again.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Torsten E. Maehle",
+      "helpful_votes": 0,
+      "publication_date": 20190627
+    },
+    {
+      "title": "Alexa. Tell my link to open shades. !!!  What!?!??",
+      "text": "Watch video with sound on. These shades went from cool. To awesome. My whole new house I\u2019m building was completely automated through amazon. I love this new tech.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Super dad ",
+      "helpful_votes": 0,
+      "publication_date": 20181110
+    },
+    {
+      "title": "Works but a overpriced for what it does",
+      "text": "Works great but over priced for what it can do. Also I was hoping it can be controlled when I\u2019m away from home but I have to be on my WiFi network to use it so it\u2019s really no different than the remote control. I\u2019m sure someone will say it is possible to control away from home but it would require an additional tool to access your home network when away from home.",
+      "rating": 3.0,
+      "verified": true,
+      "author": "Justin",
+      "helpful_votes": 0,
+      "publication_date": 20191215
+    },
+    {
+      "title": "Poor product",
+      "text": "A pretty average product. The iOS app is one of the worst you're likely to experience. If you use Ubiquiti unifi network gear you will spend hours trying to get the MyLink to stay connected. This is unfortunately a known problem. I've suffered through this and have a somewhat reliable connection now, but it was a painful journey. If you're looking for a gateway for home automation I'd recommend the Somfy RTS II gateway with an iTach IP to serial adaptor.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "Jonathan Clarke",
+      "helpful_votes": 0,
+      "publication_date": 20190620
+    },
+    {
+      "title": "We have fun trying to guess which blind will decide to not ...",
+      "text": "This product is not reliable. I have 5 blinds programmed and set on schedules. I tell it to do everything twice set about 5 minutes apart. We have fun trying to guess which blind will decide to not go up or down as randomly it changes. It is not a range issue as one is right next to the mylink and often it does not move. I have redone the programming and groups several time. All blinds work perfect from a hand held remote so it seems to be a Mylink issue.",
+      "rating": 2.0,
+      "verified": true,
+      "author": "Fred",
+      "helpful_votes": 3,
+      "publication_date": 20160703
+    },
+    {
+      "title": "Just doesn\u2019t work",
+      "text": "Returned first unit and second had same problem. Tried three different WiFi networks and this ridiculous cheap plastic box won\u2019t connect.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "James C.",
+      "helpful_votes": 2,
+      "publication_date": 20181208
+    },
+    {
+      "title": "It works but not great.",
+      "text": "I like being able to set automated scenes App is a bit clunky It doesn\u2019t indicate if shades are up or down. Doesn\u2019t work with Apple HomeKit.",
+      "rating": 3.0,
+      "verified": true,
+      "author": "Petesdesk",
+      "helpful_votes": 2,
+      "publication_date": 20190503
+    },
+    {
+      "title": "Amazon Alexa skill needs the extra \"Ask MyLink\" prefix",
+      "text": "It could be a legit \"Smart Home\" device by making the Amazon Alexa Skill expose a device instead of the lazy way in which this is done right now. if it was exposing an actual smart home device to Alexa, we could ask \"Alexa, lower the shades\" and it would work. With this I have to say \"Alex, ask MyLink to lower the shades\"",
+      "rating": 1.0,
+      "verified": true,
+      "author": "Mohsen A.",
+      "helpful_votes": 0,
+      "publication_date": 20191224
+    },
+    {
+      "title": "Not Ready for prime time! Waste of money",
+      "text": "Don\u2019t waste your money on this. I set up all types of smart home devices and this was a nightmare. Once installed it never worked properly. We ended up returning it because it doesn\u2019t meet expectations. I\u2019ll wait for a better and cheaper product.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "Ellen ",
+      "helpful_votes": 0,
+      "publication_date": 20201020
+    },
+    {
+      "title": "Easy setup and integrate with Alexa",
+      "text": "It is easy to setup. Seamless integration with Alexa. Unfortunately can not integrate with google home .",
+      "rating": 4.0,
+      "verified": true,
+      "author": "Lee Chi-Han",
+      "helpful_votes": 0,
+      "publication_date": 20200222
+    },
+    {
+      "title": "Useful phone control of your blinds over WiFi",
+      "text": "With this you can control your blinds with your phone over WiFi no matter where you are. Now if they would only integrate Amazon Alexa devices. Caution: set up easy following the simple instructions, but be sure you get the blinds to toggle when entering programming (copy) mode.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Robert",
+      "helpful_votes": 0,
+      "publication_date": 20170827
+    },
+    {
+      "title": "overpriced",
+      "text": "this doesnt connect to alexa but it does what is suppose to",
+      "rating": 3.0,
+      "verified": true,
+      "author": "Francesco Cannavo",
+      "helpful_votes": 0,
+      "publication_date": 20191107
+    },
+    {
+      "title": "dont buy",
+      "text": "the device would not connect to my network. I tried for weeks to get it to connect. i finally did and then the awning wouldnt connect. i wasted so much time trying to get it to work that the return period ended and now I am stuck with a useless product",
+      "rating": 1.0,
+      "verified": true,
+      "author": "jeffnel",
+      "helpful_votes": 0,
+      "publication_date": 20200402
+    },
+    {
+      "title": "Great when it works",
+      "text": "Great when it works, which is most of the time. Sometimes it only raises some shades, sometimes it gets all of them. Could be my placement but I doubt it, it's only 20' or less away from 5 of the shades it sometimes fails on.",
+      "rating": 4.0,
+      "verified": true,
+      "author": "fastrnu",
+      "helpful_votes": 0,
+      "publication_date": 20161127
+    },
+    {
+      "title": "Earlier versions of Somfy have really bad instructions and can be very very confusing to set ...",
+      "text": "Earlier versions of Somfy have really bad instructions and can be very very confusing to set up. Once you have it going, its pretty good.",
+      "rating": 3.0,
+      "verified": true,
+      "author": "cp_lin",
+      "helpful_votes": 0,
+      "publication_date": 20171119
+    },
+    {
+      "title": "Total garbage product",
+      "text": "Piece of garbage... I\u2019ve tried 3 now and never can connect or good connection... this company is a joke and has no customer service to even guide or trouble shoot",
+      "rating": 1.0,
+      "verified": true,
+      "author": "ajcoh1984",
+      "helpful_votes": 0,
+      "publication_date": 20191112
+    },
+    {
+      "title": "Awesome!! My plants will love the morning sunrise everyday without any effort :)",
+      "text": "I\u2019m not sure why so many people had difficulty setting this device up. I have five shades connected and scenes/schedules created in less than 20 minutes. Awesome product and now I don\u2019t have to worry about my plants not getting the morning sunrise.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Amazon Customer",
+      "helpful_votes": 0,
+      "publication_date": 20190117
+    },
+    {
+      "title": "myLink controller and app are garbage with no support",
+      "text": "Avoid Somfy. Absolute garbage. Their app is terrible, the myLink doesn't work, and the tech support is non-existent. I have $70k of home automation equipment in my home, with no problems... until Somfy. I should have read the reviews.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "Andrea",
+      "helpful_votes": 0,
+      "publication_date": 20191221
+    },
+    {
+      "title": "DONT WASTE TIME OR MONEY.",
+      "text": "Absolutely would not connect. Called Somfy and spoke to Steve who just did not want to bother, he said without any discussion that it would not work an f... off. I wish I got different blinds.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "alice",
+      "helpful_votes": 0,
+      "publication_date": 20190729
+    },
+    {
+      "title": "So Easy",
+      "text": "This is probably the easiest device/app I've ever set up. Plug it in, download the app, follow the prompts and it all works. Scheduling is easy and flexible.",
+      "rating": 4.0,
+      "verified": true,
+      "author": "Gary W",
+      "helpful_votes": 0,
+      "publication_date": 20190415
+    },
+    {
+      "title": "Works perfectly!",
+      "text": "Just set this up with 3 separate Somfy motors and I have to say it works perfectly. The set up wizard will guide you through the steps to get connected and it is a very easy process. So far it works as stated. I set up a schedule to automatically open and close my shades which is the main reason I purchased this. The only negative (which is not an issue for me but may be for others), the app does not tell you if the shades are up or down (open or closed). I have not experienced any other issues with this product.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Blue",
+      "helpful_votes": 0,
+      "publication_date": 20160822
+    },
+    {
+      "title": "Not user friendly.",
+      "text": "We can\u2019t get it programmed properly. Even after watching countless YouTube videos on how to set this up.",
+      "rating": 3.0,
+      "verified": true,
+      "author": "Sumit Patel",
+      "helpful_votes": 0,
+      "publication_date": 20180127
+    },
+    {
+      "title": "Good luck!",
+      "text": "Didn\u2019t work. Couldn\u2019t update firmware. Tried 2.4ghz and both 5ghz networks, and nothing. Looked through the app logs and saw lots of 401 and 503 error codes trying to access their API. :/",
+      "rating": 1.0,
+      "verified": true,
+      "author": "Tim Stevens",
+      "helpful_votes": 0,
+      "publication_date": 20190522
+    },
+    {
+      "title": "great complement to ennable Alexa and phone sopport",
+      "text": "easy to install. total compatibility with Alexa and other home automation systems.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Andres Vasquez",
+      "helpful_votes": 0,
+      "publication_date": 20190812
+    },
+    {
+      "title": "Great product",
+      "text": "I read all the reviews, not sure what everyone was concerned about... This thing works fantastic right out of the box. It is like any other Alexa enabled device... Speak clearly and she may just answer you right the first time",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Amazon Customer",
+      "helpful_votes": 0,
+      "publication_date": 20190313
+    },
+    {
+      "title": "Simple set up and works as described",
+      "text": "Had a small amount of apprehension prior to ordering after reading some of the reviews, but I will say completely unfounded. Within 10 minutes of unboxing I had it set up with 5 different scenes and 4 time events programmed. Honestly could not be easier.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Amazon Customer",
+      "helpful_votes": 0,
+      "publication_date": 20180620
+    },
+    {
+      "title": "Save your money, product is not ready for primetime.",
+      "text": "This product ultimately does not work. I had it professionally installed by a retailer that sold me the somfy blinds. After about 2 days half the blinds would go up, a quarter would go up half way and the final quarter would not go up at all. We tried to set the blinds up on a schedule, and after navigating the confusing interface, still never got the blinds to synchronize. I called the installer and he confirmed that this is a problem with this product. We agreed its not ready for primetime.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "LTDandCGD",
+      "helpful_votes": 13,
+      "publication_date": 20160307
+    },
+    {
+      "title": "Works exactly as expected",
+      "text": "Easy to setup. It took a couple of extra minutes to get the Somfy WiFi setup to connect, but playing with the settings did the trick. In less than 10 minutes, MyLink was up and running and controlling my awning.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "southbev",
+      "helpful_votes": 0,
+      "publication_date": 20180925
+    },
+    {
+      "title": "Does not work, no support at all",
+      "text": "I purchased this to complement my home automation project, the app does not connect to my device at all. I tried getting in touch with their customer support but there was not response, I didn't get to use it as intended.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "Dar",
+      "helpful_votes": 0,
+      "publication_date": 20191029
+    },
+    {
+      "title": "Does not work with Alexa",
+      "text": "It does not work with Alexa. It\u2019s just straight up false advertising. I\u2019m very tech savvy, the problem is not user error. If you\u2019re getting this to control your blinds with Alexa like I did... don\u2019t.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "mohammad alavi",
+      "helpful_votes": 0,
+      "publication_date": 20191014
+    },
+    {
+      "title": "Could not connect to the internet",
+      "text": "No instruction sent with the product, after calling tech support found out that the system cannot be easily set up, you have to involve internet provider (for me Spectrum) to allow system to access.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "Amazon Customer",
+      "helpful_votes": 0,
+      "publication_date": 20200131
+    },
+    {
+      "title": "easy to set up",
+      "text": "I've set up 3 different systems in my neighborhood with the same lanai hurricane shades. All work perfectly, easy to set up, no problems at all. If you aren't slightly tech savy you might have a rough time though.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "ronbo747",
+      "helpful_votes": 0,
+      "publication_date": 20180624
+    },
+    {
+      "title": "Love it!",
+      "text": "Was able to set it up with relative ease (HINT: make sure you really have the correct password for your network) and now am enjoying the automated schedule for my blinds!!",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Terri",
+      "helpful_votes": 0,
+      "publication_date": 20190919
+    },
+    {
+      "title": "Range could be an issue",
+      "text": "I had to Finns the optimal position for this to work consistently with groups of blinds. However, once i found that location this now works consistently to open the blinds and close them simultaneously on a schedule.",
+      "rating": 4.0,
+      "verified": true,
+      "author": "Valigirl",
+      "helpful_votes": 0,
+      "publication_date": 20160720
+    },
+    {
+      "title": "Review",
+      "text": "No, I was sent a device that was broken. Although it was replaced caused lots of trouble. The item worked, but when you shared it it sounded like a rattle. I think it was a used item.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "Ann",
+      "helpful_votes": 0,
+      "publication_date": 20200113
+    },
+    {
+      "title": "Five Stars",
+      "text": "worked as it should and now I wake up to my blackouts rolling up automatically :)",
+      "rating": 5.0,
+      "verified": true,
+      "author": "MiguelB",
+      "helpful_votes": 0,
+      "publication_date": 20180530
+    },
+    {
+      "title": "Awesome!",
+      "text": "Awesome product! I set all of my blinds to open at sunrise and that works better than an alarm clock",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Kris",
+      "helpful_votes": 0,
+      "publication_date": 20181219
+    },
+    {
+      "title": "Five Stars",
+      "text": "It does what it is meant to do. A bit expensive though",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Bond",
+      "helpful_votes": 0,
+      "publication_date": 20170301
+    },
+    {
+      "title": "Not work with new Bali blinds",
+      "text": "This did not work with my new Bali blinds that have Somfy parts and remotes. Customer service was no help",
+      "rating": 1.0,
+      "verified": true,
+      "author": "Amazon Customer",
+      "helpful_votes": 0,
+      "publication_date": 20180621
+    },
+    {
+      "title": "Excellent product. Easy to setup and use after watching ...",
+      "text": "Excellent product. Easy to setup and use after watching the Somfy online video tutorials. Will likely decrease my energy costs significantly.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Curtis D.",
+      "helpful_votes": 2,
+      "publication_date": 20151018
+    },
+    {
+      "title": "The first one I received was defective so I returned it but now I am happy with it",
+      "text": "This device does work. The first one I received was defective so I returned it but now I am happy with it.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Sam",
+      "helpful_votes": 0,
+      "publication_date": 20151006
+    },
+    {
+      "title": "Would love if it integrated to homekit etc eco system",
+      "text": "I was skeptical but it seems to work as advertised. Would love if it integrated to homekit etc eco system.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "TJ",
+      "helpful_votes": 0,
+      "publication_date": 20170930
+    },
+    {
+      "title": "Works great, once configured (30 mins configuration for 4 devices)",
+      "text": "Works great, once configured (30 mins configuration for 4 devices), make sure that you are getting Rev2.0 of the product not the legacy one.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Tarek Eletr",
+      "helpful_votes": 0,
+      "publication_date": 20170412
+    },
+    {
+      "title": "This wireless app sucks. Once a channel is programmed",
+      "text": "Agree with the other 1-stars. This wireless app sucks. Once a channel is programmed, it's impossible to change or erase. I even used the reset feature but still random blinds are attached to a channel (from previous programming) and there is no way to fix it. Now my bedroom and one kitchen blind are grouped together. The scheduled is not reliable. I had to program myself because our somfy shade installers had no clue how to program the mylink. All and all, this is a BIG disappointment. We spent over $12K on somfy blinds for our house, and I would not recommend. That experience has been horrible, and this wireless feature is no exception.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "Fishiv",
+      "helpful_votes": 10,
+      "publication_date": 20160329
+    },
+    {
+      "title": "Awesome product! I've been waiting for something like this",
+      "text": "Awesome product! I've been waiting for something like this. I have an electric external solar screen that I needed to be able to open and close remotely. My Link did the trick plus gave me the capability to schedule the opening & closing of it. I have the app installed on both my iphone & my ipad. Super great customer service will walk you through any issues you have. Easy to set up for non-tech savvy people like me. I highly recommend the Somfy My Link.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Kathy K.",
+      "helpful_votes": 0,
+      "publication_date": 20150801
+    },
+    {
+      "title": "Easy to install, easy to program, easy to use",
+      "text": "After getting an estimate for nearly $1,000 to have our outdoor patio sunshades connected onto our Control 4 home automation system, I discovered this $200 option. Ordered it on Saturday and received it on Sunday morning--thanks to free 1-day shipping through Amazon Prime. Took all of 10 minutes to program and have up and running. The MyLink app is very simple and easy to use. Now, the blinds automatically lower at 3 pm and raise at 8 pm every day.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "MLR",
+      "helpful_votes": 0,
+      "publication_date": 20160704
+    },
+    {
+      "title": "nice party trick, but poor functionality",
+      "text": "While the idea behind the product is sound, the execution is flawed. When I push the button from my iPad to lower, raise, or halt the shade it takes a few seconds to register with the motor. If I would like to stop the shade halfway down, by the time it registered that I pushed the button to stop, it would already be fully unrolled. And this is only when it works. Sometimes I'll issue a command from the app and it won't even register with the shade. They functionality of the MyLink and the app don't come close to replacing the remotes the shade comes with. I hope the functionality improves with subsequent updates.",
+      "rating": 2.0,
+      "verified": true,
+      "author": "David Friedkin",
+      "helpful_votes": 4,
+      "publication_date": 20150925
+    },
+    {
+      "title": "Too clumsy to use. Went with the insteon version ...",
+      "text": "Too clumsy to use. Went with the insteon version instead. Link is here:",
+      "rating": 2.0,
+      "verified": true,
+      "author": "J",
+      "helpful_votes": 0,
+      "publication_date": 20170922
+    },
+    {
+      "title": "Doesn't work!",
+      "text": "Doesn't work at all. Very disappointed. Probably going to return it too. Not worth the cost.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "KER",
+      "helpful_votes": 2,
+      "publication_date": 20160227
+    },
+    {
+      "title": "signal strength operating multiple shades",
+      "text": "The range is very bad if you are trying to control multiple shades. Any building interference affects the signal.",
+      "rating": 3.0,
+      "verified": true,
+      "author": "Jeff Yarbrough",
+      "helpful_votes": 5,
+      "publication_date": 20150525
+    },
+    {
+      "title": "Don't waste your money",
+      "text": "Dumb! Not smart at all! Alexia raised the bar and this app is a poser.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "SteveP",
+      "helpful_votes": 0,
+      "publication_date": 20160421
+    },
+    {
+      "title": "Spotty operation",
+      "text": "Works in a very spotty fashion, it works for 1 day then doesn't work. The schedule works almost never. Good idea, but not so good of product",
+      "rating": 1.0,
+      "verified": true,
+      "author": "Apple Guru",
+      "helpful_votes": 0,
+      "publication_date": 20151223
+    }
+  ],
+  "product_meta": {
+    "title": "Somfy MyLink RTS Smartphone and Tablet Interface/WiFi to Radio Technology Control Blinds with phone!(MPN #1811403)",
+    "description": "Add smartphone/tablet remote control to all of your Somfy RTS motorized devices (sold separately) with the Somfy myLink RTS Smartphone and Tablet Interface. Designed to work with the free Somfy myLink app for iOS and Android, this plug-in module works as a simple signal converter. It receives your app commands over Wi-Fi and transmits the equivalent RTS signals to your RTS devices. The app works even when you're away from home, so you can control your motorized shades, blinds, and more from anywhere you have an Internet connection. The Somfy myLink Interface is designed for quick DIY setup. Just plug the module into a standard power outlet and use the app's on-screen setup wizard to add the module to your home network. Once the interface module is connected to Wi-Fi, you can easily add your RTS devices to the app interface. About the myLink App: Available through the Apple and Google Play stores, the Somfy myLink app gives you complete control over your RTS devices, organized by room in your app's interface. The app supports up to 5 channels, so you can control up to 5 individual RTS devices OR groups of multiple RTS devices. You can also create scenes and schedules directly through the app. If you need to control more than 5 groups of RTS devices, you can use multiple Somfy myLink Interfaces together. Each additional interface will add 5 more channels. CONTENTS: myLink Interface Module, Quick Start Guide. NOTE: RTS devices sold separately. Requires a wireless router and Internet service.",
+    "rating": 3.6,
+    "feature_bullets": [
+      "Adds smartphone/tablet control to RTS devices via free app",
+      "Free app works with iOS and Android mobile devices",
+      "Control 5 individual RTS devices or groups of devices",
+      "Create and activate scenes and schedules",
+      "Easy setup, just plug in and connect to your network"
+    ],
+    "specifications": {
+      "Manufacturer": "Somfy",
+      "Part Number": "FBA_1811403",
+      "Item Weight": "6.4 ounces",
+      "Product Dimensions": "2 x 2 x 4 inches",
+      "Item model number": "FBA_1811403",
+      "Is Discontinued By Manufacturer": "No",
+      "Color": "White",
+      "Item Package Quantity": "1",
+      "Batteries Included?": "No",
+      "Batteries Required?": "No",
+      "ASIN": "B00USMNUI4",
+      "Customer Reviews": "3.6 out of 5 stars201 ratings3.6 out of 5 stars",
+      "Best Sellers Rank": "#46,894 in Tools & Home Improvement",
+      "Date First Available": "March 17, 2015"
+    },
+    "categories": [
+      "Home Automation Devices",
+      "Tools & Home Improvement",
+      "Electrical",
+      "Hubs & Controllers"
+    ],
+    "price": 196.49
+  }
+}

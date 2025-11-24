@@ -1,0 +1,376 @@
+{
+  "website_summaries": [
+    {
+      "verdict": "Synology's tiny DiskStation DS414slim is a compelling NAS for home and SOHO users who want to protect their data at a reasonable price. If performance is paramount, however, there are speedier options out there.",
+      "pros": [
+        "Affordable, four-drive NAS",
+        "Multiple RAID options",
+        "Excellent remote access",
+        "Very good fault tolerance"
+      ],
+      "cons": [
+        "Some UI compatibility issues with Internet Explorer 11",
+        "UI froze a few times in our tests",
+        "RAID volume rebuild can be fairly slow",
+        "Average read/write performance"
+      ],
+      "aspects": {},
+      "publication_date": 20141027,
+      "rating": 7.0,
+      "source": "pcmag"
+    }
+  ],
+  "customer_reviews": [
+    {
+      "title": "Great NAS for a beginner",
+      "text": "This is our first NAS device and setting it up was a breeze. Plug the power and ethernet into the wall, go to find.synology.com, and boom, we were up in <5 minutes. It took about 10 minutes to update software but at no point was I lost in the process. I purchased 4x2.5\" WD 1TB Red Drives to pop in and they were already configured for SHR-1 (which is what I was planning on using anyways). I love the small size and the 2.5\" drives since they take up so much less space. Highly recommended.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "R&D",
+      "helpful_votes": 6,
+      "publication_date": 20150814
+    },
+    {
+      "title": "Great low power NAS",
+      "text": "This is an absolutely great low power, tiny NAS. It does not compete with the average sized 4-5 bay NAS that are more powerful media center oriented NASs. This one, however, sips power and is very frugal. Sure you can't put ultra large capacity HDDs in there, but it will happily take 2TB Samsung spinpoint 2.5\" 9.5mm HDDs. I have not seen my electricity bill increase in the slightest since I installed it. I believe this NAS is rated between 11-15 W of power draw; not bad...",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Eric",
+      "helpful_votes": 25,
+      "publication_date": 20141010
+    },
+    {
+      "title": "A very compact file storage box with RAID",
+      "text": "The main reason to chose Synology over other brands is their software (in my opinion). This is the third unit I have purchased, so you can call me a fan. Within the Synology line, consider this unit is for its small size and cuteness. It uses laptop drives (or, preferably WD red 2.5\" drives). This makes it very compact and a bit quieter than units using 3.5\" drives. Each drive fits into a caddy on the back of the unit. The caddies are not screw-less as you might expect, but plenty of screws are included and installation is easy.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Mark THOMPSON",
+      "helpful_votes": 0,
+      "publication_date": 20161005
+    },
+    {
+      "title": "Good product for a small space",
+      "text": "Looking for a NAS I end up buying this model because it's small and I wanted that feature over another ones. Works fine, the DSM O.S. seems fine too and has a lot of features and apps to add to the system. Pros: 2 gigabit NICs, small, a lot of features, leds to advise on errors, not noisy. Cons: Sata II, slow raid procedures timings like checking parity and syncing, only 512 ram (but for now, seems it is not a problem really).",
+      "rating": 4.0,
+      "verified": true,
+      "author": "Gustavo Spadari",
+      "helpful_votes": 0,
+      "publication_date": 20180402
+    },
+    {
+      "title": "More than a NAS.",
+      "text": "It's more than a NAS. There are many apps available for download. Most useful for me is the surveillance app. My old Android devices again has purpose as surveillance cameras. FTP and other protocols are also in the options ready to be activated. Note that it can only use 8 cameras for its surveillance app. Two are free and ready to use out of the box. The other six licenses are needed to be bought from online sellers.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "EdA",
+      "helpful_votes": 2,
+      "publication_date": 20151018
+    },
+    {
+      "title": "Synology products rock!",
+      "text": "I purchased this NAS device to replace an aging DROBO unit I've had for about 5 years. It is a much more mature, flexible, and easy to manage product. I have tested it for about a month now and am very impressed with it's quality and the broad variety of software services available on it. I subsequently ordered another, larger, and more powerful unit to run a number of software services on it. (Look out DVD's, VHS tapes, and audio disks. You are going in a box in the attic as soon as I can get you ripped onto this device.)",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Paul Richmond",
+      "helpful_votes": 0,
+      "publication_date": 20151215
+    },
+    {
+      "title": "Garbage due to planned obsolescence",
+      "text": "The interface is SO slow now, it's unusable. Synology's business model clearly includes planned obsolescence. I won't be buying another product from this sham of a company.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "JF",
+      "helpful_votes": 0,
+      "publication_date": 20190303
+    },
+    {
+      "title": "Nothing but Synology for me",
+      "text": "I have used Iomega and Buffalo in the past. The past three NAS devices have been Synology. Features, manageability, and performance are excellent. If you plan on using many features together, just know that the CPU and RAM makes a huge difference in performance. When in doubt, go with the better hardware.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "cruisin'",
+      "helpful_votes": 0,
+      "publication_date": 20160102
+    },
+    {
+      "title": "Like all Synology units",
+      "text": "Like all Synology units, this one is great. I tried an experiment of actually placing this unit on the INSIDE of a large Corsair case on top of a drive cage and securing it and then running a cat5e cable in back of the mobo and out a specially made slot for an add-on card. Similar working around for the power. The only problem would be if there was a fire and the whole thing burned up. This unit comes with the full Disk Station Manager software that would cost more than the unit and drives combined so is great to play with and use as a local NAS and use another one elsewhere for very important things...",
+      "rating": 5.0,
+      "verified": true,
+      "author": "HENRY B. ROSE",
+      "helpful_votes": 0,
+      "publication_date": 20150321
+    },
+    {
+      "title": "I love my NAS",
+      "text": "I love my NAS, installed 4 Seagate 2TB drives and have had this bad boy up and running with link aggregation for the double 1GB/s connections since day 1. It does exactly what it's supposed to and has all the awesome stuff that makes a synology great.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Joel Heiner",
+      "helpful_votes": 0,
+      "publication_date": 20160116
+    },
+    {
+      "title": "It works well!",
+      "text": "it works well, nice GUI, and it is actually quite fast even though it has only 1 cpu core. The Quickconnect feature allows connection from outside, without doing any port forwarding, and this is a really nice feature. The Download station works quite well too. The Video station allows you to download subtitle right when viewing the movie, this is a really convenient feature. I prefer this over my older model QNAP TS219.",
+      "rating": 4.0,
+      "verified": true,
+      "author": "Cheng Jang Ming",
+      "helpful_votes": 2,
+      "publication_date": 20150414
+    },
+    {
+      "title": "Excellent, Fast, Quiet",
+      "text": "Excellent NAS. Ideal to mount WD Red 1To hard drives for a Raid 1. Quiet, no sound at all, really surprising. The speed is excellent and the dual LAN aggregation makes it a must. I was considering a DS214 and finally made a good choice for 4 slots!",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Ben",
+      "helpful_votes": 13,
+      "publication_date": 20150111
+    },
+    {
+      "title": "Whats good about this is that it uses laptop hard drives",
+      "text": "Whats good about this is that it uses laptop hard drives, they seem to stay cooler and last longer than their 3.5 in cousins. It would be better if they used a stronger cpu. I get near 100 percent cpu usage while transferring files vs their 415+ model.",
+      "rating": 3.0,
+      "verified": true,
+      "author": "kevinD",
+      "helpful_votes": 9,
+      "publication_date": 20150509
+    },
+    {
+      "title": "Another highly recommended Synology product!",
+      "text": "Synology is great! They make great quality products and stand by them with great support and software updates. I bought this one to back up a six year old Synology that may be nearing end-of-life. This is surprisingly small and relatively fast. I would highly recommend this to my friends.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "MATTHEW A KENDALL",
+      "helpful_votes": 0,
+      "publication_date": 20150716
+    },
+    {
+      "title": "Great solution!",
+      "text": "I'm new to network attached storage but found the set-up and operation of the Synology NAS very simple. I bought it primarily to store my music and movie files which I run through a Plex Media Server on a new Mac Mini. It all works as advertised and I couldn't be happier with my purchase.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "H. C. Harless",
+      "helpful_votes": 0,
+      "publication_date": 20151029
+    },
+    {
+      "title": "Best home network storage I've used",
+      "text": "This is now the heart of my home services. It has my movies (ripped from DVD); desktop backups; music; etc. Very solid and easy to use interface.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Aaron Sherman",
+      "helpful_votes": 0,
+      "publication_date": 20151218
+    },
+    {
+      "title": "User friendly",
+      "text": "Good product and super easy to set up. I wish I had waited a week because the new version came out just after I bought this one, but it's still very nice.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "PrimeGuy",
+      "helpful_votes": 0,
+      "publication_date": 20160408
+    },
+    {
+      "title": "Great device, great feature set!",
+      "text": "Easy to setup, frequent, beneficial updates, very useful software and easy to manage. Great performance and overall fantastic device, you won't be disappointed. I'm using WD RED drives, but will change to SSD's when the cost comes down.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Campmaster Tom",
+      "helpful_votes": 0,
+      "publication_date": 20150720
+    },
+    {
+      "title": "I It seems it is a great machine.",
+      "text": "I am still downloading files but, I It seems it is a great machine.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Hratch L. Azadian",
+      "helpful_votes": 0,
+      "publication_date": 20150415
+    },
+    {
+      "title": "Perfect purchase. Building a local network storage solution should ...",
+      "text": "Perfect purchase. Building a local network storage solution should be on everyone's list. Easy to setup and use across all devices",
+      "rating": 5.0,
+      "verified": true,
+      "author": "notronwest",
+      "helpful_votes": 0,
+      "publication_date": 20161017
+    },
+    {
+      "title": "Five Stars",
+      "text": "Love the software that opens up the capability of the unit!",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Howard",
+      "helpful_votes": 0,
+      "publication_date": 20150613
+    },
+    {
+      "title": "more than expected",
+      "text": "Very easy set up..drive install was piece of cake.I acc an IT professional but anyone could do this. Had to do some reading on the raid configuration as it uses a variation on raid 6 b but allows for drives of various sizes..which is pretty cool",
+      "rating": 5.0,
+      "verified": true,
+      "author": "tim vance",
+      "helpful_votes": 0,
+      "publication_date": 20150301
+    },
+    {
+      "title": "So far I like the NAS",
+      "text": "So far I like the NAS. Probably should have gotten the model above it with more RAM (at least 1GB). Overall good purchase.",
+      "rating": 4.0,
+      "verified": true,
+      "author": "Brandon Curry",
+      "helpful_votes": 2,
+      "publication_date": 20150223
+    },
+    {
+      "title": "Four Stars",
+      "text": "Easy setup, and quiet, but the hardware could use an upgrade.",
+      "rating": 4.0,
+      "verified": true,
+      "author": "Scott",
+      "helpful_votes": 2,
+      "publication_date": 20150816
+    },
+    {
+      "title": "Five Stars",
+      "text": "Works better that I expected, super quiet! Great cloud support!",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Carlos del Risco",
+      "helpful_votes": 0,
+      "publication_date": 20160118
+    },
+    {
+      "title": "Awesome device. Dual nics",
+      "text": "Awesome device. Dual nics, small foot print. easy to setup, and quiet. This little guy was worth the money.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "adamaod",
+      "helpful_votes": 2,
+      "publication_date": 20150908
+    },
+    {
+      "title": "Five Stars",
+      "text": "great home office raid NAS solution. Easy to configure, easy to integrate with AD server.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Steve Edwards",
+      "helpful_votes": 0,
+      "publication_date": 20151021
+    },
+    {
+      "title": "I should have purchased a larger unit!",
+      "text": "It is the simplest device i have EVER used. Easy to set up. Easy to add drives. love it!",
+      "rating": 5.0,
+      "verified": true,
+      "author": "jscottjr",
+      "helpful_votes": 0,
+      "publication_date": 20150903
+    },
+    {
+      "title": "A nice improvement over its predecessor",
+      "text": "A nice improvement over its predecessor. My one complaint over the DS1411slim was that it had a hard time handling high bitrates as a media server on occasion. This version is improved over the predecessor in that regard. Additionally, the software seems more stable. As a sidenote, I am using a crucial 240 gig SSD, which was not on the list of recommended drives but seems the working well.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Juan F.",
+      "helpful_votes": 15,
+      "publication_date": 20140817
+    },
+    {
+      "title": "Excellent value",
+      "text": "Set up in a snap; intuitive to navigate, configure, and \"leave be\" in the background; fairly quiet.",
+      "rating": 4.0,
+      "verified": true,
+      "author": "Dan Chen",
+      "helpful_votes": 5,
+      "publication_date": 20141202
+    },
+    {
+      "title": "good unit - fan runs more than I expected.",
+      "text": "Could have been 5 stars, but am surprised the fan runs as often as it does, considering I loaded this with 4 SSDs. Must be the smaller size of the fan vs. my larger Synology boxes. I've set the fan to run minimally as needed, but it kicks on coming out of sleep mode?",
+      "rating": 4.0,
+      "verified": true,
+      "author": "gd",
+      "helpful_votes": 2,
+      "publication_date": 20150114
+    },
+    {
+      "title": "Flexible, Powerful and easy to configure",
+      "text": "I read a number of reviews and was concerned about the level of tech knowledge I would need. I read one comment that you had to be familiar with Linux. I am fairly technical so I wasn't concerned. The latest software was a breeze not only to setup but also to enable remote access via my Netgear N900 router. Everything was menu/wizard driven.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "David Price",
+      "helpful_votes": 32,
+      "publication_date": 20140702
+    },
+    {
+      "title": "Received it quick. Installation and setup were done in ...",
+      "text": "Received it quick. Installation and setup were done in just a few minutes!",
+      "rating": 4.0,
+      "verified": true,
+      "author": "DarthVarner",
+      "helpful_votes": 0,
+      "publication_date": 20140911
+    },
+    {
+      "title": "This offers no transcoding capabiltities so I returned it and ...",
+      "text": "This offers no transcoding capabiltities so I returned it and got the DS214play instead so I can stream movies to my Roku with transcoding support.",
+      "rating": 2.0,
+      "verified": true,
+      "author": "C. A. Reiley",
+      "helpful_votes": 4,
+      "publication_date": 20150113
+    },
+    {
+      "title": "Five Stars",
+      "text": "So far so good.. easy to install drives and it just keeps on working .. and working..",
+      "rating": 5.0,
+      "verified": false,
+      "author": "donald johnson",
+      "helpful_votes": 4,
+      "publication_date": 20140804
+    }
+  ],
+  "product_meta": {
+    "title": "Synology Disk Station 4-Bay Network Attached Storage (DS414slim)",
+    "description": "Synology Disk Station DS414slim is designed to provide the utmost fun and security while occupying minimal space. Its compact body is equipped with Synology Disk Station Manager's full range of features: multimedia entertainment, cross-platform sharing, comprehensive backup solutions - and much more.",
+    "rating": 3.8,
+    "feature_bullets": [
+      "Small Footprint NAS Designed for 2.5\" HDD/SSD",
+      "CPU with Floating-Point Unit Boosting Working Efficiency",
+      "Dual LAN with Failover and Link Aggregation Support",
+      "Energy-Efficient with Easy Fan Replacement Design",
+      "Running on Disk Station Manager",
+      "Small Footprint NAS Designed for 2.5\" HDD/SSD",
+      "CPU with Floating-Point Unit Boosting Working Efficiency",
+      "Dual LAN with Failover and Link Aggregation Support"
+    ],
+    "specifications": {
+      "Brand": "Synology",
+      "Item model number": "DS414slim",
+      "Item Weight": "4 pounds",
+      "Product Dimensions": "10 x 10 x 6 inches",
+      "Item Dimensions  LxWxH": "10 x 10 x 6 inches",
+      "Computer Memory Type": "DDR3 SDRAM",
+      "Manufacturer": "Synology America",
+      "ASIN": "B00KXQD7WY",
+      "Is Discontinued By Manufacturer": "No",
+      "Date First Available": "June 10, 2014",
+      "Customer Reviews": "3.8 out of 5 stars53 ratings3.8 out of 5 stars",
+      "Best Sellers Rank": "#547 in Computer Network Attached Storage"
+    },
+    "categories": [
+      "Data Storage",
+      "Computers & Accessories",
+      "Electronics",
+      "Network Attached Storage"
+    ],
+    "price": ""
+  }
+}

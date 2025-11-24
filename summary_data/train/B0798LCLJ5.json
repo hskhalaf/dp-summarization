@@ -1,0 +1,965 @@
+{
+  "website_summaries": [
+    {
+      "verdict": "Sensor tech and built-in Alexa access make this an intriguing smart switch -- we just wish it'd dim the lights.",
+      "pros": [
+        "Ecobee's smart switch is relatively easy to install, and it includes built-in sensors for motion and ambient light that you won't find in competing switches from WeMo or Lutron",
+        "It's compatible with IFTTT, SmartThings and all major voice platforms, and even has Alexa built in"
+      ],
+      "cons": [
+        "The Switch Plus won't dim the lights, and it won't work in three-way switch setups where more than one switch is wired to the same light",
+        "It also won't work as an external temperature sensor for Ecobee thermostats until a software update arrives this summer"
+      ],
+      "aspects": {
+        "Features": 7.0,
+        "Usability": 8.0,
+        "Design": 8.0,
+        "Performance": 7.0
+      },
+      "publication_date": 20180313,
+      "rating": 7.5,
+      "source": "cnet"
+    }
+  ],
+  "customer_reviews": [
+    {
+      "title": "Slow and buggy",
+      "text": "Sometimes it is pretty slow to respond. The blue light will be on and it understood what you asked but it sits for 5+ seconds before executing. All my other Echo devices are executing in about 1 second or less. Loses my internet connection daily and can\u2019t figure out how to fix itself without a reboot.",
+      "rating": 2.0,
+      "verified": true,
+      "author": "Scott K",
+      "helpful_votes": 15,
+      "publication_date": 20180331
+    },
+    {
+      "title": "Not ready",
+      "text": "I had high hopes for the ecobee switch as I use two ecobee thermostats and control everything in my house with Alexa but sadly it is just not ready for mass market. First off if you have automatic radio channels enabled on your router (like any modern day network defaults to) stop right there. You will have to disable your 5G or rename it just to get it to connect! Second no dimming support! Seriously? Third the mounting plate is so thick, it won\u2019t fit under a normal face plate with other switches. Fourth, I had read you can use the switch as a sensor for your thermostat but they have yet to add support for it.",
+      "rating": 2.0,
+      "verified": true,
+      "author": "Travis M.",
+      "helpful_votes": 4,
+      "publication_date": 20180808
+    },
+    {
+      "title": "Poor Alexa Integration",
+      "text": "After buying into the Alexa world, I decided to replace by Ecobee3 thermostats with the Ecobee4 version to have the Alexa integration. That integration is BAD. Probably because there is some additional step that Ecobee needs to take that Amazon products (like Echo Dots) do not, the Alexa commands are hit and miss and not a reliable option. Why I ever decided to buy the Switch+ (knowing this about the Ecobee4) is beyond me now. So, know that this product has extremely poor Alexa integration. With three of these around my house, I can safely say that no one should buy it for Alexa use. The motion detection and light control are really the only positives here.",
+      "rating": 3.0,
+      "verified": true,
+      "author": "FunShop",
+      "helpful_votes": 3,
+      "publication_date": 20190116
+    },
+    {
+      "title": "Alexa integration need some serious work.",
+      "text": "All of the reviews of Alexa being basically useless are true. The room this in has a a wifi access point about 6 feet away in line of sight and Alexa still has multiple errors and failure to process requests. Good news, you can just use Google assistant on your phone and it can control the switch more efficiently.",
+      "rating": 2.0,
+      "verified": true,
+      "author": "AHC",
+      "helpful_votes": 3,
+      "publication_date": 20200229
+    },
+    {
+      "title": "It just doesn\u2019t last",
+      "text": "Product arrived without any issues and I had it professionally installed by an electrician. Connection was simple and while the microphone didn\u2019t pick up voice from as far away as one is normally used to with any Alexa device, it worked fine. The problem is that it lasted less than one month before it went dead. I called the electrician again to see if it was something with the connection but it wasn\u2019t, so I have a total expense of about $300 for something that worked for a total of 27 days. I think it\u2019s a great idea but the product is not strong enough for the cost it has.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "MCP",
+      "helpful_votes": 3,
+      "publication_date": 20190405
+    },
+    {
+      "title": "Does not work as in room thermostat",
+      "text": "Just a heads up for everyone purchasing this switch I just installed 3 of these today and the thermostat feature was not working, I contacted Ecobee support to find out that the integration feature was pulled back as they had issues with it, and do not know if it will ever work and do not have any answers. I asked when they may know for sure when they will have an answer and was told they will contact me and if I do not hear from anyone call back in a month. After spending close to $800 I am not very happy at this time, I was about to purchase 4 more of these switches glad I did not.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "reena",
+      "helpful_votes": 3,
+      "publication_date": 20190728
+    },
+    {
+      "title": "Lacks critical features",
+      "text": "It does a lot of things but falls short on too many for me. I returned it. The main no go for me was the lack of drop-in calling, I wanted to be able to use it as a intercom replacement. The good: Motion sensing General Alexa usage like timers, voice control of home, plays music Fit well with my Lutron Casetta and GE-Jasco zwave switches Hopeful about: Should get temperature and presence sensing soon. What I couldn't get past: Can't join music groups Can't drop-in, call, or leave messages \"yet\" Can't control duration lights stay on after presence is sensed.",
+      "rating": 3.0,
+      "verified": true,
+      "author": "CharlesF",
+      "helpful_votes": 2,
+      "publication_date": 20180329
+    },
+    {
+      "title": "Best and smartest, smart lightswitch yet!",
+      "text": "Hpw many light switches do you have that you can talk to? This switch can be controlled by voice using the Alexa integration. It can also tell you the weather, play music and anything else alexa can do. It can also be controlled by the ecobee app on your phone and by various other home automation controllers. It has a built in night light and motion sensor that can be used to automatically turn it on and off. If you have an ecobee thermostat, you will be able to use it as a remote temperature sensor with a future firmware upgrade. It's a lightswitch and so much more.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "B",
+      "helpful_votes": 4,
+      "publication_date": 20180422
+    },
+    {
+      "title": "Not ready for prime time",
+      "text": "This switch sometimes goes completely offline (so far it has done it twice now), and the only way to get it back up is to flip the breaker. It has difficulty \"hearing\" Alexa commands. It does NOT function as a room temperature sensor at this time. No idea why they released the product in this condition. Should've gotten a cheaper switch and an Amazon Echo.",
+      "rating": 2.0,
+      "verified": true,
+      "author": "Kosoku",
+      "helpful_votes": 2,
+      "publication_date": 20190830
+    },
+    {
+      "title": "Included when purchased Ecobee, not worth the hassle.",
+      "text": "Some good, some bad. Had to reset several times to try and get the thing working correctly. The motion sensor is finicky. Sometimes it seems to work, other times doesn't. Doesn't matter conditions (light in room or not). Lights will suddenly come on and stay on. Even during the daytime with light coming through window. The \"alexa\" capability is limited and honestly not worth the additional money the light switch costs you. My GE lightswitch and smartthings sensor do a much better job then this. It doesn't have a temperature sensor so no real use with the Ecobee. Would never purchase this as a stand alone device. Way better options out there.",
+      "rating": 2.0,
+      "verified": true,
+      "author": "RPK",
+      "helpful_votes": 0,
+      "publication_date": 20191210
+    },
+    {
+      "title": "Almost happy with it ....",
+      "text": "Overall it works, however it has moments where it's offline or it develops an attitude. It was detected by smart things however it wasn't smooth. Would I purchase again... probably not I would go with a smart things switch and an alexa device.",
+      "rating": 4.0,
+      "verified": true,
+      "author": "Euriska",
+      "helpful_votes": 3,
+      "publication_date": 20191122
+    },
+    {
+      "title": "Very disappointing, lacks features",
+      "text": "I feel duped. All this is good for is a push button light switch. It has zero benefit with the ecobee thermostat. You\u2019d assume at least it would be a temperature sensor paired with the thermostat. Nope. Or maybe sync it\u2019s Alexa functionality with a speaker as a group like all other Alexa devices. Nope. And the microphone practically needs to be yelled at to wake up. All my other devices have been totally fine and I feel like I spent $75 to downgrade my smart home. This product needs the features you assume it would have at this price and branding of ecobee.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "Amazon Customer",
+      "helpful_votes": 2,
+      "publication_date": 20190909
+    },
+    {
+      "title": "Easy installation, setup",
+      "text": "This switch does what it claims and does it well. Installation was a breeze and if unsure, you can always revert back to their video step-by-step instructions. Pros: Easy installation, setup, and configuration. Features work as advertised. Alexa integration is great. Cons: Though not advertised, there's no dimming option. There's no way to disabled auto-on during set hours, this means if you use the feature in a bedroom, lights will come on throughout the night as you toss and turn in bed. Let's hope these features are eventually integrated. Also, the drop-in skill would be great. Overall, its a great product, with excellent support. Ecobee is always responsive if you need assistance.",
+      "rating": 4.0,
+      "verified": true,
+      "author": "Amber Olsen",
+      "helpful_votes": 0,
+      "publication_date": 20180407
+    },
+    {
+      "title": "Good for single gang use, works great in the bathroom",
+      "text": "Pigtails make the wiring really easy. The mounting tabs at the top and bottom of the switch are very thick. Is you use this in a single gang box with the included trim plate, this won\u2019t be an issue, but if used in a multi-gang box then the trim plate will stick out from the wall. I may need to file it down to improve the fit. Bought this together with the Ecobee Smart Thermostat basically for free during a sale. I use this in my bathroom, and I like the convenience of having Alexa in the bathroom without having to sacrifice an outlet or counter space to fit another device. The nightlight feature also works well.",
+      "rating": 4.0,
+      "verified": true,
+      "author": "Sea Panther",
+      "helpful_votes": 0,
+      "publication_date": 20200112
+    },
+    {
+      "title": "Good motion sensing light, needs bluetooth",
+      "text": "Relatively easy to install if you have a neutral wire. Small enough to fit into a standard size rectangle box. Alexa works pretty well but I do have to yell at it. Sound quality is actually pretty good for a light switch but otherwise a bit tinny. I really wish it had Bluetooth to play music on a bluetooth speaker. That would be pretty sweet. Sometimes the settings made on the app like inactivity timeout don't always get through and you'll wonder why your light is on at midnight. Running the app a second time usually solves it.",
+      "rating": 4.0,
+      "verified": true,
+      "author": "Robert M. Kinstle III",
+      "helpful_votes": 0,
+      "publication_date": 20200321
+    },
+    {
+      "title": "Not a room sensor. Don\u2019t buy for that reason!!",
+      "text": "Bought this primarily as an additional sensor to my ecobee. Yes, it\u2019s a light switch. But if I wanted a motion detecting light switch I would have bought one at Home Depot for $20-30. I was sold when I read almost two years ago that it could be used as a room sensor. Fast forward to today and I\u2019m still being told it\u2019s coming. I stopped holding my breath. It\u2019s not coming.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "Kim Rudolph",
+      "helpful_votes": 2,
+      "publication_date": 20190801
+    },
+    {
+      "title": "Great switch for garage",
+      "text": "This has been a great switch for my garage. I use the photo sensor feature to automatically turn on my lights when I enter the garage and they then turn off after a couple of minutes (can be changed). The sensor works well so if you are working in garage, light will stay on. Also, because this has Alexa built in, I can use it to access Alexa. All in all an excellent device. Easy to install. I do not have it connected to my thermostat yet, nor will I because of it being in garage, but it fulfills all my needs without being used as another thermostat point.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Bob",
+      "helpful_votes": 0,
+      "publication_date": 20190508
+    },
+    {
+      "title": "Great features/needs special wiring",
+      "text": "I purchased this for the integrated Alrxa and well as hands-free automatic lighting. It's great! It turns the lights on by motion sensor even when my hands are full. It is a tad too sensitive though being triggered by the wind blowing the trees. I use Alex's intercom feature ALL THE TIME! I am disabled and it helps me communicate with my husband in other parts of our home.Unfortunately, my electrician had to run a new line, because I didn't have the wired necessary,",
+      "rating": 4.0,
+      "verified": true,
+      "author": "Sheryl",
+      "helpful_votes": 2,
+      "publication_date": 20181103
+    },
+    {
+      "title": "The first switch having a constant high pitches humming sound like a subwoofer with a grounding issue",
+      "text": "This is a first generation product with first generation problems. It has design shortcomings, technical issues and manufacturing issues. I purchased three switches. Two out of the three have issues. The first switch having a constant high pitches humming sound like a subwoofer with a grounding issue. The second switch would turn in the lights at random times with no movement in the room. I double-checked the switch that would turn on at random times by placing an ecobee 4 sensor next to it. The ecobee 4 sensor saw no movement. In both cases, support is issuing a replacement. It\u2019s been three weeks and still waiting for my replacement. Fail, Fail, Fail!!!",
+      "rating": 1.0,
+      "verified": true,
+      "author": "W. Ching",
+      "helpful_votes": 0,
+      "publication_date": 20180513
+    },
+    {
+      "title": "Overall I love the Switch+",
+      "text": "Overall I love the Switch+. The features are awesome, especially now that they added the \"do not disturb\" feature for the motion sensor. I do agree that they still have some kinks to work out such as the delay for Alexa to respond, but there is a huge potential for this product. Also, can't wait for them to implement the temperature sensor feature for their thermostats. This is MUCH better than having a separate Echo Dot in all of our rooms, and works awesome to replace the zigbee/wifi switches I already had.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Paul A Rehm",
+      "helpful_votes": 0,
+      "publication_date": 20180620
+    },
+    {
+      "title": "Disappointed",
+      "text": "Very disappointed with this switch :( I have an Ecobee thermostat and was excited by the fact that I wouldn\u2019t need yet another app for a new smart devise.... but I have all but given up on the built in Alexa, so basically I spent a ton of $ on a motion switch with auto-off. I am constantly having to restart the switch in order to get Alexa to respond to either voice command or the push button on top of the switch.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "Chris Marchini",
+      "helpful_votes": 0,
+      "publication_date": 20200922
+    },
+    {
+      "title": "Light switch with alexa",
+      "text": "Had problem with initial install and had to reset breaker to work. Good range on mic for Alexa commands when it worked. Had several faults but restored itself. Like automatic on when near switch. Only works on single pole like replacement switches. Limited places where can install. Have several rooms with combination light and fan control switches. The Alexa feature is non functional now after 6 months of use. I downgraded my rating from 4 to 2. I contacted support spent 45 minutes trying to get fixed no luck. Told me to initialize on WiFi router \u2014 no luck.",
+      "rating": 2.0,
+      "verified": true,
+      "author": "Smokey Stover",
+      "helpful_votes": 0,
+      "publication_date": 20181003
+    },
+    {
+      "title": "A very good light switch that could be great",
+      "text": "This is a very good light switch. It can be controlled and automated in some very easy and simple steps. The price is a bit on the high side but you can easily recoup that on your energy savings. Think no more empty kids room with lights on all day long. However, I would strongly suggest for ecobee to add motion sensor zone management. This would allow users to manage the reach of the motion sensor, and prevent the light to be turned on when people walk by a room but doesn't get inside the room.",
+      "rating": 3.0,
+      "verified": true,
+      "author": "Marco",
+      "helpful_votes": 0,
+      "publication_date": 20190208
+    },
+    {
+      "title": "Switch+ is the \"swiss army knife\" of smart switches. Great product.",
+      "text": "I have been using this switch for almost a month, and have been very pleased with it. Installation was very easy for me, ecobee provides help via their app, if needed. WIFI, Ecobee, SmartThings, and Alexa syncing were easily accomplished within minutes. The motion sensor works well, nightlight feature is great, and the sound is better than expected for such a small device.The Switch+ has been a great addition to my smart home, and I am looking forward to more features being added through updates coming soon.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Jeff",
+      "helpful_votes": 0,
+      "publication_date": 20180423
+    },
+    {
+      "title": "You can't control the lights by talking to it. Waste of money.",
+      "text": "Extremely unimpressed with this switch. The whole reason we bought it was to be able to voice control the lights in our bedroom but it's like we paid $90 for a echo dot that is in the wall. It won't connect to the ecobee thermostat in the house for temperature control and you can't voice control the lights. It has a motion sensor for lights but since it is for the bedroom and we don't want to wake up the other person sleeping by getting out of bed that is off too. Just get another dot and light switch to connect to it. It's cheaper and more effective.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "K. Wolff",
+      "helpful_votes": 0,
+      "publication_date": 20181216
+    },
+    {
+      "title": "Love!",
+      "text": "I think it\u2019s great. Easy to set up if you make sure you have all the wires required. I had an ecobee thermostat prior. (Which is also easy to add to my smartphone via the app). You can change the time frame for when it turns off after it turns on after finding movement in the room! I change the time to a shorter frame and it works great. Love that I don\u2019t have to turn it on because I forget you have to press it vs a switch. Having an Alexa in my kitchen that I can use to set a timer is wonderful. If I had more rooms I use more freuqeuntly I would buy another.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "P. Taft",
+      "helpful_votes": 0,
+      "publication_date": 20190121
+    },
+    {
+      "title": "Great feature set, but motion sensor very slow to react",
+      "text": "I bought this switch to replace an older non-WiFi Motion Sensing light switch that was not happy being in a gang box with WiFi switches (causing false triggers). As a motion sensing switch, I am impressed with Ecobee\u2019s feature set and ease of use, but the main feature I\u2019m looking for (motion sensing) is incredibly slow to react. Since I\u2019m so new to the product, I\u2019m going to continue using it to see how it goes after a little bit of time, but would love to see a firmware update that addresses the speed of its motion sensitivity.",
+      "rating": 2.0,
+      "verified": true,
+      "author": "Adam R",
+      "helpful_votes": 0,
+      "publication_date": 20200423
+    },
+    {
+      "title": "Works pretty well. Sound is pretty good",
+      "text": "Works pretty well. Sound is pretty good. Does a good job of voice activation for the light that it is hooked up to. It is pretty straightforward to install. I like it but it is a bit expensive so just keep that in mind and that is primarily the reason I took one star away. So far not a lot of capability outside of dusk till dawn automatic lights and automatic nightlight. Both functions you can turn on and off. Nevertheless, I think it is pretty good. Like others said, the sound quality is not bad for a tiny speaker in a light switch.",
+      "rating": 4.0,
+      "verified": true,
+      "author": "Amazon Customer",
+      "helpful_votes": 0,
+      "publication_date": 20180419
+    },
+    {
+      "title": "Awesome switch with the Queen of smart home, Alexa",
+      "text": "Love this new switch for our guest bathroom. Set it up as an occupancy sensor for auto on/off for the bathroom light. Tried Alexa and was surprised how well it works in a tiny device. The voice is clearly heard, even music was loud and adequate for a small guest bathroom. No issues with nearby Alexa devices. Love it so much that I will put one in every bathroom in our home. I had trouble setting up WiFi for the switch, using my iPhone X. Tried it several times and not sure what happened. I then tried it with my iPad and works fine. I need to set it up with HomeKit later too. Heard it was easy as well.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "HLN",
+      "helpful_votes": 0,
+      "publication_date": 20180723
+    },
+    {
+      "title": "Cool but does not do everything that amazon devices can do",
+      "text": "Very cool smart switch that has a built in night light and proximity sensing. We received as a gift and installed immediately. The instal was fairly simple and the integration to Alexa was easy. The switch integrates several of the Alexa features but does not support most routines ( will do some voice based routines) as well as drop in and cannot be integrated into device / music groups. There is no amazon branded switch that is comparable so I wish it was able to do the same features.",
+      "rating": 4.0,
+      "verified": true,
+      "author": "NWH",
+      "helpful_votes": 0,
+      "publication_date": 20190101
+    },
+    {
+      "title": "I like the switch with the Alexa feature",
+      "text": "I like the switch with the Alexa feature, but do not expect a lot of information either written or on their app regarding setting the switch up. I had to install a range extender in order to have full operation of Alexa (even though I have camera's streaming just fine in the same area), plus the ability to program the on/off operation of the switch is very limited compared to the versatility of the routines and SmartApps in SmartThings. Internal motion detector works great, but it does not appear to give you access as a trigger for other SmartThing devices. Product has potential but it is not there yet.",
+      "rating": 3.0,
+      "verified": true,
+      "author": "Babs",
+      "helpful_votes": 0,
+      "publication_date": 20180518
+    },
+    {
+      "title": "Doesn\u2019t integrate with smart home hubs.",
+      "text": "It\u2019s easy to install and has built in Alexa. So far so good. But, the Alexa integration is anemic. Setting a reminder e.g. doesn\u2019t work. We have it installed by the front door and would like to say \u2018remind me at 7pm to...\u2019 - doesn\u2019t work. Worst thing is, is doesn\u2019t integrate with anything. Anemic IFTT, no wink. You can\u2019t have the motion sensor trigger a video, or do other things. So, it\u2019s pretty isolated to the ecobee app - a big letdown if you want to do actual smart home automation. Smarthings allegedly works but only as a switch and not a sensor.",
+      "rating": 2.0,
+      "verified": true,
+      "author": "Stefan Piesche",
+      "helpful_votes": 0,
+      "publication_date": 20190816
+    },
+    {
+      "title": "Cool on paper, unusable in practice",
+      "text": "After owning it for a while the constant wifi connectivity problems make it basically unusable. I'm getting 1 in 4 of my requests at best being processed correctly with 5-15 second lockouts between attempts. Even \"stop\" isn't reliably honored. It only registers as a light switch in smartthings so you can't use its motion sensor or thermostat. Alexa integration is barely better since it can't be added to speaker groups. Maybe other ecobee products are good. This isn't one of them.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "James Endicott",
+      "helpful_votes": 0,
+      "publication_date": 20200103
+    },
+    {
+      "title": "Misleading marketing",
+      "text": "I\u2019ve never written a review before. I\u2019m so disappointed in the switch. I feel deceived. The only reason I purchased it was for the temperature sensor (I got a great deal on the switch in conjunction with some promos that I couldn\u2019t get on an actual room sensor)... which isn\u2019t available yet, even though marketing makes it very easy to mistake that it is. Ecobee has been promising to push the software update for this feature for over a year. Give me a break. Also the built in Alexa is a joke. Look elsewhere at better prices, better functioning smart switches",
+      "rating": 2.0,
+      "verified": true,
+      "author": "SarahB",
+      "helpful_votes": 0,
+      "publication_date": 20190719
+    },
+    {
+      "title": "Works great - I am really pleased",
+      "text": "I am really pleased with this Switch - perfect for the kids bathroom where they constantly were moving various Alexa devices in there to listen to. We\u2019ve always had motion sensing light switches to reduce the constant \u201cleaving the lights on\u201d issue - this switch sensed motion at night and turns off after 15 min. The sound/volume is fine - not quiet but not loud (just as I\u2019d expect). Price is a little steep but this actually really works well for this household. Installation was fairly easy - no different then swapping out any other light switch. I had no issues with getting the app to see the switch (iPhone). Great product - may get another.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Todd A",
+      "helpful_votes": 0,
+      "publication_date": 20180417
+    },
+    {
+      "title": "The Switch+ is great in several ways",
+      "text": "The Switch+ is great in several ways. I'll use it to ask Alexa to get the weather. That is about the extent of my Alexa usage on it. I love how it will quickly turn lights on and off by hitting the button/switch. All other 'smart' switches have a very noticeable delay. I also take full advantage of the sensor to turn on the light when there is motion. This is probably one of my favorite features. It is very snappy to sense and turn on the light.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "OICU812",
+      "helpful_votes": 0,
+      "publication_date": 20180427
+    },
+    {
+      "title": "Not worth the current price",
+      "text": "At $90, it leads people to assume there's a lot it can do. But it's simply a smart switch with built-in Alexa, and when you look at it like that, it's about 50% overpriced. For my purposes, I'd relatively satisfied. It's a smart switch with a motion sensor, and has Alexa built into it. I have it near a work bench, and it's really become very useful in that location. I like it, but it's far too expensive for what it is.",
+      "rating": 3.0,
+      "verified": true,
+      "author": "sw",
+      "helpful_votes": 0,
+      "publication_date": 20181210
+    },
+    {
+      "title": "Neat switch, works pretty well",
+      "text": "So far, I like this fairly well. I use it in my study and I play the radio on it when I'm in there. I like the auto on and auto off features. I'm also looking forward to it being enabled as a room sensor for my thermostat with the next update release. I'm deducting one star because I frequently have to say \"Alexa\" loudly multiple times to get it's attention. More sensitive microphones would be great. Otherwise, it works as expected.",
+      "rating": 4.0,
+      "verified": true,
+      "author": "MattH007",
+      "helpful_votes": 0,
+      "publication_date": 20180906
+    },
+    {
+      "title": "New kind of motion sensor switch",
+      "text": "Had a really old motion sensor in the garage that wasn't working anymore. Decided to look at this switch because we already had ecobee thermostat. Installation and setup took less than 10 minutes. Love the smart features, too. Going to get another one for a different location in the house.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Rick Barreto",
+      "helpful_votes": 0,
+      "publication_date": 20200401
+    },
+    {
+      "title": "Literally 0 problems, works great",
+      "text": "We got this as a Christmas present for our son. He loves it. I installed it with no issues, and got it setup within a few minutes. He uses it everyday to turn the light on/off and ask Alexa things. Alexa will hear him and respond even if he's not in the room. It seems to work very well for us over the last 3 months.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Justin Van Alstyne",
+      "helpful_votes": 0,
+      "publication_date": 20190305
+    },
+    {
+      "title": "switch works, but lack of 3-way install is a problem",
+      "text": "lack of 3 way installation serverly limits install options. as my home has all 3 way switches there was no place to install it so had to send it back. i love the thermostat, it's great. if they come out with another switch with a 3 way function, then i'll buy it but otherwise this is going back to amazon.",
+      "rating": 3.0,
+      "verified": true,
+      "author": "Chuck T",
+      "helpful_votes": 0,
+      "publication_date": 20190104
+    },
+    {
+      "title": "Ecobee is the company to watch in the smart home space",
+      "text": "It\u2019s good but worth waiting for version 2.0. The hardware or process spends to much time thinking before giving a response. That despite being in a home with excellent WiFi and speedy connection to the internet. Also the night light is only high or off. It\u2019s not possible to reduce its intensity",
+      "rating": 3.0,
+      "verified": true,
+      "author": "A. K. K. Sheibany",
+      "helpful_votes": 0,
+      "publication_date": 20180730
+    },
+    {
+      "title": "It is good but you have to have patience!",
+      "text": "The product is good, but I think the Alexa's version built in, must be so old because it works similar to my 1st Alexa's Amazon Echo, and in another hand... Despite these devices (I have 3 of them) are in my network, they don't have integration or communication with my other two Amazon echo, sometimes when we speak to it, it shows an orange light indicating it doesn't have Internet connection.",
+      "rating": 3.0,
+      "verified": true,
+      "author": "Richard Pati\u00f1o",
+      "helpful_votes": 0,
+      "publication_date": 20200214
+    },
+    {
+      "title": "Not working properly",
+      "text": "My ecobee light switch was installed and it worked fine, now it is turning the ligh that it is connected to on its own. I command it to turn the light off, and it works and then at some point it just turns the lights on and they dont go off without another command, but stay off only for a short period of time...If anyone knows why let me know....",
+      "rating": 1.0,
+      "verified": true,
+      "author": "Patti English",
+      "helpful_votes": 0,
+      "publication_date": 20190715
+    },
+    {
+      "title": "Doesn't work as a room sensor",
+      "text": "The Alexa integration is better than stated (routines and Pandora work even though they're not supposed to), but the wifi connection is flaky and it still doesn't work as an Ecobee room sensor even though that feature was supposed to happen last summer (2018).",
+      "rating": 3.0,
+      "verified": true,
+      "author": "Navarre",
+      "helpful_votes": 0,
+      "publication_date": 20190609
+    },
+    {
+      "title": "love ecobee and their products",
+      "text": "You can never go wrong with Ecobee. Super easy to install. Does the same as Nest but much more affordable. I just wish it also worked as a dimmer. My girlfriend now has some company in the kitchen, and i dont even need to be there",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Tom",
+      "helpful_votes": 0,
+      "publication_date": 20180720
+    },
+    {
+      "title": "False advertisment so far",
+      "text": "I am giving this one star due to the fact that the temperature sensor is not functional, even though this was supposed to be available in 2018. Also, seems they are unable to even respond to a question as to when this is to be expected. Will adjust this review is the situation changes.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "charles eric starkey",
+      "helpful_votes": 0,
+      "publication_date": 20190225
+    },
+    {
+      "title": "Not ready and needs work to improve Alexa experience",
+      "text": "Pros: Attractive looking device. Physical installation was relatively easy. Great night light functionality. Responsive while using app for on/off functionality. Cons: Alexa does not work well at all. If you speak a command, even as simple as what time is it, it will think for 10 seconds and advise it is having problems more than 9 out of 10 times. Considering this is the primary reason I tried one of these over a WeMo switch (which I have several), this has been highly disappointing. I am hoping this issue gets fixed. I am feeling the pain of being an early adopter and wish I had waited until the kinks get worked out.",
+      "rating": 2.0,
+      "verified": true,
+      "author": "Amazon Customer",
+      "helpful_votes": 0,
+      "publication_date": 20180421
+    },
+    {
+      "title": "Almost perfect",
+      "text": "I received this as a gift. It\u2019s main advantage for me is that it does not require a a fourth wire (neutral wire). It works perfectly for what I wanted. Now what I would like is this switch without \u201cAlexa\u201d built in with a cheaper price. I already have enough echos I do not need one in the switch. Then add dimming and that switch would be 5 stars.",
+      "rating": 4.0,
+      "verified": true,
+      "author": "GaryK",
+      "helpful_votes": 0,
+      "publication_date": 20190104
+    },
+    {
+      "title": "An attempt was made",
+      "text": "Unit can not be used as a temp sensor for the ecobee thermostats. The speaker is audible. Alexa cannot hear you over the speaker tho. Motion sensor works well. After reading about this switch and contacting their customer support, it seems like they had good intentions when they released this product but were never able to develop it like they wanted. They tried to get the temp sensor to work but never made it happened then gave up. (Short hand summery of what their support told me). I think they tried to pack to much into a single device. I only bought it because it was half price and i have ecobee thermostats already. Buyer beware",
+      "rating": 1.0,
+      "verified": true,
+      "author": "Amazon Customer",
+      "helpful_votes": 0,
+      "publication_date": 20200207
+    },
+    {
+      "title": "great product",
+      "text": "had trouble setting up because my house wiring was incorrect. If you have a neutral wire the instructions are clear. I had to have an electrician repair the original location, and he set this up in a different \"correctly wired\" switch. I love the convenience and the nite light motion sensor. Got me addicted to \"Alexa\" and voice activated controls.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Howard Spencer",
+      "helpful_votes": 0,
+      "publication_date": 20190313
+    },
+    {
+      "title": "The everything switch!",
+      "text": "I bought 2 of these today from Best Buy. I love them. I just bought 3 more from Amazon this evening. They connected very easily. They quickly discovered my ecobee Thermostat and tantan smart plugs. The little speaker is remarkably capable. I really like the night light feature. This thing has all bases covered - it's a motion sensor, an occupancy sensor, voice activated, seemingly full Alexa capabilities, and if you'd like an old fashioned push button switch!",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Dennis Ballin",
+      "helpful_votes": 0,
+      "publication_date": 20190212
+    },
+    {
+      "title": "Love it",
+      "text": "Installed it today, absolutely love it. Connected it to Alexa and works great. Very happy with the product.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Wil - Connecticut",
+      "helpful_votes": 2,
+      "publication_date": 20180403
+    },
+    {
+      "title": "Just buy the Alexa and a compatible light switch",
+      "text": "This product works sometimes and sometimes it don\u2019t. When Alexa is engaged it is hard to stop. You have to yell in order for it to stop and sometimes it doesn\u2019t respond. In the meantime, your other Alexa in the house hear the command from the other room now it\u2019s talking. The switch has a night light on it and it detects motion and comes on automatically but when you have the lights off and trying to enjoy a movie and you so happen to stretch the light is coming on. Overall, the light is ok to have but glitches need to be fixed.",
+      "rating": 2.0,
+      "verified": true,
+      "author": "John C. Davis",
+      "helpful_votes": 0,
+      "publication_date": 20200614
+    },
+    {
+      "title": "Just buy the regular Alexa",
+      "text": "When it works it\u2019s great for most of the time it doesn\u2019t and it overheats and some of them you hear a humming noise kind of scary to think he can cause a fire from overheating and this is not coming from just buying one it\u2019s from buying multiple",
+      "rating": 3.0,
+      "verified": true,
+      "author": "Amazon Customer",
+      "helpful_votes": 0,
+      "publication_date": 20200612
+    },
+    {
+      "title": "Excellent Smart Light Switch",
+      "text": "I had a little bit of trouble with the setup of this, but the Ecobee Support is excellent, and they walked me right through it. Ends up it was my fault, as I had forgot to complete one step in the setup.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Gordon",
+      "helpful_votes": 0,
+      "publication_date": 20200403
+    },
+    {
+      "title": "Basic Alexa functions, but no drop-in support",
+      "text": "There need to be clear warnings in the description for this device alerting potential buyers to the fact that it does not support the full set of Alexa features. No drop-in support means you cannot use this as an intercom. If all you want is the ability to turn a light on and off, and check the weather or other basic Alexa skills, this is a decent device, but if you want to integrate a room with your Alexa ecosystem, get an Echo Dot instead, as this device lacks key features.",
+      "rating": 2.0,
+      "verified": true,
+      "author": "Steven K",
+      "helpful_votes": 0,
+      "publication_date": 20190107
+    },
+    {
+      "title": "Easy to setup",
+      "text": "Easy to setup, electrical install was straightforward, built-in Alexa was a selling point. Don\u2019t setup using HomeKit if you also use Alexa, do the eco bee in-app setup first and then HomeKit",
+      "rating": 5.0,
+      "verified": true,
+      "author": "J.T. Sodano",
+      "helpful_votes": 0,
+      "publication_date": 20190305
+    },
+    {
+      "title": "Works well with Alexa",
+      "text": "With the sale price that includes motion, timer, and Alexa, its a great product. Keep in mind the wifi is not that strong so you will want to make sure have have a strong wifi signal.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "ReviewPlus",
+      "helpful_votes": 0,
+      "publication_date": 20200526
+    },
+    {
+      "title": "not worth it",
+      "text": "complete waste of time, and now it's annoying. it is an always on listening device in my living room, which alone makes me regret my decision. now, it's even better! Now it randomly hears something and starts talking in my living room while I'm watching tv and I can't seem to find a way to deprogram it, and will have to waste an afternoon wiring a standard wifi switch in.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "Bryant Marx",
+      "helpful_votes": 0,
+      "publication_date": 20190828
+    },
+    {
+      "title": "No Dim feature, Does not work as thermostat sensor, Alexa does not recognize it as a switch.",
+      "text": "I had to bridge the switch through Smart Things for the Alexa App to see it as an actual switch, does not have a dim feature which was surprising given the price. Still does not function as a sensor for my Ecobee thermostat which is a major let down. I also have to speak very loud for Alexa to her me.",
+      "rating": 3.0,
+      "verified": true,
+      "author": "Dana Barker",
+      "helpful_votes": 0,
+      "publication_date": 20181209
+    },
+    {
+      "title": "Would buy again",
+      "text": "Great idea. Disconnects at times. Very random. But not too often. By biggest gripe is it can\u2019t do group music or announcements. That needs to be fixed, hopefully in an update. Very attractive looking in my wall",
+      "rating": 4.0,
+      "verified": true,
+      "author": "Q",
+      "helpful_votes": 0,
+      "publication_date": 20190524
+    },
+    {
+      "title": "Only thing missing is Bluetooth",
+      "text": "After a quick update all problems were fixed.. the only thing i Dislike about it now is you cant connect external speakers With bluetooth. It worth the purchase if you have a need and don't need Bluetooth",
+      "rating": 4.0,
+      "verified": true,
+      "author": "David",
+      "helpful_votes": 0,
+      "publication_date": 20200316
+    },
+    {
+      "title": "Great switch, needs more features enabled.",
+      "text": "This is a great switch. I have an ecobee 3 thermostat, so I bought this to enchance the temperature sensor. I'm disappointed that they still haven't enabled this feature. The ecobee website says the temperature feature is coming soon, but not soon enough if you ask me. The switch works well with my Alexa (Echo Dots) and SmartThings powered smart home.",
+      "rating": 4.0,
+      "verified": true,
+      "author": "CMac",
+      "helpful_votes": 0,
+      "publication_date": 20190226
+    },
+    {
+      "title": "Worth the money.",
+      "text": "The first one I installed took about half the estimated time as I ended I needing to go over the instructions. The second switch took only about 2 minutes. The overall function of this switch became far more useful than what I expected and the largest downfall to this product other than price is how addictive it can be causing lust to have them for every switch.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Kenith Reed",
+      "helpful_votes": 0,
+      "publication_date": 20190903
+    },
+    {
+      "title": "Mess up with my entire wifi network",
+      "text": "Got this with the Ecobee thermostat, but is awful, As soon as I connected my entire wifi network stopped working correctly, the rest of the smart devices were often unresponsive, I even bought a new wifi router and I had the same problems, finally I\u2019ve removed this and the wifi started working correctly again, the device must interfere with the signal or something, don\u2019t recommend buying this at all, I\u2019ll stick with the tplink switches and the dots",
+      "rating": 1.0,
+      "verified": true,
+      "author": "Pablo",
+      "helpful_votes": 0,
+      "publication_date": 20200105
+    },
+    {
+      "title": "Smart switch that works with other devices! No dimmer though",
+      "text": "Another great product from Ecobee! I have the thermostat and decided to give this switch a try. I'm satisfied! The built-in Alexa is a plus while the motion detection is very convenient. On top of that, this thing works with SmartThings so this works as a switch which can be programmed with other devices in the SmartThings network. The only thing to improve with this is to support dimming and multi switches.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "DiLioPi",
+      "helpful_votes": 0,
+      "publication_date": 20180513
+    },
+    {
+      "title": "Light doesn't work with alexa",
+      "text": "Terrible. Barely works with Alexa, and even worse. The light won't even turn in when you tell it to turn in. It says the device isn't compatible with Alexa. I like other functions. But it doesn't do what it was purchased to do.",
+      "rating": 2.0,
+      "verified": true,
+      "author": "Curtis B.",
+      "helpful_votes": 0,
+      "publication_date": 20200731
+    },
+    {
+      "title": "Is it the perfect switch? No",
+      "text": "Is it the perfect switch? No. But it has a lot of features that most switches don\u2019t. Auto on/off, night light, and Alexa! It is compatible with Homekit which I wasn\u2019t expecting and this summer it will report temperatures from the room it is installed in to your ecobee thermostat. I like it and use it often.",
+      "rating": 4.0,
+      "verified": true,
+      "author": "Mike",
+      "helpful_votes": 0,
+      "publication_date": 20180420
+    },
+    {
+      "title": "Don't buy. Mic is weak, product fails",
+      "text": "Product failed after 1 month. I have 2 of these and both started acting strange after just a few weeks. One has stopped working completely, the other one won't turn on and off using the front button most of the time. Bad buy, stay away.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "Tim",
+      "helpful_votes": 0,
+      "publication_date": 20200606
+    },
+    {
+      "title": "continues wifi disconnection",
+      "text": "good design and purpose but dont work some time bz having issue with wifi connection some time half day or more",
+      "rating": 2.0,
+      "verified": true,
+      "author": "Ron",
+      "helpful_votes": 0,
+      "publication_date": 20200517
+    },
+    {
+      "title": "Switch issues",
+      "text": "Switch has great functions but I have had to replace twice due to the switch not working. Would not reset, no manual function, completely dead. Tech support is good but too many steps to troubleshoot the issue knowing the eventually outcome of replacment. I did not purchase through Amazon but feel important enough to post here for others. We also have an Ecobee thermostat that works great. Would highly recommend it.",
+      "rating": 3.0,
+      "verified": true,
+      "author": "Bowman S.",
+      "helpful_votes": 0,
+      "publication_date": 20190403
+    },
+    {
+      "title": "Great addition to A. family",
+      "text": "All functions work great ... motion detection extremely sensitive. But it\u2019s nice be able shutoff everything from under the covers. Executes Alexa routines well.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Mr. Jeff",
+      "helpful_votes": 0,
+      "publication_date": 20190629
+    },
+    {
+      "title": "No temperature sensing after it was promised",
+      "text": "Promised temperature sensor capability in Fall 2018. Never happened. No progress updates.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "Jason M. Santeler",
+      "helpful_votes": 2,
+      "publication_date": 20190205
+    },
+    {
+      "title": "A half baked product",
+      "text": "It cannot make or receive Alexa calls (but it receices broadcast announcements) You can only play Amazon Music (no iTunes, Pandora, etc.) The cover plate will not snap, no matter how tight or loose the switch is screwed into the wall.",
+      "rating": 3.0,
+      "verified": true,
+      "author": "LA Movie Buff",
+      "helpful_votes": 0,
+      "publication_date": 20190605
+    },
+    {
+      "title": "Alexa in a  Integration is spotty",
+      "text": "Alexa Integration is not the best. I have Second generation echo dots that pick up with a lot more consistency even though they\u2019re further away. Also, I noticed this drops off line far more than an Echo Dot. I\u2019d say if the price was under 40.00 they would be a ok buy. Much more and I\u2019d say no.",
+      "rating": 2.0,
+      "verified": true,
+      "author": "559caliguy",
+      "helpful_votes": 0,
+      "publication_date": 20191228
+    },
+    {
+      "title": "Great Switch",
+      "text": "This Switch was easy to install and worked the first time. The Alexa features are disappointing at best. Don't think this is a full Alexa. It is more of a Lexi. Does most of the stuff just not as well",
+      "rating": 2.0,
+      "verified": true,
+      "author": "Stephen K",
+      "helpful_votes": 0,
+      "publication_date": 20190916
+    },
+    {
+      "title": "Great switch for entryway!",
+      "text": "Great product, works exactly how I needed it to. Only complaint is that it drops WiFi occasionally which makes Alexa support unreliable",
+      "rating": 4.0,
+      "verified": true,
+      "author": "Ryan M.",
+      "helpful_votes": 0,
+      "publication_date": 20190722
+    },
+    {
+      "title": "Great for bathroom",
+      "text": "Great for a place where you don\u2019t want an alexa device taking up space on your counter.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "James J.",
+      "helpful_votes": 0,
+      "publication_date": 20200905
+    },
+    {
+      "title": "It\u2019s ok",
+      "text": "It works sometimes. Sometimes not. Doesn\u2019t appear as a proper speaker or hub in some menus. Good if you need just need a easy good looking point to contact Alexa.",
+      "rating": 3.0,
+      "verified": true,
+      "author": "Amazon Customer",
+      "helpful_votes": 0,
+      "publication_date": 20200301
+    },
+    {
+      "title": "My Go-To Hair Product",
+      "text": "This is the product I go to every time I style my hair. It has enough hold to do what I need but also keep the hair looking natural and not greasy. Also a little product goes a long way.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Nolan",
+      "helpful_votes": 0,
+      "publication_date": 20181226
+    },
+    {
+      "title": "Buy it.",
+      "text": "Great switch. I love that you can play music from the switch and also motion sensor comes in handy. Gives your house a little tech upgrade..your friends and family will think it's cool",
+      "rating": 4.0,
+      "verified": true,
+      "author": "Jimmy Doan",
+      "helpful_votes": 0,
+      "publication_date": 20181029
+    },
+    {
+      "title": "Cool switch w/ Alexa",
+      "text": "What a great price for a smart switch! Great that this product includes Alexa! Sound is good from the little speaker. App is easy to use and integrates with the ecobee thermostat. The smart on/off feature works well. The mounting ears are plastic not metal and causes it to stick out a bit when using the not included cover plate.",
+      "rating": 4.0,
+      "verified": true,
+      "author": "Jake Sherk",
+      "helpful_votes": 0,
+      "publication_date": 20180427
+    },
+    {
+      "title": "Very good value",
+      "text": "Works great and is well worth it but needs to be restarted about once every 15 days.",
+      "rating": 4.0,
+      "verified": true,
+      "author": "dustin owen",
+      "helpful_votes": 0,
+      "publication_date": 20180805
+    },
+    {
+      "title": "works great",
+      "text": "works great, Alexa integration is awesome as i use this to control the switch on a daily timer.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Carmine",
+      "helpful_votes": 0,
+      "publication_date": 20190704
+    },
+    {
+      "title": "Wonderful device",
+      "text": "Weousing it in the bathroom. Nice to have it tired into alexia and be able to get the news, weather, correct time, music audio books just to name a few",
+      "rating": 5.0,
+      "verified": true,
+      "author": "joan leuchten",
+      "helpful_votes": 0,
+      "publication_date": 20181128
+    },
+    {
+      "title": "Complete garbage, not even close to an Alexa product",
+      "text": "After installing it often had to be reset and when it did work it was slow to respond. After a few weeks, it stopped working completely. Don't waste your time with this POS.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "buyer081612",
+      "helpful_votes": 0,
+      "publication_date": 20190306
+    },
+    {
+      "title": "Unspeakable",
+      "text": "This product doesn\u2019t stay connected to WiFi, the ONLY smart product in our house that has issues. Works whenever it feels like it and you practically have to speak into it like a microphone to hear you",
+      "rating": 1.0,
+      "verified": true,
+      "author": "Corina Savoie",
+      "helpful_votes": 0,
+      "publication_date": 20191210
+    },
+    {
+      "title": "The installation was easy but if setting for mic is not enable in ...",
+      "text": "The installation was easy but if setting for mic is not enable in app it doesn't work but after talking to support it was a snap love it . .and the support was excellent.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Grace Smith",
+      "helpful_votes": 0,
+      "publication_date": 20180425
+    },
+    {
+      "title": "Good if you like the light to stay on a long time",
+      "text": "You cannot change how long the light comes on. 15 min is just ridiculous.",
+      "rating": 3.0,
+      "verified": true,
+      "author": "catlover",
+      "helpful_votes": 0,
+      "publication_date": 20200514
+    },
+    {
+      "title": "Auto off lights!",
+      "text": "As a dad, I recommend these for all bathrooms and laundry rooms. Auto lights off and eventually drop in calling to yell for TP, or order more.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Aaron Pierson",
+      "helpful_votes": 0,
+      "publication_date": 20180418
+    },
+    {
+      "title": "this switch works great",
+      "text": "Does exactly what I needed and so simple to install. I did it myself and I'm far from an electrician. The illustrations are outstanding.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Pablo D.",
+      "helpful_votes": 0,
+      "publication_date": 20180914
+    },
+    {
+      "title": "This smart switch hits ALMOST all the boxes I want",
+      "text": "I love the Switch+. It has met all of the needs I wanted. These include ease of installation, ease of use, motion activation on entry, Homekit sync and Alexa integration. The one thing I am waiting for that would cause me to give it 5 stars would be the promised Temp sensor sync with my Ecobee 4.",
+      "rating": 4.0,
+      "verified": true,
+      "author": "Dave Brinsfield",
+      "helpful_votes": 0,
+      "publication_date": 20190207
+    },
+    {
+      "title": "Speaker has gone out.",
+      "text": "I purchased this in Feb 2020, it's now July and the speaker has gone out completely over the last two weeks. It just makes a feedback sound and that's it. Now I have to replace the switch again.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "Brian O.",
+      "helpful_votes": 0,
+      "publication_date": 20200720
+    },
+    {
+      "title": "Do not say \u201cAlexa turn off\u201d",
+      "text": "Do not say \u201cAlexa turn off\u201c because it will mess it up tiny bit",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Enrique Rosero",
+      "helpful_votes": 0,
+      "publication_date": 20200103
+    },
+    {
+      "title": "Reliable product that totally meets expectations.",
+      "text": "One of th best I\u2019ve come across. Easy to install and setup. Does everything I need and expect it to do. Planning on expanding my collection now that I\u2019ve seen how well it works. I\u2019ve had it for a while now. I bought it for my brother for his birthday. Very reliable product.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Shawn Mowry",
+      "helpful_votes": 0,
+      "publication_date": 20180606
+    },
+    {
+      "title": "Can't play my Amazon music",
+      "text": "Mic not good enough have to yell ay this 1",
+      "rating": 3.0,
+      "verified": true,
+      "author": "Jerry",
+      "helpful_votes": 0,
+      "publication_date": 20180709
+    },
+    {
+      "title": "One Of The Best Smart Switches Out There!",
+      "text": "Works great, and the volume can be adjusted within the app as it comes with a defaulted volume level. Wish it had a dimmer feature and that is why i gave it only 4 stars, but would buy again!",
+      "rating": 4.0,
+      "verified": true,
+      "author": "Zach Andrews",
+      "helpful_votes": 0,
+      "publication_date": 20181224
+    },
+    {
+      "title": "Works well",
+      "text": "Works well set up a little difficult but does the job enjoying it very much",
+      "rating": 4.0,
+      "verified": true,
+      "author": "doug macdermott",
+      "helpful_votes": 0,
+      "publication_date": 20181024
+    },
+    {
+      "title": "Trash programmers",
+      "text": "Great idea. Trash programming. Save your money. Electrical engineering speaking. Not worth your time. Buy a dot and smart switch. Less aggravating and will actually work",
+      "rating": 2.0,
+      "verified": true,
+      "author": "Jenaica Corinealdi",
+      "helpful_votes": 0,
+      "publication_date": 20200216
+    }
+  ],
+  "product_meta": {
+    "title": "ecobee Switch+ Smart Light Switch, Amazon Alexa Built-in",
+    "description": "Eco bee Switch+ delivers smart lighting and Alexa in one seamless package. Ask it to turn the lights on or off, set a timer, read you the news or weather, play music or podcasts, and more (nothing else required). Forgot to turn the light off? Smart Off takes care of that for you when the room is empty. All this, one switch-that you can install yourself in about 45 minutes.\n\nWiring: Neutral and ground wire required,Automatic line and load wire switching.\n\nDimensions: Switch+: Height: 106 mm (4.17 in.),Width: 45 mm (1.8 in.),Depth: 50 mm (2 in.)\nWall plate: Height: 119 mm (4.7 in.),Width: 45 mm (2.95 in.),Depth: 7 mm (0.3 in.)\n\nElectrical requirements: Rating: 120V AC 60Hz,600W incandescent,150W LED and CFL,Neutral wire required,Works with single/double/multi-switch,Not compatible with 3-way switches,Rocker style plates.\n\nConnectivity: Wi-Fi, IEEE 802.11 b/g/n @ 2.4 GHz,Wi-Fi Protected Access (WPA/WPA2) and Wired Equivalent Privacy (WEP),DHCP (dynamic) Transport Layer Security (TLS),915 MHz. Bandwidth: 15+ MB/month (dependent on Alexa Voice Service usage)\n\nSustainability: Recycled packaging,Mercury-free,Arsenic-free,PVC-free,ROHS compliant",
+    "rating": 3.8,
+    "feature_bullets": [
+      "BEYOND SMART LIGHTING: With built-in motion detection, ambient light sensors, and built-in Alexa you can control your home\u2019s lighting like never before.",
+      "EASILY INSTALL YOURSELF: It only takes about 45 minutes, thanks to an in-app step-by-step walkthrough and handy videos. Everything you need comes in the box\u2014no need for an electrician.",
+      "CONTROL FROM ANYWHERE: Don\u2019t feel like getting off the couch? No problem. Use the Eco bee mobile app on your Android or iOS device to switch the lights on or off \u2013 or just go ahead and Ask Alexa.",
+      "BUILT-IN ALEXA: Switch the lights on and off, control other parts of your smart home, or ask Alexa to play music, hear the news, set a timer, adjust the temperature, and so much more."
+    ],
+    "specifications": {
+      "Manufacturer": "Ecobee",
+      "Part Number": "EB-SMSWV-02",
+      "Item Weight": "9.3 ounces",
+      "Product Dimensions": "3.43 x 3.31 x 5.31 inches",
+      "Item model number": "EB-SMSWV-02",
+      "Is Discontinued By Manufacturer": "No",
+      "Item Package Quantity": "1",
+      "Number Of Pieces": "1",
+      "Plug Profile": "Wall Mount",
+      "Switch Style": "Temperature Switch",
+      "Included Components": "Decorative Trim Plate, Wire Nuts, Installation Instructions, Ecobee Switch+ Smart Light Switch",
+      "Batteries Included?": "No",
+      "Batteries Required?": "No",
+      "Warranty Description": "1-Year Limited Warranty",
+      "ASIN": "B0798LCLJ5",
+      "Customer Reviews": "3.8 out of 5 stars393 ratings3.8 out of 5 stars",
+      "Best Sellers Rank": "#95,232 in Tools & Home Improvement",
+      "Date First Available": "March 12, 2018"
+    },
+    "categories": [
+      "Switches & Dimmers",
+      "Wall Switches",
+      "Tools & Home Improvement",
+      "Light Switches",
+      "Electrical"
+    ],
+    "price": 67.95
+  }
+}

@@ -1,0 +1,966 @@
+{
+  "website_summaries": [
+    {
+      "verdict": "Using this lock is simplest with Google Assistant, but you'll get more functionality out of it if you use it with Amazon Key.",
+      "pros": [
+        "The lock is easy to set up, pairs with an easy-to-use app and works with Google Assistant or Amazon Alexa"
+      ],
+      "cons": [
+        "There's no Apple Homekit compatibility"
+      ],
+      "aspects": {
+        "Features": 6.0,
+        "Usability": 8.0,
+        "Design": 7.0,
+        "Performance": 8.0
+      },
+      "publication_date": 20190322,
+      "rating": 7.2,
+      "source": "cnet"
+    }
+  ],
+  "customer_reviews": [
+    {
+      "title": "We Do NOT recommend this product.",
+      "text": "This lock worked great...for 2 weeks! Once the batteries had to be replaced (just two weeks after installation), the lock stopped working. Had to reset, and change all codes. Finally got it working again, and was hoping it would last much longer, but....another two weeks and batteries had to be replaced AGAIN. I just missed the return window which is a shame because this was a complete waste of money.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "Sophia",
+      "helpful_votes": 20,
+      "publication_date": 20190722
+    },
+    {
+      "title": "Wanted to love",
+      "text": "I bought this after much debate and ended up a bit disappointed. After installation and setup the lock would not function properly saying it was jammed. We completely uninstalled and started over making sure that everything fit right and moved smooth. Still \"jammed\" after trouble shooting, customer support and firmware updates we decided the lock must have issues unrelated to our door, installation, etc. Unfortunately I am returning and will stick to a traditional deadbolt for now",
+      "rating": 1.0,
+      "verified": true,
+      "author": "ST",
+      "helpful_votes": 20,
+      "publication_date": 20190413
+    },
+    {
+      "title": "won't let you add more than 3 codes unless you add camera",
+      "text": "No where does it say you cannot add more than three guess codes without purchasing the amazon camera and use their cloud service to go with it. Beautiful lock and functions well, but I need to add more then three codes and I don't need another camera in my house. I already have 9 cameras and I don't want another monthly bill for cloud services.",
+      "rating": 2.0,
+      "verified": true,
+      "author": "Tim Levell",
+      "helpful_votes": 17,
+      "publication_date": 20190522
+    },
+    {
+      "title": "Lock Jams",
+      "text": "Product was super easy to install. After installation had a hard time getting the lock to work via the app, getting a message that the lock was jammed. Wa going to deal with it after dinner and it started working. Next morning issue came back saying lock was jammed. Call product support and got it working. Later in that evening issue came back. Returning for a replacement.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "Sabrina",
+      "helpful_votes": 19,
+      "publication_date": 20190425
+    },
+    {
+      "title": "Not reliable.",
+      "text": "Worked great for 6 weeks. Then the app says \u201ccannot connect\u201d when you try to setup guest codes. Tonight, with short term rental guests, the lock was completely unresponsive. Not at all what we expected. We had to go by and provide a physical key. Very frustrating.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "Michael Donn Parker",
+      "helpful_votes": 15,
+      "publication_date": 20190824
+    },
+    {
+      "title": "Amazing and dead easy to use.",
+      "text": "Absolutely in love with it. I already had a schlage dead bolt so installing this literally took 10 minutes. I didn't want this to be used with its own key so I made sure to re-key it the same as my other door. Other than that it was dead simple to install and dead simple to set up on wireless using the schlage app. I just wish you could unlock the door with Google. I love getting the alerts when people use their code to go into my house. In love with this and plan on buying one for my side garage entry...",
+      "rating": 5.0,
+      "verified": true,
+      "author": "bundybytes",
+      "helpful_votes": 7,
+      "publication_date": 20190314
+    },
+    {
+      "title": "Love this smartlock",
+      "text": "After returning a round, highly rated lock with a brand name that is a month that I hated, we ordered this one. Key, keypad or app access to my house with direct wifi connection. Works well with our Google Home system. So many circumstances this makes life easier. Anxiety of getting locked out by my younger kids is gone. I was able to grant my mom temporary access when she came for a visit and she was able to let herself in when I was in the shower. I don't normally take time to write reviews, but this lock is so great. I spent a lot of time researching. Glad I found this one.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Kimberly",
+      "helpful_votes": 7,
+      "publication_date": 20190411
+    },
+    {
+      "title": "Was great while it lasted.",
+      "text": "This was great for the 25 days it worked. I went to lock my door and it just didn't respond. I changed the batteries and still, nothing. It says it's 95% charged but yet... nothing. Of course, getting ahold of anyone is difficult. I've been using a key until I figure out a way to replace it / fix it. I know it isn't my wifi because my ring doorbell and phone are connected just fine.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "Lyndsay",
+      "helpful_votes": 8,
+      "publication_date": 20190828
+    },
+    {
+      "title": "Does not connect to Wi-Fi",
+      "text": "Does not connect to the internet/wi-fi. Kept giving error. Tried calling customer service, they have weird working hours. Finally got a hold of them and the rep instantly told me this lock doesn't connect to internet due to non-compatabilty issues with many internet service providers and that I need spend another $60-$100 to buy a schlage sense or schlage internet hub to connect to wi-fi. That didnot make any sense since this lock is already $100 more than the scalage connect. Overall, this was waste of time, effort and money.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "Jen",
+      "helpful_votes": 7,
+      "publication_date": 20191026
+    },
+    {
+      "title": "Schlage doesn't answer the phone",
+      "text": "As another review stated, \"great hardware, poor app.\" I couldn't agree more. The app throws different bugs on Android versus IOS, but rest assured, neither works. I have had to call their tech support twice for the app. The second time they just never answered the phone. Never. Answered. The. Phone. It's really ridiculous considering how much I just dropped on this thing. I'm beyond frustrated at this point. If I could have rated their tech support a zero, or even in the negatives, I would. But alas, one is as low as it goes. Update 1: I'm still on hold after 40 minutes now. I'm hoping someone answers before my battery dies... or the sun explodes, whichever comes first.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "Roy Kidder",
+      "helpful_votes": 3,
+      "publication_date": 20200106
+    },
+    {
+      "title": "Very Limited",
+      "text": "Amazon/Ring is being very deceptive saying this works with Ring. ONE person can control this lock remotely. ONE. Otherwise, it\u2019s just a keypad deadbolt. Totally oversold. And don\u2019t believe Amazon when they say they install in your area. Check with your neighbors, etc. Ordered installation of hard-wired Ring cameras and this deadbolt THREE times, and each time Amazon couldn\u2019t fulfill the order and canceled it. Buy a much cheaper keypad deadbolt. This one is NOT worth it and only BARELY \u201cworks with Ring.\u201d",
+      "rating": 1.0,
+      "verified": true,
+      "author": "Eric R. Molicki",
+      "helpful_votes": 4,
+      "publication_date": 20191211
+    },
+    {
+      "title": "Doesn't regularly work and will lock you out.",
+      "text": "Terrible, been locked out of the house several times. Had it professionally installed. Then about 3 months later the keypad would randomly stop working. Sometimes no digits would work, sometimes just a few. Regardless, it was not possible to input an entry code. Housekeeper, family members, etc. were all locked out. If we didn't bring our phone or key, we were locked out also. Schlage said they will replace but will not cover the cost of having it 're keyed' as that is for our convenience, supposedly. Simply not recommended as you'll risk being locked out at random.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "J. Olson",
+      "helpful_votes": 5,
+      "publication_date": 20191125
+    },
+    {
+      "title": "Be very careful",
+      "text": "I bought this lock and took awhile to have it fitted as I paid a locksmith and needed to wait until I had a day off work. Well about 5 months after purchasing the locksmith fitted it and I've noticed the keypad is very unreliable with the 5 always working, the 2 almost never working and the other buttons very random. I emailed Schlage support and received my confirmation but 2 weeks later am yet to hear anything else. So tonight I decided to contact Amazon for assistance and was told it's outside there support period, contact schlage and good bye. So currently I've got a very expensive, nice looking key lock and no support from the seller or manufacturer.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "robert",
+      "helpful_votes": 4,
+      "publication_date": 20200131
+    },
+    {
+      "title": "Unable to Pair",
+      "text": "First, it is interesting that the paper user guide did not include instructions on adding or changing codes. While I don't mind going to its website, it was annoying having to search for such basic instruction. Second, WIFI pairing is problematic. Even after following all trouble-shooting instructions including factory re-setting, \"The app was unable to pair with your lock\" is as far as I get. I wrote to the customer service. Maybe I got a defective product, or maybe the Android app is not good. With no wifi, this is like an expensive dumb lock. I wonder if anyone else is having the same issue.",
+      "rating": 2.0,
+      "verified": true,
+      "author": "Customer in DC",
+      "helpful_votes": 2,
+      "publication_date": 20191027
+    },
+    {
+      "title": "Lock disconnects from WiFi daily but otherwise a great lock",
+      "text": "This lock was easy to install. Setup is a breeze once you download Key app from Amazon. I then download the Schlage app to see if there was any difference. This app lets you do more customization (auto-lock etc). I would have given it 5 stars but this lock will disconnect from my WiFi once a day. The Key app will alert you when this happens. Then I have to go onto the Schlage lock and reconnect it to the WiFi. I know my signal isn\u2019t weak because my other smart home devices next to the lock never disconnect. Hopefully this is just a programming issue and will be fixed with a firmware.",
+      "rating": 4.0,
+      "verified": true,
+      "author": "Nitin Patel",
+      "helpful_votes": 3,
+      "publication_date": 20190721
+    },
+    {
+      "title": "Works on 2.4Ghz band only",
+      "text": "IMPORTANT! This lock will only Connct to your wifi through a 2.4Ghz band! If you run a 5Ghz band and can't turn it off (ie, a orbi Mesh network) you will NOT be able to link it to your wifi and use the smart functions of the lock! Do you research before buying this product and make sure you can access your 2.4Ghz band!",
+      "rating": 3.0,
+      "verified": true,
+      "author": "Adam Renwick",
+      "helpful_votes": 3,
+      "publication_date": 20200718
+    },
+    {
+      "title": "Great Upgrade to the Schlage Connect",
+      "text": "I've had this installed for about a week now and have had no problems or issues with the lock. The deadbolt operates pretty smooth. Installation was easy. Syncing with my wifi was pretty painless, and I like the features of the App itself. The tactile feedback is also an improvement over the previous Connect model. I recommend this to anyone looking for a good doorlock with SMART features.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Hai Q. Thai",
+      "helpful_votes": 4,
+      "publication_date": 20190315
+    },
+    {
+      "title": "Not worth the price",
+      "text": "Lock itself works great. The Schlage app is terrible. It would connect the lock to my phone via Bluetooth then get stuck on the WiFi connection. I have it on a 2.4Ghz band network and I could hear the lock beep, saying it has connected to the WiFi, but the app will not get off the screen. Resulting in not being able to setup the lock. It worked with the amazon key app but that doesn\u2019t allow me to change access codes and amazon key is very slow when working with Alexa. I was really disappointed with the overall inadequacies of the app and Schlage support. I would not recommend for the price.",
+      "rating": 3.0,
+      "verified": true,
+      "author": "Ashley Radcliffe",
+      "helpful_votes": 0,
+      "publication_date": 20200110
+    },
+    {
+      "title": "Highly Disappointing",
+      "text": "I own a daycare. I bought this lock solely because of the amount of individual codes it could accommodate. It came highly recommended from a reputable company so I went for it. It has been nothing but a giant headache. It connects/disconnects randomly. Locks/unlocks randomly. The auto lock feature doesn\u2019t work at all. I\u2019ve never been so disappointed. It was missing key installation parts that the company said they would send but never did. I\u2019ve reached out to them multiple times since. No response. We improvised for the time being but that has caused even more issues. Wish I could return it! Feel like I totally wasted a few hundred dollars. Super disappointing.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "Tara N. TerBush",
+      "helpful_votes": 0,
+      "publication_date": 20200512
+    },
+    {
+      "title": "Everything it says it is.",
+      "text": "Family codes. Guest codes. Auto-relock. Integrates with Ring doorbell. 5% battery usage in the first 3 weeks. I haven't found a single thing to dislike about this yet. As far as installation goes, it replace our existing Schlage deadbolt without a hitch. I love the auto-relock, since we have teenagers that just can't remember to lock the door. Update: love auto-relock even more after a month. I will probably never be able to have a regular door lock again, I just never think about it. Plus, if we don't manage to get the door fully closed, the lock will alert us when it isn't able to fully lock the door.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Barnacle Wes",
+      "helpful_votes": 0,
+      "publication_date": 20200612
+    },
+    {
+      "title": "First smart lock",
+      "text": "So far so good. Installation was very easy to follow. I found the wire to be plenty long enough to connect from the keypad as well. I didn't have to modify my existing hole for the deadbolt to fit either. Setting up the app and integrating with Alexa was super simple as well. If I had one negative thing to say it would be I wish it integrated with Apple Siri commands or the Home Kit. Still it seems to be working fine and with no issue connecting to wifi. If anything changes I will be sure to update. I spent time researching and looking at reviews for several locks and decided on this one.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "T. Rodgers",
+      "helpful_votes": 0,
+      "publication_date": 20200603
+    },
+    {
+      "title": "Be prepared for trouble",
+      "text": "A huge pain to set up. Can't change wifi settings after set up. Doesn't want to connect to correct wifi from the beginning. Fails to change passwords. Took about 3 hours just to get one lock to successfully conne t to wifi.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "Adam",
+      "helpful_votes": 3,
+      "publication_date": 20191211
+    },
+    {
+      "title": "Has made a rainy day less of a headache",
+      "text": "Product installed easily and the app is also simple. It works great! If I could it would be 4.5 stars. Taking off 1/2 a start because I\u2019d really like it to recognize my phone and unlock without me having to open the app and hit the button. I knew it didn\u2019t do this, but at this price it should. Even then - being able to unlock while I\u2019m detached garage during rain and just run into the house instead of having to find a key or enter the code - is a delight!! It works exactly as advertised and installation was straightforward!",
+      "rating": 4.0,
+      "verified": true,
+      "author": "SLK",
+      "helpful_votes": 2,
+      "publication_date": 20190625
+    },
+    {
+      "title": "So far so good",
+      "text": "I had to return the first unit I received. When it was installed, it never properly configured itself. I called Schlage support and they had be turn the deadbolt knob 360 degrees three times one direction and then the same in the other direction. That seemed to reset the motor and got the lock working. But the batteries drained to 3% overnight. I returned this unit and ordered one more from Amazon. The replacement worked flawlessly; been using it for about three weeks now and batteries are only down to 97%. The Wifi works well, and I like being able to lock and unlock it with my voice.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Kevin J. Schmidt",
+      "helpful_votes": 0,
+      "publication_date": 20190706
+    },
+    {
+      "title": "Love this lock. Most advanced lock to date",
+      "text": "This lock works great. Very easy to install. Was a bit challenging setting it up with in-home cloudcam for Amazon's in-home delivery. Once I got it figured out works great. Also, works great with Alexa. This lock connects directly to the Wifi router. I would love if they added an option to unlock the lock with the apple watch app.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "E. Barth",
+      "helpful_votes": 4,
+      "publication_date": 20190317
+    },
+    {
+      "title": "Great at first, but unreliable",
+      "text": "I was so excited when I set this up at a second home. But after a few weeks, we went to open it and the keypad was dead. After a minute of pushing buttons the keypad lit up and worked. This happens intermittently now, and makes me concerned that one of my family may show up and be unable to get in. And now tonight I got a message that the app hasn\u2019t connected with the lock in 24 hours. This kind of thing has to be nearly flawless. You can\u2019t have people locked out of their house in the cold.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "Electrical Engineer 93",
+      "helpful_votes": 2,
+      "publication_date": 20201008
+    },
+    {
+      "title": "GAP! DO NOT BUY! OR GET A DRILL BIT - SEE PICS",
+      "text": "I purchased two of these for my properties. I installed it in my house. First one had a gap. Tried using a larger screw to close the gap and it broke. No problem. Return! Opened the second one to see if the first one is defective. Took all the hardware from the defective one off and installed new one. Same issue! GAP! Look at pics. Ok Schlage, I'll fix YOUR flaw. Drill Bit it is....added screw. Make sure if you do this you have it as flush as possible. The battery case and cover should fit as if it weren't there.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "Two Cents",
+      "helpful_votes": 0,
+      "publication_date": 20200711
+    },
+    {
+      "title": "remote and regular lock in one",
+      "text": "10 miles down the road... hey, did you lock the door? I don't know... lemme check the app... yep! or oops, forgot, but I just locked it with the app! awesome! works with it's own app or with alexa. not always instant, but that just might be my slow DSL internet connection. set up unique codes for a housesitter or dog walker, and then disable those codes anytime if you decide you're a terrible judge of character. you can still just use a regular key and take out the batteries to use it like a normal lock.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "KL",
+      "helpful_votes": 0,
+      "publication_date": 20191212
+    },
+    {
+      "title": "Easy to install, and Works Great!",
+      "text": "After purchasing a different lock, from a different mfg that starts with a K, I was cautiously optimistic that this one would work out better. Out of the box, there are way less bolts and screws, and the instructions are super easy. I got this unboxed and installed in probably 10 minutes. It integrates seamlessly with Amazon Key, and then to my Ring App. I can unlock and lock my door way easier than ever before. I would highly recommend this product to anyone looking for a Smart Lock that actually works!",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Jeremy",
+      "helpful_votes": 0,
+      "publication_date": 20200904
+    },
+    {
+      "title": "Decent Lock",
+      "text": "I bought two of these to work with my Google Assistant/Home setup. They worked great for about three weeks and then the keypad for the one on the front door, in direct sunlight, stopped working. You could still use the app to unlock the door at least. The other one on the other door that wasn't in direct sunlight kept working. In the end we decided to send these back to Amazon. That was a shame as these are the best looking locks on the market in my opinion.",
+      "rating": 4.0,
+      "verified": true,
+      "author": "A.W. Dowdy",
+      "helpful_votes": 2,
+      "publication_date": 20190901
+    },
+    {
+      "title": "Installation was a breeze.  Setting up to wifi and Alexa was a bit confusing",
+      "text": "This is a very sturdy and well-made lock. Glad I bought it. Installs as easily as a standard dead-bolt lock. I had some problems getting it to link to my wifi and then to Alexa. Called tech support on each issue and was surprisingly impressed with the young lady who was so very patient with me. The instructions could be better written and more detailed. Highly recommend.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Richard Robinson",
+      "helpful_votes": 2,
+      "publication_date": 20190412
+    },
+    {
+      "title": "Garbage... and i mean it's going in the garbage - tonite.",
+      "text": "I originally gave this lock a rave review. About a year ago. It's dead. drops internet every 20 minutes or so. rarely lets me change a code. And before some Schlage rep says anything, i have 5G internet within line of site with the lock and its within 20 feet. If i didn't keep the key on my keychain for this device, i'd have been in trouble several times. I was going to put my Schlage connect back on but i forgot... that one never accepted the master code, even after calling for help. I'm looking for another lock company. I'm so disappointed... two for two with garbage locks.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "Robert C. O. Gross",
+      "helpful_votes": 0,
+      "publication_date": 20200305
+    },
+    {
+      "title": "Does not play well with Ring alarm system",
+      "text": "This is the nicest looking deadbolt, but it does not integrate well into the Ring security system. Multiple times a day it loses communication to the Ring base station and Amazon key. It still functions over WiFi through the Schlage app. After a couple hours it will Ring will recognize it, otherwise I have to pull the battery out to reset the lock. If you are looking for a deadbolt that integrates into a Ring security system, buy the Schlage connect with Z-wave. I have one of those and it works just fine.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "K. Bonham",
+      "helpful_votes": 0,
+      "publication_date": 20201005
+    },
+    {
+      "title": "Everything Works great. Except alexa",
+      "text": "Works great. Our kids kept losing keys, now we dont have that problem. We have the door set to auto lock after 4 mins. And the accompanying app works great. Would have gave it 5 stars.... but we cant get it to connect with alexa at all. The process is not seamless. And a major reason for getting this one is to be able to use alexa to lock and unlock the door for guests.",
+      "rating": 4.0,
+      "verified": true,
+      "author": "KingusofKoopus",
+      "helpful_votes": 3,
+      "publication_date": 20190308
+    },
+    {
+      "title": "WiFi and pairing don\u2019t work. Keypad does.",
+      "text": "It was missing screws so a handyman had to come and drill holes in my door. Then when I tried to pair it with my phone it got up through the pairing mode but would not connect to the wifi. Even then, it only paired in the Key app and would not pair at all through the Schlage app. Schlage customer service gave me a case number to get a replacement sent but amazon customer service chat just kept asking me questions but wouldn\u2019t make any suggestions and didn\u2019t offer to send, and they clearly weren\u2019t looking at the case number. So I gave up.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "Lenoure Mullaney",
+      "helpful_votes": 4,
+      "publication_date": 20191107
+    },
+    {
+      "title": "Great",
+      "text": "I was replacing my old digital lock that came with my security system, which I cancelled. I was concerned about my inability to change the code and I didn't have a key for that lock. I wanted the ease of a digital lock, that also had a keyed feature, just in case! This one has that. The app, which notifies me when the lock has been engaged/disengaged is great. And I've even used it to lock and unlock the door from my phone. Great and stylish.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Kelly Blaz",
+      "helpful_votes": 0,
+      "publication_date": 20200123
+    },
+    {
+      "title": "Number pad issues",
+      "text": "I purchased several of Camelot Trim in Aged Bronze. All of them had issues with the numbers on the keypads working - especially 1, 2 and 4. Returned them all for a similar product but a different brand.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "Hankster",
+      "helpful_votes": 3,
+      "publication_date": 20200122
+    },
+    {
+      "title": "Finally Amazon Delivered the Correct Product",
+      "text": "Amazon's first delivery was a total disaster, I got a Kwickset Lock that was old and obviously used and scratched. All pouches for bolts and screws came opened. Just a mess. I guess the picker packer wanted a raise and did not get it. So he took it out on the customer. But when I finally got the real product, it was a beautiful sight, and easy to install. The integration APP works great, although it was difficult to connect to my Wi-Fi. Overall great buy. And I am glad I had patience considering the bad initial delivery experience.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Francisco A. Gomez",
+      "helpful_votes": 0,
+      "publication_date": 20200228
+    },
+    {
+      "title": "Convenient with built in WiFi",
+      "text": "Although this lock does not integrate with my other HomeKit devices, I love its reliability due to the fact it has Wi-Fi independently inside of the unit. The Wi-Fi chip in the unit ensures your lock is always connected to your Internet. We love the options that are provided; you are given the ability to manually unlock it with a key, use the built-in keypad, or a phone app all of which are extremely convenient options especially when provided together.",
+      "rating": 4.0,
+      "verified": true,
+      "author": "Robert P",
+      "helpful_votes": 0,
+      "publication_date": 20200712
+    },
+    {
+      "title": "three hours for nothing",
+      "text": "was careful on installation....physical...great film to install...then came the problems.....could not connect to wifi...tried multiple times...finally call support....nice but after having to uninstall lock and move to router still no connection....now I am 3 hours into to this....I GAVE UP....they told me to call my provider...my wifi works perfect.......too complicated unless one is a IT TECH.. way way too complicated ....ralph",
+      "rating": 1.0,
+      "verified": true,
+      "author": "Dr. Ralph Kimbrough",
+      "helpful_votes": 0,
+      "publication_date": 20200903
+    },
+    {
+      "title": "Great Lock and No need to purchase hub or additional items to use remotely.",
+      "text": "Love this lock. It is easy to install, easy to program and I absolutely love the fact that I don't need a Home Automation System or Hub to be able to track and control it from my cell phone. Almost all others that I previewed required a hub or something else purchased in order to work remotely. Very easy to add and remove individual codes. I highly recommend, especially for VRBO-type rentals.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Jim Ringquist",
+      "helpful_votes": 2,
+      "publication_date": 20191012
+    },
+    {
+      "title": "Don't by refurbished",
+      "text": "I bought 2 of these, thinking the refurbished meant they were tested and quality controlled to work. The key didn't even fit in one and the codes were different between the manual and the product on the other. I tried the codes hoping that it would work, but the lock just flashed red and the bolt didn't extend/retract. I'll never buy refurbished again. I wasted 4 hours installing and then troubleshooting and got nowhere. Of course, Sunday Schlage is closed. :-( Returning both products. Going to home depot to buy them instead. At least I know I can return immediately and don't have to wait on the long shipping time for receipt.",
+      "rating": 2.0,
+      "verified": true,
+      "author": "Tracey B",
+      "helpful_votes": 0,
+      "publication_date": 20201018
+    },
+    {
+      "title": "You Get What You Pay For",
+      "text": "This is my second Schlage entry lock and they just keep getting better. I replaced a 5-yr old Kwikset lock on my rental place in 30 minutes - including the wifi & app setup! Instructions - Crystal clear, easy to follow print & YT video installation instructions. If you have trouble following these, you probably need to repeat 3rd grade Quality - superior materials - no flimsy plastic - and includes Duracell batteries I used the Schlage app (vs Amazon Key or other 3rd-party). Simple code mgmt (up to 100) and the activity history is going to be very useful. Schlage has set the bar, not only for the lock industry, but for all products.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "M. Nanchy",
+      "helpful_votes": 0,
+      "publication_date": 20201013
+    },
+    {
+      "title": "Bummer",
+      "text": "I bought this product so that I could control the locks remotely and have a keypad to let myself into the shop..great idea right. I downloaded the app and got it connected fairly easy. The one issue I am having is that the key pad is not lighting up and actually doesn't work, but I can lock and unlock via wifi. The wifi is a bit clunky and doesn't cycle very fast which means I could walk outside and unlock with a key faster than the app connects and works. The mechanism is smooth and works great.",
+      "rating": 2.0,
+      "verified": true,
+      "author": "Rugger",
+      "helpful_votes": 0,
+      "publication_date": 20200615
+    },
+    {
+      "title": "Great Investment",
+      "text": "So far so good. Have this on the door of my short term rental property. Had issues installing as it wouldn\u2019t locate our network, but we figured out the network has to be password protected or it won\u2019t show up during set up. Once we did that it was very easy to set up and program. It\u2019s a life saver for owners who don\u2019t live near their property but would rather manage it themselves instead of paying an obscene percentage to a rental management company. It looks great installed and we can monitor entry and add codes. It\u2019s on a beach rental so I\u2019ll update on how it holds up in the salty air.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Yaya",
+      "helpful_votes": 0,
+      "publication_date": 20200831
+    },
+    {
+      "title": "Incredibly easy install & setup!",
+      "text": "Ordered 2 locks. The interactive instructions found through the app were extremely helpful - took about 10 min per lock to install & activate. Managing the preferences and codes for each lock through the app is so easy. Was hesitant for a long time to buy a smart lock fearing it\u2019d be too complicated, but defintely not the case here! If you\u2019re on the fence, hop off and make the purchase. Great product!",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Tracey M.",
+      "helpful_votes": 0,
+      "publication_date": 20190623
+    },
+    {
+      "title": "Lock died today only 7 months old",
+      "text": "Purchased May 2019. installed new Duracell batteries. August replaced batteries after lock quit operating. Again new Duracell. October installed new Energizer lithium batteries. Now they are dead. This is expensive.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "Terry Thomas",
+      "helpful_votes": 4,
+      "publication_date": 20191205
+    },
+    {
+      "title": "Easy Install with tech support for connecting!  Buy this one!",
+      "text": "I bought a cheaper version at $129 that had flimsy wire connections that broke and poor instructions. It was past 90 days so they didn\u2019t replace. This installed easy peasy! I can sit with my broken foot and unlock my door without getting up! 70+ year old female installed it. Had to have some help with setting new password. I used the app to load longer pass number and one for my brother. Notifications come on my phone telling me when locked and unlocked. My ring doorbell camera shows who\u2019s at the door connecting to Echo Show before I have go to the door. Love it!",
+      "rating": 5.0,
+      "verified": true,
+      "author": "3catz24",
+      "helpful_votes": 0,
+      "publication_date": 20191208
+    },
+    {
+      "title": "Schlage's customer service was great",
+      "text": "Turns out the item I received was a customer return with a broken throw bolt, otherwise this would be a 5 star. Super easy to install, worked fantastic despite the throw bolt sitting recessed inside the door by about 3/8\" rather than being flush with door. Discovered when it seized after about a week that it wasn't supposed to be that way and the bolt included in my package was broken and returned. I contacted Schlage's customer service instead of this seller's and the rep I spoke with was fantastic! Helped me get the bolt out, my old deadbolt re-installed temporarily, and shipped me a brand new unit overnight. Super easy to install and works like a charm now.",
+      "rating": 4.0,
+      "verified": true,
+      "author": "Bethany Tod ",
+      "helpful_votes": 0,
+      "publication_date": 20191213
+    },
+    {
+      "title": "Very easy to install and set up.",
+      "text": "This product is great and I may buy 2-3 more of these. The physical install was very easy (it helped that the door was installed properly). I was able to easily install the app, connect it to wifi and started sharing temp codes with others. I have another keypad lock from schlage and it works well but needed the zwave technology and I never bothered with it. This is the model to get!",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Mike L.",
+      "helpful_votes": 2,
+      "publication_date": 20190606
+    },
+    {
+      "title": "Peace of Mind-Great Product",
+      "text": "As a \u201chost\u201d who rents out a home to travelers, this is peace of mind for me, and my guests. I can easily set date and time specific entry for each customer. Then, delete the guest\u2019s info and create more. The cleaning crew has their own code, and if I need to, I can track who has entered and when. And, no one has to worry about returning keys. Worth the investment.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Rainworth",
+      "helpful_votes": 2,
+      "publication_date": 20190428
+    },
+    {
+      "title": "Safe, sturdy and easy to use",
+      "text": "Having installed this lock 3 months ago for my front door, I cannot go back to using keys. The Schlage encode is very easy to use via the Schlage app for iPhone. You can program temporary codes and customize their access time and dates or simply for one time use. This is a very convenient feature I use for my housekeeper. The app shows real time status and a history of access codes being used should you wish to keep track of who is entering the house. As for the hardware, this is a very sturdy deadbolt lock and the access panel has a very high quality feel to it. Although pricey, I highly recommend this lock.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Ev@n",
+      "helpful_votes": 0,
+      "publication_date": 20191118
+    },
+    {
+      "title": "Excellent lock - app - functionality",
+      "text": "I've been looking for several years for a smart lock that had all the features I wanted. This lock is what I was waiting for. Lock is intuitive and has 3 ways to enter. Either put in your custom code, use your key or open your app and select the door and push the giant lock icon. Some dinged it for not having a proximity option, but I'm not sure that is a great idea as I'm near the door a LOT. Installation took around 5 minutes and functionality setup 5 minutes more. I like it so much I now have one of them on every external door.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "John Gibson",
+      "helpful_votes": 0,
+      "publication_date": 20200922
+    },
+    {
+      "title": "IT DOES UNLOCK WITH ALEXA!",
+      "text": "Took some digging, but I finally figured out that it does not work if you actually name your lock with the word DOOR in it! Rename it something more obscure and it will then finally stop saying \"front door doesn't support that\", instead it will ask you for your 4 digit code and viola!!!! That was the only feature that I could not get to work, but it does now and I so far so good!!!!",
+      "rating": 5.0,
+      "verified": true,
+      "author": "LEAH W.",
+      "helpful_votes": 2,
+      "publication_date": 20190806
+    },
+    {
+      "title": "Happy I made the change",
+      "text": "I found it could have been easier maybe if it showed a video... there were parts I didn\u2019t know what it was for and thank god I had a construction neighbor that helped me. The instruction was almost good... had a little hard time taking off my original padlock. All in all, very happy with it. Very convenient since we travel and I can set it for our housekeeper or my neighbor friend with access for set amount of date/time. Then I don\u2019t have bunch of people having my keys! Looks good too. I feel secure with it. But it!",
+      "rating": 5.0,
+      "verified": true,
+      "author": "KKB3338",
+      "helpful_votes": 0,
+      "publication_date": 20200617
+    },
+    {
+      "title": "Great keypad for guests",
+      "text": "This is a great keypad and it is easy to install and use. We put it on our AirBnB house and with it being connected to out wifi we are able to easily add and remove users. It is a great dead bolt and would have only lost half a star if that was an option because it does go offline on occasion winch is a inconvenience.",
+      "rating": 4.0,
+      "verified": true,
+      "author": "Scott Tabor",
+      "helpful_votes": 0,
+      "publication_date": 20200826
+    },
+    {
+      "title": "So far, so good ...",
+      "text": "We got this lock a few weeks ago and so far have not had any problems with it. Installation in place of our existing deadbolt was easily accomplished in a few minutes, and setting up the electronics didn't take much longer. We now have the Amazon Key app on our phones and can lock or unlock the door remotely. Entry of codes by hand at the keypad works fine, too (although I found out the other day that wearing gloves is an issue). Haven't had to replace batteries yet, so not sure how long they will last. I would recommend the lock to others looking for a versatile locking solution with app support.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Joseph D. Dumas",
+      "helpful_votes": 0,
+      "publication_date": 20200225
+    },
+    {
+      "title": "Do NOT use lithium batteries. Only alkaline.",
+      "text": "UPDATE: ok I feel dumb. The lock is fine. I was just using lithium batteries. You\u2019re not supposed to use lithium batteries. Only ALKALINE. I had no idea. Customer service helped me. Thank you. My lock just stopped working after 8 months of little use. I changed the batteries, called customer service and have reset it 5 times and in less than 12 hours it dies again. Not happy when I\u2019m out to work overnight and my 14 year old son gets locked out of the house And has to stand out in the cold until I get home at 2am.",
+      "rating": 4.0,
+      "verified": true,
+      "author": "Jay",
+      "helpful_votes": 0,
+      "publication_date": 20200423
+    },
+    {
+      "title": "Can you be head over heels in love with a door lock? I AM!!!",
+      "text": "We've needed this for the entire year we've been in our place. As expected, it has been a HUGE convenience. I had tried to sort though seemingly innumerable brands and options in my search for the right lock. My husband got it down to our short list, and after much deliberation I decided to spend more to go with this model and hope for the best. At this early point with this lock, we couldn't ask for more! It's a joy to use and is infinitely safer than our old school, weak deadbolt. Try it.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "BoscosMom",
+      "helpful_votes": 0,
+      "publication_date": 20200915
+    },
+    {
+      "title": "Easy installation",
+      "text": "The lock was easy to install and connected to the app quickly. The app works well with the lock and the additional Amazon cloud cam (bought separately). The combination (lock, cloud cam) is well thought out. I advise checking Amazon first before ordering the cloud cam for inside delivery availability first. I bought mine without checking. Inside delivery is not available in my area. But with that said, we still love it and find the added security a great benefit. It gets 5 stars...",
+      "rating": 5.0,
+      "verified": true,
+      "author": "SuLoco",
+      "helpful_votes": 0,
+      "publication_date": 20191223
+    },
+    {
+      "title": "Issues with firmware.  Persistent error.  Returning this product.",
+      "text": "Issues persist with the functionality \u201cDelete access code.\u201d Error: \"Could not save.\" and Error: \" \"An error occured while attempting to delete the access code.\" Schlage tech support advised to delete app from iPhone and reinstall. I have complied 3 times. Still the same error. Firmware update did not resolve issue. See pics. Returning this item. ***I DO NOT RECOMMEND THIS PRODUCT.***",
+      "rating": 1.0,
+      "verified": true,
+      "author": "ronDnyc",
+      "helpful_votes": 0,
+      "publication_date": 20200127
+    },
+    {
+      "title": "Love this smart lock/bolt",
+      "text": "I just replace my home entry front door. So I've only had to product for a couple of months now. I do not have any complaints thus far. It's definitely has smart technology and features. With up to 100 different codes saved in memory (although for person home use, that's way too many codes) you will have this lock for a long time. The app is seamless and always work.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Reginald J.",
+      "helpful_votes": 0,
+      "publication_date": 20190718
+    },
+    {
+      "title": "Not working from the beguining, not retail box",
+      "text": "When received it looked more a refurbished unit, brown box with a defective product.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "Sadia Benamu",
+      "helpful_votes": 7,
+      "publication_date": 20190826
+    },
+    {
+      "title": "Easy to install and works great",
+      "text": "Just installed this yesterday so I\u2019ll update as time goes on if needed. Took me all of 20 minutes to install. I downloaded the Schlage Home app beforehand and once the lock was installed I created an account, the app found the lock, connected it to my home Wifi, and then took me through the setup process. From removing the old lock to having a fully functioning keyless lock working via the app it was well under 30 minutes. The lock itself is very solid, looks great, and functions well. So far it\u2019s definitely 5 stars!",
+      "rating": 5.0,
+      "verified": true,
+      "author": "R Smith",
+      "helpful_votes": 0,
+      "publication_date": 20200222
+    },
+    {
+      "title": "Worst Lock Ever",
+      "text": "We had used a basic Schlage keypad lock for years with great success at our beach home. After at least 10 years, it finally corroded with the salt air. We bought this lock which was getting great reviews. Our first one completely quit working within a matter of months. Schlage customer service was great to deal with and sent me a gift card to buy another one. The next one lasted a few short weeks. Completely quit working while we had someone renting for a week. It is NOT good in humid conditions. Condensation built up both times inside the unit.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "Elliesmom",
+      "helpful_votes": 2,
+      "publication_date": 20200127
+    },
+    {
+      "title": "Beware of Open Box Option",
+      "text": "Disappointed - purchased an Open Box set, with the listing showing the Encode lock in matte black and stating box damage. Upon receipt, I received a completely different Schlage exterior door handle and interior door handle and an Encode booklet inside. Sadly, I think someone made a dishonest return and I ended up paying the price for it. Was my first time giving the Open Box purchase a try, and I clearly learned my lesson. Already on my porch to return!",
+      "rating": 1.0,
+      "verified": true,
+      "author": "Julie",
+      "helpful_votes": 0,
+      "publication_date": 20200417
+    },
+    {
+      "title": "If wifi is important, probably not the lock for you",
+      "text": "The first lock I received was defective. The phone screen wouldn't work. Amazon and Schlage were quick to send me a new lock. I cannot for the life of me get this lock to connect to my wifi. No matter what i do it will not connect. It kind of defeats the purpose of spending the extra money for a wifi enabled lock when that will not work. After digging for solutions i found out this is a common problem. Schlages only advice is to reset the lock which doesn't help.",
+      "rating": 4.0,
+      "verified": true,
+      "author": "Erin",
+      "helpful_votes": 0,
+      "publication_date": 20200304
+    },
+    {
+      "title": "Very annoying feature",
+      "text": "It's a good lock with a very helpful smart phone app. However, it has an exceptionally annoying feature: it gives you two second to enter. It gets worse: when this lock displays a sign that you can enter, don't pull the door right away. If you do, the lock won't let you in. You have to wait a second to do that. But don't wait 4 seconds either! If you want a second or two longer then you should, you won't be able to get it as well and you would have to enter your key code again. My previous review: I love this lock. Wow. It's worth every penny.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "Anton",
+      "helpful_votes": 0,
+      "publication_date": 20191203
+    },
+    {
+      "title": "Great Digital Lock!",
+      "text": "My first digital lock and I want to replace every lock with a digital! I had a locksmith install so I can't comment on the installation. I also have not had to use the support and can't provide any comments. I purchased this for a second home and love the ability to create a different code for anyone that may need to access the house. I also love the alerts and notifications that let me know when the door is locked or unlocked. Bottomline - I would recommend this lock for anyone that is looking for a way to manage and control access.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "DFG",
+      "helpful_votes": 0,
+      "publication_date": 20191114
+    },
+    {
+      "title": "Working well",
+      "text": "Update: I Gorilla Glued a washer to the part that broke and installed the lock. It has worked really well for the last couple of weeks. I love the notifications. voice control, and app! The flimsy part that turns the lock broke during installation. So the whole lock is useless. This is also far from my first door lock installation and I was merely trying to change my smart lock to one I could control from my phone. I had to put my old one back on.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "mel_danielle",
+      "helpful_votes": 0,
+      "publication_date": 20191105
+    },
+    {
+      "title": "Great lock for kids!",
+      "text": "I bought this lock as a bundle with a Ring doorbell. I wanted my daughter to be able to get into the house after school and not have to carry a key. This lock was very easy to install and was fully operational in about 20 minutes. The finish is smart looking, and the lock well made. I love the smartphone app that allows me to lock/unlock remotely, or get alerts when I\u2019m away from home. I have setup entry codes for family members, and can add temporary codes in seconds for neighbors, babysitters, even works with Amazon Key for inside delivery!",
+      "rating": 5.0,
+      "verified": true,
+      "author": "CM",
+      "helpful_votes": 0,
+      "publication_date": 20190708
+    },
+    {
+      "title": "Works well with google assistant or without it",
+      "text": "The product\u2019s own app makes this super easy to program and use. You don\u2019t need google assistant, home kit or Alexa. Coordinating with my ex and our daughter\u2019s friends for pod distance learning at my house is super easy (if someone gets there before I am back in the morning). Also, you can program up to 100 entry codes - and it only takes a moment to add or delete one. Also, it does work really well with google assistant.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "M. B.",
+      "helpful_votes": 0,
+      "publication_date": 20200916
+    },
+    {
+      "title": "Bad customer service and product doesn\u2019t work",
+      "text": "Customer service is very difficult to reach, but once I was able to speak with a person a new lock was sent within 10 days. Unfortunately, the new lock died just as quickly as the original. Do not follow Schlage instructions on requesting replacement. You will never get a reply to your email. You have to call them to get anything done. We are going to give them one more chance, but if we have the same problem, they will strike out with us. On a side note, we ordered one for the front door when we placed our original request. So far we have not had any problems with that unit. Fingers crossed that I haven\u2019t just jinxed myself.",
+      "rating": 2.0,
+      "verified": true,
+      "author": "Shoe Closet",
+      "helpful_votes": 0,
+      "publication_date": 20191120
+    },
+    {
+      "title": "Problems with firmware update and Alexa",
+      "text": "I just installed a new Schlag encode smart lock. The installation went smoothly, but when I tried to update firmware on my iPhone it kept failing. Alexa connection is also intermittent as it often complains that \"the hub ... is not responding\". The Schlag iphone app is not very helpful either, which can display the status as locked even though it's the opposite. The refresh button is useless, and I have to touch the lock button to lock/unlock it again just to confirm. I have the latest iPhone OS. And my home network was running on TP-Link Deco mesh.",
+      "rating": 2.0,
+      "verified": true,
+      "author": "Anstrom",
+      "helpful_votes": 0,
+      "publication_date": 20191211
+    },
+    {
+      "title": "Love the lock, but software is a bit finicky.",
+      "text": "Looks very nice and the actual locking mechanism works great. Heavy and well made. Installation is a little complicated, but if you go slow and carefully follow directions, you should be okay. However, connecting with Alexa was kind of a pain, and most problematic was the Schlage software. I get logged out for no reason, and then have trouble logging back in. Even so, I would recommend for a smart home setup. The history of locking and unlocking can be really helpful in keeping track of who is coming and going.",
+      "rating": 4.0,
+      "verified": true,
+      "author": "James K. Nicholls",
+      "helpful_votes": 0,
+      "publication_date": 20200110
+    },
+    {
+      "title": "Very secure and easy to install",
+      "text": "I am using this with Amazon Key and Ring Doorbell 2. You should do the physical installation first, then Amazon Key, then Ring setup. This all worked fine for me (aside from Ring Doorbell 2 occasionally has issues connecting video but that has nothing to do with this lock). I appreciated that the lock itself comes with a reinforcement plate with deep screws for the door-frame. Installation was very straightforward as we were replacing another lock. Instructions were thorough.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Amazon Customer",
+      "helpful_votes": 0,
+      "publication_date": 20190903
+    },
+    {
+      "title": "motor/gear reduction failed after 30 days",
+      "text": "lock was great for a month, and then the motor quit. when the motor stops you cant open it easily with a key. you have to force the lock through the gear reduction. waiting to see what the fix and support will be for my dead motor.",
+      "rating": 2.0,
+      "verified": true,
+      "author": "Nicholas Berry",
+      "helpful_votes": 3,
+      "publication_date": 20190818
+    },
+    {
+      "title": "Wi Fi Enabled Smart Lock",
+      "text": "This lock is wifi enabled and allows use with the Schlage or Amazon lock app via iPhone. Unlike other Schlage smart locks, there is no need for a separate hub, etc. I found it no more difficult to install than a normal lock. Directions excellent, and the lock works as intended, with the ability to add and delete codes from the app, as well as open and lock remotely. The only issue I have found is that it alerts that it is searching for a wireless connection when the connection is there and the lock is functioning.",
+      "rating": 4.0,
+      "verified": true,
+      "author": "I was there",
+      "helpful_votes": 0,
+      "publication_date": 20190506
+    },
+    {
+      "title": "GREAT SMART LOCK",
+      "text": "We got one to try out. From the ones we were considering we liked the look of this one the best (inside and out). After using it for several weeks, we got one for every external door of the house (3 more). Needless to say we love this lock. Its easy to install and set up. We love all the features. Being able to lock and unlock while you're away to let guests in is awesome. Setting temporary codes...etc.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "K3Y",
+      "helpful_votes": 0,
+      "publication_date": 20201009
+    },
+    {
+      "title": "Great addition",
+      "text": "So glad we finally got this lock. It's so easy to use and gives peace of mind that we can't get locked out. The only thing so far, is the battery doesn't give you long to change when it's getting low. Love the fact we can give friends a code to come check on the house and the code is easily removed. Also you get the app and you see when the door has been activated. Does more than we need really, as we don't have Alexa!",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Claire",
+      "helpful_votes": 0,
+      "publication_date": 20200829
+    },
+    {
+      "title": "Great keyless deadbolt",
+      "text": "Love it and works great. Truly nice not needing key and either using code, Alexa or app to open door. Also love the delay feature that locks automatically after a set time so never have a situation where the kids forgot to lock door behind them . On,y comment is the previous deadbolt hole size was smaller so it may be not as easy for some to re drill an existing hole. We did with no issue but had the right tools",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Mat T",
+      "helpful_votes": 0,
+      "publication_date": 20200117
+    },
+    {
+      "title": "the wiring keeps coming off rendering the front keypad not responding",
+      "text": "the wiring keeps coming off rendering the front keypad not responding. Called tech support and was told to use electric tape to hold the wires connected, which is not resolving the issue. With the tape, the lock jammed. This would have been a great product if the wire stayed connected. Shame for the poor design.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "Amazon Customer",
+      "helpful_votes": 3,
+      "publication_date": 20190627
+    },
+    {
+      "title": "Finally.. a legitimate SMART home solution.",
+      "text": "For those who are not mechanically inclined installations can be a bit intimidating. Not so with the Schlage encode. The instructions were straight forward and easy to follow. The lock was installed and operational in less than 15 minutes. The software application has a simplistic user interface that allows you to manage users, lock and unlock your door remotely and set auto lock features so your door locks behind you. This lock is also wifi capable so there is no need to purchase additional components (e.g. smarthub) Overall, I am extremely happy with this purchase.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Rick G",
+      "helpful_votes": 0,
+      "publication_date": 20190810
+    },
+    {
+      "title": "Stopped working after 10 months",
+      "text": "This was great but after 10 months the key pad is no longer working at all. Tried battery replacement and made sure the key pad wire connection was tight. The keypad just won\u2019t do anything, still works with thumb turn and app BUT we got this specifically to allow people to come into the house when not home for home services. Should not have bought on amazon because after 10 months, there is not even an option to contact the seller let alone request refund or replacement. $250 for 10 months....ugh",
+      "rating": 2.0,
+      "verified": true,
+      "author": "Chrissy",
+      "helpful_votes": 0,
+      "publication_date": 20200901
+    },
+    {
+      "title": "Deadbolt is great, lever and knob options are needed.",
+      "text": "This is the first deadbolt I was ever excited about. - It took about 15 minutes to install the hardware. - The software/setup instructions were vague. A card was in the box that referenced the Amazon Key app. YouTube pointed me to the Schlage Home app which I downloaded instead. - The Schlage Home app was easy to set up, add users, time restrictions, and notifications. - The lock connected to the existing wi-fi. My only complaint is that these features are only available on the deadbolt. I would like to replace several other locks and use the Schlage Home app to control them but Schlage only offers these features on the Encode deadbolt.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Jim",
+      "helpful_votes": 0,
+      "publication_date": 20191125
+    },
+    {
+      "title": "Must put PASSCODE on your phone to use app",
+      "text": "I just installed it last night. One problem we had was that it appeared to be for a right swing door....once we installed it and connected the app...it automatically calibrated to the correct swing! One major Con I do not like....the app MAKES you put a passcode on your PHONE! Why wouldn\u2019t SCHLAGE just passcode the App?????",
+      "rating": 4.0,
+      "verified": true,
+      "author": "melanie",
+      "helpful_votes": 0,
+      "publication_date": 20200111
+    },
+    {
+      "title": "wifi users do not work",
+      "text": "Like many other reviews that I read... the wifi feature s a joke.... it says you can have 100 users which couldn't be more wrong....I have tried dozens of times and even used tech support... It will only take three codes and errors out. That's a little disappointing but we can make it work with just 3 numbers.",
+      "rating": 2.0,
+      "verified": true,
+      "author": "gary kramer",
+      "helpful_votes": 2,
+      "publication_date": 20191022
+    },
+    {
+      "title": "Improved Access and Security",
+      "text": "I wear an emergency help device but was concerned EMT might not be able to enter home if I couldn't get to door. This unit allowed me to give a one-time code to the help center that they can give to EMT when they are dispatched. I feel this is a much more secure arrangement than hiding a key outside or giving a key to a neighbor--who might not be available when needed, My son-in-law easily installed it.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "John",
+      "helpful_votes": 0,
+      "publication_date": 20191218
+    },
+    {
+      "title": "Keyless opener",
+      "text": "Works well with Google Home Hub, love this feature. It was always a question if we locked the door when we went to bed, well the door gets locked automatically by Google. No need to carry a key to get in the house, we can unlock the door for family without being home. You can even give someone a temporary code to get in. Of course you get notifications every time the lock is opened or locked. A+++",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Gary L DiClementi",
+      "helpful_votes": 0,
+      "publication_date": 20200223
+    },
+    {
+      "title": "Works Through home wi-fi & downloaded apps on an iPhone & Samsung",
+      "text": "I needed to drill the door it was not a deadbolt replacement. So I had it professionally installed, but it was pretty standard basically a deadbolt installation. I know the deadbolt needs to freely move and engage for the door to lock. I set the codes and phone app, no extras just used my home wi-fi. so far it works with keypad code or remotely with phone apps on an iPhone and a Samsung. Pretty simple and it works!",
+      "rating": 5.0,
+      "verified": true,
+      "author": "jack & jane",
+      "helpful_votes": 0,
+      "publication_date": 20200218
+    },
+    {
+      "title": "Invisible Numbers",
+      "text": "I like the lock ... but I feel like Schlage misleads us with pictures that show VISIBLE numbers on the matt black screen. The number are completely invisible. I always have to tap the LOCK button to get the backlighting to come on ... but then you have just milliseconds to enter your code or it all goes DARK again.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "robert duplaine",
+      "helpful_votes": 0,
+      "publication_date": 20191001
+    },
+    {
+      "title": "Failed on me but great when working.",
+      "text": "This is a great lock for your home but I have it at a second home. The second time I used it to let in a worker it started showing as unreachable. I could not verify that they locked it when they left and had to have someone check. Appears to be a common problem that\u2019s fixed by taking the battery in and out. I do like it if it starts working but I now feel the need to hide a key too. It also is hard to see the keys at night and you have to guess the first touch to make it light up.",
+      "rating": 2.0,
+      "verified": true,
+      "author": "Ed Jakubiak",
+      "helpful_votes": 0,
+      "publication_date": 20200207
+    },
+    {
+      "title": "Excellent product. Adds a lot of convenience",
+      "text": "It was easy to install and set up and connect it to wifi. I don't have to carry a key anymore. I lock the door when I go out by pressing a button on the lock. I can control it using my phone from anywhere in the world. Amazing conveniences added to my life. When I was on vacation, I was able to let my friend into the house to check on something by opening the lock myself using my phone to let him in and then locking it after he was out. The technology has opened up some new advantages. This particular lock is very sturdy and reliable. Looks nice too.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "TK",
+      "helpful_votes": 0,
+      "publication_date": 20190826
+    },
+    {
+      "title": "GREAT LOCK SIMPLE SET UP",
+      "text": "This smart lock is GREAT, easy to install, you connect the WiFi and set the codes through the Schlage app, and it your done, the Schlage app will notify you when the lock is locked/unlocked and by whom, and you can set it to automatically lock anywhere from 30 seconds to 5 minutes. If for some reason the WiFi is down, all codes you\u2019ve assigned will still work to open the door so you will not be locked out. There\u2019s also a history log in the app showing the locks activity.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Trucker D",
+      "helpful_votes": 0,
+      "publication_date": 20200202
+    },
+    {
+      "title": "Super easy to install and connect to ALEXA!",
+      "text": "This should keep my stalkers away. The lock looks very serious and feels very heavy duty. I can't believe how easy install was. I had to drill out my door a bit as the old lock was a bit undersized but I still had the install done in 20 minutes. The app and Alexa integration was super smooth. The app even has the install process which was cool. I can't say enough good things about this purchase.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "El Pescador",
+      "helpful_votes": 0,
+      "publication_date": 20200707
+    },
+    {
+      "title": "Check your door width",
+      "text": "You need to know if you require the extender to reach through a thicker door. This unit is adaptable. We had to reach out to technical support to confirm the part we needed to extend out for a thicker door. Once we had the extension this lock was actually far easier to install than the much older simpler Schlage unit it replaced. It operates smoothly and with Amazon Key it is easy to track when the unit has been activated. Works with Alexa by voice. Very handy feature.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Courtfish",
+      "helpful_votes": 0,
+      "publication_date": 20191204
+    },
+    {
+      "title": "The Keypad not work well",
+      "text": "Hi, I got this because of name of the company so I trust it. anyway, I find out when I receive it that I have a problem in it in the keypad randomly. like sometime number 1 one work and sometime is not!! sometime 3 numbers not working and some time all of half of them, so I use it as normal lock now hahahahahah and I lost my money in it. The amazon costumier care did not deal with my problem wright. its much better you get from there website directly or their store not from Amazon.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "Hadi Al Gareshah",
+      "helpful_votes": 3,
+      "publication_date": 20190926
+    },
+    {
+      "title": "Works good, so far.",
+      "text": "I should note that if you set it up for testing before you install it, you need to delete the Lock from the app and then reset the lock to factory defaults. It wouldn't work correctly until I took these steps. My only thought is during part of the setup, the bolt traveling distance is set. For my actual installation I had to remove \"the hole adapter\" which allowed the lock to be installed in a 1-1/2\" hole. There are instructions online how to do this, it involves removing a screw and then turning the adapter.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Marvin Lipschitz",
+      "helpful_votes": 0,
+      "publication_date": 20190619
+    },
+    {
+      "title": "Nice and Very Functional",
+      "text": "This deadbolt was very easy to install. I only had one problem and that was the plug connecting the battery power supply to the the deadbolt. It has a very tiny plug and it can be plugged in upside down and the locking function will work but the keypad won't. The enclosed directions could have pointed this out. Other than that little problem it's a snap to install and the app is very easy to use.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Coffee Lover",
+      "helpful_votes": 0,
+      "publication_date": 20201020
+    },
+    {
+      "title": "Junk",
+      "text": "Lock worked perfect for 5 months then randomly disconnected from WiFi and won't reconnect. Very common issue after reading support groups, reviews with no solution from schlage. Going to find a way to return this garbage",
+      "rating": 1.0,
+      "verified": true,
+      "author": "Michael",
+      "helpful_votes": 0,
+      "publication_date": 20200912
+    }
+  ],
+  "product_meta": {
+    "title": "Schlage Encode Smart WiFi Deadbolt with Century Trim in Matte Black (BE489WB CEN 622)",
+    "description": "Size:Lock Only| Style:Century| Color:Matte BlackSchlage Encode Smart Wi-Fi deadbolt offers peace of mind from anywhere by allowing you to remotely manage your lock via the Schlage Home app or Key by app. There\u2019s no need to purchase an extra accessory/hub to connect to your lock from anywhere \u2013 it will connect to your home\u2019s Wi-Fi signal similar to your laptop, making it easy and intuitive to use. Graded best in security, durability and finish by industry experts, Schlage Encode Smart Wi-Fi Deadbolt offers the advanced features of secure encryption and built-in alarm technology. This innovative smart deadbolt is available in a variety of styles and finishes that pair perfectly with Schlage interior door hardware, creating a cohesive look throughout the home. Backed by a limited lifetime mechanical/finish and 3-year electronics , as well as the strength and durability you can expect from a brand with more than 95 years of experience.",
+    "rating": 4.6,
+    "feature_bullets": [
+      "Built-in WiFi allows you to lock/unlock from anywhere - no additional accessories required. Pair with the Schlage Home app or Key by Amazon app to create and manage up to 100 access codes for trusted friends and family for recurring, temporary or permanent access",
+      "Works with alexa. Check the status of your lock and lock / unlock your door. In addition, Alexa will let you know when your battery is running low or set-up smart reorders through Amazon Dash Replenishment so you always have replacement batteries when needed.",
+      "Fingerprint-resistant, capacitive touchscreen with easy one-touch locking. Optional voice control offers hands-free convenience when using voice-enabled products",
+      "Built-in alarm technology senses potential security breaches at the lock, while the low battery indicator offers advanced warning for battery replacement",
+      "Easy to install with just a screwdriver. Unique Snap \u2018n Stay technology snaps the deadbolt onto the door so both hands are free during installation",
+      "Guaranteed to fit standard doors. Comes with limited lifetime mechanical/finish and 3 year electronics warranty. Valid only on \u201cShips from and sold by Amazon.com or Buildcom\u201d purchases"
+    ],
+    "specifications": {
+      "Manufacturer": "Schlage Lock Company",
+      "Part Number": "BE489WB CEN 622",
+      "Item Weight": "3 pounds",
+      "Product Dimensions": "2.26 x 3 x 5.47 inches",
+      "Item model number": "BE489WB CEN 622",
+      "Batteries": "1 Lithium ion batteries required.",
+      "Size": "Lock Only",
+      "Color": "Matte Black",
+      "Style": "Century",
+      "Finish": "Matte",
+      "Item Package Quantity": "1",
+      "Included Components": "Batteries, Backup Key, Lockset, Quick Start Guide",
+      "Batteries Included?": "Yes",
+      "Batteries Required?": "Yes",
+      "Battery Cell Type": "Alkaline",
+      "Warranty Description": "Limited lifetime mechanical /finish, 3 year electronics",
+      "ASIN": "B07HXMLCBT",
+      "Customer Reviews": "4.6 out of 5 stars3,049 ratings4.6 out of 5 stars",
+      "Best Sellers Rank": "#551 in Tools & Home Improvement",
+      "Date First Available": "January 5, 2019"
+    },
+    "categories": [
+      "Tools & Home Improvement",
+      "Hardware",
+      "Door Hardware & Locks",
+      "Deadbolts"
+    ],
+    "price": 215.62
+  }
+}

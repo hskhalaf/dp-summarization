@@ -1,0 +1,877 @@
+{
+  "website_summaries": [
+    {
+      "verdict": "This isn't simply a powerline kit with Wi-Fi. Devolo has combined the latest powerline standard with mesh Wi-Fi to create a the best of both worlds. It means the Magic 2 WiFi kit is ideal for homes with very thick walls or the largest homes and can provide fast Wi-Fi everywhere. You can expand it with extra adaptors and - overall - it's very good value when compared with traditional Wi-Fi-only mesh systems.",
+      "pros": [
+        "Fast Powerline",
+        "advanced Mesh Wi-Fi features"
+      ],
+      "cons": [
+        "2,400Mbps Powerline not double 1,200Mbps speeds"
+      ],
+      "aspects": {},
+      "publication_date": 20200131,
+      "rating": 8.0,
+      "source": "pcmag"
+    }
+  ],
+  "customer_reviews": [
+    {
+      "title": "Excellent",
+      "text": "I have been using devolo for many years now (since 200). This is the best one. Make sure to upgrade the firmware. Use Cat6 cable. The speeds have improved a lot after FW upgrade. devolo-ghn_upgrade_hw000B3B02-10_7.8.1.9.bin",
+      "rating": 5.0,
+      "verified": true,
+      "author": "sam",
+      "helpful_votes": 17,
+      "publication_date": 20181202
+    },
+    {
+      "title": "Unreliable",
+      "text": "I have a mesh wifi system which occasionally drops, I bought these to try and iron those issues out, unfortunately these are more likely to stop communicating with each other and the speed drops were quite surprising. I have 200mb broadband, with my mesh system I regularly get full speed, with these I maxed out at 100mb, despite their claim of 2gb. Removing them from my network immediately brought everything back up to full speed, I'm not intending to run cable around the outside of the house to fix the reliability issue.",
+      "rating": 2.0,
+      "verified": true,
+      "author": "O. Ashcroft",
+      "helpful_votes": 8,
+      "publication_date": 20190416
+    },
+    {
+      "title": "Unrealistic range advertised",
+      "text": "Bought these after testing the previous generation with range+ as those were good but we needed that bit extra - devolo tech support quite helpful and recommended the magic 2 range as they go up to 500m. However... these units had at most a quarter of the range of the previous generation for us. They could not pair to each other over 80m of 25mm2 cable with no heavy loads, this is far bigger than the cable you would see in your house. If you want good speed over a short run they could do you fine but if you have any interest in range look elsewhere!",
+      "rating": 1.0,
+      "verified": true,
+      "author": "BXB",
+      "helpful_votes": 7,
+      "publication_date": 20190620
+    },
+    {
+      "title": "Devolo software said 800-900Mbps; actual iperf test between two computers said 120Mbps",
+      "text": "In reality, these are not good for speed; Devolo software said \u2013 in some cases; the figure would fluctuate \u2013 between 800 and 900Mbps connection between the two nodes. In fact, when tested, in both directions, using iperf2 and iperf3, the real speed was between 100 and 200Mbps. I have returned these; I'm using Plume wifi instead, which provides the speeds I was looking for.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "Mr Fuller",
+      "helpful_votes": 7,
+      "publication_date": 20190411
+    },
+    {
+      "title": "disappointing performance",
+      "text": "I bought this to replace some older Devolo kit in the hope that I could get UHD+HDR from my plex server. I did some some tx tests on this and the home start kit. The numbers produced by the cockpit software are a work of fiction and bear no resemblance to reality. Would not sustain anything over 100mb/s when set up in different rooms. Even in the same room the best I could get was 300mb/s (against a claimed 1800mb/s). Returned for a refund",
+      "rating": 2.0,
+      "verified": true,
+      "author": "Andy",
+      "helpful_votes": 5,
+      "publication_date": 20181223
+    },
+    {
+      "title": "Does what I wanted it to.",
+      "text": "Very pleased. Easy to set up. For some time I have wanted to run a Sky Q minibox in a manshed at the end of the garden, too far away for 5GHz wifi even with boosters. I was skeptical about a homeplug working because of the age of the wiring and potential interference from other electrical devices. But work it does. Ethernet cable from the adapter to the minibox works well enough for 1080i live video on Sky and Netflix and spare bandwidth to use the minibox wifi at the same time. Only issue is the price.",
+      "rating": 4.0,
+      "verified": true,
+      "author": "Martin",
+      "helpful_votes": 2,
+      "publication_date": 20200202
+    },
+    {
+      "title": "What an utter dissapointment",
+      "text": "This product will be good for a basic home setup, but if you have a more complicated network forget it. After pairing, they still would not provide a ping across my network. I used my existing home plugs to bridge my network (DHCP comes from a NAS and not the router) and then they worked. It looks like the primary plug needs DHCP to come from the router and internet access before they spring into life. A serious design flaw so im returning as faulty.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "Amazon Customer",
+      "helpful_votes": 3,
+      "publication_date": 20200427
+    },
+    {
+      "title": "Disappointing, save your money and get the Devolo 1200 range.",
+      "text": "Not worth the extra price.. I got these to replace Devolo 1200 adapters but the range is only fractuonally longer. Not seen any sign of true Mesh technology working.. I have one in a garage that JUST reaches the master unit and then tried adding one to the summerhouse beside the garage that is powered from the same garage but it would not connect up... it was trying to talk directly to the master rather than the nearby (electrically and proximity) device in the garage. Also, if they were truly Mesh and thought out better, you should be able to extend the range using wifi to wifi but nope.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "Amazon Customer",
+      "helpful_votes": 0,
+      "publication_date": 20191229
+    },
+    {
+      "title": "So far so good!",
+      "text": "I have tried many extenders but then my WiFi support suggested me to try this power line. I have tried one from Virgin and it didn\u2019t work, all other extenders they have really poor signal or WiFi was down. This piece is super easy to instal, it took me approx 5 minutes! Than I just disconnected and brought it to the place with lack of WiFi and it worked. It gave me the same performance as a broadband! So for now, I highly recommend it! Ps: once you bring it to your new place the speed might jump up and down for a few minutes, just wait and it will work!",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Amazon Customer",
+      "helpful_votes": 2,
+      "publication_date": 20200528
+    },
+    {
+      "title": "Don't waste your money!",
+      "text": "These are quite honestly terrible! Do Not be drawn by the 2400mbps as this is very clearly a pipe dream. Whilst I appreciate these speeds are theoretical I simply cannot understand under what perfect conditions this could or would ever be attained. Yes, this product requires your properties internal copper wiring to carry data, but the absolute maximum this has achieved is 120mbps, under any circumstance and tested extensively in a new build property. Given the old 500mbps model which this was to replace provides 85mbps, don't be drawn in by the quoted ability. A WiFi dongle is more than twice as fast as this. Item returned for a refund.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "Amazon Customer",
+      "helpful_votes": 2,
+      "publication_date": 20200515
+    },
+    {
+      "title": "Good speed",
+      "text": "Excellent. I can get up to 145 Mbps real internet traffic over this from the fibre terminal, which is good for powerlines. I was looking for a powerline with a single ethernet socket and this is only model having high speed as well. I had a pair of TP Link 8010P, but these can't get over 80Mbps. There are compatible in speed with TP Link 9020P av2000 and BT mini connectors V2 which I also had, but work with IGMP better. If you need to connect fibre terminal to a router over WAN I would recommend these, as single LAN socket does not break IGMP broadcast for online TV channels (e.g. BT Sport).",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Andrei",
+      "helpful_votes": 0,
+      "publication_date": 20200903
+    },
+    {
+      "title": "Great for connecting Sky Q mini box to a LAN",
+      "text": "Have had many connection issues with my Sky Q mini boxes over WiFi. I tried this LAN only version as adding additional WiFi can cause other issues and this sorted the problem perfectly. The triple port means you can connect the smart tv and PS4 too. Easy to set up but you must follow the instructions and do not plug anything else into the second socket if it\u2019s a double. One last tip, make sure you do the firmware update straight away to ensure you have the latest version. In my opinion worth every penny for the super fast three port version.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "MH",
+      "helpful_votes": 0,
+      "publication_date": 20200725
+    },
+    {
+      "title": "130mb speed on 220mb line (3 floors up)",
+      "text": "Really good product, I previously had a Netgear 1200 poweline adapter which was only \u00a345 but was only getting around 45mb on a 200mb broadband connection. When I switched to this product I am now getting 140mb, huge improvement from Netgear adapter. I'm also on the 3rd floor while router is on ground so it has quite away to travel. Would probably get much faster connection if closer to router but this great has no need for a network cable to run around the whole house. 140mb with 17ms ping is great and the extra money makes up for the performance boost.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Elvio Rodrigues",
+      "helpful_votes": 0,
+      "publication_date": 20200507
+    },
+    {
+      "title": "most reliable set ive had",
+      "text": "these powerline adaptors are the best ive had. the speed is nothing like they advertise which i largely expected. but the key thing for me is reliability. i have never had a pair from any manufacturer which stayed connected as well as these have. one point to note is i turned off all power saving options and bumped it up to full power signal to achieve this.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "nrob",
+      "helpful_votes": 0,
+      "publication_date": 20200507
+    },
+    {
+      "title": "Game changer!",
+      "text": "Have been struggling with internet coverage in my country house for years and finally contacted a local tech firm who suggested this product. What a difference! One is never really told all the factors in the home that can disrupt wifi coverage and then having an antique of a house with thick brick walls compounded the usual. This product came with clear instructions and was up and running within 5 minutes. Now, no one in the house suffers from buffer-face and working from home is not a chore! Great!!",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Siouxie",
+      "helpful_votes": 0,
+      "publication_date": 20200803
+    },
+    {
+      "title": "Increased performance hype",
+      "text": "Had to call tech support, it was easy getting through on the phone but the engineer did not solve issue or provide any new information, they only seem to have a basic knowledge of their own products. Be aware that the new \"Magic\" model is not backward compatible with other \"dLan\" develo products. This fact is not emphasized in the product description. Running a dLAN network in parallel with Magic network affects the speed. Attained speed is much slower than what is claimed.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "QGu",
+      "helpful_votes": 0,
+      "publication_date": 20200924
+    },
+    {
+      "title": "Lasted 4 months - Devolo support appalling",
+      "text": "This has stopped working after 4 months Amazon support very good - but had to ring Devolo support who were rude and very unhelpful I would not use Devolo again",
+      "rating": 1.0,
+      "verified": true,
+      "author": "cw",
+      "helpful_votes": 4,
+      "publication_date": 20190910
+    },
+    {
+      "title": "Very disappointing",
+      "text": "I had the plug in my hallway where my router was situated. The two nearest plugs in the rooms on either side of the hall (about 3 meters away) could deliver a download speed on 290MB, the same that I get when connected directly to the router with a network cable. However, the download speed dropped dramatically at every other plug in the house. I wanted to use these plugs to move my router to my office which is directly above the hall but the download speed was only about 80MB, significantly less than what I can get with WiFi. My house is about 3 years old so the wiring should be relatively good.",
+      "rating": 2.0,
+      "verified": true,
+      "author": "Austin McGlade",
+      "helpful_votes": 2,
+      "publication_date": 20191031
+    },
+    {
+      "title": "Great for taking broadband to a whole new level, upstairs!",
+      "text": "Had 500+ before, they developed a 100Hz whistle, very irritating. Decided, after a few months to upgrade them to these latest. Silent, dependable and once updated to latest firmware reliable.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "TheGladiator50",
+      "helpful_votes": 2,
+      "publication_date": 20200519
+    },
+    {
+      "title": "Expensive but worth it",
+      "text": "I'm a long term user of Devolo powerline products. They are amongst the most expensive for powerline adaptors especially the Magic 2) but honestly you get what you pay for. People complaining about problems with setup and connectivity are likely not following the instructions to the letter ( I have been guilty of this myself before). The app is not the greatest for functionality but I'd recommend using it when setting up a new system. Literally took 5 minutes to install these and an extra add on adaptor for fast LAN and WiFi across the whole house.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "WAYNE HOLT",
+      "helpful_votes": 0,
+      "publication_date": 20200907
+    },
+    {
+      "title": "Good, but drawback with WiFi",
+      "text": "These plugs set up automatically and very quickly as it says on the tin. However, if you purchase these Magic 2 dlan adapters, (as I did by mistake, thinking I had selected the WiFi starter pack) and later buy the Magic 2 WiFi adapter, you could be in for configuration problems, because the Magic 2 dlan (nonWiFi) adapters don't have connection buttons. This stops them 'calling' your new WiFi adapter, so you have to use devolo software to set up your wireless network. If you want WiFi, make sure to buy the WiFi kit.",
+      "rating": 4.0,
+      "verified": true,
+      "author": "Paul Nash",
+      "helpful_votes": 3,
+      "publication_date": 20190207
+    },
+    {
+      "title": "Caused interference to Wi-Fi from existing router",
+      "text": "Bought to extend Wi-Fi coverage to far bedroom. Did get a better signal in the bedroom. However, LAN device caused interference to Wi-Fi signal in room with router. Interference was so bad that I was unable to scan using my Wi-Fi printer. The signal strength on the printer went down from 100% to 22% and I had an error message on Printer saying there was interference.",
+      "rating": 3.0,
+      "verified": true,
+      "author": "Shirley",
+      "helpful_votes": 0,
+      "publication_date": 20191031
+    },
+    {
+      "title": "Literally amazing",
+      "text": "I never really write reviews but was looking through my orders to buy a 3rd connection and figured i'd say how good this system is. It's made working from home during lockdown incredibly easy and gives super fast internet wherever I am in my flat. We live in a really old building with thick brick walls and wifi only works in one or 2 rooms - this uses the electric cabling in the flat to transfer the internet somehow - basically means I get 35mb speeds anywhere in the flat its great",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Joe Pirret",
+      "helpful_votes": 2,
+      "publication_date": 20200408
+    },
+    {
+      "title": "so far so good",
+      "text": "decided to buy this to run a music studio upstairs, mixer unit to computers etc. I had a problem with a cable they supplied but Amazon offered a refund to cover that. It works, and i dont seem to have any issues just yet. So it's all looking good meanwhile. And yes, i shut everything down, connected up all the cables and turned on pc the router every thing . within a few minutes both lights changed colour and that was it",
+      "rating": 4.0,
+      "verified": true,
+      "author": "Bob P",
+      "helpful_votes": 0,
+      "publication_date": 20190314
+    },
+    {
+      "title": "Good strong connection.",
+      "text": "I bought the wired only devices to replace some TP-LInk ones that were constantly losing connection. So far after 4 months, they haven't lost connection or pairing once, which is a god send as they are basically connecting my NAS devices to my network. Management is OK from the app and web page and firmware updating is really easy. I can highly recommend these over other manufacturers devices.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Fizban",
+      "helpful_votes": 0,
+      "publication_date": 20200910
+    },
+    {
+      "title": "The best I\u2019ve used - by some margin.",
+      "text": "Many of these wlan extenders or PowerLine systems really don\u2019t work. But these actually do. They are a bit big but solidly built and they provide a fast network across a large house of office despite concrete or steel. The admin app is simple and elegant. For me these trump anything I\u2019ve used by Netgear, Linksys or BT. Give them a try. Amazon will take them back if you don\u2019t get on with them anyway. (You gotta love Amazon).",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Rod Banner",
+      "helpful_votes": 2,
+      "publication_date": 20190310
+    },
+    {
+      "title": "Plug it in then press the buttons",
+      "text": "Did what I wanted it to do, sent a WiFi signal down a 50M corridor from the router to my son\u2019s room in a barn conversion through the electrical wiring, fantastic signal, works great. Not the cheapest you can buy but works really well. Instructions not very clear because they don\u2019t tell you to press the button to turn the thing on, but once you realise that it just sets itself up and away you go. Highly recommend.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Dave L",
+      "helpful_votes": 2,
+      "publication_date": 20190503
+    },
+    {
+      "title": "Amazing!",
+      "text": "Does the job to perfection. Internet problems are history in my bedroom now, and took about one minute to set up along with the other adaptors in the house. Very pleased.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Adil Moghul",
+      "helpful_votes": 2,
+      "publication_date": 20200603
+    },
+    {
+      "title": "It actually works!",
+      "text": "Would not pair automaticity had to press the button a few times but after 10 minutes it finally worked, router in upstairs bedroom pc in garage I was not sure if it would work but hey presto it did much faster and 100% stable compared to my wireless setup. Highly recommended and also does not interfere with my older Devolo set up which is a bonus.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Stanislaw Cichosz",
+      "helpful_votes": 2,
+      "publication_date": 20200705
+    },
+    {
+      "title": "Very good kit, easy to set up",
+      "text": "This was so easy to install and set-up. All up and running in less than 10 minutes. I also have a pair of AV500 powerline adapters (from another manufacturer) operating as a separate network on the same power circuit. No issues, no interference. The Devolo system is running at a reported 1300 Mbps (according to the app).",
+      "rating": 5.0,
+      "verified": true,
+      "author": "R. Bryne",
+      "helpful_votes": 0,
+      "publication_date": 20200827
+    },
+    {
+      "title": "IT IS NOT on the product descriptions",
+      "text": "First thing I noticed from printed manual, I can't use an empty wall socket that is next to devolo adapter plugged in for bandwidth optimising. But recommended to use a power strip via devolo adapter. The dimensions of adapter already big (13.3 cm x 6.6 cm x 4.2 cm) so the manufacturer's recommended usage makes the devolo adapter too bulky.",
+      "rating": 3.0,
+      "verified": true,
+      "author": "Seuluk",
+      "helpful_votes": 0,
+      "publication_date": 20200612
+    },
+    {
+      "title": "Very disappointed with advertising and technical support from devolo",
+      "text": "Despite what it says on the devolo network help pages I was told by devolo technical support that the \u201c Magic\u201d products do not work with their other devices. Nowhere on their advertising guff does it mention this unless I have read the attached page wrong my existing devices should work ( 1200+ dlan triple and 1200+ Wi-fi ac).",
+      "rating": 1.0,
+      "verified": true,
+      "author": "John",
+      "helpful_votes": 0,
+      "publication_date": 20200825
+    },
+    {
+      "title": "Very effective",
+      "text": "I bought the kit with two extension units. Gave up trying to set up the second after getting the first to work. Lots of contradictory guides on the internet and the Suppliers guide didn\u2019t work for me. Certainly not Plug and Play. But on the other hand the range is fantastic and that is what matters to me!",
+      "rating": 4.0,
+      "verified": true,
+      "author": "Twosmiles",
+      "helpful_votes": 0,
+      "publication_date": 20200807
+    },
+    {
+      "title": "Tried to tie 4 units into a system and it does not work",
+      "text": "I have tried around the house to attach 4 Devolo Magic 1 LAN High Performance Add-On Powerline Adapter into a network and they are just not working - they are continually fighting for supremacy with one another and the network is in permanent reboot mode. I chose these as they are just straight LAN adaptors with none of the wifi features.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "Amazon Customer",
+      "helpful_votes": 0,
+      "publication_date": 20200315
+    },
+    {
+      "title": "This device is NOT compatible with a DLan network -",
+      "text": "Just to be absolutely clear - this product is NOT compatible with a DLan network. It CANNOT be added to an existing DLan network for which one needs to by the DLan equivalent. This has been confirmed by personal experience (Doh!) and talking to Devolo support. Buy only if you wish to add to an existing MAGIC network. Thank you Amazon for accepting a return. Other than that I'm sure that this is an excellent product - I have been very happy with DLan.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Mr. Stephen Rothwell",
+      "helpful_votes": 0,
+      "publication_date": 20190506
+    },
+    {
+      "title": "Frequent drop outs",
+      "text": "I really wanted these to work, but unfortunately for me they kept dropping the connection. Oh and they run too hot. A lesson learned for me is to invest in proper Ethernet cable around the house, even if it does mean lifting floor boards. Returned for a refund.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "Jim P",
+      "helpful_votes": 0,
+      "publication_date": 20200818
+    },
+    {
+      "title": "Devolo Magic 1-1200 Wi-Fi",
+      "text": "Very expensive, haven't made up my mind if I'm paying for a good product or the name! However, it does what it says on the package.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "ErrolG",
+      "helpful_votes": 0,
+      "publication_date": 20201002
+    },
+    {
+      "title": "I cannot get this to work!",
+      "text": "This is supposed to be plug and PLAY AND I Bought it along with a starter kit but it will not connect the red plc light keeps flashing the wi fi seems to connect OK at least the light is solid white I am returning this to Amazon and asking if its compatible with the starter kit I bought",
+      "rating": 1.0,
+      "verified": true,
+      "author": "I. Cruickshank",
+      "helpful_votes": 0,
+      "publication_date": 20200509
+    },
+    {
+      "title": "Avoid",
+      "text": "There\u2019s bound to be better ones out there for a lot less money. Wi-fi signal is so poor. The setup and the app that comes with it is not easy or user friendly.",
+      "rating": 2.0,
+      "verified": true,
+      "author": "Ronoc R",
+      "helpful_votes": 2,
+      "publication_date": 20190625
+    },
+    {
+      "title": "They work and I like the non WiFi versions.",
+      "text": "I have used earlier versions and found them to be very useful. I wanted a faster version these work well. A triple upstairs provides a either net to a smart TV, Blue-ray player and an old Mac... Note: My suggestion is to not bother with the WiFi version\u2019s. If your WiFi wants fixing buy a better WiFi router... I like these new faster ones a lot.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Anthony",
+      "helpful_votes": 0,
+      "publication_date": 20201004
+    },
+    {
+      "title": "excellent purchase",
+      "text": "Needed wifi in my summerhouse which is on a different circuit/ring from my house This has given me the same wifi strength at the bottom of the garden/summerhouse where previously i had zero coverage. Added advantage of having 2 LAN ports so can hardwire if needed. The setup was so simple - plug and play. Recommend this product one thing i would say, the actual product is larger than i expected but does not cause me any issues.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Amazon Customer",
+      "helpful_votes": 0,
+      "publication_date": 20200424
+    },
+    {
+      "title": "Impossible Set-up",
+      "text": "The instructions couldn't be easier, it is simply Plug-and-Play. The one I got was Plug-and-NOT-Play. Following the instructions precisely to Step 3, it failed to have both adaptors flash white, only 1 flashed white. Worked on everything I know for 2 hours then called in help from a Desktop support friend, where we downloaded the app onto my phone and tried it that way. Still no joy. The LAN Adaptor was found and one of the WiFi adaptors was but the other one was not. Had enough. Returning them. I'm never going to get those hours back again ...",
+      "rating": 1.0,
+      "verified": true,
+      "author": "Dr Glop",
+      "helpful_votes": 0,
+      "publication_date": 20200401
+    },
+    {
+      "title": "Problem with Sky Q? Get these - sorted",
+      "text": "If you need to connect to your router from a location in your house that Wi-fi signal strength is poor in, then get the starter pack. Brilliant way to data stream. I have had some dropouts which may have been because of ADSL line dropouts. The only other concern is they run hot even without any mains load. If you don\u2019t want to run cables or can\u2019t run them then these are the answer.",
+      "rating": 4.0,
+      "verified": true,
+      "author": "Amazon Customer",
+      "helpful_votes": 0,
+      "publication_date": 20190722
+    },
+    {
+      "title": "Works very well but patience required with set up",
+      "text": "Units not recognised by App until update completed. Only then was set up straight forward. Using WPS on router to clone the mesh took several attempts. Inexperienced might have given up before successful set up achieved. Wi-fi connection speeds excellent throughout old thick walled property. Final unit on submain via 2nd home consumer unit worked best placed on first socket after board.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "MR K.",
+      "helpful_votes": 0,
+      "publication_date": 20200709
+    },
+    {
+      "title": "Customer Serviceis rubbish",
+      "text": "When it works it is brilliant, but they only seem to last 6 months before burning themselves out. They come with a guarantee and Amazon were brilliant at reimbursing you immediately when returning the product. You now have to deal with the manufacturers and 6 weeks later I still haven't received a replacement or a refund or an acknowledgement since sending proof of purchase. My house is 8 storeys and it works perfectly for awhile and then they get very hot and stop working.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "Turner",
+      "helpful_votes": 0,
+      "publication_date": 20200808
+    },
+    {
+      "title": "Good but disappointed.",
+      "text": "Quick and does exactly what I wanted. However, If I'd known they were completely incompatible with Devolo Powerline products I wouldn't have bothered and just but a fast powerline unit.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "StevenB",
+      "helpful_votes": 0,
+      "publication_date": 20191118
+    },
+    {
+      "title": "They work!",
+      "text": "Replaced my old wifi boosters with these and whoopee! Instantly better and speedier signal. Tech support not needed and installation simple - just plugged them in.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Mrs. J. A. Pritchard",
+      "helpful_votes": 0,
+      "publication_date": 20191114
+    },
+    {
+      "title": "Does what it says on the box",
+      "text": "Received the item pretty quick. Was sceptical about the product but i have to say, installation took less than 5 mins total. That includes reading the manual. Its working a charm and seamless connectivity around the house now!",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Mahendaraj",
+      "helpful_votes": 3,
+      "publication_date": 20181210
+    },
+    {
+      "title": "DO NOT WORK WITH Older dLan Devolo adaptors",
+      "text": "BE AWARE, if you buy these you cannot use Devolos own dLan series adaptors, this is hidden in the small print and I only discovered this by accident after two days of wasted time trying to figure out what my network was not working.",
+      "rating": 3.0,
+      "verified": true,
+      "author": "T Exton",
+      "helpful_votes": 0,
+      "publication_date": 20200602
+    },
+    {
+      "title": "Improved wifi signal significantly",
+      "text": "The product so far is working as advertised. It has already boosted our wifi signal, in an especially large house with numerous black spots.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "A. Chipman",
+      "helpful_votes": 2,
+      "publication_date": 20190603
+    },
+    {
+      "title": "First powerline kit out of 4 which doesn't drop out",
+      "text": "Since moving to my current home 4 years ago I've had a nightmare with Powerline adapters. They've all worked but the connection would drop out randomly sometimes multiple times an hour. I bought this top of the range kit at a top of the range price and it's the first one which has been 100% stable so worth it and finally found something which works.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "MR P COUPLAND",
+      "helpful_votes": 0,
+      "publication_date": 20201010
+    },
+    {
+      "title": "Found it hard t connect",
+      "text": "Found it hard to connect and use. Never managed to get any useful information from product support. Would I recommend this - no. Suffice to say this is sitting in a box in the loft now, maybe one day I will dust it off and try again.",
+      "rating": 3.0,
+      "verified": true,
+      "author": "Karl D. Hurd",
+      "helpful_votes": 0,
+      "publication_date": 20191130
+    },
+    {
+      "title": "Simple and it works.",
+      "text": "Used to connect my 4K security camera system to the internet so I can watch remotely. This product saved me running 30m of Ethernet through the house as I was unable to locate the recorder near my router. Absolute doddle to set up. Works brilliantly.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Anastasija Anderson",
+      "helpful_votes": 0,
+      "publication_date": 20181209
+    },
+    {
+      "title": "Fast",
+      "text": "Once the firmware updates are finished, they are quick for a house with old wiring - we now get between 750mbs and 1.2gbps. The old Develo units I had managed 250mbs",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Colin",
+      "helpful_votes": 0,
+      "publication_date": 20200924
+    },
+    {
+      "title": "Easy to set up with the Android app.",
+      "text": "This works well in my flat, solving the previous poor wi-fi in my flat (possibly due to the reinforced concrete construction of the block). The set up is best done with the app, as it takes you through the steps, identifying when something is wrong. My tip: I changed my Virgin Hub 3 wi-fi security to WPA2 instead of WPA/WPA2, so all are on the same security - it made a big difference, enabling prompt switching between the original hub and the 2 new mesh points.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Matt Carlson",
+      "helpful_votes": 0,
+      "publication_date": 20190307
+    },
+    {
+      "title": "It works!",
+      "text": "Does the job it says it does. Plug and play technology, runs fine, stable connection (cabled to router at the entry point and WiFi at the end, delivery point). A bit pricey maybe, but it works.",
+      "rating": 4.0,
+      "verified": true,
+      "author": "Amazon Customer",
+      "helpful_votes": 0,
+      "publication_date": 20200718
+    },
+    {
+      "title": "Better than expected",
+      "text": "Bought to replace older Netgear AV500 which would sink at max 350mb between units. The new Devolo Magic 2-2400 units sink between 600mb and 1100mb where positioned in my attic and garage. Using to extend networked CCTV cameras. Very happy with performance.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "J. W. WALLACE",
+      "helpful_votes": 0,
+      "publication_date": 20200904
+    },
+    {
+      "title": "Fast",
+      "text": "I had an aging Devolo dLAN 200 setup which gave around 20Mbit/s and this raised that to 70Mbit/s.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Matt",
+      "helpful_votes": 2,
+      "publication_date": 20190206
+    },
+    {
+      "title": "Don\u2019t buy",
+      "text": "Rubbish, too clever for its own good, dropped WiFi signal every 5 mins. Swapped for tp-link, works perfect",
+      "rating": 1.0,
+      "verified": true,
+      "author": "JulieH",
+      "helpful_votes": 3,
+      "publication_date": 20190912
+    },
+    {
+      "title": "Does the job",
+      "text": "Fast connection and WiFi covers the house. Slightly fiddly to setup and didn\u2019t like being plugged into an extension lead",
+      "rating": 4.0,
+      "verified": true,
+      "author": "P. Emerton",
+      "helpful_votes": 0,
+      "publication_date": 20190608
+    },
+    {
+      "title": "Brilliant product!",
+      "text": "We have had problems with WiFi reception in various parts of the house and have tried moving the router and cheaper boosters, they didn\u2019t work! This product was simple to set up and works brilliantly, well worth paying the extra for something that works. Highly recommended",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Nicolette",
+      "helpful_votes": 0,
+      "publication_date": 20201012
+    },
+    {
+      "title": "Some stability issues",
+      "text": "Bought to add on to some others of this type and does occasionally lose connection but overall ok apart from the price which is too high. Mesh wifi may end up being a better bet",
+      "rating": 3.0,
+      "verified": true,
+      "author": "david",
+      "helpful_votes": 0,
+      "publication_date": 20190916
+    },
+    {
+      "title": "Great Performance",
+      "text": "Bought to replace some older units. Easy to set up and getting much higher speeds than before. And made in Germany.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Chris Davis",
+      "helpful_votes": 0,
+      "publication_date": 20200607
+    },
+    {
+      "title": "Worth the upgrade",
+      "text": "Wow. It actually gave me double the speed of my Devolo 1200 adapters. Not often that something does what you expect without any hassle. Great.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "xap",
+      "helpful_votes": 0,
+      "publication_date": 20200920
+    },
+    {
+      "title": "As simple as plugging in a plug",
+      "text": "Plug one near your route and connect it then go into any room in the flat or house any floor as long as its ON the same electrical supply as the other and then just plug in and wait for 2 white lights - the start adding your devices , buy a hedgehog too as house hold cyber protection.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Amazon Customer",
+      "helpful_votes": 0,
+      "publication_date": 20200822
+    },
+    {
+      "title": "Good coverage but poor for use as a plug in socket",
+      "text": "It does what it says and gives coverage but I paid extra to use as a socket also but a 3 pin wont actually go in so i paid a lot extra for nothing!! Not happy",
+      "rating": 4.0,
+      "verified": true,
+      "author": "A. Davidson",
+      "helpful_votes": 0,
+      "publication_date": 20190910
+    },
+    {
+      "title": "Does what it claims.",
+      "text": "With a addon gives brilliant reception throughout despite R.S.J ' s. Expensive but worth it.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Paul",
+      "helpful_votes": 0,
+      "publication_date": 20201004
+    },
+    {
+      "title": "Devolo Wi-Fi Extender",
+      "text": "The Devolo Magic 1 Wi-Fi extender is great once we were able to get it working properly. Needed an electrician to help as the signal had to pass through more than one RCD.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Linda Holt",
+      "helpful_votes": 0,
+      "publication_date": 20200819
+    },
+    {
+      "title": "Simple and effective.",
+      "text": "Plug in. Wait. Sorted. WiFi speed in the kitchen has gone from 2mbps to 29mbps, basically the same as if sat by the main router. The previous WiFi booster achieved 6mbps and was prone to drop outs. Power line and WiFi simply brilliant.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Mr O Stephenson",
+      "helpful_votes": 0,
+      "publication_date": 20200408
+    },
+    {
+      "title": "Great product",
+      "text": "Easy to setup and a good link speed was established across the house where other products struggled.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Amazon Customer",
+      "helpful_votes": 0,
+      "publication_date": 20191116
+    },
+    {
+      "title": "It Works",
+      "text": "This WI FI plug works really well. Take time to read instructions and make sure it is plugged directly to wall socket",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Sandra Scott",
+      "helpful_votes": 0,
+      "publication_date": 20200120
+    },
+    {
+      "title": "Excellent Product",
+      "text": "Quick delivery, quick and easy to install and set-up, brilliant extension to our two TVs capabilities. Excellent product !!.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Mr C ADAMS",
+      "helpful_votes": 0,
+      "publication_date": 20190318
+    },
+    {
+      "title": "A wifi extender that seems extremely well made and works well.",
+      "text": "Very easy to install and works well. However, in a building with solid internal walls you may find that the wifi from each unit is not quite as strong as you expected. All in all though, a great buy. Expensive, but so far seems excellent and I would certainly buy the same again.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Amazon Customer",
+      "helpful_votes": 0,
+      "publication_date": 20190110
+    },
+    {
+      "title": "Speed",
+      "text": "These are really good, I went from 20 mbps using a tp link adaptor to 110 mbps, it may not seem much but it made a massive difference, definitely recommended",
+      "rating": 5.0,
+      "verified": true,
+      "author": "DG MACHINE & PLANT HIRE LTD",
+      "helpful_votes": 0,
+      "publication_date": 20201001
+    },
+    {
+      "title": "Fantastic",
+      "text": "absolutely wonderful, had an older model which kept causing signal loss but this one is fantastic, and great for streaming media from my NAS",
+      "rating": 5.0,
+      "verified": true,
+      "author": "A Waheed",
+      "helpful_votes": 0,
+      "publication_date": 20190508
+    },
+    {
+      "title": "Good set",
+      "text": "First impression- positive. Easy to install. Spread improved from 145 Mbps to 286 Mbps. Direct speed from router is 320 Mbps. 4 stars cause it still cuts the speed.",
+      "rating": 4.0,
+      "verified": true,
+      "author": "Alex",
+      "helpful_votes": 0,
+      "publication_date": 20190123
+    },
+    {
+      "title": "Disappointing.",
+      "text": "Disappointing on our noisy mains. Barely faster than AV1000 for us.",
+      "rating": 2.0,
+      "verified": true,
+      "author": "Paul O'Brien",
+      "helpful_votes": 0,
+      "publication_date": 20191204
+    },
+    {
+      "title": "WORTH EVERY PENNY",
+      "text": "ABSOLUTELY LIFE SAVER. SAVED ME FROM RUNNING A CABLE FROM THE MAM CABE TO THE FRONT OF THE HOUSE. WORKS A DREAM. WORTH EVERY PENNY.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Amazon Customer",
+      "helpful_votes": 0,
+      "publication_date": 20200602
+    },
+    {
+      "title": "Simplicity of set up",
+      "text": "Liked the ease of set up and the fact it does what it says. Excellent signal to boost the base router signal. Would have preferred 3 outputs instead of 2 especially as my router only has 2 outputs.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Amazon Customer",
+      "helpful_votes": 0,
+      "publication_date": 20200903
+    },
+    {
+      "title": "Great Solution for Wifi distribution",
+      "text": "Great solution for big spaces & areas not covered with wires when needed. It's a must to have Thank you",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Olfat",
+      "helpful_votes": 0,
+      "publication_date": 20190110
+    },
+    {
+      "title": "This product didn't work",
+      "text": "I have used Devola to boost wifi connectivity in the past - but this one didn't work. My return window closed so now I'm stuck with it - an expensive mistake",
+      "rating": 1.0,
+      "verified": true,
+      "author": "MARTHA ",
+      "helpful_votes": 0,
+      "publication_date": 20200917
+    },
+    {
+      "title": "Drops connections constantly",
+      "text": "I've had other powerline products before - this one purports to be the best and the price is certainly the highest but I have to keep resetting it. Pain in the backside.",
+      "rating": 2.0,
+      "verified": true,
+      "author": "Tony",
+      "helpful_votes": 0,
+      "publication_date": 20201014
+    },
+    {
+      "title": "Power line kit",
+      "text": "Really easy to set up with the app and gives good wi do coverage",
+      "rating": 5.0,
+      "verified": true,
+      "author": "G",
+      "helpful_votes": 0,
+      "publication_date": 20200804
+    },
+    {
+      "title": "Fast reliable WiFi easy to set up",
+      "text": "Great improvement to home network, easy to setup, good speed and range",
+      "rating": 5.0,
+      "verified": true,
+      "author": "I. Bailey",
+      "helpful_votes": 0,
+      "publication_date": 20190206
+    },
+    {
+      "title": "It works",
+      "text": "I bought this kit to replace the 1200 Mbps. It works as advertised but...the improvement is not 2 fold. Nevertheless, it works. Although not I expected or wanted",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Fernando Correia",
+      "helpful_votes": 0,
+      "publication_date": 20190425
+    },
+    {
+      "title": "Superb",
+      "text": "Works well, had no problems setting it up, very easy.....",
+      "rating": 4.0,
+      "verified": true,
+      "author": "R. De Larrabeiti",
+      "helpful_votes": 0,
+      "publication_date": 20191011
+    },
+    {
+      "title": "Installation not clear but performance good",
+      "text": "Installation not very clearly explained in documentation - had to search through some online videos for help. Good boost to wifi signal throughout the house - so far so good.",
+      "rating": 4.0,
+      "verified": true,
+      "author": "Malcolm L.",
+      "helpful_votes": 0,
+      "publication_date": 20200803
+    },
+    {
+      "title": "Work OK but not as good as expected",
+      "text": "I expected faster readings with these but a bit dissapointed",
+      "rating": 3.0,
+      "verified": true,
+      "author": "D. Depree",
+      "helpful_votes": 0,
+      "publication_date": 20190121
+    },
+    {
+      "title": "Good wifi",
+      "text": "Mesh is WiFi is fantastic speeds as good as Ethernet and stable The power line speeds good but not as stable Can be expensive with a few nodes but it works as WiFi",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Frank",
+      "helpful_votes": 0,
+      "publication_date": 20190615
+    },
+    {
+      "title": "Solid performer",
+      "text": "Speed was not as good as expected but still a solid performer. Don't bother installing the mobile app as instructed in the documentation as this is only for the wireless units.",
+      "rating": 4.0,
+      "verified": true,
+      "author": "Potnoodle",
+      "helpful_votes": 0,
+      "publication_date": 20200105
+    },
+    {
+      "title": "Average performance at a price",
+      "text": "Got these to replace netgear 1200 adapters, but haven\u2019t seen any boost in speed.",
+      "rating": 3.0,
+      "verified": true,
+      "author": "Robert",
+      "helpful_votes": 0,
+      "publication_date": 20191121
+    },
+    {
+      "title": "Works great",
+      "text": "Easy to install and extendels wifi to the room that can't get it.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Waseem Khan",
+      "helpful_votes": 0,
+      "publication_date": 20201019
+    }
+  ],
+  "product_meta": {
+    "title": "Devolo Magic 1-1200 Wi-Fi Ac Starter Kit: Stable home working, High Performance Powerline Kit, Mesh Wi-Fi, Up to 1200 Mbps Via Powerline, Wi-Fi Ac, Wi-Fi Anywhere, Access Point, 2x Fast Ethernet Ports",
+    "description": "Size Name:MAGIC 1 - 1200 Mbit/s| Style Name:WiFi Starter Kit| Pattern Name:SingleStreaming, gaming, home office or virtual reality - whatever you want to do now or in the future, with develop Magic 1 Wi-Fi, you\u2018re already equipped today for the adventures of tomorrow. Mesh Wi-Fi links all develop Magic adapters to a contiguous network as if by magic and gets you seamlessly onto the Internet anywhere in the home, with the strongest connection. And it does so right from the start, since the super-smart Plug & Play means you simply have to unpack develop Magic 1 Wi-Fi, plug it in and get going. Wi-Fi ac standard and the high-performance Power line technology ensure fantastically high speeds of up to 1200 Mbps, including over extremely long distances of up to 400 metres. Static devices such as smart TVs or consoles can be integrated via two Fast Ethernet LAN connections. You can also keep a close eye on all of your develop Magic adapters very easily via the innovative develop App. Look forward to magical and comprehensive multimedia enjoyment as if it is from the future - with develop Magic 1 Wi-Fi!.\n\nBOX CONTAINS\n\n\n * 1 x Devolo magic 1 Wi-Fi add-on adapter\n * 1 x Devolo magic 1 LAN add-on adapter\n * 1 x Ethernet cable\n * User guide",
+    "rating": 4,
+    "feature_bullets": [
+      "Transfer rates up to 1200 Mbps including latest G.hn technology",
+      "Cost-effective mesh Wi-Fi starter kit of the magic series with future-proof G.hn technology",
+      "High-speed mesh home network over the electrical wiring from the pioneer",
+      "2 powerline-adapters, equipped with 2x Fast Ethernet LAN ports, access point",
+      "Easy password assignment for guest Wi-Fi, parental controls"
+    ],
+    "specifications": {
+      "Brand": "Devolo",
+      "Product Dimensions": "9.2 x 18.8 x 23.1 cm; 890 Grams",
+      "Item model number": "8361",
+      "Manufacturer": "Devolo",
+      "Item Weight": "890 g",
+      "ASIN": "B07H5TL9ZC",
+      "Customer Reviews": "4.0 out of 5 stars595 ratings4.0 out of 5 stars",
+      "Best Sellers Rank": "7,192 in Computers & Accessories",
+      "Date First Available": "17 Sept. 2018"
+    },
+    "categories": [
+      "Computers & Accessories",
+      "Powerline Network Adapters",
+      "Networking Devices"
+    ],
+    "price": 172.89
+  }
+}

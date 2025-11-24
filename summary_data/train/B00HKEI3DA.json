@@ -1,0 +1,981 @@
+{
+  "website_summaries": [
+    {
+      "verdict": "With top performance and friendly pricing, the Trendnet TEW-818DRU is a excellent choice for those wanting a robust home network.",
+      "pros": [
+        "The top-tier Trendnet TEW-818DRU AC1900 Dual Band Wireless Router is fast, easy to use, and comparatively affordable"
+      ],
+      "cons": [
+        "The router doesn't recognize most portable drives plugged into its USB ports, and there's no wall-mounting option"
+      ],
+      "aspects": {
+        "Setup": 8.0,
+        "Features": 7.0,
+        "Performance": 9.0
+      },
+      "publication_date": 20140320,
+      "rating": 8.0,
+      "source": "cnet"
+    },
+    {
+      "verdict": "Trendnet's AC1900 Dual Band Wireless Router (TEW-812DRU) is the fastest 802.11ac router we've tested to date. Unfortunately, some software issues cast a shadow over its shining performance.",
+      "pros": [
+        "Excellent 802.11ac throughput",
+        "Very good speed in 802.11n modes",
+        "USB ports support printers and USB drives",
+        "Quick and simple wireless setup"
+      ],
+      "cons": [
+        "Some interface sluggishness",
+        "Firmware updates failed in our tests",
+        "Very slow NAS functionality"
+      ],
+      "aspects": {},
+      "publication_date": 20140731,
+      "rating": 7.0,
+      "source": "pcmag"
+    }
+  ],
+  "customer_reviews": [
+    {
+      "title": "Erratic performance followed by a miserable death after just one week.",
+      "text": "It worked poorly for about a week, then gave up the ghost. The connections on our wireless devices would mysteriously drop off. I would hold my cell phone next to the router and it would scan for networks, and mine would not appear until I had powered my phone on and off a few times, reset the router, etc--then suddenly the network would appear. I'd leave the house and come home to find I once more had no internet access--the network had disappeared again and could not be found. Very annoying. After a week, it stopped working completely and I returned it.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "TimetheAvenger",
+      "helpful_votes": 6,
+      "publication_date": 20170403
+    },
+    {
+      "title": "Great Hardware to Run DD-WRT on!",
+      "text": "Installed DD-WRT v24-sp2 (03/27/14) std (SVN revision 23808) upon opening, reviewing only the device hardware. This system has been great! Deployed as a wireless client via 2.4 Ghz to an existing home set up, with the 5Ghz side acting as secondary access point. Though notably dated to 802.11ac arriving on the market, more expensive systems appear to have gone \"antenna crazy\" with MIMO; This device gets decent coverage with internal antennas. Well designed and sleek. Inclusion of two USB allows for file & print sharing. (I had a 9 year old HP usb only printer). Untested throughput on USB 3 port. As 10Ghz networks still haven't become mainstream, this product should be future proof for a couple years.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "J. Bennett",
+      "helpful_votes": 0,
+      "publication_date": 20171211
+    },
+    {
+      "title": "Defective",
+      "text": "Unreliable. Have called TRENDNET twice. Modem/internet service is fine. Service has been slower than my old router and router has gone out twice entirely. Sent an email to Amazon customer service after return call service did not return call. Not happy to have spent money on something that genuinely has not worked perfectly since it was received. Update: sent Amazon note about this router and they sent a replacement that same day! It works! Wonderful customer service!",
+      "rating": 1.0,
+      "verified": true,
+      "author": "Amazon Customer",
+      "helpful_votes": 3,
+      "publication_date": 20170430
+    },
+    {
+      "title": "Best router I have had yet.",
+      "text": "product was easy to setup, works perfectly. Our house is 1800 sqft and signal on the 2.5 is strone anywhere in home. The 5ghz band is super fast and reaches most of the home. I replaced a Nighthawk 7000r router with this one and the Trendnet out performed the nighthawk. if your looking for max speed without paying huge amounts of money this is for you. I can't say enough good things about this router. for a background I'm 68 and have been in the IT field since the 1970's",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Karen L. Madeley",
+      "helpful_votes": 0,
+      "publication_date": 20190815
+    },
+    {
+      "title": "Wireless signal is available throughout my entire home using this router.",
+      "text": "I purchased this router based on a CNET editorial review of the \"best routers.\" I love it after using it for about a month. Our old router did not allow us to receive a wireless signal anywhere except on the upper floor of our house. This new router broadcasts the wireless signal throughout the whole house, and I could even pick it up outside near my neighbor's driveway. It was easy to set up, and a nice upgrade from what we had before. I checked some local stores, and none carried this TRENDnet router so I am glad I purchased on Amazon.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Glow81",
+      "helpful_votes": 3,
+      "publication_date": 20150715
+    },
+    {
+      "title": "Excellent router! Stronger Wi-Fi signal",
+      "text": "Excellent router! This device sends out a strong wireless signal. I was very surprised because it does not have any outside antennas. However, the device has much stronger Wi-Fi signal then my previous ASUS. The dual band is excellent and the set up is straightforward. It comes with pre-configured wi-Fi and passwords. But they are simple to customize and change. I did have to look at some of the instructions to do some of the customization but that is to be expected because all manufacturers have different ways of configuring the set up area. I would highly recommend this router for people looking for a stronger Wi-Fi signal router for their house.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Mr. T",
+      "helpful_votes": 0,
+      "publication_date": 20151024
+    },
+    {
+      "title": "The web interface is very, very limited and restricted ...",
+      "text": "The web interface is very, very limited and restricted. Very difficult to change the internal IP address table. No place to inform you what IP addresses are being used on your network. Not being able to see what IP address's are currently in use makes it very difficult to assign static IP's for each devise on the network. In order to do so you have to go to each device physically to obtain the MAC address for that device. I know I can free up those restrictions using third party firmware but that voids my three year warranty on the device..",
+      "rating": 4.0,
+      "verified": true,
+      "author": "Robert",
+      "helpful_votes": 0,
+      "publication_date": 20150926
+    },
+    {
+      "title": "Easy Setup...Terrible Range",
+      "text": "I purchased this router because CNET claimed it has amazing range. In practice, I found the range to be terrible. I was getting great speeds over 802.11ac on both the 5Ghz and the 2.4Ghz but only up to 3 feet away from the router. Anything further, even on an unobstructed path (clear line of site to the router), my transfer speeds would drop by 50%. It was even worse if I went in to the next room (sharing a wall). It's too bad, because I liked how easy it was to set it up. Needless to say, it's on it's way back to Amazon as I type.",
+      "rating": 2.0,
+      "verified": true,
+      "author": "Fernando",
+      "helpful_votes": 0,
+      "publication_date": 20150729
+    },
+    {
+      "title": "because their customer service clearly sucks.",
+      "text": "Seems to work OK. I don't think it is as fast as they claim (no surprise). At first it didn't work well so I immediately had to flash it - a procedure not for the inept or fainthearted. Since I bought this from Trend Direct, it would be considerate of them to do that BEFORE they ship their junk to their unsuspecting customers. I hope it doesn't break, because their customer service clearly sucks.",
+      "rating": 4.0,
+      "verified": true,
+      "author": "C. Gonzalez",
+      "helpful_votes": 0,
+      "publication_date": 20170916
+    },
+    {
+      "title": "Presently have old 812 dual processor and have been satisfied with performance just wanted more range",
+      "text": "Dropped connections from day one Called Trend net tech and was determined to be hardware so returning to Amazon for exchange. Will exchange for 824dru since the 818 dru firmware upgrade required tech assistance. Bought 824 for daughter few months ago and firmware upgrade was simple. 824 is newer model is single processor vs 818 is older dual processor. Presently have old 812 dual processor and have been satisfied with performance just wanted more range . Will see if 824 performs better or try the 818 again.",
+      "rating": 2.0,
+      "verified": true,
+      "author": "D. Ikeda",
+      "helpful_votes": 0,
+      "publication_date": 20161208
+    },
+    {
+      "title": "Good, but with some issues",
+      "text": "I have had the router for a year now. I have not had any major problems with it, until today. The coverage in my house was not the best, but was alright. It did fluctuate quite a bit, even standing in the same spot. Some times it was strong, other times it said there was no signal. After using it for a year, the router stopped working. It says it is not receiving internet signal from the modem and won't do anything. I have reset it and done several things to try to get it working. I just submitted a warranty support request, so hopefully they respond quickly as I am not too happy being without wireless at home.",
+      "rating": 4.0,
+      "verified": true,
+      "author": "Overachiever",
+      "helpful_votes": 0,
+      "publication_date": 20160629
+    },
+    {
+      "title": "Great Bang for the Buck!",
+      "text": "My Nighthawk AC 1900 DSL Modem/Router got fried in an electrical storm (not an unusual occurrence here in South Florida), and I needed to replace it. Fortunately, I had a spare modem, so all I needed was a new router. I considered a new Nighthawk, but couldn't resist the great \"Bang for the Buck\" offered by the TRENDnet AC 1900, as well as the mostly very positive reviews. So, I went with the TRENDnet and couldn't be happier. Initial set-up was simple as was the firmware upgrade. Unlike a lot of folks, I actually like the units antenna free design. All in all, I'm extremely pleased with this router.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Dan Boudreau",
+      "helpful_votes": 0,
+      "publication_date": 20170827
+    },
+    {
+      "title": "If you can set it up, it's great",
+      "text": "Pretty tricky to set it up - glad I had an IT friend. I am sure I could not have configured it by myself. In fact it took 2 tries for my freind to get it working - it would connect and lose the connection every minute or so, eventually giving up. The setup sw has some bugs - if you enter a value for a parameter, and then go to another part of the setup to enter another parameter, the previously entered parameter will get set to the default value. Pretty frustrating. But once set up correctly - its great.",
+      "rating": 3.0,
+      "verified": true,
+      "author": "Eric",
+      "helpful_votes": 0,
+      "publication_date": 20160810
+    },
+    {
+      "title": "Works great and increased range over previous wireless router",
+      "text": "My old wireless router was getting to the point where I had to reset it about one a week. Got tired of having to do that, so I bought this as a replacement. Have had it for about a year now and have only had to reset it once, and that is when the ISP was reconfiguring their network, and the reset was necessary to get a new IP address. Don't have any devices that us AC, but the wireless N range is better with this wireless router than it was with my previous one. Have no problem getting signal throughout my house and in my garage / yard. A bit pricey, in my opinion, but well worth it.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Lord Vader",
+      "helpful_votes": 0,
+      "publication_date": 20150214
+    },
+    {
+      "title": "Wireless AC1900 router",
+      "text": "I recently purchased a Trendnet AC 1900 Dual Band Wireless router to replace a Cisco E4500. You can take the router out of the box and plug it in and use it if you want to use the preset ID and password, I wanted to change the name, the directions were not real clear, and I didn't have much time so I called customer service, the conversation took 4 min, including the time to route the call and hold time to get the information I needed. The router has great range, I can access it in an out building about 3 feet from the house. It was a good buy for the money.",
+      "rating": 4.0,
+      "verified": true,
+      "author": "Jeff",
+      "helpful_votes": 8,
+      "publication_date": 20140822
+    },
+    {
+      "title": "Lost Ethernet ports",
+      "text": "I really liked this product so much that when one of my Ethernet ports went out I bought another...but alas it was for naught as this one lost 2 ports in less than a year. (10 months). It still works but I only have 2 ports. Glad I kept my old one at least that has 3 ports. Other than that It would have been 5 stars. I would recommend buying extended warranty on this device.",
+      "rating": 3.0,
+      "verified": true,
+      "author": "James F.",
+      "helpful_votes": 0,
+      "publication_date": 20180711
+    },
+    {
+      "title": "Great Wireless Modem for an Excellent Price.",
+      "text": "I replaced the old TRENDnet wireless router and an old Zoom 8x4 Cable modem. In replacing both system, I have increased the speed of the wired throughput from 70 Mbps all the way up to 90-100 Mbps on the Comcast Blast (75). I also went from 60-78 Mbps on the 5 Ghz band all the way up to 80-93 Mbps. It even got my old old laptop from 24-35 Mbps all the way up to 35-45 Mbps on the 2.4 Ghz band. Now my YouTube and NetFlix movies are as smooth as ever.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Blue Ray Fan",
+      "helpful_votes": 0,
+      "publication_date": 20161128
+    },
+    {
+      "title": "Use it right our of the box! Economical router that does not skimp on performance",
+      "text": "I upgraded from an old N-Router from Cisco and was looking for something that was economical, easy to set-up, but still had great performance. This has it all. I very nice dual band router that is pre-configured to run right out of the box. I followed the start-up instructions and had my entire house on wireless in under an hour. I like that there is no additional software to load on a computer. All configurations can be down through an attached device and web browser. While it is easy to setup and preset on name and password, it can also be manually configured to provide guest SSIDs on both bands and has various other features. This is a great value!!",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Dyer Bennett",
+      "helpful_votes": 0,
+      "publication_date": 20160412
+    },
+    {
+      "title": "Get a router/modem combo instead.",
+      "text": "Didn't do what its advertised to do. I got a compatible modem and this router to get 100 mbps speeds and i was barely getting half that. I wasn't able to return this so now im stuck with it. Got a top tier router modem combo and now everything is great. Just buy the best and dont waste time with this. Internet is finecky and hit or miss so dont take chances and just buy the best.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "sean owens",
+      "helpful_votes": 0,
+      "publication_date": 20180210
+    },
+    {
+      "title": "This is ok, but the range is lacking.",
+      "text": "This is a fairly straightforward router. I installed DD-WRT on it and have had no issues. That said, the range leaves a lot to be desired. I live in a 2000 square-foot house half upstairs have downstairs and when I venture up I lose the signal. Not a big problem, but I had to learn since I use Wi-Fi calling not to go upstairs during a phone call or else I'll drop. But again otherwise a good router I have no complaints",
+      "rating": 4.0,
+      "verified": true,
+      "author": "DoggieDadVATop Contributor: Pets",
+      "helpful_votes": 0,
+      "publication_date": 20170703
+    },
+    {
+      "title": "bad replacement for Linksys",
+      "text": "Bought this to replace a dead but fantastic-until-it-died 5.5 year old Linksys router: what a mistake! Installation was easy, though as noted by other reviewers, you need a magnifying glass to read the instructions and find the reboot button. Multiple reboots needed during installation, very annoying. Worked okay for a couple of months, but surprisingly no faster than the old router. Then we started needing to reboot, then reboot again, and again, and again... until now, 11 months later, when rebooting does nothing. I will try to update the firmware, but have low hopes and no confidence in this router.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "pingouin",
+      "helpful_votes": 0,
+      "publication_date": 20151103
+    },
+    {
+      "title": "Poor wireless performance",
+      "text": "Wired performance, per Speedtest, is very good ; 95 mbs download, 31 mbs upload. Wireless performance, as per Speedtest, is very bad ; 28 mbs download, 10 mbs upload. Spent an hour with Trendnet support today updating firmware and changing frequency channels to no avail. ISP is Spectrum cable. Don't know where to turn next.",
+      "rating": 2.0,
+      "verified": true,
+      "author": "islandlakeirregular",
+      "helpful_votes": 0,
+      "publication_date": 20181009
+    },
+    {
+      "title": "Works well as advertised and easy setup. My router is in an awkward location ...",
+      "text": "Works well as advertised and easy setup. My router is in an awkward location and I found that the signal strength was a bit less than I had hoped. There are no external antennas with this unit; in my case I would have appreciated having some as I have always found that by judiciously tweaking the orientation of the antennas I can get a better signal. This router has a \"feature\" called \"\u2022Targeted Beamforming increases real-time performance by directing stronger wireless to your specific location .\" Not sure what if anything that does. But all in all satisfied as this router has lots of features and an excellent price.",
+      "rating": 4.0,
+      "verified": true,
+      "author": "Amazon Customer",
+      "helpful_votes": 0,
+      "publication_date": 20140824
+    },
+    {
+      "title": "Was good for a year",
+      "text": "I liked this router, but it started dropping the wireless connection every 2 days after a year of use. Unplugging it and plugging it back in makes it work again. But after a few days it stops working again. Warranty was only good for a year so now I have to buy a new one. Very dissatisfied",
+      "rating": 1.0,
+      "verified": true,
+      "author": "Carp",
+      "helpful_votes": 0,
+      "publication_date": 20181010
+    },
+    {
+      "title": "Well worth it and be sure to update the firmware",
+      "text": "I just purchased two of these and I couldn't be happier. With latest firmware as of this writing, connecting a second one of these is a snap to extend wireless range, simply a radio button to select and then join the wireless network from the main wireless router. I already have 150mb/s downstream so I could deal with the bandwidth drop. Main router was 150mb/s down 22 up, extender was 86 down and 16 up. Not too shabby.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "mp6453",
+      "helpful_votes": 0,
+      "publication_date": 20160329
+    },
+    {
+      "title": "Set up was extremely fast and easy. The network now has faster speeds on both ...",
+      "text": "I bought this router to upgrade and update my network. I have a older large 2 story home and had trouble with getting strong signal to all of the rooms. The router has a much stronger signal and is much faster than the one it replace. Set up was extremely fast and easy. The network now has faster speeds on both the wired and wireless connections. The setup interface it easy to navigate. Very pleased with the purchase.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Robert K..",
+      "helpful_votes": 0,
+      "publication_date": 20160928
+    },
+    {
+      "title": "Easy Set Up and Reliable",
+      "text": "Router was very easy to set up and get working. It has the ability to set at least three different connections. I have one for guests, one for older technology devices and the fastest speed only for those devices able to take advantage of it. The reliability has been excellent. The only issue that I have is the range is not that long, at least for the fastest speed connection.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "pablomarco",
+      "helpful_votes": 3,
+      "publication_date": 20141116
+    },
+    {
+      "title": "Great for the Price!",
+      "text": "My old cisco wireless router was acting up and I didn't really know what to replace it with. I looked at PCMAG and CNET and this one was reviewed well. So I gave it a shot. I hooked it up with ease last night and it was blazing fast compared to my old one. I have two computers, 2 phones and a touchpad all going and it seems to handle them with no problem even it our two story home. Hope it keeps up the good work!",
+      "rating": 5.0,
+      "verified": true,
+      "author": "BRUCE RUCKER",
+      "helpful_votes": 0,
+      "publication_date": 20150511
+    },
+    {
+      "title": "I installed it and the coverage is great. I love the speeds it is capable of ...",
+      "text": "I installed it and the coverage is great. I love the speeds it is capable of but unfortunately not many laptops come with ac wireless built in and I don't have any adapters so I will have to get some. I like to have the latest and greatest and this is definitely that. The web interface is pretty good but if you don't like it you can also use dd-wrt which is nice. Also if you live in an apartment building you will love the 5ghz band because it will help you forget all the interference. I would recommend this product.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Lucas M. Perdue",
+      "helpful_votes": 0,
+      "publication_date": 20140906
+    },
+    {
+      "title": "At 5 months old WiFi dropping off constantly.  Don't buy.",
+      "text": "Worked well for 5 months. Ac band range is ok but not great. Needed an extender in 2600 sq foot home. After 5 months the 2.4 band drops off completely. I have to restart the router to get anything on that band to connect again. . Sometimes lasts for 3 days, sometimes I have to restart multiple times in a day. Spend the little extra money and get something WAY more consistent!",
+      "rating": 1.0,
+      "verified": true,
+      "author": "Djjj",
+      "helpful_votes": 0,
+      "publication_date": 20180112
+    },
+    {
+      "title": "Great Reliable router",
+      "text": "I have had a linksys router for about 6 years and knew it was time to upgrade. I have been using this router for about 3 months and have not had this router drop my signal. We have 5 or 6 items connected at all times between our phones, tablets or TV's and watching Netflix or Hulu is great with no buffering. Setup was easy even though I am very comfortable with setting up a network.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "mscur93031",
+      "helpful_votes": 0,
+      "publication_date": 20150911
+    },
+    {
+      "title": "Dual Band router can handle large loads.",
+      "text": "Got my home network back up to full speed. I thought I was having ISP problems. While I was, the bigger problem was my old home router was getting overwhelmed by my seven member, 50+ device family. This new router got me back up to the full speed I am paying for.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Steven Yarnot",
+      "helpful_votes": 0,
+      "publication_date": 20170930
+    },
+    {
+      "title": "Works.",
+      "text": "Initial configuration was easy, getting back in to reconfigure was a battle, but finally accomplished. I've finally been able to get the unit to bridge using a U-Verse NVG-589, even though there's no WDS configuration menu on the NVG-589 to enter the MAC of the Trendnet. I could give it 5 stars if that WAN port switched modes when configured in WDS, so that I didn't lose a port.",
+      "rating": 4.0,
+      "verified": true,
+      "author": "Mike",
+      "helpful_votes": 0,
+      "publication_date": 20160723
+    },
+    {
+      "title": "but you could do better with something else",
+      "text": "Constantly loses signal and has problems, before and after firmware update. Eventually I just replaced it with an older, cheaper 20 dollar wireless AP i had laying around. I guess it would work as a wired router, but you could do better with something else, trust me.",
+      "rating": 2.0,
+      "verified": true,
+      "author": "Michael Hill",
+      "helpful_votes": 0,
+      "publication_date": 20170621
+    },
+    {
+      "title": "Consistently works great!",
+      "text": "This has been great! I have been using it for about 8 months now and have only had to reset it once. I don't even know if this was the problem or my cable modem - I just reset them both at once when our internet quit working. this has been so nice compared to our old wireless router that I had to reset every coulple days because it was just past its useful life expectancy. So glad I upgraded to this - it has been nice to have a nice reliable and consistent router!",
+      "rating": 5.0,
+      "verified": true,
+      "author": "B. Browning",
+      "helpful_votes": 0,
+      "publication_date": 20150323
+    },
+    {
+      "title": "Very affordable and fast.",
+      "text": "The setup was easy, both for setting up the hardware out of the box and also the internal software setup. There is both an easy user friendly interface for setting up the router with custom passwords and SSID's, as well as an advanced setup tab for the more complex seeming features such as the QoS, etc... As for the speed I am only purchasing 55mbps from my isp and it is very capable of utilizing that speed over the air, I would recommend for most people since its very affordable and can easily do what most people have for speeds.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Rory Smith",
+      "helpful_votes": 0,
+      "publication_date": 20180105
+    },
+    {
+      "title": "This router + DD-WRT = great deal!",
+      "text": "Previously had the TWE-812DRUv2, this is the same but FASTER wireless! As soon as I bought it I loaded the DD-WRT open firmware. Works perfectly. Range was much better than my previous TP-Link and the 5GHz freq is much faster than the crowded 2.4GHz freq. This is one of the best values when combined with the DD-WRT firmware. You can find the DD-WRT firmware in the Beta folder: ftp://ftp.dd-wrt.com/betas/2015/10-23-2015-r28015/trendnet-818DRU/",
+      "rating": 5.0,
+      "verified": true,
+      "author": "L. Ashimine",
+      "helpful_votes": 0,
+      "publication_date": 20151029
+    },
+    {
+      "title": "Good DD-WRT router",
+      "text": "Solid router. I initially got this router because my old Netgear was getting drowned out by all the other networks around me, and my connection was generally crappy and slow. I've set it to 5ghz-only and I'm getting good throughput and reliability on the connection. It's fairly conveniently sized, and I can place it without worrying about antennas. I can't speak to the software on it since I immediately installed DD-WRT, but that install was very easy. No hard resets needed. The hardware gives me very granular configuration options for my connections and security. I was choosing between this and the AC1900 Asus, but benchmarks gave this one a fairly significant edge for wireless throughput.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Gary",
+      "helpful_votes": 0,
+      "publication_date": 20140906
+    },
+    {
+      "title": "Does within a year.",
+      "text": "Had it for less than a year, and it just died. Gonna call Trendnet and see if they can replace it.",
+      "rating": 3.0,
+      "verified": true,
+      "author": "Meleah Farlow",
+      "helpful_votes": 0,
+      "publication_date": 20181111
+    },
+    {
+      "title": "it should've been great, but I'm going back to my previous router ...",
+      "text": "I purchased this as an upgrade to a router that had spotty connection service in the furthest rooms from router location. Based on other reviews, it should've been great, but I'm going back to my previous router (which cost half as much). This connection is awful...always losing connection or not available, and I'm not using it in a huge house! Now I get zero connection in the furthest away rooms, & it's awful in closer rooms. Disappointed, to say the least.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "Amazon Customer",
+      "helpful_votes": 0,
+      "publication_date": 20161209
+    },
+    {
+      "title": "Very easy to set up",
+      "text": "Very easy to set up. Both the speed and range are EXCELLENT. It immediately increased the signal strength 4 times of every computer in my home (4 different computers in different rooms of the house). And at almost half of the asking price of the so called top of the line routers, it is a real bargin. Did quite a bit of research, both cnet and pcmag both rate the speed of this router in the top 3 of all the routers on the market. It truly does not dissapoint.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "az21",
+      "helpful_votes": 0,
+      "publication_date": 20150615
+    },
+    {
+      "title": "good thing I kept my spare unit.",
+      "text": "Insult to injury is what this unit should be called....died just the other day....classify this one as junk.... had it on a timer off every night.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "PreciousTimeLeft",
+      "helpful_votes": 0,
+      "publication_date": 20180621
+    },
+    {
+      "title": "Somewhat complicated to set up but well worth the effort",
+      "text": "This is the best deal for the money. Set up was a little more complicated than with a Linksys or a Netgear product but the performance has been exceptional. Linked with a Motorola 6141 modem my upload, download, and network speeds are light years ahead of the Comcast Arrus modem/Netgear router combo I replaced. I have a lot of equipment running through this -- Vonage, 3 smartphones, Nest Thermostat and Smoke/Heat detectors, one tablet, and 3 computers. It handles all of this with ease and significantly greater speed -- and at roughly 70% of the cost of the comparable Netgear or Linksys equipment. I am very satisfied.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Gerard Fulham",
+      "helpful_votes": 0,
+      "publication_date": 20151006
+    },
+    {
+      "title": "My internet service is finally achieving the  speed I've been paying for.",
+      "text": "My internet service is finally achieving the speed I've been paying for.. I bought this to replace a Linksys E2500 and the big surprise didn't with come from faster AC wireless wifi speed. But rather with the speed increase on my ethernet connected devices, previously I averaged 90 Mbps and now I average 123 Mbps. The web based UI is also better than what I was used to from Linksys.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Alex S",
+      "helpful_votes": 0,
+      "publication_date": 20151027
+    },
+    {
+      "title": "Routing never felt so good!",
+      "text": "I finally replaced my 8 year old router with this Trendnet age doing a lot of research and I hate that it took me as long as I did. We have an apple tv, MacBook oro, ipod, Playstation 3, and phones all connected to the Trendnetaddy the same time on a consistent basis and have yet to have any up address conflicts or connection problems. It really doesn't show the performancestors doted of any of our gadgets and is well worth the purchase.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Mocha Reign",
+      "helpful_votes": 0,
+      "publication_date": 20150611
+    },
+    {
+      "title": "Nice router for normal users",
+      "text": "It's a good router. I like Trendnet. Fast and etc. Dual band. The only disappointment, I did not spot, it has no wall mount. And, in my case, it came used with the settings from previous user. That's not a big deal, however, it didn't feel good.",
+      "rating": 4.0,
+      "verified": true,
+      "author": "Oleg Vasylenko",
+      "helpful_votes": 0,
+      "publication_date": 20170123
+    },
+    {
+      "title": "Average AC1900 wireless router",
+      "text": "Cheaper than other AC1900 routers and also comes with a 3 yr warranty. Router gets warm but works as expected. The user interface does not have the option to set time and bandwidth restrictions on guest accounts. The TP link routers user interface gives you way better options. The coverage is not as I expected but I suspect its because the antennas are internal. Would definitely get a router with external antennas next time.",
+      "rating": 3.0,
+      "verified": true,
+      "author": "Nathaniel",
+      "helpful_votes": 0,
+      "publication_date": 20180118
+    },
+    {
+      "title": "It's been reliable and provided a good connection on both frequencies for a couple of years ...",
+      "text": "It's been reliable and provided a good connection on both frequencies for a couple of years now with only a handful of reboots over that time. Range isn't tremendous but good enough to reach from one end of my home where the router is to the other and still have about 65 dbm reception.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Flyinglow",
+      "helpful_votes": 0,
+      "publication_date": 20160725
+    },
+    {
+      "title": "Works great - improved speed.",
+      "text": "I've been using a different older router for almost 10 years and had forgotten about technology improvements that have happened in that time. This router greatly improved my internet speeds. It works great. Easy to setup yet has many good options for customizing your network.",
+      "rating": 4.0,
+      "verified": true,
+      "author": "CertifiedCecil",
+      "helpful_votes": 0,
+      "publication_date": 20170730
+    },
+    {
+      "title": "Excellent mid grade router",
+      "text": "Really deserves a 4.5 rating. If trendnet actually maintained the dd-wrt firmware (really it should come preinstalled) this thing would be perfect. Dd-wrt flashed easily. Only bug I have is the 2.4 light doesn\u2019t light up depending on the firmware version. Runs a little hot to start with, so I would maybe keep an eye on it or use a fan if you overclock.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Zachary Montgomery",
+      "helpful_votes": 0,
+      "publication_date": 20180214
+    },
+    {
+      "title": "Good setup, but didn't last a year.",
+      "text": "Very disappointing; lasted less than a year. Seemed fine till now; liked the dual network, easy install, disappointed that the ability to limit kids devices was either non-existent or too cumbersome. But now, just started dropping complet network every couple of minutes; even after firmware upgrade... no support after 2-3 days... cannot be without a network; will have to buy another, but would NOT buy TrendNet.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "Amazon Customer",
+      "helpful_votes": 0,
+      "publication_date": 20180319
+    },
+    {
+      "title": "Great Router for Heavy Home Use",
+      "text": "After several months of constantly rebooting my old router, I purchased a new dual band TRENDnet TEW-818DRU. It has worked great, and I haven't had any problems after a week of continuous service. It handles all of our devices (four smart phones, three tablets, two laptops, and a smart TV streaming Netflix, YouTube, and Amazon Prime). Although people are used to getting free routers from their internet providers (like my first one), stepping up to a decent router has made a big difference. Setup was very easy, and I was able to link all of our devices with no problems. This includes a Brother all-in-one printer wired directly to the router. I can't say enough positive about the TRENDnet TEW-818DRU.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Todd Renner",
+      "helpful_votes": 0,
+      "publication_date": 20160125
+    },
+    {
+      "title": "Great DD-WRT hardware",
+      "text": "I bought this router specifically to run DD-WRT on it so I can run an OpenVPN service at the network level. I hate having the software mess around with my devices, especially since I tend to use multiple networks in a single day. Upgrading from the stock image to DD-WRT was easy peezy. It just worked. What can I say? Performance is great, and I get the flexibility and feature-set of the DD-WRT software. Love it. I haven't had to use support because the thing is so easy to use, so I can't comment on that.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Amazon Customer",
+      "helpful_votes": 0,
+      "publication_date": 20170527
+    },
+    {
+      "title": "Solid for home use.",
+      "text": "Works great in my 2 story home! My old router kept required rebooting multiple times a week as it stopped working.... This has worked flawlessly for over a month! The different SSIDs for 2.4 and 5 GHtz isn't what I have been used to, but works just fine. On my network: Brother wireless printer, iMac, Macbook, Windows 7 laptop, 5 Andriod phones, an IPad, multiple Nexus 7s, and a Linux server. All of them worked seamlessly with the new router.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "David L Leo",
+      "helpful_votes": 0,
+      "publication_date": 20150810
+    },
+    {
+      "title": "It works",
+      "text": "I surveyed a lot of routers having had problems with previous devices (it's the gateway for a lot of services at our house and when router goes down it's really painful). The TRENDNET device was very easy to config, handles port forwarding and other things we needed and has been rock solid. No reboots, reliable wifi signal for several months now. Breath of fresh air to get a device that doesn't have a ton of bugs in the bios.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "D. Platt",
+      "helpful_votes": 0,
+      "publication_date": 20140609
+    },
+    {
+      "title": "Bad device, No Support, Don't buy anything from them!",
+      "text": "Piece of crap! Will never buy from Trendnet again! Does not work. Simply disconnect the internet, reconnects, disconnects! When you use RDP the internet will go down as soon as you connect. Tried to call the number, no support! Sent them an EMail for support, never received a reply. Money thrown away! Keep away from this brand, you will do better with pretty much anything!",
+      "rating": 1.0,
+      "verified": true,
+      "author": "Attila",
+      "helpful_votes": 0,
+      "publication_date": 20151103
+    },
+    {
+      "title": "Great step up router",
+      "text": "OK, over the years we've had 4 or 5 routers before getting this one. Every one was a frustration exercise to set up, manage, and maintain. This one took me 15 minutes and worked perfectly. Needless to say, setup was easy, adding security a snap. Covers the whole whole house and then some. It's fast and seems rock solid. We have up to a half dozen devices using it at the same time. Highly recommend.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Michael S. Brown",
+      "helpful_votes": 0,
+      "publication_date": 20141221
+    },
+    {
+      "title": "I recommended it to our son when he had several dead ...",
+      "text": "Wifi every where on our house from my upstairs office. The house is 90 feet by 30 feet and two stories. I can pick up a weak wifi signal even in our Gazebo 30 feet outside our house off the back deck. I recommended it to our son when he had several dead spots in his house. He now has coverage out to his deck and even in his man cave.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "tcebular",
+      "helpful_votes": 0,
+      "publication_date": 20150829
+    },
+    {
+      "title": "I am satisfied.",
+      "text": "Very good. Works, fast, relatively stable. On this end of the house, the TV (two rooms away), works on the faster band. At at the other end of a fairly large house, the slower band provides a more stable signal than the faster band. Good product for the price.",
+      "rating": 4.0,
+      "verified": true,
+      "author": "OldWhatsHisName",
+      "helpful_votes": 0,
+      "publication_date": 20160601
+    },
+    {
+      "title": "Setup was fast and easy. Both networks run great",
+      "text": "Old N300 router finally started crapping out, and since I have far too many electronics now, and will be upgrading to fiber internet (300mbps) next spring, I decided to jump on the 1 day sale and get something that will last. So far I have no complaints. Setup was fast and easy. Both networks run great, and as expected the 5ghz band and AC adds a little speed to the deviced that support it. Range in a 2br apartment isn't the best to the furthest room, but everywhere else in the house gets great signal.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Andrew Pearson",
+      "helpful_votes": 0,
+      "publication_date": 20140925
+    },
+    {
+      "title": "Easy and powerfull",
+      "text": "This guy is a power house. Easy to set up and has a strong signal. The repeaters that I bought prior to our last router croaking are now not needed. I would recommend this to anyone looking for a new router",
+      "rating": 5.0,
+      "verified": true,
+      "author": "eedon",
+      "helpful_votes": 0,
+      "publication_date": 20170315
+    },
+    {
+      "title": "Runs DDWRT just fine, works well enough for my needs",
+      "text": "Runs DDWRT just fine, works well enough for my needs. At $70, to get AC wifi and DDWRT support, this is a nobrainer",
+      "rating": 4.0,
+      "verified": true,
+      "author": "A. Herrington",
+      "helpful_votes": 0,
+      "publication_date": 20180123
+    },
+    {
+      "title": "DD-WRT=No Warranty",
+      "text": "It's a good router, however if you are buying it to install DD-WRT on BEWARE. Install DD-WRT automatically voids your warranty. DD-WRT works great on it and the wireless setting options are extreme.",
+      "rating": 3.0,
+      "verified": true,
+      "author": "shanedavenport",
+      "helpful_votes": 0,
+      "publication_date": 20171205
+    },
+    {
+      "title": "Easy set-up, and it works out of the box",
+      "text": "Easy set-up, and it works out of the box. I have been living with a NetGear router that would lose signal strength, and it would never push the speed that was available. The TRENDnet router pushes the maximum speed available, and it reaches every corner of my condo. Pay the money for the router. It is the best band for your buck as it competes with the top routers at a mid-tier price.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Michael Szuch",
+      "helpful_votes": 0,
+      "publication_date": 20150122
+    },
+    {
+      "title": "performed great untill the summer",
+      "text": "performed great untill the summer. materials they used for the heat sink caused it to have problems with overheating (they used plastic pins to anchor the heat sink to a thick pad of thermal tape?)",
+      "rating": 2.0,
+      "verified": true,
+      "author": "Joseph Meholick",
+      "helpful_votes": 0,
+      "publication_date": 20160828
+    },
+    {
+      "title": "This is a good product for the money",
+      "text": "This is a good product for the money. We have used this for a couple of years now. We have had to 'reset' it a couple of times, but otherwise haven't had any issues. The signal stays strong throughout the house (two levels, 2700 sf total). We can also pick up some weak wifi outside of the home.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Robert",
+      "helpful_votes": 0,
+      "publication_date": 20150218
+    },
+    {
+      "title": "Lack of antenna's == Lack of range",
+      "text": "The router has no antenna's which could be nice if in a small space/rack. Unfortunately this greatly impacts the range of the radio in particular the 5ghz radio. A Netgear R7000 provided a much better signal through a couple of walls and down a floor in my house. If covering a small space and want a clean looking router without pokey antennas everywhere... this router would probably do a good job for you.",
+      "rating": 3.0,
+      "verified": true,
+      "author": "David",
+      "helpful_votes": 2,
+      "publication_date": 20150725
+    },
+    {
+      "title": "Love it. Got it to bypass my AT&T home ...",
+      "text": "Love it. Got it to bypass my AT&T home gateway and i love it. Had to go searching a few forums to makes sure the two firewalls weren't going to conflict each other and what to enable/disable on which device. Even after an hour of searching to find the right set-up guide i'm still 100% satisfied. - Would defiantly recommend the DD-WRT open source firmware for this device for overclocking and wider functionality. I've looked into it but personally it's not for me.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "David Franks",
+      "helpful_votes": 0,
+      "publication_date": 20160218
+    },
+    {
+      "title": "Password setup is a joke, control center appears but ...",
+      "text": "Password setup is a joke,control center appears but you cannot click on anything,did software reload no help.I did the reset as in the instructions and now I just ordered a asus ac88u because the Trendnet router will not accept the manufactures password to connect anything to it.Going in the junk box after 2 months.Feel quit ripped off.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "hello me",
+      "helpful_votes": 0,
+      "publication_date": 20160130
+    },
+    {
+      "title": "Great router I set up both the 2",
+      "text": "Great router I set up both the 2.4ghz and 5ghz wireless networks for the many pads, desktops and televisions streaming. The throughput is very good. All devices perform well. The software has all things you will need although I would like to be able to limit access by MAC address vice only IP address. But I can always go to DD-WRT.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Reddevil_232",
+      "helpful_votes": 0,
+      "publication_date": 20150603
+    },
+    {
+      "title": "Disappointed with the purchase.",
+      "text": "Purchased in July, 2015...Experienced same issue as others reported; worked for a few weeks then began to start dropping connections randomly. Drops became more consistent as time went on...from hourly down to minutes. Finally got to the point where it was unusable. Went through numerous troubleshooting steps, resets, and a firmware upgrade...nothing fixed. Submitted a case to TrendNet support to see what they can do, 3 yr warranty. Hopefully just a bad unit and they'll replace or provide a refund as I'm outside the return window with Amazon.",
+      "rating": 2.0,
+      "verified": true,
+      "author": "Tim Nelson",
+      "helpful_votes": 0,
+      "publication_date": 20150926
+    },
+    {
+      "title": "working great...except...",
+      "text": "Recently replaced my older TrendNet router with this one. Installation went smoothly enough, and everything seems to be working fine, except... I'm having a difficult time accessing the Admin pages. A simple click doesn't work. I almost always need to click, then refresh the page for the page to actually render. Otherwise, the browser keeps waiting, and waiting, and waiting ... I've submitted a Support ticket and am waiting for a response.",
+      "rating": 3.0,
+      "verified": true,
+      "author": "gagashead",
+      "helpful_votes": 0,
+      "publication_date": 20151001
+    },
+    {
+      "title": "Quick reliable router for a great price",
+      "text": "Bought this to replace a 5 plus year old netgear router that was having connectivity issues. Cnet reviewed this unit very highly so I gave it a chance. You can't beat the price and functionality of this router. Setup was very easy and I haven't had an issue yet.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Caleb",
+      "helpful_votes": 0,
+      "publication_date": 20150825
+    },
+    {
+      "title": "Great wifi router",
+      "text": "Great wifi router! Combined with our Docsis 3.0 cable router we consistently get speeds over 100 Mbit/s. Setup was pretty easy, included instructions help.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Valerie Abraham",
+      "helpful_votes": 0,
+      "publication_date": 20171203
+    },
+    {
+      "title": "good price but a terrible experience",
+      "text": "I have DSL and no instructions on how to connect. Called after hour tech support & they were clueless. Finally went on web & researched how to connect to DSL and finally got it to work for 3 days before it failed. Called regular hours tech support and they determined that the unit had indeed quit working after 3 days.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "MUMZ",
+      "helpful_votes": 0,
+      "publication_date": 20170808
+    },
+    {
+      "title": "I like the security features on this router",
+      "text": "Bought this to replace an 8 year old router with limited security. The installation was fairly straightforward. I have been using the TRENDnet for the past 4 weeks without any problems. I like the security features on this router. I will re-post if anything changes.",
+      "rating": 4.0,
+      "verified": true,
+      "author": "dcbl",
+      "helpful_votes": 0,
+      "publication_date": 20151009
+    },
+    {
+      "title": "DD-WRT Causes Reboot",
+      "text": "I bought this router because this router supports DD-WRT, however it is such a disappointment. When using DD-WRT and I have more than 8 devices connected, it would reboot every 10-15 minutes. I tried using the original firmware provided by Trendnet, but the feature is so limited.",
+      "rating": 2.0,
+      "verified": true,
+      "author": "Jonathan K",
+      "helpful_votes": 0,
+      "publication_date": 20151014
+    },
+    {
+      "title": "Works well, but need ethernet connection to set up",
+      "text": "Overall works well. One snag in setup, need computer with ethernet connection to directly connect to router. Luckily I still had an old computer around that had this port, but my main computer does not have an ethernet port and I'm guessing a lot of computers now a days are similar.",
+      "rating": 4.0,
+      "verified": true,
+      "author": "Amazon Customer",
+      "helpful_votes": 0,
+      "publication_date": 20151016
+    },
+    {
+      "title": "Junk!!!",
+      "text": "This thing causes more trouble than it's worth! Drops WIFI clients consistently!",
+      "rating": 1.0,
+      "verified": true,
+      "author": "J. Wilkerson",
+      "helpful_votes": 0,
+      "publication_date": 20181117
+    },
+    {
+      "title": "It works great. I love the way it has sped up ...",
+      "text": "It works great. I love the way it has sped up my network. Now half of my network runs on 2.4Ghz and the other on 5Ghz. Easy to hookup and I bought and USB WiFi adapter for my desktop it works great too. I would recommend this to anyone looking to upgrade their network.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "AJ",
+      "helpful_votes": 0,
+      "publication_date": 20151209
+    },
+    {
+      "title": "Solid Router",
+      "text": "I have it broadcasting from the opposite end of my house through two walls. The signal dips down to one or two bars once in a while. But overall works great. Super simple setup, plug in and go with a preconfigured password included. With 5n and AC stuff it's fairly future proof too.",
+      "rating": 4.0,
+      "verified": true,
+      "author": "Burt Reynolds",
+      "helpful_votes": 0,
+      "publication_date": 20151125
+    },
+    {
+      "title": "Excellent Router and a Great Value",
+      "text": "I've used several different models/manufacturers of AC routers. This router works as well or better than any of the more expensive brands. I would definitely recommend purchasing this. It is a great value, providing dependable stability and performance. I connect 2 Trendnet wireless Cloud Cameras on my network and the performance is excellent.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Dennis Edwards",
+      "helpful_votes": 0,
+      "publication_date": 20141124
+    },
+    {
+      "title": "Solid Stable Router, Good Purchase",
+      "text": "I replaced a new ASUS AC router that was very intermittent with this TrendNet router. It has been great. K haven't seen any issues at all and it appears to be much more stable than the ASUS router I purchased for twice the cost of the TrendNet router.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Matt Parker",
+      "helpful_votes": 0,
+      "publication_date": 20151103
+    },
+    {
+      "title": "Got my money's worth",
+      "text": "This router was exactly what I was looking for. I was in the process of upgrading my entire network to a gigabit network and improve wireless speeds around my house. I stumbled upon this product and once I had received it, it works as well as the reviews have said. Easy setup and strong wireless signals around the house, this is the perfect router to have great wireless speeds around the house. I'm a gamer and the wired connection is blazing fast. I would totally reccomend this to people.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Minh",
+      "helpful_votes": 0,
+      "publication_date": 20150918
+    },
+    {
+      "title": "Works well with new motorola cable modem",
+      "text": "Very easy to install. The router is placed in a direct \"sight\" line with our Samsung smart tv and is streaming to the tv without any breaks or gaps. Our apple tv also has a consistent and steady connection (something we'd had problems with when we had a netgear router). The Trendnet router has only been up and running for 3 or 4 days but so far so good. I bought this because 3 days after switching out the Time Warner cable modem we were renting for a purchased motorola, our netgear router stopped working.",
+      "rating": 4.0,
+      "verified": true,
+      "author": "Neva Bartholomew",
+      "helpful_votes": 0,
+      "publication_date": 20141011
+    },
+    {
+      "title": "Great Value. After 4 other routers, this is the one!!!!",
+      "text": "This Router is awesome. I have a 1930's home and was having such a problem getting any of the 4 routers I tried to work outside of the room the router was in. After I read the reviews on both Cnet ( and PC Mag (,2817,2461551,00.asp) I thought this looked like the best value for 802.11ac. This router has great range and does everything I need it to.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Emily Johanna Geenen",
+      "helpful_votes": 0,
+      "publication_date": 20150903
+    },
+    {
+      "title": "This router has been great so far",
+      "text": "This router has been great so far. ~1.5 months of use and have never had a problem. Even the USB drive works great with a harddrive I plugged into it. Using an EDIMax AC wifi adapter on the 5ghz channel to a Win7 desktop in another room I get 11,000 kbytes/sec downloading from the harddrive plugged into the device.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "S. S. H.",
+      "helpful_votes": 0,
+      "publication_date": 20141206
+    },
+    {
+      "title": "Excellent Modem, But Confusing Set Up",
+      "text": "This is the fastest wireless modem I have ever owned. It is small and has enough range to cover both levels of my home and the deck as well. The instructions said that the set up should load automatically but it did not. I eventually figured out how to use the set up disk, but it was not very self-explanatory. Also, it took me about a hour of trial and error to figure out how to change the name and password on my modem for my home network. More detailed instructions in the set up manual would be much apreciated in the future.",
+      "rating": 4.0,
+      "verified": true,
+      "author": "Kelly M.",
+      "helpful_votes": 0,
+      "publication_date": 20150919
+    },
+    {
+      "title": "I would love to brag on and on about this router",
+      "text": "I would love to brag on and on about this router; it is not the router's fault that I cannot....my DSL connection is probably the absolute worst in the country. To the credit of this router, my disconnects have been much less frequent.",
+      "rating": 4.0,
+      "verified": true,
+      "author": "VooDew",
+      "helpful_votes": 0,
+      "publication_date": 20151210
+    },
+    {
+      "title": "The router was very good at start",
+      "text": "The router was very good at start, no problems with speed or need for a reboot. However after almost a month of using it it now requires me to physically reboot it every few days because it says that there is no internet connection. I have the latest firmware so I don't think that's the issue. However when this router is working: the range is generally good and the speed also.",
+      "rating": 3.0,
+      "verified": true,
+      "author": "kuwari316",
+      "helpful_votes": 0,
+      "publication_date": 20141220
+    },
+    {
+      "title": "Good Wifi Signal",
+      "text": "So far very happy with performance. Only issues so far have been with older devices' own limitations on speed, not the router. I Speedtest frequently and I always get what my provider is capping me off at: 50Mb down 12Mb up Signal strength does drop off in other rooms but I have concrete walls.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Roald",
+      "helpful_votes": 0,
+      "publication_date": 20141112
+    },
+    {
+      "title": "Great router",
+      "text": "I replaced the fios quantum router with this one. I didn't want to rent the router from Verizon anymore. The range on this router is the same if not better. It works perfectly. At this price you can't beat it.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Wiggypa",
+      "helpful_votes": 0,
+      "publication_date": 20170901
+    },
+    {
+      "title": "Good buy",
+      "text": "Range is limited but that's a give me. Speed is only limited by isp. Doesn't disappoint.",
+      "rating": 4.0,
+      "verified": true,
+      "author": "brolord",
+      "helpful_votes": 0,
+      "publication_date": 20180301
+    },
+    {
+      "title": "Worth the price so far",
+      "text": "So far so good, I decided to try a higher end router since all the cheap ones I buy seem to have problems after 3 months. This one is still working great and I've only had to reset a couple of times. Now if I could just get my ISP to provide the advertised speed I'd be all set.",
+      "rating": 4.0,
+      "verified": true,
+      "author": "Dan D.",
+      "helpful_votes": 0,
+      "publication_date": 20141125
+    },
+    {
+      "title": "Good price, but",
+      "text": "It worked perfectly for three weeks, and now the internet drops off on it's own. Today wifi dropped off twice in three hours. Good price, but......",
+      "rating": 2.0,
+      "verified": true,
+      "author": "flash 1949",
+      "helpful_votes": 0,
+      "publication_date": 20170917
+    },
+    {
+      "title": "DO NOT BUY.",
+      "text": "This router is complete garbage. Giant waste of money. I have to unplug it and reset it at least once a day...if I do any big downloads I have to reset it multiple times in an hour. As soon as I get paid I'm buying a new, different brand. For this kind of money, it should be a pretty solid router, but no. It's complete crap. AVOID THIS PRODUCT.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "Todd M. Guerra",
+      "helpful_votes": 0,
+      "publication_date": 20151008
+    },
+    {
+      "title": "Fast but lacks good IPv6 support.",
+      "text": "Good: Easy to setup. Fast (1Gbit/sec wireless link speed via 802.11ac). Bad: IPV6 doesn't work. Can't use it as an AP (bridge only to local LAN, w/o routing). Therefore, can't even bridge to a local LAN (for V6 support, and to avoid double NAT). When using DD-WRT firmware, I can only achieve 289 Mbit/sec wireless link speed.",
+      "rating": 2.0,
+      "verified": true,
+      "author": "kevin brintnall",
+      "helpful_votes": 0,
+      "publication_date": 20151128
+    },
+    {
+      "title": "Short life span",
+      "text": "It worked pretty good at first but after about a year, it's range is reduced to practically a single room. It no longer goes to the other end of the house which is about 40 feet away. Through walls of cardboard and spackle (thank you 1980s ranch).",
+      "rating": 3.0,
+      "verified": true,
+      "author": "Amazon Customer",
+      "helpful_votes": 0,
+      "publication_date": 20150904
+    },
+    {
+      "title": "Works very well. Simple to configure. No known ...",
+      "text": "Works very well. Simple to configure. No known back doors so far.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Stacey Brewer",
+      "helpful_votes": 0,
+      "publication_date": 20180326
+    },
+    {
+      "title": "Works very well.",
+      "text": "So far, has been working perfectly, and is a great value for the price. The setup was pretty straightforward, though inherently a little more work and confusion due to the separate settings for the separate 2.4 and 5 GHz networks. As others have noted, 5 GHz has a pretty short range. Its light weight makes it susceptible to being easily knocked over.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Andy P.",
+      "helpful_votes": 0,
+      "publication_date": 20141004
+    }
+  ],
+  "product_meta": {
+    "title": "TRENDnet AC1900 Dual Band Wireless AC Gigabit Router, 2.4GHz 600Mbps+5Ghz 1300Mbps, One-Touch Network connection, 1 USB 2.0 Port, 1 USB 3.0 Port, DD-WRT Compatible, IPv6, Guest Network, Parental controls, TEW-818DRU",
+    "description": "TRENDNET WIRELESS AC1900 DUAL BAND GIGABIT ROUTER WITH USB SHARE PORT, TEW-818DRU\nBox ImageView larger Product ImageView larger AC1900 DUAL BAND WIRELESS ROUTER\nTRENDnet\u2019s AC1900 Dual Band Wireless Router, model TEW-818DRU, is an extreme performance wireless router. It creates two concurrent wireless networks\u2014a 1.3 Gigabit Wireless AC network and a 600 Mbps Wireless N network to connect common wireless devices. Use the high speed USB 3.0 port and Gigabit Ethernet ports to further expand your network.\n\n\n\nDISCOVER THE POTENTIAL OF WIRELESS AC\nWireless AC is the next generation of wireless devices. Utilizing the 802.11ac standard and developed to stream high definition video, transfer large digital files and move data along at blazing fast speeds, Wireless AC is the wave of the future!Features AC1900: 1300 Mbps Wireless AC + 600 Mbps Wireless N bands High speed USB 3.0 and USB 2.0 share ports Pre-encrypted for your security Create an isolated guest network One touch network connection with the WPS button All Gigabit wired ports High power amplifiers extend wireless coverage Compatible with DD-WRT open source firmware 802.11ac provides uninterrupted HD video streaming in a busy connected home Targeted Beamforming increases real-time performance by directing stronger wireless to your specific location Get up and running in minutes with the intuitive guided setup Parental Controls limit access to specific websites\n\nMaximum wireless signal rates are referenced from IEEE 802.11 theoretical specifications. Actual data throughput and coverage will vary depending on interference, network traffic, building materials and other conditions. 802.11n 2.4 GHz TurboQAM speeds requires clients with TurboQAM support.\n\nFEATURES\n * AC1900: 1300 Mbps Wireless AC + 600 Mbps Wireless N bands \n * High speed USB 3.0 and USB 2.0 share ports \n * Pre-encrypted for your security \n * Create an isolated guest network \n * One touch network connection with the WPS button \n * All Gigabit wired ports \n * High power amplifiers extend wireless coverage \n * Compatible with DD-WRT open source firmware \n * 802.11ac provides uninterrupted HD video streaming in a busy connected home \n * Targeted Beamforming increases real-time performance by directing stronger wireless to your specific location \n * Get up and running in minutes with the intuitive guided setup \n * Parental Controls limit access to specific websites\n\nCompare ProductsAC1900 Dual Band Wireless Router View largerTEW-818DRUAC1200 Dual Band Wireless Router View largerTEW-813DRUAC1750 Dual Band Wireless Router View largerTEW-812DRUAC1200 Dual Band Wireless Router View largerTEW-811DRUAC750 Dual Band Wireless Router View largerTEW-810DR1300Mbps Wireless AC\u2713\u2713867Mbps Wireless AC\u2713\u2713433Mbps Wireless AC\u2713600Mbps Wireless N\u2713450Mbps Wireless N\u2713300Mbps Wireless N\u2713\u2713\u2713USB 3.0\u2713\u2713\u2713DD-WRT Compatible\u2713\u2713\u2713 \n\nAMAZON.COM",
+    "rating": 4,
+    "feature_bullets": [
+      "AC1900: 1300 Mbps Wireless AC + 600 Mbps Wireless N bands",
+      "High speed USB 3.0 and USB 2.0 share ports",
+      "Pre-encrypted for your convenience",
+      "Create an isolated guest network",
+      "One touch network connection with the WPS button",
+      "All Gigabit wired ports",
+      "High power amplifiers extend wireless coverage"
+    ],
+    "specifications": {
+      "Standing screen display size": "7.1 Inches",
+      "Wireless Type": "802.11ac",
+      "Brand": "TRENDnet",
+      "Series": "TEW-818DRU",
+      "Item model number": "TEW-818DRU",
+      "Operating System": "Windows: 8.1, 8, 7, Vista, XP; Mac OS X: 10.9, 10.8, 10.7, 10.6, 10.5, 10.4",
+      "Item Weight": "13.9 ounces",
+      "Product Dimensions": "13 x 3 x 9 inches",
+      "Item Dimensions  LxWxH": "13 x 3 x 9 inches",
+      "Color": "Black & Silver",
+      "Voltage": "12 Volts",
+      "Manufacturer": "TRENDnet",
+      "ASIN": "B00HKEI3DA",
+      "Is Discontinued By Manufacturer": "No",
+      "Date First Available": "December 27, 2013",
+      "Customer Reviews": "4.0 out of 5 stars512 ratings4.0 out of 5 stars",
+      "Best Sellers Rank": "#30,074 in Computers & Accessories"
+    },
+    "categories": [
+      "Computers & Accessories",
+      "Electronics",
+      "Routers",
+      "Networking Products"
+    ],
+    "price": 124.95
+  }
+}

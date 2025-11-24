@@ -1,0 +1,957 @@
+{
+  "website_summaries": [
+    {
+      "verdict": "The Microsoft LifeCam HD-5000 Web camera offers excellent high-def video and sound quality at an affordable price. Despite using a good deal of system resources at higher resolutions, it's certainly an improvement over stock Webcams. We recommend it to anyone looking for a smoother video chat experience.",
+      "pros": [
+        "720p HD video quality at 30 frames per second, flexible base sits firmly on hard surfaces",
+        "inexpensive",
+        "LifeCam desktop software offers fun 3D video effects"
+      ],
+      "cons": [
+        "Jumpy auto-focus during video recording",
+        "CPU hog at higher resolutions",
+        "incompatible with Mac OS"
+      ],
+      "aspects": {
+        "Design": 7.0,
+        "Features": 7.0,
+        "Performance": 7.0
+      },
+      "publication_date": 20100922,
+      "rating": 7.0,
+      "source": "cnet"
+    }
+  ],
+  "customer_reviews": [
+    {
+      "title": "Seals were already cut.  Doesn't work with Windows 10 at all",
+      "text": "It would have been nice to have a warning on Amazon that this camera doesn't work with Windows 10. When I pulled the box out of the shipping box, the seals were already cut. The webcam shows up in Device Manager as working properly. The camera is set up to all all apps to access it. The microphone is set up properly. Open any app an NOTHING. No image, no sound. I feel like I have been completely ripped off. I get that it was only 18 bucks, but",
+      "rating": 1.0,
+      "verified": true,
+      "author": "ChuckOMalley",
+      "helpful_votes": 2,
+      "publication_date": 20200317
+    },
+    {
+      "title": "Difficult to install on Windows 7 and didn't work on Windows 10",
+      "text": "I first tried to install the webcam on a desktop with Windows 10. The CD-ROM that was included with the webcam did not work on Windows 10 and the Microsoft website had no drivers for Windows 8 or later. Plugging the webcam into the USB port did not work. So, I switched to a desktop with Windows 7. That didn't work initially, but after rebooting the computer it worked. I spent about an hour total to get it to work.",
+      "rating": 2.0,
+      "verified": true,
+      "author": "N. Hyde",
+      "helpful_votes": 0,
+      "publication_date": 20200406
+    },
+    {
+      "title": "Good webcam for videoconferencing",
+      "text": "Great webcam. Adequate resolution, sharp focus, good exposure and excellent low light performance. Works fine in Windows 10. The built-in microphone does a good job too. The mount is bendy and does not intrude much over the front monitor bezel. The camera can be rotated left or right and tilted by moving the bendy bit. It is rugged, and has been perched on my monitor since 2011. See picture shot with a mirror and cropped severely. It cost me $25 back then so this now old tech is asking way too much, so I have bought a different brand for my wife.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Dennis Maeder",
+      "helpful_votes": 0,
+      "publication_date": 20200818
+    },
+    {
+      "title": "Always auto-focusing",
+      "text": "This is a terrible camera. I hope they stopped making it. It is not compatible with Windows 10 regardless of what Microsoft might say. The camera is always auto-focusing even when I am perfectly still. Microsoft refuses to create software that allows you to disable auto-focus. DO NOT WASTE YOUR MONEY.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "J",
+      "helpful_votes": 0,
+      "publication_date": 20200617
+    },
+    {
+      "title": "Works with Windows 7",
+      "text": "Works great with my Windows 7. It did require a firmware update online but it did it almost automatically in a matter of minutes. Easy to do for a not so savy guy! Zooms in and out quite well, auto focus works but does not go crazy like I have heard some do. Comes with a CD which makes it easy. Controls are easy and can be set to automatic for most settings.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "criticalguy",
+      "helpful_votes": 0,
+      "publication_date": 20180409
+    },
+    {
+      "title": "For Windows 8.0 or 8.1 You Will Need to Download...",
+      "text": "The CD software and drivers that comes with it will not work under Windows 8.0 or 8.1. That software on the CD is for Windows 7. You will need to go to Windows here: (...) Download the software and driver and install. It will then work with SKYPE and Windows Movie Maker. It will only install the necessary software to work with SKYPE and Windows Movie Maker, but you can make web cam videos using Windows Movie Maker, or take snapshots with it.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "David",
+      "helpful_votes": 0,
+      "publication_date": 20160522
+    },
+    {
+      "title": "Great deal at 18 bucks but no so great at 70.",
+      "text": "Late last year before pandemic, this webcam was going for near 18 bucks. I wanted to buy another one but found it quadrupled in price. Very disappointing",
+      "rating": 4.0,
+      "verified": true,
+      "author": "Nathan Chao",
+      "helpful_votes": 0,
+      "publication_date": 20200816
+    },
+    {
+      "title": "Just what I needed....",
+      "text": "I bought this to do some Skype interviews for our Church. I had not used Skype myself, and was worried how this would go, but this camera worked perfectly and was less expensive than other similar items. Skype rated the lower HD-4000 camera at about a 9.2 (I recall) out of 10 so I hoped this camera would be as good. I purchased this version because of the autofocus and noise cancelling mic features. It also seems to have auto exposure control. The field of view is about 45 degrees left or right of the camera. The install was effortless, and came up on the first try. Recommended.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Chris Gosnell",
+      "helpful_votes": 0,
+      "publication_date": 20130823
+    },
+    {
+      "title": "Really good camera at a reasonable price",
+      "text": "Good camera, especially for the price. It swivels plenty, and the stand is very versatile. The image and color are good, I like the white balance and color, and the software allows for some adjustment. The auto focus is a little aggressive/touchy, so it is great if you don't move around too much for your application (great for a blog or whatever).",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Erika",
+      "helpful_votes": 0,
+      "publication_date": 20160822
+    },
+    {
+      "title": "Great Little WebCam",
+      "text": "Bought this camera for Video confrencing on Skype. So far it's pretty good. I have it on a 2.4 Ghz intel with 2gb memory running WinXP Pro Sp3. The picture quality is very good. The auto focus is a little flaky at times but a nice feature. I like the ablity to zoom in and out so others can only see what I want them to see. I zoom in and cut the field of view so they don't see my whole office but I can zoom out so they can see several persons if needed. The microphone was pretty good. Overall I am please with this purchase and for the price it was a very good deal.",
+      "rating": 4.0,
+      "verified": true,
+      "author": "Robert",
+      "helpful_votes": 0,
+      "publication_date": 20110120
+    },
+    {
+      "title": "\"TrueColor\" feature is no joke. The difference is amazing.",
+      "text": "I bought this for Skyping with friends. It is the first webcam I've ever purchased, but I am extremely pleased with it. The video quality is good and the \"TrueColor\" feature makes a big difference. Also, in medium and low lighting conditions this camera really excels, showing myself and the surroundings really well as opposed to other users with built-in laptop or other cameras. Only complaints would be it's kind of sketchy to perch it on top of my monitor, but that might just be me. Also, it tends to try and re-focus the frame often and for seemingly no reason.",
+      "rating": 4.0,
+      "verified": true,
+      "author": "ZeeCee",
+      "helpful_votes": 0,
+      "publication_date": 20131210
+    },
+    {
+      "title": "Poor performance",
+      "text": "Purchased this camera to work with a Microsoft laptop and it would randomly turn on and off when in use. And when it was on the focus kept changing randomly.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "Monica Taylor",
+      "helpful_votes": 0,
+      "publication_date": 20200924
+    },
+    {
+      "title": "Blurs repeatedly",
+      "text": "The picture quality is great. My problem is that it often will refocus over and over again, where the picture gets blurry while focusing repeatedly.",
+      "rating": 2.0,
+      "verified": true,
+      "author": "Dave",
+      "helpful_votes": 0,
+      "publication_date": 20200812
+    },
+    {
+      "title": "webcam",
+      "text": "bought for my use when i wanted to see who i was talking to",
+      "rating": 5.0,
+      "verified": true,
+      "author": "DaddyBoss",
+      "helpful_votes": 0,
+      "publication_date": 20200121
+    },
+    {
+      "title": "Good camera, very poor support",
+      "text": "Camera works well, but Microsoft's firmware hasn't been updated since 8/24/2010. The autofocus works well, but autofocuses every 15 seconds and is EXTREMELY annoying. You can disable the autofocus feature in the software settings, but the application won't remember that you shut it off. Also the application appears to have an occasional memory leak slowing the entire system down to a crawl thus cutting web applications after 10-15 minute video calls. I experienced this crawl with gmail video (on both firefox and IE) and VSee.",
+      "rating": 4.0,
+      "verified": true,
+      "author": "diodepack",
+      "helpful_votes": 0,
+      "publication_date": 20110110
+    },
+    {
+      "title": "Pretty Solid!",
+      "text": "Replaces an old LifeCam VX-3000. I haven't used and probably will not use the microphone built in so keep that in mind. Picture quality is pretty outstanding in my own opinion. The Auto focus is mega annoying but you can disable it. I have even used the camera in low light situations and haven't noticed much of a difference. The price I paid $19.99 was a great bang for your buck if you don't want to spend a big amount on a webcam. Clearly I would recommend it.",
+      "rating": 4.0,
+      "verified": true,
+      "author": "CmC918",
+      "helpful_votes": 0,
+      "publication_date": 20110602
+    },
+    {
+      "title": "What is up with auto focus?",
+      "text": "Picture and microphone works great. But one thing I really hate is the auto focus. This thing refocuses every 5 seconds and it gets super annoying when you are chatting with someone. Even if you stay very still, the camera keeps auto focusing and will even auto focus when there's no object in the background moving. For the price, it delivers a great picture and sound quality, but the auto focus kills it. You can turn off the auto focus feature, but you do not get crisp video every time. I would only recommend it if you are the occasional video chatter and plan to annoy the other party tremendously.",
+      "rating": 2.0,
+      "verified": true,
+      "author": "CC",
+      "helpful_votes": 0,
+      "publication_date": 20111013
+    },
+    {
+      "title": "Microsoft LIfeCam HD-5000 using with Windows XP",
+      "text": "This cam has nice extension on the cable. This cam has excellent quality, but I have many issues on things shutting down and getting warnings because the resources are too low. This cam takes up lots of memory and does not work to the capacity I would like when too many applications are open. The sound quality in recording is awful. The cam also has issues in manual adjustments of brightness, but learning the quirks makes it ok. Be sure NOT to have any light behind the cam if you want good focus and quality. Otherwise I like the cam.",
+      "rating": 4.0,
+      "verified": true,
+      "author": "Diana M. Crowe",
+      "helpful_votes": 0,
+      "publication_date": 20110506
+    },
+    {
+      "title": "Auto-Zoom-On-Steroids",
+      "text": "The Auto-Zoom is TERRIBLE. It cannot be turned off, and it keeps happening over and over, even when the camera is well-set on you, and does not need to correct itself. It becomes exceedingly annoying. Also, the picture-capture takes the photos backward. It cannot be corrected, either, except through graphic editing software. Now I understand why it was so cheap.",
+      "rating": 2.0,
+      "verified": true,
+      "author": "Adrian Hall",
+      "helpful_votes": 0,
+      "publication_date": 20130603
+    },
+    {
+      "title": "Does anyone actually leave autofocus on?",
+      "text": "I disabled autofocus because it seems indecisive even though my background is static and I'm not animated. The camera works pretty well even in low light (e.g. tested by turning off all my room lights and only used my monitor's screen illumination). The auto exposure settings seem to work fine in both day and night. Definitely a bargain when on sale for less than $20. The bendable stand works well on LCD monitors as well.",
+      "rating": 4.0,
+      "verified": true,
+      "author": "Mark Azali",
+      "helpful_votes": 0,
+      "publication_date": 20101230
+    },
+    {
+      "title": "It does the job",
+      "text": "Pretty decent quality for your budget, think I picked this up during a black friday for extra sales. Cons: It definitely has an auto-focusing issue. But you can turn that off in settings which I recommend or it will try to focus a bazzillion times even if your sitting still. Also, always remember to cover your webcam with tape or something. You just never know in this day and age!",
+      "rating": 4.0,
+      "verified": true,
+      "author": "Mario V",
+      "helpful_votes": 0,
+      "publication_date": 20130617
+    },
+    {
+      "title": "This webcam is perfect for skype calls",
+      "text": "This webcam is perfect for skype calls, streaming on twitch (video games ) and recording stills or video. I would HIGHLY reccomend especially for the price. Super good quality",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Dylan Rose",
+      "helpful_votes": 0,
+      "publication_date": 20160921
+    },
+    {
+      "title": "Review of HD5000 MS Skype Camera",
+      "text": "I bought this camera because a friend with whom I skype everyday had it, and I noticed it was an auto focus camera as well as excellent \"pure white\" crystal clear picture. The only time that isn't true is when Skype itself is having problems. Then everyone, no matter what camera they bought, has a problem. Fortunately, they are quick to fix their issues. I highly recommend this camera.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "S. Wallace",
+      "helpful_votes": 0,
+      "publication_date": 20110720
+    },
+    {
+      "title": "Good image quality",
+      "text": "Bought in 2011, died in 2016. RIP. Good image quality, poor longevity. Its a freakin camera, it should not be failing after 5 years of mostly doing nothing.",
+      "rating": 3.0,
+      "verified": true,
+      "author": "Dr Jay",
+      "helpful_votes": 0,
+      "publication_date": 20170530
+    },
+    {
+      "title": "Choppy picture that does a poor job adjusting to different light",
+      "text": "Bought this so I could skype with my brother in California. Figured it would be fine as long as it functioned. Unfortunately I overestimated how happy I would be with simply functional. The camera has a grainy, choppy picture and is overly sensitive to changes in light level. When it sense a light level change it WAY over compensates. I never returned it though I would if I could now.",
+      "rating": 2.0,
+      "verified": true,
+      "author": "Scottie",
+      "helpful_votes": 0,
+      "publication_date": 20140617
+    },
+    {
+      "title": "Better options available",
+      "text": "Things have probably changed since I purchased (and returned) this webcam. Like others have said, the autofocus is horrible and I could not get it to work with 2 Windows 7 computers. I throughly know my way around a computer and was surprised that something made by Microsoft would not work with Windows and had no support for it! I purchased a Logitech webcam instead and it works great.",
+      "rating": 2.0,
+      "verified": true,
+      "author": "SilhouetteZ28",
+      "helpful_votes": 0,
+      "publication_date": 20121116
+    },
+    {
+      "title": "Just take one and call me in the morning!",
+      "text": "My wife and I recently purchased this web-cam for her parents who use g-chat through email to talk to my brother-in-law and his wife. After using their new HD camera once they were telling us how much they enjoyed it. They said that while chatting with my brother-in-law and his wife that they mentioned how great the picture quality was and that they could make out everything in the room that was in the camera's view and that the sound quality was great too! Another great feature of the product is the small and sleek design so unlike some web-cams this is not an eye sore on the computer stand.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "JonSchinkerPhD",
+      "helpful_votes": 0,
+      "publication_date": 20110325
+    },
+    {
+      "title": "works",
+      "text": "works like a webcam should, it's crisp and what not but, the only problem is the auto focus. it sucks, so bad. and it continuously auto focuses and it's so annoying. i've had this for 3 years and a few times recently, it's showed screen tearing on the webcam on the screen, but that's because it's old. get something else that wont auto focus every 5-10 seconds.",
+      "rating": 3.0,
+      "verified": true,
+      "author": "Vince",
+      "helpful_votes": 0,
+      "publication_date": 20130819
+    },
+    {
+      "title": "Awesome Lifecam",
+      "text": "This is an awesome little camera I bought 2 of them. I have not used it for Skype or instant messaging they are set up for surveillance and personal protection. The picture quality and sound are crystal clear and I have left them recording for hours. This little camera even picks up sound in the other room. If you are in the market and don't have much to spend this is what you need. Amazon.com always has the lowest prices and speedy shipping. Thanks",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Rae Griest",
+      "helpful_votes": 0,
+      "publication_date": 20110529
+    },
+    {
+      "title": "WebCam",
+      "text": "Got this for my son to use with his Sorenson Communication Application. He is deaf and he uses this with the new Sorenson app on my laptop to talk with his friends. The built in cam was very slow and choppy and it was hard to talk in sigh with others. This one is much better and now the video is very smooth and not chopped up.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Amazon Customer",
+      "helpful_votes": 0,
+      "publication_date": 20140619
+    },
+    {
+      "title": "Perfect for Skype",
+      "text": "I bought 2 of these cameras so my wife and I can Skype while Im away. Pros: -As long as you have a good internet connection speed these will give you a full HD experience on Skype. -Easy to install and use -Good microphone -Stand work well for attaching to the top of a monitor Cons: -Autofocus should be disabled because it will just keep trying to focus every 10 seconds.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "B. Trembath",
+      "helpful_votes": 0,
+      "publication_date": 20110616
+    },
+    {
+      "title": "Great Camera",
+      "text": "I purchased this to replace a dead camera from an aftermarket manufacturer.This unit was cheaper and works fine.It has excellent picture quality and takes good snapshots.It'svwell built and it's worked for over a year without any problems.The camera it replaced was from Lo----ch,which had died after 2 days and left me with a $40 paperweight.Microsoft is far surperior.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Flight93",
+      "helpful_votes": 0,
+      "publication_date": 20111219
+    },
+    {
+      "title": "Excellent Webcam !!",
+      "text": "I bought one of this in order to video-chat with my girlfriend who was in another city. I love this wide angle webcam, I Love its picture quality and I love the program that came with it, that permit set any things as the focus (automatic o fix at various levels) I bought it directly to amazon who has it at the best price. The experience using this webcam was so good, that I bought another one more and sent it to my girlfriend!!",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Karlox Mexia",
+      "helpful_votes": 0,
+      "publication_date": 20110224
+    },
+    {
+      "title": "Beer Goggles",
+      "text": "Great resolution and good price. The auto-focus is awful, especially when using Skype. It just can't lock on in low light conditions. The software is nice, but will not retain settings to keep the auto focus off. I can deal with it, but it's a real pain in the butt to change every time I reboot my computer. If you can get this at over 50% off, I recommend it.",
+      "rating": 4.0,
+      "verified": true,
+      "author": "techdude49",
+      "helpful_votes": 0,
+      "publication_date": 20131211
+    },
+    {
+      "title": "Works great!",
+      "text": "Excellent pictures. Don't know about the microphone, since we have 2 microphones attached to the same pc at the same time. The auto focus is so so. Once it is focused the pic is good, but it refocuses every minute and it takes a couple seconds to get a clear picture each time it refocuses. Very easy to install. Grandpa loves seeing the kids through this new webcam.",
+      "rating": 4.0,
+      "verified": true,
+      "author": "T.",
+      "helpful_votes": 0,
+      "publication_date": 20110321
+    },
+    {
+      "title": "Mic broke",
+      "text": "Mic broke after 30 days You have to yell into it",
+      "rating": 3.0,
+      "verified": true,
+      "author": "B. salem",
+      "helpful_votes": 0,
+      "publication_date": 20200515
+    },
+    {
+      "title": "The resolution is great and the dependability is superb",
+      "text": "I use for home security cameras. The resolution is great and the dependability is superb. A great product from Microsoft.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Bravehrt95",
+      "helpful_votes": 0,
+      "publication_date": 20161125
+    },
+    {
+      "title": "Beware the auto-focus",
+      "text": "Great quality of image and good mount, but it wont stop auto-focusing! It's insane and pissing me off, there are no new drivers to fix this, you have to find some crap software and edit the registry to make it stick, praying it was in focus when you did. If you have no idea how to do that, stay away from this one.",
+      "rating": 3.0,
+      "verified": true,
+      "author": "HAYDEN HUFFINES",
+      "helpful_votes": 0,
+      "publication_date": 20121010
+    },
+    {
+      "title": "Not too shabby, does what it says it does.",
+      "text": "Read the reviews here and they're mixed reviews. I have Windows 7 64bit and i am very computer savvy. Now i didnt have to do much, just plugged it in and windows did the rest. Camera works flawless except for the auto focus which is horrendous and it creates a blurry image every 15-20 seconds. All you need to do is go to settings and disable it.",
+      "rating": 4.0,
+      "verified": true,
+      "author": "Hector C",
+      "helpful_votes": 0,
+      "publication_date": 20111201
+    },
+    {
+      "title": "Great for cameraless computers",
+      "text": "My brother turned me on to this camera. It is good for me for two reasons - My desk top does not have a camera and my laptop's camera is not as strong as this camera. I would recommend it for replacing a laptop camera and it contains a speaker/camera combination which works for my cameraless-desktopcomputer.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Trichia",
+      "helpful_votes": 0,
+      "publication_date": 20130711
+    },
+    {
+      "title": "Perfect!",
+      "text": "This webcam is perfect! The audio was great, the video was great, the movement was perfect. It's very compact and adjustable so you can put it on nearly any computer screen. there is no need to use a lamp or some sort of light because it adjusts to the color. I would HIGHLY recommend this product!",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Ramiro Marin",
+      "helpful_votes": 0,
+      "publication_date": 20120727
+    },
+    {
+      "title": "Pretty good camera but with software glitches",
+      "text": "It's a pretty good camera, and had it only been the hardware I would have given it 5 stars. As it happens, when you just use it plug&play the autozoom acts up blurring the image every 20 seconds. If you install the drivers online, you can set autozoom off and it's fine. Since I have a windows/linux dual boot and mostly use linux, setting autozoom off is a bit harder. Otherwise the hardware itself, the colors and resolution etc are pretty great for the price.",
+      "rating": 4.0,
+      "verified": true,
+      "author": "Ayandru Ambrescu",
+      "helpful_votes": 0,
+      "publication_date": 20111111
+    },
+    {
+      "title": "Works well",
+      "text": "I read the other reviews and decided that the only potential issue was slow autofocus. I haven't had any issue with that while using the HD-5000 for Skype and adding my \"talking head\" to screencasts. Great value, the image is sharp, the colors much better than my previous Logitech QuickCam and the kids had fun with the special effects.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Douglas Stnschndr",
+      "helpful_votes": 0,
+      "publication_date": 20110123
+    },
+    {
+      "title": "Satisfied, works well",
+      "text": "Bought it to take photos and Skype on my desktop (PC, Win7) and so far have had no problems with it and has really great picture quality. It tends to auto focus a lot but I think it might be the distance I sit away from my computer I should probably sit closer. Also, it works well under Ubuntu (GNU/Linux operating system) as well.",
+      "rating": 4.0,
+      "verified": true,
+      "author": "Jenn",
+      "helpful_votes": 0,
+      "publication_date": 20110606
+    },
+    {
+      "title": "works well with android",
+      "text": "I've bought this one to use it with android tv-box UG008 for skyping and such. Works well out of the box with stock firmware. Wide angle, nice clear picture with good colors. I kind of wish there was no autofocus, since the camera tries to refocus way too often and is not too quick in doing that, but other than that I'm quite happy with the purchase.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "obk",
+      "helpful_votes": 0,
+      "publication_date": 20130430
+    },
+    {
+      "title": "Not good for Mac",
+      "text": "Looks like a good camera for Windows, but it doesn't cut it on the Mac. The brightness is totally washed out in a room with sunshine. Although the HD widescreen aspect ration works in GMail Video Chat, the picture gets squished on Skype. The microphone level is too quiet unless it's maxed out in System Preferences. The auto focus prevents backgrounds from working in Photo Booth.",
+      "rating": 2.0,
+      "verified": true,
+      "author": "Andrew Chernauskas",
+      "helpful_votes": 0,
+      "publication_date": 20110320
+    },
+    {
+      "title": "Three Stars",
+      "text": "Hardware works good, software (& upgrades) pretty poor. MS should be embarrassed by their low quality",
+      "rating": 3.0,
+      "verified": true,
+      "author": "Richard C.",
+      "helpful_votes": 0,
+      "publication_date": 20161117
+    },
+    {
+      "title": "Never could get this to work.",
+      "text": "Tried everything I could to get this to work, but it would never do right. Even my fiance\u0301 (an IT guy!!) could not figure out why. The computer recognized it, and so did Skype and Yahoo Chat, but the screen was always just black. Wouldn't do live recording or regular recording.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "Benji",
+      "helpful_votes": 0,
+      "publication_date": 20131021
+    },
+    {
+      "title": "Auto Focus with its own mind",
+      "text": "Picture is nice, but the auto-focus is terrible. It readjusts itself many times a minute and if you turn off the auto focus, it turns itself back on once you reboot the computer. If I had known that in advance I most likely would have picked a different camera.",
+      "rating": 4.0,
+      "verified": true,
+      "author": "AmyL",
+      "helpful_votes": 0,
+      "publication_date": 20141008
+    },
+    {
+      "title": "Works great with Google+ and Facebook Chat",
+      "text": "I bought two of these webcams so my wife and I could chat on facebook video chat and I could do google hangouts. When I got the camera in I just plugged them straight into our windows 7 laptops and it downloaded and configured the drivers \"automagically\" with no need for the CD.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Jerry Gamblin",
+      "helpful_votes": 0,
+      "publication_date": 20110720
+    },
+    {
+      "title": "Great camera, works with multiple web conferencing programs",
+      "text": "Great little camera. I have used it with multiple web conferencing programs without any compatibility issues. Be sure to familiarize yourself with the settings when you get it -- initial settings have autozoom on and it drove me crazy until I figured out how to turn it off.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "K. G. Clayton",
+      "helpful_votes": 0,
+      "publication_date": 20150716
+    },
+    {
+      "title": "Decent Cam For The $$$",
+      "text": "Bought this little HD cam on thoughts that I would use it alot more than I do. It works good, no problems. 720 resolution isn't the same as 1080, but for the cost, that was all I settled for.",
+      "rating": 4.0,
+      "verified": true,
+      "author": "Killer B",
+      "helpful_votes": 0,
+      "publication_date": 20150221
+    },
+    {
+      "title": "I am ugly",
+      "text": "Well packaged camera. Fits neatly on top of my monitor. Picture is very clear and has several resolution options. The software offers some cutesy pie hair styles. Auto focus works good and is easy to turn off. Would be nice if MS offered some bonus downloads at their site. Good price",
+      "rating": 4.0,
+      "verified": true,
+      "author": "Grippy",
+      "helpful_votes": 0,
+      "publication_date": 20120118
+    },
+    {
+      "title": "Best Webcam for 30 bucks",
+      "text": "Like the title says best webcam for 30 bucks. Love the adjustable stand, I wish it could clip on to my monitor tho. For a webcam that does 720p for 30 bucks is pretty damn good and you can't beat it. Autofocus is a little bit annoying but you can disable it with one click.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "GTK92",
+      "helpful_votes": 0,
+      "publication_date": 20121026
+    },
+    {
+      "title": "... cheap camera for the price but i did not like the quality",
+      "text": "its a cheap camera for the price but i did not like the quality. i used it for the built in micorphone which picked up all the background sound so it was only useful as a temporary replacement.",
+      "rating": 2.0,
+      "verified": true,
+      "author": "David",
+      "helpful_votes": 0,
+      "publication_date": 20150516
+    },
+    {
+      "title": "Don't buy this if you have windows 8.1",
+      "text": "I would give 0 stars if I could. First of all, the lifecam software isn't even compatible with windows 8.1. Secondly, if you unplug the usb from the port to put it into a different port, you have to uninstall and reinstall EVERYTHING RELATED TO THE MICROSOFT LIFECAM. If you don't do that, it will crash everything that has to do with a camera. (OBS as an example will crash if you try to add the camera to it).",
+      "rating": 1.0,
+      "verified": true,
+      "author": "Ziad Elghazzawi",
+      "helpful_votes": 0,
+      "publication_date": 20150707
+    },
+    {
+      "title": "Solid little webcam",
+      "text": "Bought this webcam a year or so ago and it's still going strong. Image quality is excellent, and although it does have a bit of a hard time focusing from time to time, it does it's job and it looks very nice and crisp.",
+      "rating": 4.0,
+      "verified": true,
+      "author": "David",
+      "helpful_votes": 0,
+      "publication_date": 20130816
+    },
+    {
+      "title": "EXCELLENT QUALITY & VALUE",
+      "text": "I highly recommend this camera. Especially for the price, you will not find another camera that comes close to comparison. It's SUPER easy to install, plug it in via USB and everything thing else is automatic. I use it for both video conferencing and for personal use. I bought another camera just like this one for my second computer, AND I purchased one for my parents and THEY can use it easily. Use it to communicate via Skype, etc., or use the camera's functions to record audio, video, and take pictures. Great item!",
+      "rating": 5.0,
+      "verified": true,
+      "author": "S. Welsh",
+      "helpful_votes": 0,
+      "publication_date": 20120730
+    },
+    {
+      "title": "Excellent Camera",
+      "text": "I was impressed with this little camera. It was a huge improvement over the factory installed camera on my laptop. It was easy to install and worked great right from the start. the color image is fantastic. the only problem is the type of clamp/hanging mechanism lets the camera flop around and not mount rigid to the top of the laptop screen. Once it is in the right position, other can see me and not other parts of the room i am in. Other than that, great camera. I would recommend this camera to a friend.",
+      "rating": 4.0,
+      "verified": true,
+      "author": "Kindle Customer",
+      "helpful_votes": 0,
+      "publication_date": 20120216
+    },
+    {
+      "title": "Need a webcam, use this",
+      "text": "It does what I need it to do. My family can see me clearly on their end. I didn't use the CD for installation. Windows 7 just picked up the software when I plugged it in and then allowed me to run the installation process. Only mystery to me is the built in microphone. It has one, yet my family didn't hear me when I spoke, so I just slipped on my headphones with microphone and talked with that.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Michael A. Decicco",
+      "helpful_votes": 0,
+      "publication_date": 20110728
+    },
+    {
+      "title": "Looks nice and good photo but no for recording",
+      "text": "All the time the auto focus work, 20 seconds Perfect image, you move 1 Inch, 3 seconds worst image And good again, ali The time, if you turn off autofocus in the Skype don't work... All the time, good and bad.. The non auto focus camera is much better,",
+      "rating": 2.0,
+      "verified": true,
+      "author": "Lvza",
+      "helpful_votes": 0,
+      "publication_date": 20130623
+    },
+    {
+      "title": "$25 cant't go wrong!",
+      "text": "I got 2 of these cameras as I didn't want to spend $75 for the logitech C910 although I know that one is amazing and has a great video/voice quality... but I for the same amount of money I can get 3 of these... it's doing its job with a nice quality....",
+      "rating": 5.0,
+      "verified": true,
+      "author": "ANK2",
+      "helpful_votes": 0,
+      "publication_date": 20111022
+    },
+    {
+      "title": "Not super hi-rez but great for streaming broadcasts",
+      "text": "Running this with OBS studio to stream live events. Easy setup and use. Might need a USB extension. Had to turn off the auto focus and set it manually for smooth operation.",
+      "rating": 4.0,
+      "verified": true,
+      "author": "Rob C",
+      "helpful_votes": 0,
+      "publication_date": 20180516
+    },
+    {
+      "title": "Microsoft LifeCam HD-5000  720 Webcam - Black",
+      "text": "Really enjoying this LifeCam HD-5000. It was so easy to install and the clarity and sound were the best. I was amazed how easy and quick the Cam mounts on my PC. It was a very good choice on my part. It is a keeper. I have always been very satisfied when ordering from Amazon. Ernie Fernandez (very satisfied)",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Ernest Julian",
+      "helpful_votes": 0,
+      "publication_date": 20111029
+    },
+    {
+      "title": "You'll Look Terrific",
+      "text": "The Microsoft LifeCam HD-5000 is a tiny priced item that delivers high priced quality. My computer Guy suggested it to me and it was a great deal. 1-2-3 set-up, immediate satisfaction with sound and picture. For price and clarity, I 100 percent suggest this LifeCam. You won't be disappointed.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "heydiddlediddle",
+      "helpful_votes": 0,
+      "publication_date": 20111125
+    },
+    {
+      "title": "Great product",
+      "text": "Purchased this camera several years back and it is still working great. The sound and video quality isn't spectacular, but it does a decent job and is defiantly worth the cost.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Aaron Aaron Klapheck",
+      "helpful_votes": 0,
+      "publication_date": 20140502
+    },
+    {
+      "title": "MS LifeCam HD-5000",
+      "text": "I am very impressed by the quality of this camera. The images are sharp and clear and the installation was a breeze. My home office is heavily backlit and the camera does a good job of adjusting the image so the important stuff in the foreground looks good.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "madrodger",
+      "helpful_votes": 0,
+      "publication_date": 20111025
+    },
+    {
+      "title": "Bought it for the Grandparents",
+      "text": "We bought this for our parents who became great grandparents! They now can Skype! It was easy to install and gives a clear picture! It made the miles melt away so they could meet the new family member! Good camera for the price!",
+      "rating": 4.0,
+      "verified": true,
+      "author": "JAN M.",
+      "helpful_votes": 0,
+      "publication_date": 20140423
+    },
+    {
+      "title": "Nice camera",
+      "text": "I just got the webcam, installation was very easy, picture quality is great, sound is great. Autofocus is not that bad, but turned it off anyways, works perfectly with msn, aol , skype. It is incredible how good a product can be yet having a price this low.",
+      "rating": 4.0,
+      "verified": true,
+      "author": "J. Nuno",
+      "helpful_votes": 0,
+      "publication_date": 20110304
+    },
+    {
+      "title": "Great Quality, But Blurs Frequently",
+      "text": "This camera is nice, comes with pretty good out of the box software/drivers, and is a great deal at its price. The only flaw I've found with it is that it FREQUENTLY loses focus, even when I'm just sitting in my chair Skyping with someone, it will just randomly and frequently blur, and then auto-focus itself. I've read many other reviews online that report the same issue. This camera would have received a 5/5 star if it had simply included an option to manually turn off the auto-focus feature.",
+      "rating": 4.0,
+      "verified": true,
+      "author": "Reynolds Cahoon",
+      "helpful_votes": 0,
+      "publication_date": 20100818
+    },
+    {
+      "title": "The best deal in town",
+      "text": "This web cam is cheaper than any place I could find. Review are excellent and amazon gives free delivery. How could you go wrong? Easy to install: only minutes. I use it for skype and talking to my friends in another state with this webcam is as though I was right there. Microsoft makes great products but amazon make it afforable.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "John Johnson",
+      "helpful_votes": 0,
+      "publication_date": 20110324
+    },
+    {
+      "title": "auto focus takes a long time",
+      "text": "I bought this webcam because of the auto focus feature by the ads. But the one I am disappointed is this feature. When I was video chatting, the video kept on going clear to blurry and blurry to clear. I do not really know why it always changing the focus. And the speed of each period is long enough to disturb me like 5 secs. The HD quality is not bad but not excellent. In general, half of the time it is auto focusing and the other half is HD. You can imaging what is going on.",
+      "rating": 3.0,
+      "verified": true,
+      "author": "andy",
+      "helpful_votes": 0,
+      "publication_date": 20101121
+    },
+    {
+      "title": "Microsoft HD-5000",
+      "text": "Bought 3 of these to SKYPE with family back east. For what I wanted, I could not have chosen a better cam. I am not video blogging or recording home movies of any type so the built in microphone is fine. Video quality is great! Glad I chose this one!",
+      "rating": 5.0,
+      "verified": true,
+      "author": "RogerB.",
+      "helpful_votes": 0,
+      "publication_date": 20110119
+    },
+    {
+      "title": "Great for the money",
+      "text": "Its a good webcam for the money, I use this model in situations where it could be dropped/bumped instead of a more expensive model.",
+      "rating": 4.0,
+      "verified": true,
+      "author": "Bennett",
+      "helpful_votes": 0,
+      "publication_date": 20160426
+    },
+    {
+      "title": "Obviously much better ones out there but at a higher cost",
+      "text": "It is a decent camera for the price. Obviously much better ones out there but at a higher cost.",
+      "rating": 4.0,
+      "verified": true,
+      "author": "Dan",
+      "helpful_votes": 0,
+      "publication_date": 20150209
+    },
+    {
+      "title": "Ok webcam....expected a little better....",
+      "text": "I got this for $27 and I thought it was a great deal. Whats the point of autofocus when it needs to be turned off since it goes nuts? I don't understand how Microsoft advertises it as if it's a must on webcams....hmmm.....",
+      "rating": 3.0,
+      "verified": true,
+      "author": "Anchan15",
+      "helpful_votes": 0,
+      "publication_date": 20111017
+    },
+    {
+      "title": "Five Stars",
+      "text": "Great Price. Good webcam. Hooked it up to my Mother's Computer in Minutes. We now Skype every week!",
+      "rating": 5.0,
+      "verified": true,
+      "author": "ARCH from Vancouver, B.C.",
+      "helpful_votes": 0,
+      "publication_date": 20150508
+    },
+    {
+      "title": "J J Reviewing Lifecam HD 720p Webcam.",
+      "text": "I like it, except the microphone was noisy. Right now I want to know how long the warranty year last because it is not turning on nor working anymore. Please tell me what should I do.",
+      "rating": 4.0,
+      "verified": true,
+      "author": "J J",
+      "helpful_votes": 0,
+      "publication_date": 20140609
+    },
+    {
+      "title": "Clear, affordable, great cam.",
+      "text": "Great cam for simple skype use. The auto-focus feature is a nice touch and can be placed anywhere. i placed this cam on my monitor #3 and in lower light, still the cam works wonders.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "This is why I'm broke",
+      "helpful_votes": 0,
+      "publication_date": 20120109
+    },
+    {
+      "title": "Great webcam",
+      "text": "High definition and pleasant appearance, glossy enclosure matches my Samsung monitor, looks like an extention. It was easy to install and the Amazon price could not be beat.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "EMF",
+      "helpful_votes": 0,
+      "publication_date": 20130204
+    },
+    {
+      "title": "Junk camera",
+      "text": "I bought this HD webcam to use with Skype. I thought I was getting a bargain when I got it for $25. Even at that discounted price, it's not worth it. The thing works okay, but it goes in and out of focus constantly and there's no way to stop it! It's ridiculous. Also, it eats up so much memory you can't use it at its HD high level--which is why I bought the piece of junk to begin with! I don't enjoy leaving bad reviews, but this camera deserves it. I do not recommend it. Absolutely not.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "Jake B.",
+      "helpful_votes": 2,
+      "publication_date": 20110324
+    },
+    {
+      "title": "webcam on",
+      "text": "girlfriend needed cam for desktop works great and has funny features awesome resolution other than that it,s a great camera",
+      "rating": 5.0,
+      "verified": true,
+      "author": "phil diz",
+      "helpful_votes": 0,
+      "publication_date": 20131207
+    },
+    {
+      "title": "An alright webcam for the money.",
+      "text": "Picture is pretty clear, and the sound is alright. My main problem with it is that it continually refocuses. I will just be sitting completely still while the picture focuses and unfocuses for no discernible reason.The stand/clip thing works quite well on my flatscreen monitor, but it was difficult to use on a laptop, and I am not sure how well it will do on an older, larger monitor.",
+      "rating": 3.0,
+      "verified": true,
+      "author": "Hannah",
+      "helpful_votes": 0,
+      "publication_date": 20130606
+    },
+    {
+      "title": "works good.",
+      "text": "I got this for my wife to use on our desktop pc to Skype her sister and haven't had any major issues. I have used the video record to send little feeds to friends who don't Skype.",
+      "rating": 4.0,
+      "verified": true,
+      "author": "JRisinNY",
+      "helpful_votes": 0,
+      "publication_date": 20130112
+    },
+    {
+      "title": "High quality of webcam, spoiled by Autofocus issues...",
+      "text": "If not for the software issue in Autofocus feature, this would be a great buy. Audio and video quality is great. Also good if you want to take HD movies. However, autofocus feature is annoying and gets activated too often. Would be good if there is a way to turn it off or make it autofocus less often. It would annoy others who are doing a video chat with you or other solution is to keep still when you chat ;)",
+      "rating": 2.0,
+      "verified": true,
+      "author": "Krishna Sitaraman",
+      "helpful_votes": 0,
+      "publication_date": 20110203
+    },
+    {
+      "title": "webcam works great",
+      "text": "very happy with this webcam, we use it as a security cam and so it records all night long. I have also used it for taking general photos with me in them that I would normally have issues with.",
+      "rating": 4.0,
+      "verified": true,
+      "author": "Amber C. Crocker",
+      "helpful_votes": 0,
+      "publication_date": 20110331
+    },
+    {
+      "title": "Works great",
+      "text": "I use this to talk to my grand kids, over skype, which are 800 miles away. According to my daughter the picture is great and we have had no problems.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "GaryE",
+      "helpful_votes": 0,
+      "publication_date": 20120909
+    },
+    {
+      "title": "Great Web Cam",
+      "text": "Great Web Cam - clear picture quality with built in microphone I have never had a problem understanding what the other person is saying",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Sherry",
+      "helpful_votes": 0,
+      "publication_date": 20131227
+    },
+    {
+      "title": "Good Product",
+      "text": "When I got this webcamera, I was not looking for something too fancy, just something that would do the job well. I do admit that the video effects are fun. My father recommended this one because his work uses the same webcamera.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Leelian",
+      "helpful_votes": 0,
+      "publication_date": 20120918
+    },
+    {
+      "title": "Great cheap webcam.",
+      "text": "You really can't beat this thing for 30 bucks. It can go up to 720P resolution and works pretty darn well right out of the box.",
+      "rating": 4.0,
+      "verified": true,
+      "author": "S. Barrett",
+      "helpful_votes": 0,
+      "publication_date": 20120827
+    },
+    {
+      "title": "Works great",
+      "text": "Good picture, especially in dark settings. Mine also had the strange autofocus issue everyone else is complaining about, however, if you go into the Lifecam settings you can turn it off.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "The Punisher",
+      "helpful_votes": 0,
+      "publication_date": 20110905
+    },
+    {
+      "title": "Great Image Quality. Annoying Auto Focus",
+      "text": "Turn off the auto focus and you're good to go. Image quality is great. It takes good pictures but takes a little while to start. Low price so you can't beat it.",
+      "rating": 4.0,
+      "verified": true,
+      "author": "Duy N. Nguyen",
+      "helpful_votes": 0,
+      "publication_date": 20121030
+    },
+    {
+      "title": "Excellent picture quality!",
+      "text": "Great value and ease of use. THis camera will take care of you and it at the same time. I use daily with Skype and its a great addition to the calls. Nice work Microsoft!",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Speed Freak",
+      "helpful_votes": 0,
+      "publication_date": 20110318
+    },
+    {
+      "title": "Great web cam",
+      "text": "The web cam is great, as good as others costing much more. Excellent picture quality and sound. Some neat extras to let you frame your pictures.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Rich Z.",
+      "helpful_votes": 0,
+      "publication_date": 20120205
+    },
+    {
+      "title": "Great seller and product",
+      "text": "This camera works perfect for me. Easy installation, great pic/voice. Love it. Would recommend to anyone interested in pic & voice transmission. Good stuff",
+      "rating": 5.0,
+      "verified": true,
+      "author": "John W. Norris",
+      "helpful_votes": 0,
+      "publication_date": 20110824
+    },
+    {
+      "title": "Good cam. Like it",
+      "text": "The color resolution is pretty good. It's also easy to adjust. The clip helps when trying to clip onto a laptop.",
+      "rating": 4.0,
+      "verified": true,
+      "author": "Dan DQ",
+      "helpful_votes": 0,
+      "publication_date": 20130608
+    },
+    {
+      "title": "Waste of Money",
+      "text": "I thought buying a Microsoft product would be best since I use windows. It works, but slow cutting in and out like going back to windows 98.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "Robert McDonald",
+      "helpful_votes": 0,
+      "publication_date": 20130727
+    },
+    {
+      "title": "Excellent",
+      "text": "For the price, the picture and sound quality is excellent. Actually bought 2 more for my son and my daughter.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Salvador Siangio",
+      "helpful_votes": 0,
+      "publication_date": 20121220
+    },
+    {
+      "title": "Great Product",
+      "text": "Have used this camera several times for skype and messenger. The other end complemented on the quality, calrity and sharpness of the picture. Excellant camera",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Kindle Customer Ken",
+      "helpful_votes": 0,
+      "publication_date": 20110803
+    },
+    {
+      "title": "Great cam and mic!",
+      "text": "It was just as good, if not better, then I had expected! Would recommend to anyone needing one of these!",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Michael D.",
+      "helpful_votes": 0,
+      "publication_date": 20140205
+    }
+  ],
+  "product_meta": {
+    "title": "Microsoft LifeCam HD-5000 720p HD Webcam - Black",
+    "description": "FROM THE MANUFACTURER\n\n\nMICROSOFT LIFECAM HD-5000\n\nDo more things together when you're apart with Skype video calling \n\nSHARP VIDEO WITH AUTO FOCUS\nGet the HD webcam features you need to share each moment as it happens\u2014at a reasonable price. The LifeCam HD-5000 offers a 720p HD sensor and automatically sharpens your images with Auto Focus, while TrueColor adjusts exposure for bright, vibrant footage. Plus, the widescreen presents a remarkably cinematic feel, right from your desktop or notebook PC.\n\nPRODUCT FEATURES\n\n\n 1. 720P HD VIDEO CHAT\n    For a true HD-quality experience.\n    \n    \n 2. TRUECOLOR TECHNOLOGY WITH FACE TRACKING\n    Automatically controls exposure for bright and colorful video.\n    \n    \n 3. AUTO FOCUS\n    Images stay sharp and detailed, even close-ups.\n    \n    \n 4. WIDESCREEN\n    16:9 format offers cinematic video recording.\n    \n    \n\n\n\nFIND A WEBCAM THAT'S RIGHT FOR YOU:\nWebcam LifeCam HD-3000 LifeCam HD-5000 LifeCam HD-6000 for Notebooks LifeCam Cinema LifeCam Studio Product HD Video Good HD Video Mobile HD Video Better HD Video Best HD Video Video Resolution 720p (1280 x 720) 720p (1280 x 720) 720p (1280 x 720) 720p (1280 x 720) 1080p (1920 x 1080) Lens Plastic Element Lens Plastic Element Lens Plastic Element Lens Glass Element Lens Premium Glass Lens Microphone Digital Microphone Noise Reduction Microphone Noise Reduction Microphone Noise Reduction Microphone High-Fidelity Microphone TrueColor Technology Auto Focus 360\u00b0 View Range ClearFrame Technology Aluminum Body Carrying Case Lens Cap SYSTEM REQUIREMENTS\n * Computer/Operating System\n   Windows 8, Windows 7, Windows Vista, Windows XP with Service Pack 2 (SP2) or higher (Excluding Windows XP 64-bit); minimum: Intel Dual-Core 1.6 GHz or higher, 1 GB of RAM; recommended: Intel Dual-Core 3.0 GHz or higher, 2 GB of RAM \n * Hard Drive\n   1.5 GB free\n * Other\n   USB 2.0\n   Windows-compatible speakers or headphones",
+    "rating": 3.7,
+    "feature_bullets": [
+      "True 720p HD video",
+      "Auto Focus",
+      "16:9 widescreen",
+      "TrueColor Technology"
+    ],
+    "specifications": {
+      "Product Dimensions": "1.49 x 1.61 x 4.29 inches",
+      "Item Weight": "3.4 ounces",
+      "ASIN": "B002XN7C6W",
+      "Item model number": "7ND-00001",
+      "Customer Reviews": "3.7 out of 5 stars326 ratings3.7 out of 5 stars",
+      "Best Sellers Rank": "#1,208 in Webcams",
+      "Is Discontinued By Manufacturer": "No",
+      "Date First Available": "March 16, 2010",
+      "Manufacturer": "Microsoft"
+    },
+    "categories": [
+      "Computers & Accessories",
+      "Audio & Video Accessories",
+      "Webcams",
+      "Computer Accessories & Peripherals",
+      "Electronics"
+    ],
+    "price": 149.99
+  }
+}

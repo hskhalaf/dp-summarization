@@ -1,0 +1,233 @@
+{
+  "website_summaries": [
+    {
+      "verdict": "FreeNAS Mini provides administrators the ultimate in control over their NAS, thanks to the extensibility of its open-source software, despite some exasperation with the Unix/Free BSD software in administering.",
+      "pros": [
+        "Powerful hardware",
+        "Highly extensible",
+        "Feature-packed"
+      ],
+      "cons": [
+        "No dual Ethernet, by default",
+        "Complicated drive recovery",
+        "Steep learning curve for the non-Unix experienced"
+      ],
+      "aspects": {},
+      "publication_date": 20131018,
+      "rating": 8.0,
+      "source": "pcmag"
+    }
+  ],
+  "customer_reviews": [
+    {
+      "title": "Failed hard two years after purchase under light use",
+      "text": "Reasons for poor review score: 1- Debacle of failed/orphaned version of Freenas that was later recalled and wasted a ton of my time 2 - Recent hardware failure resulting in failure to POST and inability to access data Since this cost about twice as much as building my own cheap PC to run Linux or Freenas, I thought I was paying for reliability. I didn't get it. You would be better served by a 'real' NAS from HP, Dell, etc, a Synology Linux-based NAS, or a DIY Linux box. This thing brought me nothing but pain, wasted time, and lost data.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "jbh",
+      "helpful_votes": 17,
+      "publication_date": 20181125
+    },
+    {
+      "title": "Motherboards Ticking Timebomb",
+      "text": "These units use the ASRock Rack c2750D4I motherboard, which has a known hardware flaw related to the Intel Atom C2xxx chip that results in basically bricking the device after a couple of years. IXsystems extended the hardware warranty from 1 year to 3 years on these because of it. But, if you were unfortunate enough that yours survived past three years before it bricked (as mine did), you are seemingly SOL. Don't expect any longevity out of this expensive piece of hardware.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "K. Krause",
+      "helpful_votes": 16,
+      "publication_date": 20190515
+    },
+    {
+      "title": "FreeNAS Mini is an excellent storage server!",
+      "text": "The FreeNAS Mini is exactly what I required for an in-home storage server. I only wish I were able to purchase the larger version for double the storage capacity. I connected it to my Linux-based video server, and the two work like a champ. I set it up in a RAID configuration, and have protected storage. Prior to my purchase, I looked into cloud storage of various types, and found the cost to be prohibitive. For the one-year cost of off-site cloud storage, I am able to purchase a server that I can use for many years. I am quite pleased with the purchase!!",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Jim P",
+      "helpful_votes": 0,
+      "publication_date": 20200101
+    },
+    {
+      "title": "Dead within a year",
+      "text": "PSU went in the middle of the night taking the motherboard with it less than a year after purchase. IPMI would only work reliably with versions of IE that shipped with Windows XP. Forget using modern Chrome, Firefox, Edge or Safari with it. Incredibly poor experience all around.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "Digital Denizen",
+      "helpful_votes": 0,
+      "publication_date": 20200825
+    },
+    {
+      "title": "Excellent machine and service",
+      "text": "Having run FreeNAS on an old HP microserver for a some time I wanted something better and I bought a diskless FreeNAS Mini. Shipping to the UK was faster than I expected. The packaging was impressive and this little server is wonderful. After a few months the case fan became noisy and was replaced under warranty. iXsystems were fast, efficient and friendly. Thinking wistfully of the XL. Some advice about the cache SSDs (you will find a lot more on the FreeNAS forum): Before buying a Read Cache (L2ARC), increase the memory to 32 GB. Very few situations need a Write Cache (ZIL).",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Adrian Wontroba",
+      "helpful_votes": 6,
+      "publication_date": 20160517
+    },
+    {
+      "title": "Costs a little more than I would like, but it is still a good value since ...",
+      "text": "Costs a little more than I would like, but it is still a good value since I was unwilling to research the individual components and build my own FreeNAS. I was able to set this up quickly and easily. The Gigabit network was very nice when copying over about a TB of data that I rescued from a previous NAS that had failed.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Wendell Porter",
+      "helpful_votes": 2,
+      "publication_date": 20170407
+    },
+    {
+      "title": "This is a well put together file server. It ...",
+      "text": "This is a well put together file server. It took me a while to configure FreeNas on our domain.",
+      "rating": 4.0,
+      "verified": true,
+      "author": "Julian E. Nuss",
+      "helpful_votes": 0,
+      "publication_date": 20141008
+    },
+    {
+      "title": "Excellent and complex.",
+      "text": "If you're considering this you probably know what you're getting into. It's not a simple product, and there isn't really a gentle entry path. Before you turn it on you need to make decisions about your network and IPMI interface binding. In FreeNAS it is frequently necessary to go to multiple pages in the user interface to accomplish common tasks. On the plus side, it's small, quiet, looks good, and of course runs ZFS. There are plenty of online resources to help get up the learning curve. Wish there were a 6-bay unit - that would be perfect for a 4+2 RAIDZ2 configuration.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Anthony",
+      "helpful_votes": 0,
+      "publication_date": 20161029
+    },
+    {
+      "title": "Priced well",
+      "text": "Killer unit. We can hardly build one this high quality for the price. We often just go with these instead.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Mitchmen",
+      "helpful_votes": 3,
+      "publication_date": 20150830
+    },
+    {
+      "title": "... a Netgear RN104 for a few years with very good storage and no issues",
+      "text": "After owning a Netgear RN104 for a few years with very good storage and no issues, I moved over to this box because of the processor power to allow PlexMedia to dole out my library of media. VERY pleased with its performance and scalability.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Amazon Customer",
+      "helpful_votes": 5,
+      "publication_date": 20160308
+    },
+    {
+      "title": "Well worth the money.",
+      "text": "iXsystem did a good job putting this system together. I have no issues running several transfer and backups while running plex... I have several jails running including virtualbox and the system is having no issues dealing with the load. Their tech support is outstanding. A+ Best NAS I have ever own...",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Fernando",
+      "helpful_votes": 7,
+      "publication_date": 20140527
+    },
+    {
+      "title": "very good NAS with ZFS",
+      "text": "works perfectly, doesnt need programming skills and gives and easy way to implement ZFS - bitrot safe data for the photographer :).",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Alex",
+      "helpful_votes": 3,
+      "publication_date": 20150910
+    },
+    {
+      "title": "There are better options out there.",
+      "text": "Updated review: My unit died in under two years. iXSystems support was less than helpful. iXsystems Support is terrible; it is garbage. Do not buy. Build your own or get a QNAP or Synology. I literally paid 200-300 dollars more to support this company, and the one thing I expected them to provide me was nonexistent. The motherboard is the part of the unit that's gone bad; am currently haggling with asrock for a replacement since iXsystems wanted to charge me a $130 fee to diagnose the issue first (buying the spare parts to do the diagnosis myself cost less). Very disappointed; I feel very wronged.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "zer0",
+      "helpful_votes": 45,
+      "publication_date": 20140724
+    },
+    {
+      "title": "This comes with great hardware, great software",
+      "text": "I priced out how to build this myself, and it just wasn't worth it. This comes with great hardware, great software. Power efficient. A wonderful home server. Used for Plex, Samba (file sharing), btsync, and more.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Justin G Griffiths",
+      "helpful_votes": 5,
+      "publication_date": 20151210
+    },
+    {
+      "title": "Looks like promising spec",
+      "text": "Looks like promising spec. But the installation process is not well designed, hard to locate the IP address, not polished as an end user friendly product. This is a product specifically designed for IT person who know how to assemble the FreeNAS & willing to spend time to deal with those engineering prototype models. I still keep this model but it is just expensive brick next to my feet. There are some more better NAS product out there. will be going back to my TVS-471-i3 from Qnap",
+      "rating": 1.0,
+      "verified": true,
+      "author": "joseph m",
+      "helpful_votes": 3,
+      "publication_date": 20171104
+    },
+    {
+      "title": "Boot from NAS.",
+      "text": "What I disliked is I thought I had bought an 8 bay version, but got a 4 bay one! It just worked out of the box - great. It is a fantastic system. It automatically installed a ZFS system, which threw 2 of the 3 GB of the 4 drives. Enough screws, etc. What more can you say? It just works.",
+      "rating": 3.0,
+      "verified": true,
+      "author": "Pim Dennendal",
+      "helpful_votes": 0,
+      "publication_date": 20190216
+    },
+    {
+      "title": "Very high quality hardware for backup. Must read directions to set up.",
+      "text": "This is hardware designed for the TrueNAS ZFS file system. It is made primarily for IT professionals, but there are good tutorials available for novices. There are very many choices to make, which makes it very useful, but bewildering for a novice. If you don't know already, follow the tutorials.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "pat in longview wa",
+      "helpful_votes": 0,
+      "publication_date": 20201205
+    },
+    {
+      "title": "Customer support makes it worth buying from iXsystems",
+      "text": "Update: The whole point of paying a premium for a prebuilt product rather than build one yourself is for the support. iXsystems has great customer support and fixed faulty motherboard and CPU issues, and even extended their warranties on older products affected by ASRock and Intel Atom failures.",
+      "rating": 5.0,
+      "verified": false,
+      "author": "JK1984",
+      "helpful_votes": 0,
+      "publication_date": 20190726
+    },
+    {
+      "title": "So much more than just a ZFS NAS",
+      "text": "It Just Works(TM). Everything about the hardware is awesome: small, quiet, cool, and very good performance. The service from ixSystem has been excellent so far. I bought this from ixSystems to avoid wasting time & money trying to set up a good FreeNAS box. This configuration is well tested and I haven't had a single issue so far (a few months). My only caveat which applies to FreeNAS in general and not just this box is that configuring this is not quite Apple-esk simplicity, though it's fairly easy compared to many other NASes.",
+      "rating": 5.0,
+      "verified": false,
+      "author": "TOMMY THORN",
+      "helpful_votes": 3,
+      "publication_date": 20141018
+    },
+    {
+      "title": "It was $999. Now cost $1156. Same cheap ...",
+      "text": "It was $999. Now cost $1156. Same cheap build. No upgrade version. Still using old CPU. For this price. I can build Ryzen 7 2700K PC for 4X more horsepower.",
+      "rating": 1.0,
+      "verified": false,
+      "author": "UltraLeader",
+      "helpful_votes": 3,
+      "publication_date": 20180624
+    }
+  ],
+  "product_meta": {
+    "title": "FreeNAS Mini - Network Attached Storage (Diskless)",
+    "rating": 3.4,
+    "feature_bullets": [
+      "Full-featured, compact, and reliable NAS & SAN storage system. Powered by FreeNAS, the #1 Open Source storage OS, and protected by the self-healing ZFS filesystem. Built-in RAID keeps your data safe and available, error-protection keeps it free from corruption, and snapshots protect it from ransomware attacks and human error.",
+      "Performance-Oriented and Quiet Hardware Design: 16GB ECC RAM (upgradeable to 32GB) | 8-Core 2.4GHz Intel Atom CPU | 4x 3.5\u201d Hot-Swap SATA Drive Bays | 2x 2.5\u201d Internal SATA SSD Bays | Dual 1 Gigabit Ethernet (Dual 10 Gigabit Ethernet ports can be added) | Remote Management (IPMI) | 3x USB | 1x Internal SataDOM Boot Device | Built-in RAID | Speed up workflows by adding SSDs for read and write caching.",
+      "Ideal for file-sharing, backup, multimedia processing and distribution, video surveillance, edge/remote office, development, personal cloud, and other small/home office & SMB applications. Broaden your Mini\u2019s capabilities with VMs and an extensive suite of software plugins.",
+      "FreeNAS supports Windows, MacOS, Linux, and Unix clients and syncs with AWS, Azure, Dropbox and more. Supports NFS, SMB, AFP, iSCSI and S3 file sharing protocols.",
+      "Built, tested, and supported in the U.S. by iXsystems. Proceeds support FreeNAS development."
+    ],
+    "specifications": {
+      "Product Dimensions": "9.4 x 9.4 x 8.3 inches",
+      "Item Weight": "17.11 pounds",
+      "Manufacturer": "iX",
+      "ASIN": "B00EQJ1BTU",
+      "Item model number": "FREENAS MINI-DISKLESS",
+      "Customer Reviews": "3.4 out of 5 stars47 ratings3.4 out of 5 stars",
+      "Best Sellers Rank": "#123 in Network Attached Storage",
+      "Is Discontinued By Manufacturer": "No",
+      "Date First Available": "October 18, 2013"
+    },
+    "categories": [
+      "Computers & Accessories",
+      "Data Storage",
+      "Electronics",
+      "Enclosures",
+      "Network Attached Storage"
+    ],
+    "price": ""
+  }
+}

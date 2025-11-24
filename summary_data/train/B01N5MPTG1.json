@@ -1,0 +1,948 @@
+{
+  "website_summaries": [
+    {
+      "verdict": "The Synology RT2600ac is a feature-rich AC2600 router with support for MU-MIMO data streaming and dual WAN connectivity. It delivers fast 2.4GHz and 5GHz throughput, but its file-transfer and MU-MIMO speeds are merely average.",
+      "pros": [
+        "Easy to install",
+        "Solid 2.4GHz and 5GHz throughput performance in testing",
+        "Dual WAN support",
+        "Lots of management tools",
+        "MU-MIMO data streaming"
+      ],
+      "cons": [
+        "Middling MU-MIMO throughput and file transfer speeds"
+      ],
+      "aspects": {},
+      "publication_date": 20170609,
+      "rating": 8.0,
+      "source": "pcmag"
+    }
+  ],
+  "customer_reviews": [
+    {
+      "title": "Love this router!",
+      "text": "I've bought many of the \"latest superfast routers\" boasting every feature and looking like a cross between a stealth fighter and a hedgehog .... and every single one of them has been disappointing! Their interfaces are dreadful, and more money has been spent on how they look than how they work. This unit has understated looks (nice, but not like a modern trainer), but the inside is what matters! Love this router! It's done everything it said it would, and more. I now have a great VPN back to my home NAS, it's fast, and the interface is seriously good. This unit is expensive, but buy well buy once! (It's cheaper than the many routers that don't work properly!)",
+      "rating": 5.0,
+      "verified": true,
+      "author": "GeorgeBR",
+      "helpful_votes": 3,
+      "publication_date": 20190823
+    },
+    {
+      "title": "An excellent router",
+      "text": "I am a fan of Synology equipment and this router did not dissappoint me. It was very easy to set up (alongside my VirginMedia Hub 3 modem) and configuring it is simple.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "John Grubb",
+      "helpful_votes": 4,
+      "publication_date": 20190218
+    },
+    {
+      "title": "One router that does the lot",
+      "text": "This router does the lot. Easy interface and child profiles to limit the there time on the internet (free). WiFi range is good just works without any drop outs. Loads of options including adding a mesh network. Recommended",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Paul Hibbitt",
+      "helpful_votes": 0,
+      "publication_date": 20190104
+    },
+    {
+      "title": "Performance Boost",
+      "text": "Replaced ageing router with the RT2600AC (already have one of their NAS boxes), coverage and speed around the house is a lot better and some 3 to 5 times faster, setup is very comprehansive and the VPN into the router is plus. Have only had it a month now but extremely pleased and consider it good value for the price tag.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "M R.",
+      "helpful_votes": 0,
+      "publication_date": 20191007
+    },
+    {
+      "title": "Wi-Fi very weak",
+      "text": "I was expecting great things, with the Synology RT2699AC, What a big disappointment",
+      "rating": 1.0,
+      "verified": true,
+      "author": "youbuywebuy",
+      "helpful_votes": 0,
+      "publication_date": 20191009
+    },
+    {
+      "title": "vey happy - HIGHLY RECOMMENDED",
+      "text": "definitly the best router i have used. Great wifi coverage and strong signals throughout the house. Highly recommended!!!",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Dexter the pussy cat",
+      "helpful_votes": 0,
+      "publication_date": 20191208
+    },
+    {
+      "title": "Rock solid performance",
+      "text": "Top notch domestic router, its got all the control I need, decent security and safe browsing features and time schedules per user and device.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Will",
+      "helpful_votes": 0,
+      "publication_date": 20200101
+    },
+    {
+      "title": "Great router",
+      "text": "Easy to set up and install with a great Android App. Remember that this is a router only and you will need a separate modem.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Harry Scriven",
+      "helpful_votes": 0,
+      "publication_date": 20191014
+    },
+    {
+      "title": "latest firmware update is a disaster",
+      "text": "Since the SRM 1.2 update multiple features don't work. I've had to do multiple factory resets to get it to work as a router and yet many features can't be used or it bricks itself again. I'd strongly recommend avoiding this router. It has a theoretically very nice advanced feature set but it is so buggy that you can't use most of them. Configure advanced VPN options? Time for a factory reset. Use the media server with an external USB drive? Time for a factory reset. Configure parental controls in detail? Time for a factory reset. You can't get all the features that actually work in a $40 router. Save your money.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "John Hegarty",
+      "helpful_votes": 20,
+      "publication_date": 20181104
+    },
+    {
+      "title": "No Worky.",
+      "text": "Could not connect to Win10 Pro, never responded to anything the next 2 hours of trying every imaginable setting at my end. Lacked CD-ROM to make work straight from mfr. as there was only a flimsy short getting started booklet giving \"instructions\" implying out-of-box-and-plugged in unit would be functional To get technical support, had to be on Internet, which it would not allow access to, or spend most of a day on the phone which only partially worked with other gadgets for me before. This should be Plug and Play for its really high price of a home unit! Did get refund promptly though.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "t2",
+      "helpful_votes": 10,
+      "publication_date": 20181108
+    },
+    {
+      "title": "Great Tech Support",
+      "text": "Ok, so this thing works great. Strong signal and pretty easy to set up. I had some issues getting my phone linked up to it so I can monitor it whenever I want (more of an issue on my side than theirs). I called the support number expecting a long wait and they picked up in under 2 min. Walked me through all my user-based problems. I still feel like I'm driving a Ferrari in the residential neighborhood because I'm likely not unlocking this things full potential. I have a huge 5K sq. ft house so I also got the mesh unit with it and now get great coverage all over the house, in the front and backyard.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "abnroberts",
+      "helpful_votes": 4,
+      "publication_date": 20200518
+    },
+    {
+      "title": "Trouble Shooting is Terrible",
+      "text": "I have spent more than 2 hours hunting for this configuration setting. I tried to open a service request and that was a total nightmare. You get put into a decision tree designed for a network engineer. I mean it starts off with a list of problems or areas of concerns that scrolls for three pages, after you select a topic it puts you into another drop down listing specific problems, then you have to enter your model/serial number and it had better match up with your first 2 selections.",
+      "rating": 3.0,
+      "verified": true,
+      "author": "Jeff A Jones",
+      "helpful_votes": 4,
+      "publication_date": 20200131
+    },
+    {
+      "title": "Epic Synology Fail",
+      "text": "Please Synology stick to NAS, it's what you do right because this is wrong on so many levels it was returned for refund. If you are purchasing this because you think it will in some special way enhance your existing Synology purchase performance think again and then run from this sloth in rabbits clothing....by far one of the worst user interfaces I have every experienced in a router and thats speaks worlds. I wanted this to work and Synology worked very hard to make it impossible for that to happen. Slow does not begin to describe the torture you are about to inflict upon yourself if you purchase this device.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "GaryD",
+      "helpful_votes": 4,
+      "publication_date": 20190816
+    },
+    {
+      "title": "Best router I have ever owned.",
+      "text": "I have had a few routers, upgraded to DDWRT to overcome shortcomings in software, etc. This router out of the box is really good. The interface is fast and fairly easy to find all the settings. The included parental controls work and doesn't slow down performance. The VPN server plus was easy to setup and works without issues and also doesn't degrade performance. While the price is a step up from Netgear, Linksys and DLink routers - the features and performance outweigh the cost difference. This is the first router that can reach my ISPs provided speed of 500 down 20 up and can handle 5 users streaming constantly plus a slew of IoT devices without a problem.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "WNYAmazonian",
+      "helpful_votes": 2,
+      "publication_date": 20200519
+    },
+    {
+      "title": "Very disappointed",
+      "text": "I'm a practical Synology fan boy due to their completely awesome storage products, which lead me to attempt to \"upgrade\" my existing wifi equipment with this RT2600ac. I was very disappointed to find horrible range and some head scratching software bugs. I'm sending the unit back for a refund and will be going back to my three year old google wifi. Still love my Synology NAS, but no love for this Synology Router.",
+      "rating": 2.0,
+      "verified": true,
+      "author": "Matt Jamison",
+      "helpful_votes": 5,
+      "publication_date": 20200503
+    },
+    {
+      "title": "Beautiful piece of junk",
+      "text": "I'm a huge fan of Synology NAS units, but this has been the most frustrating piece of network equipment I've ever purchased. We purchased three for three branch offices, and all three were huge disappointments. The VPN works great, occasionally, but it inexplicably stops working for no apparent reason. Our site-to-site tunnels among three offices were completely unreliable, up one day, gone the next, and the SSL VPN service is similarly frustrating. I must have spent dozens of hours fiddling with settings to coax the thing to do its job, a total waste of time. We replaced these with PfSense routers, and the difference in reliability has been night and day. Find another option.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "Amazon Customer",
+      "helpful_votes": 2,
+      "publication_date": 20200122
+    },
+    {
+      "title": "Perfect, in AP mode!",
+      "text": "I have separate networks for IoT, and personal use devices. The IoT segment uses a mesh WiFi system (Asus aimesh). I had been using an old Asus RT-AC68u as the access point for the non-IoT segment. It actually worked okay, but I wanted to upgrade it to a more modern AP. I'm glad I chose Synology. It offers WPA3 authentication, expanded frequency (channel) options on 5GHz. Which is very nice, as my area is pretty saturated, even on 5GHz. I've only been using it for a day. But judging by my real world experience, and the levels I'm seeing on my wifi analyzer, this AP rocks!",
+      "rating": 5.0,
+      "verified": true,
+      "author": "danijag",
+      "helpful_votes": 2,
+      "publication_date": 20200122
+    },
+    {
+      "title": "User interface needs work.",
+      "text": "If you are a non-technical user you are fine but some of us have somewhat complicated networks. One major frustration with this unit is the lack of accurate information you can get from it. In particular the DHCP will assign an IP but not report it under DHCP Clients! When you are trying to troublehsoot a network this is not good and I've never experienced this with any other router. Going to keep it but for you really technical types be forwarned.",
+      "rating": 3.0,
+      "verified": true,
+      "author": "D. Guy Harris",
+      "helpful_votes": 2,
+      "publication_date": 20200619
+    },
+    {
+      "title": "Although I like the router and the features that it has",
+      "text": "Although I like the router and the features that it has, it did not work for me. A couple weeks after we had it, it started losing internet service. My modem would have service but the Router would not. I would have to reset the router 4x a day. I worked with Synology for over a month trying to find a resolution. They did software patches and some other stuff but could not get it to work. They think it was an incompatibility issue between the router and modem. They ended up refunding my money. We also have one of these at work and it has worked just fine. Synology's customer service was very good.",
+      "rating": 3.0,
+      "verified": true,
+      "author": "Jason Tyler",
+      "helpful_votes": 4,
+      "publication_date": 20180716
+    },
+    {
+      "title": "GREAT company!",
+      "text": "I had a little problem with the router, and that led me to try calling them to see about little question. I didn't expect much, but I was totally surprised and impressed with their service. Ed was the agent whom helped me, and he went far above anything I had anticipated. The problem was solved instantly, and later communications with Synology through their website went smoothly also. If you need a router, I recommend this company.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Central ISD Libraries",
+      "helpful_votes": 2,
+      "publication_date": 20200623
+    },
+    {
+      "title": "Prosumer router with great connectivity and security options",
+      "text": "Purchased this to replace the now defunct Airport Express Apple router I\u2019ve used for years. I needed something that could handle a lot of devices, is easily manageable. This for the bill perfectly. The software is where this really shines. Based off of Linux, the SRM software has almost unlimited features ALL easily accessible. The security options, threat prevention, and ability to administer the router from your phone puts the ease of use in the upper pantheon with Apple products. This is probably overkill for most homes, but if you are as prosumer and are looking for advanced features found on more expensive equipment, stop your search cause there is no need to look any further",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Brian Carilli",
+      "helpful_votes": 0,
+      "publication_date": 20200215
+    },
+    {
+      "title": "This is going back",
+      "text": "I should have read the reviews before buying this. Internet speeds 25% of prior router. Speedtest show 129mbps from my IPhone with Netgear AC1200 ($50) and with Synology they were 35 to 40 mbps. Upgraded firmware etc. Tried calling tech support but holds were over 15 min. Interface is great - best I have ever seen",
+      "rating": 2.0,
+      "verified": true,
+      "author": "DWC",
+      "helpful_votes": 3,
+      "publication_date": 20200131
+    },
+    {
+      "title": "Solid router",
+      "text": "Synology RT2600ac is a solid router. I already own a Synology NAS so this purchase was a no-brainer. Excellent performance and Parental Controls are exactly what I was looking for. Setup was extremely easy. Definitely would recommend this for anyone who is looking for a new router. Ease of use, parental controls and overall flexibility make this a perfect router. In order for me to mount it on the wall, I had to screw in a small wood block to the wall first and then mount the router to it. Not a big deal.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Michal Klim",
+      "helpful_votes": 6,
+      "publication_date": 20170802
+    },
+    {
+      "title": "Great product",
+      "text": "Best wireless router out there. I did dome thorough research and it sure appears this beast lives up to the hype. Our throughput is so good now that we have done away with wired connections.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Randall Holcomb",
+      "helpful_votes": 4,
+      "publication_date": 20200620
+    },
+    {
+      "title": "Great Features!",
+      "text": "You can now run Pi Hole as a docker app on this router, but it has soooo many great features that make it, in my opinion, the BEST Pro-Sumer router there is. I don't think you can get so many features and possible add-ons with any other consumer router, but I may be wrong, haven't fount any though. Business routers with these kind of features are great, but also cost much more. I'm very happy so far with my new Synology router, first synology product I've had, usually stick with ASUS for routers, but this one is just wonderful.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Macklebee",
+      "helpful_votes": 2,
+      "publication_date": 20200522
+    },
+    {
+      "title": "under powered compared to cheaper router - low signal strength",
+      "text": "I really wanted to love this router. I love my Diskstation NAS. I had hoped this router would replace a Netgear Nighthawk R7000. The Synology router had at least 20% weaker signal than the Nighthawk in different locations in my house. Smart connect also kept putting my devices on the slower 2.4ghz vs. 5ghz. Never had this issue with the Nighthawk. I tested this router for 2 full days. Both of our Apple TVs would buffer while trying to watch Netflix.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "Brian Leach",
+      "helpful_votes": 2,
+      "publication_date": 20191223
+    },
+    {
+      "title": "Was hoping for more.",
+      "text": "Been a long time Synology user and fan. This product I\u2019m not so hot on. Would return it if I could. Although every easy to super co figure, performance of the WiFi is not up to market capability. However, there is no great single alternative (have tried, each for months, google, orbi). Best speed and range is the provided gear from Verizon 5G home but the admin interface and filtering/control is unusable. So for now I have to use both and keep networks separate. The failover feature (loadbalancing also) doesn\u2019t switch fast enough. Again not sure what else is better but I was expecting more from Synology.",
+      "rating": 3.0,
+      "verified": true,
+      "author": "GadgetFamily",
+      "helpful_votes": 0,
+      "publication_date": 20191219
+    },
+    {
+      "title": "An outstanding mesh capable dual band router with terrific software.",
+      "text": "I bought the Synology RT2600ac after I tried the Linksys Velop system. As compared to the Velop, the Synology connected every smart home device (including the finicky Ecobee) without separating the 5 and 2.4 ghz bands. However, the software is the outstanding part. You can access over the web or the app - and the app is very good. It has parental controls, instant traffic analysis and many other professional features without a paid upgrade. I decided to keep the Synology RT2600ac jut because of the software. Finally it does have Mesh capability\u2019s if you need them.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "AM",
+      "helpful_votes": 0,
+      "publication_date": 20200221
+    },
+    {
+      "title": "Smoking fast, lots of features, great user interface",
+      "text": "I'm a retired design engineer working part time doing IT for my local town. I picked this router up to replace a failing router that had been our work horse on my families network for years. The synology router doubled my speed out to the internet, improved WiFi connection reliability and provides better coverage in my home. It came right up when I turned it on. So setup for a novice should not be a problem. Then I started configuring some of the advanced security features. Lots of capability. The safe access package (free) should be of great interest to parents.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Gary Coryer",
+      "helpful_votes": 0,
+      "publication_date": 20200422
+    },
+    {
+      "title": "Bad quality",
+      "text": "Stopped working in 10 days. Worked fine initially but suddenly stopped forcing me to restart as a last resort. Once restarted, worked for 30 mins again, WiFi radio stopped. Tried this couple of times with no improvement. Luckily, I was able to return to Amazon. But waste of my time during working hours. These routers quality is going down. Had high hopes on Synology router but not anymore.",
+      "rating": 2.0,
+      "verified": true,
+      "author": "SN",
+      "helpful_votes": 2,
+      "publication_date": 20200803
+    },
+    {
+      "title": "Can not have regular and guest wifi networks on same subnet.",
+      "text": "Beware, if you have a need for your wifi network to have both standard and guest networks on the same subnet, this router can not be used. This is not mentioned anywhere in the documentation. I have never incurred this with any other router before. I also have determined that my internet speeds went from 100mbps to 30mbps when changing to the Synology router. WiFi distance is only about 2/3 of that of the router I replaced also. Returning for a different router brand. I can not recommend this router to anyone.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "Gregory G.",
+      "helpful_votes": 0,
+      "publication_date": 20200214
+    },
+    {
+      "title": "Apparently sent used/defective product.",
+      "text": "The product had been previously been used and, apparently, returned. The plastic sheaths holding the antennae were missing and there was no documentation, or even sales material, in the box. Under no circumstances would the unit maintain any configuration for more than a few seconds and kept reverting to a 10.129.x.x network, even after performing a hardware reset and upgrading the firmware to two new revisions. I had high hopes for this unit, but ended up returning it and getting the Ubiquiti Edge 4 which is performing spectacularly well. Perhaps this one slipped through the cracks during a return, but I was on a time schedule and had to go with what I could get asap.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "Richard & Michelle K",
+      "helpful_votes": 0,
+      "publication_date": 20190930
+    },
+    {
+      "title": "not compatible with Fios",
+      "text": "Bought it after a relative raved about it. I am sure it is a powerful device if...it could be plugged into a Fios box. My current router, a Gateway I purchased 4 years ago and dying a slow death now, has a coaxial interface, the Synology does not. The way around it is so cumbersome, convoluted and expensive that I had to return it. Maybe Synology might discover Fios and provide a simple, straightforward hook up to the many, many millions of Fios boxes.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "Musico",
+      "helpful_votes": 0,
+      "publication_date": 20200729
+    },
+    {
+      "title": "This router works well for having closed source",
+      "text": "The router has good range and speed, it even does auto update, however, it is closed source, so not as useful as I'd like. For those looking at this review for help on picking this product, take note. This product didn't rate first on the Wire Cutter, but it did have one feature they didn't count in their reviews which impacts long term, safe utility. Auto update. Fresh updates matter a great deal to security.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Evan L. Carew",
+      "helpful_votes": 0,
+      "publication_date": 20201010
+    },
+    {
+      "title": "Performs extremely well and terrific interface",
+      "text": "The synology is a terrific device. I've used it in my wife's office as well as have recommended it to others. The wifi is available throughout my house without need for boarding. I like how much control you have over the devices configuration and thre add ons you can put on the device. It's also nice having the SafeAccess settings that you can block malicious and bad sites based on categories that get updated regularly. The system can automatically perform its updates to the OS as well and send alerts that it's happened. I'm very happy with the overall performance and operations of the system and would gladly buy another.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Wayne",
+      "helpful_votes": 0,
+      "publication_date": 20200828
+    },
+    {
+      "title": "Impossible to log in to router",
+      "text": "I have installed and use numerous routers over the years. After my old Netgear Nighthawk gave up the ghost, I bought one of these based largely on the positive customer reviews. After spending three hours of trying, I was never able to get logged in with my web browser so that I could control the router. A Synology tech person was of absolutely no help. I boxed the thing up and sent it back to Amazon. Bought a new Netgear Nighthawk tri-band router. Had it up and running in 10 minutes at most. Should have done that in the first place.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "Amazon Customer",
+      "helpful_votes": 4,
+      "publication_date": 20181026
+    },
+    {
+      "title": "Very Different Router",
+      "text": "This router has a button on the side that turns off the WiFi. If that is pressed by accident, setup fails. Tech support helped with that. The user interface is drastically different than other routers. It is a challenge to get used to. It seems to be working fine. If you want to cut the cord to cable a modern router like this should be plugged into your ISP router. Most of theirs will not perform well for streaming.",
+      "rating": 4.0,
+      "verified": true,
+      "author": "Been Heavy in Florida",
+      "helpful_votes": 0,
+      "publication_date": 20200808
+    },
+    {
+      "title": "Super easy WiFi router set up",
+      "text": "So EASY to set up, couldn\u2019t be simpler, did with my iPhone in 3 minutes (after it getting signal from Cable router. Boosted signal throughout entire house 2100 sq ft ranch. My office is on opposite side of house and getting full signal. Very highly rated by CR. Very highly rated by me too.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Mplight",
+      "helpful_votes": 2,
+      "publication_date": 20200619
+    },
+    {
+      "title": "Internet doesn't work.  Support is terrible.",
+      "text": "Purchase November, 2019. Worked very well until 8/6/20. Unable to connect to internet or internet connection is profoundly slow. Synology support is awful. They contact me once a day, in the morning. I do as they suggest. Report what I have done and the result. They don't reply until the next day. I have contacted them several different ways. They have all said they were flagging my ticket. Nothing has changed. I spent good money on what appeared to work well, until now. It should be replaced on warranty. But they refuse to acknowledge that.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "W. Michael Biklen",
+      "helpful_votes": 0,
+      "publication_date": 20200813
+    },
+    {
+      "title": "Incredible speed",
+      "text": "Wasn't sure I wanted to spend $200 for a router, but this one is worth it. My ethernet speed is 62 mb/sec and both upload and download Wi-Fi speeds are also 62 mb/sec on this router. I have to go outside to the far corner of my yard to see the speed decrease. Simply an awesome router. Works great with my wireless security cameras and my Rainbird wireless sprinkler controller. Automatically determines 2.4 or 5.0 GHz connection speed for each device. It's interesting how many things around the house connect at 5.0 GHz.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Brian Evans",
+      "helpful_votes": 0,
+      "publication_date": 20200523
+    },
+    {
+      "title": "Bought Used; Dead out of the Box",
+      "text": "Ordered this product and spent hours troubleshooting, a couple of hard resets, and nothing. Their customer support is only 9-5 pacific time so dont expect much help. I submitted a ticket over the weekend and got a response with some screen shots 3 days later. By then I had already decided to return the item. I was really bummed that the product was broken out of the box. I decided to try my luck with the older RT1900ac model instead; its half the price and has better reviews.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "Amazon Customer",
+      "helpful_votes": 5,
+      "publication_date": 20181001
+    },
+    {
+      "title": "Very fast, great coverage and easy to install!",
+      "text": "I love this router. I used it to replace an Apple airport extreme 5th gen as it seems Apple is not interested in making routers anymore. It is very fast and easy to use and covers the whole house. I especially love that it automatically switches to either 2.4 or 5 band so everything works so much faster. Whether you are very network savvy or just want something to work, the installation is simple and straight forward with a great interface.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Mike ",
+      "helpful_votes": 3,
+      "publication_date": 20180714
+    },
+    {
+      "title": "Not reliable and constantly drop internet connectivity",
+      "text": "So I got this thing all set up and it was quite easy, with a decent feature set, but at least once a day, sometimes more it loses connectivity to the Internet for 5-10 minutes... IF you do a search on RT2600AC WAN Drops or etc. you'll find a number of users with similar circumstances. That's just an unforgiveable, waiting to see what support comes up with but after trying nearly every config setting known to man I can't say that this router is remotely reliable. Setup: I have FiOS and the Router is wired directly to the ONT with on MR2200 configured to provide mesh WiFi",
+      "rating": 1.0,
+      "verified": true,
+      "author": "Justin C",
+      "helpful_votes": 2,
+      "publication_date": 20200414
+    },
+    {
+      "title": "I love this thing",
+      "text": "The Synology RT2600ac is a great router, and the SRM software only makes it better. Easy to setup. Easy to use. Great performance. Great add-on software (Threat Protection add-on package is particularly recommended). I use it in conjunction with three Synology MR2200ac units to give me an awesome mesh network for my entire house and yard. Highly recommended.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "John Day",
+      "helpful_votes": 0,
+      "publication_date": 20200910
+    },
+    {
+      "title": "reset button bricked the unit with a orange light DEAD",
+      "text": "within 5 minutes of starting to set up this router, I used a password that was new and failed to write it down properly, I could not get back in after , so I used a plastic tool to press in the reset button like I have done over the years on many routers. this one must not be built very well as it stayed ?? in ?? . the unit never would reboot after that with a orange status light instead of a green one.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "Roman Toledo",
+      "helpful_votes": 2,
+      "publication_date": 20190425
+    },
+    {
+      "title": "Looses internet connection every 10 minutes",
+      "text": "This router has been a nightmare since I installed it. Please read some online reviews from the Synology Community page before purchasing. Amazing that there are so many people listing the same problem, but no clear solution. Cannot stream music or video with this router. Now I cannot even log into the router page. Looks like I will have to factor reset - again. Although that has gotten me nowhere.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "Pat Southall",
+      "helpful_votes": 0,
+      "publication_date": 20200330
+    },
+    {
+      "title": "Really Great Home Router (Regional Block, Rocks!)",
+      "text": "This is the best Router I have used for my home by far. Lot's of options and ways to customize your internet security. So many that it is a little too much sometimes. There are some things I would change (like wall mounting is not so good). But this router has found and blocked bad traffic, both inbound and outbound, thousands of times. I love the regional block feature on the firewall. I block all of China, Russia, Africa and the list goes on. With the regional blocks in place the attacks on my servers have dropped to almost nothing.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "M. March",
+      "helpful_votes": 2,
+      "publication_date": 20190824
+    },
+    {
+      "title": "Super reliable connection",
+      "text": "The router has awesome functionalities, great ranges. etc.etc. But the best is it's reliablity. It doesnt drop connections. Definately this is not something can be compared to other most selling routers. I have been using several highend routers so far. I never had a router that didnt have occasional disconnects. RT2600ac's reliability is in a different league.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Esper",
+      "helpful_votes": 0,
+      "publication_date": 20200516
+    },
+    {
+      "title": "One star off for iPhone Wifi-Calling incompatability",
+      "text": "I recently purchased the Synology RT2600ac to upgrade my router. The range is great and is highly customizable. The only issue is that out of the box it is incompatible with the \"Wi-Fi Calling\" feature on our iPhones (Verizon wireless). I believe the router's firewall is blocking this from working, and I have yet to figure out how to configure it so it will work. (I have an open ticket with Synology tech support). With a low cell signal at our residence, the Wi-Fi Calling feature is a must for us.",
+      "rating": 4.0,
+      "verified": true,
+      "author": "MGAx",
+      "helpful_votes": 0,
+      "publication_date": 20200428
+    },
+    {
+      "title": "Better signal across the house!",
+      "text": "Great router, wouldn\u2019t initially connect to my isp, but it eventually got there after about an hour or so of trying to get it to work. Now works great and we have a better signal in the room farthest from the router. Unfortunately the router is not in the center of our home. The interface is easy to use. Sorry this review isn\u2019t more technical but I don\u2019t know anything about networking. I plugged in the wires and created a new network and now we are good to go! Thank you Synology.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Paul D. Smith, Jr.",
+      "helpful_votes": 0,
+      "publication_date": 20200708
+    },
+    {
+      "title": "Strong signal reaches way out.",
+      "text": "This router definitely made a difference at my house. Now I have a strong signal throughout the house. I also have a wireless IP Reolink camera located 200' away from the house and the video streams through fine. Previously I was using an Apple Extreme base with an external drive for backups. Since the RT2600AC supports the drive, I was able to seamlessly connect the drive and continue with Time Machine backups. Access to the router via browser can't be simpler.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "K Traj",
+      "helpful_votes": 3,
+      "publication_date": 20180216
+    },
+    {
+      "title": "OK.",
+      "text": "I enjoyed this router until recent updates. SRM-1.2-7742 Update 4 caused WIFI intermittent on some devices. Hard reset seemed to stop the problem. SRM-1.2-7742 Update 5 caused no internet. Hard reset back to SRM-1.2-7742 Update 1, fixed the problem. This router takes a good long time to hard reset and builds itself back. I really like the hardware specs, the features of this router. However I got cold feet with the possibility that the firmware update could cause the router malfunction. Too much time to hard reset this thing over and over. I am going to send it back to Amazon.",
+      "rating": 3.0,
+      "verified": true,
+      "author": " J.N.L",
+      "helpful_votes": 0,
+      "publication_date": 20181229
+    },
+    {
+      "title": "The router I received was not new.",
+      "text": "The router I received was not new and still had the previous owners configuration. I did a factory reset on it and I was off to the races. All in all this is a great WiFi router with enough features to not warrant the need for additional networking gear for a home setup. 3 star review is because I did not receive a new router when I paid new router price.",
+      "rating": 3.0,
+      "verified": true,
+      "author": "Zantar the Awesome",
+      "helpful_votes": 0,
+      "publication_date": 20200331
+    },
+    {
+      "title": "Does not cover two story house",
+      "text": "I was hoping that this would cover my 2500 square feet, two story home as many people claimed it would but it did not. Signal was great and very stable near the router but as you reached the the furthest points in the house, the signal was very weak and would freeze streaming services. Being a newer router, I thought it would improve the upon the Netgear AC1250 Nighthawk I had but it actually was slightly worse. Ended up returning the router and replaced with Google 3 node mesh which has been great but now I have Google monitoring everything I do online for all devices.",
+      "rating": 2.0,
+      "verified": true,
+      "author": "kittycat qurrio",
+      "helpful_votes": 0,
+      "publication_date": 20181219
+    },
+    {
+      "title": "Poor technical support an adequate router for my purposes.",
+      "text": "I replaced an older router based on Consumer Reports recommendation. My internet connection is via satellite. It is adequate but mediocre. It's all that's available to me. I was hoping my wifi would improve so my smart phone connection would be better. It didn't . It didn't get worse either. Hooking it up to my older, but powerful computer was difficult. The simple directions were simple but didn't do it. Customer support read me the same manual I had used. They were hard to get and blamed everything but their router. I eventually hard wired it to my computer. I never could get it to connect remotely. It actually works well but the support was poor",
+      "rating": 3.0,
+      "verified": true,
+      "author": "Joel G.",
+      "helpful_votes": 0,
+      "publication_date": 20191204
+    },
+    {
+      "title": "Site to Site VPN Does NOT work",
+      "text": "Spent a week trying to get site to site vpn to work. Followed all instructions. Router shows connected, but no traffic passes from one site to the other. Tech support was awful. Kept spitting out the same instructions that didn't work. I emailed screen shots showing my configuration. I uploaded logs. Still kept giving me same configuration tips you can find on line. If you are going to use site to site, do not buy this router. Search on synology website, \"site to site connected, traffic will not pass through vpn.\" You will see it is a big problem.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "Keith Karnes",
+      "helpful_votes": 0,
+      "publication_date": 20200615
+    },
+    {
+      "title": "Solid product",
+      "text": "I have been a fan of Synology for almost a decade now. My DS413 NAS still works flawlessly today so when it was time to replace my aging router I was pleased to see Synology had this RT2600AC available so I took the plunge. Setup was a breeze, wifi signal is solid, and the parental controls are an added bonus. VPN works great on my Win10 laptop as well as my iphone. Very very satisfied.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "passplay",
+      "helpful_votes": 0,
+      "publication_date": 20200428
+    },
+    {
+      "title": "Terrible Customer Service",
+      "text": "Horrendous customer support. Turns out after hours of troubleshooting our unit was defective out of the box. Waited on hold for hours. If you hold for 20 minutes they disconnect you saying they are sorry they were unable to help and wish you a good night.... at 9:00 in the morning. Before spending a lot more for a Synology product and thinking you may get better customer support, sorry to say our experience was just the opposite. And lets be honest troubleshooting a router issue in a chat window goes about as well as you would think that it would. Replaced with a TP-Link router for $103 less that works just great.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "macfamily",
+      "helpful_votes": 0,
+      "publication_date": 20191123
+    },
+    {
+      "title": "Great Router",
+      "text": "I have had this for a short time, How ever this router has been the best I have ever owned, easy setup does what it says and then some, I have never seen a router with so many features, WiFi connection is great and has a great range I highly recommend it, it has threat protection, nas capable and great wifi speed, I have always in the past had Linksys routers... but this synology RT2600ac tops them all",
+      "rating": 5.0,
+      "verified": true,
+      "author": "DeWayne",
+      "helpful_votes": 0,
+      "publication_date": 20200529
+    },
+    {
+      "title": "Not great, not terrible",
+      "text": "5ghz signal is consistently 3-5 db stronger than Netgear R7000, but at the lower end of the signal level browsing is very poor. Interface isn't great, and that's me being used to Synology UI, having been using their NAS products for many years. Too expensive for what it is. As a single router, it's too expensive. As mesh, there are other cheaper/better options. In other words: not great, not terrible, comrade.",
+      "rating": 3.0,
+      "verified": true,
+      "author": "Iggy",
+      "helpful_votes": 0,
+      "publication_date": 20190826
+    },
+    {
+      "title": "Do not waste your time and money!!!",
+      "text": "This router worked on and off for us for 3 months. I had to reset my phone regularly, and turn my wifi on and off on all of our devices...we put up with it for 3 months until the thing DIED completely 3 months later. The amount of hassle we went through with the \"manufacturer's warranty\" isn't worth it, the Amazon return window is 1 month. Gee, I wonder why. Even if Amazon makes an exception passed the return window, you will have to worry about your private data being out there AND a restocking fee. I recommend you pass on this, it's not worth it!!",
+      "rating": 1.0,
+      "verified": true,
+      "author": "Amazon Customer",
+      "helpful_votes": 2,
+      "publication_date": 20200216
+    },
+    {
+      "title": "Solid and dependable",
+      "text": "It has been 3.5 months since I replaced my Netgear Nighthawk R7900 and I have been very happy with the Synology RT2600ac. It has been solid and dependable. It has not locked up or lost its configuration or randomly rebooted. The UI is well designed and making most configuration changes do not reboot the router but are on the fly implemented and seamless. It has been working well and I like the wifi link quality indicator on the phone app. It shows the strength of the signal to each wireless device so has been helpful to optimize antenna placement and to diagnose some fringe network issues. Would buy again and would recommend!",
+      "rating": 5.0,
+      "verified": true,
+      "author": "JamesCivic",
+      "helpful_votes": 0,
+      "publication_date": 20190628
+    },
+    {
+      "title": "Works well in our 2,300 sq ft two story home",
+      "text": "Works well in our 2,300 sq ft two story home. Only one Roku tv in an upstairs bedroom opposite the router would not connect well. So, we used an extender we already had and now that tv works fine. We both work from home with the kids doing schoolwork during COVID-19 and couldn\u2019t be happier. Our old router couldn\u2019t take the load.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Tonya W",
+      "helpful_votes": 0,
+      "publication_date": 20200513
+    },
+    {
+      "title": "Subpar load balancing",
+      "text": "Easy to use interface, reliable router. I purchased this for the dual WAN load balancing capability. I live in a remote area with access to only fixed wireless and DSL connections. My biggest disappointment is that I cant tie certain devices to a specific WAN. Even if I set a device as a priority for speed, the router may still set that device on the slower DSL connection. I had to finally turn off the load balancing and instead use failover, which means I'm not getting the best value out of my connections.",
+      "rating": 4.0,
+      "verified": true,
+      "author": "Leann Gates",
+      "helpful_votes": 0,
+      "publication_date": 20200516
+    },
+    {
+      "title": "Fire up and forget",
+      "text": "Wow, such a relief going from Asus ROG Rapture GT-AC5300 to this. Everything just works without the hassle. Want to wifi your printer? No problem. Want to use web interface to control router? No problem. Can stream youtube to my phone in all 4 corners of my .54 acre lot (adios wifi extender) and haven't yet had to redo wifi password for my devices (constant problem with Asus).",
+      "rating": 5.0,
+      "verified": true,
+      "author": "J. Slowny",
+      "helpful_votes": 0,
+      "publication_date": 20200413
+    },
+    {
+      "title": "Good router with lots of features",
+      "text": "Good router with lots of features, can add more features that Synology puts out & maybe 3rd party add ons..Has parental control. feature i like most is the ability to block adds..only thing don't like is sometimes when it hands out ip addresses it does not use the normal 192.168..i reinstall windows and it hands out ips other than 192.168 and i can not get online, tech support had no clue...other than that it's been good router for little over 1yr...",
+      "rating": 4.0,
+      "verified": true,
+      "author": "birdman",
+      "helpful_votes": 0,
+      "publication_date": 20201020
+    },
+    {
+      "title": "Works great!  Extenders not needed.",
+      "text": "This router replaced an Apple Airport Extreme. In our one-story ranch-style house (all the rage in 1966), we needed a couple of Airport Expresses to extend the signal to distant rooms around corners. The fan on the Airport Extreme started making noise, probably because of accumulated dust. We bought this unit. Setup was quick and easy. The most time-consuming part was telling each of our devices about the new router. Now we have an excellent signal near the router, and an adequate signal in distant rooms.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Samuel L. Baker",
+      "helpful_votes": 0,
+      "publication_date": 20200123
+    },
+    {
+      "title": "Great Upgrade for our WiFi",
+      "text": "Needed a better router for three smart TV\u2019s and all the pads and phones we live with in this house. The skippy, stuttering images and streaming stopped immediately. We have three levels in a home of about 2600 sq ft. So coverage is great. Set up was not difficult. I always have trepidation when changing anything to do with a network that has settled into smooth running. This, went well, however. Synology has a good online instruction video. Our provider is Spectrum. Don\u2019t know if that matters.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Kathryn O.",
+      "helpful_votes": 0,
+      "publication_date": 20200528
+    },
+    {
+      "title": "This product is totally unsatisfactory from start to a quick finish",
+      "text": "This was ordered to replace a 10 year old Cisco router that worked fine but has outdated security. The quick install guide stinks as they can't bother to use a few basic sentences, only pictures. Also their online support center does not function on Safari. i had to use Chrome. After eventually getting it set up the system literally drops the internet connection hourly. I tried a call with Tech Support and the tech person was not audible due to constant static on the phone line. Frustrating and disappointing experience from start to finish, which is to return this device now.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "David Z",
+      "helpful_votes": 0,
+      "publication_date": 20190812
+    },
+    {
+      "title": "Love it, so far",
+      "text": "Easy to set up, many options which provides very flexible config for everyone, much greater range than the old Linksys I was using, 2 year warranty, seems they have real user support unlike some of the other competing brands (based on what I read--have not had to contact them). Two new software loads downloaded since it was originally boxed, so they seem to be really serious about fixes/patches. I have not tried any of the advanced features or software yet--just using it as a wireless AP so far. Time will tell as to how it will hold up over time. I will re-post as I learn more...",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Another Prime addict",
+      "helpful_votes": 2,
+      "publication_date": 20170730
+    },
+    {
+      "title": "Greatly Expanded Wifi Range",
+      "text": "This was a huge upgrade to our old wifi router. I also really like the capabilities and controls related to security, privacy, and parental controls. The interface online or from my cell phone is intuitive and easy to manage. It is one of the top rated by a leading consumer publication for good reason.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Andy in TN",
+      "helpful_votes": 0,
+      "publication_date": 20200226
+    },
+    {
+      "title": "Probably defective but customer service is closed when you need them",
+      "text": "Initially I was able to configure my wifi network but then none of my devices could connect to it. I tried to reset it to factory default settings so I could start over but that did not work and the unit would only power on and would no longer operate. Customer Service is closed in the evenings and also on the weekends which is when most home warriors are doing this and need help. The other customer service option is through their website but if the router isn't working then I cannot get to your website.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "chris",
+      "helpful_votes": 2,
+      "publication_date": 20181110
+    },
+    {
+      "title": "So Far, So Great!",
+      "text": "I ordered a Synology NAS for a client's business a few years back and found it super easy to configure and use, with an outstanding, intuitive interface. Same goes for this router. Basic router configuration was again very simple and intuitive, while installing and configuring the app for VPN was also a snap. Includes an SD card slot for integrated NAS. I am sold on Synology products. All that's left is to see how long it lasts. Impressed so far and I couldn't recommend it more.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "BitOWit",
+      "helpful_votes": 0,
+      "publication_date": 20200217
+    },
+    {
+      "title": "Doesn't allow port forwarding",
+      "text": "I use IP cameras that need port forwarding. Every other brand of router I've owned you just go into port forwarding and add the IP address, port etc and it works, no issue. Not this brand of router. Customer service is responsible but has no idea why it doesn't work. Went and purchased another model, same brand. STILL doesn't work. I will have to go with another brand of router anything then other basic Wifi and it doesn't work. I will tell you on the wifi the signal is great etc.. just not great for anything else.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "Steveo",
+      "helpful_votes": 0,
+      "publication_date": 20190911
+    },
+    {
+      "title": "Junk & Terrible support",
+      "text": "Product did not work when it arrived. Could not connect properly to any of my devices. Submitted a support ticket which told me to try re installing....thanks didn't think of that. Later called customer support, completely worthless. Sounded like 1 guy sitting in his bedroom who had no idea what I should do. Told me to submit another ticket. Synology would not accept a return on the product. I bought square one insurance with the purchase but that would not cover it because the product arrived defected. Complete waste of money. Much better and easier routers available that stand behind their product. I am Sitting here out $250. Do yourself a favor and move on to the next one.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "Jacob",
+      "helpful_votes": 2,
+      "publication_date": 20190408
+    },
+    {
+      "title": "Perfect!!",
+      "text": "UPDATE Jan2019.... I love this router more and more. The software to control it is powerful and easy. It's a great interface with downloadable apps. For example, the security app to keep your home network safe. I love the ability to schedule updates and schedule reboots whenever you want. So far this is running flawlessly in my 2700 square foot home. Gaming is fast, streaming is perfect, coverage is excellent. ----------------------- Picked this up to replace a new Nighthawk router which was driving me crazy. This synology router is simple, fast, reliable, and has awesome software to control it. Couldn't be happier. Great range too!!",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Capt Dangerous",
+      "helpful_votes": 0,
+      "publication_date": 20181205
+    },
+    {
+      "title": "So far so good",
+      "text": "I've only had this a few months so far but after having a DiskStation for several years with zero issues I thought I would give this a try after giving up on Netgear routers. So far it has been very reliable and is giving full speed in the same areas of my house that my previous Netgear routers would only sometimes get to. The interface is also 10x better than any other router I've used.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "NB",
+      "helpful_votes": 0,
+      "publication_date": 20190930
+    },
+    {
+      "title": "Would not hold Wifi signal",
+      "text": "Tired for several days to connect and stay connected to the internet. Devices in the house, mostly computers, continually lost wifi signal. Each time in order to reconnect we had to turn off the router, and turn it back on. Also would prefer a router with duel channels that can be selected by devices, I have a number of devices that need 2.5 ghz, and I had no confidence that this router would keep the connection on that channel. Contact Amazon technical support and they were useless.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "Maury Swoveland",
+      "helpful_votes": 0,
+      "publication_date": 20191126
+    },
+    {
+      "title": "Great signal, security and ease of use.",
+      "text": "Replaced a 10 year old Netgear router. Signal strength is superb throughout our 1900 sq ft house, including basement and second floor and outside on patio and in the yard. Doesn\u2019t disconnect like the old one did. Setup was easy and the app (DS Router) is very handy and easy to use. Shows all the devices on your network and all networks set up like one for the household and one for guests. We very happy with this purchase. Security ratings were top notch. Both Consumer Reports and CNET rated it highly.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Ryan",
+      "helpful_votes": 0,
+      "publication_date": 20191008
+    },
+    {
+      "title": "USB does not work with printer",
+      "text": "While most info indicates I would be able to connect with my old faithful HP LaserJet 1200 series printer via the router's USB port, I could not no matter what I tried. I have since returned it with a full refund from Amazon.",
+      "rating": 4.0,
+      "verified": true,
+      "author": "TRB",
+      "helpful_votes": 0,
+      "publication_date": 20200814
+    },
+    {
+      "title": "Do not buy!",
+      "text": "Similar to another reviewer, this router never worked for me. The wireless worked, but it never had an internet signal. Synology only occasionally answered their phone. Their phone app is so bad that their tech support advises against using it. After three hours on the phone with them over two days, they finally told me to return the product. Really? They couldn't figure out that they sold me a brick in the first hour? Never again Synology.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "Maman de chats",
+      "helpful_votes": 0,
+      "publication_date": 20200519
+    },
+    {
+      "title": "Powerful and extra configurable",
+      "text": "I\u2019ve had this router for 2 days and I already love it. I wanted something factory but with more monitoring and configurations and did not want to mess with DD-WRT. Easy to setup if you want it simple but you can also dive into many settings. The app is really nice too and allows you to change many settings remotely like port forwarding, firewall changes, blocking, and traffic monitoring to name a few. The installable packages you can put on it are nice but I wish there were more. I had Netgear and D-Link before this router and they pale in comparison.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "John",
+      "helpful_votes": 0,
+      "publication_date": 20190502
+    },
+    {
+      "title": "This router does the best job of monitoring your network",
+      "text": "This product is a great replacement for the Apple AirPort Extreme. I had read a review of it on 9to5Mac which was very favorable regarding this router. So far I\u2019ve been very happy with it. Set up using their mobile app seems to be the easiest way to install and connect to your system. Once that is completed, using the web connection to fine tune it and add any apps to it.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Barry Heath",
+      "helpful_votes": 2,
+      "publication_date": 20181220
+    },
+    {
+      "title": "Don't buy this router.",
+      "text": "My router was working fine and then after this latest automatic firmware update, all of my devices go offline AND my internet works only half the time from my computers and phones. I cannot even open my garage door anymore using the phone app. I will be asking for a refund. Highly recommend not buying this router with this firmware.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "Scooby Dude",
+      "helpful_votes": 2,
+      "publication_date": 20181126
+    },
+    {
+      "title": "Amazing Router with a lot of powerful features",
+      "text": "I did a lot of research before buying. This is an amazing router and I have had zero problem with it unlike other brands that I have owned. Great signal strength for WiFi and this router has the best interface of any that I have used. There is so much you can do with this out of the box. I attached an eternal drive and set up a media server in a matter of minutes.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Carl",
+      "helpful_votes": 0,
+      "publication_date": 20190713
+    },
+    {
+      "title": "Be Careful of the WiFi Button",
+      "text": "Be careful of the button on the side that turns the WiFi signal on and off. For a person who isn\u2019t familiar with the technicalities of how this machine works, it was a simple fix when our internet was \u201cdown\u201d all day after my niece reset the machine. I spent hours on the phone with our provider trying to figure out what was wrong with our internet. They told me I needed a new router, new Ethernet cable, etc. and it turns out it was a button on the side. We are 10 months in of owning this router and it all seems to be working well.",
+      "rating": 3.0,
+      "verified": true,
+      "author": "Kala Hoover",
+      "helpful_votes": 0,
+      "publication_date": 20200629
+    },
+    {
+      "title": "Should have upgraded sooner as this router is amazing and easy to use!!!!",
+      "text": "I just upgraded my cable modem to 1 GB, and I just received this new router to handle the new speeds. First thing I have to say is easy setup. The device goes through about 3 updates to be on the newest firmware, which is great. The web interface is light years ahead others I've seen and is very easy to configure the system. I have a 7500 sq. foot lot and my other router would not connect if I went outside my house. With this router I can be anywhere in the front or backyard and still be connected, which is great if you have wireless security cameras. I highly recommend this router.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "GearHeadPeter",
+      "helpful_votes": 0,
+      "publication_date": 20190301
+    },
+    {
+      "title": "Expensive Lesson",
+      "text": "Bought September 30, 2019 and it\u2019s now useless. Had amazon expert install. The 5g signal gone and 2.4g signal speed measures is 25 to 44 at the router with my 3 iPads when speed furnished by provider measures 230-240 on desktop hardwire. Had provider technicians here twice and checked out their modem and wiring to router. Problem of low speed and no speed leads to this expensive router. Should have listened to negative reviews. Should have kept my netgear.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "Saluqi",
+      "helpful_votes": 0,
+      "publication_date": 20191222
+    },
+    {
+      "title": "Supports WPA3 & protected management frames",
+      "text": "I have 3 Synology NAS and I really like them. They are robust and perform well. So .. I decided to try their RT2600ac WiFi access point for use in my RV. I use Ubiquiti at home, but they are dragging their feet when it comes to WPA3 deployment. The RT2600ac supports WPA3. And it supports protected management frames to help fight MITM attacks. Campground are notorious for hackers. Now all I need is for Samsung to support WPA3 on compatible phones & tablets (my Note 9 phone can support it) and issue updates.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Michael E.",
+      "helpful_votes": 0,
+      "publication_date": 20190719
+    },
+    {
+      "title": "Very low quality.",
+      "text": "Not the money worth. The signal strength is very low. My 6 year old router was better. The app is a crap. It takes too long to sign in . Sometime it doesn't sign in.So if you try to do parental control you will end up stuck when you really need to give access. It takes for ever to change any settings. It will say the save was failed. But it was saved. I switched if the push notifications. But it still send notification to my phone every two minutes. It's annoying. I am getting angry while typing this because if the push notifications that I am receiving.",
+      "rating": 2.0,
+      "verified": true,
+      "author": "Shebeer Salm Assya",
+      "helpful_votes": 0,
+      "publication_date": 20200918
+    },
+    {
+      "title": "only lasted 2 years",
+      "text": "Was a great router while it lasted, but it stopped working 1 month after the factory warranty expired. Would have hoped for a $200 router it would last longer than that.",
+      "rating": 2.0,
+      "verified": true,
+      "author": "Anonymous1",
+      "helpful_votes": 2,
+      "publication_date": 20200614
+    },
+    {
+      "title": "Very Impressed for a change with a router!",
+      "text": "Best router by a LONG shot I have ever owned. I won't mention the other name brands I have used but this puts them all to shame. It's very customizable and easy to use. I have my whole house wireless and was able to set up my own personal version of Dropbox by sharing files and uploading things from my phone and computers to a USB external hard drive. I went with another \"top\" brands with horrible results and then went with this one, I wish I used Synology first however if I did maybe I wouldn't have appreciated it as much for its reliability. Speed for me was 1:1 giving me exactly what my ISP was providing over wifi.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Burchpiano",
+      "helpful_votes": 0,
+      "publication_date": 20170927
+    },
+    {
+      "title": "Increased my WiFi speed by almost 200mbps",
+      "text": "Super easy set up! Quick and easy to migrate all your devices to. If you name and password protect the same as your previous device, your devices will automatically connect. I am seeing a night and day difference with my internet speed. Can\u2019t believe changing one device could make so much of a difference.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Dani",
+      "helpful_votes": 0,
+      "publication_date": 20200125
+    },
+    {
+      "title": "Reliable and supported.",
+      "text": "After the initial setup and update I totally forgot about it. The router just works, I had no disconnects or any other trouble. I gained a little field strength compared to my old Netgear router but nothing spectacular. My devices connect quicker and the throughput is fast. I love the configuration interface and the fact that Synology is working on keeping it up to date so far.I don't like the external antennae -so many of them- they could probably be integrated in the case instead of ruining the overall design. I tried some of the latest Netgear products before the Synology and found that this one is the best compromise between price, performance and features.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "JimBob44",
+      "helpful_votes": 0,
+      "publication_date": 20180515
+    },
+    {
+      "title": "It's Perfect!",
+      "text": "The install, and setup were really simple! As soon as I connected to it, it asked me for an SSID and password (as well as an admin name and password) so I didn't have to wander through the settings to find that stuff. It allows a ton of configuration, management, and user monitoring. I've only been connected for a couple hours, and so-far-so-good. It looks like the connection is good for an extra 30% further down the driveway than the old router. I also really like the Synology App on my phone. It gives me so much information in a very intuitive layout.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Paul",
+      "helpful_votes": 0,
+      "publication_date": 20200223
+    },
+    {
+      "title": "Great WiFi",
+      "text": "Very, very easy to install. 10 minutes. Coverage is as expected with strong signals. Instructions are sparse however once you access install wizard it pretty much walks you through it in a very understandable way. No need to be a rocket scientist.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Bobdi",
+      "helpful_votes": 0,
+      "publication_date": 20200411
+    },
+    {
+      "title": "SUPER FUNCTIONALITY!",
+      "text": "This router is both the Swiss Army knife of routers, AND they maintain automatic daily firmware / software updages & upgrades, AND their tech support is PHENOMENAL! For example, I was asking for a feature to implement a fail-over from an implemented VPN policy, to revert to the normal WAN,, and before I could get back to them and send them the logs of my problem, they CREATED an update that allows just that! With the live ongoing updates, and multiple functions you can implement, this is truly a DEAL.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Nathan John",
+      "helpful_votes": 0,
+      "publication_date": 20180523
+    },
+    {
+      "title": "Finally found the router!",
+      "text": "After trying with 3 different routers, I've found the one. Netgear Nighthawk kept rebooting itself and drop wifi signal, so annoying. TP-Link AC4000 couldn't work with Plex Media Server, Linksys Ac2200 could only connect with Ecobee thermostat on the guest network. Synology router is very reliable and provide a fast connection. UI is very user friendly and easy to use.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "T. Yi",
+      "helpful_votes": 0,
+      "publication_date": 20200522
+    },
+    {
+      "title": "Quality Product",
+      "text": "The WiFi signal burns holes through walls. I'm getting 250 Mbps down on my phone from across the house on the second floor for crying out loud. If you're debating on buying this but the price is holding you back? Ignore the price, it's worth every penny! I've had it running now for almost a year and it's a set-it-and-forget-it proposition. Done deal, I love it!",
+      "rating": 5.0,
+      "verified": true,
+      "author": "k.grass",
+      "helpful_votes": 0,
+      "publication_date": 20190830
+    },
+    {
+      "title": "Couldn't Assign Devices a Static IP Address",
+      "text": "The Synology internet settings has an area where the user is supposed to be able to assign devices static IP addresses. However, my devices were not showing in the list. When I attempted to manually add a missing device's MAC address, the software would not take it. I know all my devices were successfully connected to the router because they all showed as connected in different settings. I googled the problem and found it is a current wide spread problem without a fix. This is a $200 router that should work out of the box, no holds barred. I immediately returned it.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "JR",
+      "helpful_votes": 0,
+      "publication_date": 20200801
+    }
+  ],
+  "product_meta": {
+    "title": "Synology RT2600ac \u2013 4x4 dual-band Gigabit Wi-Fi router, MU-MIMO, powerful parental controls, Threat Prevention, bandwidth management, VPN, expandable coverage with mesh Wi-Fi",
+    "description": "Style Name:Wi-Fi Router RT2600acRedefine your network with Synology Router RT2600ac's powerful wireless capabilities and rock-solid, security-focused Synology Router Manager core. Designed for both homes and offices, MU-MIMO support ensures more devices can connect at higher speeds while SRM's Parental Controls and Traffic Manager allows simple management and fine-tuning of network traffic. Power Frequency - 50/60 Hz, Single Phase",
+    "rating": 4.3,
+    "feature_bullets": [
+      "1.7 Gigahertz Dual core processor for fast, uncompromising performance. Coverage area - 3,000 square feet",
+      "Powerful 4x4 802.11ac wave 2 radios with MU-MIMO and up to 2.53Gbps breakthrough wireless speeds",
+      "Smart Connect for seamless transition between maximum speed or range",
+      "Hardware accelerated Layer 7 traffic control and monitoring; Storage Temperature: -20\u00b0C to 60\u00b0C (-5\u00b0F to 140\u00b0F)",
+      "Dual WAN capable for load balancing and failover support ; Operating Temperature 5 Degree Celcius to 40 Degree Celcius (40 fahrenheit to 104 fahrenheit )"
+    ],
+    "specifications": {
+      "Is Discontinued By Manufacturer": "No",
+      "Product Dimensions": "16.89 x 27.99 x 7.7 cm; 698.53 Grams",
+      "Date First Available": "23 May 2017",
+      "Manufacturer": "Synology America Corp",
+      "ASIN": "B01N5MPTG1",
+      "Item model number": "RT2600ac",
+      "Customer reviews": "/** Fix for UDP-1061. Average customer reviews has a small extra line on hover* https://omni-grok.amazon.com/xref/src/appgroup/websiteTemplates/retail/SoftlinesDetailPageAssets/udp-intl-lock/src/legacy.css?indexName=WebsiteTemplates#40*/.noUnderline a:hover {text-decoration: none;}"
+    },
+    "categories": [
+      "Computers & Accessories"
+    ],
+    "price": ""
+  }
+}

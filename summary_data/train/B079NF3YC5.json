@@ -1,0 +1,828 @@
+{
+  "website_summaries": [
+    {
+      "verdict": "The GLAS is a solid smart thermostat, but it isn't a good value if you don't feel strongly about its transparent display and Cortana functionality.",
+      "pros": [
+        "Johnson Controls' GLAS Smart Thermostat has a built-in Cortana speaker and it also works with Alexa and Google Assistant",
+        "In addition to its basic capabilities, the GLAS provides indoor and outdoor air quality reports",
+        "Its unique, see-through OLED screen surprisingly doesn't get too smudgy-looking after regular use"
+      ],
+      "cons": [
+        "You're paying a premium ($319) for the OLED touchscreen and the integrated Cortana speaker"
+      ],
+      "aspects": {
+        "Features": 8.0,
+        "Usability": 7.0,
+        "Design": 7.0,
+        "Performance": 7.0
+      },
+      "publication_date": 20180824,
+      "rating": 7.3,
+      "source": "cnet"
+    }
+  ],
+  "customer_reviews": [
+    {
+      "title": "AMAZING FUTURISTIC THERMOSTAT!!",
+      "text": "WOW! This thing is the best. The only request I would make is for a toggle to enable an always-on-display mode which currently does not exist. Love how it tells me about the humidity, CO2, and VOC conditions! Syncs to my google assistant very well, and the Lenovo Smart Display with google assistant even allows you to adjust and set the temperature right from the touch screen!",
+      "rating": 5.0,
+      "verified": true,
+      "author": "William",
+      "helpful_votes": 22,
+      "publication_date": 20180912
+    },
+    {
+      "title": "JCI Not What It Use To Be",
+      "text": "Years ago JCI was an outstanding company but things have changed. I bought the Glas and although it looks GREAT on the wall, their customer service fell really short. Tuesday morning they put me on hold for 26 minutes...They can do that because i already made my purchase. Their operating manuals leave a lot to be desired - i wanted to know about \"holding\" and it was hard to find information on this. They missed the boat on simple data tracking like tracking the temperature. They could have had a way to put the savings into dollars. They had a hard time answering simple questions like how often does the mobile app refresh? Disappointed.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "Skip ",
+      "helpful_votes": 5,
+      "publication_date": 20190730
+    },
+    {
+      "title": "Looks  cool, neat UI, impossible to install.",
+      "text": "This is cool looking and a neat concept but for the life of me and my HVAC dude, we could not get it installed because of c-wire problems. It also runs Windows IoT Core, which is neat, but also left me with a DOS style blue screen once or twice. And there\u2019s no compatibility with the Apple ecosystem or more importantly with room sensors. We live in a big house and the thermostat needs to be able to adjust to keep upstairs cool sometimes and not others.",
+      "rating": 3.0,
+      "verified": true,
+      "author": "Spencer C.",
+      "helpful_votes": 3,
+      "publication_date": 20190620
+    },
+    {
+      "title": "Looks Cool, Not Much More",
+      "text": "Bought this on Prime Day 2019 for $152.63. I use SmartThings to automate my home. Beyond Alexa and Google Assistance control, there is no smart functionality to this device. It's an expensive, albeit beautiful, thermostat. The iOS app takes forever to connect (with no apparent local access options.. must hit web first). I am returning this device today. If you want something that looks cool, this is it. If you want any functionality beyond what you can get from a cheap bare-bones thermostat, look elsewhere.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "nickganga",
+      "helpful_votes": 3,
+      "publication_date": 20190729
+    },
+    {
+      "title": "Only looks GOOD.",
+      "text": "This thermostat has a mind of its own. It changes our temperature as it pleases without us setting any automated temperature changes. You can't restart it from the app. A couple days ago, the wall unit and the app both showed our home temperature to be normal, however since we felt so hot, we knew something wasn't right. We had to restart the unit by disconnecting the wires. It then told us our temperature was 8 degrees higher than we set it.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "A Customer",
+      "helpful_votes": 3,
+      "publication_date": 20200122
+    },
+    {
+      "title": "Looks nice on wall/update after 2 weeks on wall",
+      "text": "Only wish the manual was more detailed. For instance it goes into sleep mode (blank screen)until you approach it then stopped doing it which was when I connected with alexa. The instructions for that are very bland the issue is connecting the skills (app?) Is there a battery replacement required no mention of a battery in specs. but there is one in a sealed case. A users manual more detailed would be nice. EIGHT MONTHS LATER the temperature sensor seems to have gone bad not reading correct room temp. Not sure about battery function either never mentioned in manual.",
+      "rating": 2.0,
+      "verified": true,
+      "author": "Dante",
+      "helpful_votes": 2,
+      "publication_date": 20200311
+    },
+    {
+      "title": "Totally worth it.",
+      "text": "I work at home so it can't really learn the habits to set the temperature. But it did learn to raise the temperature when I get up so I was impressed because it would not raise the temperature until I walked by. It looks great, but I wish you can have the display on all the time, the display turns off after a few minutes. The app is so slow I give it one star. Other than that it was a great buy, I got it for $138.00 and I like it a lot. If it wasn't for the app I would give it 5 stars.",
+      "rating": 4.0,
+      "verified": true,
+      "author": "czupet",
+      "helpful_votes": 2,
+      "publication_date": 20190902
+    },
+    {
+      "title": "Stunning design, software needs work",
+      "text": "Absolutely stunning design. If your thermostat is a prominent device in your home, at leat make it look good with this one. While the functionality and Cortana integration are great, the UI can sometimes be laggy, with occasional issues getting back to the \"home\" screen. However, this being a Microsoft software product, you can expect updates in the near future to hopefully make it more solid. Out of the box, I would give it 3 stars, but the design is so stunning that I definitely had to bump it up one more star. Will check back if it improves :-).",
+      "rating": 4.0,
+      "verified": true,
+      "author": "Brian Roediger",
+      "helpful_votes": 3,
+      "publication_date": 20180910
+    },
+    {
+      "title": "Good thermostat.",
+      "text": "Install was pretty easy, only had 1 hiccup connecting the RH wire, where I didnt notice there was a jumper already in the unit. The complaints about the app are legit, latest release had some improvements, but it's very very slow to connect. Faster to use Alexa or just walk over to it. I like the air quality reading, great feature for those with allergies or asthma to be able to use and see both indoor and outdoor air quality . I've had this and a nest thermostat, and personally I like this better. Programming is easy and it's a beautiful piece as well. Fix the app for 5 stars...",
+      "rating": 4.0,
+      "verified": true,
+      "author": "lugano",
+      "helpful_votes": 2,
+      "publication_date": 20190830
+    },
+    {
+      "title": "Worth it",
+      "text": "Received the product a day early. Read many reviews and was sceptical but loved how it looked so I purchased. If you own a tool kit and can differentiate colors of wires you can install this thermostat. I live in an apartment and had to use the adapter because I didn't have a \"C\" wire at my thermostat. If you read and follow instructions you will have no problems. The app works great. Most complain of slowness, but they don't mention it does TAKE TIME to connect to a remote thermostat over a easy to set up internet connection. Once connected it is quick and responsive. Total time for setup, mounting, and AC back running was about 20 minutes.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Dan Mulcare",
+      "helpful_votes": 4,
+      "publication_date": 20190717
+    },
+    {
+      "title": "Before it's time.  Awesome!!",
+      "text": "So I've had several smart thermostats along the lines of Honeywells and whatnot. I got the Nest Learning Thermostat and hated it. Everything is way more work than it should be with Nest--although it looks nice. I returned the Nest and rolled the dice on GLAS which I had never seen before. It's simply the best smart thermostat out there. None are perfect including this one, but it's the closest. Schedule events are funky but not hard. Home screen should have more options to show weather and other items all at once. I wish it stayed on in a dim state.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "P&G",
+      "helpful_votes": 2,
+      "publication_date": 20190901
+    },
+    {
+      "title": "Upgrades are welcome",
+      "text": "Great looking product , that has a bit of a learning curve. After I made sure I had the functionality correct the installation went great. The system rebooted 3x before I could get to the main setup , but after that everything else was a breeze. I have not seen anything that mentions Alexa so I can't leave a review on it. I didn't leave any technical review because I set everything up based on the documentation that came with it. I love the functionality and I will be painting the hallway now that I got a showpiece to showoff!!!!!!!",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Ronnie D. Johnson",
+      "helpful_votes": 0,
+      "publication_date": 20201003
+    },
+    {
+      "title": "Beautiful thermostat",
+      "text": "Bought this to replace my nest. The display is nice and readable even at the lowest brightness. The touchscreen is very responsive. The app is very plain and basic same go for the voice control. I'm still messing around with alexa voice command and I'm not that impress but that's a deal breaker for me. For installation is quite simple and it even comes with a c (common) wire adapter if your old thermostat doesn't have a common wire connection. Pro- Beautiful. Elegant. Touchcontrol is very responsive. Clarity is great. Installation easy. Cons - Very plain app.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Mr. Pros and Cons",
+      "helpful_votes": 0,
+      "publication_date": 20190824
+    },
+    {
+      "title": "the app is too slow",
+      "text": "Software is extremely slow. every few weeks it loges me out in my iPhone app and also in my Alexa. and it is usually when I need something quickly!!!! I can\u2019t turn off the screen to clean it. There should be a way to lock the screen for cleaning and also a way to keep it on all the time. it used to have a voice control that is gone as well. if you want something that ONLY looks good, this is for you. but if you need something functional then think again.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "Ali",
+      "helpful_votes": 2,
+      "publication_date": 20190707
+    },
+    {
+      "title": "Nice design, but sw could use improvement",
+      "text": "This is my first smart thermostat. I wanted to get something different from nest that is slightly cheaper. This product fit the bill with an additional VOC sensor component that nest doesn't have. Installation was a little tricky: had to go up to the furnace in my attic to install the adapter that would supply power to the thermostat. Feature-wise, it is fairly simple. It has an app to remotely control the device, with voice control integration via alexa and google assistance. Connecting via app is a little slow though. Also wish it has the ability to track temperature and VOCs over time.",
+      "rating": 4.0,
+      "verified": true,
+      "author": "A to da J",
+      "helpful_votes": 0,
+      "publication_date": 20191207
+    },
+    {
+      "title": "Terrible, with no support. And the app sucks",
+      "text": "Don't expect it to work with an older furnace, it won't. Our furnace turns on in A/C mode and the A/C unit fires up when the Glas calls for heat. Waited 30+, 45+, and 75+ minutes on hold for their tech support and never got through, got disconnected each and every time. And the smartphone app is complete trash. Why do I need a login prompt EVERY TIME I look at my smart thermostat app? Once a week? ok sure, but get with it and add fingerprint support. And about 25% of the time the app just dies on \"Loading....\" Other than looking cool, this is a complete waste of your time and money.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "Amazon Customer",
+      "helpful_votes": 0,
+      "publication_date": 20201014
+    },
+    {
+      "title": "Physically fine, but the tech is awful.",
+      "text": "This thing looks great, and physically it operates fine. But the Alexa skill comes un-synced all the time, and the app always logs me it. Half the point of this was to be able to easily adjust settings while working from another room. If I ask Alexa to do it, it doesn\u2019t recognize the skill... I go to the app and half to log in and it takes 15-30 seconds to connect. Might as well get up and walk my ass over to the thermostat. Really disappointed with their tech for such a nice looking unit.",
+      "rating": 2.0,
+      "verified": true,
+      "author": "Eric",
+      "helpful_votes": 0,
+      "publication_date": 20200827
+    },
+    {
+      "title": "Pretty good.",
+      "text": "Easy install. Good calibration. I got the heater/cooler wires crossed initially, but fixed it quickly. Pretty much on auto -- detects inactivity and goes to \"I'm at work\" mode. Sleep and wake up mode all work nicely. Touch screen is colorful, easy to ready, and interact with. One annoyance: the shutoff seems to be a bit flaky. Say I have it at \"cool to 74\" - sometimes it goes to 73 and still is blowing for a few minutes. Or if I manually lower to \"cool to\" temp to below the current temp, it won't shutoff until a few minutes later. Not major, just an annoyance.",
+      "rating": 4.0,
+      "verified": true,
+      "author": "disconcertia",
+      "helpful_votes": 0,
+      "publication_date": 20190824
+    },
+    {
+      "title": "Awesome thermostat.",
+      "text": "After reading all the reviews before this I was a little leery about purchasing this but now I am so glad I did it is far superior than to any other thermostat we had it monitors when we're here and when we're not it works perfect with Alexa and yes the app is not fancy but it works unless you like being intrigued by all the gizmos and gadgets that most apps have this one his straightforward and easy I have two I have a zoned home and they work perfectly well together I would definitely recommend this.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "john C. Just",
+      "helpful_votes": 0,
+      "publication_date": 20191026
+    },
+    {
+      "title": "Removing features. No support for product.",
+      "text": "I had this product installed and was working fine. The company removed the built in Cortona. That was one of the features I bought it for. The device also stopped working all together 2 months ago. Still waiting for a warranty replacement. Not good service. Sent mine in to repair and have heard nothing. So I am now without any product.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "Alex & Felicia C.",
+      "helpful_votes": 0,
+      "publication_date": 20200106
+    },
+    {
+      "title": "Very Clean",
+      "text": "This smart thermostat is by far and away the best looking one there is. I'm a bit of a tech geek and I can assure you, I've done my homework. This works flawlessly with my Google Assistant and the app is perfectly fine. I normally use the Google home app to control it if necessary. It's scheduled to adjust to specific temperatures so I hardly use the apps. I'd rather walk up to it and touch the Glas screen anyway because let's face it, it's pretty badass. Johnson controls has been around for ever. Microsoft operating system actually built into the unit. Homerun!",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Karl Ramm",
+      "helpful_votes": 0,
+      "publication_date": 20191027
+    },
+    {
+      "title": "App and customer service terrible!!",
+      "text": "This thing is cool . But app sucks wont let you in at all . Customer service sucks also . Cant make it work with alexa because can't even sign up on there app .",
+      "rating": 1.0,
+      "verified": true,
+      "author": "brock",
+      "helpful_votes": 4,
+      "publication_date": 20190622
+    },
+    {
+      "title": "Great product",
+      "text": "Looks a lot better then the Nest or Ecobee. Love the indoor and outdoor air quality monitoring feature. Has all the feature I was looking for. I no longer have to switch between air conditioning to heat. Has a pass code to prevent kids from tamporing with temperature settings. Wished that viewing air quality does not require a passcode.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Peter",
+      "helpful_votes": 0,
+      "publication_date": 20190907
+    },
+    {
+      "title": "Very different and nice looking thermostat",
+      "text": "Loved this product. It's not hard to install if you have a traditional and updated HVAC system in your house. Once it's set up, you can remotely control things even if you're on the other side of the planet.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Latin Assassin",
+      "helpful_votes": 3,
+      "publication_date": 20190704
+    },
+    {
+      "title": "Actually Getting Worse",
+      "text": "I have had this thermostat for 2+ years and it has been a constant source of frustration. Initially, the app functionality was very spotty. It got better for a while, but now it is worse than ever. I have to re-log in every single day. Alexa functionality is just as annoying. Tried calling for help. They are closed on weekends and the hold times during the week are excruciatingly long. To top it off, their phone system blares the most annoying hold message every 10 seconds. It's like they are deliberately trying to get you to give up. DO NOT BUY THIS.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "PeteP",
+      "helpful_votes": 2,
+      "publication_date": 20181104
+    },
+    {
+      "title": "For Anyone Who Doesn't Want A Nest",
+      "text": "Wow! Johnsons Controls hit a home run with this thermostat. I was looking to add value to my home but was not impressed with the Nest, not because of the quality but the why it looked on the wall. Johnson Controls thermostat is easily installed and looks amazing. Surprisingly it's quite the conversation piece too.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "A. Amante",
+      "helpful_votes": 0,
+      "publication_date": 20181126
+    },
+    {
+      "title": "Should not be Elexa certified.",
+      "text": "Have to reconnect with Alexa after a day. Will only stay connected for about a day. Try to find a positive Alexa experience with this poorly designed software. I should have known better, I worked for JCI for 10 yrs before I got disgusted and quit. If they dont make enough money they abandon the product. Last software update about a year ago. And now I see it is Alexa certified. I guess Amazon has pretty low requirements to be certified.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "G people",
+      "helpful_votes": 0,
+      "publication_date": 20201012
+    },
+    {
+      "title": "We love everything about it",
+      "text": "Never knew a brilliant thermostat would bring so much joy! I love everything about the Glas Thermostat. It is elegant, subtle, easy to read with features that help our house be its best and lights up when we walk by, so I don't have to tap it to check the temperature every time. I haven't tried the Alexa interaction, partly because I don't have one and am not interested in the feature, but because I enjoy physically interacting with it given the option. The app is great and I do use it often, best when I forgot to change the temperature after having left on a trip. I never write reviews, but the Glas is definitely worth sharing.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "bkrodz",
+      "helpful_votes": 0,
+      "publication_date": 20190908
+    },
+    {
+      "title": "Beautiful",
+      "text": "Bought because price was reduced would not buy again May end up returning it had to turn off all the extra features because didn't want to work right. Tech support does not know what they're talkin about. Works with Alexa turn the temperature up and down will tell you what the temperature is in the house through a Alexa cube fire stick an echo",
+      "rating": 3.0,
+      "verified": true,
+      "author": "Amazon Customer",
+      "helpful_votes": 0,
+      "publication_date": 20200123
+    },
+    {
+      "title": "No Subscription needed. Best ever thermostat",
+      "text": "You do not need to pay a app a monthly subscription to use this led elegant thermostat. I love it and even has voice activation and you can set the heat from your phone if away",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Casa Victoriana",
+      "helpful_votes": 4,
+      "publication_date": 20190102
+    },
+    {
+      "title": "Awesome Device!",
+      "text": "This thing is beautiful and a very good product. It installed very easily and gives you functionality based on which wires you hooked up. Although, cortana is no longer supported (Windows is removing it from essentially everything including xbox). But you can still use it with Google and alexa. I'm not sure if people were expecting this to have instantaneous response but for something this cheap and small, you can't expect that. It's very snappy for what it is and the kind of data that it provides. It could also be that I have very fast wifi and that can dictate how quickly it gets it's info. All in all, solid product.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Amazon Customer",
+      "helpful_votes": 0,
+      "publication_date": 20201020
+    },
+    {
+      "title": "Buy a Nest",
+      "text": "Functions fine as an expensive thermostat. The Glas unit is beautiful but the app is slow and the pages on the screen are often blank when swiping between them. They removed the Cortana integration literally a week after I installed it so that competitive advantage is gone. Wish I would have bought a Nest.",
+      "rating": 2.0,
+      "verified": true,
+      "author": "Nick",
+      "helpful_votes": 2,
+      "publication_date": 20200407
+    },
+    {
+      "title": "Best looking thermostat I\u2019ve seen - friends and family might think your Tony Stark.",
+      "text": "This thermostat looks great. The phone app is glitchy, but after owning a Nest for over 4 years and only using the app a couple dozen times, I didn\u2019t find it a major detractor. I do agree with some of the other reviews that an \u201calways on\u201d setting for the display would be great. Also, I have not experienced any of the wild temperature swings due to GLAS not thinking anyone was home.",
+      "rating": 4.0,
+      "verified": true,
+      "author": "Karl F. Brandys",
+      "helpful_votes": 0,
+      "publication_date": 20200729
+    },
+    {
+      "title": "Themostat features",
+      "text": "I had the thermostat installed by a handyman who happens to be a Service Manager for an AC company. He was very impressed by the thermostat and he has installed all makes and models of thermostats. Easy to use and great features, especially the tool that knows when your home or not and adjusts the thermostat temp. accordingly. Love the touch screen.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Pablowatch",
+      "helpful_votes": 0,
+      "publication_date": 20190827
+    },
+    {
+      "title": "Looks Great / Works Great  (But)",
+      "text": "There are two things I wish I would have know before I bought it. 1) There are functions and settings based on the outdoor temperature. It gets it's outdoor temp from the internet, based on your location. If you currently have temp sensing wires to use the actual outdoor temp you will not be able to use them. 2) There is no manual setting if you want your unit to use Emergency (Auxiliary) Heat. You can only set the outdoor temp that you want it switch over to Emergency heat mode which is not accurate due to comment number one. I hope this helps.",
+      "rating": 4.0,
+      "verified": true,
+      "author": "Rich Stewart",
+      "helpful_votes": 0,
+      "publication_date": 20191227
+    },
+    {
+      "title": "Honestly! don\u2019t make an unnecessary promises!",
+      "text": "Love the touch screen...The software on the other hand it\u2019s pretty limited..It doesn\u2019t have Cortana like it claims on every add and instructions on the package you receive. This leaves you with Alexa or other devices if you wanted to used Bluetooth or WiFi, living you with another expense. Pretty Disappointed such beautiful device yeah it\u2019s not what it seems or what you think you\u2019re paying for.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "NELLY LARCO",
+      "helpful_votes": 0,
+      "publication_date": 20200102
+    },
+    {
+      "title": "Great for Smart Home",
+      "text": "Got it installed with very little effort, looks great and easy to use and the latest system update added some much needed features such as temperature hold. I can't wait for remote sensors to be released. Easy to integrate with windows 10 and very responsive. Love having the ability to monitor air quality in my home and have the fan turn on when it gets bad.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "BCE Grimm",
+      "helpful_votes": 0,
+      "publication_date": 20190416
+    },
+    {
+      "title": "Easy to use!",
+      "text": "It\u2019s smaller than it appears in the pics, but I love the look of it! We used an hvac tech for our install, so I can\u2019t offer a review on the install process. Really loving that I can now adjust the a/c from my phone, especially when we\u2019re on vacay!",
+      "rating": 5.0,
+      "verified": true,
+      "author": "bd",
+      "helpful_votes": 0,
+      "publication_date": 20200809
+    },
+    {
+      "title": "Works great, looks great.",
+      "text": "I\u2019ve never written an Amazon review, but I felt I needed to boost the rating for this item. It works awesome, way better than the Honeywell T9 and T10, which were both plagued by connectivity issues. I looked at the Ecobee at the big box stores, but the screen just looked small and resolution wasn\u2019t great. It looks line whatever issues that used to plague this thermostat were fixed with a software update. The app works great and connectivity is solid. I am not an Alexa, Cortana, etc. user, so I couldn\u2019t speak to those functions.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Dustin",
+      "helpful_votes": 0,
+      "publication_date": 20200102
+    },
+    {
+      "title": "Sexy Thermostats",
+      "text": "We bought two! After a bit of a stumble installing replacing on our manual, mercury ampule, 1977 thermostats on 1998 heat pumps (tech support was closed for a holiday weekend...) I was able to make these work perfectly! They are SEXY! Not a black hole on the wall; they blend in enough to hide, but light up with motion and are nicely animated! They started off as Cortana only enabled, but a recent update offers more options (hoping for HomeKit, soon)!",
+      "rating": 5.0,
+      "verified": true,
+      "author": "mark",
+      "helpful_votes": 0,
+      "publication_date": 20200129
+    },
+    {
+      "title": "Stopped Working",
+      "text": "Installed it, it worked for 8 hours and just stopped working. The screen froze up and it just showed \"OFF\". Performed restart, factory reset turn off and on and nothing worked. The screen was inoperable. Customer service is horrible! Spent the night in 100 degree heat with no air conditioning! Replaced it with new different brand thermostat the next morning. Not worth the risk!",
+      "rating": 1.0,
+      "verified": true,
+      "author": "Darryl",
+      "helpful_votes": 0,
+      "publication_date": 20190719
+    },
+    {
+      "title": "Alexa integration is disconnecting daily",
+      "text": "Alexa integration is disconnecting daily. I always have to disable and enable skill every time I want to use it. Thermostat was awesome for about a year but here recently it won\u2019t stay connected. WTF?!?",
+      "rating": 1.0,
+      "verified": true,
+      "author": "Hoang",
+      "helpful_votes": 0,
+      "publication_date": 20201018
+    },
+    {
+      "title": "Nothing",
+      "text": "Not what I expected had a Nest and replaced it with GLAS my Nest was able to program and was easier to use put my Nest back after a month of use!",
+      "rating": 2.0,
+      "verified": true,
+      "author": "anthony m gerich",
+      "helpful_votes": 2,
+      "publication_date": 20190728
+    },
+    {
+      "title": "Very bad customer services",
+      "text": "Unit it looks ok, but very simple as far as programming, $50 thermostate will work the same, and it will be so much easier to install, very rude customer service and its not really worth $250 at all.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "Dan David",
+      "helpful_votes": 0,
+      "publication_date": 20200630
+    },
+    {
+      "title": "Great but follow the wiring instructions in the manual.",
+      "text": "A beautiful and basically functional thermostat. I had a bit of trouble installing it because I didn\u2019t realize I needed to use the wiring instructions for heat pump, rather than conventional. But, once I fixed that, it works perfectly. I\u2019m not an electrician but installing it was super easy. I already had a c-wire in place. Overall a solid unit.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Angel C",
+      "helpful_votes": 0,
+      "publication_date": 20200607
+    },
+    {
+      "title": "Great product",
+      "text": "Unit is definitely a piece of art to look at , arrived on time and in perfect condition Hooked it up my self ( certified HBAC-R TECH) works better than any other thermostats I\u2019ve ever used. Only wish it had remote temperature sensor.",
+      "rating": 4.0,
+      "verified": true,
+      "author": "Tiffany",
+      "helpful_votes": 0,
+      "publication_date": 20190216
+    },
+    {
+      "title": "After 1 year of use...5 stars!!!",
+      "text": "After 1 year of use, the thermostat works flawlessly and the air quality monitoring works great too. Hands down the best looking thermostat on the market! I have it connected to my smart home using Google Assistant, and once in a while it drops the connection. I solve this by logging into the glas app, and the connection is made again. Besides that tiny issue, I highly recommend it, specially if you're looking for a smart device that works and looks good as well!",
+      "rating": 5.0,
+      "verified": true,
+      "author": "J. Leon",
+      "helpful_votes": 0,
+      "publication_date": 20200226
+    },
+    {
+      "title": "Didn't work out of the box.",
+      "text": "Didn't work out of the box. Green light came on briefly then screen never powered up and displayed welcome message as described. Returned for refund.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "SV",
+      "helpful_votes": 0,
+      "publication_date": 20191222
+    },
+    {
+      "title": "Excellent way to control more of my home with Cortana",
+      "text": "Forget Alexa, Cortana is the way to the future. If you don't believe me, just watch Halo...except the bit were she turns mad...she won't blow up your A/C. :)",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Paul C. Allsopp",
+      "helpful_votes": 0,
+      "publication_date": 20190724
+    },
+    {
+      "title": "Great first experience with a smart thermostat",
+      "text": "Install went as expected, had to paint a little around where my old thermostat was, and wiring was straightforward even though my existing wiring colors were off. It\u2019s located in a high traffic area so I don\u2019t get false auto away events, overall very pleased with my purchase. My favorite features are the remote access, and the ability to set a temp range instead of a standard hold temp on a regular tstat. Plus it looks fantastic.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Andrew H",
+      "helpful_votes": 0,
+      "publication_date": 20190902
+    },
+    {
+      "title": "Beautiful Thermostat",
+      "text": "My first order of the GLAS thermostat was not a success, not sure if we received a faulty product or my husband didn\u2019t install it properly. So we gave this product a second try by returning the first thermostat and receiving a second one, and we are definitely in love/head over hills for this beautiful piece of tech. My home is much cooler than before, it\u2019s functional properly as it should.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Mecca",
+      "helpful_votes": 0,
+      "publication_date": 20190805
+    },
+    {
+      "title": "Excellent choice in thermostats!",
+      "text": "I use it with Microsoft's Cortana, and it works beyond my expectations. The phone app also works better than planned. The device is attractive and receives many compliments. I'm ordering a second one for my upstairs!",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Amazon Customer",
+      "helpful_votes": 0,
+      "publication_date": 20190503
+    },
+    {
+      "title": "great thermostat",
+      "text": "initially recieved unit with cracked screen. Spoke with support emailed picture and was seny teplacement immediately. Integrated well with G Home quite easily. still struggling to get cortana working even after cortana update, so no direct voice interface. all in all, superior product!",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Curt Gendler",
+      "helpful_votes": 0,
+      "publication_date": 20200110
+    },
+    {
+      "title": "No longer works with alexa",
+      "text": "I bought this to work with alexa smart home but it no longer supports that, making this thermostat a large waste of money and a regretful buy.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "Jack Stricker",
+      "helpful_votes": 0,
+      "publication_date": 20191223
+    },
+    {
+      "title": "Beautiful thermostat!",
+      "text": "This is the best looking thermostat on the market and it looks just as good in person as it does online. Maybe it isn't the smartest on the market but it just came out and it is smart enough... The looks definitely take this over the top for me!",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Jeremy S",
+      "helpful_votes": 2,
+      "publication_date": 20180922
+    },
+    {
+      "title": "Love the touch screen and motion sensor",
+      "text": "Very pleased with this purchase. Easy to set up a schedule for when you are home and when you are not. Reads air quality. Easy to sink with Alexa. Can tell Alexa to turn up or down or do by phone. It has motion sensor so even if the unit is set for AWAY if you walk by it it knows you are home and switches back to HOME MODE.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Chadd E. Slonaker",
+      "helpful_votes": 0,
+      "publication_date": 20200205
+    },
+    {
+      "title": "LOOKS FANTASTIC - Cant stop looking at it!",
+      "text": "Great looking! Very easy to use. I replaced my Nest thermostat with the Glas thermostat.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Amazon Customer",
+      "helpful_votes": 2,
+      "publication_date": 20190617
+    },
+    {
+      "title": "GLAS is awesone",
+      "text": "GLAS is a very sleek smart thermostat. It\u2019s very easy to use, and the display is crisp and clear. I had a four conductor wire in the wall, and their adapter (comes with thermostat) that installs in furnace for this case was easy to put in and worked without any headaches. Highly recommended...",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Kevin J Albert",
+      "helpful_votes": 0,
+      "publication_date": 20200209
+    },
+    {
+      "title": "Really nice",
+      "text": "As a constant fiddler with the thermostat, this has really helped out. It shows the air quality of the room as well and allows me to change the temperature from my phone. Great for when I come home from vacation to re-set the temp!",
+      "rating": 4.0,
+      "verified": true,
+      "author": "L.",
+      "helpful_votes": 0,
+      "publication_date": 20190223
+    },
+    {
+      "title": "Stopped working",
+      "text": "Had product installed for only few months and now screen does not work. Don\u2019t know how to contact seller for remedy",
+      "rating": 1.0,
+      "verified": true,
+      "author": "andrew",
+      "helpful_votes": 0,
+      "publication_date": 20200906
+    },
+    {
+      "title": "Very awesome",
+      "text": "Omg this is so cool. It works great with Alexa. It was easy to install also.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Daren",
+      "helpful_votes": 0,
+      "publication_date": 20190807
+    },
+    {
+      "title": "Love it!",
+      "text": "Just installed two GLAS thermostats, one upstairs and one downstairs. They perform great and look incredible! Easy to set up and connect to the app. Alexa/Echo skill integration was easy. These look so great. My HVAC guy was hooting when I turned on the breaker, said \"This is Tony Stark s#^* \". LOL.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Glenn E. Green",
+      "helpful_votes": 0,
+      "publication_date": 20191219
+    },
+    {
+      "title": "Gorgeous and smart!",
+      "text": "By far the best and most beautiful thermostat ever! Smart too!",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Raymundo A Lopez",
+      "helpful_votes": 0,
+      "publication_date": 20200915
+    },
+    {
+      "title": "Love this thing",
+      "text": "I love the way this thermostat looks and operates. It's unique, functional, and gets attention. I will definitely be buying another one soon for our second floor.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Kelly",
+      "helpful_votes": 0,
+      "publication_date": 20191014
+    },
+    {
+      "title": "AMAZING! Pays for itself!",
+      "text": "This product is simply amazing! I have had ZERO problems with this device, including the app. Looks amazing and will pay for itself in electricity/gas savings.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Spencer",
+      "helpful_votes": 0,
+      "publication_date": 20191125
+    },
+    {
+      "title": "The best Thermostat there is",
+      "text": "Love this product from the Modern design to the easy install. So pleased with the APP functionality, and lets not forget, it just looks so damn good. Great product will recommend this over other \"Smart\" thermostats on the market.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Ed C",
+      "helpful_votes": 0,
+      "publication_date": 20200821
+    },
+    {
+      "title": "Cortana will soon stop working.",
+      "text": "I loved it until they decided to drop Cortana support. Unacceptable.",
+      "rating": 4.0,
+      "verified": true,
+      "author": "Vin Latus",
+      "helpful_votes": 0,
+      "publication_date": 20190816
+    },
+    {
+      "title": "Works on any residential and most commercial systems",
+      "text": "As an HVAC service tech in the industry for 24 years I love this and it works all systems. Very easy to install and setup is automatic mostly with conformations. The air quality monitors, scheduled programming, and more is all here with GLAS.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Tony Montecinos",
+      "helpful_votes": 0,
+      "publication_date": 20190817
+    },
+    {
+      "title": "Easy installation",
+      "text": "Great product. I had this unit for 1 year now and it works great! CeO",
+      "rating": 5.0,
+      "verified": true,
+      "author": "CeO Enterprise",
+      "helpful_votes": 0,
+      "publication_date": 20200808
+    },
+    {
+      "title": "Easy to install and great display screen",
+      "text": "It wasn't that bad to install. Looks nice in house. Really great buy and worth the price. I would say try to install it yourself because paying an expert.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Adekunle O Shiwoniku",
+      "helpful_votes": 2,
+      "publication_date": 20190519
+    },
+    {
+      "title": "Savings",
+      "text": "The initial investment will be paid back through gas and electricity bill savings. It is so beautiful and easy to use.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Makena",
+      "helpful_votes": 0,
+      "publication_date": 20190823
+    },
+    {
+      "title": "Step into the future and cut your power/heating bill while you are at it.",
+      "text": "Haven't quite been able to get Alexa involved, and it does occasionally drop the network but with that being said it is amazing. Looks incredible, works as designed, and super easy to install.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Scott McDonald",
+      "helpful_votes": 0,
+      "publication_date": 20191218
+    },
+    {
+      "title": "Prime Day deal",
+      "text": "Not sure what people expect, but at a discounted price, this thing is great!",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Rotorcraft 2112",
+      "helpful_votes": 0,
+      "publication_date": 20190720
+    },
+    {
+      "title": "Defective Unit",
+      "text": "After having this thermostat professionally wired the unit only had one green light which blinked but it never came on. I am returning it for replacement.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "Leslie J. Armand",
+      "helpful_votes": 0,
+      "publication_date": 20201015
+    },
+    {
+      "title": "Manufacturer no longer supports",
+      "text": "No longer supported cannot be trusted and I had to remove.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "Erik Schott",
+      "helpful_votes": 0,
+      "publication_date": 20200118
+    },
+    {
+      "title": "Screen does not stay on",
+      "text": "Good product, but screen does not have an away mode or stay on, Only disappointing factor.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Derek W.",
+      "helpful_votes": 0,
+      "publication_date": 20200207
+    },
+    {
+      "title": "Customer Delight is Built in",
+      "text": "When we look at quality and design, this product sets the bar for excellence. American manufacturers would do well in studying the environment that led to this product.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Stephen Druley",
+      "helpful_votes": 0,
+      "publication_date": 20191201
+    },
+    {
+      "title": "Don't be dumb get one",
+      "text": "I love this thermostat it is far better than all the other smart thermostats",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Doughboy Soto",
+      "helpful_votes": 0,
+      "publication_date": 20190803
+    },
+    {
+      "title": "Satisfied",
+      "text": "So far so good works with alexa easy to install and looks great",
+      "rating": 4.0,
+      "verified": true,
+      "author": "Charvez Miles",
+      "helpful_votes": 0,
+      "publication_date": 20200128
+    },
+    {
+      "title": "Can't use via WiFi",
+      "text": "The App doesn't work at all, new users can't even sign up for the app, so you can't use via WiFi, and it's been several months",
+      "rating": 1.0,
+      "verified": true,
+      "author": "KamilJevon D.",
+      "helpful_votes": 0,
+      "publication_date": 20191224
+    },
+    {
+      "title": "Impressive for a smart thermostat newcomer",
+      "text": "Simple to use. Actually like it better than the ecobee. Very unique looking.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "John",
+      "helpful_votes": 0,
+      "publication_date": 20190719
+    },
+    {
+      "title": "thermostat problem",
+      "text": "i have a problem with the thermostat and i like to know if there is any kind of a warranty if so, where do I send it for a replcement",
+      "rating": 4.0,
+      "verified": true,
+      "author": "Ricardo",
+      "helpful_votes": 0,
+      "publication_date": 20200908
+    },
+    {
+      "title": "Works great",
+      "text": "Nice high tech design.. wish it could stay on instead of display going to sleep ....great features to monitor air quality..",
+      "rating": 5.0,
+      "verified": true,
+      "author": "David mcfarlane",
+      "helpful_votes": 0,
+      "publication_date": 20190727
+    },
+    {
+      "title": "Looks great",
+      "text": "Looks great and works with google home and cell phone app. Easy to set up and install.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "John E. Smith",
+      "helpful_votes": 0,
+      "publication_date": 20190811
+    }
+  ],
+  "product_meta": {
+    "title": "GLAS Smart Thermostat by Johnson Controls, Translucent OLED Touchscreen, Wi-Fi, Mobile App, Works with Amazon Alexa",
+    "description": "The GLAS smart thermostat by Johnson Controls is the perfect blend of form and function. Featuring a vibrant translucent OLED touchscreen, the clearly smart thermostat maintains a comfortable space while it saves energy and monitors air quality. For easy voice control, GLAS works with Amazon Alexa, Google Assistant. The GLAS by JCI smart thermostat app allows you to easily tweak the temperature from anywhere. Refer instruction manual before use.",
+    "rating": 4,
+    "feature_bullets": [
+      "Indoor air quality monitoring including humidity, total VOCs and equivalent CO2",
+      "Outdoor air quality reporting including allergens, air quality index and UV index. Compatability GLAS can control the following types of split or packaged units- Conventional, single stage up to 2H/2C, Heat pump, up to 2H/2C/2 Aux Heat. GLAS is compatible with the following HVAC configurations- Gas Heat, Oil Heat,Electric Heat,Ground-, Air-, and Water-source heat pumps, Dual-fuel support for Heat Pump",
+      "Works with Amazon Alexa and the Google Assistant",
+      "Beautiful user interface and a translucent OLED touchscreen",
+      "Program your own schedule or allow GLAS to do it for you using the integrated occupancy sensor to create a comfortable space when you are at home",
+      "Mobile connectivity with free GLAS by JCI smart thermostat mobile app available for smart phones and tablets on both iOS and Android",
+      "Control multiple GLAS thermostats in different locations with one mobile app",
+      "Remote software updates means the GLAS smart thermostat keeps getting better",
+      "Straightforward installation instructions and online compatibility checker",
+      "7 day scheduling allows you to schedule multiple events per day"
+    ],
+    "specifications": {
+      "Manufacturer": "Johnson Controls",
+      "Part Number": "SIO2-10000",
+      "Item Weight": "8 ounces",
+      "Product Dimensions": "1.18 x 5.51 x 5 inches",
+      "Item model number": "SIO2-10000",
+      "Batteries": "1 Lithium ion batteries required.",
+      "Is Discontinued By Manufacturer": "No",
+      "Thickness": "1.18 Inches",
+      "Item Package Quantity": "1",
+      "Included Components": "GLAS thermostat, Quick start guide, instructions, Paintable back plate,",
+      "Batteries Included?": "Yes",
+      "Batteries Required?": "Yes",
+      "Battery Cell Type": "Lithium Ion",
+      "Warranty Description": "2-year limited manufacturer's warranty, parts only, no labor.\u00a0 For more information see the GLAS website. https://glas.johnsoncontrols.com",
+      "ASIN": "B079NF3YC5",
+      "Customer Reviews": "4.0 out of 5 stars276 ratings4.0 out of 5 stars",
+      "Best Sellers Rank": "#48,386 in Tools & Home Improvement",
+      "Date First Available": "August 14, 2018"
+    },
+    "categories": [
+      "HVAC",
+      "Thermostats",
+      "Building Supplies",
+      "Tools & Home Improvement",
+      "Programmable",
+      "Thermostats & Accessories"
+    ],
+    "price": 217.79
+  }
+}

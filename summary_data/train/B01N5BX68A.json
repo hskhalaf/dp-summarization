@@ -1,0 +1,471 @@
+{
+  "website_summaries": [
+    {
+      "verdict": "With its high-end security measures, versatile storage options, and decent price, this NAS device is a worthy solution for your data needs.",
+      "pros": [
+        "Extremely secure encryption",
+        "Front panel lock",
+        "Easy to create a personal cloud service",
+        "Reliable hardware",
+        "Supports multiple backup options",
+        "Durable metal chassis"
+      ],
+      "cons": [
+        "Not the speediest NAS device on the market"
+      ],
+      "aspects": {},
+      "publication_date": "",
+      "rating": "",
+      "source": "bestreviews"
+    }
+  ],
+  "customer_reviews": [
+    {
+      "title": "WORST, the unit locks up if disk full - total data loss",
+      "text": "Unbelievable, but true, if you run the unit out of disk space the NAS will lock up, there is no way to access the OS or the data. Your only option is to do a complete reformat and install of the RAID. Meaning TOTAL data loss. The OS has no warnings or safeguards. This is with the latest firmware 4 as of Sept 2018. Buffalo Tech Support will tell you to send the drives out to a third party for data recovery! That is their best fix. So I'm doing the amazon return right now on both the units I purchased. Glad it happened when the units were only a week old so hopeful I can purchase something more normal.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "don schilling",
+      "helpful_votes": 65,
+      "publication_date": 20180919
+    },
+    {
+      "title": "Fan failure within 2 weeks of receipt",
+      "text": "I received the Buffalo TerraStation on July 17th, spent a long time setting up the device on my network, and uploaded almost half a terabyte of data to it. 12 days later, the fan failed, the machine became unresponsive, failing to respond even to the shutdown command (holding the power button for 3 seconds on the front of the machine, not through the portal, which of course failed to respond). This device is clearly not made well if components that are required to keep the drives healthy (preventing overheating) fail within two weeks of receipt.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "Nicholas Rice",
+      "helpful_votes": 36,
+      "publication_date": 20180729
+    },
+    {
+      "title": "Cooling fans failed after only 3 months",
+      "text": "Cooling fans failed after only 3 months and return window elapsed after 1 month and product support elapses after 2 months",
+      "rating": 1.0,
+      "verified": true,
+      "author": "Amazon Customer",
+      "helpful_votes": 15,
+      "publication_date": 20180720
+    },
+    {
+      "title": "Good product, but wish the NFS support was better.",
+      "text": "Works great with the exception of the NFS drivers. CIFS (Samba) mounts work great, but the NFS support has issues with long file names, especially those with unusual characters in them. Unfortunately the CIFS support doesn't seem to report directory updates to connected servers. Overall, the product does what it says on the box. Lots of storage with RAID5 data security, which is great, i just would have thought that since the box seems to be linux-based, that the NFS support would have been better. Just to deflect the immediate question, switching to NFS on kernel mode actually made the support worse. Still, for 12TB of usable storage, the price is pretty reasonably.",
+      "rating": 4.0,
+      "verified": true,
+      "author": "Jeff Naujok",
+      "helpful_votes": 10,
+      "publication_date": 20161124
+    },
+    {
+      "title": "Terrible Terrible Terrible",
+      "text": "Don't waste your money. While Buffalo's support was decent to a point, they refused to RMA or replace my failed unit. I wasted hours of my life trying to get their firmware and software to work and gave up. My fan gave out after a month of use, and because of that was outside of Amazon's return policy. I ended up pulling the drives from this unit and purchasing a OWC quad elite unit. SHOCKER! It works perfectly with no issues.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "colorplates",
+      "helpful_votes": 4,
+      "publication_date": 20190727
+    },
+    {
+      "title": "Excellent Product",
+      "text": "I loved this TeraStation: excellent engineering, looks cool, small form factor. I configured it to work as I initially intended a NAS to work. It works as described and designed. I inadvertently set a couple options wrong and was unable to correct it. Contacted manufacturer, unable to fix but restoring to factory default, and allowed to return with RMA without any issues.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Maudiib",
+      "helpful_votes": 3,
+      "publication_date": 20181230
+    },
+    {
+      "title": "Easiest NAS setup! Love it",
+      "text": "I have set up several different NAS in my time, and this was by far the easiest. Price point was spot-on and convenience of having drives already installed and formatted was excellent. This little guy makes less noise than my Cisco switch - and I was making backups and mapping shares to the network files within an hour. Note to others: I kept receiving security credential error when attempting to map drive in windows. After beating my head into the wall - finally found that problem was because user had PIN log on. Once we logged on with full password, issue was gone. That's a Microsoft issue - not NAS. Great product. Highly recommend.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "MP",
+      "helpful_votes": 4,
+      "publication_date": 20190319
+    },
+    {
+      "title": "This is an amazing little NAS system for my personal needs",
+      "text": "This is an amazing little NAS system for my personal needs. My girlfriend and I can both backup our computers over our home network and we can access our files remotely if needed. Super easy to set up also. Love it.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "iHeli",
+      "helpful_votes": 7,
+      "publication_date": 20170820
+    },
+    {
+      "title": "Not compatible with Mac OS, period",
+      "text": "This drive will not mount where you expect it (should be /Volumes ends up somewhere else very obscure). Called support, they said it can be changed. Also, is completely incompatible with rsync. For a backup storage server, this is a very bad decision. When mounted, it unmounts spontaneously at random times and you won't be able to reconnect the drive unless you go in their custom utility. Useless for anyone managing a network.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "Naomi",
+      "helpful_votes": 0,
+      "publication_date": 20200313
+    },
+    {
+      "title": "Easy Set Up - Very Quiet.",
+      "text": "The unit was delivered today and it was exactly what I expected. No issues at all accessing from Windows 10 as I have read here. Mapping a network drive to it was easy using the Windows interface. No special drivers needed. The set up was simple. From the time the unit was delivered to the time I started copying data do it was about 40 minutes. Excellent web based user interface, It is very quiet - virtually silent. This is a software-based RAID but I knew that from reading the reviews. Time will tell of course on how the unit hold up but this is perfect for my needs.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Gregory A. Bennett",
+      "helpful_votes": 0,
+      "publication_date": 20180224
+    },
+    {
+      "title": "Dont buy this",
+      "text": "I finally took this out of the box copied my files to it and within a month of running it has crashed",
+      "rating": 1.0,
+      "verified": true,
+      "author": "JAKE",
+      "helpful_votes": 0,
+      "publication_date": 20200216
+    },
+    {
+      "title": "After turning it off keeps making spinning noise",
+      "text": "If you turn off the Tera-Station but do not unplug the power cord, it keeps on making a very annoying spinning noise. If you turn the drive on stops the pitchy noise. If you turn off the drive but keep power cord on It keeps on spinning for ever - as long as you have the power cord plugged into the electric outlet",
+      "rating": 1.0,
+      "verified": true,
+      "author": "AF",
+      "helpful_votes": 0,
+      "publication_date": 20190802
+    },
+    {
+      "title": "LOVE IT! Period!",
+      "text": "Excellent and easy to setup and use across the network - home or work in fact. Can't wait to get my 2nd one soon for perfect redundancy in my home.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Revy-D",
+      "helpful_votes": 0,
+      "publication_date": 20190505
+    },
+    {
+      "title": "Uploads Impossibly Slow",
+      "text": "I am getting about 100kbps uploads to this thing. Getting 40MBPS to a Synology NAS on the same infrastructure. Tried literally every trick, changed out all connectivity. This thing is probably just a dud, pending any support response from Buffalo, returning it (in the nick of time).",
+      "rating": 1.0,
+      "verified": true,
+      "author": "sweater shopper",
+      "helpful_votes": 0,
+      "publication_date": 20190301
+    },
+    {
+      "title": "Works great!",
+      "text": "Ive been using Buffalo Tech products for 15 years. I use them for a backup target for my backups from Veeam. These things are perfect for archival or backup storage.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "JoeD",
+      "helpful_votes": 0,
+      "publication_date": 20190411
+    },
+    {
+      "title": "So far so good.",
+      "text": "So far so good. Resting comfortably with the buffalo terastation 12TB rack NAS storage keeping my files secure.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Jeff Woolums",
+      "helpful_votes": 0,
+      "publication_date": 20190318
+    },
+    {
+      "title": "Not NAS at All",
+      "text": "I really wanted this to work. Sadly this unit requires very frequent power cycling to remain accessible to the network.",
+      "rating": 2.0,
+      "verified": true,
+      "author": "S. Lowery",
+      "helpful_votes": 0,
+      "publication_date": 20200805
+    },
+    {
+      "title": "Excellent for small business or power users",
+      "text": "I've had this for about a year now and I have had no real issues so far. Easy setup, multiple different folder types for different file systems. Also easy to setup users for specific permissions, logging, and notification. I use it for storing video and photo content and as a backup for ESXI virtual machines. Plenty of storage for both. My only complaint is I have not found a way to monitor its performance with disks, network connectivity etc. within the built in webpage.",
+      "rating": 4.0,
+      "verified": true,
+      "author": "Brandon",
+      "helpful_votes": 0,
+      "publication_date": 20191105
+    },
+    {
+      "title": "Space saver",
+      "text": "This has allowed us to digitize all of our movies and music and make them available in one place for the family. It is easy to set up and use.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Amazon Customer",
+      "helpful_votes": 0,
+      "publication_date": 20190819
+    },
+    {
+      "title": "FIVE STARS",
+      "text": "Couldn't ask for a better NAS. Great bargain. I'll die before I fill this 12TB NAS drive up.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Amazon Customer",
+      "helpful_votes": 0,
+      "publication_date": 20191104
+    },
+    {
+      "title": "Great home NAS device",
+      "text": "This is a great NAS device, easy setup with RAID 5 pre-setup and has worked great for me so far",
+      "rating": 5.0,
+      "verified": true,
+      "author": "J",
+      "helpful_votes": 2,
+      "publication_date": 20180216
+    },
+    {
+      "title": "Best bang for the buck!",
+      "text": "I'm using this unit as an iSCSI backup target in our vmware environment. Super easy to setup, robust, fast and reliable.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "phil_asu",
+      "helpful_votes": 0,
+      "publication_date": 20191231
+    },
+    {
+      "title": "Don\u2019t do it",
+      "text": "Tried to transfer 10 GiB of data via iSCSI and 12 hours later the transfer was at 20% I called support in the AM and opened a case. At this point, 2 days later, I still haven\u2019t heard. I\u2019ve boxed it up and sent it back",
+      "rating": 2.0,
+      "verified": true,
+      "author": "Michael Santoro",
+      "helpful_votes": 0,
+      "publication_date": 20200717
+    },
+    {
+      "title": "Disappointed in capacity",
+      "text": "I purchased the 16TB NAS assuming I would have about 12TB in RAID-5. In fact, the 4 drives are 3693.9GB for a total of 14775.60GB/1024 = 14.43TB. I actually end up with 10.8TB in RAID 5",
+      "rating": 3.0,
+      "verified": true,
+      "author": "Keith Lister",
+      "helpful_votes": 0,
+      "publication_date": 20190508
+    },
+    {
+      "title": "Inexpensive NAS",
+      "text": "Very easy to setup, works well as a quick NAS for backing up our server.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Bill H",
+      "helpful_votes": 0,
+      "publication_date": 20181022
+    },
+    {
+      "title": "Work fine.",
+      "text": "Initial set up was a bit tricky. I had to configure it twice. It appears to work well now.",
+      "rating": 4.0,
+      "verified": true,
+      "author": "EDP",
+      "helpful_votes": 0,
+      "publication_date": 20190221
+    },
+    {
+      "title": "Easy Setup & Configuration",
+      "text": "I\u2019ve been very pleased with the ease of setup and the performance of the device. The added capability of accessing the system remotely is a big benefit.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "RJ1956",
+      "helpful_votes": 0,
+      "publication_date": 20190624
+    },
+    {
+      "title": "Quick and easy",
+      "text": "Quick and easy to mount and operate. Works as you would expect. I wish it had more than 1 ethernet port, although its not a huge deal.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "V",
+      "helpful_votes": 0,
+      "publication_date": 20181031
+    },
+    {
+      "title": "Great for a small business",
+      "text": "So far this item has worked well for my business. I have has some issues using the web interface remotely do to the lack of instruction but I am working through that.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Lee",
+      "helpful_votes": 0,
+      "publication_date": 20191226
+    },
+    {
+      "title": "Recommend for Windows 10 backups",
+      "text": "Made in Japan...not China. Easy to configure for Windows 10 backups. Use driving mapping feature to configure your PCs.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Amazon Customer",
+      "helpful_votes": 0,
+      "publication_date": 20200225
+    },
+    {
+      "title": "Buffalo 3410RN",
+      "text": "Easy to set up and install. Seamlessly integrated with my existing active directory. The management interface is very intuitive.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Jack",
+      "helpful_votes": 0,
+      "publication_date": 20200221
+    },
+    {
+      "title": "Love these Buffalo drives!",
+      "text": "I just love these Buffalo drive for backup on small Office backups. The unit arrived immediately.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Frank R Lindley",
+      "helpful_votes": 0,
+      "publication_date": 20190402
+    },
+    {
+      "title": "Basic but ok",
+      "text": "Its basic and not the fastest and the android app is a bit lacking. but for the cost you cannot beat it.",
+      "rating": 4.0,
+      "verified": true,
+      "author": "Hof",
+      "helpful_votes": 0,
+      "publication_date": 20180614
+    },
+    {
+      "title": "It's a great NAS device",
+      "text": "It's a great NAS device, I'm happy with its embedded features torrenting and others and it truly meet my expectations",
+      "rating": 5.0,
+      "verified": true,
+      "author": "John Thomas",
+      "helpful_votes": 0,
+      "publication_date": 20170928
+    },
+    {
+      "title": "All but webaccess great..",
+      "text": "Great storage system but will not allow web access, if web access worked would be a great system.. And yes I did call customer support to no avail, just passed the buck...",
+      "rating": 4.0,
+      "verified": true,
+      "author": "Keith Poissot Jr.",
+      "helpful_votes": 4,
+      "publication_date": 20150624
+    },
+    {
+      "title": "Horrible customer service/support from this company",
+      "text": "Horrible customer service/support from this company. I will never buy another product from this company again and would recommend you look at other vendors with better products and support. My unit failed and had to pay a lot of money to recover my data (Buffalo's recommendation) and now they are not willing to take my unit back.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "Amazon Customer",
+      "helpful_votes": 3,
+      "publication_date": 20180706
+    },
+    {
+      "title": "Slow transfer rate",
+      "text": "Transfer rate is slow. The speed is only 44MB/s in raid0 on a wired gigabit network. Other than the slow speed this thing works great.",
+      "rating": 3.0,
+      "verified": true,
+      "author": "Patrick Bumgardner",
+      "helpful_votes": 4,
+      "publication_date": 20160921
+    },
+    {
+      "title": "Eh its pretty cheap and the functionality is worth it",
+      "text": "says 16TB advertised as 16 TB (terra byte) however format capacity says 12 when you are in the system Volume indicators all say 12TB - u send the wrong item or what? there are no models that are advertised as 12TB so i am assuming volume stripped set recovery and mount image for software boot etc. takes up the rest? Eh its pretty cheap and the functionality is worth it. I'm already using it and can't wait for a replacement enjoy the tip.",
+      "rating": 3.0,
+      "verified": true,
+      "author": "Amazon Customer",
+      "helpful_votes": 0,
+      "publication_date": 20180402
+    },
+    {
+      "title": "Five Stars",
+      "text": "Great product for the price. Highly recommended for small businesses.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Dental Smiles At Dacula",
+      "helpful_votes": 0,
+      "publication_date": 20150529
+    },
+    {
+      "title": "Its a dedicated remote drive and it does that just fine",
+      "text": "I like Buffalo equipment seems to be running very well. Does not seem to be quite the same as the home link stations. (media center stuff). Its a dedicated remote drive and it does that just fine",
+      "rating": 5.0,
+      "verified": true,
+      "author": "gary",
+      "helpful_votes": 0,
+      "publication_date": 20180317
+    },
+    {
+      "title": "It works",
+      "text": "It works. Not much more to say. It just works. I use it mainly as a back-up device for my windows 7 machines on my home network and it does the job I purchased it for.",
+      "rating": 4.0,
+      "verified": true,
+      "author": "MikePeg14",
+      "helpful_votes": 0,
+      "publication_date": 20150814
+    },
+    {
+      "title": "Nice but...",
+      "text": "Nice unit, but the installation program is not Windows 10 friendly. I was able to work around it. It still has problems connecting to Amazon S3 for backup and according to tech support it is some sort of widespread firmware problem that has been escalated to corporate.",
+      "rating": 4.0,
+      "verified": true,
+      "author": "Gary Moshier",
+      "helpful_votes": 0,
+      "publication_date": 20161113
+    },
+    {
+      "title": "Buggy Firmware, Poor Support",
+      "text": "The NAS kept disconnecting from the network during large file transfers. After speaking with a rep I was told it would be fixed in an upcoming Firmware update, with no ETA... Steer clear of this one folks, don't let the price fool you.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "Brian",
+      "helpful_votes": 22,
+      "publication_date": 20160601
+    },
+    {
+      "title": "Great NAS for small office",
+      "text": "Great product; been buying Buffalo TerraStations for a 8-9 years, never had a failure all are still running.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Jeff R",
+      "helpful_votes": 0,
+      "publication_date": 20170325
+    },
+    {
+      "title": "It's like a month old so it's not from drive failure",
+      "text": "Lost all my data after we lost power. It shows still there but all settings lost and having to manually eject drives and try to recover. WTheck! It's like a month old so it's not from drive failure.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "J V",
+      "helpful_votes": 3,
+      "publication_date": 20180525
+    }
+  ],
+  "product_meta": {
+    "title": "BUFFALO TeraStation 3410DN Desktop 16 TB NAS Hard Drives Included, black",
+    "description": "Style:TeraStation 3410 Desktop 4 Drive Bays| Capacity:16 TBBuffalo's TeraStation 3410DN is a four-drive desktop business class value storage solution with NAS-grade hard drives included This device features advanced components and solutions At an entry level price - ideal for small offices and professional users requiring cost-effective network storage Users can easily share and safeguard data with reliability and RAID data protection while the powerful dual-core Annapurna processor provides high performance operation during file transfers and everyday NAS functions Additional business class features include active Directory support disk quota support share level replication server failover support Duplex system firmware dual Gigabit Ethernet ports hot-swap hard drives iSCSI targeting USB 3 0 accessory support and eleven licenses of nova backup - BUFFALO Edition provides a professional backup & Data recovery solution",
+    "rating": 4.1,
+    "feature_bullets": [
+      "Pre-tested NAS-grade hard drives included \u2013 with RAID pre-configured saving you time and money",
+      "Value-focused Business-ready NAS without breaking the bank",
+      "Integrated Hybrid Cloud Backup / Private Cloud / iSCSI Support",
+      "3-year wty with 24/7 North American-based support",
+      "Compatible with Amazon S3, Dropbox, Dropbox Business, Microsoft Azure and OneDrive",
+      "Remote Management System save time & resources by managing multiple devices from a single console",
+      "16 TB \u2013 4 drives included - ships in RAID 5 = 12 TB usable capacity",
+      "TAA compliant - Made in Japan",
+      "Free personal cloud for access to from any PC & MAC computer tablet and smartphone"
+    ],
+    "specifications": {
+      "Number of USB 3.0 Ports": "2",
+      "Brand": "BUFFALO",
+      "Series": "TeraStation 3410DN",
+      "Item model number": "TS3410DN1604",
+      "Hardware Platform": "PC, Mac",
+      "Operating System": "Linux",
+      "Item Weight": "15.43 pounds",
+      "Product Dimensions": "9.05 x 6.69 x 8.46 inches",
+      "Item Dimensions  LxWxH": "9.05 x 6.69 x 8.46 inches",
+      "Color": "Black",
+      "Manufacturer": "BUFFALO",
+      "ASIN": "B01N5BX68A",
+      "Is Discontinued By Manufacturer": "No",
+      "Date First Available": "December 31, 2016",
+      "Customer Reviews": "4.1 out of 5 stars138 ratings4.1 out of 5 stars",
+      "Best Sellers Rank": "#30 in Network Attached Storage"
+    },
+    "categories": [
+      "Computers & Accessories",
+      "Devices",
+      "Data Storage",
+      "Electronics",
+      "Network Attached Storage"
+    ],
+    "price": 810.99
+  }
+}

@@ -1,0 +1,821 @@
+{
+  "website_summaries": [
+    {
+      "verdict": "MSI's GeForce RTX 2060 Ventus OC Edition graphics card delivers fluid 1080p and 1440p gaming performance, but the GeForce RTX 2060 Founders Edition is cheaper and has a VirtualLink port.",
+      "pros": [
+        "Excellent performance for 1080p and 1440p gaming",
+        "Quiet cooling",
+        "Can be overclocked to match pricier GeForce RTX 2060 models, in our testing"
+      ],
+      "cons": [
+        "No VirtualLink port",
+        "Backplate is plastic, not metal"
+      ],
+      "aspects": {},
+      "publication_date": 20190222,
+      "rating": 8.0,
+      "source": "pcmag"
+    }
+  ],
+  "customer_reviews": [
+    {
+      "title": "Amazing!",
+      "text": "I replaced my old GTX 970, so I knew the jump up would be drastic. I have Shadow of the Tomb Raider and this card really makes a difference on newer games too. I love this card, and it's cheaper than the GTX 1070 Ti I was going to order until I saw that RTX 2060 was going to be released.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Chris B.",
+      "helpful_votes": 52,
+      "publication_date": 20190123
+    },
+    {
+      "title": "Colored Dots - artifact-like bugs on",
+      "text": "I trust MSI Products but this card let me down, and am very sad ,When I received the shipment I was happy and when the card was installed in the computer and then became a very good computer, but when it was run the disaster happened and I became very sad and broken :(",
+      "rating": 1.0,
+      "verified": true,
+      "author": "hashim",
+      "helpful_votes": 45,
+      "publication_date": 20190223
+    },
+    {
+      "title": "Not bad so far",
+      "text": "Pros: solid, easy to mount, handles my 3 1440p monitors just fine, huge difference between what I had (motherboard only) Cons: a real pain to down load drivers, didn't come with driver cd that it says it comes with; even the instal and setup instructions only called for the cd, you cant register the product using the instructions provided by msi and their website and english suck. If you get this go straight to nvidias web site and manually download the gforce experience app and li t takes care of the rest. I have only had this card for 4 days but so far so good! For the price, and options this card provides vs. Others I would buy again.",
+      "rating": 4.0,
+      "verified": true,
+      "author": "Husband",
+      "helpful_votes": 31,
+      "publication_date": 20190124
+    },
+    {
+      "title": "Worked perfect and way increased my system performance",
+      "text": "So after looking at several reviews showing that all of the RTX 2060 w/ 6GB of DDR6 ram where averaging within 1-3 frames of each other i saw no reason to get the more expensive versions of the same card. This plugged right in and downloaded the drivers without issues. This preformed really well reaching the expected fps in said reviews and visually much better than my previous card. Temp wise its 70-73\u00b0C and boosts to around 1995mhz core without any tuning in a HAF case. Recommended!",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Andrew D",
+      "helpful_votes": 30,
+      "publication_date": 20190210
+    },
+    {
+      "title": "Great card runs great!",
+      "text": "The card was easy to install. It's very quiet. Runs Battlefield V great. I cranked up resolution to 4K with medium/high setting and it ran flawlessly. Approx 50-60 fps. The detail was incredible. I did notice the warm air exiting out my ventilation areas. It will warm your room up when running higher settings... :D Very pleased!",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Tricia",
+      "helpful_votes": 25,
+      "publication_date": 20190126
+    },
+    {
+      "title": "Won't Power-up",
+      "text": "I plugged this MSI video card into a PCIe v3 x16 slot on an MSI motherboard and it is not recognized by Ubuntu or Windows. I tried two different modular power supplies and 6 different PCIe 8-pin power cables to no avail. I am returning to Amazon, and have ordered a replacement. I will update this review base on the replacement experience. First experience with MSI is not that great.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "Dave",
+      "helpful_votes": 3,
+      "publication_date": 20190909
+    },
+    {
+      "title": "Excellent Mid-Range Graphics Card",
+      "text": "I was looking for a GPU that could power games at 1440p/60fps and was around the price point of the 2060 reference card. This GPU was the perfect fit for price, specs, and style I was looking for in my build. Using MSI Afterburner to tweak the fan curves, it runs quiet and cool around 60c when under 100% utilization. The only negative about this card is that there is minor coil whine when under heavy load. But, gaming with headphones makes this a non-issue for me. \u2022 The Division 2 - 80+ FPS (Custom) \u2022 Forza Horizon 4 - 90+ FPS (Ultra) \u2022 Hellblade: Senua's Sacrifice - 70+ FPS (Ultra)",
+      "rating": 5.0,
+      "verified": true,
+      "author": "emendoza",
+      "helpful_votes": 3,
+      "publication_date": 20190622
+    },
+    {
+      "title": "I like it",
+      "text": "So far so good. The card is testing 30-40% faster than my MSI Gaming 1060 6GB card @ 1440p. I can now play the few games I ever play in 1440p with 75+ fps in mostly ultra settings. Card is running a bit too hot for my blood but still in safe levels. It's hitting low to mid 70s right now, but adjusting my fan curve should help. My old card ran much cooler though evn at 100% utilization",
+      "rating": 4.0,
+      "verified": true,
+      "author": "Travis Wilson",
+      "helpful_votes": 3,
+      "publication_date": 20190327
+    },
+    {
+      "title": "Excellent Card, solid price",
+      "text": "I'm very happy with this card. I use it for gaming in both Linux and Windows. It gets very good performance in QHD and is able to run my 144hz monitor easily. For reference I play GTA V, Far Cry 4 and Minecraft (with Optifine and shader packs). I am quite please at the frame rates and throughput I get.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Will B.",
+      "helpful_votes": 2,
+      "publication_date": 20190708
+    },
+    {
+      "title": "And six weeks later, it's dead",
+      "text": "Was going great there for awhile. Great image quality across two screen at max resolution. Then the PC started restarting for no reason. It went on until I was able to work my way in to accepting the fact that the display card was the cause of 50 or so random restarts and several restart loops. Best get the product insurance if you are going to make this purchase/ Getting the same card model from a different manufacturer.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "Jonny Ola",
+      "helpful_votes": 2,
+      "publication_date": 20190801
+    },
+    {
+      "title": "its a video card.",
+      "text": "I replaced my son's dead GTX 970 with this thing. It is better than the 970. The 970 was forever years old. If this thing lasts as long as the 970 did I'll be a happy camper. RTX is kind of a sham though, no one gives a crap about ray tracing. The developers are showing that.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Jeffrey Cain",
+      "helpful_votes": 2,
+      "publication_date": 20190518
+    },
+    {
+      "title": "Great card. Runs quietly and smoothly.",
+      "text": "I upgraded from a 1060 3GB. Needed more horsepower for Anthem/Division 2 etc. The 2060 shreds through games. Stable 60 FPS and the fans don't get loud either. I didn't need to overclock at all. My rig still has an old i5-2500 and 16gb of RAM. The first card didn't make it. I live in a bad neighborhood and have also live at a 1/2 address which sometimes confuses the package carrier. Amazon quickly sent another card and it was delivered a week earlier than expected. Great product. Great business. Would recommend this card for anyone looking to add some real gaming power to their rig.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Taylor",
+      "helpful_votes": 2,
+      "publication_date": 20190313
+    },
+    {
+      "title": "Great card, poor ray-tracing performance",
+      "text": "Great mid-range card for gaming (I run Titanfall2 maxed out at 1440p and it hits 100 FPS consistently). The ray-tracing engine isn't that great, but that's to be expected for first-gen RTX technology. Leaving the RTX stuff out, this is one of the best mid-range bang-for-the-buck cards currently available.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "skipjack_clipper",
+      "helpful_votes": 0,
+      "publication_date": 20190802
+    },
+    {
+      "title": "Better then GTX 1070 worth it.",
+      "text": "I have a ryzen 3 could with 24 GB of RAM and this graphics does most of the work. It run GTA 5 around 60 fps to 50 fps sometimes with high settings. It can also run GTA 5 on 4K around 25-30 fps. I believe this graphics card is totally worth it I've enjoyed gaming all around. League of legends on 60fps 4k, PUBG 60 high settings, team fortress 2 60fps 4k, fortnite 1080p highest settings, Battlefield 5 4k and I'm sure it will run the current games just fine. I'll be trying out resident evil 2 later on.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Fernando N.",
+      "helpful_votes": 2,
+      "publication_date": 20190515
+    },
+    {
+      "title": "Good Upgrade",
+      "text": "I upgraded from a GTX 1060 to this RTX 2060. It's a great graphics card, I can run games on the highest settings at around 60fps and can get up over 100 if I just turn them down a little while running an i7 7700k. I'm all about the frame rate so this was a great upgrade. Only problem I had, which honestly doesn't really matter these days with driver downloads on the internet, was that it didn't come with an installation disc. The package said that it would but again it doesn't matter much. Great product!",
+      "rating": 4.0,
+      "verified": true,
+      "author": "Mitch",
+      "helpful_votes": 0,
+      "publication_date": 20190622
+    },
+    {
+      "title": "Great Card",
+      "text": "This is a great card that wont break the bank. Plays any game on max 1080 with no issues. GTA ultra getting 115 fps at all times. Quality card at a great price. Thanks.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Toby Wright",
+      "helpful_votes": 2,
+      "publication_date": 20190430
+    },
+    {
+      "title": "worth",
+      "text": "I came from abroad and when I bought it, My heart is very worried, after all, it is another country's commodity.After a month of delivery and transshipment, I received the goods.Luckily. After it was loaded into the computer, it worked well. Now it has been in use for more than a month without any problems. Sorry, my English is poor.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "xiao",
+      "helpful_votes": 3,
+      "publication_date": 20190917
+    },
+    {
+      "title": "Easy to install",
+      "text": "I haven't found a single game that challenges this card. It can be overclocked significantly, but I haven't had the need to do that. It's as future proof as any other video card, and I think that it will serve my needs for a long time to come.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Daryl",
+      "helpful_votes": 0,
+      "publication_date": 20190618
+    },
+    {
+      "title": "It's a beast!",
+      "text": "This thing is a beast, make sure your computer power supply can handle it or expect to purchase a new PSU as well. My son purchased it because he was getting lag with Star Wars Jedi Fallen Order and now has all the settings set to the max with no stutter. Can't wait to see what future games are able to do with the features of this video card.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "James Zawacki",
+      "helpful_votes": 0,
+      "publication_date": 20200305
+    },
+    {
+      "title": "MSI RTX 2060",
+      "text": "Purchased early in the year when RTX were first coming out. It has been awesome from day one compared to my old GPU. I've not been disappointed with its performance on any of the games I play.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Brian",
+      "helpful_votes": 0,
+      "publication_date": 20190907
+    },
+    {
+      "title": "Free game code didn't work",
+      "text": "Great card. Went with MSI over EVGA because MSI version came with a free copy of Wolfenstein. The code didn't work and no one at MSI would help me out. SO I learned my lesson and will stick with EVGA in the future.",
+      "rating": 2.0,
+      "verified": true,
+      "author": "Jonathon Cornwell",
+      "helpful_votes": 0,
+      "publication_date": 20190817
+    },
+    {
+      "title": "Need good wattage and a good monitor",
+      "text": "Ok so make sure your power supply is at a high enough wattage and you wont get high frames and graphics with a cheap monitor. I am using a 1080p with 144hz because I care more of the frames than the graphics.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Angelo",
+      "helpful_votes": 0,
+      "publication_date": 20191210
+    },
+    {
+      "title": "Great Card! Tad Spendy",
+      "text": "Upgraded from a GTX 960. Very noticeable quality improvement between these cards (1080p monitor). Fans are mostly quite. Had a bit of trouble with temps until I realized my overall fan air flow in the case was not very good. Fixed that and this card is mostly cool and quiet.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "J. Hudson",
+      "helpful_votes": 0,
+      "publication_date": 20190315
+    },
+    {
+      "title": "Chugging along.",
+      "text": "Sent one of these to my buddy for a wedding gift in October and he hasn't complained about its quality and it hasn't died so take that for what it's worth. Yes I realize graphics cards usually work to destroy marriages. Irony is a thing with us.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Syl Cat",
+      "helpful_votes": 0,
+      "publication_date": 20191203
+    },
+    {
+      "title": "Great Product for the Price!",
+      "text": "Great product for the price! Easy to install and setup. Have not had any problems and stayed with MSI as my old card was the same maker. One thing to note, for higher frame rates you will need a to get a DisplayPort cable M/M.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "KFurs",
+      "helpful_votes": 0,
+      "publication_date": 20190502
+    },
+    {
+      "title": "Works!",
+      "text": "Had it installed for a few months now and no issues so far. Most demanding stuff I played on the 2060 worked smoothly (Borderland 3, Fortnite, Adobe premier pro) and while connected to 2 monitors (one is 144Hz).",
+      "rating": 5.0,
+      "verified": true,
+      "author": "TAZ",
+      "helpful_votes": 0,
+      "publication_date": 20200117
+    },
+    {
+      "title": "minor glitches (make sure dp ports are secure )",
+      "text": "I originally had minor graphical glitches but it was due to poor placement of cable. after having this a while Im starting to like the card and have not experienced any glitches outside that first day",
+      "rating": 3.0,
+      "verified": true,
+      "author": "GTFO",
+      "helpful_votes": 0,
+      "publication_date": 20191130
+    },
+    {
+      "title": "Gives over 150 fps on the vast majority of games including AAA games like Call Of Duty: MW (2019)",
+      "text": "I admittedly only used raytracing on very new titles like MW and Battlefront 2 and only one older title, Minecraft. Temps are very good being about 40 degrees on idle (after you replace the bad thermal paste they preinstalled it with, use something like MX-4 and you'll et these temps). Performance is godlike after you use MSI Afterburner with afterburner I got 7000Mhz of memory and 1365 core clock speed for pressing ONE BUTTON!",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Amazon Customer",
+      "helpful_votes": 0,
+      "publication_date": 20200719
+    },
+    {
+      "title": "Great Buy!",
+      "text": "Great purchase to revive an aging gaming computer. Easy to install. You will need to download the updated drivers. This does not come with software. Drivers were easy to find and install.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Michael McManama",
+      "helpful_votes": 0,
+      "publication_date": 20200224
+    },
+    {
+      "title": "Great card",
+      "text": "Great graphics card, I can play most recent games at max settings 144fps.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "J D",
+      "helpful_votes": 0,
+      "publication_date": 20190908
+    },
+    {
+      "title": "Awesome for the cost!",
+      "text": "I think this graphics card is great thus far! I haven\u2019t fully used it for video editing yet but it\u2019s so much faster than what I was using before.. miles beyond what I could do before. The only thing I wish I looked into more about this was the ports that connects up to the monitors. There\u2019s 1 HDMI here and 3 display ports. Had a dual monitor set up and couldn\u2019t use it until I had the correct cords. Great purchase!",
+      "rating": 4.0,
+      "verified": true,
+      "author": "Tommy F",
+      "helpful_votes": 0,
+      "publication_date": 20200120
+    },
+    {
+      "title": "Great performance for dollar",
+      "text": "This might not be the top of the line GPU in the market but it can provide some incredible performance and high frame rates. Along with some adequate airflow I have yet to try and get this card to go over 34 degrees Celsius. Love it for rendering 3D models",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Jake L.",
+      "helpful_votes": 0,
+      "publication_date": 20200122
+    },
+    {
+      "title": "Happy and satisfied with this card",
+      "text": "So far been able to run my games on max settings with no issues. Also came with the wolfienstien game that comes out July 25th.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Andy S.",
+      "helpful_votes": 0,
+      "publication_date": 20190610
+    },
+    {
+      "title": "Great vr card",
+      "text": "Great upgrade over my gtx 1060 3gb for vr for sure.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Nick",
+      "helpful_votes": 3,
+      "publication_date": 20190411
+    },
+    {
+      "title": "I Love This Card",
+      "text": "I only play simulation and strategy games, so this is overkill for me, but I am so impressed with this card. It is very quiet. It will be a great card for VR when I decide to venture into that.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "jstrdog",
+      "helpful_votes": 0,
+      "publication_date": 20190728
+    },
+    {
+      "title": "Gets the job done.",
+      "text": "I've had no issues with this card. I can play next-gen games at 4k and very high quality at decent framerates. Couldn't really ask for more, especially at this price point.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Amazon Customer",
+      "helpful_votes": 0,
+      "publication_date": 20190814
+    },
+    {
+      "title": "No Free Game Code",
+      "text": "The gaming card is great, but unfortunately the free game codes are a joke. We still have not reveived them and everyone at Amazon is incapable of knowing how to help us.",
+      "rating": 2.0,
+      "verified": true,
+      "author": "Missy C",
+      "helpful_votes": 0,
+      "publication_date": 20191228
+    },
+    {
+      "title": "It would've been the perfect card for me, however the PCB was a bit bent",
+      "text": "That's right. I can guarantee that the bending was caused by the plastic shroud over the PCB, not shipping damage. Look out.",
+      "rating": 3.0,
+      "verified": true,
+      "author": "Pat. Jarvis",
+      "helpful_votes": 0,
+      "publication_date": 20190926
+    },
+    {
+      "title": "No complaints at all",
+      "text": "This card has been great over the past few months. No issues at all. very quiet.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Jason Bezenah",
+      "helpful_votes": 0,
+      "publication_date": 20190718
+    },
+    {
+      "title": "Amazing performance for price!",
+      "text": "This is a great value card for high-end 1080p gaming and moderate to 60 fps on 1440p. Would definitely recommend. Looks amazing and runs quiet.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "David",
+      "helpful_votes": 0,
+      "publication_date": 20190528
+    },
+    {
+      "title": "Solid Upgrade From A 1060/580",
+      "text": "Performs as expected on par with a 1070ti. The stock cooler keeps thermals below 65c under max load in a case with decent airflow. Aesthetically pleasing and even includes a backplate for a nice final touch. Final Thoughts: Going from an RX 480 saw a massive leap in performance. Definitely worth it for the meager 350$ price tag.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Kyle Davis",
+      "helpful_votes": 0,
+      "publication_date": 20190211
+    },
+    {
+      "title": "GTX 980 to RTX 2060",
+      "text": "Personally didn't notice a lot of change other than the fan noise on this card when running any graphically detailed game. I personally think I should have gone with at least the RTX 2070 or even GTX 1070 instead.",
+      "rating": 4.0,
+      "verified": true,
+      "author": "Kyle H.",
+      "helpful_votes": 0,
+      "publication_date": 20190726
+    },
+    {
+      "title": "Cheap, but not worth it.",
+      "text": "Sure it's cheap, but the ventus models in general suffer from too much noise and high temps to make the cheaper price tag worthwhile.",
+      "rating": 3.0,
+      "verified": true,
+      "author": "Chanho Woo",
+      "helpful_votes": 0,
+      "publication_date": 20190815
+    },
+    {
+      "title": "Good, but some coil whine is present",
+      "text": "Coil whine comes and goes based on what's displayed on the screen while playing, outstanding performance and acoustics using it in an ITX build temp would hover around 65-70 under full load while fan spins at 30%.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Sari A.",
+      "helpful_votes": 0,
+      "publication_date": 20190627
+    },
+    {
+      "title": "Using Amazon card to finance is a great idea",
+      "text": "Ummmmm I had a 1060 honestly I dont see the diffrence, when I play battlefield I get some stutters but I dont blame the card I think but hey it's a 2060.",
+      "rating": 4.0,
+      "verified": true,
+      "author": "David Martinez",
+      "helpful_votes": 0,
+      "publication_date": 20190729
+    },
+    {
+      "title": "Seller is not replying back or attempting to resolve this issue",
+      "text": "This is the only way to provide pictures to seller. Graphics card doesn't fit my Asus prime x570-pro motherboard. Seller hasn't replied back!! I need to return. Seller didn't help me out at all. Upon watching YouTube videos I figured it out on myself to remove a plastic guard removal. I don't recommend this seller I hope to product turns out to be good!",
+      "rating": 1.0,
+      "verified": true,
+      "author": "Cali dude",
+      "helpful_votes": 0,
+      "publication_date": 20200507
+    },
+    {
+      "title": "Best one Ive had yet but it's my first",
+      "text": "Never overclocked. Don't really care to much about that aspect but displays every game I have played most excellent. Apex, Metro exodus, bf5 , and pubg. Awesome software where you can optimize each game you play to enhance the detail.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Daniel Bear",
+      "helpful_votes": 0,
+      "publication_date": 20190606
+    },
+    {
+      "title": "Good graphics card",
+      "text": "Needed a 4k edit capable graphics card and this was able to do so in a good speed.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Ki Y. Kim",
+      "helpful_votes": 0,
+      "publication_date": 20200223
+    },
+    {
+      "title": "Excellent Value",
+      "text": "Easy to install. Flawless performance and great graphic rendering. Using it with a DisplayPort cable for excellent image quality. This was a great purchase",
+      "rating": 5.0,
+      "verified": true,
+      "author": "CyberJoe",
+      "helpful_votes": 0,
+      "publication_date": 20190503
+    },
+    {
+      "title": "Best big brother ever",
+      "text": "Little brothers lost their minds playing their favorite games on these cards",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Aj Pierce",
+      "helpful_votes": 0,
+      "publication_date": 20200110
+    },
+    {
+      "title": "Thanks",
+      "text": "Works just fine with my 4k video editing, Revit drafting, 3ds Max Studio, and others.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Mariusz Pierog",
+      "helpful_votes": 0,
+      "publication_date": 20200527
+    },
+    {
+      "title": "Perfect!!",
+      "text": "This was an upgrade from my 1060 and it was a great move!!",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Ricky Robles",
+      "helpful_votes": 0,
+      "publication_date": 20200624
+    },
+    {
+      "title": "My first gpu on my first build.",
+      "text": "Very first card for my very first build. Companies by a ryzen 5 2600, i average about 120fps on apex (main game of choice) great card for a moderate build.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Amazon Customer",
+      "helpful_votes": 0,
+      "publication_date": 20190625
+    },
+    {
+      "title": "No regrets",
+      "text": "Upgraded from an RX 480. This card is about as powerful as a GTX 1070, and that card is already too much for what I actually do. Now I\u2019m able to max out every game I throw at it at 1080p 60+ FPS and I\u2019m sure it will continue to do that until about midway of the next generation.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Justin Nailes",
+      "helpful_votes": 0,
+      "publication_date": 20190414
+    },
+    {
+      "title": "Great 1440p setup",
+      "text": "Having used this for a month now, i'm really pleased with the power of this little guy. Drives 1440p display nicely. On older games it makes my 120hz panel shine. This does run a little hotter than the 3 slot EVGA option, but if you're space constrained, this is a great card.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "ballerstatusfamily",
+      "helpful_votes": 0,
+      "publication_date": 20190404
+    },
+    {
+      "title": "Great card for the money but promotional code for games does not work.",
+      "text": "The Geforce RTX 2060 is a great card for the money, to bad the promotional code that Amazon sent for the free games did not work.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Michael Sgambati",
+      "helpful_votes": 0,
+      "publication_date": 20190907
+    },
+    {
+      "title": "MSI did it again",
+      "text": "Very sleek cards and it screams in games. Good value",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Luke Whitehouse",
+      "helpful_votes": 0,
+      "publication_date": 20190425
+    },
+    {
+      "title": "Great for playing games at 1920x1080p or 2560x1440p.",
+      "text": "While this is the bottom of the barrel in terms of the RTX line, it's still very good, a way better upgrade than going with the stepping stone GTX 16xx. You can max out the 1080p games and it will run like a champ.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Lex B.",
+      "helpful_votes": 0,
+      "publication_date": 20191104
+    },
+    {
+      "title": "Does Exactly What it is Supposed To",
+      "text": "Runs smoothly at a good temperature. Installation was as easy as any other graphics card I've ever installed. Got quite the framerate boost upgrading from a 1050-TI. Nothing to complain about for me! If you can afford it, it's a great upgrade for gaming!",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Nave360",
+      "helpful_votes": 0,
+      "publication_date": 20200216
+    },
+    {
+      "title": "Good for gaming!",
+      "text": "I love this but I have one small pc issues that could be related to this. Not sure if this is cause the issue but it is likely.",
+      "rating": 3.0,
+      "verified": true,
+      "author": "Future",
+      "helpful_votes": 0,
+      "publication_date": 20190831
+    },
+    {
+      "title": "Works well for 1080p 144hz gaming",
+      "text": "I have an i5-8400 paired with this and have no problem getting 144fps in competitive shooters like apex, fortnite, siege. Also can run games on ultra like ac odyssey and still get 60-80fps. Definitely recommend this card",
+      "rating": 5.0,
+      "verified": true,
+      "author": "John salazar",
+      "helpful_votes": 0,
+      "publication_date": 20190420
+    },
+    {
+      "title": "Came defective. Very bad RMA experience.",
+      "text": "I purchased this used and the gpu was defective (red tint and wouldn't even show picture in Windows). So I RMA'd it to MSI themselves (had to spend $33 on shipping) and they gave me a card that showed no picture at all. Would never deal with MSI again after this.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "Sanford Apfel",
+      "helpful_votes": 0,
+      "publication_date": 20200229
+    },
+    {
+      "title": "great affordable card",
+      "text": "performance is really good. only issue is the noise once you start running really intensive games. sounds like a jet engine inside my case.",
+      "rating": 4.0,
+      "verified": true,
+      "author": "Bryan Narvaez",
+      "helpful_votes": 0,
+      "publication_date": 20190704
+    },
+    {
+      "title": "Really Good GPU!",
+      "text": "I've had this GPU since lat January and it's been great ever since. It's very quiet and has zero issues. It can run most games on high and ultra.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Edward Y.",
+      "helpful_votes": 0,
+      "publication_date": 20190601
+    },
+    {
+      "title": "Best value for performance of the rtx\u2019s",
+      "text": "Runs perfect with my ryzen 2700 the fans rarely need to run. It\u2019s perfect for gaming at any level. Casual or competitive.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Amazon Customer",
+      "helpful_votes": 0,
+      "publication_date": 20191005
+    },
+    {
+      "title": "Easy to install",
+      "text": "Works great, no problems. Box was missing installation cd(you can download drivers online)",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Alyson Weiss",
+      "helpful_votes": 0,
+      "publication_date": 20190626
+    },
+    {
+      "title": "Died after 70 days--MSI takes over a month to replace",
+      "text": "They'll RMA, but I'm without a card for a month in the meantime. They refused to give a refund or do advanced replacement. I wish I'd gotten another brand, definitely won't be buying MSI again.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "Danielcb114",
+      "helpful_votes": 0,
+      "publication_date": 20200107
+    },
+    {
+      "title": "Great preformance, no issues",
+      "text": "The rtx 2060 has really delivered great performance for the money that I paid for it. Excellent buy.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Elliot McCarthy",
+      "helpful_votes": 0,
+      "publication_date": 20190803
+    },
+    {
+      "title": "amazing gpu!",
+      "text": "super easy to install and AMAZING quality! im able to run all my favorite games on full epic and ultimate settings at around 200fps, if only my monitor could handle that lol.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "oblivious-rose",
+      "helpful_votes": 0,
+      "publication_date": 20191217
+    },
+    {
+      "title": "Best value for $350",
+      "text": "Very powerful, overclocks itself to 1950MHz very nicely staying around 70\u00b0 C Max.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "James Markell",
+      "helpful_votes": 0,
+      "publication_date": 20190721
+    },
+    {
+      "title": "Geforce Card",
+      "text": "First time building a pc. Simple install. Good graphics with okay temps. Max mine gets at high settings on games is 76 degrees. Its a little noisy, but good card for the price.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Cellogirlxo",
+      "helpful_votes": 0,
+      "publication_date": 20200224
+    },
+    {
+      "title": "No issues, slipped right in.",
+      "text": "Good card, quiet, runs cool for me under load. Doesn't have a disc, but was able to find the drivers manually.",
+      "rating": 4.0,
+      "verified": true,
+      "author": "Ty Wilburn",
+      "helpful_votes": 0,
+      "publication_date": 20190821
+    },
+    {
+      "title": "Great for the money",
+      "text": "Grabbed this card for my son's rig. He has no complaints, which makes my life easy. Thank you, MSI & Amazon!",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Joseph Clark",
+      "helpful_votes": 0,
+      "publication_date": 20200320
+    },
+    {
+      "title": "Great card! Highly recommend",
+      "text": "First step in upgrading my 2014 gaming PC. Was a great purchase. Went from GTX 770 to this! Next up motherboard and CPU. Super highly recommend.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Emma Varian",
+      "helpful_votes": 0,
+      "publication_date": 20200130
+    },
+    {
+      "title": "Great buy",
+      "text": "Pair this with an amd Ryzen 3 and x570 mobo.....trust",
+      "rating": 5.0,
+      "verified": true,
+      "author": "John B",
+      "helpful_votes": 0,
+      "publication_date": 20191210
+    },
+    {
+      "title": "Awesome graphic card",
+      "text": "One of the best graphics card I have been used, and really worth it to pay this price.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Abdlqadir",
+      "helpful_votes": 0,
+      "publication_date": 20191204
+    },
+    {
+      "title": "Buy it if you can",
+      "text": "Really good graphics card runs like a champ at 1080p with 144hz monitor temperatures doesn't go above 67c and fan isn't loud",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Hashem",
+      "helpful_votes": 0,
+      "publication_date": 20190405
+    },
+    {
+      "title": "Good",
+      "text": "Good graphics Good RTX Good value Good temps Good looks It's good",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Zach",
+      "helpful_votes": 0,
+      "publication_date": 20191126
+    },
+    {
+      "title": "Make sure your computer is comparable",
+      "text": "Didn't come with a power adapter so I had to order one that came a few days later but definitely worth the wait",
+      "rating": 4.0,
+      "verified": true,
+      "author": "Lightning",
+      "helpful_votes": 0,
+      "publication_date": 20190904
+    },
+    {
+      "title": "As advertised",
+      "text": "Got what I paid for. Upgraded from a GTX 960 and what do you know, now I can play everything on ultra lol.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Marvin Hayes",
+      "helpful_votes": 0,
+      "publication_date": 20190422
+    },
+    {
+      "title": "Great card for the price",
+      "text": "looks great, runs great. Definetavely a good upgrade. Temps are very low too.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Juan Jose Bernal",
+      "helpful_votes": 0,
+      "publication_date": 20190208
+    },
+    {
+      "title": "Caution Can Over Heat",
+      "text": "GFX card can over heat with medium settings. Computer crashed (BSOD) a few times.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "Rin",
+      "helpful_votes": 0,
+      "publication_date": 20190711
+    },
+    {
+      "title": "Great bang for the buck",
+      "text": "Relly good bang for the buck semi budget opitnon also looks really good",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Carlos",
+      "helpful_votes": 0,
+      "publication_date": 20190412
+    },
+    {
+      "title": "Fast and power efficient card!",
+      "text": "This card worked great in my custom i7 gaming rig. Quiet and cool operation with minimal power draw. I can play all of my 1080p games with the settings all the way up! Hoping to try some ray-traced games when the come out.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "FaeLynn",
+      "helpful_votes": 0,
+      "publication_date": 20190810
+    }
+  ],
+  "product_meta": {
+    "title": "MSI GeForce RTX 2060 VENTUS 6G OC 6GB GDDR6 - Graphics cards (GeForce RTX 2060, 6GB, GDDR6, 192 bit, 7680 x 4320 pixels, PCI Express x16 3.0)",
+    "description": "A fresh design with two fans proudly shows VENTUS its industrial shapes in neutral colours that fit any building. Featuring two of the award-winning Torx fans 2. 0 MSI VENTUS graphics cards offer years of superior cooling performance. Up to 6mm thick copper heating pipes at the bottom maximize heat transfer from the surface of the copper base plate.",
+    "rating": 4.6,
+    "feature_bullets": [
+      "Chipset: NVIDIA GeForce RTX 2060",
+      "Core clocks: 1710 MHz / 14 Gbps",
+      "Memory interface: 192-bit",
+      "Video memory: 6GB GDDR6. Power consumption: 190W",
+      "Output: DisplayPort x 3 (v1.4) / HDMI 2.0b x 1"
+    ],
+    "specifications": {
+      "Brand": "MSI",
+      "Product Dimensions": "24.69 x 12.88 x 5.18 cm; 764 Grams",
+      "Item model number": "GeForce RTX 2060 VENTUS 6G OC",
+      "Manufacturer": "MSI COMPUTER",
+      "Series": "GeForce RTX 2060 VENTUS 6G OC",
+      "Form Factor": "ATX",
+      "Memory Clock Speed": "1710 MHz",
+      "Graphics Coprocessor": "GeForce RTX 2060",
+      "Graphics Chipset Brand": "NVIDIA",
+      "Graphics RAM Type": "GDDR6",
+      "Graphics Card Ram Size": "6 GB",
+      "Graphics Card Interface": "PCI-E",
+      "Number of USB 2.0 Ports": "1",
+      "Number of HDMI Ports": "1",
+      "Wattage": "500 watts",
+      "Operating System": "Ja",
+      "Supported Software": "Ja",
+      "Are Batteries Included": "No",
+      "Item Weight": "764 g",
+      "ASIN": "B07MC23VS4",
+      "Customer Reviews": "4.6 out of 5 stars357 ratings4.6 out of 5 stars",
+      "Best Sellers Rank": "433,030 in Computers & Accessories",
+      "Date First Available": "15 Jan. 2019"
+    },
+    "categories": [
+      "Computers & Accessories",
+      "Components & Replacement Parts",
+      "Graphics Cards"
+    ],
+    "price": ""
+  }
+}

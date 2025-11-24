@@ -1,0 +1,388 @@
+{
+  "website_summaries": [
+    {
+      "verdict": "The Samsung Connect Home will give you adequate Wi-Fi coverage in a large home, and you can connect SmartThings devices to it without having to buy a separate hub. But for the price, you can find better options such as the AC3000 Netgear Orbi.",
+      "pros": [
+        "The system works as a midtier router and a SmartThings home automation hub, all controlled by a single app"
+      ],
+      "cons": [
+        "The app",
+        "Setup can be a challenge and you can't customize many of the settings",
+        "You may need additional units to get the speed and coverage your want, which can be costly"
+      ],
+      "aspects": {
+        "Setup": 5.0,
+        "Features": 7.0,
+        "Performance": 6.0
+      },
+      "publication_date": 20180125,
+      "rating": 6.0,
+      "source": "cnet"
+    }
+  ],
+  "customer_reviews": [
+    {
+      "title": "This is a fabulous product.",
+      "text": "This is a fabulous product. 6000' house, had to use 2 routers, 3 signal extenders and powerline transmitters and still had parts of the house\u200b with very weak wifi signal. I was sceptical about the Samsung AC 1300 but decided to give it a try. Had some difficulty with connecting one of the units, called Samsung and the lady guided me and problem was quickly resolved. This system does everything it claims. I now have excellent wifi (over 100 Mbps) throughout the house, no need to change wifi networks, all the 4K TVs are smiling sharp. The Samsung Connect app works great as a hub. I highly recommend this product.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "OGA",
+      "helpful_votes": 18,
+      "publication_date": 20180202
+    },
+    {
+      "title": "Not good for zwave and zigbee",
+      "text": "Setup was easy, except for the fact that I had an existing smartthings hub, and getting the two working together was undocumented and pretty difficult. Also, it says that this mesh network works as an extension of your smartthings hub, but it does not extent zigbee nor zwave devices. I primarily bought this so that zwave devices that are far away from my hub would work, but it doesnt help that at all. I'll likely return it and just buy some zwave wall switches Instead. I think the advertisement for what this product does is misleading...",
+      "rating": 1.0,
+      "verified": true,
+      "author": "M. Takacs",
+      "helpful_votes": 6,
+      "publication_date": 20180817
+    },
+    {
+      "title": "Easy install, works perfectly",
+      "text": "I had trouble with neighbors on both sides of me interfering with my radio signals. No matter which channel I changed to, someone interfered and my wireless connectivity was negatively impacted on one end of the house or the other (approx. 1300 sq. ft. ranch style with router almost perfectly centered). This became a particular nuisance as I started purchasing smart home devices. The Connect Home system improved my wifi to perfection and simplified my smart devices and Alexa control. It also allowed me to integrate my z-wave devices that I had already, but couldn't integrate with the other smart devices until I got this.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Kindle Customer",
+      "helpful_votes": 2,
+      "publication_date": 20180503
+    },
+    {
+      "title": "The mesh network is nice. 50M on the speed test",
+      "text": "I needed help to get it set up. The SmartThings was especially hard to set up and Alexa hacked the system and disconnected my door lock repeatedly. But it seems to be working OK now after 2 months of help line. The mesh network is nice. 50M on the speed test.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Mark D.",
+      "helpful_votes": 4,
+      "publication_date": 20180712
+    },
+    {
+      "title": "Call and make sure you have the right phone first.",
+      "text": "I bought these things because I like Samsung then, to my surprise, My SAMSUNG phone wouldn't set them up, I was told by what passes for tech support, that I would have to buy a later model phone, (mine was about 6 months old at the time) so I told them they could place their product in a warm, dark place and returned them. That little deal with Samsung did it for me, I'll buy anything BUT Samsung. Tech support treats you like you're an idiot instead of trying to resolve the problem.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "W. Lockridge",
+      "helpful_votes": 0,
+      "publication_date": 20190412
+    },
+    {
+      "title": "Kind of expensive slow speed for a power user but overall not a bad device",
+      "text": "Upgraded from a normal SmartThings hub to these, and I've had very little issues. The cost is pretty expensive though and the wireless speed is a bit lacking compared to the pro version. Though the new SmartThings app is pretty pathetic and I still use the original one. I do have a random issue where my cell phone disconnects from the wireless when switching to one of the other devices.",
+      "rating": 4.0,
+      "verified": true,
+      "author": "Chelsee penrod",
+      "helpful_votes": 0,
+      "publication_date": 20181113
+    },
+    {
+      "title": "Fancy is a good word for it. Works well",
+      "text": "Works well as long as they don't get too far apart. My bedroom is a little too far from the one in the living room, so internet can lag once in a while. But it's really not so noticeable to be a problem. I like having different routers throughout the home. I also learned they will work as extenders for the current wifi router in your home. So you don't even have to set up a new network. Just add these to it.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Marcus Felten",
+      "helpful_votes": 0,
+      "publication_date": 20190415
+    },
+    {
+      "title": "AC1300 not AC2600 but so far it works very well. Easy setup",
+      "text": "So far it works very well. Does what it says as far as being seamless and i have full coverage throughout the house. Only issue so far is trying to register the boxes on samsung.com. the page wont accept the serial numbers. It thinks they are not US units. Trying to track that down now.",
+      "rating": 3.0,
+      "verified": true,
+      "author": "bigdave",
+      "helpful_votes": 0,
+      "publication_date": 20180818
+    },
+    {
+      "title": "Easy to set up and it works great for me",
+      "text": "Recently moved into new home and was looking for something that would increase router coverage. This did the trick and was super easy to set up. Got on sale for good deal and am really pleased with result. I have solid connection everywhere in house and even outside on patio.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Pumpkin",
+      "helpful_votes": 0,
+      "publication_date": 20181115
+    },
+    {
+      "title": "Fabulous",
+      "text": "These have created a great mess signal through our home. Now, everything we add works great. Stable good signals help home automations come to life.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "ERMARC",
+      "helpful_votes": 0,
+      "publication_date": 20190521
+    },
+    {
+      "title": "Samsung failed on this one",
+      "text": "Worst product. The App doesn\u2019t work and without a web interface to do router admin this is useless",
+      "rating": 1.0,
+      "verified": true,
+      "author": "Jag",
+      "helpful_votes": 4,
+      "publication_date": 20180709
+    },
+    {
+      "title": "After about 3 weeks of use, came to the ...",
+      "text": "After about 3 weeks of use, came to the conclusion that in my house, Asus router and this had same speeds. Ofcourse the advantage of being a smarthub is not ignored, but the Iphone app really awful.",
+      "rating": 3.0,
+      "verified": true,
+      "author": "Nitrogen",
+      "helpful_votes": 0,
+      "publication_date": 20180728
+    },
+    {
+      "title": "Mesh is awesome, Samsung Connect app sucks.",
+      "text": "Samsung Connect App is piece of junk. The apps ability to configure these hubs is not hard, but hardly works. If you find your hub is not connecting with the app, do a hard reset of the hub and try again. iOS app works better then Android app (which is surprising). So far the signal strength is good and transitions from hub to hub is seamless. I have not tested backhauling yet over Ethernet (house is prewired). If backhauling works I will upgrade to 5 stars.",
+      "rating": 4.0,
+      "verified": true,
+      "author": "Dallin",
+      "helpful_votes": 13,
+      "publication_date": 20180207
+    },
+    {
+      "title": "Finally my wifi works!",
+      "text": "I've been having issues for years trying to get the wifi in my house to work in every room. This is the best purchase I made in 2017!",
+      "rating": 5.0,
+      "verified": true,
+      "author": "pianoman16",
+      "helpful_votes": 0,
+      "publication_date": 20180113
+    },
+    {
+      "title": "Easy to use and setup!",
+      "text": "Great product that was so easy to setup! Provides great coverage in the house",
+      "rating": 5.0,
+      "verified": true,
+      "author": "MikeK",
+      "helpful_votes": 0,
+      "publication_date": 20181001
+    },
+    {
+      "title": "Worth it",
+      "text": "We are an Apple family in general, but these are fabulous and work really well. Highly recommend",
+      "rating": 5.0,
+      "verified": true,
+      "author": "SS",
+      "helpful_votes": 0,
+      "publication_date": 20180117
+    },
+    {
+      "title": "works as a smart things hub too",
+      "text": "covers my whole house now. works as a smart things hub too. great product",
+      "rating": 5.0,
+      "verified": true,
+      "author": "James K",
+      "helpful_votes": 0,
+      "publication_date": 20180401
+    },
+    {
+      "title": "Great product no issues",
+      "text": "Great product no issues. Works really well no dropped connections or issues with set up",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Steven",
+      "helpful_votes": 0,
+      "publication_date": 20181030
+    },
+    {
+      "title": "Wish the AC range was better and that you could control 5ghz vs 2",
+      "text": "Wish the AC range was better and that you could control 5ghz vs 2.4ghz. Often I will get latched to 2.4ghz based on speed and even next to my main hub get 30-40mbps. Disconnect and reconnect 235mbps. Overall very stable though.",
+      "rating": 4.0,
+      "verified": true,
+      "author": "Dfreeman2",
+      "helpful_votes": 6,
+      "publication_date": 20180617
+    },
+    {
+      "title": "Wifi extender and Smarthings compatible",
+      "text": "This has worked out wonderfully as a wifi extender and is Smarthings compatible. It is WAN, so I can control the Smarthings outlet through this hub using wifi across the country. It was a bit confusing to set up but the help desk was very helpful. I am not very computer savvy but did get it set up and connected. 5 stars and thumbs up",
+      "rating": 5.0,
+      "verified": true,
+      "author": "JFR",
+      "helpful_votes": 4,
+      "publication_date": 20180223
+    },
+    {
+      "title": "Five Stars",
+      "text": "Samsung connect home mesh working good. I can watch movies without any buffer issues.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Venkata Krishna A Adari",
+      "helpful_votes": 0,
+      "publication_date": 20180619
+    },
+    {
+      "title": "This is neither a good SmartThings Hub or good wireless mesh",
+      "text": "This is neither a good SmartThings Hub or good wireless mesh. After owning this for a month Samsung told me that only the first unit in the mesh is actually a Z-Wave hub. The other units in the set don't even work as relays. In an 2000 square foot house the WiFi signal is spotty at best and won't operate our Ring Doorbell that is 3 feet away on the worst days. The worst part of this is when you buy something to automate your home and you keep having to touch it to restart, unplug, reconnect devices, or reconfigure. What about that is automation.",
+      "rating": 2.0,
+      "verified": true,
+      "author": "Todd C Brown",
+      "helpful_votes": 0,
+      "publication_date": 20180511
+    },
+    {
+      "title": "As a router it is fine, but the iOS app for it is garbage",
+      "text": "The routers themselves work well. But the iOS app, which you need to use for the SmartThings hub, is garbage. Every time I try to add a Philips Hue bulb, the app crashes. The app constantly hangs on the devices screen. When you're trying to setup the router, if something goes wrong, the error message is just \"something went wrong.\" Not even an error code.",
+      "rating": 2.0,
+      "verified": true,
+      "author": "Robert Zeh",
+      "helpful_votes": 0,
+      "publication_date": 20180313
+    },
+    {
+      "title": "Fine tuning is limited",
+      "text": "Fine tuning is limited, configuring can get tricky and frustrating at times. If you are tech savvy enough, these work great (not amazing). I see several firmware upgrades coming in, I do with the features improve, need better app and the technical documentation could be better too. Good deal otherwise, looking to increase my SmartThings eco-system",
+      "rating": 3.0,
+      "verified": true,
+      "author": "Carlos A Moreno",
+      "helpful_votes": 0,
+      "publication_date": 20180206
+    },
+    {
+      "title": "Only if it works",
+      "text": "I really waisted 2 hours of my time trying to figure out how to connect the other 2 sub hubs. It was supposed to be easy, or at least that's what it sounds like in the instructions, plug the sub into a power outlet and that's it, Wrong... I tried everything and restarted the main hub and my phone multiple times, I tried to enter it manually and Yes I chose the wifi hub and the extension option but all in vain. What a terrible experience, I never felt this frustration in a while..",
+      "rating": 1.0,
+      "verified": true,
+      "author": "Jad",
+      "helpful_votes": 3,
+      "publication_date": 20180127
+    },
+    {
+      "title": "One Star",
+      "text": "Terrible coverage. Jenky. I love Samsung, this was a mega disappointment. Had to return it.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "William Burns",
+      "helpful_votes": 0,
+      "publication_date": 20180712
+    },
+    {
+      "title": "Dont waste your time and money with this product.",
+      "text": "Worthless product and hopeless support from Samsung. Devices keep loosing wifi when moving from one unit to another which are just 25-30ft apart in rooms. Level 1 support from Samsung wasted my Time with all reeboot , reset and so on and escalated the issue to Level 2 support. After 2 weeks I have not heard back from Level 2 support.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "Raghuveer",
+      "helpful_votes": 10,
+      "publication_date": 20180529
+    },
+    {
+      "title": "I was pretty impressed with the coverage when we initially got it ...",
+      "text": "I was pretty impressed with the coverage when we initially got it but the app was pretty buggy and the satellites would randomly drop off. A good idea with poor execution. Back it goes!",
+      "rating": 1.0,
+      "verified": true,
+      "author": "sk",
+      "helpful_votes": 4,
+      "publication_date": 20180417
+    },
+    {
+      "title": "The setup process was not easy. Their app kept telling me to move the ...",
+      "text": "Did not work as a \"mesh\" router system. My phone kept dropping the wifi connection. The setup process was not easy. Their app kept telling me to move the hubs closer together. At one point, I had one of the hubs 10 feet from the main one and it still told me it was too far away. Simply put, these did not work or do what I would expect of a mesh wifi network.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "Jonathan Okie",
+      "helpful_votes": 8,
+      "publication_date": 20170907
+    },
+    {
+      "title": "I returned it immediately",
+      "text": "A word of caution to anyone considering this. The app requires you to give it access to your contacts. There is no way around this, if you don't grant access to contacts it will not run. This is on Android, I can't speak for the iphone app. The is gratuitous permission seeking. There is no need for this to have access to contacts. So I returned the product without even trying it. I was very disappointed and can't give this more than one star.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "Roy N.",
+      "helpful_votes": 5,
+      "publication_date": 20180806
+    },
+    {
+      "title": "couldn't get it to work.",
+      "text": "could not get the 3rd satellite to connect. tried for 3 days and a good bit of time on the phone with Samsung support. very disappointing experience.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "Michael",
+      "helpful_votes": 4,
+      "publication_date": 20180105
+    },
+    {
+      "title": "So far I did not figure out hot to transfer my smart things from old hub to this one - I ...",
+      "text": "it is OK, Little bit slow. So far I did not figure out hot to transfer my smart things from old hub to this one - I hope not one but one from beginning",
+      "rating": 2.0,
+      "verified": true,
+      "author": "Wojtek",
+      "helpful_votes": 0,
+      "publication_date": 20171115
+    },
+    {
+      "title": "Unit arrived new on December 24th, but would not ...",
+      "text": "Unit arrived new on December 24th, but would not power on. Troubleshooting with Samsung support \"escalated\" the matter, then suggest I return and exchange the item. Not feeling very warm and fuzzy so far...",
+      "rating": 1.0,
+      "verified": true,
+      "author": "Rob Totten",
+      "helpful_votes": 2,
+      "publication_date": 20171226
+    },
+    {
+      "title": "One Star",
+      "text": "did not want to sync. They said my phone was not new enough",
+      "rating": 1.0,
+      "verified": true,
+      "author": "Rod",
+      "helpful_votes": 4,
+      "publication_date": 20180510
+    },
+    {
+      "title": "Does not have Smartthings funtionality.",
+      "text": "Does not have Smartthings functionality, only limited connect home functionality.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "PatBatemanAZ",
+      "helpful_votes": 9,
+      "publication_date": 20170907
+    },
+    {
+      "title": "DO NOT PURCHASE!!!!",
+      "text": "Too bad you can't give negative stars. Item does not work.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "Eric W.",
+      "helpful_votes": 4,
+      "publication_date": 20171019
+    }
+  ],
+  "product_meta": {
+    "title": "Samsung Electronics ET-WV520K Smart Wi-Fi System Mimo (3 Pack), White",
+    "description": "Take ultimate control of your space with Samsung Connect Home Smart WiFi System, a WiFi router and a SmartThings hub, all in one. Not only does it deliver an optimized WiFi signal to every corner of your home, it also works as a SmartThings Hub, connecting compatible cameras, lights, voice assistants, and more to create your smart home. Plus, you\u2019ll never have to worry about updating firmware\u2014Samsung Connect Home will update automatically. Unlike traditional routers that can cause dead zones and buffering, Samsung Connect Home Smart Wi Fi System uses three units working seamlessly to create a mesh network that can cover homes up to 4,500 sq. ft. keep hundreds of your devices connected at the same time and control them from anywhere in your home using the user friendly Connect App. Built in Ethernet ports and powerful tri band mesh make this system the perfect solution for work from home professionals, entertainment systems, and homes with Ethernet wiring.",
+    "rating": 3.4,
+    "feature_bullets": [
+      "Extendable Coverage (Up to 5) : Corner to corner coverage for your house with a range up to a 4,500 Square Feet. or 1,500 Square Feet. per single unit."
+    ],
+    "specifications": {
+      "Manufacturer": "Samsung",
+      "Part Number": "ET-WV520K",
+      "Item Weight": "7.4 ounces",
+      "Product Dimensions": "4.72 x 4.72 x 1.16 inches",
+      "Item model number": "ET-WV520K",
+      "Batteries": "1 Lithium Polymer batteries required.",
+      "Is Discontinued By Manufacturer": "No",
+      "Color": "White",
+      "Style": "Connect Home 3-pack",
+      "Finish": "Matt",
+      "Voltage": "100 Volts",
+      "Item Package Quantity": "1",
+      "Included Components": "LAN cable",
+      "Batteries Included?": "No",
+      "Batteries Required?": "No",
+      "Battery Cell Type": "Lithium Polymer",
+      "Warranty Description": "Manufacturer\u2019s warranty can be requested from customer service.",
+      "ASIN": "B06XSDFMND",
+      "Customer Reviews": "3.4 out of 5 stars83 ratings3.4 out of 5 stars",
+      "Best Sellers Rank": "#34,393 in Computers & Accessories",
+      "Date First Available": "July 16, 2017"
+    },
+    "categories": [
+      "Computers & Accessories",
+      "Tools & Home Improvement",
+      "Routers",
+      "Electronics",
+      "Networking Products"
+    ],
+    "price": 219.95
+  }
+}

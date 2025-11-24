@@ -1,0 +1,966 @@
+{
+  "website_summaries": [
+    {
+      "verdict": "For users with a smart-home hub and a particular desire to monitor their sump pump well, the Aeotec Sensor is a great option. For most others, it won't be a good fit.",
+      "pros": [
+        "The Aeon Labs Aeotec Water Sensor has a simple, but effective design -- especially given its $35 price tag"
+      ],
+      "cons": [
+        "The Aeotec has too few extra features to really stand out among the competition"
+      ],
+      "aspects": {
+        "Features": 3.0,
+        "Usability": 8.0,
+        "Design": 7.0,
+        "Performance": 9.0
+      },
+      "publication_date": 20161119,
+      "rating": 6.5,
+      "source": "cnet"
+    }
+  ],
+  "customer_reviews": [
+    {
+      "title": "Get ready for false alarms",
+      "text": "This is a great water sensor and is highly reliable - UNLESS they will be used in a slightly humid environment. The sensitivity level is so high that just a cool fall morning will trip the sensor. I've gone through 3 of these in one residence, with the same results (false alarms). Interestingly, when the same 3 units are installed in another residence, there have been no false alarms at all. I'm not sure what the difference is except humidity levels and air conditioning/movement, but certainly no water leaks have caused them. They are great sensors unless you happen to have the magical conditions that will trip them, and I cannot figure out what those conditions are.",
+      "rating": 3.0,
+      "verified": true,
+      "author": "T. Smith",
+      "helpful_votes": 2,
+      "publication_date": 20171106
+    },
+    {
+      "title": "That seems like enough data to officially call these junk",
+      "text": "I bought 4 and, after a month, only one is working anymore: * 1 was DoA * 2nd one stopped working at 2 weeks. Failure mode is that it doesn't detect wet anymore (but still reports battery life) * 3rd one stopped working at 3 weeks. Failure mode is that it reports 0% battery 100% of the time (but still reports wet/dry) They were not mistreated. Only the probes got wet and they haven't been physically touched since install. That seems like enough data to officially call these junk.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "N. Root",
+      "helpful_votes": 3,
+      "publication_date": 20180329
+    },
+    {
+      "title": "Device has reached EOL!",
+      "text": "This device arrived in a box that was torn, and no batteries were included. Apparently this is a unit that was returned and sold as new. I installed a set of Duracell AAAs, and it finally connected to my SmartThings hub v2 after I set the unit on top of the hub. It's been sitting on my dining room table for three days, and it's generated three to five false alarms per day. I contacted Aotec Support and was told this device reached its end of life sometime ago. It's been replaced by the Water Sensor 6. I'll be returning this to Amazon, and I won't be upgrading to the much more expensive current version. Very disappointed!",
+      "rating": 2.0,
+      "verified": true,
+      "author": "twokatmew",
+      "helpful_votes": 0,
+      "publication_date": 20180719
+    },
+    {
+      "title": "Paid for itself already...",
+      "text": "I bought this 11 months ago, configured it to my Wink Hub2 controller, and tested it. It worked. I installed it in the maintenance closet that holds the hot water heater at my rental property. Last week, it triggered a Water Alert. When I investigated, I discovered that my 11 year old, 50 gallon hot water heater had sprung a leak. Thankfully, I was able to get a plumber out to replace the hot water heater before it completely ruptured. I\u2019m now buying them for my house for the AC unit (that has had some condensation issues) and to monitor the 7 year old hot water heater.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "MA_GA",
+      "helpful_votes": 0,
+      "publication_date": 20171023
+    },
+    {
+      "title": "Works great. A friend had a water heater leak",
+      "text": "Works great. A friend had a water heater leak, and washing machine hoses have been known to burst over a period of time. This sensor could save a lot of stress and money. A friend was in a hotel for months while the insurance company replaced her home drywall etc. due to a water heater leaking. I linked this up to text me if it detects a leak, and turn the main water valve off if it detects a leak also with a zwave valve shut off. I feel much safer knowing if I have a leak, it will turn off the water and text me.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Paul",
+      "helpful_votes": 0,
+      "publication_date": 20171010
+    },
+    {
+      "title": "The sensor was easy to install and connect to smartthings but seems to be offline.",
+      "text": "The sensor was easy to install and connect to smartthings but seems to be offline frequently says checking status. It appears to be mostly useless. I thought this would be an upgrade but instead it appears to be a brick. If there is a way to get it work better. It is less than 15 feet from the smartthings hub and hasn't appeared to be online for months but it has full battery.",
+      "rating": 2.0,
+      "verified": true,
+      "author": "M. James",
+      "helpful_votes": 0,
+      "publication_date": 20200826
+    },
+    {
+      "title": "Awesome inexpensive water sensor",
+      "text": "We have had our toilet clogged by kids over and over again. I bought a Wink hub just so I could get a water sensor. I needed to know when/if there was a water problem at home. The first sensor I looked at was much more expensive, but didn't really give me any additional features. This was an easy setup, inexpensive way to track water issues for us. Works perfect with my Wink hub. Highly recommend this if you have any water issues you need to be alerted to.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Jason",
+      "helpful_votes": 0,
+      "publication_date": 20170706
+    },
+    {
+      "title": "Works well with Piper nv",
+      "text": "Simple enough. I have a Piper nv. I installed this in the basement utility room after having water back up a few times. It won't stop the water from rising but can at least let me know immediately when it starts to get wet.",
+      "rating": 4.0,
+      "verified": true,
+      "author": "mfrazier",
+      "helpful_votes": 5,
+      "publication_date": 20161202
+    },
+    {
+      "title": "These will probably break quickly.",
+      "text": "Bought four of these to monitor changing water levels in a hydroponics system. The description of the item clearly states can be used in tanks to monitor levels. For my use I wanted to monitor a system that was constantly adding and draining water, switching from Wet to Dry. I've been using them for two weeks, all was well, and then two of them just quit working and always displayed Wet. Have tried killing the batteries, removing from Smart Things and adding back, just about everything I can think of. Still, devices just show \"Wet\". I was very excited about these devices, but then left very sad after they quit working.",
+      "rating": 2.0,
+      "verified": true,
+      "author": "Nick Brown",
+      "helpful_votes": 0,
+      "publication_date": 20180330
+    },
+    {
+      "title": "Unreliable",
+      "text": "I placed this sensor in a sump pump pit to monitor high water level. Unfortunately it false alarms frequently and indicates sensor wet when it is dry. It is paired to a Wink Hub 2. I even placed the sensor within PVC pipe to protect it from splashing and it still falses. In the end I bought an AC powered float sensor with battery backup and dry contacts which I wired into my home alarm system.",
+      "rating": 3.0,
+      "verified": true,
+      "author": "Jerry",
+      "helpful_votes": 0,
+      "publication_date": 20181027
+    },
+    {
+      "title": "Piece of mind..They work flawlessly",
+      "text": "We have these installed in several holding tanks in our water treatment system for several months. We have tested them in all scenarios. They work flawlessly and provide piece of mind, especially after hours when no one is around to monitor things. I also have one installed in my basement just below the water softener system to alert me if something should go unexpectedly wrong.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Joeten",
+      "helpful_votes": 0,
+      "publication_date": 20180119
+    },
+    {
+      "title": "Smart things, frustrating",
+      "text": "Had a simliar experience to other purchasers. Bought two of them and paired to smart things. One was picked up as a water sensor the other as a door sensor. After several (10) add/deletes, no luck. Likely going to have to call smart things support. Setting up notifications in smart things is a joke, the app says this device type won't support notifications. I'd recommend you get a sensor that actually works with smart things.",
+      "rating": 2.0,
+      "verified": true,
+      "author": "Amazon Customer",
+      "helpful_votes": 0,
+      "publication_date": 20180329
+    },
+    {
+      "title": "Great investment. Works great with Samsung SmartThings.",
+      "text": "Works well. I bought three of these to go with my SmartThings Hub. It took me less than 5 minutes to set everything up. They even include double sided tape for you to mount it to a surface without tools. I have two for both of my HVAC units and one near my washing machine. I test them every once in a while and they work perfectly. I get a call and a text message if any of them sense water using IFTTT. Great investment.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Chris MajesticTop Contributor: Smart Home",
+      "helpful_votes": 0,
+      "publication_date": 20170201
+    },
+    {
+      "title": "No hassle setup with Wink",
+      "text": "Awesome. Batteries are even included. Open up the box, pull the plastic tab to activate the batteries and hit the small button to begin pairing. Then open up the wink app, tap the 'add to wink' button, and then tap 'safety and security.' Scroll down to 'generic z-wave sensor' and pairing should be done in the next few screens. Once set up I tested it by touching the sensors to a small puddle of water. Received a notification within 3 secs from Wink that a 'leak' was detected. Gonna buy several more of these.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "DRL",
+      "helpful_votes": 0,
+      "publication_date": 20171115
+    },
+    {
+      "title": "Hope I never get notified",
+      "text": "Water sensor works great and hope I never get a notification! This thing sits up in the attic inside my drip tray for AC. I came home one night (fortunately) to water leaking through my ceiling because of a clogged drain downstream somewhere. I tested this several times before putting my faith in that it works. Great peace of mind for me!",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Stephen Byrd",
+      "helpful_votes": 3,
+      "publication_date": 20160417
+    },
+    {
+      "title": "Alarm",
+      "text": "Great battery life. Easy to install. I recommended adding an alarm. A recent water leak was detected and SmartThings texted my phone but phone was not close to so I missed it... 8 hours later had a bad flood. This unit works well.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Terry Warner",
+      "helpful_votes": 0,
+      "publication_date": 20190101
+    },
+    {
+      "title": "Use with confidence",
+      "text": "This thing is terrific! I have it set up in a scene to cut power to my clothes washer if it detects a water leak under it. Instantaneous. It cuts the power when water hits it instantaneously through my Vera Lite. I'm so much more confident in it than in the Fortrezz unit it replaced.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "ReaderX",
+      "helpful_votes": 0,
+      "publication_date": 20190122
+    },
+    {
+      "title": "Works Great, Links up easy.",
+      "text": "I am using these with a Wink Hub and they link up easy and respond quickly. The batteries are still full charge after 2 months. Small and compact they can be put a lot of different places that you may be worried about water leeks. Like in the Laundry room, under you sink, dishwasher...... I have 3 of them installed already.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Wade Fisher",
+      "helpful_votes": 0,
+      "publication_date": 20170126
+    },
+    {
+      "title": "Easy to set up with a samsung smartthings hub",
+      "text": "Impressed with ease of setup. Had it connected to my smartthings hub within 5 minutes of opening the package. My install is into a sump hole, and the 3' cord was perfect for that. Taped the main unit to the hose. It comes with stickys and screws, but in the basement I didn't think they'd hold up well. I don't know how long the 2 AAA's will last, but it there's a battery life monitor on it, so if they go out quick at least it's easy to replace them. All in all, impressed and will look for more products by the company.",
+      "rating": 4.0,
+      "verified": true,
+      "author": "Sam Townsend",
+      "helpful_votes": 0,
+      "publication_date": 20161226
+    },
+    {
+      "title": "Too many false alarms!",
+      "text": "Get an average of one false alarm every two weeks, sometimes several in one day. Cannot find any reason. Batteries good, no water, no bugs, no dust. Finally threw it in the trash.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "Roger1",
+      "helpful_votes": 0,
+      "publication_date": 20191104
+    },
+    {
+      "title": "It's ok. But my home assistant hub needs a ...",
+      "text": "It's ok. But my home assistant hub needs a binary sensor to work correctly. I needed to change a setting,. But because of the sleep/wake setting it was quite tough to make the change. It kept going to sleep before I could make the adjustment. Perhaps you could make a hardwired version so it doesn't keep going to sleep.",
+      "rating": 3.0,
+      "verified": true,
+      "author": "Walter LeFort",
+      "helpful_votes": 0,
+      "publication_date": 20180207
+    },
+    {
+      "title": "it does work and pair well with Smartthings hub. ...",
+      "text": "it does work and pair well with Smartthings hub. but it didnt work as I wanted it to be. I wanted it to report absence of water but Smartthings doesnt have that option. and also (maybe its my fault) it is blinking red right now since the box itself became wet. cant reset it. and now it is a light, expensive paper weight with a tail.",
+      "rating": 2.0,
+      "verified": true,
+      "author": "Mr. L.D.",
+      "helpful_votes": 0,
+      "publication_date": 20180707
+    },
+    {
+      "title": "False Alarms",
+      "text": "Too many false alarms, and once it has been triggered I can\u2019t get it to go back to a dry state. My sensor has been \u201cwet\u201d for two weeks now. Eventually it will reset itself, but who knows how long that will be.",
+      "rating": 2.0,
+      "verified": true,
+      "author": "Justin W",
+      "helpful_votes": 0,
+      "publication_date": 20200112
+    },
+    {
+      "title": "Works with SmartThings. Probe wire is longer than is shown.Great for Sub-Pump.",
+      "text": "I used this instead of the SmartThings Water Leak Sensor for my Sub-Pump. I accidentally dropped the SmartThings branded one in the water, got it wet, it correded and it died so I feel better with the sensor mounted up on the pipe, out of the hole where there is little chance of it getting submerged. If this one goes under I have at least 6 inches of water in my basement.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Autobot Trader",
+      "helpful_votes": 0,
+      "publication_date": 20161129
+    },
+    {
+      "title": "False Positives",
+      "text": "There seems to be something wrong with this. I set it up with my SmartThings Hub in order to get notifications if my sump pump pit gets too full, however I have had numerous false positive alarms where the device detects water - but there is no water where the probes are immersed. Not sure if it's defective or what.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "T is for Tech",
+      "helpful_votes": 0,
+      "publication_date": 20180626
+    },
+    {
+      "title": "They were easy to pair and work great",
+      "text": "I now have 2 of these on my SmartThings hub. They were easy to pair and work great. I also have the Samsung water leak sensor and, functionally, these work the same. I would, however, recommend the Samsung water sensor over this model if you don't specifically need the water sensor lead as the Samsung sensor has a built-in temperature module, as well.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Rockadile",
+      "helpful_votes": 0,
+      "publication_date": 20170128
+    },
+    {
+      "title": "Works well, pairs easily with smartthings",
+      "text": "I have a couple of these, might get another one for a 3rd location. Works well with smartthings, needs no custom handler, just use a standard smart app &you are good to go. I paid for this, so I am not giving a compensated review, my own unbiased opinion here :-)",
+      "rating": 5.0,
+      "verified": true,
+      "author": "AH",
+      "helpful_votes": 0,
+      "publication_date": 20180114
+    },
+    {
+      "title": "Christmas tree water sensor.",
+      "text": "Needed a Christmas tree water sensor for SmartThings to notify when the water was low. Easy to connect and with custom device handler works great.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "David",
+      "helpful_votes": 0,
+      "publication_date": 20191230
+    },
+    {
+      "title": "Works well with Domoticz",
+      "text": "After editing the send as number to 17, the sensor works great. Out of the box it didn't work with Domoticz, and trying to set the config from Domoticz was kind of a pain, but got it working. Wrapped in a paper towel and set on the basement floor for the next heavy rain so I can pre-emptively fix any problems.",
+      "rating": 4.0,
+      "verified": true,
+      "author": "Tom Flicker",
+      "helpful_votes": 0,
+      "publication_date": 20170508
+    },
+    {
+      "title": "Great sensor, fast acting",
+      "text": "Great sensor, fast acting. If using Home Assistant then you'll need to use the OpenZWave utility to change some settings. Google OZW Utilities. Change report Type to Send to 17. Might take some messing around with but it works.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "D. Ginney",
+      "helpful_votes": 0,
+      "publication_date": 20170516
+    },
+    {
+      "title": "Using it in my sump pump well, working great with Wink!",
+      "text": "Works PERFECTLY with Wink. Tested a few times and also received a bona fide alert due to my sump well filling up from the pump float getting temporarily stuck on the wall of the well.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "C. Kemph",
+      "helpful_votes": 0,
+      "publication_date": 20180628
+    },
+    {
+      "title": "This has already paid for itself. I had a ...",
+      "text": "This has already paid for itself. I had a hose fall in my sump and it prevented my float valve from moving. Needless to say my phone and the wife's phone blew up (I set up an alert in smarthings) when the water got high enough to trigger this. I have a finished basement and it could have ended badly.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "M. Clemens",
+      "helpful_votes": 0,
+      "publication_date": 20180324
+    },
+    {
+      "title": "Peace of mind having confidence I'll be alerted if my sump pump fails.",
+      "text": "This is working great with Wink following the latest update (June 2016) from Wink. Before then the battery always showed it was dead. Now I'm seeing a believable battery status. Every test I've performed has worked flawlessly, even when Wink said the battery was dead.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "xyz Midwest",
+      "helpful_votes": 2,
+      "publication_date": 20160622
+    },
+    {
+      "title": "Quit working less than a year, outside return window ...",
+      "text": "Quit working less than a year, outside return window in two months, I can\u2019t even get the link instructions",
+      "rating": 1.0,
+      "verified": true,
+      "author": "WILLIAM",
+      "helpful_votes": 0,
+      "publication_date": 20180803
+    },
+    {
+      "title": "It has been working well for many months and has alerted me of water in my basement like 8 times",
+      "text": "This thing is the only z-wave device I have that is reliable. It has been working well for many months and has alerted me of water in my basement like 8 times.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Randy in DC",
+      "helpful_votes": 0,
+      "publication_date": 20180621
+    },
+    {
+      "title": "Another Great Product by Aeon Labs",
+      "text": "This device was very easy to pair with the VeraPlus, as it had native support integration. It paired in a few seconds, and I created a scene that shut off the main water valve (Dome). Aeon Labs has really stepped up their Z-Wave game.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Susan L.",
+      "helpful_votes": 0,
+      "publication_date": 20170330
+    },
+    {
+      "title": "Let's see how it holds up",
+      "text": "I had to return the first one that I ordered because the plastic tab that holds the battery panel was broken. The second one is working fine. It paired easily to my Wink hub. It should hold up well as long as I do not have to change the battery often.",
+      "rating": 3.0,
+      "verified": true,
+      "author": "John B",
+      "helpful_votes": 3,
+      "publication_date": 20160527
+    },
+    {
+      "title": "Does the job nicely. Alerts my SmartThings hub when water touches the ...",
+      "text": "Does the job nicely. Alerts my SmartThings hub when water touches the leads. Mounted this above my sump pump to alert me if it backs up or fails to kick in. Nice long cord on the leads, box mounts on the wall (well, 2x4 stud in my case).",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Brian Vincent",
+      "helpful_votes": 0,
+      "publication_date": 20161130
+    },
+    {
+      "title": "Quickly reporting with homeseer",
+      "text": "Reports quickly even just a \"wet\" finger touching the sensor Battery charge after weeks of \"sitting\" around is just as \"new\" no visible discharge so far. Homeseer still reporting 100% with frequent updates. I am running now two of those guys.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "MaheraTop Contributor: Smart Home",
+      "helpful_votes": 0,
+      "publication_date": 20170119
+    },
+    {
+      "title": "Not easy to place",
+      "text": "This device was much harder to place than I thought it would be. Since it has to be attached on the side of something, it's tough to get into the right spot and I don't trust that it's going to stay there. The battery may very well last longer, but the SmartThings leak sensor was so much less of a hassle.",
+      "rating": 2.0,
+      "verified": true,
+      "author": "OrdinaryAverageGuy",
+      "helpful_votes": 0,
+      "publication_date": 20170318
+    },
+    {
+      "title": "Has worked perfectly for me with both SamrtThings and Abode ...",
+      "text": "Has worked perfectly for me with both SamrtThings and Abode. Battery life is measured in years. Paired particularity well with Abode. If you have either of these systems and need a water sensor then just buy this and be done with it.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "R. Thompson",
+      "helpful_votes": 0,
+      "publication_date": 20170911
+    },
+    {
+      "title": "One Star",
+      "text": "It is not working after a few weeks of use.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "Kiminobu Sugaya Ph.D.",
+      "helpful_votes": 3,
+      "publication_date": 20170125
+    },
+    {
+      "title": "Just a little tweaking for smartthings integration.",
+      "text": "The 4 star review is due to the fact that it didn't show up as a water sensor in my smartthings hub. I don't think this is Aeon Labs doing, but someone did figure this out. If you go to your smarthings IDE you can write a custom device handler. The one here [...] worked perfectly. It is not my work. Once I configured everything, I tested with a wet paper towel and I got a IFTTT alert immediately! Now to decide if I want a z-wave shut off valve...",
+      "rating": 4.0,
+      "verified": true,
+      "author": "Andrew T",
+      "helpful_votes": 0,
+      "publication_date": 20160806
+    },
+    {
+      "title": "Worked great and the setup was easy",
+      "text": "Finally got around to setting this up with my Wink HUB. It was easy to install and works great. I tested it to make sure if it does encounter water it would send me the assigned notices I setup as a robot \u2014 worked perfectly,",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Nicole",
+      "helpful_votes": 0,
+      "publication_date": 20180420
+    },
+    {
+      "title": "Seems to work fine. Easy to pair with homeseer",
+      "text": "Installed this with an automatic shut off valve for my water main. No \"live fire\" scenarios yet, but the simulations i have done with it were 100% dead on. Seems to work fine. Easy to pair with homeseer.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "on the river",
+      "helpful_votes": 0,
+      "publication_date": 20170719
+    },
+    {
+      "title": "Great Product",
+      "text": "Works great. I bought this to use with Home Assistant. I had no problem pairing it. It is very sensitive. I can set it off but just pressing the the prongs between my fingers.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Mike RansomTop Contributor: Smart Home",
+      "helpful_votes": 0,
+      "publication_date": 20170614
+    },
+    {
+      "title": "Plays well with SmartThings",
+      "text": "Easily added toy SmartThings System, set up SMS and other alarms and seems to work. I get it wet and it sends me a message, what more can I ask? I have mine set up as a sump overflow warning.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Amazon Customer",
+      "helpful_votes": 0,
+      "publication_date": 20170827
+    },
+    {
+      "title": "Works well, easy to pair to a Z-Wave Controller.",
+      "text": "The water sensor works very well, it is easy to pair with a Z-Wave controller. In my case I have it paired with a Piper security camera that pairs with most Z-Wave devices. I can highly recommend this product.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Joaquin",
+      "helpful_votes": 3,
+      "publication_date": 20150702
+    },
+    {
+      "title": "Great",
+      "text": "I installed eight of these around our house after a pipe broke and flooded our place, putting us in a hotel for 6 weeks. They appear to work great under test; next up is a Z-Wave water valve for the main line.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Evan W.",
+      "helpful_votes": 0,
+      "publication_date": 20170319
+    },
+    {
+      "title": "Great produck to let you know if you have moisture problems",
+      "text": "Had problems with sump pump this spring and am using this product to let me know if it starts getting wet in the basement again.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "H. E. Warner",
+      "helpful_votes": 0,
+      "publication_date": 20180514
+    },
+    {
+      "title": "Works as expected",
+      "text": "Works great! Synced up to my SmartThings hub with ease and reports water instantly when I tested it. I have it hanging down in my sump pump basin to alert me to a pump failure",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Steven Loscheider",
+      "helpful_votes": 0,
+      "publication_date": 20180101
+    },
+    {
+      "title": "Do not buy",
+      "text": "Garbage. Sensor reports wet all the time even after a factory reset. Less than a year old.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "zackley616",
+      "helpful_votes": 0,
+      "publication_date": 20181215
+    },
+    {
+      "title": "Reliable Water sensor, works well with Vera Plus system, nice small form factor.",
+      "text": "Great little water sensor. It's pretty \"aggressive\" detecting water and integration into ZWave Vera Plus system was straight forward. It's size is a nice plus. I would buy it again.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Lutz E.",
+      "helpful_votes": 0,
+      "publication_date": 20180408
+    },
+    {
+      "title": "Perfect A/C drain line monitor",
+      "text": "Connected in no time to my Smartthings hub. Sends text notification to my phone. I use it to monitor my A/C drain line at our house in Florida. Just drill 2 little holes in the PVC pipe - done.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Manfred M.",
+      "helpful_votes": 0,
+      "publication_date": 20180412
+    },
+    {
+      "title": "Easy install does the job.",
+      "text": "Worked like a charm, great addition to check my basement and sump pump area. No complains may buy another for the kitchen sink DI water system.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "The Dutch",
+      "helpful_votes": 0,
+      "publication_date": 20180126
+    },
+    {
+      "title": "Life savers",
+      "text": "These have been life savers where I need to be notified when my sump pump is not working. Great integration with Smartthings and Stringify.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "KenPetersPhotography",
+      "helpful_votes": 0,
+      "publication_date": 20180309
+    },
+    {
+      "title": "Water sensor",
+      "text": "As far as I can tell it is working fine. I had a rough time linking it with SmartThings hub. But finally succeeded. I tested it before I put it in real service and it performed well",
+      "rating": 5.0,
+      "verified": true,
+      "author": "JOHN",
+      "helpful_votes": 0,
+      "publication_date": 20170831
+    },
+    {
+      "title": "Totally worth the money.",
+      "text": "Wow, this thing transmits REALLY quickly. Range appears to be good- no issues. We use this with Homeseer and if I wet my finger and touch the prongs, within 1 second, Homeseer shows the status change",
+      "rating": 5.0,
+      "verified": true,
+      "author": "M. Jackson",
+      "helpful_votes": 0,
+      "publication_date": 20170505
+    },
+    {
+      "title": "Both have failed. 1st one failed within a few ...",
+      "text": "Both have failed. 1st one failed within a few weeks! 2nd one failed within a few months!",
+      "rating": 1.0,
+      "verified": true,
+      "author": "Farmdog",
+      "helpful_votes": 2,
+      "publication_date": 20170728
+    },
+    {
+      "title": "Work great in the attic",
+      "text": "These work great, have better operating temperature rating so I bought them to use in attic for the hot water heater and AC. Wish it measured the temperature like some of the other brands.",
+      "rating": 4.0,
+      "verified": true,
+      "author": "Dew",
+      "helpful_votes": 0,
+      "publication_date": 20180116
+    },
+    {
+      "title": "leaking sensor does mot work thought its design fit my situation",
+      "text": "I like its design. it can hang on to wall and leave the sensor point on floor so when water level rising it does not hurt sensor. But quality is not good. when water make it active and finally defected.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "Jay",
+      "helpful_votes": 0,
+      "publication_date": 20181216
+    },
+    {
+      "title": "After 6 months sensor tops corroded off and constantly shows WET in smartthings",
+      "text": "After 6 months sensor tops corroded off and constantly shows WET in smartthings. Not worth it at all.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "CCG",
+      "helpful_votes": 0,
+      "publication_date": 20181119
+    },
+    {
+      "title": "Works great with the Wink hub.",
+      "text": "Pairs easily with the Wink hub. After repeated tests it works exactly as advertised. Quick response to moisture. Very pleased.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Anon_RLS",
+      "helpful_votes": 0,
+      "publication_date": 20161119
+    },
+    {
+      "title": "These sensors arent expensive and when a device pairs easy to my Vera Lite i like it",
+      "text": "Just hooked up five of these sensors..Paired easly to a Vera Lite...Got the Zooz zwave water valve so if the sensors trip the valve will close...These sensors arent expensive and when a device pairs easy to my Vera Lite i like it...",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Len Ricupero",
+      "helpful_votes": 0,
+      "publication_date": 20160705
+    },
+    {
+      "title": "Already paid for themselves.",
+      "text": "Used several of these to monitor water areas in my smart home. They have already paid for themselves.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Smitty",
+      "helpful_votes": 0,
+      "publication_date": 20180606
+    },
+    {
+      "title": "Easiest setup ever.",
+      "text": "Setup with Smartthings hub was quick and easy. Changed the the device type to Z-Wave water sensor and status is dry out of water and wet in water. I use this sensor in conjunction with a remote shutoff valve.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Arthur O. Harris",
+      "helpful_votes": 0,
+      "publication_date": 20160802
+    },
+    {
+      "title": "much better product.",
+      "text": "This has been more consistent with my SmartThings Hub than the SmartThings made water Sensor. Add the additional wand in comparison, much better product.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Kolinl79",
+      "helpful_votes": 0,
+      "publication_date": 20170617
+    },
+    {
+      "title": "Great sensor.",
+      "text": "Works well. Long battery life. Itested them with Wink and Homeseer. Easy to place on a wall near your water source.",
+      "rating": 4.0,
+      "verified": true,
+      "author": "F. S.",
+      "helpful_votes": 0,
+      "publication_date": 20170409
+    },
+    {
+      "title": "Quick detection",
+      "text": "Very quick response, my phone pings almost immediately after the sensor contacts water. Figured I should have one with a 10+ year old water heater. After a month, the battery still shows 100%.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Sam Habenschuss",
+      "helpful_votes": 0,
+      "publication_date": 20170423
+    },
+    {
+      "title": "Does not connect to most zwave controlers",
+      "text": "Bought to connect to my home security system after the ac overflowed and damaged ceiling. Did not connect returned for refund.",
+      "rating": 2.0,
+      "verified": true,
+      "author": "Tom Fleming",
+      "helpful_votes": 0,
+      "publication_date": 20180804
+    },
+    {
+      "title": "installed it behind a sink out of site and the sensor touching the floor as I have installed a bidet and do not like flirting with Murphy's law",
+      "text": "Paired with my first gen Piper without issue, installed it behind a sink out of site and the sensor touching the floor as I have installed a bidet and do not like flirting with Murphy's law.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Token",
+      "helpful_votes": 0,
+      "publication_date": 20170819
+    },
+    {
+      "title": "Great Humidity sensor - SmartThings compatible",
+      "text": "Great device, wish it had a clip holder rather than relied on dual-sided tape to secure tho.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "SemoTech",
+      "helpful_votes": 0,
+      "publication_date": 20161114
+    },
+    {
+      "title": "Easy to install",
+      "text": "Seems to work great. Easy to install at a reasonable price. We will see how it holds up.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Fister",
+      "helpful_votes": 0,
+      "publication_date": 20170530
+    },
+    {
+      "title": "I use it with my Micasa Verde unit and boy ...",
+      "text": "I use it with my Micasa Verde unit and boy has it saved my behind a bunch of time. I have it under all my fish tanks so that I am aware if I spring any leaks on my canister filters. I have not complaints so far and have been using it for several months.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Carlos C.",
+      "helpful_votes": 0,
+      "publication_date": 20160227
+    },
+    {
+      "title": "very good so far",
+      "text": "never loses connection with my Vera system and worked great when I tested it a couple times.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Megan H.",
+      "helpful_votes": 0,
+      "publication_date": 20170821
+    },
+    {
+      "title": "Five Stars",
+      "text": "Triggers very quickly in my testing and paired with my Vera3 with no issue.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "JR",
+      "helpful_votes": 0,
+      "publication_date": 20161129
+    },
+    {
+      "title": "Four Stars",
+      "text": "Easy setup, now lets hope it works... (won't know until the next flood)",
+      "rating": 4.0,
+      "verified": true,
+      "author": "Mike",
+      "helpful_votes": 0,
+      "publication_date": 20171205
+    },
+    {
+      "title": "Five Stars",
+      "text": "Paired up with my Wink hub. Passed a simple test (wet finger across probes)",
+      "rating": 5.0,
+      "verified": true,
+      "author": "MAF",
+      "helpful_votes": 2,
+      "publication_date": 20151201
+    },
+    {
+      "title": "Very small and efficient device",
+      "text": "Smaller than expected which is a good thing. Paired with Vera Plus UI7 and it works perfectly. Let's see how long the batteries will last.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Pseudomizer",
+      "helpful_votes": 0,
+      "publication_date": 20160511
+    },
+    {
+      "title": "Works but not as nicely as the smartthings water sensor",
+      "text": "Works but not as nicely as the smartthings water sensor. I get the dry or wet indications, but no temperature. I need to know temp for my cabin, in case it starts to freeze.",
+      "rating": 4.0,
+      "verified": true,
+      "author": "George Lopez",
+      "helpful_votes": 0,
+      "publication_date": 20161101
+    },
+    {
+      "title": "Buy this and not the samsung version",
+      "text": "Way better than the Samsung version..which apparently you can't use after it comes in contact with water! Duh! The way this one is constructed, the whole sensor part can be submerged in water and it will work after.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Jana Sheth",
+      "helpful_votes": 0,
+      "publication_date": 20170217
+    },
+    {
+      "title": "So far so good",
+      "text": "Month old and no issues, I have tested it a few times an appears to work. This is a critical device and the real test is when it is needed.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Michael_STL",
+      "helpful_votes": 0,
+      "publication_date": 20160927
+    },
+    {
+      "title": "Works as Advertised",
+      "text": "Works as advertised and was easy to pair with my Nexia system",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Ken M",
+      "helpful_votes": 2,
+      "publication_date": 20161019
+    },
+    {
+      "title": "Works well.",
+      "text": "For the cost, the product seems to function properly. I've not had as real leak but I have periodically tested it and I always get an alert (email) via my wink hub.",
+      "rating": 4.0,
+      "verified": true,
+      "author": "Brian",
+      "helpful_votes": 0,
+      "publication_date": 20160601
+    },
+    {
+      "title": "Five Stars",
+      "text": "Works great with my Vera...used under my 2nd floor washing machine since I can't put a tray under it.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "tsviper",
+      "helpful_votes": 0,
+      "publication_date": 20170210
+    },
+    {
+      "title": "Five Stars",
+      "text": "Great Z-wave water sensor for a great price!! Using for my wink, very low energy consumption.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Curt Howard",
+      "helpful_votes": 0,
+      "publication_date": 20161220
+    },
+    {
+      "title": "Just like \"Casablanca\" I came here for the waters....",
+      "text": "After having the Air Handler overflow in the attic and ruin a wall this was a must have. Great plug and play. Configurable. Very happy.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Tony",
+      "helpful_votes": 0,
+      "publication_date": 20150819
+    },
+    {
+      "title": "It is quite sensitive is easily mounted.",
+      "text": "Works as advertised. The unit is much smaller than it looks from the photos. It is quite sensitive is easily mounted.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Marty B.",
+      "helpful_votes": 0,
+      "publication_date": 20160524
+    },
+    {
+      "title": "Four Stars",
+      "text": "It sometimes shows that it is wet when it is not.",
+      "rating": 4.0,
+      "verified": true,
+      "author": "Teamatl",
+      "helpful_votes": 0,
+      "publication_date": 20180315
+    },
+    {
+      "title": "Five Stars",
+      "text": "Paired easily and when tested, it responded quickly. Good product and I will be purchasing another soon.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Peter Carreiro",
+      "helpful_votes": 0,
+      "publication_date": 20180207
+    },
+    {
+      "title": "Works well on smartthings with some tweaking",
+      "text": "DIdn't immediately work with smartthings. Was recognized as a open/closed sensor! I emailed smartthings and I believe they fixed it. Now it works flawlessly. Other water sensors are recognized out of the box by smartthings but this one is well constructed and more appropriate for under sink mounting. It's also one of the cheaper ones. If it worked with smartthings out of the box, I'd add final star.",
+      "rating": 4.0,
+      "verified": true,
+      "author": "eid8801",
+      "helpful_votes": 5,
+      "publication_date": 20150303
+    },
+    {
+      "title": "FAILED when I needed it most.",
+      "text": "This is probably the most important sensor / smart device youll buy. If you're buying this to protect yourself from leaks or a flooded basement from an overflowing sump, this probably isn't the product to buy. I purchase mine 18months ago. Came down stairs this morning to find a flooded basement due to a failed sump pump. Something this device was suppose to warn me about. It still says its dry even after replacing the pump and spending hundreds on fan rental and rug cleaning. Don't BUY!",
+      "rating": 1.0,
+      "verified": true,
+      "author": "Sean D. Spence",
+      "helpful_votes": 3,
+      "publication_date": 20180130
+    },
+    {
+      "title": "Great Sensor",
+      "text": "I'm using this with a Vera Lite system and it's working perfectly.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Bill H.Top Contributor: Arduino",
+      "helpful_votes": 0,
+      "publication_date": 20160121
+    },
+    {
+      "title": "Works with Wink",
+      "text": "Simple but effective and pairs easily with Wink hub (many don't).",
+      "rating": 4.0,
+      "verified": true,
+      "author": "Scalptrash",
+      "helpful_votes": 0,
+      "publication_date": 20160224
+    },
+    {
+      "title": "Works well",
+      "text": "Works as advertised and much, much smaller than it looked in pictures.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Nathan G",
+      "helpful_votes": 0,
+      "publication_date": 20161102
+    },
+    {
+      "title": "Four Stars",
+      "text": "So far it works and I am happy with it",
+      "rating": 4.0,
+      "verified": true,
+      "author": "C Armstrong",
+      "helpful_votes": 0,
+      "publication_date": 20171209
+    },
+    {
+      "title": "Five Stars",
+      "text": "Easy to pair with Vera Lite. Like that they use AAA Batteries instead of specialty batteries.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "C. Meyer",
+      "helpful_votes": 0,
+      "publication_date": 20161003
+    },
+    {
+      "title": "Two Stars",
+      "text": "It does not work properly in high humidity area. Tip of sensor get rust.",
+      "rating": 2.0,
+      "verified": true,
+      "author": "Josue Bonilla",
+      "helpful_votes": 0,
+      "publication_date": 20180501
+    },
+    {
+      "title": "Five Stars",
+      "text": "Compact product compared to other models. Tricky to program to Vera. Works well",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Dave J Swiatkowski",
+      "helpful_votes": 0,
+      "publication_date": 20150331
+    },
+    {
+      "title": "Two Stars",
+      "text": "Listed as a SmartThings device, cannot get it to connect.",
+      "rating": 2.0,
+      "verified": true,
+      "author": "Rich Crowe",
+      "helpful_votes": 0,
+      "publication_date": 20170518
+    }
+  ],
+  "product_meta": {
+    "title": "Aeotec Water Sensor, Z-Wave Flood & Leak Sensor",
+    "description": "We all protect our homes against fires and thefts, but, each year, more homes are damaged by small water leaks than larger disasters. Aeotec\u2019s Z-Wave Water Sensor helps you monitor for water leaks and floods and prevent them. Super accurate, it\u2019s capable of measuring as little as 0.03% of an inch of water. Powered by 2 x AAA batteries and with a typical battery life of over 1 year, Water Sensor is compatible with certified Z-Wave gateways including Fibaro, HomeSeer, openHab, Samsung SmartThings, Vera, and Wink.",
+    "rating": 3.7,
+    "feature_bullets": [
+      "Monitor and protect against leaks and floods in real-time. Can also detect the absence of water when used with tanks",
+      "Super accurate; can detect as little as 0.03% of an inch of water",
+      "AAA battery-powered and wireless with 1 year battery life",
+      "Compatible with certified Z-Wave gateways including Samsung SmartThings, mirrors vera, open Z-Wave, in control, and homeseer",
+      "Z-wave certified. Certification Number: zc08-14030008"
+    ],
+    "specifications": {
+      "Manufacturer": "Aeon Labs LLC",
+      "Part Number": "DSB45",
+      "Item Weight": "2.08 ounces",
+      "Product Dimensions": "3.1 x 0.8 x 1.3 inches",
+      "Item model number": "DSB45",
+      "Batteries": "2 AAA batteries required.",
+      "Is Discontinued By Manufacturer": "No",
+      "Size": "Small",
+      "Color": "White",
+      "Power Source": "Battery powered",
+      "Item Package Quantity": "1",
+      "Usage": "Indoor use only",
+      "Included Components": "Water Sensor, Waterproof 3M adhesive, Double-sided adhesive, AAA Battery, Screw",
+      "Batteries Included?": "Yes",
+      "Batteries Required?": "Yes",
+      "Battery Cell Type": "Alkaline",
+      "Warranty Description": "1 year warranty against manufacturer defects",
+      "ASIN": "B00H3TJ3P4",
+      "Customer Reviews": "3.7 out of 5 stars180 ratings3.7 out of 5 stars",
+      "Best Sellers Rank": "#285,263 in Tools & Home Improvement",
+      "Date First Available": "December 5, 2013"
+    },
+    "categories": [
+      "Tools & Home Improvement",
+      "Household Sensors & Alarms",
+      "Safety & Security",
+      "Water Detectors & Alarms"
+    ],
+    "price": ""
+  }
+}

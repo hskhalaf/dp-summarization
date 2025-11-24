@@ -1,0 +1,957 @@
+{
+  "website_summaries": [
+    {
+      "verdict": "The Asus RT-N16 is a great, fun router for networking enthusiasts who want to use it with third-party, open-source firmware, such as Tomato or DD-WRT. However, everyone else should wait until Asus provides a more stable version of the firmware.",
+      "pros": [
+        "The Asus RT-N16 multifunction wireless router has impressive specs including Gigabit Ethernet and two USB ports",
+        "It performs well and works great with third-party, open-source firmware"
+      ],
+      "cons": [
+        "The Asus RT-N16 is bulky and doesn't support dual-band communication",
+        "Its USB ports don't provide enough power for bus-powered portable hard drives",
+        "When running Asus' stock firmware, the router is buggy and has an unstable wireless signal"
+      ],
+      "aspects": {
+        "Setup": 6.0,
+        "Features": 8.0,
+        "Performance": 6.0,
+        "Support": 6.0
+      },
+      "publication_date": 20100830,
+      "rating": 6.9,
+      "source": "cnet"
+    }
+  ],
+  "customer_reviews": [
+    {
+      "title": "Amazing hardware, great features and abilities.",
+      "text": "I am up to 4 of these units between myself and family and friends. They are rock solid, long lasting and highly configurable. The interface is simple, and if you need more high tech to burst open this routers possibilities then set up dd-wrt and be amazed at the possibilities. The dual channel memory and robust hardware allow no issues utilizing advanced and processor intensive applications. My home unit gets the most attention from me and it is buried in the basement above a large wooden beam, and the signal still easily reaches outside for listening to iHeart radio over the WiFi while working the yard.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "northofnowhere",
+      "helpful_votes": 0,
+      "publication_date": 20160903
+    },
+    {
+      "title": "as much as I would love to appreciate the RT-N16",
+      "text": "Unfortunately, as much as I would love to appreciate the RT-N16, I have had two go bad on me, one in my personal network at home, and one at a business that caused half a day of downtime as we juggled installing a new router and resetting printers, PCs, Wifi, etc. The first one had a capacitor go bad, the 2nd one kept rebooting and finally failed. Junk. Do better, ASUS!",
+      "rating": 1.0,
+      "verified": true,
+      "author": "Chris F.",
+      "helpful_votes": 0,
+      "publication_date": 20171019
+    },
+    {
+      "title": "and thus far am very happy with the purchase",
+      "text": "I've had it a few days now, and thus far am very happy with the purchase. The stock firmware leaves a bit to be desired for all but basic setup... however if you're willing to get your hands a little dirty, you can really turn this into an enterprise level router w/ dd-wrt or AdvancedTomato. I tried both, and settled on AdvancedTomato. Neither are very difficult to flash onto the router and there are instructions all over the place for this router. Another website sells this exact router flashed with AdvancedTomato for over double the price. A little reading/watching YT videos, and you can do it yourself in about 15min, and save about a hundred bucks.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Ken",
+      "helpful_votes": 0,
+      "publication_date": 20160709
+    },
+    {
+      "title": "Awesome Wireless Router for VPN",
+      "text": "This router works very well once I updated the firmware for use with VPN HideMyAss. Update was easy. Although I was scared at first because all instructions I found online warns about bricking the router if not done correctly. I went ahead and updated anyway and within a few minutes, a new firmware was installed and I could enter VPN information on it. This router is now connected to my main Internet router and all devices connected to this are tunneled through VPN. I can watch HuluPlus on my Vizio TV and my Sony Internet-ready DVD player in Europe. I also have my iPhone and iPad connected to this router so I can listen to Pandora.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "European Newby",
+      "helpful_votes": 5,
+      "publication_date": 20121015
+    },
+    {
+      "title": "Flakier than elephant dandruff",
+      "text": "I bought this on advice of my local (professional) network guru. I needed a basic router to convert the signal coming from my fiber gateway to use in a home network. Shortly, there will only be a single, short Ethernet cable on the outbound side of this ASUS router going to a proper managed switch where I can set my network with proper APs, dumb switches, my VoIP phone, etc. In the meantime, I'm using the WiFi that's built in to the RT-N16 and it's flakier than a giant bowl of un-milked cornflakes. Half a dozen PCs and Macs with 4 bars or better all get dropped several times a day. Pathetic.",
+      "rating": 2.0,
+      "verified": true,
+      "author": "Peter Krogh",
+      "helpful_votes": 0,
+      "publication_date": 20150918
+    },
+    {
+      "title": "Holy grail router for custom firmware",
+      "text": "If you plan on using custom firmware (DD-WRT or Tomato), this is the router for you. Pay no attention to the other comments here complaining about Asus' firmware. If you want to use manufacturer firmware, buy a Linksys or Netgear. I'm currently running DD-WRT on it (dd-wrt.v24-14929_NEWD-2_K2.6_big.bin) with no problems. The GUI is by far faster than any router I've ever used. DD-WRT unlocks the full potential of this sub-$100 router. Search \"dd-wrt wiki asus rt-n16\" in any search engine for very detailed instructions on flashing DD-WRT firmware to this router, and follow them to the letter. At first glance, the instructions appear to be long and complicated. They are actually very easy and took me about 10 minutes total.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Stonie Rocks",
+      "helpful_votes": 0,
+      "publication_date": 20111220
+    },
+    {
+      "title": "Third purchase",
+      "text": "I purchased this device for myself 3 months ago. Since then, my parents and grandparents have both required replacement to their own routers. In both cases I was so pleased with my previous purchases I decided to buy another. All three routers were extremely easy to set up, and I even used the wireless setup on two of them. My only complaint is that my mother's wireless card required a driver update to connect, but since the wired connection worked fine I was able to tell vista to search for the driver automatically. I blame this on the laptop more than the router, but it is something to consider if you have an older laptop.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Duane M. Zamrok",
+      "helpful_votes": 0,
+      "publication_date": 20140316
+    },
+    {
+      "title": "An excellent router if you get one with good caps",
+      "text": "I purchased this item in November 2011 for $89, loaded Tomato and it has run trouble-free for the past 6 years. Judging from the reviews, Asus had a run with bad capacitors. If you get one outside of that run, it's the only router I've ever had that could rival the legendary wrt54g I bought in 2003 for reliability (Note: I gave my wrt to a neighbor for his barn AP 5 yrs ago and it's STILL running!).",
+      "rating": 5.0,
+      "verified": true,
+      "author": "AftrBrnr",
+      "helpful_votes": 0,
+      "publication_date": 20171208
+    },
+    {
+      "title": "Great router",
+      "text": "I've installed about half a dozen of these for myself, friends, family, work projects, and customers; I've never had a problem and this is my go-to router. For the price this is a great performing router and (at the time I'm writing this review) seems to be a great balance of cost to performance. Great range, very stable, great performance, printer sharing, and various options for data storage/sharing. There was a big difference between an old version of the firmware and the newer ones, so make sure you are fully updated. The only limitation I've had any trouble with is the support (or lack there of) for drives larger than 2tb.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Mecha",
+      "helpful_votes": 0,
+      "publication_date": 20140125
+    },
+    {
+      "title": "features packed like a can of sardines",
+      "text": "Brilliant router, does that it promises, with DD-WRT and open-wrt the beast within is completely unleashed. The Asus firmware is no slouch either . Brilliant hardware, beats the daylights out of any other router in its class, Still pricey considering that the hardware is 2 years old but this is also a indicator that the router is a workhorse. I personally prefer gargoyle on my router (an implementation of open-wrt). I have had many routers, the neatgear wdnr-3700,wdnr-3800 and the Buffalo WZR-HP-300NH. The first 2 routers were probably the worst i could have owned, the Buffalo was a very good router with DD-WRT but the Asus takes it to a whole new level. Over all i am one satisfied customer!",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Theninjax",
+      "helpful_votes": 2,
+      "publication_date": 20121129
+    },
+    {
+      "title": "On DD-WRT, this router rocks my socks off.",
+      "text": "Stock firmware is crappy as hell, upgrade to DD-WRT as soon as you get it. This replaced a crappy linksys 150n router we had at work, the old router just couldn't handle a network with 10+ wireless clients + bunch switches hooked to the ethernet constantly craving data, the RT-N16 paired with DD-WRT handled network traffic flawlessly and instantly relieved the congestion we've seen before on the old linksys router. The diagnostic and QoS tool also helped optimize wireless network and lan traffic bandwidth. Rock stable, have been running for couple month now, non-stop. Runs a bit on hot side. Never tried USB or NAS capability so no comment on that.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "AmazonAholic",
+      "helpful_votes": 0,
+      "publication_date": 20101213
+    },
+    {
+      "title": "Doesn't last -- Bad Capacitor - 2 year disposable",
+      "text": "Good Router, running DD-WRT for over 2 years with no issues, always had on a UPS for protection. Died 2 years 5 months. Edit: the 16v 680uF cap looks like it is bulging, apparently this is a known issue with these routers. Most folks are replacing with a 25V 1000uF cap. Edit -2 : Installed a new cap 25V 1000uF, router powered up and performed like new.. For only 1 day, then died no lights at all. Bottom Line this looks like a 2 year (very good) disposable router from my experience.",
+      "rating": 2.0,
+      "verified": true,
+      "author": "CT",
+      "helpful_votes": 0,
+      "publication_date": 20141022
+    },
+    {
+      "title": "Best router I've ever owned",
+      "text": "Best router I've ever owned. Period. Bought mine from Amazon in 2011 and retired it in 2015, because I moved up to AC speed. Originally purchased it because I wanted to run Tomato firmware. Did a bunch of research, and flashed the firmware without too much hassle. Ran this router non-stop for almost 5 years. Re-booted it possibly 4 or 5 times over those 5 years, but only because my DSL or cable modem acted up, NOT because of the router. Didn't know much about ASUS in 2011, but I sure as hell swear by them nowadays.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Skeletor",
+      "helpful_votes": 0,
+      "publication_date": 20150129
+    },
+    {
+      "title": "It's pretty much a Linux server. Tons of features and excellent performance.",
+      "text": "These routers are amazing. They come with a skinned version of DD-WRT from ASUS and have a lot of impressive features. Plugging an external hard drive into the router actually gives you real network file sharing with customizable user/permission support. The router is actually a mini linux server and has a real firewall, multiple SSID support, parental controls, IPv6 support, etc. I have been switching all of my D-Link 655 routers to the different variations of this router and have been extremely impressed.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Brian Aldridge",
+      "helpful_votes": 0,
+      "publication_date": 20141205
+    },
+    {
+      "title": "Excellent router, just beware of the rebate",
+      "text": "The router works great. It is powerful and can handle many connected devices without skipping a beat. The only problem I had was with the rebate process. I went through a whole email battle with ASUS about the invoice. I printed an invoice from my orders. They clearly asked for a COPY of the invoice but I was told I needed an original. After about a total of about 6 back and forth emails, they finally gave it to me when I pointed out that they stated copy rather than original was needed.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "JC",
+      "helpful_votes": 0,
+      "publication_date": 20160216
+    },
+    {
+      "title": "A lot of router for the $$",
+      "text": "An astounding array of features; remarkable for the price, IMHO. Located in one end of our house in the basement, it didn't have quite the wireless range needed to reach the other end. I hunted around for a wireless access point to complement it, but after a while decided to just buy another one and run it in WAP mode. Setting this up was slightly confusing, but a few minutes of experimentation and it was up and running. I haven't tried adding a hard drive for network storage, but that's next.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Larry R",
+      "helpful_votes": 0,
+      "publication_date": 20150811
+    },
+    {
+      "title": "i had to leave it sit for like 20 minutes",
+      "text": "i put shibby's tomato firmware on it and this is now a rockstar device. when putting on the tomato firmware, i found, after i started the firmware upload process, i had to leave it sit for like 20 minutes, even though the upload only took a minute or two. after 20 minutes it would get out of recovery mode on its own and work just fine. been running for a few weeks now and still responsive as ever. no memory leaks that cause it to go to s*** after a few days. it really is a great device for the price (128MB ram and 32MB flash)",
+      "rating": 5.0,
+      "verified": true,
+      "author": "review mang",
+      "helpful_votes": 0,
+      "publication_date": 20141115
+    },
+    {
+      "title": "Stability and flexibility",
+      "text": "I have been very happy with the stability and flexibility of this router. I've tried alternate firmware from DD-WRT and Tomato, and I decided on using Tomato for a PPTP VPN solution. The wireless signal is very reliable for media streaming, and I've never had to reboot it since installing it a week ago. I do not use the USB ports, so I can't comment on their functionality. I did several reboots during the initial firmware flashing and configuration, and the reboots were very quick. The PPTP VPN connection has been absolutely stable and consistent. No complaints at all from this router.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Johnathon M. Jones",
+      "helpful_votes": 0,
+      "publication_date": 20130429
+    },
+    {
+      "title": "RT-N16",
+      "text": "Very stable Fast router. I read other reviews complaining of stock firmware heres what it boils down to. yes the stock software that comes with it is pretty much complete clunkerware (it does work as intended) but your kinda missing the point of buying a wrt enabled/capable router if your planning on running stock, a previous model that i owned an asus wl520gu was exactly the same way just older, slower technology but feature wise identical until tomato/ddwrt/openwrt is installed this is just a refinement of the older series more cpu/ram/flash etc..",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Aaron Crow",
+      "helpful_votes": 0,
+      "publication_date": 20140113
+    },
+    {
+      "title": "worked for a few hours, then stopped working",
+      "text": "I'd read the reviews, some great, some talked about the slowing down. I am the eternal optimist, and needed a router that could easily handle OpenVPN. I connected it (am a liberal arts person who has done networking for 30 years) and it worked...for a few hours, slowly. Then it stopped. REbooted everything a few times, started again, even slower. Then it stopped again. Internet radio that never had a problem would stop every minute with this router. Looked up fixes, too complicated for this user, so returned router.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "M. Barreto",
+      "helpful_votes": 5,
+      "publication_date": 20120525
+    },
+    {
+      "title": "Rock steady for over 2 years.",
+      "text": "I bought this over 2 years ago and it has been in continuous service in my server closet ever since. A couple of firmware upgrades have gone off without a hitch. I think I've had to power cycle it maybe 3 or 4 times in those 2 years, usually after a little power flicker or when a workman borked one of my network cables, likely causing a short. The firmware could be more feature-rich, sure, but it does what I need and I haven't been tempted to move to Tomato or ddwrt yet.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "John T Haley",
+      "helpful_votes": 0,
+      "publication_date": 20150826
+    },
+    {
+      "title": "Three words: Tomato by Shibby",
+      "text": "Got this router explicitly for shibby's build of tomatoUSB and never looked back. Now I'm running NAS with 2x attached external HDDs, SMB shares, FTP, miniDLNA server, OpenVPN Server, adblocking with dnsmasq, and a knock daemon for remote SSH access. Oh and did I mention its overclocked and even turns its own LEDs off when the sun goes down! My WAN isn't fast enough to require AC or even dual N for my 4 connected devices so until I get more local traffic N-150 is plenty of speed. And if I do upgrade, it will likely be an ASUS, the build quality is unbeatable.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "JPT",
+      "helpful_votes": 0,
+      "publication_date": 20150519
+    },
+    {
+      "title": "Top Notch Linux Friendly Wireless N Router",
+      "text": "If you need only single band (2.4ghz) then this is a top router at a great price. very 3rd party firmware friendly (DD-wrt, OpenWrt, Tomatoe,). very difficult to 'brick'. i'm running the stock AsusWrt firmware (update it when it arrives) and it has been no problems. i've no use for dual band wireless so this is a perfect fit. great hardware specs. also, Asus is very Open Source/Linux friendly while other router makers are not so much, even though they too run Linux based firmwares on their routers. can't think of any reason not to get it unless you need dual band and support for the upcoming wireless 'ac' specs which supersede wireless 'N'.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Linux Rulz",
+      "helpful_votes": 0,
+      "publication_date": 20140221
+    },
+    {
+      "title": "Awesome Router",
+      "text": "I got this router primarily because I wanted to flash DD-WRT which is a different firmware. It took me a while before I started the project because I wanted to gauge a couple of benchmarks and I have to say that the stock Asus firmware is really good. It gives a surprising amount of options and user choices that I have not seen in Netgear and Linksys products. I actually needed this as an upgrade over my Netgear router which just needs to be reset everyday or it becomes useless. Once I flashed the firmware this router became an amazing platform. I installed entire house ad-blocking and it becomes even easier to port forward to speed up latency during gaming.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Otis",
+      "helpful_votes": 0,
+      "publication_date": 20130422
+    },
+    {
+      "title": "Works without issue",
+      "text": "I purchased this router after my Linksys finally died. I had intended to put DDWRT on it but just have not gotten around to doing so yet. Its been running for about 2 months without any changes, I do think I updated the firmware when I initially installed it but have not had time to do much else with it yet. Its been up for 2 months without any issues on the factory firmware. I do have it inside a solid wooden desk just because I have not had time to reroute the wires but even in there is works fine through the 2 story entire house and into the yard.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "P.R.A.",
+      "helpful_votes": 0,
+      "publication_date": 20130104
+    },
+    {
+      "title": "Rock-solid router, works well with DD-WRT",
+      "text": "This is a rock-solid item. As soon as I got it, I flashed it with DD-WRT and converted it to a wireless access point. It's been working non-stop in my home without needing a reboot since then, which was at least three weeks ago. We have multiple wireless devices, including smart phones, tablets and laptops, and everything connects flawlessly every time. The wireless throughput is great. The speed is doubled that of my old wireless-G access point that this item replaced. If you are an power-user, get this and flash it with DD-WRT immediately. You won't be disappointed.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Greg E. Covey",
+      "helpful_votes": 0,
+      "publication_date": 20121106
+    },
+    {
+      "title": "Rock solid",
+      "text": "Purchased for a new home with cable internet service. Opened the box, installed tomato, set up QoS and its been up for 4 weeks now. Rock solid product. My house is combination CMU, wood siding, metal studs, and I am still getting decent connectivity through 2 concrete walls, and 2 drywall & metal stud walls. I am impressed to say the least. The download speed in the furthest location does suffer, about 2Mbps, versus 30Mbps when standing in the room with the router over 802.11n, however the connection is very solid and has not dropped yet.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "J",
+      "helpful_votes": 0,
+      "publication_date": 20121019
+    },
+    {
+      "title": "This is a good router",
+      "text": "A stable router is a good router. A router with lots of features is a good router. A router that plays nicely with Time Warner and Verizon modems (and modem/routers in bridge mode) is a good router. I had DD-WRT installed in 10 minutes, setup basic port forwarding, DYNDNS in 5 minutes and I haven't had to touch the thing in weeks. Felt good enough about it that I installed it at another site. Weeks have gone by and both routers have not given me any problems. This is a good router.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "MojoMac",
+      "helpful_votes": 2,
+      "publication_date": 20130119
+    },
+    {
+      "title": "Surprised....",
+      "text": "I bought this router with the hopes of having a good VPN/NAS AP. After loading DD-WRT on it I discover the DC Adapter plug is faulty, it reboots if the electical line moves (BS). Moreover, the antennae are no better then my Netgear WDR unit, go figure. - Not impressed. This router is a crap-shoot. You might be better off with a Buffalo or other Netgear. I have done a lot research in this area and just cannot believe how bad N routers are, almost everyone is manufactoring junk...! GL",
+      "rating": 1.0,
+      "verified": true,
+      "author": "Erick Griffin",
+      "helpful_votes": 0,
+      "publication_date": 20130518
+    },
+    {
+      "title": "love this router",
+      "text": "love this router. Since I don't plan on owning any dual band WiFi devices any time soon, there was no reason for me to replace my old router with one that has Dual band support (and having to pay for the privilege as well). And with this router I get my built-in Print-Server function via the dual port USB support and I also get Gigabit ethernet support on top of being able to install a custom router Firmware should I want to.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "JimC",
+      "helpful_votes": 2,
+      "publication_date": 20140325
+    },
+    {
+      "title": "EasyTomato and RT-N16 is like chocolate and peanut butter",
+      "text": "This thing is operating like a champion! I immediately put EasyTomato firmware on it without even trying the firmware that came with it. Then I set it up to connect to the Wi-Fi downstairs. After that, I haven't given it another thought--it just works! Oh, and I took advantage of the ASUS rebate. Not sure if that's still going on, but it was nice to get $20 back.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "C.B. Stone",
+      "helpful_votes": 0,
+      "publication_date": 20160501
+    },
+    {
+      "title": "Sudden death at 2 years",
+      "text": "Great while it lasted - this router worked fine for almost exactly 2 years and then suddenly stopped working - wouldn't power up for more than 5 seconds, just shut itself off or was totally unresponsive when power-cycling. I tested the power supply with a multimeter; the power brick was fine. I've been having bad luck with Asus these days. Faulty motherboard, dead tablet, and now this access point. I'll likely stop buying Asus products at this point.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "Park Place",
+      "helpful_votes": 0,
+      "publication_date": 20140806
+    },
+    {
+      "title": "JP",
+      "text": "I needed an N router that could run Tomato firmware. This is one of the few, plus it has gigabit ethernet to boot. The router (with tomato) is great in every regard except for one: range. The range is not very good at all compared for my old buffalo G router. I experimented with several antennas, even directional ones, but that made little difference. I might also add, it very difficult to collect range data given the amount of variability that exists in the RF range. Overall, I like it and still use it, but next time plan on getting one in the 5Ghz range.",
+      "rating": 3.0,
+      "verified": true,
+      "author": "JP",
+      "helpful_votes": 0,
+      "publication_date": 20111226
+    },
+    {
+      "title": "Nice DD-WRT router",
+      "text": "I bought this as a DD-WRT compatible router to replace my (annoyingly bad) Buffalo WZR-HP-G300NH, which never seemed to work. I've been very pleased with the ASUS, and overall it's been quite stable, doing everything I've asked of it. I typically have experienced uptimes of 40+ days, and (obviously) I'm not keeping up on the bleeding edge of the DD-WRT firmware. It works, does it's job, and gets a lot of bytes pushed through it. If you're looking for a solid router that will do the job without complaint, this is a great choice.",
+      "rating": 4.0,
+      "verified": true,
+      "author": "J. Wischkaemper",
+      "helpful_votes": 0,
+      "publication_date": 20101227
+    },
+    {
+      "title": "Great router so far",
+      "text": "This router has tons of features for the $80 I paid for it. First off, make sure you upgrade from the v1 firmware to v3 (found on the ASUS website). It has many more features not included in the original version like guest network etc and the interface is not as cludgy. Also love its ability to act as an extension of my PC USB ports almost seamlessly. Plugged in my multifunction Canon printer and in no time I'm off to the races. Another great router from ASUS - really liking their networking products these days!",
+      "rating": 5.0,
+      "verified": true,
+      "author": "R. Hanton",
+      "helpful_votes": 0,
+      "publication_date": 20120808
+    },
+    {
+      "title": "Lots of bells and whistles I dont' know how to use - but works well!",
+      "text": "For those tech-ier than me, there are alot of options with this wireless router - you can set parental controls for certain websites, you can enable guest wireless access, you can prioritize gaming or streaming, etc. etc. Bottom line is this: I have a mac and a PC and they both work very well on this wireless router. I haven't had to unplug and manually reboot it for the last 3 days (since install) and that's longer than my last router worked continuously (granted, it was on its last leg).",
+      "rating": 4.0,
+      "verified": true,
+      "author": "Shanee Osher",
+      "helpful_votes": 0,
+      "publication_date": 20130414
+    },
+    {
+      "title": "Best Price to Performance Ratio!",
+      "text": "After loading up the recommended build of DD-WRT onto this router, I can say hands down that I have found a replacement for the venerable WRT54G series from Linksys. I had struggled to find a router that could run for months or even years at a time with no hiccups and after much research I decided that this was the replacement. Screaming fast wired speeds, and equally fast N speeds. The only complaint that I can bring against this router is that it does run quite warm and will need adequate ventilation. All in all a superb product.",
+      "rating": 4.0,
+      "verified": true,
+      "author": "reddevil2064",
+      "helpful_votes": 0,
+      "publication_date": 20110801
+    },
+    {
+      "title": "Very good router with a USB printer server port.",
+      "text": "Have used this router for several months and am very happy with the performance and reliability of this router. Used the USB printer server port on the back of router before my printer failed and recently purchased a wireless capable laser to enable wireless printing from my 1st Gen iPad and Android smartphone devices. Just make sure that you have the most current firmware and software updates from the manufacturers product support website, the documentation for this device can be a bit sketchy.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Amazon Customer",
+      "helpful_votes": 0,
+      "publication_date": 20130603
+    },
+    {
+      "title": "Solid, fast, and reliable router (Tomato compatible)",
+      "text": "This router works really well and is very fast. I needed a new Wireless-N router and am definitely happy with this one. I loaded up Tomato USB on it and it really makes everything very speedy over the network. I don't even use particularly advanced router/networking features, so it's simple enough to just have it set up and work. I just wanted to get something reliable and fast, and this fits the bill once it has Tomato on it. I haven't had to reset or mess around with it since I first set it up. Highly recommended.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Jeff Wong",
+      "helpful_votes": 3,
+      "publication_date": 20110503
+    },
+    {
+      "title": "Good if your internet speed is 80 megabit or less",
+      "text": "People give this thing great reviews, but I got it specifically to pair with a 150 megabit download connection and learned (after I had configured it) that it can't handle these kind of speeds. I was topping out at 80 megabit download. So if your internet is 80 megabits or slower, this should be a great option for you. But the advertised \"gigabit\" ethernet port is somewhat misleading as it doesn't approach those actual speeds.",
+      "rating": 3.0,
+      "verified": true,
+      "author": "Matt Ownby",
+      "helpful_votes": 0,
+      "publication_date": 20160119
+    },
+    {
+      "title": "Solved my problem",
+      "text": "Charter Cable sent me a new Motorola modem. When I installed the modem, it would not talk to my older Linksys router. I decided to upgrade my router, and use the Linksys as an access point in another part of the house. I have used Asus routers for other applications, and found them to be very robust. I am very pleased with the performance of my Asus RT-N16. It is a good value for the money. I installed Tomato on the router without a problem and now enjoy all the custom settings.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Wizard",
+      "helpful_votes": 0,
+      "publication_date": 20130128
+    },
+    {
+      "title": "NOT so sure about this but (more)",
+      "text": "I was told this was THE router to buy. I was GLAD o find it a little cheaper here than other online stores but it doesn't reach nearly as far as I had hoped. It seems RELIABLE as far as STAYING ON & keeping us on the wireless rather than bumping us out all the time like past routers, but it doesn't reach as far as my kids bedrooms etc... and they are NOT FAR from the router. Once in awhile it ca reach the far bedroom- but usually not at all (farthest down the hall is about 35')",
+      "rating": 3.0,
+      "verified": true,
+      "author": "Zeeky",
+      "helpful_votes": 0,
+      "publication_date": 20130511
+    },
+    {
+      "title": "A good upgrade",
+      "text": "I paired this with Tomato Firmware - currently 1.28.0000 MIPSR2-114 K26 USB AIO by Shibby. The stock firmware was fine, but a bit bloated and slow. It worked well though, but I wanted the option to customize a little more than what was offered. Tomato is a very versatile system, and I like it much better than DD WRT. This router has been flawless. It replaced an older Linksys router and I finally got the throughput I was paying for.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "B Jenkins",
+      "helpful_votes": 0,
+      "publication_date": 20131118
+    },
+    {
+      "title": "Relax Modders, It's Hard to Kill It.",
+      "text": "A great router, quite amenable to tweaking with DD-WRT and Open-WRT hardware. Both will supercharge this Broadcom-based chipset. Moreover, this device is hardy. A couple of times I was certain I bricked it, however with the proper incantation it sprung back to life. It remains operational today. It's IPV6 capable, and reportedly will attach to the Tomato K-26 build for IPV6. I have not to date tried that build.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "1sojourner",
+      "helpful_votes": 0,
+      "publication_date": 20141026
+    },
+    {
+      "title": "Another good ASUS product",
+      "text": "So far, I love this router - setup is dirt easy and the range is better than my old (Linksys) router. (Can't blame the Linksys really, it was six years old I think, and internal antenna only) - the GUI is easy to use and well laid out for home users, and getting it from the package to 'in use' took about eight minutes, including changing the mounting screws on my wall.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "DyreWulf",
+      "helpful_votes": 0,
+      "publication_date": 20160217
+    },
+    {
+      "title": "This router is great",
+      "text": "This router is great. I use these for business and home use. Once setup with dd-wrt, this is a great router for the price. I would have given 5 stars except that the initial flashing to dd-wrt required me to go through the default setup wizard (aka 10 minutes to configure a network connection), which is only to be reflashed to dd-wrt. If only the default wizard had an \"update firmware\" option on the first page.",
+      "rating": 4.0,
+      "verified": true,
+      "author": "Ratmouse123",
+      "helpful_votes": 0,
+      "publication_date": 20140107
+    },
+    {
+      "title": "Perfect, perfect!",
+      "text": "I am tired of Cisco/Linksys wireless devices. I wanted a change. And I wanted to try ASUS. I am not disappointed. After using Linksys/Cisco products for so long, navigating the friendly web-based utility took some time to familiarize myself. All in all, it does exactly what I need and I am able to configure my network the way I need it. Perfect device for anyone, perfect for those who may need more than just a wireless router.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Bryan Coleman",
+      "helpful_votes": 0,
+      "publication_date": 20150211
+    },
+    {
+      "title": "it's ok, but",
+      "text": "It barely boost my wifi range and replacing my original 4 year old linksys router (but it did boost it). That being said though the setup options made it easy for me to set it as an access point, and I've daisy chained both routers to adequately cover my house. I have no network printers and I have yet to connect a external hard drive to the device so I cannot comment on those features, I purchased it to stream to a apple tv and I connected both devices directly with a network cable to avoid dropped signals, and it works as advertised for my requirements.",
+      "rating": 4.0,
+      "verified": true,
+      "author": "Dwhyte Hunter",
+      "helpful_votes": 0,
+      "publication_date": 20130101
+    },
+    {
+      "title": "I had a apple router and I never once had issues and the installation process was so easy. This product took me hours to install",
+      "text": "I continuously have to reset this router. I had a apple router and I never once had issues and the installation process was so easy. This product took me hours to install and I called the tech support several times.you could tell the customer service department is definitely outsource and they had no idea what they were doing. Most of them are rude to you as well.",
+      "rating": 2.0,
+      "verified": true,
+      "author": "GMelanie",
+      "helpful_votes": 0,
+      "publication_date": 20150120
+    },
+    {
+      "title": "Great Router",
+      "text": "Expanded my wifi range to my entire two story house. I have not had to reset it once since purchased. It arrived quickly and was easy to set up. I also use a repeater for wifi outside on the deck and by the pool. With my old router, I was not able to stream music through my ipad which was connected to a receiver/amp out on my screen porch even with the repeater. Now its no problem to stream pandora or other streaming media and have hours of music outside without changing stations.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Nina",
+      "helpful_votes": 0,
+      "publication_date": 20130611
+    },
+    {
+      "title": "great router and easy , breezy set up.",
+      "text": "This router was extremely easy to set up, took about 5 minutes tops. Everything I have that is wireless has connected easily and we have not had any connection drops. Our download speeds have increased which is a Hugh plus,we were having some speed and connection issues with our old d-link router and this seems to have fixed everything.wireless Range is good too, we live in a two story , 3200 square. Foot house and have had no connection issues. I would definitely recommend this router to anyone in the market for a new one.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Mandy",
+      "helpful_votes": 0,
+      "publication_date": 20140305
+    },
+    {
+      "title": "maybe a bad contact on the circuit",
+      "text": "I had problems with the Wan port... maybe a bad contact on the circuit. After two years waiting patiencely on my cabinet, I have found a not original firmware that allowed to have tho wan ports. I was save by the geeks, thanks! Less than one year later, simply died. Stay on for 4-5 seconds and turn off. If this router worked, will be na amazing product. Ah, almost forgot... the ASUS Support is a crap.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "Rogerio Valle",
+      "helpful_votes": 0,
+      "publication_date": 20160418
+    },
+    {
+      "title": "My new Home Router",
+      "text": "Works great, ripped the provided firmware off and put DD-WRT firmware on it. the stock firmware supports WDS but only without encryption I went with DD-WRT because it will let me do WDS and encryption and will allow me to mesh with up my wrt310n routers I am happy with this product It is up and working in my house right now. the external antennas might need some help but then again I expected that too and have just ordered some",
+      "rating": 5.0,
+      "verified": true,
+      "author": "M. Evans",
+      "helpful_votes": 0,
+      "publication_date": 20110904
+    },
+    {
+      "title": "A powerful and versatile router - fully compatible with TomatoUSB / DD-WRT firmware. Great for Linux users",
+      "text": "This is a high power router with 128 MB RAM, 5 gigabit LAN ports and a gigabit WAN port, supports open source firmwares (I use Tomato USB). I use this as my gateway router, and run a few VPN connections and a variety of Linux scripts. It supports only 2.4 GHz band in 802.11n wireless, but that is not so important to me. If you buy this router, I HIGHLY recommend that you DO NOT use the stock Asus firmware!",
+      "rating": 5.0,
+      "verified": true,
+      "author": "linuxonly",
+      "helpful_votes": 0,
+      "publication_date": 20131110
+    },
+    {
+      "title": "It's alright.",
+      "text": "Stock firmware works; but it is a pain to use with a cable provider who is slow to hand out DHCP (charter). Some of the diagnostic/setup functions trigger/reset the time delayed process of addresses being handed out. Definitely needs ddwrt if your in a place where your net might go up/down frequently, the stock stuff does not deal with those edge cases gracefully. Seemed to work fine in your average setup scenario though. Decent enough box for the price though.",
+      "rating": 4.0,
+      "verified": true,
+      "author": "wr4th tech",
+      "helpful_votes": 0,
+      "publication_date": 20131117
+    },
+    {
+      "title": "Great with a grain of salt",
+      "text": "I have had the router all of maybe 6 hours, and so far I am extremely impressed with the performance of the unit. That statement must be taken with a grain of salt though, seeing that I am no longer running the stock firmware. After about an hour of tweaking with the stock unit, I opted to use a custom firmware by the name of Tomato. The unit is extremely easy to load with the custom firmware without losing functionality. If you are a tech person like my self, who enjoys pushing hardware to the test, this is the router for you.",
+      "rating": 3.0,
+      "verified": true,
+      "author": "cpeters",
+      "helpful_votes": 0,
+      "publication_date": 20110820
+    },
+    {
+      "title": "Update firmware when you open it",
+      "text": "I made a rookie mistake when I first purchased this many months ago. I didn't immediately update the firmware. This was fine for a while, but when AT&T upgraded my U-Verse speed I suddenly was experiencing a lot of dropped connections. I finally remembered to check the firmware and it was two major upgrades out of date. (I was running 1.xx and ASUS had updated to 3.xx.) Other than that it has been great and provides great coverage in my 2500 sq. ft. home.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "GHG Enterprises",
+      "helpful_votes": 0,
+      "publication_date": 20131228
+    },
+    {
+      "title": "Very good wifi switch",
+      "text": "I like this ASUS wifi portal quite a bit. I flashed the unit with DD-WRT software to allow me to set up hotspots, etc. The flash process was easy and executed flawlessly. Since DD-WRT isn't what the ASUS ships, I cannot comment on the ASUS software or setup process. Everything inside the device works though including USB; I have a flash memory formatted (using gpartd) for use by DD-WRT to provide FTP services. The signal is strong throughout my place. It seems to be a very good router.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Tech geek",
+      "helpful_votes": 0,
+      "publication_date": 20130502
+    },
+    {
+      "title": "Excellent router. Compatible with both DD-WRT and various Tomato ...",
+      "text": "Excellent router. Compatible with both DD-WRT and various Tomato firmware flavors. Very easy to switch firmware, and it's fairly well protected against bricking. Very stable, and in comparison to many other routers I tried requires very infrequent rebooting. All ports, including WAN, are 1Gb. The only drawback - it runs a bit hot. Its range is also not the best, but TX power increase and amplifier antennas easily take care of that. Asus has decent customer service as well.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "A",
+      "helpful_votes": 0,
+      "publication_date": 20150907
+    },
+    {
+      "title": "The bst one yet.",
+      "text": "I installed Tomato on this and its been rock solid. I even have Asterisk phone system running on it with no trouble. I use one of the two USB ports to hold a thumb drive that I use for storing voice mail. You can also attach a regular USB drive and configure it to be a NAS drive if you want. IT does all that plus it makes a pretty good router too.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "D. Hawkins",
+      "helpful_votes": 2,
+      "publication_date": 20140208
+    },
+    {
+      "title": "Excellent Router",
+      "text": "Best router I've ever had! Once it's all set up (which can take a while if you have a lot of devices that use wifi like myself) it is very useful. i like being able to monitor all the traffic from my devices, and the ability to devote more bandwidth to certain activities is awesome. I'm very happy with the product.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "30volts",
+      "helpful_votes": 0,
+      "publication_date": 20160302
+    },
+    {
+      "title": "This does exactly what I need for using my tablet ...",
+      "text": "This does exactly what I need for using my tablet and for my daughters tablet. Works well for a notebook, too, that we have. It uses the N band. We don't stream video so we weren't concerned about it not having the newer split band for streaming video. If all you want is straight internet, then this is the one to buy. This unit has proved to be very dependable and reliable.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Paul   A.",
+      "helpful_votes": 0,
+      "publication_date": 20140823
+    },
+    {
+      "title": "A+ highly recommended",
+      "text": "I own one of these and recommended it to several people. They have all enjoyed it, it may be one of the best routers out there. First thing I do is put easy tomato firmware on it since my understanding is that the out of box isn't anything to get excited about. If you're willing to follow the 4 or 5 steps to upgrade to tomato, you will not be disappointed.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "ryanvito",
+      "helpful_votes": 0,
+      "publication_date": 20150210
+    },
+    {
+      "title": "Good inexpensive and effective unit",
+      "text": "with firmware upgrades this has been working really well for months now. I have not been able to figure out the printer connected directly to the router and all types of printers are not supported. My usage for this is under a Windows environment mainly and some android and Windows mobile devices.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "O. Asghar",
+      "helpful_votes": 0,
+      "publication_date": 20150405
+    },
+    {
+      "title": "A great router if you know how to install Tomato",
+      "text": "I didn't use this router stock, but instead installed Tomato. It seems to handle router-intensive activities like BitTorrent transfers with lots of connections well where my older router would crash, go at a snails pace, or just plain drop connections. The tomato interface is pretty easy to use, but I'd be lying if I said any user could install it, so please ignore this review if you are considering a stock usage.",
+      "rating": 4.0,
+      "verified": true,
+      "author": "Kim",
+      "helpful_votes": 0,
+      "publication_date": 20131101
+    },
+    {
+      "title": "Excellent product, was well worth the upgrade",
+      "text": "Got this router after my Linksys running dd-wrt started giving a lot of problems. The range is excellent and so are the features. i especially love the fact that I could use thrid party firmwares and not be restricted to the ausu factory firmware which i'm not particularly a fan of. I wish the led's at the front were not so bright but i've mostly solved that problem by covering them up with black electrical tape.",
+      "rating": 4.0,
+      "verified": true,
+      "author": "Glenn M",
+      "helpful_votes": 0,
+      "publication_date": 20130419
+    },
+    {
+      "title": "Great router",
+      "text": "I'm partial to TomatoUSB firmware, and this router runs it fine. Gigabit LAN ports are nice, but limited usefulness with lack of jumbo frame support (i removed a star in the features rating because of this). Still one of the best all-in-one units out there. To do better you'd have to spend much more or use a purpose-built machine. Update 11/8/11: Still running rock solid 4 months later!",
+      "rating": 5.0,
+      "verified": true,
+      "author": "A. C.",
+      "helpful_votes": 3,
+      "publication_date": 20110702
+    },
+    {
+      "title": "Rock solid, feature rich, reasonable price.",
+      "text": "Unit has not locked up once in the last couple months since I purchased it to replace a flaky old Linksys. No it's not a $20 model, but it's feature rich offerings including a separate guest wireless access point on a separate VLan, filtering, dyndns, USB for an external drive. This unit is an excellent choice for a Small Business router or an advanced home user.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Chris Williams",
+      "helpful_votes": 0,
+      "publication_date": 20131216
+    },
+    {
+      "title": "Very Good Wireless Router",
+      "text": "I needed to replace a flakey Linksys Wireless Access Point and Router combination, and this one works very well. I'm just using the stock configuration, with one computer on the switch side and another computer plus a home theatre unit on the wireless side. Both wireless units are using N cards, and are getting good throughput. This unit has features I haven't used yet, like the 2 USB ports with NTFS support and built-in print server. DHCP is easily configurable and the web interface is quick. Encryption setup was simple. I don't have any CONs in this review because I haven't found any in the 2 weeks I've used it.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Steven E. Daly",
+      "helpful_votes": 0,
+      "publication_date": 20100530
+    },
+    {
+      "title": "My go-to router",
+      "text": "Great router for home and small business. I flash mine with Tomato-USB for added functionality (SSH tunneling, better status, consistent interface with other flashed routers, ...). The USB ports for printing and USB drives make it a small server of sorts. Speed is good over many basic routers due to N wifi as well as gigabit wired ports.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Kevin Driscoll",
+      "helpful_votes": 2,
+      "publication_date": 20131217
+    },
+    {
+      "title": "Feel the power",
+      "text": "This router is so flexible, I cannot eve describe how useful it is. It can act as a small file server using an SD card. The cap on the router by default seems to cap my campus' usual 400Mb/s to about 10Mb/s on wifi, but you can change the settings. Using the ethernet ports, I get only a slight decrease in transfer speed. It has a massive span of reception. You can also adjust it. Be sure to use ddr wrt if you want to get the most out of this thing.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Kevin Yang",
+      "helpful_votes": 0,
+      "publication_date": 20121216
+    },
+    {
+      "title": "DD-WRT",
+      "text": "I only bought it to install DD WRT so I can have an American IP (via vpn provider) so I can watch Netflix while overseas. This bad boy is fast, and easy to use. I have installed and re installed firmware on it over 10 time and this thing has not bricked at all. I like to reset feature on it for \"hard resets\". The range on this thing is good too. Awesome product for the price of it too.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Kirochan",
+      "helpful_votes": 0,
+      "publication_date": 20130313
+    },
+    {
+      "title": "Great router if your on a budget",
+      "text": "Asus is the only brand I trust these days. Their gear is rock solid and easy to setup. If this thing doesn't give you enough wifi signal through your house/yard, get a Unifi LR Access point and your problems are solved. Access point Is 85$ and broadcasts 600ft. Great combination that reaches over 5 houses away for me. Lol",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Mr. Feedback",
+      "helpful_votes": 0,
+      "publication_date": 20150605
+    },
+    {
+      "title": "Awesome router!",
+      "text": "I wasn't the biggest fan of the default firmware, but it worked fine. I put the Tomato firmware on and this little guy just screams! I've had it for a few months and have never had to restart it or anything! I plugged in my 750GB USB external drive to it, and with Tomato it is able to stream videos via upnp to my Xbox 360. The specs on it are just great and it's been the best router I've ever had the pleasure of using. Very happy with my purchase!!",
+      "rating": 5.0,
+      "verified": true,
+      "author": "m0ngr31",
+      "helpful_votes": 0,
+      "publication_date": 20100908
+    },
+    {
+      "title": "Do not buy, it will die on you.",
+      "text": "I bought the original unit just over 2 years ago. This is the the 3rd unit that I have had to have replaced. I woke up Saturday morning to see for the 3rd time my router just decided to die. The other two units I was able to able to go through ASUS RMA process to get them replaced. This time, they are giving me flak. I've decided I'm done with them and went and purchased a new wireless router.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "Cory",
+      "helpful_votes": 0,
+      "publication_date": 20150129
+    },
+    {
+      "title": "Great router with customizable firmware",
+      "text": "I was generally pretty impressed with the existing firmware on this router, but I specifically bought it because it is compatible with EasyTomato.org. EasyTomato is a fork of the well known and Tomato firmware for Linux based routers, and it's really easy to install and set up. It's fantastic. This router has phenomenal performance and range, and with the EasyTomato firmware I was able to quickly and easily divide my devices into categories and allow different permissions to each. I wholeheartedly recommend this router as a great successor to the famous Linksys WRT-54GL.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "J. R. Kelly",
+      "helpful_votes": 0,
+      "publication_date": 20130826
+    },
+    {
+      "title": "Not Compatable -- Not a print server!",
+      "text": "This maybe a entirely acceptable wireless device, but the usb function is worthless!!!!! Worthless!!!!! That they called it a print server is and insult. Windows 10? No idea what it's doing. Support? Redirect to home page for ASUS! Not even this router. The list of compatible devices is ONE page long!!! No different than any other incompatible wireless router!!! Maybe be fine for some people but this was a complete waste of money for since I didn't set it up in time to send it back! If you have a working network, don't waste your time with this thing.",
+      "rating": 2.0,
+      "verified": true,
+      "author": "Terry Ray Wilbury",
+      "helpful_votes": 0,
+      "publication_date": 20160220
+    },
+    {
+      "title": "If you need Asus techincal support good luck.",
+      "text": "If you need Asus techincal support good luck...They will pass you on to Windows or anybody else they can pawn out off on...I returned the router and will never buy another Asus product again..I bought sound cards and motherboards but the way I was treated this time by their customer service has totally soured me on Asus...If they think you can't return it they will let you hang in the wind...don't buy if you need support you won't get it..",
+      "rating": 1.0,
+      "verified": true,
+      "author": "vernon theisen",
+      "helpful_votes": 4,
+      "publication_date": 20150513
+    },
+    {
+      "title": "Best for the money!",
+      "text": "This router, with Tomato firmware on it (newer version, not the stock) has capabilities that are comparable to enterprise routers. I've purchased 10 of these in the last 6 weeks primarily to use for VoIP applications. It's become our new standard for small to medium businesses. The VoIP capabilities make this router perfect for home/office/small business to perform QoS that allows your VoIP to work well over your Internet connection. It's not exactly self-explanatory. You do need to be a little techy to get the latest firmware loaded and configured to take advantage of all the power this router has.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "L. Whitmire",
+      "helpful_votes": 0,
+      "publication_date": 20130130
+    },
+    {
+      "title": "This thing is a great flexible little router.",
+      "text": "I've had a lot of fun pushing this little router to it's limits then pulling in the reins. It will do just about anything you tell it to. If you don't understand what I'm talking about then just know that this item by itself with no modifications is a great router for the money. For those of you who like to mod things, this router is your playground. DDWRT, Tomato, whatever your desire this can handle it with grace and stability.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Ownership is not wrong",
+      "helpful_votes": 0,
+      "publication_date": 20130905
+    },
+    {
+      "title": "Good little router",
+      "text": "This is a nice little router for the price. Good amount of range and coverage. The interface is good as well with plenty of features and is quite stable. Also, you can flash the unit to an aftermarket one (more customizable). Did not have any issues with it. However, I do get the same amount of range and coverage from my combo Pace 4111N unit.",
+      "rating": 4.0,
+      "verified": true,
+      "author": "Gaazmon",
+      "helpful_votes": 0,
+      "publication_date": 20140521
+    },
+    {
+      "title": "a workhorse that exceeded expectations",
+      "text": "I purchased the N16 with intentions to install tomato usb. The firmware change was easy as pie. I am pleased with the ability of the N16 to support dlna through usb storage. After upgrading Blackberry 8900 phones to version 5 software the Apple Airport Extreme would introduce static noise into UMA calls. After switching from the Airport Extreme to the N16, our UMA calls work without issue on the latest Blackberry 8900 release.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "mycelia",
+      "helpful_votes": 2,
+      "publication_date": 20101123
+    },
+    {
+      "title": "Does the Job",
+      "text": "I replaced a 4-year-old dead/spotty router from Linksys with this one. Plug and play, it works just fine in my 2,500 ft2 home with multiple wireless devices. Netflix wireless to my TV works like a charm as well (about 50' away through 2 walls). I like the software that lets me disable internet access for my children's devices when they've been on too long.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "DTG",
+      "helpful_votes": 0,
+      "publication_date": 20130123
+    },
+    {
+      "title": "Excellent router for Tomato",
+      "text": "This is actually the router that most of the Tomato devs use. The stock firmware is really cheesy and hard to work with, but once you install a stable version of Tomato on it, life is great. It's fast, it's reliable and there's plenty of RAM for the option features. The CPU is quite fast and I actually use it to control my X10 devices around the house with some custom hardware.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Thomas W. Barr",
+      "helpful_votes": 0,
+      "publication_date": 20130104
+    },
+    {
+      "title": "Great flashable router",
+      "text": "I bought this router for the OpenWRT opensource router firmware platform. It isn't officially supported by OpenWRT but there is a set of remarkably stable patches. With those patches, OpenWRT works extremely well and supports both USB ports. The ability to use this router as a home hub and take advantage of the copious flash and ram memory as well as the good connectivity options makes this a great router for OpenWRT use.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Amazon Customer",
+      "helpful_votes": 0,
+      "publication_date": 20111205
+    },
+    {
+      "title": "Another superb product by the folks at ASUS",
+      "text": "this is a fantastic router in that it has Gigabit ethernet ports, USB capability, and runs on open source DD-WRT firmware which has many more features than even the good stock ASUS firmware. ASUS has always made premium motherboards and the quality continues in their wireless network products.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Charles A. Rathbun, Jr.",
+      "helpful_votes": 0,
+      "publication_date": 20150812
+    },
+    {
+      "title": "nice router good capabilities big plus to count with vpn ...",
+      "text": "nice router good capabilities big plus to count with vpn server in router and DDNS service cloud on your USB-HD. please protect your investment against electrical current peaks ...otherwise WAN port will get damaged and possibly one LAN port too",
+      "rating": 4.0,
+      "verified": true,
+      "author": "Cristian Vargas B.",
+      "helpful_votes": 0,
+      "publication_date": 20160824
+    },
+    {
+      "title": "Very happy with this device",
+      "text": "Very easy to install. Everything worked out of the box. I took a chance and updated to latest firmware. Everything still works great although I did have to update settings. I was able to use port forwarding and other advanced functions without issue. The new firmware does include a much improved interface. Performance seems top notch. Hope it holds up.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "W from Chicago Metro",
+      "helpful_votes": 0,
+      "publication_date": 20111223
+    },
+    {
+      "title": "Hardware and software issues",
+      "text": "This model has hardware and software issues. If you feel like soldering your own router - you found it. I did have an issue with power light going off and on and had to replace one of the capacitors about a year ago. Now wireless connectivity became flaky about two weeks ago. Computer is staying connected wirelessly but ping is not getting through now and then. Replaced with newer and 3x more expensive Wireless-AC router and found that my ISP is better than I thought.",
+      "rating": 2.0,
+      "verified": true,
+      "author": "Alexander Filonenko",
+      "helpful_votes": 0,
+      "publication_date": 20160312
+    },
+    {
+      "title": "Weak range",
+      "text": "CONS: No better than my Netgear WGR614 Wireless-G ($39 BestBuy) for signal strength. This is the only reason I bought this device. Three antennas do not make it three times more signal strength than a wireless with one antenna. PROS: Has cool features for printer and network storage. Very easy setup.",
+      "rating": 2.0,
+      "verified": true,
+      "author": "KWI",
+      "helpful_votes": 0,
+      "publication_date": 20131017
+    },
+    {
+      "title": "Plug n Play",
+      "text": "Many reviewers mentioned poor firmware. As this is an 'old' router, the new one is rated top-tier, and this was priced right, I decided to chance it. After plugging it in, I installed (easily) updated drivers available from ASUS. It has run like a top ever since: iPad, iPods, Xbox and PC's (wired & wireless) go without dropping or hesitation. Outstanding; would recommend to anyone.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Dad",
+      "helpful_votes": 0,
+      "publication_date": 20120117
+    },
+    {
+      "title": "Great router",
+      "text": "This router performs very well. I have had no trouble with it dropping my connection so far. It also has a lot of advanced features that most routers do not have as well as the ability to run DDWRT firmware. overall i could not be happier with the signal strength, the speed, or the reliability of this router.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Ted",
+      "helpful_votes": 0,
+      "publication_date": 20131216
+    },
+    {
+      "title": "Rock solid with tomato-usb build 52",
+      "text": "Uptime >38 days currently. Rock solid with tomato-usb. I don't use it as a NAS (I have a separate NAS) but run VPN and this router is ROCK SOLID with tomato-usb build 52. Didn't give the stock firmware a chance since it didn't offer any 'advanced' features like vpn. DD-WRT has been a nightmare for me recently, once I switched to tomato on this router, I never looked back.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Brian",
+      "helpful_votes": 4,
+      "publication_date": 20110122
+    },
+    {
+      "title": "Best router for Tomato or DD-WRT",
+      "text": "Stock firmware isn't too bad if all you need is the basics... but if you put on DD-WRT or Tomato this router becomes a powerhouse. I have been using this router for around 2 years with TomatoUSB and run a printer and NAS off the device without a hiccup. I can't ask for anything more out of this, best router purchase I have made to date.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Bob Lob (Law)",
+      "helpful_votes": 0,
+      "publication_date": 20130110
+    },
+    {
+      "title": "A great router",
+      "text": "This is a great router for the price. If you are a gamer and have a family who uses the internet frequently. This is the router for you. We had a D-link that kept dropping the internet signal as soon as I started playing PS3 and my wife used the internet. Now that we have this the whole family can use the internet at the same time. Awesome router!!!",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Kindle Customer",
+      "helpful_votes": 0,
+      "publication_date": 20130430
+    },
+    {
+      "title": "Excellent for DD-WRT",
+      "text": "I got this router based on the heavy recommendations over on the DD-WRT forums. Once out of the box, I loaded up the latest DD-WRT mega firmware available for this router and have had no issues. I wanted to use pound for a reverse proxy, but my previous router (Linksys WRT54G v4), while a reliable little box, did not have the high specs required for the DD-WRT mega build required for pound. I've been very happy with the performance of the RT-N16 at the price, and combining it with a powerful firmware like DD-WRT or Tomato makes it a very capable router, much more so than with the stock firmware.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "J. Martin",
+      "helpful_votes": 6,
+      "publication_date": 20110426
+    },
+    {
+      "title": "Great access point once you install DD-WRT on it.",
+      "text": "Great access point once you install DD-WRT on it. We use these in our 802.11 Wireless training lab and own probably 15 of them. Very pleased with the quality and would buy again.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Nick W.",
+      "helpful_votes": 0,
+      "publication_date": 20160426
+    },
+    {
+      "title": "Great router! This + DD-WRT = Win!",
+      "text": "I've had this router running DD-WRT for a little over a year now and it works great. I haven't had any issues. The original firmware works well too and is packed with features you find in more expensive routers. The stock firmware is well designed and easy to use. A lot better than other routers.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "xMishka",
+      "helpful_votes": 0,
+      "publication_date": 20130724
+    },
+    {
+      "title": "Good product, bad company interface.",
+      "text": "The router appears to be a very good deal and can be upgraded to be much more powerful. The rebate offered is absurd. It requires a ton of stuff to be sent to them and then the form you need to fill out cannot be obtained from the website. I didn't call the company. I had already spent too much time messing around with it.",
+      "rating": 4.0,
+      "verified": true,
+      "author": "E. HARRIS",
+      "helpful_votes": 0,
+      "publication_date": 20121013
+    },
+    {
+      "title": "Great when it worked. Died just a month after warranty ends.",
+      "text": "Great when it worked. Died just a month after warranty ends. Coincidence or planned obsolescence?",
+      "rating": 2.0,
+      "verified": true,
+      "author": "LP",
+      "helpful_votes": 0,
+      "publication_date": 20180720
+    }
+  ],
+  "product_meta": {
+    "title": "ASUS (RT-N16) Wireless-N 300 Maximum Performance single band Gaming Router: Fast Gigabit Ethernet, support USB-Hard Drive and Printer and Open source DDWRT",
+    "description": "Asus RT-N16 Gigabit Wireless Router w/ USB Storage & Printer & Media Server\n\nAMAZON.COM\n\n\n\n\nFROM THE MANUFACTURER\nWireless N Surfing, Scanning, and Printing All with One Router\n\nASUS RT-N16 provides users with high performance wireless N connectivity, lightning fast Gigabit Ethernet, and incredible versatility. Whether you choose to use is as a print server, BitTorrent hub, FTP storage, ultra-fast Wireless N router, or all of the above at the same time, it's an all-in-one router you'll wonder how you used to manage without it. \n\n\n\nRight out of the box, the RT-N16 gets you up and running in only five clicks through its simple 3-step CD-free installation. And thanks to its streamlined EZ Quality of Service (EZQoS), you can effortlessly optimize bandwidth for gaming, video calls, downloading or whatever else you choose. Download Master is a BitTorrent client that shifts download duties from the PC directly to the router-attached storage via the two onboard USB ports. This allows you to download and share files wherever you have Internet access without going through a PC. For even more convenience, ASUS AiDisk transforms a connected USB device into an FTP server for remote transfers. Plugging in a USB All-in-One printer, you can share both printer and scanner functions between all networked PCs. \n\nThe ASUS RT-N16 also features 300Mbps throughout on a 2.4GHz wireless band, four standard 10/100/1000 LAN Ethernet ports, and one inbound Ethernet port.\n\n\n\n\nKEY FEATURES\n * Sleek wireless N (300Mbps) router delivers up to 14x faster speeds and 6x farther range than 802.11g routers1 (Learn more)\n * Gigabit Ethernet for high performance LAN networking \n * EZ User Interface (EZ UI) with a simple 3-step setup gets you up and running within minutes(Learn more)\n * EZ Quality of Service (EZQoS) Bandwidth Management gives you a simple way to optimize Internet speeds for gaming, browsing, file sharing, and VoIP/ media streaming (Learn more)\n * Built-in printer server for sharing All-in-One USB printers within your home or office (Learn more)\n * EZ Switch lets you quickly enable router, repeater, or AP modes directly with a flip of a switch \n * AiDisk is your personal FTP server that you can access anywhere you have the Internet (Learn more)\n * Download Master lets you download from the Bit Torrent site to the connected USB storage device directly thru the router without having to leave your PC on (Learn more)\n\n\n\nLEARN MORE\nFASTER TRANSFERS. WIDER COVERAGE.\nView larger Experience up to 14x faster Internet and up to 6x wider connection ranges compared to previous generation wireless G routers with the ASUS RT-N16 wireless N router.1 Whether you're streaming HD video or video chatting with a friend, wireless N connectivity lets you do more faster. And where other routers fail to connect when placed far away, the RT-N16 router gives you the wireless freedom to roam even further and enjoy high-speed networking nearly anywhere in your home or office. Get bandwidth on demand with EZ Quality of Service (EZQoS) to dynamically set Internet speed priority for browsing, online games, Internet applications (such as Bit Torrent), and voice/video streaming. The EZQoS is simplified for ease of use \u2013 just click on the image you want to set and it adjusts instantly. \n\n\nEASY, QUICK SETUP IN A USER-FRIENDLY INTERFACE\nView larger The RT-N16 features EZ UI, a simplified user interface for quick setup, access to Internet-enhancing utilities, and a helpful troubleshoot guide that users at all levels will appreciate. \n\nQuick 3-Step Internet Setup \nThe moment you connect the RT-N16 you will automatically be guided through an easy 3-step, manual-free setup.\n\n1. Plug the router in your network and wall socket\n2. Complete the installation wizard\n3. Open your favorite browser and start surfing \n\n\nYOUR ENTIRE NETWORK IN ONE PICTURE\n\nView larger Within the EZ UI, you can see your entire network all at once with real-time status updates for each connection. This simplified network map makes it easy to check for any issues with connections to other PCs or printers and manage your network settings.\n\n\n\n\nYOUR PERSONAL ALL-IN-ONE PRINT SERVER\n\n\nView larger Print, scan, and share directly from connected USB printer, scanners, and storage devices via the RT-N16's USB port. With the wireless printer server function built into the RT-N16, you can centralize your printing and scanning for your entire home or office network into one location. \n\nFor a current printer support list, please click here.\n\n\n\n\nTHE ULTRA VERSATILE DOWNLOAD MASTER\n\n\nView larger The RT-N16 router sets itself apart from ordinary routers by offering Bit Torrent and FTP server functionalities. \n\nBitTorrent \nShare your movies, music, games, and other files with the included Download Master application that utilizes the BitTorrent P2P protocol for downloading and seeding Torrents to and from the connected USB storage device. What\u2019s more, you can shut off your PC after setting up a torrent file to continue the download, PC-free. Download Master also lets you customize how you choose to share with custom bandwidth allocations when seeding. \n\nFTP \nCreate your own personal FTP Server with ASUS AiDisk located within the EZ UI, and upload or download files from the connected USB storage device to any Internet-accessible PCs. Perfect when you forget documents at home or when sharing large files, FTP access grants you the ability to safely secure and access your treasured data through your router. This feature can also work without having to leave your PC on. \n\n\nWHAT'S IN THE BOX\n * RT-N16 router \n * Ethernet Cable \n * Application CD\n * Power Adapter (12V 1.25A)\n * Quick Starter Guide\n * Setup Guide\n * Warranty Information Card\n\n\nSPECIFICATIONS\n * Ethernet Port: WAN: 1 x RJ45 for 10/100/1000 Base T; LAN: 4 x RJ45 for 10/100/1000 Base T; Support 802.3 with max bit rate 10/100/1000Mbps, support auto cross-over function (MDI-X)\n * Host Processor: CPU: BCM4718; FLASH: 32MB; DDR2: 128MB \n * USB: 2 x USB 2.0 ports\n * Antenna: 3 x external antenna\n * Power Adapter: AC inputL 100V ~ 240V (50~60Hz) \n * Operating Frequency: 2.4GHz \n * Data Range: 802.11n Draft: up to 300Mbps ; 802.11g: 6, 9, 12, 18, 24, 36, 48, 54Mbps; 802.11b: 1, 2, 5.5, 11Mbps \n * Output Power: 15~17dBm (g mode), 17~19dBm (b mode), 12~17dBm(n mode) \n * Encryption and Authentication: Supports Open System, Shared Key, 64/128-bit WEP, WPA-Personal, WPA2 Personal, WPA-Auto-Personal, WPA-Enterprise, WPA2-Enterprise, WPA-Auto-Enterprise, Radius with 802.1x \n   \n   \n\n\u00a9 2010 ASUS Computer International. All specifications and terms are subject to change without notice. Please check with your supplier for exact offers on selected models. Products may not be available in all markets. Product may not be exactly as shown in photos. (1) Maximum wireless signal rate derived from IEEE Standard 802.11g and draft 802.11n specifications. Actual data throughput will vary. Network conditions and environmental factors, including volume of network traffic, buildings materials and construction, and network overhead, lower actual data throughput rate. Environmental factors will adversely affect wireless signal range. Wireless range and speed rates are relative performance measurements based on the wireless range and speed rates of a standard Wireless G product. Maximum throughput based on draft 802.11n devices. \n\nCheck Out Other Great ASUS Products\n\nASUS USB-N13 Wireless-N Adapter\nAdd a speedy Wireless N 300Mbps connection to your PC with this USB wireless-N adapter. It is quick to setup and has the benefits of wireless N's extended range for staying connected further than a wireless-G adapter. \nASUS PCE-N13 - Wireless N PCI-Express Adapter \nAdd a wireless-N PCI-Express adapter to your desktop and the blazing fast speed of your network without wires. This versatile adapter can also be made into a wirelss Access Point for sharing Internet connection with other PC's. \nASUS TS Mini SOHO Server (500GB Storage)\nThe new ASUS Small Office Home Office (SOHO) Server TS mini helps you centralize your files to improve data management, enhance media streaming, and better utilize home networks. The 500GB version offers 500GB of internal storage, 500GB of ASUS WebStorage and much more. \nASUS O!Play Air - Wireless N TV HD Media Player\nThe ASUS O!Play Air takes multimedia enjoyment to the next level with wireless 802.11n support. Access your favorite music, movie, and photo collection from the attached storage devices, or stream them right from the HTPC, media servers or home PCs on your network. \n\n\n\nSee more",
+    "rating": 3.7,
+    "feature_bullets": [
+      "Powerful CPU provides a high-performance throughput up to 300Mbps",
+      "Most widespread application with 2 USB2.0 ports : All-in-1 printer server and FTP files sharing",
+      "Operating Frequency: 2.4 GHz; Interface: 5 Gigabit ports (1 x WAN / 4 x LAN)",
+      "Graphical Network Map and Multiple SSID (guest SSID)",
+      "Ultra-fast and Convenient Downloads with the Revolutionary Download Master.OS Support-Windows 10 86x64,Windows 8.1 86x64,Windows 8 , 32bit/64bit,Windows 7 , 32bit/64bit,Windows Vista , 32bit/64bit,Windows XP , 32bit/64bit,Mac OS X,Linux"
+    ],
+    "specifications": {
+      "Product Dimensions": "6.4 x 8.5 x 1.6 inches",
+      "Item Weight": "1.03 pounds",
+      "ASIN": "B00387G6R8",
+      "Item model number": "RT-N16",
+      "Customer Reviews": "3.7 out of 5 stars741 ratings3.7 out of 5 stars",
+      "Best Sellers Rank": "#104,864 in Electronics",
+      "Is Discontinued By Manufacturer": "No",
+      "Date First Available": "October 12, 2009",
+      "Manufacturer": "Asus"
+    },
+    "categories": [
+      "Computers & Accessories",
+      "Electronics",
+      "Routers",
+      "Networking Products"
+    ],
+    "price": 47.49
+  }
+}

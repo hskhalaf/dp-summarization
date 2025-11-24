@@ -1,0 +1,952 @@
+{
+  "website_summaries": [
+    {
+      "verdict": "This starter kit ships with a 7-inch touchscreen display, which differs from other kits.",
+      "pros": [
+        "Includes 16GB microSD memory card and  HDMI cable",
+        "Works with both WiFi and Bluetooth",
+        "Has Ethernet, four USBs, and 3.5mm audio ports"
+      ],
+      "cons": [
+        "Expensive for a starter kit",
+        "Could use a more extensive set of instructions"
+      ],
+      "aspects": {},
+      "publication_date": "",
+      "rating": "",
+      "source": "bestreviews"
+    }
+  ],
+  "customer_reviews": [
+    {
+      "title": "Excellent project!",
+      "text": "Everything the beginner needs to get into the Raspberry Pi. Though mine came without a starters guide, I was able to find what information I needed online. Get one! Further Notes: In order for the LCD display to be in the correct orientation rather than upside down, you must edit your Config.txt file in the boot directory and add the following line: lcd_rotate=2 This will allow your device to boot up with the screen in the right orientation. For portable use, any battery pack used for charging cell phones or tablets will run the Pi and the display.",
+      "rating": 4.0,
+      "verified": true,
+      "author": "craig139",
+      "helpful_votes": 87,
+      "publication_date": 20170323
+    },
+    {
+      "title": "Great Product, If it works. If not, you're on your own.",
+      "text": "I bought one of these kits and it arrived 2/1/18. After assembling it, there's a yellow line down the middle of the LCD screen. Nothing changes the line, and it is visible at all points of the boot process, so definitely a bum screen. No worries, NeeGo states a \"peace of mind warranty\" on their website, so contacted them to have the screen swapped with another one. I've now contacted them 3 times over 15 days and had radio silence in return. Started the refund process through Amazon and will be buying from a different source. Very annoying to have to disassemble the whole kit and return it when only the screen was defective.",
+      "rating": 3.0,
+      "verified": true,
+      "author": "Chris Winne",
+      "helpful_votes": 20,
+      "publication_date": 20180215
+    },
+    {
+      "title": "This is an absolutely awesome kit, at a great price",
+      "text": "This is an absolutely awesome kit, at a great price. It comes with everything you need to have a fully functional Linux computer. It puts your knowledge to the test right out the box. Also great packaging, and super fast service from the seller. Thank you!",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Amazon Customer",
+      "helpful_votes": 10,
+      "publication_date": 20170410
+    },
+    {
+      "title": "Works beautifully!",
+      "text": "I liked how easy it was to assemble. However, the display was upside down. You couldn't just turn it over due to the power cord. I wrote a script to invert the display. It works perfectly now. I'm using a Bluetooth keyboard. I can't use a Bluetooth mouse and keyboard together sincethey interfere with each other. I'm using the touch screen instead of the mouse. An integrated keyboard / mouse would be perfect.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Amazon Customer",
+      "helpful_votes": 0,
+      "publication_date": 20181015
+    },
+    {
+      "title": "This is so cool and so easy!",
+      "text": "This is sooooo cool and so easy. Instructions were very simple. Nice to have the SD card pre-loaded. You could probably save a few bucks by buying the parts separately but this way you don't have to worry. You have everything you need. I'm using this in my car with TunerStudio so I can monitor my car and tweek the tune any time I want by leaving it in the glove box. I was a little worried the 7\" display would be too small but it works great in the gauge only view. It's a little tight in the tuning screens but workable. I got a nice little iPazzPort bluetooth keyboard. That is the icing on the cake.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "JoeTourist",
+      "helpful_votes": 0,
+      "publication_date": 20180120
+    },
+    {
+      "title": "inadequate power supply, no duel screen capability.",
+      "text": "1. The power supply could be more sufficient to handle both the LCD touch screen and the Pi. Maybe even enough to handle a breadboard as well? 2. You couldn't include a breadboard and related components to connect the Pi? 3. Maybe you should have included the \"LCD-rotate=2\" in the config file before making multiple copies of the SD card? or otherwise include instructions in the package deal? 4. maybe its a hardware issue, but it would have been nice to know that I couldn't plug in both LCD and an HDMI in duel mode. I might have just gotten a pi in a case kit instead of an LCD touch screen kit in this case.",
+      "rating": 3.0,
+      "verified": true,
+      "author": "Leanne Swan",
+      "helpful_votes": 0,
+      "publication_date": 20180308
+    },
+    {
+      "title": "Power Supply Bad",
+      "text": "Very disappointed Power supply marked as 5v @ 2.5 included was not able to supply enough current at 5v to run pi out of the box without lighting bolt on display and strange problems. Connected to 5v @ 2amp power supply no lighting bolt and no strange problems Very disappointed with the kit First time I have been disappointed by a product on Amazon Need a real power supply",
+      "rating": 1.0,
+      "verified": true,
+      "author": "CJC",
+      "helpful_votes": 0,
+      "publication_date": 20181127
+    },
+    {
+      "title": "Happy with the purchase",
+      "text": "So this is my first step in the field of the Raspberry Pi. Needed a machine to run a proxy server 24/7. The kit comes very well packaged and was easy to put together even without the advertised manual. There is a ton of info out there online as well as Youtube but for a technically inclined person it is very easy and takes just a few minutes. Unit fires up perfectly and after updating the software and editing the coding to flip the screen 180 I was in business. I would recommend buying the kit vs the components separate, can't go wrong for the price anyhow.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Jeroen v D",
+      "helpful_votes": 0,
+      "publication_date": 20170823
+    },
+    {
+      "title": "This product was purchased as a Christmas present for my ...",
+      "text": "This product was purchased as a Christmas present for my son so won't really be using it till then. However, I did purchase this item because he has bought others of your items in the past and is a big fan.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Likes Quality",
+      "helpful_votes": 2,
+      "publication_date": 20171028
+    },
+    {
+      "title": "Awesome bundle for my first Pi",
+      "text": "Run the wires, bolt it all together, bam! Works great. Just had to code into it to rotate the display, google and forums have such a wealth of knowledge for all of it. Super easy start for my first coding adventure.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Jared",
+      "helpful_votes": 0,
+      "publication_date": 20200206
+    },
+    {
+      "title": "Good, but not that good",
+      "text": "Worked well while it last, sadly for some unknown reason the device just overheated, and the wireless adapter as well as Bluetooth is dead without reason. Tried my best to save it, but ultimately declared it was hardware fault and returned. Overall a very nicely priced kit, and work well for it short lifespan",
+      "rating": 3.0,
+      "verified": true,
+      "author": "Ducky McDuckFace",
+      "helpful_votes": 0,
+      "publication_date": 20180217
+    },
+    {
+      "title": "Lots of fun figuring out how to set up.",
+      "text": "The Raspberry Pi 3 kit is great. Be warned, there are no instructions at all that comes in the kit. All research should be done on the internet. That's part of the fun. I was up and running in about 40 minutes after watching a YouTube tutorial. I just added Retropie so I can play retro console games. The touch screen works great. Also, you have to rotate the screen using the lcd_rotate=2 in terminal.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Michael",
+      "helpful_votes": 0,
+      "publication_date": 20180216
+    },
+    {
+      "title": "Doesn't work. I thought it was my setup, ...",
+      "text": "Doesn't work. I thought it was my setup, but I tried hooking HDMI to 2 other tv's...",
+      "rating": 1.0,
+      "verified": true,
+      "author": "isaac",
+      "helpful_votes": 4,
+      "publication_date": 20170707
+    },
+    {
+      "title": "Overall I like it. It has one problem",
+      "text": "Overall I like it. It has one problem. When I set up the 7\" monitor in the case, the picture is upside down. I know this can be corrected by programming but I am a VERY poor programmer. I'd love it if the case could be fixed so that when you assemble the unit the picture were right side up. On my wish list is that the case would be enlarged enough to allow a battery power supply to be added inside it.",
+      "rating": 3.0,
+      "verified": true,
+      "author": "ROBFWA",
+      "helpful_votes": 0,
+      "publication_date": 20171024
+    },
+    {
+      "title": "Awesome Pi Kit",
+      "text": "This is my first Pi kit and I love it!! This kit has everything for you to get started!! Very little assembly and your up and running!! (YouTube is your friend) For the price and the ease of having everything shipped to you in one box, this kit is definitely worth it!!!",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Chustco",
+      "helpful_votes": 0,
+      "publication_date": 20170705
+    },
+    {
+      "title": "Picture comes in upside down and hdmi port wont work",
+      "text": "Easy set up and installation. My only issues I'm having is my HDMI output won t work on my monitor or my T.V. and my picture shows up upside down on my 7\"screen. Ive read I have to \"rewrite\" the txt code but since I'm new I'm still trying to figure out how. Other than that, I love playing all my favorite retro games",
+      "rating": 4.0,
+      "verified": true,
+      "author": "Amazon Customer",
+      "helpful_votes": 0,
+      "publication_date": 20171223
+    },
+    {
+      "title": "Great Bundle at a good price",
+      "text": "My 4th RPI... but the first bundled kit. I've assembled a LOT of computer kits, but few have been as rewarding. I can easily recommend this to anyone who enjoys the DIY process and still expects quality results. A wonderful exploration into the world of building with PI, and a seriously cool bit of kit to show off after.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Amazon Customer",
+      "helpful_votes": 2,
+      "publication_date": 20170425
+    },
+    {
+      "title": "Setup was easy. Do to an update to the OS the ...",
+      "text": "Setup was easy. Do to an update to the OS the screen is upside down, but easily fixed and not the fault of the hardware. One down side, the includes power supply isn't quite strong enough for the pi and screen so you get the occasional low power warning.",
+      "rating": 4.0,
+      "verified": true,
+      "author": "Jeremy Vastine",
+      "helpful_votes": 0,
+      "publication_date": 20170717
+    },
+    {
+      "title": "The screen is mounted the wrong way up for optimum ...",
+      "text": "The screen is mounted the wrong way up for optimum viewing, I know you are able to rotate the screen but that's not a fix, the housing for the screen is upside down, if you can rotate the picture it's not set for optimum viewing, ask raspberry. Not only the so called fix didn't work, now i have to buy a replacement housing.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "David Ian Auffret",
+      "helpful_votes": 0,
+      "publication_date": 20180722
+    },
+    {
+      "title": "I highly recommend this kit",
+      "text": "This kit has literally everything you need to get started on a Raspberry Pi adventure. You really can't beat the price of the bundled products. I highly recommend this kit.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Teresa Butler",
+      "helpful_votes": 2,
+      "publication_date": 20170321
+    },
+    {
+      "title": "plugged into the Pi 3's micro-usb power and the initial image booted just fine. Add the rotate option to the /boot/config",
+      "text": "I got this kit to upgrade from my old Pi 1 (2011 version), but I did not have a screen. It has everything I wanted to make a new kit, and still have my old one if needed. No issues for assembly, plugged into the Pi 3's micro-usb power and the initial image booted just fine. Add the rotate option to the /boot/config.txt and then add whatever you want.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Marc-Andre Tetrault",
+      "helpful_votes": 0,
+      "publication_date": 20180114
+    },
+    {
+      "title": "Purchased this for my 9 year old. Was challenging ...",
+      "text": "Purchased this for my 9 year old. Was challenging, yet required him to be resourceful and deliberate. It works well. He's ordered other peripherals to compliment his Pi; a camera, etc. Keeps him busy and he continues to try and upgrade his purchase.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Stacey Danelle",
+      "helpful_votes": 0,
+      "publication_date": 20180521
+    },
+    {
+      "title": "Beware: the preinstalled NOOBS may not work. You will have to download a new copy if that is the case.",
+      "text": "We were excited to get this product. But when we got it, the AC adapter was cracked. When we tried to install NOOB, the preinstalled SD card did NOT have the right software. It took us a number of tries and we finally just downloaded an online version of NOOBS onto the SD card. We have not been thrilled with our purchase.",
+      "rating": 2.0,
+      "verified": true,
+      "author": "AC",
+      "helpful_votes": 0,
+      "publication_date": 20180326
+    },
+    {
+      "title": "Great way to learn the Raspberry Pi",
+      "text": "Love it! You need no knowledge of computers or electronics. The book is very easy to understand, if you do not know what am item is, they have pictures for each part and a description of it. A great way to learn! I would recommend it.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Patricia Lynn Reid",
+      "helpful_votes": 0,
+      "publication_date": 20170810
+    },
+    {
+      "title": "Cool little computer",
+      "text": "The only thing that improve on this kit is a set of instructions, I had to use youtube to put this together but in the end it booted and my daughter loves her Raspberry PI",
+      "rating": 4.0,
+      "verified": true,
+      "author": "R G",
+      "helpful_votes": 0,
+      "publication_date": 20180110
+    },
+    {
+      "title": "It is awesome but did not come with a quick startup guide ...",
+      "text": "It is awesome but did not come with a quick startup guide except for maybe a small fold up that came with the actual pi and screen, separately. I had to go online to see how the connection works but otherwise works great. Found out that an update of the pi would have the screen upside down when it loads. In the config.txt just put \"lcd_rotate=2\" and it will be fine.",
+      "rating": 4.0,
+      "verified": true,
+      "author": "Robert Jarvis",
+      "helpful_votes": 0,
+      "publication_date": 20171009
+    },
+    {
+      "title": "I received 3 kits, all to expectation. Everything ...",
+      "text": "I received 3 kits, all to expectation. Everything worked, case fits well, The only slight negative is that the power supply connection actually interferes with the assembly from being able to sit flat on the bottom, but otherwise no complaints, Will definitely buy this kit from this supplier again.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Michael E. Freeman",
+      "helpful_votes": 0,
+      "publication_date": 20170910
+    },
+    {
+      "title": "GREAT kit, but inform yourselves about how to change the screen orientation to avoid frustration",
+      "text": "Great setup - however, the image orientation on the 7in screen \"flips\" to the wrong side and renders the case unusable. Instructions to fix this are vague and not very detailed.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Michael Sartori (fka Gaedeke)",
+      "helpful_votes": 0,
+      "publication_date": 20180208
+    },
+    {
+      "title": "Poorly designed case, great concept",
+      "text": "Would be a lot higher if the stand had not been made incorrectly. In order for this to work you have to look at what others have had to do to enter a code to flip the screen at startup otherwise it will show upside down. You \"could\" just flip it upside down...",
+      "rating": 3.0,
+      "verified": true,
+      "author": "Jdub",
+      "helpful_votes": 0,
+      "publication_date": 20180811
+    },
+    {
+      "title": "Cool kit, but....",
+      "text": "This was a Christmas gift for my 10 year old son. Cool kit, but not for someone who hasn't built something like this before. It doesn't come with any kind of directions so I had to dig online to figure this out. Maybe including an instruction booklet for us noobs would be a good idea? Maybe I expect too much  \u0304\\_(\u30c4)_/ \u0304",
+      "rating": 3.0,
+      "verified": true,
+      "author": "Betti Davis",
+      "helpful_votes": 6,
+      "publication_date": 20180115
+    },
+    {
+      "title": "Compact computer",
+      "text": "Nice compact package Most all instructions are online and not included in packaging. There should be reference to anti static wrist band use and maybe primer for those who haven't used zero insertion force sockets But for me went smoothly",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Mick",
+      "helpful_votes": 2,
+      "publication_date": 20170225
+    },
+    {
+      "title": "Everything was great packaging was nice and neat and product worked perfectly ...",
+      "text": "Everything was great packaging was nice and neat and product worked perfectly as shown. Will be great for a mobile game station you guys have to try out retro pi",
+      "rating": 5.0,
+      "verified": true,
+      "author": "shaun platt",
+      "helpful_votes": 0,
+      "publication_date": 20170928
+    },
+    {
+      "title": "I was looking forward to this, but when it ...",
+      "text": "I was looking forward to this, but when it arrived I found that mine was shipped with a European-style power adapter. So now I need to make a separate purchase of an adapter that I can use. I have no idea why they would have gotten this confused.",
+      "rating": 3.0,
+      "verified": true,
+      "author": "B. McCall",
+      "helpful_votes": 0,
+      "publication_date": 20170905
+    },
+    {
+      "title": "Excellent product",
+      "text": "Good product, very good quality, easy to use and excellent, recommended by the seller",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Michael Sosa",
+      "helpful_votes": 0,
+      "publication_date": 20191009
+    },
+    {
+      "title": "The components do work, but they are packaged as ...",
+      "text": "The components do work, but they are packaged as separate items without instructions on how the individual parts work together. The screen booted upside down (there's an edit to the boot config to turn it around). It's just not obvious how to attach the screen.",
+      "rating": 3.0,
+      "verified": true,
+      "author": "Kindle Customer",
+      "helpful_votes": 0,
+      "publication_date": 20170512
+    },
+    {
+      "title": "Works great.",
+      "text": "Bought this to make an astrobox with its own screen. Works great.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "R. Mabe",
+      "helpful_votes": 2,
+      "publication_date": 20170522
+    },
+    {
+      "title": "Great Kit - LCD touch screen is great",
+      "text": "Great kit! Screen and case are perfect for my needs. Everything worked right out of the box without any issues or concerns. Great seller and package... I just wish I had waited a week for the 3B+ :-)",
+      "rating": 5.0,
+      "verified": true,
+      "author": "JohnPatrickHoke",
+      "helpful_votes": 0,
+      "publication_date": 20180320
+    },
+    {
+      "title": "pi3 kit with screen",
+      "text": "Work great , very easy to put together and set up, watch youtube video. Its that straight forward :-)",
+      "rating": 5.0,
+      "verified": true,
+      "author": "brian borkowski",
+      "helpful_votes": 2,
+      "publication_date": 20170823
+    },
+    {
+      "title": "One Star",
+      "text": "SD card with OS was damaged; product was unusable. Seller did not respond to my initial feedback.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "Mike Burger",
+      "helpful_votes": 2,
+      "publication_date": 20180424
+    },
+    {
+      "title": "Totally Recommend",
+      "text": "I liked the setup I got. Well worth the price. Excellent customer support.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Mark",
+      "helpful_votes": 0,
+      "publication_date": 20170327
+    },
+    {
+      "title": "Doesn't work",
+      "text": "We were never able to get the monitor to turn on.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "danny reilly",
+      "helpful_votes": 2,
+      "publication_date": 20180617
+    },
+    {
+      "title": "Up and running in about 20 minutes after a quick ...",
+      "text": "Up and running in about 20 minutes after a quick youtube search on assembly. Use this to run my Xcarve system so I don't have to sacrifice the laptop the whole time its cutting.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Earth Chunks",
+      "helpful_votes": 0,
+      "publication_date": 20180715
+    },
+    {
+      "title": "Looked exactly as I expected! Came with Pi, ...",
+      "text": "Looked exactly as I expected! Came with Pi, screen, neat combo case that held both, everything you see in the pic is what you get.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Cash Best",
+      "helpful_votes": 0,
+      "publication_date": 20180209
+    },
+    {
+      "title": "Good platform needs better power supply.",
+      "text": "Setup was easy and I like the form factor. The only issue is, although it's listed as a 2.5 amp power supply, I constantly get a power warning on the screen.",
+      "rating": 4.0,
+      "verified": true,
+      "author": "Thadeus C. Reed",
+      "helpful_votes": 2,
+      "publication_date": 20170818
+    },
+    {
+      "title": "no excess packing materials) but arrived in perfect working order",
+      "text": "Everything listed is provided in a single box. Things are individually packed in a no-bs manner (i.e. no excess packing materials) but arrived in perfect working order. A fantastic kit for any touchscreen application using the pi. Comes with everything you need to set up so no hidden costs for extra crap.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Steve S",
+      "helpful_votes": 0,
+      "publication_date": 20180109
+    },
+    {
+      "title": "Very cool device.",
+      "text": "The only thing I had to do to improve upon this device was input code to rotate the screen; aside from that, it's a great little tool for playing around with linux or python.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Skotch Korean",
+      "helpful_votes": 0,
+      "publication_date": 20181211
+    },
+    {
+      "title": "Nice kit",
+      "text": "New to RPI. Read up on what it does, ordered a keyboard, snatched the instructions from the web and had it running that evening. Nice simple set up. A good kit to get into things.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "T. Liguori",
+      "helpful_votes": 0,
+      "publication_date": 20180610
+    },
+    {
+      "title": "great features",
+      "text": "first one I got worked well. Has some great features that come on the sim card for the pi. Unfortunately, the pi stopped working within the first couple days. Would no longer power on. Amazon worked with me in refunding my money after return and I purchased another one. Have yet to dig into it but plan on using it for pen testing.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Giovanni",
+      "helpful_votes": 0,
+      "publication_date": 20180207
+    },
+    {
+      "title": "Was a great kit has everything you need to build a small ...",
+      "text": "Was a great kit has everything you need to build a small computer with a touch screen good for young kids who are interested in codeing. This product is a great value, I bought this for a engineering project if I bought the parts separate it would cost me almost $200 this helped save me money I am happy with my purchase.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Kyle",
+      "helpful_votes": 0,
+      "publication_date": 20180306
+    },
+    {
+      "title": "Fun project with my daughter.",
+      "text": "Excellent product. Worked as described. Didn't have directions but found them on their website easily.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Simon Esquire",
+      "helpful_votes": 0,
+      "publication_date": 20180214
+    },
+    {
+      "title": "Great Raspberry Pi Kit",
+      "text": "Great Raspberry Pi kit. As others have mentioned, the screen starts upside down. So you have to do some configuration changes to fix it.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Adam J. Shepherd",
+      "helpful_votes": 0,
+      "publication_date": 20180217
+    },
+    {
+      "title": "He loved it and was able to put it together quickly",
+      "text": "This kit was a gift to a computer enthusiast. He loved it and was able to put it together quickly. Due to his happiness with this item I would recommend it.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "CG",
+      "helpful_votes": 0,
+      "publication_date": 20170929
+    },
+    {
+      "title": "I am very happy with it.",
+      "text": "All items advertised were in the box. Items are new as advertised. Instructions were provided for all items.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Pidge",
+      "helpful_votes": 0,
+      "publication_date": 20170426
+    },
+    {
+      "title": "FANTASTIC!",
+      "text": "Easy setup, great value, nicely packaged, everything you need! Display initially upside down as described, but easily fixed. When I purchased it it didn't even register in my head that it was a touchscreen; I guess I could have skipped plugging in my mouse. Fantastic purchase!",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Daphne J. Karpan",
+      "helpful_votes": 0,
+      "publication_date": 20170905
+    },
+    {
+      "title": "Disappointed that the Pi screen is \"upside down\" out of ...",
+      "text": "Disappointed that the Pi screen is \"upside down\" out of the box. I was able to rotate the display through settings once I installed Raspbian, but otherwise it is upside down.",
+      "rating": 3.0,
+      "verified": true,
+      "author": "Bradley Breedlove",
+      "helpful_votes": 0,
+      "publication_date": 20180511
+    },
+    {
+      "title": "This is a great way to help your family get together and work ...",
+      "text": "Bought this for my Grandson and he is having the time off his life. This is a great way to help your family get together and work on something. This is not my last purchase.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "John",
+      "helpful_votes": 0,
+      "publication_date": 20180130
+    },
+    {
+      "title": "Amazing deal. Everything came on time in perfect packaging",
+      "text": "Amazing deal. Everything came on time in perfect packaging, the \"desktop\" initially loaded upside-down but that's an easy fix on the command line.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Bobby gleason",
+      "helpful_votes": 0,
+      "publication_date": 20170930
+    },
+    {
+      "title": "it works !",
+      "text": "One afternoon: Got my kit, watched a vid, started using my new computer. Only needed a philllips head screwdriver. 10/10, will look at Phototech first when I want to get another.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Pino",
+      "helpful_votes": 0,
+      "publication_date": 20180112
+    },
+    {
+      "title": "Wonderful kit had everything in it that I needed to ...",
+      "text": "Wonderful kit had everything in it that I needed to start my Raspberry Pi 3 learning project . Would buy from them again.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Amazon Customer",
+      "helpful_votes": 0,
+      "publication_date": 20180207
+    },
+    {
+      "title": "I really want to like this product",
+      "text": "I really want to like this product. It does come with everything you need to get going. Unfortunately the power supply is unbearable to be in the same room with. It constantly makes a high pitch whine and struggles to keep the Pi running. I cant fault the design, just the quality control.",
+      "rating": 2.0,
+      "verified": true,
+      "author": "Nathan Weinstein",
+      "helpful_votes": 0,
+      "publication_date": 20180124
+    },
+    {
+      "title": "No Manual, BUT...",
+      "text": "Didn't come with an instruction manual; however, I was able to find several good videos on youtube. After that, putting it together was easy. Chose this as a school project; I think the touchscreen gives it a nice added extra.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "James D.",
+      "helpful_votes": 0,
+      "publication_date": 20180411
+    },
+    {
+      "title": "Very Happy",
+      "text": "Is what was shown I received the package on time and very please with the product",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Tommy C. DeGraw",
+      "helpful_votes": 0,
+      "publication_date": 20180922
+    },
+    {
+      "title": "Great kit!",
+      "text": "Great kit!!!! This is my first Raspberry Pi, and I'm looking forward to learning a little about programming on it. I'm enjoying the UI and the touch screen is a nice size!!!",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Mmeyer1121",
+      "helpful_votes": 0,
+      "publication_date": 20170327
+    },
+    {
+      "title": "Extremely pleased with my order",
+      "text": "Extremely pleased with my order. I've always had a tenuous relationship with technology and wanted something small and easily usable to begin increasing my understanding of computers. I picked up a book on coding with Python and have been having a blast learning something new.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Brandon",
+      "helpful_votes": 0,
+      "publication_date": 20171224
+    },
+    {
+      "title": "The Pi!",
+      "text": "Worked great right out of the box! Only thing is that when the software installed the screen is upside down so now I have to find out how to rotate it. But other than that great product!",
+      "rating": 4.0,
+      "verified": true,
+      "author": "Kaleb",
+      "helpful_votes": 0,
+      "publication_date": 20170509
+    },
+    {
+      "title": "Honestly love this bundle",
+      "text": "Honestly love this bundle. Would of given a 5 but the power supply was faulty .. I had a spare laying around ...",
+      "rating": 4.0,
+      "verified": true,
+      "author": "Sean forsberg",
+      "helpful_votes": 0,
+      "publication_date": 20180210
+    },
+    {
+      "title": "Kids loves it.",
+      "text": "Loved it. But wish it came with a book/manual or I purchased one to assemble it. My youngest had a bit of a time putting it together.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "slymudd",
+      "helpful_votes": 0,
+      "publication_date": 20190119
+    },
+    {
+      "title": "I did not like that there wasn't any documentation as to how to ...",
+      "text": "The product was here in no time and was all it was advertized to be. I did not like that there wasn't any documentation as to how to \"hook everything up\"even online on Element 14 site still no info.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Christopher Lovette",
+      "helpful_votes": 0,
+      "publication_date": 20180326
+    },
+    {
+      "title": "It works but the case is upside down",
+      "text": "This was manufactured so that the touch screen appears upside down when the case is set flush. Great for the exercise of putting a computer together but the case design has a real mistake.",
+      "rating": 3.0,
+      "verified": true,
+      "author": "JP",
+      "helpful_votes": 0,
+      "publication_date": 20180414
+    },
+    {
+      "title": "i've loved it so far",
+      "text": "Arrived exactly two days after i bought it, i've loved it so far. This was a purchase i made through an anxiety attack but couldn't be happier tho, thank you so much for caring about my satisfaction as a costumer Joel. Raspberry enthusiast, Angel.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Angel Garcia",
+      "helpful_votes": 0,
+      "publication_date": 20170412
+    },
+    {
+      "title": "OS change difficult",
+      "text": "Could use an access hole for the OS SD card.",
+      "rating": 3.0,
+      "verified": true,
+      "author": "smartshopper",
+      "helpful_votes": 0,
+      "publication_date": 20180510
+    },
+    {
+      "title": "Nice but also disappointed",
+      "text": "It is a nice little kit to make a Raspberry Pi. The only reason it didn't get 4 stars is that the housing for the touch screen was upside down.",
+      "rating": 3.0,
+      "verified": true,
+      "author": "Leslie Hogue",
+      "helpful_votes": 0,
+      "publication_date": 20200119
+    },
+    {
+      "title": "Five Stars",
+      "text": "Awesome product, couldn't have asked for more for a better price!",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Amazon Customer",
+      "helpful_votes": 0,
+      "publication_date": 20171028
+    },
+    {
+      "title": "Purchased as a Christamas Gift for a kid",
+      "text": "Kit is great, really easy to use and assemble. This was purchased as a Christmas gift for someone who is learning about electronics and it was the perfect gift for the beginner",
+      "rating": 5.0,
+      "verified": true,
+      "author": "David ",
+      "helpful_votes": 0,
+      "publication_date": 20181231
+    },
+    {
+      "title": "Great product",
+      "text": "I bought this for college to learn the Linux system and I find it very user-friendly. I'm so pleased with the product and the company! Highly recommend this.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "rebecca",
+      "helpful_votes": 0,
+      "publication_date": 20180911
+    },
+    {
+      "title": "Terrific Bundle",
+      "text": "Terrific bundle that covers all the essential items. All clearly marked and labeled.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Robert",
+      "helpful_votes": 0,
+      "publication_date": 20170621
+    },
+    {
+      "title": "Excellent",
+      "text": "Amazingly works right out of the box. Really good quality components. So far so good.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "David Lindstrom",
+      "helpful_votes": 0,
+      "publication_date": 20170806
+    },
+    {
+      "title": "Made backwards, can fix upside down display with one line in config.",
+      "text": "This is technically made backwards and requires special confugiruation to flip the display upside down in software, same for touch. Otherwise solid and the screen output is gorgeous.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "UWillKnowMe",
+      "helpful_votes": 0,
+      "publication_date": 20180327
+    },
+    {
+      "title": "Great starter kit!",
+      "text": "The display is excellent and the price is right. I highly recommend this purchase especially for a portable retropie. It is a fun learning tool for my sons and myself. I will probably purchase another.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Matt",
+      "helpful_votes": 0,
+      "publication_date": 20170508
+    },
+    {
+      "title": "its crap",
+      "text": "NeeGo is crap. Doesn't come with directions, nor a start switch. Of course, without directions who knows how to start it. Plugging it in doesn't do much ether. I'm returning it.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "TK",
+      "helpful_votes": 0,
+      "publication_date": 20180127
+    },
+    {
+      "title": "Takes for ever to load.",
+      "text": "I did not like this because it only works in the tv with the blue tooth key bird.\ud83e\udd2c\ud83e\udd2c",
+      "rating": 1.0,
+      "verified": true,
+      "author": "Elisa Ochoa",
+      "helpful_votes": 0,
+      "publication_date": 20180702
+    },
+    {
+      "title": "Not happy customer.",
+      "text": "Power supply was broken and raspberry pi\u2019s WiFi doesn\u2019t work. I bought another raspberry pi and it works fine with no problems.",
+      "rating": 2.0,
+      "verified": true,
+      "author": "Adam Wilson",
+      "helpful_votes": 0,
+      "publication_date": 20191007
+    },
+    {
+      "title": "Quick, easy assembly",
+      "text": "Easy for even a beginner to assemble, and works great! There are no instructions, but plenty of YouTube tutorials.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Kristen Henry",
+      "helpful_votes": 0,
+      "publication_date": 20171105
+    },
+    {
+      "title": "... all of my items quickly and the bundle was perfect! Everything I needed to set up my project ...",
+      "text": "Got all of my items quickly and the bundle was perfect! Everything I needed to set up my project in one box! I'm destined to buy a couple more of these and I love that I can get it all in one shot here!",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Jeff B.",
+      "helpful_votes": 0,
+      "publication_date": 20171221
+    },
+    {
+      "title": "Missing pieces",
+      "text": "So disappointed to find out missing pieces (sd card and the cables of the lcd) after getting together all the pieces.....",
+      "rating": 1.0,
+      "verified": true,
+      "author": "Stephanie",
+      "helpful_votes": 0,
+      "publication_date": 20171227
+    },
+    {
+      "title": "Recommended.",
+      "text": "Nicely packed, no compatibility problem. Would have been better if it included a simple assembly guide for attaching pi board on to the back of touch screen. Had to google that. Other then that, it delivers what it offers. Recommended.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "HolyDragon",
+      "helpful_votes": 0,
+      "publication_date": 20170920
+    },
+    {
+      "title": "Five Stars",
+      "text": "Has everything you would need to get started with Raspberry Pi",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Tom B.",
+      "helpful_votes": 0,
+      "publication_date": 20170927
+    },
+    {
+      "title": "Excellant product!",
+      "text": "The item was exactly as described. I have been using the product for a while now, and I must say it is great! I am looking at a couple of projects that I might need a few more and this will be my first thought to come to. I do recommend this product.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Amazon Customer",
+      "helpful_votes": 0,
+      "publication_date": 20170904
+    },
+    {
+      "title": "You will have to look on the website for the wiring instructions to power the screen.",
+      "text": "GREAT KIT! had to hunt on the website for the monitor power cable instructions, but the whole family loves our mobile gaming center (retropi) may order another soon!",
+      "rating": 5.0,
+      "verified": true,
+      "author": "John Palmer",
+      "helpful_votes": 0,
+      "publication_date": 20171214
+    },
+    {
+      "title": "Raspberry pi 3",
+      "text": "Great product. Seller shipped super fast and even e-mailed me saying if i needed and help at all to to send him a messages. Will be using them again. Thanks for everything.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Josh Kline",
+      "helpful_votes": 0,
+      "publication_date": 20170419
+    },
+    {
+      "title": "Bought as a gift",
+      "text": "Bought as a gift. My son seems really thrilled with it.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Jacqueline S. Schultz",
+      "helpful_votes": 0,
+      "publication_date": 20170617
+    },
+    {
+      "title": "Good enough",
+      "text": "So far so good, but the screen needs improvement Specifically the resolution So glad to deal with you, thank you.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Ateeq Almukhlifi",
+      "helpful_votes": 0,
+      "publication_date": 20170425
+    },
+    {
+      "title": "Image is inverted on screen but the fix is pretty easy to do after a quick search on Google",
+      "text": "Image is inverted on screen but the fix is pretty easy to do after a quick search on Google.",
+      "rating": 4.0,
+      "verified": true,
+      "author": "Harold Anderson",
+      "helpful_votes": 0,
+      "publication_date": 20170904
+    },
+    {
+      "title": "it was very easy to connect the screen to the raspberry pi",
+      "text": "the order came on time. it was very easy to connect the screen to the raspberry pi , i really liked it.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Amazon Customer",
+      "helpful_votes": 0,
+      "publication_date": 20170511
+    },
+    {
+      "title": "Excellent kit!",
+      "text": "This kit was awesome! Everything was there and I had it up and running in about 5 minutes",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Jason Nygard",
+      "helpful_votes": 0,
+      "publication_date": 20180121
+    },
+    {
+      "title": "great kit",
+      "text": "worked great right out of the box. Included everything I needed.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Peter L Baker",
+      "helpful_votes": 0,
+      "publication_date": 20171224
+    },
+    {
+      "title": "Works for remote connecting to Antminers with free Teamviewer App.",
+      "text": "Works for remote connecting to Antminers with free Teamviewer App.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "MARK",
+      "helpful_votes": 0,
+      "publication_date": 20180127
+    },
+    {
+      "title": "Need assembly instructions",
+      "text": "The Raspberry Pi kit is of good quality. My biggest complaint is there was no assembly instructions. I had to look at several different sources to find out how to connect the LCD.",
+      "rating": 3.0,
+      "verified": true,
+      "author": "Paul Davison",
+      "helpful_votes": 0,
+      "publication_date": 20171110
+    },
+    {
+      "title": "My daughter used this for summer camp and loved it. It contained everything she needed",
+      "text": "My daughter used this for summer camp and loved it. It contained everything she needed. It was delivered on time and was packaged very well.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "SB",
+      "helpful_votes": 0,
+      "publication_date": 20170716
+    },
+    {
+      "title": "Love this product",
+      "text": "First one was defective, but second works perfect. Problem with video screen being upside down, but a \u200bquick search and some file editing, reboot and problem solved.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Mike James",
+      "helpful_votes": 0,
+      "publication_date": 20171226
+    }
+  ],
+  "product_meta": {
+    "title": "NEEGO Raspberry Pi 3 Ultimate Starter Kit \u2013 Complete Set Includes Raspberry Pi 3 Model B Motherboard, 7\u201d Touchscreen Display, Power Supply, 16GB SD Card, 2 Heatsinks, Official Case & 6ft HDMI Cable",
+    "description": "Build and code your very own computer? Easy as pi.\n\n Aspiring techies everywhere can master computer science 101 at home or in the classroom with the Raspberry Pi 3 Ultimate Starter Kit. This all-in-one barebones bundle arrives with the latest high-speed, energy-efficient tools necessary for building your very own credit-card sized computer. The lightning-fast model B motherboard features a 64-bit quad core central processing unit, integrated Wi-Fi, Bluetooth Low Energy (BLE) and 1GB of RAM. For the first time ever, our complete set also includes an innovative 7\u201d touchscreen display, eliminating the need for a monitor, mouse or keyboard. Just use the provided HDMI cable, 16GB micro SD card, heatsinks, noise-filtered power source and specially designed protective case to craft an enjoyable educational gadget. This is the micro computer that changed the world\u2014and it\u2019s easier than ever!\n\n What You Get\n\n \n\n * 1 x Raspberry Pi 3 Ultimate Starter Kit\n   \n * 1 x Model B motherboard\n   \n * 1 x 7\u201d touchscreen\n   \n * 1 x 16GB micro SD card with NOOBS\n   \n * 1 x 6ft HDMI cable\n   \n * 1 x Power adapter\n   \n * 2 x Heatsinks\n   \n * 1 x Official case\n   \n * Quick start guide\n   \n * An amazing gift for pros (and dummies)!\n\n Specs & Details\n\n \n\n * 1.2GHz 64-bit quad-core ARMv8 CPU\n   \n * 802.11n Wireless LAN\n   \n * Bluetooth 4.1 (BLE)\n   \n * 1 GB RAM\n   \n * 4 USB ports\n   \n * 40 GPIO pins\n   \n * Full HDMI port\n   \n * Ethernet port\n   \n * 3.5mm audio/composite video\n   \n * CSI/DSI\n   \n * Micro SD card slot\n   \n * Videocore IV 3d graphics core\n\n How to Enjoy\n\n \n\n * Get out-of-the-box ease for your high-tech hobby\n   \n * Experiment endlessly while you learn the basics\n   \n * Bring the computer sciences into the classroom\n   \n * Let your imaginative brain dream big\u2014and build bigger!",
+    "rating": 4.2,
+    "feature_bullets": [
+      "COMPLETE RASPBERRY PI 3 SET \u2013 Barebones Bundle Includes Everything You Need to Build a Mini Computer at Home; Great for Beginners, Pros, Adults & Kids",
+      "RASPBERRY PI 3 MODEL B MOTHERBOARD \u2013 Credit Card Sized Computer Features Super Fast 64-Bit Quad Core CPU, Built-In Wifi, Bluetooth Low Energy & 1GB RAM",
+      "7\u201d TOUCH SCREEN DISPLAY \u2013 Full Color 800 x 480 Resolution Portable Adapter Board Connects Via GPIO or USB; 10-Finger Detection Great for Media & Gaming",
+      "16GB MICRO SD CARD \u2013 Comes Preloaded with Raspberry Pi 3 Compatible Version of NOOBS & SD Adapter Card; Install & Run Countless Operating Systems",
+      "ADDITIONAL ACCESSORIES \u2013 All-in- One Package Also Includes New Official Case Enclosure, 2-Piece Heatsink Set, 6-Foot HDMI Cable & 2.5A Power Charger"
+    ],
+    "specifications": {
+      "Product Dimensions": "12 x 4.5 x 10 inches",
+      "Item Weight": "2.64 pounds",
+      "Manufacturer": "NeeGo",
+      "ASIN": "B01NB1HK24",
+      "Item model number": "4328435109",
+      "Customer Reviews": "4.2 out of 5 stars239 ratings4.2 out of 5 stars",
+      "Best Sellers Rank": "#1,617 in Single Board Computers",
+      "Is Discontinued By Manufacturer": "No",
+      "Date First Available": "February 6, 2017"
+    },
+    "categories": [
+      "Computers & Accessories",
+      "Electronics",
+      "Single Board Computers",
+      "Computer Components"
+    ],
+    "price": ""
+  }
+}

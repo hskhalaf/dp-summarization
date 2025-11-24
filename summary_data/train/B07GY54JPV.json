@@ -1,0 +1,977 @@
+{
+  "website_summaries": [
+    {
+      "verdict": "The latest box from TiVo doesn\u2019t disappoint, carrying over all the features of the Roamio line while staying current with 4K technologies.",
+      "pros": [
+        "Feature-rich update on the Roamio line with 4K capability, recording capacity up to 150 hours, commercial skip mode, and optional out-of-home streaming",
+        "Interface is effortless to use",
+        "Connects to TV via HDMI"
+      ],
+      "cons": [
+        "Whole-home capability requires additional purchase of a TiVo Mini",
+        "Setup can take a few hours",
+        "Skip mode doesn\u2019t work on all TV programs",
+        "OTA only",
+        "no cable capability"
+      ],
+      "aspects": {},
+      "publication_date": "",
+      "rating": "",
+      "source": "bestreviews"
+    },
+    {
+      "verdict": "With its household name, slick hardware design and affordable pricing structures the TiVo Bolt OTA offers one of the best alternatives to the still-fledgling world of streaming TV services.",
+      "pros": [
+        "The TiVo Bolt OTA offers a plethora of services including streaming apps with 4K support, in-home streaming and voice search",
+        "The price per month is a lot more affordable than the full-fat version of the Bolt, and lifetime service brings the total cost to $500",
+        "The interface is quick and Netflix loads instantaneously"
+      ],
+      "cons": [
+        "There is no access to live TV streaming services which would help bolster the OTA options",
+        "The functionality is skewed heavily in favor of streaming over the DVR",
+        "For example, voice search isn't able to be limited to guide data only which means streaming shows are mixed in",
+        "I had limited success trying to get in-home streaming to work"
+      ],
+      "aspects": {},
+      "publication_date": 20181218,
+      "rating": 7.8,
+      "source": "cnet"
+    }
+  ],
+  "customer_reviews": [
+    {
+      "title": "Very frustrating to play recordings beginning a couple weeks ago.",
+      "text": "I was quite happy with the unit for the first month we owned it. The device was easy to set up, program and use. We recently cancelled cable, and purchased the TiVo bolt to work with an OTA antenna. And, for a month I thought this was a great decision as everything worked smoothly. However, we're in the second month of ownership, and the TiVo has started to have problems when playing back recordings. Now, when we try to play a recorded show for the first time, we often get a gray screen and the unit pauses for a long time before eventually starting to play. Sometimes it doesn't play at all without rebooting the unit. Very frustrating!",
+      "rating": 2.0,
+      "verified": true,
+      "author": "anadromous",
+      "helpful_votes": 6,
+      "publication_date": 20191018
+    },
+    {
+      "title": "Free means $30 subscription",
+      "text": "On the Amazon site it states: Watch better. Save more. Enjoy a premium TV experience without the premium price and get live sports, local news, prime time comedies and dramas, and all the big award shows \u00ad\u00ad\u2014free through your over-the-air HD antenna. However, when you try to activate it, you have to select a subscription $$$ FOR WHAT?",
+      "rating": 1.0,
+      "verified": true,
+      "author": "StevieK in TX",
+      "helpful_votes": 7,
+      "publication_date": 20190923
+    },
+    {
+      "title": "Intrusive noise",
+      "text": "Purchased to use in master bedroom. Had to remove as it was too loud - apparently this is a known fan issue with this device. Placed in living room but fan sound was annoying when the room was quiet - for instance when reading. Ending up looking for solutions and came across the Fire TV Recast. This does everything the Bolt does plus allows streaming to additional devices. The price is in line with the Bolt and there are no subscription fees. Installed the Recast in the master bedroom and no annoying fan noise. Had been a TIVO customer for years. No longer. TIVO quality control is terrible.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "Rain man",
+      "helpful_votes": 4,
+      "publication_date": 20190622
+    },
+    {
+      "title": "Satisfied",
+      "text": "Update: the thing started locking in and picking up stations so maybe it was just a software or firmware upgrade. Overall I'm happy with the purchase. Well I tried this in two different rooms of my house which each have separate antennas and could only pick up three channels total. In one room the channels were very choppy and the other room which was a completely different set of channels was clear. However in both rooms if I hook the antennas directly up to my television I get 12 channels with 99% solid picture. Obviously this is unacceptable.",
+      "rating": 3.0,
+      "verified": true,
+      "author": "damnisthistaken",
+      "helpful_votes": 4,
+      "publication_date": 20190507
+    },
+    {
+      "title": "Bravo TiVo!  Great device and service.  Cut the cord and save, but buy this first!",
+      "text": "This device works incredibly well with my OTA antenna, Amazon Prime and Netflix accounts. It is easy to learn, easy to use and is just well designed software, hardware and nearly every other detail. I highly recommended this product for anyone that is planning to cut the cord but likes the benefit of DVR service. We subscribe to the $6.99 TiVo service to make everything work seamlessly which is a small price to pay compared to the ridiculous sums of money I used to pay to Directv for almost the same service. I barely watched anything but local channels anyway. Bravo TiVo, great product and great service both for a very fair price.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Matt B.",
+      "helpful_votes": 3,
+      "publication_date": 20191005
+    },
+    {
+      "title": "Impressive Device",
+      "text": "For my local ABC, NBC, CBS & FOX channels, this device gets a better picture than my former Verizon FIOS DVR. And the recording quality is as good as the live TV picture. So it appears there is no compression in the recordings. I did have to try several antennas until I found one that worked well under my conditions. The device has a decent selection of apps. But it currently does not support DirecTV Now, Sing TV or Youtube TV. So this is one area for improvement. Once it supports these apps, I will no longer need my Apple TV device.",
+      "rating": 4.0,
+      "verified": true,
+      "author": "Steve H",
+      "helpful_votes": 4,
+      "publication_date": 20190125
+    },
+    {
+      "title": "Why did you change the controls",
+      "text": "I\u2019ve had several TiVos over the years and I can\u2019t for the life of me figure out why on this one they changed most of the controls that you are used to. Looking up shows is more complicated than it needs to be. It seems like they are more concerned with looking up streaming shows than ones to record. If This was my first TiVo I\u2019m sure I wouldn\u2019t have these problems but after almost 20 years using one it fees like someone rearranged the pedals on a car. Picture quality and storage capacity are wonderful and operationally I has worked flawlessly but user interface is overly complicated",
+      "rating": 2.0,
+      "verified": true,
+      "author": "Amazon Customer",
+      "helpful_votes": 2,
+      "publication_date": 20200809
+    },
+    {
+      "title": "It\"s USED not new",
+      "text": "I received it in completely open box. There wasn't even a tape to locked the cardboard box. Tivo is USED, not new. There was someones account already on it. Box is already registered and there are somebody's recorded shows in the box too. The outside of the box is scratched too.",
+      "rating": 2.0,
+      "verified": true,
+      "author": "roman dubiel",
+      "helpful_votes": 3,
+      "publication_date": 20200302
+    },
+    {
+      "title": "Clueless support ruins an otherwise good product",
+      "text": "I bought the Bolt to replace my older Roamio. Setup was easy enough, but when I tried to transfer my recordings from my old box to the new one, it didn't work. Three support calls, spanning 90+ minutes, later, and they're saying they'll need to escalate to software engineering. This will take 3-7 business days, during which time there's no point in using the box since the first thing they're likely to do is wipe it. How this passes for acceptable with a consumer product is beyond me. All they offer is to make it right \"as soon as possible.\" Useless. Just useless.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "patchman512",
+      "helpful_votes": 4,
+      "publication_date": 20190201
+    },
+    {
+      "title": "Weak onboard receiver!!!",
+      "text": "OTA reception of local stations is craptastic!!! No stations more than 35 miles out and no clear signals!!! Hook the air antenna directly to the TV and everything is crystal clear!!! Serious receiver upgrade needed for the OTA TivoBolt!!! Not impressed at all... had to get an attic antenna with signal booster before I could record any TV shows!!! Overpriced POS!!!",
+      "rating": 3.0,
+      "verified": true,
+      "author": "Michael P Chaffee",
+      "helpful_votes": 3,
+      "publication_date": 20191020
+    },
+    {
+      "title": "Tivo charges and adds commercials",
+      "text": "Tivo charges you for guide service and sneaks in commercials before your antenna recordings. Box crashed multiple times trying to avert the commercial at the beginning of the recording (which was not recorded over the air, but inserted by tivo. That just sux)",
+      "rating": 4.0,
+      "verified": true,
+      "author": "RoyMan",
+      "helpful_votes": 3,
+      "publication_date": 20200521
+    },
+    {
+      "title": "Great product",
+      "text": "I have been using my Tivo Bolt for about 8 months and am very happy with it. I use it with my attic antenna to view and record my local shows, I get about 25. I signed up for their 1 year guide, which was very inexpensive. It allows you to go out at least two weeks to record shows, Unlike You Tube tv which only allows you to go out 4 to 6 hrs.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Paul Mc Allister",
+      "helpful_votes": 2,
+      "publication_date": 20200227
+    },
+    {
+      "title": "Device needs some refining. Sluggish interface response.",
+      "text": "The device does what it is advertised to do. However there is one major issue that makes the overall rating low. The system response from the remote is VERY sluggish. This is especially true when you hit a station that is right on the edge of losing the digital signal. Sometimes you have to wait 30 seconds for the remote to respond to a request. Been a long time fan of TIVO but this device was a BIG letdown. If I weren't outside the return period, I would be sending it back.",
+      "rating": 2.0,
+      "verified": true,
+      "author": "Casey Hill",
+      "helpful_votes": 2,
+      "publication_date": 20190418
+    },
+    {
+      "title": "Support is horrible",
+      "text": "When it arrived, I called support to find out how it should be hooked up, as I have an OTA antenna. Nobody would answer my question. Apparently they are all FOREIGN script monkeys and must get me enrolled in a payment plan. That isn't what I wanted to know. I told them I would return it right away, which I did. I am sure it is a perfectly fine machine, but the support is inadequate. That is enough to terminate the \"relationship\".",
+      "rating": 1.0,
+      "verified": true,
+      "author": "Jane Post",
+      "helpful_votes": 5,
+      "publication_date": 20190217
+    },
+    {
+      "title": "Not All Locals",
+      "text": "It will not identify all local channels. The local PBS station has a very strong signal but the TIVO will not even show the channel to select. Some local channels have added digital channels but TIVO does not show these channels. My wife and I have the same type phone on the same network but it will not connect to her phone to do updates.",
+      "rating": 4.0,
+      "verified": true,
+      "author": "R. Melton",
+      "helpful_votes": 2,
+      "publication_date": 20200303
+    },
+    {
+      "title": "Works terrific",
+      "text": "I wasn't sure how this unit would work. I was pleasantly surprised at how well it works. The Milwaukee area has 57 over the air channels and TIVO brings in all of them with a decent outdoor antenna. The remote is a bit of a challenge. The DVR transport buttons should have been on the top of the remote and the menu buttons should have been lower. Minor things after you get used to it. I would recommend this machine to anyone who wants ti cut the cord.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Milwaukee customer",
+      "helpful_votes": 0,
+      "publication_date": 20200310
+    },
+    {
+      "title": "OTA reception loss with TiVO",
+      "text": "We suffered 2/3 over the air signal loss with TiVO. With the antenna directly connected to the TV we received 40+ stations with none less that 90% reception. When we added TiVO, that dropped to 8. I spent weeks reviewing the TiVO user forums and any other data I could find. It appears everyone is having the same issues with TiVO. I did like the program listing and even paid the lifetime subscription (big mistake). I would not recommend TiVO for antenna use.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "aem",
+      "helpful_votes": 0,
+      "publication_date": 20200530
+    },
+    {
+      "title": "Tuners are not good quality in TiVo Bolt OTA",
+      "text": "Set up the unit and 2 of my 4 major networks do not come in .... even though all four work great on LG TV. I took feed from away the TV and hooked it up to TiVo in identical fashion as TV was and do not get FOX or CBS .... only get ABC and NBC! Have tried many connection scenarios, but can only conclude the tuners are not as good as the TV .... Don't waste your money!",
+      "rating": 1.0,
+      "verified": true,
+      "author": "Jay@APE",
+      "helpful_votes": 3,
+      "publication_date": 20190328
+    },
+    {
+      "title": "Waste",
+      "text": "We would not have purchased this if we'd known you can't watch anything you record without a subscription to HULU. It doesn't make any sense but my husband called customer support and they were absolutely no help at all. We were happier with OTA programming before we wasted the money on this. After hooking it up & subscribing to TIVO the PBS station wouldn't come in anymore. We've gotten that straightened out but the only thing we're using this service for is to see the guide. All the streaming is done thru Roku anyway so we only wanted to be able to record and WATCH the recorded program so, as I mentioned, it's a waste of money for that purpose.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "Suzanne S.",
+      "helpful_votes": 0,
+      "publication_date": 20191120
+    },
+    {
+      "title": "Pretty much like our Comcast DVR - but OTA",
+      "text": "Installed at our cabin with OTA service only but we do have internet and WiFi. Unit was easy to connect to WiFi. Once that is accomplished it took maybe 30 minutes to update its software and download data for the zip code. The guide is fantastic. It will do catch-up where you record a show and start watching it before it ends, record series, and the other functions that our Comcast DVR does at home. Very happy with the performance. Have not tried Amazon TV or Netflicks yet.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Mark in Minnesota",
+      "helpful_votes": 0,
+      "publication_date": 20190509
+    },
+    {
+      "title": "TIVO Rocks It",
+      "text": "I have two Roamio OTA's and now the Bolt OTA, all of them work great. I use them to record our favorite shows, and if I can't find a show I use the voice control to search. TIVO has been doing this a long time and they really have a nice product. If I was using cable or satellite for TV I would tell the company to keep their DVR and I would go with the BOLT. I use one remote for everything including accessing my apps (Netflix, Hulu, Amazon, etc. and it is the TIVO remote.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Tim Somers",
+      "helpful_votes": 3,
+      "publication_date": 20190325
+    },
+    {
+      "title": "Superb DVR",
+      "text": "I've \"cut the cable\" and begun using this device to record over the air programming. After years of using the cable company DVR and remote, it took me a bit to familiarize myself with this one. I absolutely love it. Voice recognition, commercial skip, One pass setup, search across all sources and many, many other features are fantastic. This device is everything I had hoped for and more. The limitations are few. I wish it had the ability to install additional apps but it is limited to the factory installed ones. The 1 TB of storage is quite generous, however, I would like to add more. Doing so is very clumsy.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Randy",
+      "helpful_votes": 0,
+      "publication_date": 20190504
+    },
+    {
+      "title": "easy to use",
+      "text": "So far my Tivo Bolt is performing as advertised. The hook up was simple and after a short time of experimenting and watching YouTube videos I was able to accomplish the tasks that I purchased it to do. The channel guide is well constructed and easy to use ( I bought a years worth ). It has many features that I don't have a need to use but I am quite satisfied with the Tivo Bolt OTA and would recommend it as an OTA DVR.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "David C. Nichols",
+      "helpful_votes": 0,
+      "publication_date": 20190919
+    },
+    {
+      "title": "Strongly recommend",
+      "text": "Very pleased so far (purchased in October 2019). The subscription is only 6.99/month. My only complaint is they do add a commercial at the beginning of a recorded program, but a single click gets you past the commercial. The remote control is actually designed to make it easy to skip commercials.... Waaaaaaaay easier than a spectrum or xfinity remote. I strongly recommend if you have a good signal where you live.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "D. Currier",
+      "helpful_votes": 0,
+      "publication_date": 20191113
+    },
+    {
+      "title": "So far, so good.  Five stars, graded on the curve.",
+      "text": "Bought it from Amazon instead of TIVO 'cause TIVO.com can be hard to deal with when there's a problem. The Bolt itself is way more advanced and functional than others brands I've tried. It's good. A little fan noise - or maybe it's the hard-drive? We've been using TIVO DVR's for many years - this one's really nice - if it lasts. TIVO's 90 day labor warranty is not overly-generous.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "NVW",
+      "helpful_votes": 0,
+      "publication_date": 20190902
+    },
+    {
+      "title": "Failed after less than 4 days",
+      "text": "The product worked for 3 days and then died. Very Disappointing! Tivo performed diagnostics and determined my new unit was defective but said I had to return through Amazon. No problem, Amazon arranged the return and replacement. Then I learned I had to wait 3 weeks for a replacement of my defective product. This is very disappointing customer service from Amazon and TiVo.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "Vaxhiker",
+      "helpful_votes": 0,
+      "publication_date": 20200618
+    },
+    {
+      "title": "There is a service agreement that must be purchased to use this device.",
+      "text": "I purchased thisTiVO unit to be used with antenna TV, but to start using this device I had to purchase a service agreement, really, not like the unit was inexpensive, and then to force a customer into a service contract. Very little documentation for proper setup. However, the documentation to setup the service agreement is awesome. When my current TV is no longer working I\u2019ll won\u2019t have a need for this TiVO device. On the plus side, it does work, but you do have to go back in the settings to delete duplicate channels.",
+      "rating": 2.0,
+      "verified": true,
+      "author": "Jeffery Orn",
+      "helpful_votes": 0,
+      "publication_date": 20191228
+    },
+    {
+      "title": "Very Noisy fan or disk drive--not sure which--this is soooo loud I may return it!",
+      "text": "This is my 3rd Tivo since I bought my first one in 2004. This is incredibly loud even in standby mode. I find it difficult to believe Tivo could produce a noisy device like this. I actually unplug this Tivo when I don't plan on recording anything for the next 24 hour period. I am very very very disappointed with this unusable unit. My two much older Tivos only made noise while booting up but this new one is noisy 24/7.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "Used by Michelle",
+      "helpful_votes": 0,
+      "publication_date": 20190415
+    },
+    {
+      "title": "TiVo Quality, Lower Subscription, Better Tuner",
+      "text": "UI is the high quality you expect from TiVo. I cant rate the VR or RC because I use a universal remote and havent used those features. The best two reasons to upgrade is that the yearly subscription was less than half than the Bolt Antenna/Cable. That alone will pay for itself. The second reason is that the tuner in this TiVo seems to have lower noise allowing you to pick up channels the antenna/cable Bolt didnt pick. That TiVo had a noisy tuner that missed channels my TV tuner picked without an issue. That problem seems to be fixed in this Bolt and website documentation confirms the main change between the units was the tuner.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "WFG",
+      "helpful_votes": 0,
+      "publication_date": 20190525
+    },
+    {
+      "title": "Dead on Arrival",
+      "text": "Bought this boat anchor, hooked it up. Not working. Four lights flashing indicates hard drive failure. Unfortunately, I had discarded the packing material, so unable to return. I tried swapping out the hard drive according to YouTube instructions, which was fairly straightforward, in spite of poor construction (mis-matched screws), but that didn't fix the problem. So, I'll keep the new hard drive, and the rest of the TIvo goes out with the trash. I expected better from a brand as \"well-known\" as Tivo.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "Wonder Warthog",
+      "helpful_votes": 0,
+      "publication_date": 20190828
+    },
+    {
+      "title": "Doesn't work with Sling TV",
+      "text": "This unit is made very well but, it doesn't work with Sling TV(I didn't realize that). I couldn't get the guide to align with the OTA local channels. It was too complex and frustrating for an older senior to use(the reason I bought it) I had to return it for this reason.",
+      "rating": 4.0,
+      "verified": true,
+      "author": "Michael W.",
+      "helpful_votes": 2,
+      "publication_date": 20190323
+    },
+    {
+      "title": "TiVo Bolt OTA for Antenna",
+      "text": "We got this because our satellite provender shut off two of or local channel's and that's basically what we used the DVR for was to record local news. There are a few cable shows that we record, but we can easily get them through a streaming service. So far we're very happy with it. We can fast forward though commercials just as we do with our satellite provider's DVR. The remote is easier to use than our satellite provider's is. We might just cancel our satellite service.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Craig",
+      "helpful_votes": 0,
+      "publication_date": 20191101
+    },
+    {
+      "title": "Works great with an outdoor antenna - cut that cord!",
+      "text": "We bought this to replace our satellite TV service when the fee rose to over $100 a month. I installed a RCA Yagi antenna on the roof about 25 feet up and ran good quality Belden RG-6 cable all the way. We get all major market stations with no trouble. Right after we bought it, the basic TiVo subscription service price dropped to only $6.99 a month, so this is quite a deal.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Tim Brannon",
+      "helpful_votes": 0,
+      "publication_date": 20200126
+    },
+    {
+      "title": "I was sold a previously in-service that was not functional",
+      "text": "I returned the device after days of trying to figure out why it couldn't connect to the Tivo service. Once we got Tivo support on the line, they confirmed that the unit I got had been unable to update it's software for MONTHS -- looks like the previous owner sold it and this merchant is unknowingly reselling customers faulty units. Very disappointed in this purchase/experience.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "Keith L. Wolfe",
+      "helpful_votes": 0,
+      "publication_date": 20200731
+    },
+    {
+      "title": "SET-UP TAKES TIME AND CANNOT BE RUSHED THROUGH",
+      "text": "I love our new TiVo Bolt OTA. Two things to know; you must register and subscribe as soon as you open the box, and just know that the set-up process will not be complete for a couple of days. Out of the box, I found that some of the features appeared to \"not work\" even though I had performed all of the on-screen and Internet set-up. Restarting the device helps, but I found that full functionality wasn't there until the second day. This device seems to need time to communicate over the Internet with the \"mother ship\" before it gives up its full awesomeness. Worth the wait.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "John Bown",
+      "helpful_votes": 3,
+      "publication_date": 20181106
+    },
+    {
+      "title": "Good dvr slow shipping",
+      "text": "The tivo dvr is a great dvr. I paid $150 for it. There is the fees but you get alot for the service fees compared to other OTA dvrs. It has everything that any cable or satellite dvr would have but its for Antennae cord cutters. I highly recommend this dvr. The shipping was rather slow for being a prime item. It took over a week for me to recieve it.",
+      "rating": 4.0,
+      "verified": true,
+      "author": "Keith Culvahouse",
+      "helpful_votes": 0,
+      "publication_date": 20191215
+    },
+    {
+      "title": "Disappointed",
+      "text": "Great product but availability of apps is very limited. In addition, not all the features of certain apps is available on TiVo. For example, our Hulu account has access to more features when we use our fire stick Hulu app than it does when we log in to Hulu using TiVo. I called customer no support and they said there wasn\u2019t anything they can do. If TiVo added more apps and solved the Hulu problem, this would be a perfect solution.",
+      "rating": 3.0,
+      "verified": true,
+      "author": "Bourne ",
+      "helpful_votes": 2,
+      "publication_date": 20190113
+    },
+    {
+      "title": "Mobile app fails to deliver the content!",
+      "text": "The iOS app is so hard to use My wife and I both work in tech and couldn\u2019t figure out how to do things. Downloads take forever to load on the phone. Can\u2019t stream over LTE (claim it\u2019s an iOS restriction, but Comcast app does it well). The OTA aspects worked like a charm, but they are pretty worthless unless you will only be watching at the tv. We watch most of our content in transit.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "Ryan Lamore",
+      "helpful_votes": 0,
+      "publication_date": 20191105
+    },
+    {
+      "title": "Easy to use and attractive unit",
+      "text": "Voice remote was most surprising; use right out of the box with no training. Finds individuals as well as shows. TIVO Tech was really helpful with getting information for the guide setup for a new channel they didn't have in their system. Love our unit. I have bought at least 5 of these for friends/family.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Wilbur'smypig",
+      "helpful_votes": 0,
+      "publication_date": 20190402
+    },
+    {
+      "title": "Constant problems",
+      "text": "Works for 3 or 4 weeks then drops recordings. Sometimes the remote works in reverse. Tivo bolt OTA removes our programs from banner and replace with their suggestions. They say they don't but somebody does. These problems can be corrected by unplugging the box for a minute or so. Then restarting. Many programs are recorded twice. When it works it works great.",
+      "rating": 2.0,
+      "verified": true,
+      "author": "Amazon Customer",
+      "helpful_votes": 0,
+      "publication_date": 20190801
+    },
+    {
+      "title": "Not the ideal box for a cord cutter.",
+      "text": "If you just want a simple Digital Video Recorder (DVR) THIS AINT IT. Just wanted something you could push a button on and have it record a show, or set for a certain chanel at a certain time and have it record the show. NO long term contracts and not a lot of bells and whistles. This product does not fall anywhere close to those specifications. Minimum One year contract complicated to set up, just call customer support for part of it and then technical support for the rest of it. I am no longer an owner of the thing returned it.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "Amazon Customer",
+      "helpful_votes": 0,
+      "publication_date": 20191227
+    },
+    {
+      "title": "Too complicated",
+      "text": "We loved our TIVO 10 or 15 years ago. It's way too complicated now.",
+      "rating": 3.0,
+      "verified": true,
+      "author": "Amazon Customer",
+      "helpful_votes": 2,
+      "publication_date": 20200311
+    },
+    {
+      "title": "Excellent in all aspects",
+      "text": "This is the first time I've owned a Tivo. I gave up on Plex DVR functionality (a \"pretty\" but shallow implementation) and I am very impressed. Tuner sensitivity is excellent, channel changes are quick, guide and information is all there, and the UI is easy to pickup. Their software has had years of refinement and it shows. Most impressive.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Bruce A. Mallett",
+      "helpful_votes": 0,
+      "publication_date": 20190901
+    },
+    {
+      "title": "It won't allow you to add additional \"apps\" and won't record from apps.",
+      "text": "It didn't work as intended. In trying to cut the cable I thought this box would help me to record certain shows from Hulu or others, but alas - it doesn't record. YouTube TV wouldn't record - and I couldn't add the Spectrum app at all. So I returned it and bought a Roku and it works great.",
+      "rating": 2.0,
+      "verified": true,
+      "author": "Scott A. Dennison",
+      "helpful_votes": 0,
+      "publication_date": 20200122
+    },
+    {
+      "title": "Low Receiver Sensitivity.",
+      "text": "Nice system. As far as recording shows it provides a good user experience. Only negative I have is Turner sensitivity is noticeable less than our TV'S built in reciever. Have been in some areas where stations come in on TV but not the TIVO.",
+      "rating": 4.0,
+      "verified": true,
+      "author": "John D.",
+      "helpful_votes": 0,
+      "publication_date": 20191210
+    },
+    {
+      "title": "Good hardware, TIVO customer help not so good.",
+      "text": "The TIVO main box setup, hardware and user interface are easy to use. When trying to decide what to purchase for my set up, online help and customer support were almost no help. I wanted to set up my whole house to record for 2 or more TVs but it was unclear what devices I needed besides the main box, and also what infrastructure I needed in my house for the units to communicate. So I just went with the simplest set up using the main box and one TV.",
+      "rating": 4.0,
+      "verified": true,
+      "author": "Melanie",
+      "helpful_votes": 0,
+      "publication_date": 20191110
+    },
+    {
+      "title": "Caution: Need to purchase TIVO service plan to access the streaming apps.",
+      "text": "I was unable to download NETFLIX and AMAZON VIDEO onto my TIVO BOLT OTA. I chatted with the service representative and he stated that I needed to purchase a service plan to get access to streaming apps.",
+      "rating": 3.0,
+      "verified": true,
+      "author": "Amazon Customer",
+      "helpful_votes": 3,
+      "publication_date": 20190727
+    },
+    {
+      "title": "I could set it up, and I struggle with a remote!",
+      "text": "I am not the TV watcher, but even I was able to set it all up and get it working before the TV watcher came home. It seems to be doing everything that it's supposed to do, and she is very happy with the features it has. She particularly likes the ease of using the menu.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Amazon Customer",
+      "helpful_votes": 0,
+      "publication_date": 20200313
+    },
+    {
+      "title": "Current up to date applications",
+      "text": "The recording function works as designed. However, most of the applications are older versions of the applications e.g. Hula and Prime video. There is no way to add new applications or update old ones. I am very unhappy with the false advertising and the quality of the product.",
+      "rating": 2.0,
+      "verified": true,
+      "author": "September",
+      "helpful_votes": 0,
+      "publication_date": 20200503
+    },
+    {
+      "title": "Overheats. Garbage. Do. Not. Buy. This.",
+      "text": "Wow !!! When I began to use the TiVo Bolt I had no idea of its power !!! It changed the colors on my 4K TV to green and pink !!! Awesome !!! Who needs the real colors when the Bolt can quickly overheat and give you a new viewing experience.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "Neil J. M.",
+      "helpful_votes": 0,
+      "publication_date": 20200818
+    },
+    {
+      "title": "I'm in love with my Tivo!",
+      "text": "We cancelled cable (and my cable DVR about a year ago), and I hated being without a DVR. In my desperation, and ignorance I bought a knock off DVR (Called Lava) that was a piece of first class dreck. I finally gave in and bought the Tivo Bolt OTA and all is right with my TV world again. I can now record from a full feature channel guide, skip commercials with the SKIP feature, pause, fast forward, and control my TV. I love, love, this thing, and the remote is a quality piece that is intuitive and easy to use... 5 stars for this little guy... It's a small price for a huge jump in TV Quality of Life!",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Brian from Ft. Lauderdale",
+      "helpful_votes": 0,
+      "publication_date": 20200115
+    },
+    {
+      "title": "Big improvement",
+      "text": "Big improvement over Romeo. I went through 2 Romeos that broke down so bad they would almost not work at all. And an added bonus is that OTA customers pay half for subscription. This was not an option with the Romeo. The software still gets a little glitchy but it's really a computer. What computer never got glitchy?",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Aaroneous",
+      "helpful_votes": 0,
+      "publication_date": 20200113
+    },
+    {
+      "title": "Random restarts",
+      "text": "Unit has been restarting randomly for the last couple days. It started just after the return period ended so I'll see if it continues and look into a warranty repair. I've had tivo's for over 20 years with few problems but I'm not happy with this unit.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "OldMrPossum",
+      "helpful_votes": 0,
+      "publication_date": 20200608
+    },
+    {
+      "title": "Know what kind of tv devive you are using",
+      "text": "Wanted to record tv but it did not work with my directv that I get in my rv park. I would have needed an antenna and I don't get any reception (too far away from tv stations?)",
+      "rating": 1.0,
+      "verified": true,
+      "author": "s.pauley",
+      "helpful_votes": 0,
+      "publication_date": 20190901
+    },
+    {
+      "title": "Weak receiver",
+      "text": "We live about 30 miles from 'downtown' where the broadcast towers are located. Running the antennae directly into our TV we get 30+ very crisp clear channels. Running the antenna into the Tivo we only get about 8 channels and the quality is just so so. The Tivo features would be great if it worked. It probably works fine if you live in town close to the broadcast towers.",
+      "rating": 2.0,
+      "verified": true,
+      "author": "T Walker",
+      "helpful_votes": 0,
+      "publication_date": 20200421
+    },
+    {
+      "title": "Will not let you install Hulu live.",
+      "text": "Ok product at 184.00. Would not pay more. Was told by the help desk there are no plans to let customers ever install Hulu live. The remote is ok except the exit button is located next to an arrow button that you will use regularly making it a pain in the ass.",
+      "rating": 3.0,
+      "verified": true,
+      "author": "Amazon Customer",
+      "helpful_votes": 0,
+      "publication_date": 20200225
+    },
+    {
+      "title": "NOTE !! This item will reduce your antenna siginal !!!",
+      "text": "Using a marathon antenna( is already amplified) exterior of home approximately 30\u2019 off ground. Splitter is chanelmaster 4 port amplified. All coax is heaviest. Do have a rotor but does not help TiVo bolt. 3 other TVs in house all pick up clear the Chanel\u2019s in question. Hooking up the coax directly to tv tv reports 100 percent signal. With TiVo connected it reports 60 on strongest chanel and only 30 on chanels in guestion. The other 3 TVs have longer coax runs and have no issues. The tv in question perfect reception with out the TiVo. Clearly it is the tv bolt.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "Rhonda Cummings",
+      "helpful_votes": 0,
+      "publication_date": 20200324
+    },
+    {
+      "title": "Great DVR and makes OTA TV easy to watch",
+      "text": "Tivo is one of the easiest DVRs to use I know. My only complaint is that they took away some of the key things that made the Tivo special. There's no longer a way to tell them what types of shows you like so it can record them for you. Instead it tries to determine it from other shows you watch. The thumbs up/down was much better and it made Tivo special. But, even without it the Tivo is so much better than other DVRs.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "John D. Long",
+      "helpful_votes": 0,
+      "publication_date": 20190831
+    },
+    {
+      "title": "BS",
+      "text": "Don\u2019t like paying 200 bucks then getting blindsided by a cost of 72 bucks a year to use it. Total BS",
+      "rating": 1.0,
+      "verified": true,
+      "author": "Donald Alexander",
+      "helpful_votes": 2,
+      "publication_date": 20200217
+    },
+    {
+      "title": "It works well, as advertised",
+      "text": "I can't ask for more than it works exactly as advertised. Easy to use, easy access to HD programming...for free (sort of). I elected to buy the lifetime subscription ($250). HD gives a better picture than my ATT Uverse for the local channels.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Joseph A. Mariscal",
+      "helpful_votes": 0,
+      "publication_date": 20190901
+    },
+    {
+      "title": "Skip an guide are fantastic!",
+      "text": "We had the cheap medisonic before this one and had problems with shows not recording and clock changing itself. I was hesitant to spend the money on tivo but im glad i did now. The skip feature and easy recording makes it worth. One press of skip button and it instantly starts the show after commercials. They dont have feature for every show but all the new shows seem to have it. We'll see how it holds up.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "The Pfaffs",
+      "helpful_votes": 0,
+      "publication_date": 20190608
+    },
+    {
+      "title": "Good time shifter, love the ad skip",
+      "text": "Works well for time shifting and streaming. Also offers ad skip function.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "prozzo",
+      "helpful_votes": 0,
+      "publication_date": 20200202
+    },
+    {
+      "title": "great device for cord cutters",
+      "text": "cut my cord this month and purchased this Tivo to manage my channels and recordings. great features and options. I owned a Tivo in the past and am always impressed with its user friendly features. if I was pressed for a negative comment, I would say that the buttons on the remote are very small (some of us are not young anymore)",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Robert",
+      "helpful_votes": 0,
+      "publication_date": 20181130
+    },
+    {
+      "title": "TiVo doesn\u2019t work with FireStick",
+      "text": "This item didn\u2019t work for us with our fire stick. We purchased the TiVo because we no longer subscribe to satellite tv, but it doesn\u2019t work for our needs. Too bad, we are so disappointed",
+      "rating": 2.0,
+      "verified": true,
+      "author": "Tamara L. Wright",
+      "helpful_votes": 0,
+      "publication_date": 20200623
+    },
+    {
+      "title": "Ripoff service charge",
+      "text": "WARNING: Buried in the fine print, you have to purchase TiVo service. So you spend over $200 for the device and you're not done yet. Ripoff!",
+      "rating": 1.0,
+      "verified": true,
+      "author": "draxolotl",
+      "helpful_votes": 2,
+      "publication_date": 20190816
+    },
+    {
+      "title": "Poor product",
+      "text": "The DVR came complete with know factory software problems. After contacting the manufacturer they could not tell me when there would be a fix for the problem. I returned the unit.",
+      "rating": 2.0,
+      "verified": true,
+      "author": "Busman",
+      "helpful_votes": 0,
+      "publication_date": 20200620
+    },
+    {
+      "title": "Works Perfectly",
+      "text": "I had a Channel Master DVR but returned it. The TIVO is much better. GREAT customer service with no wait to reach a representative. The guide is great, and I love the SKIP feature which skips commercials.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "David Lessnau",
+      "helpful_votes": 0,
+      "publication_date": 20191204
+    },
+    {
+      "title": "TIVO delivers many options",
+      "text": "can watch live tv, record multiple shows, stream my Prime shows, have gone to streaming Netflix and can access you-tube. Don't care for the recordings of \"their\" choices, haven't found a way to stop that so I just delete a lot of news, unwanted \"reality\" shows, etc. We have not tried the other apps available but may try in the future if I decide to end subscriptions to Prime and/or Netflix.",
+      "rating": 4.0,
+      "verified": true,
+      "author": "Amazon Customer",
+      "helpful_votes": 0,
+      "publication_date": 20190803
+    },
+    {
+      "title": "Needs a better how to manual.",
+      "text": "Works well, but a little confusing to setup. Main problem is aligned stations available on the guide with actual available OTA channels.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Amazon Customer",
+      "helpful_votes": 0,
+      "publication_date": 20190705
+    },
+    {
+      "title": "very good DVR",
+      "text": "Overall the best DVR I have ever used. I have only been using it for 3 weeks but it is working great. I do wish they would make a few changes. The remote needs a stop button to stop recording or stop watching a recorded program, it could also use a simple button to place the Bolt into standby mode and lastly a way to adjust the live TV buffer length. Maybe there is a simple way to do all of these but so far I have not discovered it.",
+      "rating": 4.0,
+      "verified": true,
+      "author": "Spiker",
+      "helpful_votes": 0,
+      "publication_date": 20191105
+    },
+    {
+      "title": "Does it all",
+      "text": "Wow, I replaced three Remotes with just one. Easy install, easy user interface Etc ... Etc. What an upgrade from the Tablo unit I've been using the past year. Highly recommended.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "LJ",
+      "helpful_votes": 0,
+      "publication_date": 20200116
+    },
+    {
+      "title": "Very nice",
+      "text": "Does what it says it should do. Easy set up. Like the interface. Only problem was setting up the mini. But that is another story. If you sre cutting the cord but still want a dvr for time shifting instead of Hulu. This works. Buy it.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "gregory gach",
+      "helpful_votes": 0,
+      "publication_date": 20200307
+    },
+    {
+      "title": "Another home run!",
+      "text": "I'm a die-hard Tivo fan. The TIVO lineup is far better than what my cable company offered for DVR's. Now that I've cut the cord - the TIvo OTA is filling in just fine! I can't believe how much compression the cable company got away with!",
+      "rating": 4.0,
+      "verified": true,
+      "author": "Myron",
+      "helpful_votes": 0,
+      "publication_date": 20190327
+    },
+    {
+      "title": "So Much Fun!!",
+      "text": "Took me a little while to get it figured out, actually Super EZ It just does so much. This is the best device I have ever had for all entertainment, really love it!",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Deep Space",
+      "helpful_votes": 0,
+      "publication_date": 20181113
+    },
+    {
+      "title": "can not get my over air  PBS channels",
+      "text": "It will not show over the air PBS stations ,links you to internet for the shows on some not all no help at customer service did not understand what I had said. never follow up to see if the problem was fixed . I had no problem with over the air PBS stations in my area with my Channel Master OTA box.DVR",
+      "rating": 4.0,
+      "verified": true,
+      "author": "David B. Ackerman",
+      "helpful_votes": 0,
+      "publication_date": 20191224
+    },
+    {
+      "title": "How difficult to set up",
+      "text": "I' tetering on returning it, can't get to first base with it . Still can't remote program to TV, called tivo twice and still no luck",
+      "rating": 1.0,
+      "verified": true,
+      "author": "Michael E. Newton",
+      "helpful_votes": 0,
+      "publication_date": 20200928
+    },
+    {
+      "title": "Very user friendly.",
+      "text": "We like our Tivo more each day. It has helped make unplugging a success.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Dennis Burns",
+      "helpful_votes": 0,
+      "publication_date": 20191118
+    },
+    {
+      "title": "Love it!",
+      "text": "I installed and set up my Tivo by myself with no problem and no additional assistance ... works great! i am using it with an indoor antenna and it works great with that, too. I have not used the voice recognition at this time.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Andrea S",
+      "helpful_votes": 0,
+      "publication_date": 20200203
+    },
+    {
+      "title": "Don\u2019t buy Tivo",
+      "text": "Stopped working a day after return deadline. Customer service is useless. They won\u2019t address anything until the plan is activated, but this is OTA and no plan is needed. I shouldn\u2019t have to pay for a plan in order to get Tivo to provide customer support for their product which doesn\u2019t work.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "SueB",
+      "helpful_votes": 0,
+      "publication_date": 20190907
+    },
+    {
+      "title": "Cut the Cord",
+      "text": "We cut the cord and the functionality of TiVo has been impressive. The channel lineup and ability to record for future viewing are excellent.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Fran",
+      "helpful_votes": 0,
+      "publication_date": 20200205
+    },
+    {
+      "title": "TiVo is my new friend",
+      "text": "It has allowed me to cut the cable and I love it. Stores movies and allows me to pause live action, rewind, and record. Step up was easy enough. Now I have to figure if I am ready to expand the system to a few more rooms.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "LittleTex",
+      "helpful_votes": 0,
+      "publication_date": 20190918
+    },
+    {
+      "title": "TiVo Bolt Ota performs poorly",
+      "text": "I\u2019ve had several TiVo\u2019s and they worked well. The Bolt had streaming apps available. I couldn\u2019t get Amazon Video to work. I purchased an amplified indoor antenna but reception was poor. All of the stations are less than 30 miles away. I wouldn\u2019t recommend it.",
+      "rating": 3.0,
+      "verified": true,
+      "author": "Mike Weeks",
+      "helpful_votes": 0,
+      "publication_date": 20190524
+    },
+    {
+      "title": "Easy",
+      "text": "Lightweight, simple to hook up, doesn't take up much space. Unobtrusive black color.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Marie Brack",
+      "helpful_votes": 0,
+      "publication_date": 20190518
+    },
+    {
+      "title": "Amazon will not cover defective units and neither will TiVo",
+      "text": "Purchased this and within the first 30 days, I got the black screen of death. Called Amazon and they state I would need to go to TiVo. Called TiVo and they say they will not cover it under warranty unless I purchased it through them. Do NOT buy this unit and certainly do not purchase it from Amazon.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "B. Federico",
+      "helpful_votes": 0,
+      "publication_date": 20191225
+    },
+    {
+      "title": "Make it easier to get service. The service tech left me in the lurch.",
+      "text": "I am disappointed that the product did not download properly. I tried to get help online, but I was cut off from the operator. They seemed more interested in getting my money for lifetime service. I still do not have my refund from either article. I am very disappointed!",
+      "rating": 2.0,
+      "verified": true,
+      "author": "Terry Robert Casey",
+      "helpful_votes": 0,
+      "publication_date": 20200529
+    },
+    {
+      "title": "Has to be reset daily",
+      "text": "This thing is horrible.. doesn\u2019t work have the time, has to be unplugged and restarted daily. When it works it does what it is supposed to, but the pros DO NOT outweigh the cons",
+      "rating": 1.0,
+      "verified": true,
+      "author": "captrasa",
+      "helpful_votes": 0,
+      "publication_date": 20200121
+    },
+    {
+      "title": "Great Product, but noisy",
+      "text": "Very nice system and options off of antenatal broadcast. Hums all the time as if an or something running which is odd, not super loud but can hear clearly from 15 feet away.",
+      "rating": 4.0,
+      "verified": true,
+      "author": "DK",
+      "helpful_votes": 0,
+      "publication_date": 20200320
+    },
+    {
+      "title": "Love Tivo, hate remote!",
+      "text": "Love Tivo! Hate the remote! It freezes up quite often so I have to remove a battery and reinstall to get it to work properly once again. This happens daily! Ugh!",
+      "rating": 4.0,
+      "verified": true,
+      "author": "Mary Mullins",
+      "helpful_votes": 0,
+      "publication_date": 20200422
+    },
+    {
+      "title": "Good, but not perfect.",
+      "text": "So far so good. My only complaints are that the universal remote will not turn my sound bar on or off and that the commercial skip feature doesn\u2019t always work.",
+      "rating": 4.0,
+      "verified": true,
+      "author": "Dave H.",
+      "helpful_votes": 0,
+      "publication_date": 20200131
+    },
+    {
+      "title": "They new it didn't work for our area and never told us upfrount.",
+      "text": "We like the idea. Where we live the signals are to weak to pick up tv through the TiVo box. Very disapointed that they didnt tell us that when we bought it. They tell us now that it's under investigation as to what they're going to do to fix it. Meantime we're stuck with a box that doesn't work. Haven't heard a word back from them.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "tedi richardson",
+      "helpful_votes": 0,
+      "publication_date": 20190829
+    },
+    {
+      "title": "Great for over the air and streaming",
+      "text": "Still geting used to using it But works like most dvr's I guess Has 4 tuners I also got A TiVo Mini with 5g streaming adapter also works great",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Randy",
+      "helpful_votes": 0,
+      "publication_date": 20190327
+    },
+    {
+      "title": "Records a Great Picture",
+      "text": "Works as advertised. I wish there was an optional external storage drive available.",
+      "rating": 4.0,
+      "verified": true,
+      "author": "PE Retired",
+      "helpful_votes": 0,
+      "publication_date": 20200126
+    },
+    {
+      "title": "Works perfectly but ...",
+      "text": "Works like a charm but unfortunately the fan is a bit noisy even when the Tivo box is in Standby mode. I wish they could stop the fan if we decided to use the Power saving mode at maximum value but the fan is still working and made some noise.",
+      "rating": 4.0,
+      "verified": true,
+      "author": "Daniel Demers",
+      "helpful_votes": 0,
+      "publication_date": 20190326
+    },
+    {
+      "title": "Cannot connect to dvd player.",
+      "text": "Did not know there is no way to connect a blu ray dvd player to Bolt. Would not have purchased this model if I had known this.",
+      "rating": 3.0,
+      "verified": true,
+      "author": "Soggysister",
+      "helpful_votes": 0,
+      "publication_date": 20191219
+    },
+    {
+      "title": "Good product",
+      "text": "Everything works great but difficult to understand the setup procedure",
+      "rating": 4.0,
+      "verified": true,
+      "author": "Prowler Bill Henson",
+      "helpful_votes": 0,
+      "publication_date": 20190926
+    },
+    {
+      "title": "Cutting the cord now!!!",
+      "text": "The TiVo bolt is a great purchase, made it easy cutting cable. Record my favorite shows off the air and it reminds me to watch the ones on the apps",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Dblea PGH",
+      "helpful_votes": 0,
+      "publication_date": 20190506
+    },
+    {
+      "title": "nDefective Device",
+      "text": "I had this installed on my TV by a professional, it ran for 7 days, then died. Because I had it 2 months before I had it installed TIVO wont replace it, . Be careful buying these, they are not a good product.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "Jeanette Heath",
+      "helpful_votes": 0,
+      "publication_date": 20200208
+    },
+    {
+      "title": "Great so far",
+      "text": "Easy to set up and use. We are cutting the cord",
+      "rating": 5.0,
+      "verified": true,
+      "author": "JC",
+      "helpful_votes": 0,
+      "publication_date": 20200616
+    },
+    {
+      "title": "Still as good as it used to be.",
+      "text": "Would be 5 stars if it offered more streaming options like YouTubeTv.",
+      "rating": 4.0,
+      "verified": true,
+      "author": "Captlou",
+      "helpful_votes": 0,
+      "publication_date": 20200801
+    },
+    {
+      "title": "tivo",
+      "text": "This is my 3rd TIVO and I love it, I get to skip adds with one button",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Ruth Lord",
+      "helpful_votes": 0,
+      "publication_date": 20191101
+    }
+  ],
+  "product_meta": {
+    "title": "TiVo BOLT OTA for Antenna \u2013 All-in-One Live TV, DVR and Streaming Apps Device",
+    "description": "Capacity: 1TB | Style: OTA DVR (Alexa Certified)\nCatch live TV, like comedies, dramas, award shows, sports, local news and more, all broadcast for free, with TiVo BOLT OTA for antenna and an HD antenna (sold separately). It\u2019s the all-in-one live, recorded and streaming TV device that makes the most of your TV experience. Access the popular apps like Netflix, Prime Video, Hulu, YouTube and more.2 Skip entire commercial breaks with a single tap.3 And search across channels, recordings and apps to find what you\u2019re looking for, faster. And because there\u2019s no cable TV subscription required, you could save more than $800 over three years.1 Say goodbye to cable TV. Say hello to a better way to watch.",
+    "rating": 3.7,
+    "feature_bullets": [
+      "Meet TiVo BOLT OTA for antenna \u2013\u2013 designed for true fans of entertainment looking for an alternative to cable TV \u2014 the new live, recording and streaming TV device-in-one.",
+      "Access 4K Ultra HD movies from Netflix, Prime Video, Hulu, YouTube and more.",
+      "Save time and skip ads with a tap using SkipMode, and find shows faster or zoom through the slow stuff with QuickMode.",
+      "Speak into the TiVo VOX Remote or watch hands-free by connecting with smart home devices like Amazon Echo. Power - 12V. USB 3.0 ports - 2",
+      "Stream, download and watch shows on your mobile devices, and schedule recordings almost anywhere with the free TiVo app",
+      "TiVo service subscription is required. Options include a monthly service plan at $6.99/mo. with a 1-year commitment, an Annual service plan at $69.99/year, or an All-In service plan for $249.99.",
+      "Product Compatibility: Works with TiVo Mini and TiVo Mini VOX, TiVo DVRs; iOS and Android app for mobile viewing and management"
+    ],
+    "specifications": {
+      "Brand Name": "TiVo",
+      "Item Weight": "4.34 pounds",
+      "Product Dimensions": "11.4 x 7.3 x 1.84 inches",
+      "Item model number": "TCD849000VO",
+      "Batteries": "2 AA batteries required.",
+      "Is Discontinued By Manufacturer": "No",
+      "Number of Component Outputs": "HDMI",
+      "Special Features": "Over The Air Tuner, MoCa 2.0",
+      "ASIN": "B07GY54JPV",
+      "Customer Reviews": "3.7 out of 5 stars351 ratings3.7 out of 5 stars",
+      "Best Sellers Rank": "#17,390 in Electronics",
+      "Date First Available": "September 27, 2018"
+    },
+    "categories": [
+      "Television & Video",
+      "Electronics",
+      "Streaming Media Players"
+    ],
+    "price": ""
+  }
+}

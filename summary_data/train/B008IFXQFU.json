@@ -1,0 +1,967 @@
+{
+  "website_summaries": [
+    {
+      "verdict": "The best price you'll find for a wireless adapter that provides high-speed internet connections.",
+      "pros": [
+        "Easy to install and use",
+        "Mini design allows you to plug it in and forget about it",
+        "Most buyers were happy with the increased speeds this adapter provides"
+      ],
+      "cons": [
+        "Some buyers said the wireless connection could be uneven or patchy",
+        "Only provides speeds of up to 150Mbps"
+      ],
+      "aspects": {},
+      "publication_date": "",
+      "rating": "",
+      "source": "bestreviews"
+    }
+  ],
+  "customer_reviews": [
+    {
+      "title": "IT Consultant",
+      "text": "I carry a couple in my bag all the time now. Having been in IT for over 20 years I have come across several weird situations were a laptop/PC just doesn't like the WiFi radio it's connecting to. The most recent was a laptop that just wouldn't stay connected to brand new Cisco equipment. This laptop was literately within 25 ft of a new AP and would not stay connected no matter what I did. Add one of these little monsters, turn off the built in radio and problem solved.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Chris in Virginia",
+      "helpful_votes": 153,
+      "publication_date": 20170116
+    },
+    {
+      "title": "Misleading specifications in the ad",
+      "text": "This product is a total scam. I bought it to get faster speeds on my HP laptop which came with a standard 2.4 wifi band. This inherently offers lower speeds. The wifi environment I am in broadcasts in both 2.4 and 5 bands and I wanted an adapter that could access the higher speeds. The TP Link falsely advertises speeds of up to 50 MBPS but it's a total lie. The TP Link only access the 2.4 band so it's no different to the wifi capability of the HP laptop. It's a cheap piece and my time is worth much more than the time it would take to ship this POS back. False Advertising. Don't buy it!",
+      "rating": 1.0,
+      "verified": true,
+      "author": "Amazon Customer",
+      "helpful_votes": 15,
+      "publication_date": 20180802
+    },
+    {
+      "title": "Small... and weak.",
+      "text": "This thing cant even keep a steady connection. I bought it because I broke my old LinkSys USB Wifi adapter when i forgot to remove it from my computer and rolled the computer up to attach some cables. Im finding out now how bad this really is. Im roughly 25 ft away from my extremely powerful (2W) transmitter and this thing cant hold a stable connection to the internet for over 20 seconds. Dont bother trying to watch YouTube or download anything, it will constantly buffer or fail respectively. The only good thing about this WiFi unit is the size. It is TINY. I expected more out of it though because my LinkSys was only about 4mm longer.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "D.McReynolds",
+      "helpful_votes": 16,
+      "publication_date": 20180425
+    },
+    {
+      "title": "No utility software available, impossible to use as Soft AP.",
+      "text": "For Windows users TP-LINK does not provide the utility software (\"TP-Link Configuration Utility\" or \"TP-Link Utility\") for the current version of the hardware that is shipping (V3). This software only exists for V2. This software is not included on the CD-ROM, not available at their web site, and not available through their tech-support. The tech support, while nice, is clearly operating from a script as they keep referring you to drivers which is not the same as the utility software. This makes the product completely unusable. DO NOT BUY if you wanted to use it as a Soft AP.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "C.C.",
+      "helpful_votes": 6,
+      "publication_date": 20190411
+    },
+    {
+      "title": "Solved the problem.",
+      "text": "We have a new Asus that suddenly decided it could no longer pick up a wifi signal over ten feet from the station. I gave this antenna a shot as the path of least resistance because of the small size and small price, but I kept getting error messages saying the installation was not complete. Their web page is useless, so I would say make sure you hang on to the installation disk. It turned out the installation was complete in spite of the error messages, and it now has wifi range like exponential. One star off for aggravation, but so far, I am in awe.",
+      "rating": 4.0,
+      "verified": true,
+      "author": "PeskyMeem",
+      "helpful_votes": 4,
+      "publication_date": 20190520
+    },
+    {
+      "title": "Works with Ubuntu 18.04 - BUT Bad Install Instructions for Linux (working ones in review)",
+      "text": "I'm am writing this review with my new adapter! The install is quick when you have the right steps. While the description currently says that it supports \"Linux Kernal 2.6.18~4.4.3\", the box that the adapter comes in says it only supports up to Linux 3.19.3. After some research I discovered this is because the drivers for the higher kernals are still in beta, meaning all the bugs aren't worked out yet. I downloaded the official tp-link drivers off the web and followed the instructions, they failed at the \"make\" step. The instructions that worked from me on 4.18.0 kernal were: sudo apt install rtl8812au-dkms sudo modprobe rtl8812au Hope that helps!",
+      "rating": 4.0,
+      "verified": true,
+      "author": "Christina",
+      "helpful_votes": 2,
+      "publication_date": 20190719
+    },
+    {
+      "title": "Works well",
+      "text": "These are great for the price. The installation takes a little time depending on your computer. You have to install it through the setup program and not through device manager. The signal strength is nice and it is of a very convenient size. I keep a bunch of these with me in case someone needs a new WiFi connection.",
+      "rating": 4.0,
+      "verified": true,
+      "author": "WEDisney",
+      "helpful_votes": 4,
+      "publication_date": 20190321
+    },
+    {
+      "title": "XP users beware!",
+      "text": "I bought these for a customer to use with Windows XP. The supplied CD setup and then up to date downloaded setup both failed to find the adapter. After seven calls to TP-Link's tech support, the tech named Ben finally put it together that there were no XP drivers on the CD nor the setup zip file on-line. Lots of wasted time on my part. I hope they have since corrected the problem with the on-line setup zip file. If you have the experience I describe here, insist that they are certain that there are XP drivers in the zip file.",
+      "rating": 3.0,
+      "verified": true,
+      "author": "Amazon Customer",
+      "helpful_votes": 2,
+      "publication_date": 20190720
+    },
+    {
+      "title": "Okay but know what you are buying.",
+      "text": "The product is working ok but know that these small usb network cards suffer from interference from the laptop and the usb port. While plugged into the laptop I was getting 15-20 mbps throughput with lots of drops and disconnects. Streaming music was broken up always. I installed a usb extender cable to move the adapter away from the laptop and I was able to get 40 mbps throughput. If you need good and consistent quality I think you should get a model with an external antennae. I have found that they do not suffer from the interference the same way.",
+      "rating": 3.0,
+      "verified": true,
+      "author": "joeboyall",
+      "helpful_votes": 3,
+      "publication_date": 20181208
+    },
+    {
+      "title": "Don\u2019t overthink it. Just plugin and use.",
+      "text": "I read a lot of reviews outlining the difficulty installing the drivers for this device. I\u2019m using Windows 10 and was able to plug-in and immediately start using. I didn\u2019t have to use the CD or find the driver from the manufacturer\u2019s website.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "W. J.",
+      "helpful_votes": 2,
+      "publication_date": 20201007
+    },
+    {
+      "title": "Easy to install - works right away!",
+      "text": "I recently acquired a fancy high speed, bells and whistles laptop only to discover that it's whistles don't get along with Windows 10 upgrades, UGH!!! This $10 item remedied my internal wifi disconnect (Yes, I downloaded new drivers, worked HOURs with all tech support and did 3 factory reboots before buying this). Saving grace! I didn't use the CD, but instead connected with a $22 (ugh) ethernet cable to download the driver. Opening the packaging took less time than it did to actually find, install and connect to my internet. Speed and connection are great. Zero buffering.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Meggrr",
+      "helpful_votes": 0,
+      "publication_date": 20200921
+    },
+    {
+      "title": "BOOM - Wifi is back!",
+      "text": "I have a Lenovo Yoga 1 that recently had the network adapter konk out, stopped even recognizing the adapter in the Device Settings. Ordered this, got it the NEXT day. Couldn't access the driver location online (obviously), so I got my trusty external CD drive and popped in the CD, ran the utility and 90 seconds later I was entering in my Wifi password. Way too easy, I mean like total 4-5 minutes including rummaging around my desk for the external cd drive. Speeds seem perfectly fine, hasn't dropped signal yet, and it has a light on the dongle that shows it's working. Couldn't be happier for $7.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "TS",
+      "helpful_votes": 0,
+      "publication_date": 20200729
+    },
+    {
+      "title": "Just plugged in and worked.",
+      "text": "I used this to connect an old Windows XP PC to my network. I installed it using the included CD. It immediately found the network and connected. Signal strength was fine. I mapped to a network drive immediately. All done about 5 mins after opening the package.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Mole_Catcher",
+      "helpful_votes": 2,
+      "publication_date": 20200423
+    },
+    {
+      "title": "Couldn\u2019t connect to WiFi after a month.",
+      "text": "This was a very disappointing purchase. I bought two of it. I\u2019ve used them well for the first month. But after 2 month of usage. It could not connect to any WiFi, both of them!!! I have to through them away and get some better adapter. If you are not using them for short period, I recommend you to purchase other adapter. These are not tough enough to last longer than 1 month.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "Knight H",
+      "helpful_votes": 2,
+      "publication_date": 20190830
+    },
+    {
+      "title": "Comes with disc to install, then it works. Want better and faster wifi on your computer? Get this!",
+      "text": "Install the software disk and all is well with this great dongle. This works on Mac and Windows but I have not found a way to make it work on a chrome book. For the most part, meaning almost without exception, this makes my wifi so much better for things like no interruption, clear video and great sound on things like zoom. I used to have intermittent service problems with all of that but now it is rare enough to be very impressive. This is very popular with gamers too because who wants their game to slow down or not load in the middle of play? Great product making my wifi service great for only about $10!",
+      "rating": 5.0,
+      "verified": true,
+      "author": "A. Brink",
+      "helpful_votes": 0,
+      "publication_date": 20200529
+    },
+    {
+      "title": "Effortless",
+      "text": "Brand new Dell 7300 laptop, their newest gen now stupidly shipping without an Ethernet RJ45 jack like an one-eyed man, radio died during a pushed Dell driver update leaving it connectionless, blind and useless. Bought this USB WiFi adapter on a prayer, and it immediately went online without having to install a driver - connectivity simply appeared. Downloaded the radio driver from Microsoft (vs. Dell) and fixed the 7300. Point being that using the USB dongle was effortless with nothing supplemental to download or install. Truly plug-and-play. Five stars.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "EE",
+      "helpful_votes": 0,
+      "publication_date": 20201008
+    },
+    {
+      "title": "Gets the job done for most cases, but not good for extended streaming, gaming and such",
+      "text": "From a purely practical standpoint, yes, this USB wireless adapter will get the job done if you are setting up a computer or laptop with fresh install and need to download drivers, etc. That said, for long term usage this wireless adapter tends to overheat and die prematurely while providing fairly unstable wireless speeds. It will peak at lower speeds, and tend to jump all over the spectrum which can cause stuttering in videos and gaming. For general or light internet usage, not a problem though. Plug and play, no drivers needed, worked in Windows 7 and 10.",
+      "rating": 3.0,
+      "verified": true,
+      "author": "Hiryuu",
+      "helpful_votes": 0,
+      "publication_date": 20200910
+    },
+    {
+      "title": "Awesome and easy!",
+      "text": "Okay, easy for my 22 year old SON to install for ME. The problem wasn't the little device or installation (CD). It was my PITA wireless card that refused to turn off (even manually) for me so that the new little device could give me all the interwebs. :) My son had to come over and do it for me. It is excellent for the price. The older Dell laptop I am using has Windows 7 (yes, really). I plan to replace the laptop in December so using a USB wifi adapter seemed to be the best option. This card is perfect for my small home of 1200 SQ. I work from home (and have since 2013).",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Robin Bull",
+      "helpful_votes": 0,
+      "publication_date": 20200722
+    },
+    {
+      "title": "Good, would be better if it supported 5GHz",
+      "text": "The adapter arrived a day late - I ordered same day delivery. Unfortunately, it arrived after I had to leave for a business trip. Update: I contacted Amazon and they credited me back the same day delivery charge, I just had to ask them (vs. automatically crediting since it wasn't delivered same day). Great service when I contacted them via chat though. As far as the product goes, it works fine on the 2.4GHz frequency, but does not find the SSID I have on 5GHz range. Since it is for an older PC whose wifi is broken, the 2.4GHz is only ok.",
+      "rating": 4.0,
+      "verified": true,
+      "author": "dtmak1",
+      "helpful_votes": 2,
+      "publication_date": 20180926
+    },
+    {
+      "title": "Works on Dell Latitude E6410",
+      "text": "I have an older Dell Latitude E6410 that crashed and needed OS reinstall. For some reason, the onboard WiFi was not working after reloading Windows, multiple times. I assumed my WLAN card just went bad, but I wasn\u2019t sure... so I opted for this USB dongle. Worked immediately after installing the driver, and got my laptop surfing the internet in no time. After an OS update, my onboard wifi started working again, so... I guess technically I don\u2019t need it right now, but this was least expensive way to get back up and running, and nice to have this around as a backup. Performance was fine for me.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "CommonSenseTest",
+      "helpful_votes": 0,
+      "publication_date": 20200503
+    },
+    {
+      "title": "Buy it !",
+      "text": "Wow ! Got this today, was super excited to set it up with an old desktop computer I had to dig out of the closet and set up for the kids to use for school do to the corona virus.. my wired connection is in an area where I can\u2019t setup a desktop, so this was perfect.. plugged it into the desktop and under 2 minutes it was installed and already found networks... works flawlessly and so simple and inexpensive!!!",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Simon",
+      "helpful_votes": 0,
+      "publication_date": 20200329
+    },
+    {
+      "title": "Good deal for the price",
+      "text": "It's ok and for the price your really can't complain. Windows 10 recognized it instantly and it worked with no problems. It is NOT fast though. I get about 20mbps on average, at a distance of maybe 10ft. Fast enough for email and some web browsing, but if you're downloading big files it is noticeably slow. But what do you expect for $10?",
+      "rating": 4.0,
+      "verified": true,
+      "author": "BakaNekoGato",
+      "helpful_votes": 0,
+      "publication_date": 20200911
+    },
+    {
+      "title": "Not fast enough",
+      "text": "I bought this wifi dongle to overcome the wifi problem associated with installing Windows 10 on an old Windows 7 laptop. There are no Windows 10 drivers for the built-in wifi of my laptop. Unfortunately, I just did a speed test of the wifi using this TP-Link wifi dongle, and on a network getting over 160Mb/s, my wifi speed through this TP-Link dongle is around 30Mb/s...depending on the test I use. Ookla shows under 20Mb/s. The Bing test shows around 30Mb/s. This speed is far below what my laptop can do with Windows 7",
+      "rating": 2.0,
+      "verified": true,
+      "author": "M. Kinnamon",
+      "helpful_votes": 0,
+      "publication_date": 20201003
+    },
+    {
+      "title": "Avoid at all cost.  Speeds are terrible",
+      "text": "Purchased this for a budget PC Build. By far the worst wireless reciever i have ever used. 3mbps download and 3mbps upload. I have 120mbps speeds on my network and this dongle cannot get near 20mbps. You really cant do anything with it. I decided to get this because it was name brand over a fairly good chinese knock off i previously purchased. I see i have made a mistake of judgement and the knockoff is worlds better",
+      "rating": 1.0,
+      "verified": true,
+      "author": "Crimson",
+      "helpful_votes": 2,
+      "publication_date": 20181112
+    },
+    {
+      "title": "Works better than installed WLAN",
+      "text": "I purchased to upgrade my WiFi in an older laptop that is just used on the job when remote. The WLAN card in the computer was pretty dated and would not hold a connection very well. This little gem has solved that and works well with a personal hotspot as well. I installed the driver from the TP-Link website (directions included). After that I just turned off the WLAN WiFi and now just use the USB WiFi. It's very small and does not protrude much from the case. Hardly noticeable except for the green light (signal). Highly recommend for an older laptop.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "J. Haskell",
+      "helpful_votes": 0,
+      "publication_date": 20200507
+    },
+    {
+      "title": "Speed-easy install",
+      "text": "I have a dead zone in my house but it's where I sit with laptop. I suspect it's the large AC condenser outside where I sit. My calls drop error message that my WiFi is down. My internet signal on my phone reflects fair reception to it's down. Our smart TV when watching a move on prime struggle or just goes off no signal. Buying this tool for my laptop has been a godsend. My laptop is older but it's a quality product. Easy to install. And my PC is running with no problem clicks into new pages fast. It's working better than new. Highly recommend.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "E.O",
+      "helpful_votes": 0,
+      "publication_date": 20200402
+    },
+    {
+      "title": "Slow internet speed",
+      "text": "Just realized that this little thing is the reason why my internet speed got too slow... I like the fact that it\u2019s easy to install, tiny, the signal strength is good but with 5 mbps per second? I was supposed to have 200 mbps as I told by optimum Representitive cos that\u2019s the price I pay for them. It\u2019s too bad that I barely use my computer and just found that out recently. Since I already passed the return window, I\u2019ll go find another one. Can\u2019t stand internet being that slow",
+      "rating": 2.0,
+      "verified": true,
+      "author": "Ivy",
+      "helpful_votes": 0,
+      "publication_date": 20201004
+    },
+    {
+      "title": "Don't buy it",
+      "text": "You're supposed to be able to get about 100 mbs or more,boy, I never hit that. I think at most, I was able to hit maybe 40 or 50. I wouldn't recommend this, but if you do want one in case your laptop or desktop doesn't have a wireless adapter, get this: EDUP Wifi Adapter Ac600Mbps Wireless Usb Adapter 5ghz /2.4ghz Dual Band 600mbps Usb Adapter 2dBi External Antennas Supports Windows Xp Win Vista Win 7 Win 8.1 Win 10 Mac Os X 10.7-10.14 ____ I was able to get decent speeds. I have 200 mbps speed with Spectrum.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "Shlomo",
+      "helpful_votes": 0,
+      "publication_date": 20200207
+    },
+    {
+      "title": "It works but avoid if you have older USB",
+      "text": "Pros: Cheap! Small! Cons: Not easy to install. I needed drivers (running Windows 7), and needed internet to get the driver. So keep that in mind. Signal strength is less than any of the laptops in the house. That's likely due to size. The biggest issue on my machine was speed. I only have USB1 ports and I'm guessing that's what was causing the abysmal slower-than-dial-up download speeds. I eventually had to abandon it and get a proper internal wifi card.",
+      "rating": 3.0,
+      "verified": true,
+      "author": "D. Austin",
+      "helpful_votes": 0,
+      "publication_date": 20201021
+    },
+    {
+      "title": "Driver not in latest Linux kernel, but available",
+      "text": "You probably won't plug this straight in on a Linux machine, at least running something like Ubuntu, and have it work immediately. This uses the RTL8188EUS chipset, which you can get drivers for from a git repo (just google it). It's fine if you're putting it onto a computer where you can easily get that repo over to it and install the drivers, but not terribly useful if you're looking for something to just plug in and have work to get on the internet in the first place. Still, for the price, Linux-compatible USB wifi that works fine. Go for it.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "UE",
+      "helpful_votes": 0,
+      "publication_date": 20200303
+    },
+    {
+      "title": "Plug and Play!  Quickly On-Line!",
+      "text": "Our wifi card (with antenna) broke in our move, and we needed something to get our computer online to connect with the router. We ordered this in hopes it would be that easy... and it was. We plugged it in, it automatically detected, and in seconds we were online again. It's a little weak in finding the wireless signal, but it's such a tiny device that is not surprising. Honestly, even if we eventually upgrade to a full-on wi-fi card with antenna or just run an ethernet cable, this is definitely something I would recommend. I would hold onto it for a laptop or tablet with wifi trouble.",
+      "rating": 4.0,
+      "verified": true,
+      "author": "Robert Griffith",
+      "helpful_votes": 0,
+      "publication_date": 20190915
+    },
+    {
+      "title": "Easy to install and connect, not real fast.",
+      "text": "I have a strong Ubiquiti router and I installed this adapter in a computer 25ft from the router and in direct line of sight. It was easy to install and showed all green bands but You Tube was very sluggish, even as the only open tab on Chrome. The computer next to it has a DLink dual band adapter and nothing slows it down. I don't think there is anything wrong with this adapter, it just doesn't seem to have the throughput I had hoped for. But I'll use it in my garage to stream music and read news, etc...",
+      "rating": 3.0,
+      "verified": true,
+      "author": "Douglas Shokes",
+      "helpful_votes": 0,
+      "publication_date": 20200419
+    },
+    {
+      "title": "Well, it works.... if you want 2001 download speeds",
+      "text": "I love that the device basically plugged in and was ready to go with a simple install of a driver. From unboxing to browsing in like 2 minutes. But, here's the ugly side... I have Spectrum 100mbit internet and all of the other deices in my house get pretty close to that through wifi, not this device... 12 feet from the router, great signal and I maxed out @ 7.5ish mbit, which is ok generally for what I need it for, but Im still disappointed in the device...",
+      "rating": 3.0,
+      "verified": true,
+      "author": "Raging Bull",
+      "helpful_votes": 0,
+      "publication_date": 20190707
+    },
+    {
+      "title": "works great,,",
+      "text": "what a great little thing,,after many years of having my upstairs desktop connected with cable,,after installing thedisk that came with this i was able to bring my desktop computer downstairs,hookup with wifi,,,,i had no problem getting wifi,,,worked for me,,,i would reccomend it,,,",
+      "rating": 5.0,
+      "verified": true,
+      "author": "patsy west",
+      "helpful_votes": 0,
+      "publication_date": 20201015
+    },
+    {
+      "title": "Ugh....SLOW",
+      "text": "Installed this on a desktop in a guest bedroom. We use other wireless devices in the same spot without a problem (iPads, phones, kindles) so I figured this would be roughly equivalent. Device speed is TERRIBLE. I wasn't able to get over .5 mb per second up or down. Tried using the most recent driver set, plus what came on the CD and an older driver from their website. All roughly the same mileage. I'm returning and getting another brand.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "TomCrone77",
+      "helpful_votes": 0,
+      "publication_date": 20200811
+    },
+    {
+      "title": "Perfect!",
+      "text": "I have literally just installed this adapter and am thrilled with its performance, even just an hour in. My system runs Linux, so there are always concerns about compatibility, but as others have said, the CD isn't even needed. I plugged in the USB dongle and my wifi network was immediately detected. One of the things I appreciate is that, unlike a previous wifi repeater that ran SO hot and was plugged into a wall socket all the time, this device will only be on when my computer is on. I couldn't be happier with the ease of use and performance so far.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Darlynne",
+      "helpful_votes": 0,
+      "publication_date": 20190926
+    },
+    {
+      "title": "Its sooo small! But it works like a big  boy..",
+      "text": "I must admit I thought it was so tiny it couldn't work well.. I used it on a old laptop in my basement. The laptop is old and slow but accepted the device in Win 10 and worked right away. The machine is old and slow so I can't say how fast the device is as it is installed in a less than great laptop. But it worked with out a fuss. Perfect score on that! Even if the device was the fasted ever that laptop would be in the way!",
+      "rating": 4.0,
+      "verified": true,
+      "author": "Squiggles Mc Doogle",
+      "helpful_votes": 0,
+      "publication_date": 20200816
+    },
+    {
+      "title": "Has trouble connecting to Wi-Fi",
+      "text": "When I could actually connect to my Wi-Fi, this dongle worked okay. It is not great. Whether I used Windows or Linux it would drop the connection every 5-15 minutes. I tried using other USB ports, it didn't make a difference. I even used a laptop to see if it was just my desktop that had a problem, but it did the same thing. Maybe mine was a defect. It's worth it for the price if you need a temporary fix, otherwise I would skip this dongle.",
+      "rating": 2.0,
+      "verified": true,
+      "author": "Bubba",
+      "helpful_votes": 0,
+      "publication_date": 20190716
+    },
+    {
+      "title": "Better than buying a wifi card",
+      "text": "Wifi Card died on a 10 year old laptop I like using. Wife was \"Just buy a new one\". Personally being old and cantankerous, having tried using the new thin keyboards of the Chromebooks and the new Laptops and finding them uncomfortable to type on and not having larger size SD card ports I plugged this in and back in business. Very simple fix and saved me $150 at least! Just pop in the CD and you are off to the races again!",
+      "rating": 5.0,
+      "verified": true,
+      "author": "J.T",
+      "helpful_votes": 0,
+      "publication_date": 20201004
+    },
+    {
+      "title": "N150 Single Band - Debian Linux Freindly... On Old Laptop",
+      "text": "Old HP2000 had old 2G Wifi that could not connect with most Wifi servers because it was just to slow. Speed checks when it did connect were in the 2 to 4 MHz range so most browsers could not maintain a connection efficiently. Plugged into my 2USB port and BAAM... After connecting all is working... Now have speeds 10 to 20 and thats all I need on this old Laptop. So far works in Puppy, Sparky, and MX Linux that for the most part are Debian Based.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "John A. Sandoval",
+      "helpful_votes": 0,
+      "publication_date": 20200423
+    },
+    {
+      "title": "TP-Link Superiority",
+      "text": "Every product that I have purchased from TP-Link has always satisfied the need for which I made the purchase. That includes the purchase of this WiFi adapter. Needed to get a Linux based laptop on line, and this made it possible. The only limitation is that of not having an external antenna, but then I was not attempting connections further than my workshop. If your builtin wireless is not getting the job done or is kaput, consider this or any of the other TP-Link devices out there.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Michael D. Portman",
+      "helpful_votes": 0,
+      "publication_date": 20200225
+    },
+    {
+      "title": "Waste of money.",
+      "text": "This is a v1 which means no official support from TP-Link for Windows 10. Windows automatically downloaded the required drivers though and it seems to \"work\" as intended. The signal quality is abysmal. I have tested many 2.4Ghz devices and this is by far the worst. Pings in excess of 300ms, and the connection is randomly dropped for a few seconds at a time (on rare occasions up to a minute of no signal). Spend a little extra money and get a good quality 5Ghz adapter with a larger antenna.",
+      "rating": 2.0,
+      "verified": true,
+      "author": "Jeffrey Carpenter",
+      "helpful_votes": 0,
+      "publication_date": 20200127
+    },
+    {
+      "title": "Great price and works on Linux Mint",
+      "text": "the WiFi card on my aging Dell laptop would not stay connected to my router no matter what I did. I did have a really old N Rosewill WiFi usb that I used but the reception was usually at 60-70%. I bought an AC usb wifi card but that didn't work in Linux Mint so I returned it. This was totally plug and play on Linux Mint and I have 100% reception now nearly everywhere in my house. This hardly sticks out of the port. The only distracting thing is the activity light on it but it's ok. My speed went from 10-13mbps on my old N usb to 21mbps on this. Works great.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "RossCT",
+      "helpful_votes": 0,
+      "publication_date": 20190722
+    },
+    {
+      "title": "Worked great for a hackintosh",
+      "text": "Not a super tech guy and I bought a hackintosh Lenovo laptop of a guy who needed the $$$ just to screw around with. Internal WiFi was incompatible, there was a usb WiFi included that was not working for a reason I could not figure out, so I thought I had a pretty useless item. Was really dreading trying to dive deeply into reconfiguring the Mac OS and kexts and drivers to get usable WiFi. Spent less than 10 bucks on this, installed its Mac drivers, and boom, perfect, no issues, hassles, problems. I would give a sixth star if I could.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "M. Mason",
+      "helpful_votes": 0,
+      "publication_date": 20190714
+    },
+    {
+      "title": "Worked right after installing the program and plugging in the adapter.",
+      "text": "It was a lot easier than I thought to install. All I did was install the program it came with and plug in the USB adapter and immediately it connected to my homes WiFi with out me having to assign it to my homes Wi-Fi it did it on its own I didn\u2019t even have too put in my WiFi password. If you\u2019re computers internal WiFi stopped working I highly suggest getting this WiFi adapter and it very cheap priced for something that works so great plus the WiFi range is a very good distance.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Rob ",
+      "helpful_votes": 0,
+      "publication_date": 20200222
+    },
+    {
+      "title": "Low cost solution for failed MacBook wireless, but range seems limited",
+      "text": "We have an older MacBook from 2011 and the built-in wireless was having issues we could not correct. This was a good solution, we used the software on the CD, it took a few tries and restarts but then showed up on the menu bar, and we easily connected to our wireless. There is very little documentation provided in the box, maybe there is more online. Also the speeds really drop off when we move a small distance from the router, from about 40 mbs max down to only 10 in the next room, so for that reason we give it 4 stars.",
+      "rating": 4.0,
+      "verified": true,
+      "author": "David L",
+      "helpful_votes": 0,
+      "publication_date": 20200411
+    },
+    {
+      "title": "CAUTION: Unsupported V1 models for some shoppers",
+      "text": "Product misrepresented. Although versions were represented as \"the latest\" in the Q&A, this is V1 per the manufacturers website (in evidence in the attached photo's FCC number, V3 should be at the end). This is an unethical scam to move old product as the related driver does NOT support the OS as advertised. The only way I would buy another TP-Link product again is if a v3 replacement was sent with an apology.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "J. Owen",
+      "helpful_votes": 0,
+      "publication_date": 20201013
+    },
+    {
+      "title": "Easy To Use And Works Well",
+      "text": "This product works very well. The router is in the living room, and my bedroom is two rooms (2 walls) away. I get good signal, with it, although sometimes do have issues. I give the product 4/5 stars for this reason (if I do not think it is the WiFi itself, other products don't seem to have problems). Overall though, it was worth the money and it gets the job done. I use it for my gaming PC. Installation was really easy, most of it was just plugging it in!",
+      "rating": 4.0,
+      "verified": true,
+      "author": "MrDavey",
+      "helpful_votes": 0,
+      "publication_date": 20200911
+    },
+    {
+      "title": "Apparent Driver or Firmware Issues Win 10",
+      "text": "Initially Windows 10 kept automatically reverting the driver back to another brand adapter. The problem went away temporarily but then it kept coming back. I manually installed drivers multiple times with the same problem. I moved ports. Tech support had no other solutions, always talking about things that had nothing to do with it like distance from the router. I got fed up with 10kbps download speeds on the wrong driver, ineffective tech support, threw it away and ran a Cat-5 directly to my HP Elite tower.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "Daniel",
+      "helpful_votes": 0,
+      "publication_date": 20200919
+    },
+    {
+      "title": "Didn't work and no answer on tech support.",
+      "text": "Followed installation instructions, but it won't connect to my router. I've called tech support 3 times and a recording says they are not taking calls at this time, even though at least once, it was during regular business hours. The packaging actually claims 24/7 tech support.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "heteromyid",
+      "helpful_votes": 0,
+      "publication_date": 20200704
+    },
+    {
+      "title": "Replacement for a broken WiFi adapter",
+      "text": "I stupidly left my old WiFi adapter plugged into my laptop when I put it in my travel case and it was broken when I fired up the computer. So this was a replacement for that other unit. I needed it because my laptop only has a 2.4Ghz WiFi adapter built in and my phone defaults to a 5GHZ WiFi Hotspot that I use for internet access when I am up to my camp in Maine. Seems to work just fine. No setup issues and gets decent connectivity although range isn't really an issue since my phones hotspot is only about 5-10' away.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "W. Dunham",
+      "helpful_votes": 0,
+      "publication_date": 20190905
+    },
+    {
+      "title": "Works with Debian Linux version 9",
+      "text": "This WiFi adapter works fine with Debian Linux version 9.2 and above without the need for drivers. In Debian just use connmanctl. It was tested on a Beaglebone Black single board computer. The only thing is with the current requirement it's best to use a powered USB hub otherwise you might trigger a low voltage condition on the SBC resulting in erratic operation of the WiFi adapter. Other then that it works great. I like the green LED activity light.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "KenUnix",
+      "helpful_votes": 0,
+      "publication_date": 20200308
+    },
+    {
+      "title": "For a couple bucks more, go with TP-Link instead of the no-name brands",
+      "text": "There were wireless USB adapters even cheaper than this one, but I've been happy with my TP-Link router, and thought maybe the two devices would play better together than another brand. I was using an older wireless NIC with an antenna and only getting about 15Mbps for a 60Mbps internet service. I thought maybe that was normal for being further from the router. I needed another wireless NIC and got this one because it was a low-profile USB and cheap. Amazingly, I got 60Mbps being upstairs from the router. Also, I didn't have to install any drivers. Windows 10 found the device automatically.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "True",
+      "helpful_votes": 2,
+      "publication_date": 20170612
+    },
+    {
+      "title": "Miracle contraption",
+      "text": "I got a secondhand laptop that had the wifi component inside broken, so I could only use it with an ethernet cable. This was really annoying. My bf had an amazing idea to get one of these and now, with this tiny little USB chip and a 10 second CD installation (pop it in and say yes, that's literally it) I can now take my laptop places and it's normal and functioning! Thank you! The only thing is the signal isn't super strong and can be slow at times, but that's so minor it's a non-issue. I also got the cheapest one, so that's on me.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "AmazonReviewer420",
+      "helpful_votes": 0,
+      "publication_date": 20200309
+    },
+    {
+      "title": "Easy way to fix a networking problem without opening your computer case!",
+      "text": "I bought this because my networking card stopped working, and I'm pleased to say that it works great. Setup was a breeze. It comes with an installation disc, but I downloaded the driver from the website because my laptop doesn't have an optical drive. The driver was at the web page in the manual. The small USB antenna hardly sticks out of the side of the laptop, and I won't even notice it when I have to take the computer out and about. It's about the same size as a tiny receiver that comes with wireless mice (mouses?) and keyboards. DEFINATELY worth the price, and will buy again if needed!",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Kio",
+      "helpful_votes": 0,
+      "publication_date": 20191025
+    },
+    {
+      "title": "Beware",
+      "text": "This item does NOT install or work on the XP operating system. It does install on the win7 operating system, but it is not very easy to install. The tech support is pretty much worthless. You receive canned responses and your actual questions are never answered. It also takes 24 hours for every response because the tech support is in China.",
+      "rating": 2.0,
+      "verified": true,
+      "author": "Neil",
+      "helpful_votes": 0,
+      "publication_date": 20191006
+    },
+    {
+      "title": "Works perfectly!",
+      "text": "I bought this when my Surface Pro 3 lost the ability to connect to WiFi and the technician I hired to fix it couldn't figure out what was wrong. It works really well, although I'm no longer using it. I asked \"The Google\" what was wrong and it, of course, knew. I just had to reinstall the WiFi driver or some such thing. Anyway, if you need a WiFi dongle, don't hesitate to buy this one. Good value.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "PB~",
+      "helpful_votes": 0,
+      "publication_date": 20200622
+    },
+    {
+      "title": "Small package, easy install, poor performance",
+      "text": "The Wi-Fi adapter is tiny, install was easy, and signal seems plenty strong. However, the speeds are atrocious. 200+ mbps service, and this adapter maxes out at 9.5 mbps. I tried an ancient netgear USB adapter I had laying around, and it got to 70+ mbps consistently. I didn\u2019t expect blazing speed, but I thought 50 mbps wouldn\u2019t be too much to ask. Maybe I got a bad one? Not sure, but the performance is brutal.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "MN",
+      "helpful_votes": 0,
+      "publication_date": 20200624
+    },
+    {
+      "title": "Easy to install, works great",
+      "text": "My mom has an older desktop that isn't equipped with WiFi. She moved and the router was too far from the computer to run an Ethernet cable so I bought this little gadget. I couldn't believe how easy it was to install and how well it works. I just plugged it in the back of the computer and it automatically found her router. I typed in her password and it's been working great ever since.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "ABC",
+      "helpful_votes": 0,
+      "publication_date": 20200915
+    },
+    {
+      "title": "Everything in IT should be this easy. They have a great antenna and pull a ...",
+      "text": "TP Link stuff is da bomb, and it's become my go-to brand for home and light office networking. I got 2 of these for a couple mining rigs I built and they were completely plug and play. Windows 10 Pro immediately recognized them and got me connected up to my home wireless router in about 3 minutes. Everything in IT should be this easy. They have a great antenna and pull a strong signal even in the more secluded areas of my home.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "joemaamah",
+      "helpful_votes": 2,
+      "publication_date": 20180428
+    },
+    {
+      "title": "SMALL and works well.",
+      "text": "Nice and small. I had no issues with just plugging it into an USB port on my Windows 7 computer and using it. I was able to start using it to be able to configure my Echo's. My desktop doesn't have WiFi otherwise. I didn't need to load any additional drivers or nothing to be able to use the WiFi adaptor. I even tried just using the WiFi adaptor without the CAD 5 cable plugged into my PC. I was able ot switch between the cable and the USB device with no issues.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Dr-Phone",
+      "helpful_votes": 2,
+      "publication_date": 20180212
+    },
+    {
+      "title": "Exceptional",
+      "text": "I have been looking for anything to be able to setup on my desktop so I could have wifi connection seeing as my motherboard does not have wifi built in and I am running Linux operating systems.. I searched stores and online for this. Finally I heard about this from a favorite YouTuber and found it on Amazon. 2 days later I have in my hand and plugged it in. Immediately wifi connections popped up and I signed in. I think it took longer to get the item out of the package than to hook it up. Great product in my opinion.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "tapplewhite",
+      "helpful_votes": 0,
+      "publication_date": 20200122
+    },
+    {
+      "title": "Small things can be powerful",
+      "text": "I decided to buy this in a pinch before a work trip when my wifi card decided to die on me. (Watch out for Dell XPS models) This little guy was easy to get installed, works like a champ and keeps up with all my remote working, such as Skype calls, web meetings, etc. It has made me put off having my wifi card replaced because it is so low profile and works so well. So, if you need a wifi adapter this is the best one out there for it's size and ease of use. Buy it, you won't be dissapointed.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "MoniBell",
+      "helpful_votes": 0,
+      "publication_date": 20190207
+    },
+    {
+      "title": "I have Wi-Fi on my laptop again!",
+      "text": "I broke one of the connectors on my Wi-Fi card when I was taking my laptop apart to fix it and I didn't want to take it apart again and buy a new Wi-Fi card for like $30-$50. So, I bought this product and it really works. It comes with a CD installation disc that has to be used, so be forewarned if your laptop doesn't have a disc drive. It was an easy install and the device is very small and unobtrusive, just the size of a wireless mouse USB connector. I have Wi-Fi on my laptop again! I would absolutely recommend this!",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Jennifer",
+      "helpful_votes": 0,
+      "publication_date": 20190712
+    },
+    {
+      "title": "Its 8$",
+      "text": "I would dog on it for having bad WiFi signal, speed, and reception, and only being able to connect to 2.4G networks, But it was literally 8$ free shipping so I can't really complain personally. I bought it for using with a hackintosh, a Dell E7470, running macOS mojave. Worked fine. The TP link drivers they provided work although It doesn't use the native macOS WiFi menu, TP link has their own for macOS. It works and does what I needed. It could be better but I could have bought a better one.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Dylan C.",
+      "helpful_votes": 0,
+      "publication_date": 20190923
+    },
+    {
+      "title": "Decent But Horrible",
+      "text": "This is a decent wifi adapter for a laptop when you are on the go if you need to connect to a fast food wifi or hotel wifi but I would highly not recomend using this on a desktop PC at all. This wifi adapter is good for low quality streaming 240 p or lower buffers on anything higher horrible download speeds and web browsing speeds and wifi range is horrible but I would only recommend this as a temporary fix for a desktop but I would highly recommend getting a netgear nighthawk adapter also dont expect gaming your ping will be above 400",
+      "rating": 1.0,
+      "verified": true,
+      "author": "Rhietta Price",
+      "helpful_votes": 0,
+      "publication_date": 20191214
+    },
+    {
+      "title": "Works on my G4 PPC Mac Powerbook!",
+      "text": "MIRACLE!! Works on my G4 PPC Mac Powerbook! Someone gave me a beautiful 17\" Aluminum Mac Powerbook. It is running OSX 10.5.8. I managed to get everything working great except the WIFI. Kept trying everything I could find by Googling the issue. I then tried various WIFI USB dongles I had laying around. Then I tried this one which I had recently purchased. Suddenly the WIFI worked! Hurray! I had almost given up trying! Great product and a decent price as well!",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Aktivator",
+      "helpful_votes": 2,
+      "publication_date": 20180109
+    },
+    {
+      "title": "Perfect and Easy",
+      "text": "This is the best WiFi adapter that I've ever purchase and it works great, at least I don't have to get a network card and have it installed. This works just fine. I recommend this to anyone that is having problems and doesn't want to have to hook up the ethernet cable for WiFi. I did this for months because I couldn't find a good adapter. Ready to go now. I definitely recommend.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Nancy",
+      "helpful_votes": 0,
+      "publication_date": 20200723
+    },
+    {
+      "title": "Genuine Product",
+      "text": "Bought this adaptor after reading reviews. Prompt shipping, no installing concerns. However, please note these points: If connecting to someone else's wireless network, power off your cable modem prior to installing adaptor. After installing, open device manager, and uncheck power off battery Restart computer before trying to connect wirelessly. It took some doing but finally computer does connect. Cons: short sange and a bit slow connectivity Perfect for those on a budget",
+      "rating": 5.0,
+      "verified": true,
+      "author": "SRK",
+      "helpful_votes": 0,
+      "publication_date": 20200302
+    },
+    {
+      "title": "Fast and easy!",
+      "text": "I popped this into my Windows 10 computer and after only 1 minute I was able to connect to my home network! I did not expect it to work so fast and it set itself up I do not even remember a prompt! This is a must have for all who have older computers that are not capable of WiFi. Previously I had to use a Ethernet cord connected to a device that was capable of WiFi this device was a great fix glad I got 2!",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Devonte",
+      "helpful_votes": 2,
+      "publication_date": 20190418
+    },
+    {
+      "title": "Plug and Play",
+      "text": "Inexpensive, small and compact, and should be Plug and Play on most PCs... plug it in and you've got internet! Range seems to be decent, I've got full bars on my PC, and the router is all the way at the other end of the house, past a bunch of walls. I wouldn't expect the internet speeds to be the absolute fastest, but for streaming videos on my daughter's computer, the price of this thing is unbelievable for how well it works.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "@thebrickshithouse",
+      "helpful_votes": 0,
+      "publication_date": 20200218
+    },
+    {
+      "title": "This is not a useful product",
+      "text": "It cannot receive the wireless signal from the router in our house, or any other signals from around our neighborhood. The only way I can get it to work is to set up a personal hot spot on my phone a couple of feet away from it and have it connect to that. I have used other TP Link products in the past and they worked fine. I can't move the PC I want to use it in, so it is of no value to me.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "KDV",
+      "helpful_votes": 0,
+      "publication_date": 20200602
+    },
+    {
+      "title": "Works Perfectly For My Del Laptop",
+      "text": "My Dell laptop is a few years old, and it suddenly stopped being able to access the Internet. This WiFi network adapter was an inexpensive, quick and easy fix. All I did was plug it into one of my USB ports in my laptop, and I was able to access the internet again. I think the internet also works faster on my laptop than it ever did before. I am really impressed and happy with this item. I hope this review helped you. :-)",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Amy D",
+      "helpful_votes": 0,
+      "publication_date": 20181224
+    },
+    {
+      "title": "Works great",
+      "text": "Works great for 10 yr old laptop w/ flaky wifi. Made mistake installing from their website, lost internet connection. Try uninstall and was not able to reinstall as said software/driver already loaded?! THANKS to a CD in the box and was able to do clean reinstall and works !!",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Mike",
+      "helpful_votes": 0,
+      "publication_date": 20201016
+    },
+    {
+      "title": "On a budget? Look no further.",
+      "text": "Plug and play with windows 10, perfect cheap WiFi adapter for the family desktop. Been using this for a couple months with no issues, Its range and speed is not anywhere as good as the PCI adapter I use but for 1/8 the price its great. It does get warm, I would rather have a larger card (this thing is tinny) for better heat dissipation but that would make it unsuitable for laptops.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Maciej Fulton",
+      "helpful_votes": 0,
+      "publication_date": 20200716
+    },
+    {
+      "title": "Installed on my MacBook Pro 2012",
+      "text": "My son dropped my MacBook Pro and as a result the internal wireless adapter no longer worked. After looking at MANY units, I found this unit and many positive reviews. I am currently running MacOs Catalina. I looked up the drivers on their website and found the latest drivers. After installing and rebooting, the device works flawlessly. I have been using this device for over two weeks on my daily MacBook Pro. For $8 you will be hard-pressed to find a device that works with the latest MacOS. Cheers!!",
+      "rating": 5.0,
+      "verified": true,
+      "author": "robert l von haden",
+      "helpful_votes": 0,
+      "publication_date": 20200309
+    },
+    {
+      "title": "Install the drivers!!",
+      "text": "So, it definitely is not plug and play. Go to their support website and download their drivers and it will become a decent alternative for a wifi card or an ethernet cable. When I first plugged it in, I was getting terrible speeds and choppy service. After I installed the drivers it would drop connection very briefly every half hour or so but was usable.",
+      "rating": 4.0,
+      "verified": true,
+      "author": "H.S.",
+      "helpful_votes": 0,
+      "publication_date": 20200830
+    },
+    {
+      "title": "Definitely enhanced download speeds but not as much as expected/advertised",
+      "text": "I have a Dell Inspiron 1545 (my old 2009 laptop) that was getting 15-18 Mbps Internet downloads through its built-in Wireless-G card. Using this USB WiFi Adapter with Wireless-N, I'm now getting 40-42 Mbps Internet downloads. I'm happy with this, although I was hoping for something closer to the 100 Mbps Internet service speed we pay for, like seen when tested on our 5 Ghz devices, and by the spec (Wireless-N over 2.4 Ghz), should be possible. It's possible we're limited by the dual band router's capabilities and location of the laptop. At any rate, this was a good purchase that improved the capability of this old laptop at a very low cost.",
+      "rating": 4.0,
+      "verified": true,
+      "author": "Steve Magruder",
+      "helpful_votes": 0,
+      "publication_date": 20200604
+    },
+    {
+      "title": "Revives ancient laptops",
+      "text": "Have an old 2008 Alienware laptop that wouldn't connect (Windows 10 installed on this old tank too).The factory internal wifi would pick up networks, but wouldn't connect. I tried implementing a few different setting and command changes with no results. After installing this USB wifi, boom, I now have wifi connected. Great product. Highly recommend if you are in a similar situation.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Seth",
+      "helpful_votes": 0,
+      "publication_date": 20200913
+    },
+    {
+      "title": "Won't connect to my apple AirPort Extreme router",
+      "text": "Connected it to a windows 10 machine - wifi router is up to date apple AirPort Extreme supporting 2.5/5ghz. Just flat out won't connect to the router even after wasting time looking for driver updates, etc. I'm an IT professional. Many other devices connect just fine. Returning it. What a waste of time. Reminds me of back in the day when I used to use windows more. Now I use Mac almost exclusively and rarely have these kinds of problems. Don't know if it's windows or the wifi adapter but either way it doesn't work.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "Amazon Customer",
+      "helpful_votes": 0,
+      "publication_date": 20200822
+    },
+    {
+      "title": "You get what you pay for...again.",
+      "text": "Its only 8 bucks. So, I guess you shouldn't expect to much. That said, the unit I received cant even get up to 30 mbps right next to the router (other devices receive full bandwidth). This unit is going to the local landfill and Ill just use my old one witch works better. Id suggest a different cheapie or spend $10-20 more and get a quality piece of tech.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "Jon",
+      "helpful_votes": 0,
+      "publication_date": 20200731
+    },
+    {
+      "title": "Replaced bad laptop wifi card",
+      "text": "Super tiny so I can just leave it in all the time and not worry about it snapping off or getting caught on things. I even throw my laptop into it's case or in my backpack without removing it. WiFi card on my laptop refused to get signal more than 5 feet from the router. Idk what was wrong but I tried everything I could think of to fix it with no luck. Plugged this bad boy in and disabled the built in WiFi card and now it works flawlessly.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Allyssa Gregory",
+      "helpful_votes": 0,
+      "publication_date": 20190909
+    },
+    {
+      "title": "Works but drops signal",
+      "text": "Bought this for a PC downstairs that I didn't want to run wires to. It doesn't pick up a signal as well, but that's expected from these. Worked great and got the job done. Windows automatically installed drivers Edit 9/20/19: Wireless adapter drops your signal about every 10 mins. Tried it on multiple computers.",
+      "rating": 2.0,
+      "verified": true,
+      "author": "James",
+      "helpful_votes": 0,
+      "publication_date": 20190819
+    },
+    {
+      "title": "Beware if buying for Linux",
+      "text": "I'm running Lubuntu. To install the driver, you have to build it. The driver is still in \"beta\" and a few years old; so that's a red flag. The build would always fail for me, and I tried the beta, and driver before that. It's not \"Linux\" support...it is specifically for couple of Linux flavors, like Ubuntu. At least that what it seems like with the install instructions.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "Stephen R. Roberts",
+      "helpful_votes": 0,
+      "publication_date": 20200410
+    },
+    {
+      "title": "Works well, small size. Not Linux Plug-and-play compatible.",
+      "text": "Yes, tiny adapters have weaker antennas but these are much lower than I would prefer. Works out of box with Windows, but I haven't felt motivated enough to compile to driver for Linux manually. I had assumed that atheros chips would be friendlier and would not require manually compiling drivers but I guessed wrong. Still, this is a decent card and suitable for use with a device that does not have a wifi chip already.",
+      "rating": 4.0,
+      "verified": true,
+      "author": "mirknight",
+      "helpful_votes": 0,
+      "publication_date": 20191201
+    },
+    {
+      "title": "works great , just buy it",
+      "text": "I was skeptical about buying this, I built a new gaming computer and needed wifi in my basement. I downloaded the driver onto a USB and as soon as I uploaded it to my new computer it found the wifi. For being in the basement and my router and modem are on the 1st floor I get full bars. I am definitely impressed and glad that I bought it. worth every penny. I only had to use a USB because I chose not to have a cd drive on my build, otherwise, it comes with a disc. Great Product",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Norman jeckel",
+      "helpful_votes": 0,
+      "publication_date": 20190704
+    },
+    {
+      "title": "works",
+      "text": "I have bought 2 of these, and they have both worked, not noticeably slower than my other wireless devices. However, it seems to have issues connecting to the internet when I also plug in my VGA to USB adapter, although I'm sure that has something to do with how the motherboard handles USB, so I wouldn't hold that against this product, just something to keep in mind.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Brandon Valley",
+      "helpful_votes": 0,
+      "publication_date": 20201002
+    },
+    {
+      "title": "DO NOT BUY FOR LINUX",
+      "text": "In spite of manufacturer and reviews to the contrary, this does NOT work out-of-box on any linux distro I tried; kernel versions ranging from 3.10 to 4.8; Debian Jessie and Ubuntu LTS (14.04 and 16.04). For my purposes, I cannot get drivers for it, either, due to lack of needed hardware to directly interface to the headless device I bought it for. I will not return it because it will cost less to just buy a competitor's product and toss this worthless pile of scrap into the garbage heap.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "Charles Reynolds",
+      "helpful_votes": 3,
+      "publication_date": 20170220
+    },
+    {
+      "title": "Simple, compatible",
+      "text": "The following is mostly for Linux users. Yes, it works off the box with most kernels above 2.x.x, plug in, connect. Confirmed with Mint 18.3, 19.3, Debian 10, Red Hat 4.x, Fedora 32 (64bit). It also happens to work under Windows10. =)",
+      "rating": 5.0,
+      "verified": true,
+      "author": "F. Moya",
+      "helpful_votes": 0,
+      "publication_date": 20200606
+    },
+    {
+      "title": "getting under < 10mbps only",
+      "text": "most awful product that i ever bought, says 150Mbps speed. !!!i got a 200Mbps internet at home, tried this device being 15feet away from the router- got about 10Mbps ish speed or even less than that at times then i moved the pc close to the router.. still i could get only 30Mbps its damn slow donot trust any reviews for this prod",
+      "rating": 1.0,
+      "verified": true,
+      "author": "Bhargav",
+      "helpful_votes": 0,
+      "publication_date": 20200824
+    },
+    {
+      "title": "Not worth the price.",
+      "text": "For one thing, most laptops today have no place for a disc to play. SO how can a person connect online to download the driver for the computer? To start with, very difficult to get going. Then once it was loaded, the pages were soooo slow in loading that they timed out. Very disappointed after I read the reviews. I will be sending back asap.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "countrywriter7",
+      "helpful_votes": 0,
+      "publication_date": 20200714
+    },
+    {
+      "title": "Delivery Speed, Product Speed.",
+      "text": "In two minutes, my Linux based Laptop, found the WiFi Usb adapter, A select Network box appeared, I selected my Network, and in two minutes, I was connected to the internet. 2 Minutes. to Me this is Huge. The product is tiny, sits close to the computer case, it will Not get knocked out of the USB Port. No fussing with network settings to find the WifFi Adapter. No Fuss packaging as well. No Blister plastic packing to cut through. I am thrilled. My laptop is old, trust me, an old HP ZV5000 with Windows Vista.. I replaced Vista with a version of Linux., If this old boat anchor can find this WiFi Adapater, that should give anyone Hope,lol",
+      "rating": 5.0,
+      "verified": true,
+      "author": "David L. Fuller",
+      "helpful_votes": 0,
+      "publication_date": 20190505
+    },
+    {
+      "title": "Very easy application!!",
+      "text": "This little adapter is very easy to understand and very fast. I am very please with it. If I have another wireless problem with a different computer, definitely will get another one. It is so cheap (I looked for one wireless adapter at walmart yesterday; cheapest is around 35 dollars.) This small adapter has great reviews. I thought cheap is not a way to go for wireless (money counts!). But I was proven wrong! I never knew there was a wireless adapter before until my tech guy told me to get it. I am very happy.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "diana ton",
+      "helpful_votes": 0,
+      "publication_date": 20200608
+    },
+    {
+      "title": "BEWARE MAC USERS: No Catalina support yet.",
+      "text": "I'm sad to write a negative review of this product because it's the perfect size for how I wanted to use it. I just can't use it at all because the latest driver available on the manufacturer's website (dated 11/9/2018 - 1 year ago) won't install on MacOS 10.15 (Catalina). Installation fails with an error message that it's not compatible with 10.15. If the manufacturer updates the driver, I will come back here and update my rating.",
+      "rating": 2.0,
+      "verified": true,
+      "author": "D. Johnson",
+      "helpful_votes": 0,
+      "publication_date": 20191114
+    },
+    {
+      "title": "V1 is Garbage",
+      "text": "The issue with this is you don't know what version you are getting. I got a V1 and the drivers for it only go so far as windows 7, I'm forced to use the V3 drivers if I want it to work with Windows 10 and I believe that's what's causing it to bog down so much, I'll never lose connection but the speeds are god-awfully slow. I would return but it's too cheap to bother. I guess you get what you pay for. Maybe the V3 is good, no idea, avoid the V1 which this listing is for.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "Namisar",
+      "helpful_votes": 0,
+      "publication_date": 20200125
+    },
+    {
+      "title": "Cheap and easy solution to connect to wifi",
+      "text": "This was such a cheap and easy solution to connect to our wifi. We bought another no-name brand adapter that was actually a few dollars more and it required us to install a program, then to download the instructions for the adapter when it failed... It was a mess and we couldn't figure it out and had to return it. For us anyways, this item required no installation or any other process. We just plugged it in and it connected to our wifi immediately.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "coolandon",
+      "helpful_votes": 0,
+      "publication_date": 20190812
+    },
+    {
+      "title": "Quick Way To Add Wireless Capability To An Older Computer",
+      "text": "Followed the included quick start guide by inserting the device into a USB port, put in the included CD with the drivers, the software installed quickly, then a reboot of the computer. Device found the network, I plugged in the network password and the computer was connected to the network & internet. Note: this will connect to a 2.4 GHz network, it is not dual band. Device is being used on an older Windows computer that does not have built in wireless networking. Nice upgrade.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "I. Stevens",
+      "helpful_votes": 0,
+      "publication_date": 20180330
+    },
+    {
+      "title": "Trash",
+      "text": "I used this to add wifi to a server sitting in a closet. Worked great when it was literally sitting 12 inches from the router, but imagine my surprise when it crapped the bed when it was moved 8 feet away. 1ms ping next to the router, jumped to 100-200ms ping from 8 feet away. Not to some internet site, but on the LAN.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "Tokeli",
+      "helpful_votes": 0,
+      "publication_date": 20190604
+    },
+    {
+      "title": "Nope",
+      "text": "Well sure it was easy to install, it is USB dongle... That said, I troubleshot this thing for hours trying to get the speeds I was supposed to get and couldn't for the life of me get it to work. I even phoned my personal tech support (brother who codes for Microsoft) and he couldn't find any parameters I had overlooked. Perhaps for some it worked out of the box, but I couldn't get this thing to connect me faster than 500Kbps back to my router...",
+      "rating": 1.0,
+      "verified": true,
+      "author": "Elgunter84",
+      "helpful_votes": 0,
+      "publication_date": 20200612
+    },
+    {
+      "title": "Great single channel WiFi adapter",
+      "text": "I am using this adapter on a Windows 7 and a Windows 8.1 machine and it works great. I is small in size but picks up WiFi fine in my application. The only negative is it requires drivers to be installed from the included CD as Windows does directly support this device. While I haven't tried it yet this adapter is also supposed to work with the PlayStation Classic and (S)NES consoles once the newest kernels are installed.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "John S. Kjellman",
+      "helpful_votes": 0,
+      "publication_date": 20190920
+    }
+  ],
+  "product_meta": {
+    "title": "TP-Link USB Wifi Adapter for PC N150 Wireless Network Adapter for Desktop - Nano Size Wifi Dongle Compatible with Windows 10/7/8/8.1/XP/ Mac OS 10.9-10.15 Linux Kernel 2.6.18-4.4.3 (TL-WN725N)",
+    "description": "Style:N150 Single BandMaximum wireless transmission rates are the physical rates derived from IEEE Standard 802.11 specifications. Range and coverage specifications are based upon test results under normal usage conditions. Actual wireless transmission rate and wireless coverage are not guaranteed, and will vary as a result of 1) environmental factors, including building materials, physical objects and obstacles, 2) network conditions, including local interference, volume and density of traffic, product location, network complexity, and network overhead and 3) client limitations, including rated performance, location, connection quality, and client condition. Frequency Range: 2.400-2.4835GHz; Interface Available: USB 2.0; System Requirement: Windows 8.1/8(32/64bits) Windows 7(32/64bits) Windows Vista(32/64bits) , Windows XP(32/64bits) Mac OS X 10.7~10.10 Linux; Wireless Standards: IEEE 802.11b IEEE 802.11g IEEE 802.11n.",
+    "rating": 4.4,
+    "feature_bullets": [
+      "USB WiFi Adapter: Upgrade your WiFi speeds up to 150 Mbps for lag free video streaming and Internet calls",
+      "Stronger Wi Fi Coverage: 2. 4GHz band Wi Fi covers your house everywhere",
+      "Mini Design: allows you to plug it in and forget it is even there; Wireless modes ad hoc/ infrastructure mode; Wireless security supports 64/128 WEP, WPA/WPA2, WPA psk/WPA2 psk (TKIP/AES), suppots IEEE 802. 1x",
+      "Industry leading support: 2 Year and Free 24/7 technical support",
+      "Compatibility: Compatible with Windows (XP/7/8/8. 1/10) Mac OS (10. 9 - 10. 15) Linux Kernel (2. 6. 18 - 4. 4. 3)",
+      "Driver installation may be required, Please go to to Link website for the latest driver for your operating systems",
+      "To be eligible for TP Link's , please confirm and purchase from \"Sold by \""
+    ],
+    "specifications": {
+      "Wireless Type": "802.11n, 802.11b, 802.11g",
+      "Number of USB 2.0 Ports": "1",
+      "Brand": "TP-Link",
+      "Series": "N150 Single Band",
+      "Item model number": "TL-WN725N",
+      "Operating System": "Linux, Windows XP, Windows Vista, Windows 10",
+      "Item Weight": "0.07 ounces",
+      "Product Dimensions": "0.73 x 0.58 x 0.27 inches",
+      "Item Dimensions  LxWxH": "0.73 x 0.58 x 0.27 inches",
+      "Processor Count": "1",
+      "Computer Memory Type": "DDR3 SDRAM",
+      "Voltage": "240 Volts",
+      "Manufacturer": "TP-Link",
+      "Language:": "English",
+      "ASIN": "B008IFXQFU",
+      "Is Discontinued By Manufacturer": "No",
+      "Date First Available": "June 7, 2012",
+      "Customer Reviews": "4.4 out of 5 stars31,152 ratings4.4 out of 5 stars",
+      "Best Sellers Rank": "#1 in Laptop Computer Network Adapters#4 in USB Computer Network Adapters",
+      "Domestic Shipping": "Item can be shipped within U.S.",
+      "International Shipping": "This item can be shipped to select countries outside of the U.S. Learn More"
+    },
+    "categories": [
+      "Computers & Accessories",
+      "Laptop Network Adapters",
+      "Electronics",
+      "Network Adapters",
+      "Networking Products"
+    ],
+    "price": 9.99
+  }
+}

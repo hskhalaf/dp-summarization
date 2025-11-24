@@ -1,0 +1,946 @@
+{
+  "website_summaries": [
+    {
+      "verdict": "This cocoon-style dog bed provides a cozy tunnel for your pup to retreat and relax.",
+      "pros": [
+        "Plush interior",
+        "Durable construction",
+        "Machine washable",
+        "Measures 22\" long",
+        "Designed for dogs 10 pounds and smaller",
+        "Especially good for chilly weather and short-haired dogs"
+      ],
+      "cons": [
+        "Roof covers your dog instead of standing up",
+        "This makes some dogs feel more secure, but scares others"
+      ],
+      "aspects": {},
+      "publication_date": "",
+      "rating": "",
+      "source": "bestreviews"
+    },
+    {
+      "verdict": "The best bed for cats who love to burrow in blankets, as this is more of a sleeping bag bed.",
+      "pros": [
+        "Large bed is cushiony and soft",
+        "Bed can be easily machine washed and dried",
+        "Bag-like design piques cat's curiosity",
+        "Material provides plenty of warmth on cooler nights and days"
+      ],
+      "cons": [
+        "Bed slides on wood or tile floors",
+        "Place on carpet or furniture to provide traction"
+      ],
+      "aspects": {},
+      "publication_date": "",
+      "rating": "",
+      "source": "bestreviews"
+    }
+  ],
+  "customer_reviews": [
+    {
+      "title": "Love at First Snuggle",
+      "text": "My 7 lb chihuahua ADORES this bed. I just bought all new throw pillows and blankets for the living room and kept finding them flat with the corners smashed in when I got home from work. The second I pulled this bed out of the box, he knew it was his. He dove right in and I haven't seen him sit on a pillow or suckle a blanket since.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Amazon Customer",
+      "helpful_votes": 255,
+      "publication_date": 20160613
+    },
+    {
+      "title": "WAY too small for my small dog and isn't flat on bottom like picture",
+      "text": "This looks like a cool little cozy place for my small dog. The measurements seemed large enough. But when it came, the bottom isn't flat so it won't stay propped open and inviting. Besides, it was way too small for my chihuahua mix who is 14 pounds.",
+      "rating": 3.0,
+      "verified": true,
+      "author": "Carlottia",
+      "helpful_votes": 33,
+      "publication_date": 20170223
+    },
+    {
+      "title": "Too Small for my Wiener",
+      "text": "My smallest dachshund couldn\u2019t even fit in this, it is so small she couldn\u2019t get in and turn around. Plus it doesn\u2019t \u2018stand\u2019 up, very flimsy and was difficult for her to even try to get inside.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "Jennifer M. Haler",
+      "helpful_votes": 14,
+      "publication_date": 20180625
+    },
+    {
+      "title": "Hit",
+      "text": "My sphynx kitten loves this bed! She's 10 weeks, maybe one lb. Tiny thing! Definitely a single animal bed, for small animals.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "vanessa.ann83",
+      "helpful_votes": 37,
+      "publication_date": 20160911
+    },
+    {
+      "title": "Great product!",
+      "text": "Our new puppy loves this! It has 2 tags in back, do I put one tag above the bed frame bar and one below, and clipped them together w/a clamp, to keep bed where I want it, not tugged around or falling off the bed! She sleeps in it, or partway out!",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Debbers98569",
+      "helpful_votes": 11,
+      "publication_date": 20170419
+    },
+    {
+      "title": "GREAT FOOT WARMER",
+      "text": "I've had the cuddle cave for a while now and although there was a mild curiosity at first my cat has not used it once. I tried all of his favorite spots, tried coaxing him in with toys or treats. Still, no way was he getting into that thing. It doesn't stay open enough (no matter how much I fluffed and poked at it). It is very soft. I put it on the sofa and now I use it as a foot warmer when watching tv or in front on the sink while doing dishes.",
+      "rating": 3.0,
+      "verified": true,
+      "author": "Debra",
+      "helpful_votes": 5,
+      "publication_date": 20180130
+    },
+    {
+      "title": "because I think the opening could be a little larger for easy entry, but we'll see",
+      "text": "Just arrived today! On a Sunday, a day ahead of scheduled delivery! And so far, it's a hit! My 7 year old, 10lb Dachshund loves it! I opened it up and placed it on the floor to shape it, and she hopped right in! Hasn't moved yet. I got it for her because she's always cold, and loves to burrow underneath me and my blanket. We'll see how this works out this winter. Especially when it's time to wash it. If I order another one for her, I'll try to get the next size up, because I think the opening could be a little larger for easy entry, but we'll see. Right now we're both two extremely satisfied customers!",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Berretta",
+      "helpful_votes": 6,
+      "publication_date": 20171112
+    },
+    {
+      "title": "Best product I have EVER purchased for my dog.",
+      "text": "My dog absolutely LOVES this cuddle cave! I have one of those small chihuahua mixes who gets cold if it drops below 70 degrees in my house. He's 14 pounds and is probably at the upper end of being able to fit inside. He doesn't really climb in it by himself, but if we help him in there he will snuggle up for hours looking more content than I've ever seen him. Definitely recommend.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "J",
+      "helpful_votes": 5,
+      "publication_date": 20171218
+    },
+    {
+      "title": "Perfect Bed",
+      "text": "My 10 lbs. Chihuahua loves this bed. Perfect for colder weather. Quality made. Would buy again without hesitation.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Amazon Customer",
+      "helpful_votes": 9,
+      "publication_date": 20170925
+    },
+    {
+      "title": "She loves it!",
+      "text": "I have a chihuahua mix (10lbs + tall and skinny) and she loves her cave bed. I take it to the boarding place for her to sleep in so she won\u2019t get cold. But sometimes she sleeps in it at home too, which is saying a lot because she usually crawls in bed with me! I do wish I would have gone one size up, but she still likes squeezing in there. When you put it in the washing machine, you have to reach inside and dig the lint out of the crevices, or the dog might eat it. Would recommend!",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Ms Tiffany",
+      "helpful_votes": 0,
+      "publication_date": 20200501
+    },
+    {
+      "title": "My little dog loves this bed!",
+      "text": "My chihuahua loves this bed. He sleeps in it sometimes, but more often likes to sleep on it. He is a comfort-seeking little creature and he says this bed is the absolute best! It is incredibly soft. I gave it only a single star for washability because it looks like the fill would bunch up if washed. I intend to simply buy a new bed if this one becomes soiled, because it is inexpensive enough to be easily replaceable. My little guy gives it a 4 paws up approval rating.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Marci SudlowTop Contributor: Pets",
+      "helpful_votes": 0,
+      "publication_date": 20200311
+    },
+    {
+      "title": "Not large enough",
+      "text": "Not large enough for my 16 pound cat. My other smaller cats have not yet used them at all, they may in the cooler months so we'll see. But I bought them for the big cat because she loves to get under pillows and stuff and I thought she would like them, but, she doesn't fit in them. They are more to fit maybe a 7 or 8 pound cat or smaller. They are very soft though, I hope they will use them in winder. We'll see.",
+      "rating": 4.0,
+      "verified": true,
+      "author": "M. Lyon",
+      "helpful_votes": 0,
+      "publication_date": 20200721
+    },
+    {
+      "title": "Nice bed.....now if he would only go in it!!",
+      "text": "Our miniature dachshund is very afraid of many things, especially thunder/lightning. Since he goes under covers or under the bed, we thought he would like this \"cave\" to snuggle in. Guess what....he's afraid of this! What's funny is our full-sized doxie likes to go in there, and to watch what he goes through to get his too-big body turned around inside it is hilarious! But he does it! We are working on getting the little guy more comfortable with it.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "D. Sutter",
+      "helpful_votes": 0,
+      "publication_date": 20200125
+    },
+    {
+      "title": "Nice and soft",
+      "text": "Cute cuddly and soft for my 5 lb chihuahua to snuggle up in on cold nights. He fits in it well and it could definitely fit a dog a few lbs bigger than him. The bottom isn\u2019t super thick though so on hard floors it might not offer enough support for a dog more than a pound or two more than him. He knew how to get in and turn around to be cuddled in it right away. It\u2019s not his favorite bed but he uses it for when he wants cuddly warmth. I like the muted green color.",
+      "rating": 4.0,
+      "verified": true,
+      "author": "Kris97",
+      "helpful_votes": 0,
+      "publication_date": 20191125
+    },
+    {
+      "title": "Hot in summer - chihuahua who likes to cover up won't go in",
+      "text": "Hot pocket! My chihuahua mix (10 lbs) loves to cover up with blankets. We give her a lighter one in summer, a heavier one in winter. We tried this in hopes we would have less hair everywhere because it would contain it. Problem is, it's SO warm she won't go in it right now, and chooses to sleep on top. So it's not perfect. This product could be better if it had snap off interchangeable tops for the seasons.",
+      "rating": 4.0,
+      "verified": true,
+      "author": "Ben There Donethat",
+      "helpful_votes": 0,
+      "publication_date": 20200529
+    },
+    {
+      "title": "How to get cats to use the cuddle bed.",
+      "text": "The Cuddle CavePet Beds Package had no instructions on how to train my cats to actually use them. I put both treats and catnip in them, hoping that they would adjust. I even put my one cat repeatedly throughout the day and evening. No luck! How are they supposed to enter and turn around ? Will continue to do the above. My cats are like family. I wanted them to have all the comforts of the cuddle beds. Please advise how I might better have them used the bed. Thank you for your consideration in replying. Rose Neveux",
+      "rating": 1.0,
+      "verified": true,
+      "author": "Leo",
+      "helpful_votes": 0,
+      "publication_date": 20200422
+    },
+    {
+      "title": "Sent me a random bed!",
+      "text": "I ordered the sage green cuddle cave and received a large grey round bed. My chihuahua already owned a green cuddle cave and I was looking forward to replacing it with the exact same one. Very dissatisfied and disappointed with my purchase and so is my little pup!",
+      "rating": 1.0,
+      "verified": true,
+      "author": "Erin Vago",
+      "helpful_votes": 3,
+      "publication_date": 20190411
+    },
+    {
+      "title": "Good dog bed",
+      "text": "The item I purchased was supposed to be for medium dogs. I have 5lb and 15lb Chihuahuas and only the 5lb one fits in these and he loves them. The other dog is just too big for them. So if you have a dog that is around 15lbs or bigger you might want to either get a larger one or just get something else.",
+      "rating": 4.0,
+      "verified": true,
+      "author": "Tony S.",
+      "helpful_votes": 6,
+      "publication_date": 20161207
+    },
+    {
+      "title": "BUY IT!",
+      "text": "Ok so I don\u2019t think I\u2019ve EVER written a review on Amazon lol, but my dog LOVES this thing! I took it out of the package and she climbed straight in. She\u2019s a mini dachshund (if you have one you know how much they love burrowing) and she\u2019s obsessed with this thing. Love love love, if you\u2019re questioning, the price is great, the quality is great, so soft, plush, and thick. Very well made",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Melisha",
+      "helpful_votes": 0,
+      "publication_date": 20200506
+    },
+    {
+      "title": "Our pugs love it!",
+      "text": "Excellent bed for small dogs. Our pugs just love it! Sometimes they sleep on top of it because it is very thick and comfortable and other times they snuggle right in. Either way, it gets plenty of use. We have 2 pugs and they can both get in it, but it is pretty tight. Fits one perfectly with a little room to spare, though. Great color, very soft and looks nice. We will definitely buy it again.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Ashley Smith",
+      "helpful_votes": 0,
+      "publication_date": 20200117
+    },
+    {
+      "title": "Great quality, as described!",
+      "text": "This is a great bed for small dogs, it's very warm and soft, and well made. I think the price is right for the great quality of this bed. Our dog is 5 pounds and she lay very comfortably at the end of the dome. We live in Florida and the a/c is 60 something in the evening, with this bed our dog doesn't need a blanket.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Gisela",
+      "helpful_votes": 0,
+      "publication_date": 20200720
+    },
+    {
+      "title": "Practically no cushion",
+      "text": "I don't understand how this has so many good reviews. The bed has one of those button-like bottoms with very little padding. My dog who loves to burrow won't even go in the cave when it's on the floor. She just smashes the top down and sits on the whole thing.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "bs41988",
+      "helpful_votes": 2,
+      "publication_date": 20191214
+    },
+    {
+      "title": "Soft pet bed",
+      "text": "My 12 year old 5 pound chihuahua has really had nothing to do with this bed since I purchased it. The opening is even small for him. It's very soft it's very light. I think if the opening were a little bit bigger where he can walk in and turn around and get comfy he would like it more. But other than that this is a great pet bed. I could see it being a really good option for kittens or small puppies. Something small that needs to feel more secure.",
+      "rating": 4.0,
+      "verified": true,
+      "author": "Ann Lokey ",
+      "helpful_votes": 0,
+      "publication_date": 20200111
+    },
+    {
+      "title": "My dog loves these",
+      "text": "I found one of these in Walgreens for my dog when she was a puppy I was looking at it and she climbed in it when I tried to take her out she growled at me so we ended up buying it she still has it today it lasted forever she's 2 years old and now I have a new puppy that stole her old one so I bought her another one",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Amelia B.",
+      "helpful_votes": 0,
+      "publication_date": 20200613
+    },
+    {
+      "title": "Super cozy!",
+      "text": "Bought this bed for my Jack Russell terrier mix and she fits in perfectly. She loves to sleep under layers of blankets so this was the perfect bed for her to feel cozy and snug as if she were indeed under my covers. Only thing I have to say is that the top of it is pretty flimsy and won\u2019t stay up so if she\u2019s wanting to get in I have to lift it for her or she struggles to dig in. Other than that I love it and she loves it.",
+      "rating": 4.0,
+      "verified": true,
+      "author": "Angela",
+      "helpful_votes": 0,
+      "publication_date": 20200121
+    },
+    {
+      "title": "Plush and cozy - great for burrowers",
+      "text": "My dogs like to sleep near me when I'm working in my home office. One of them sleeps in his crate but the other one just lies on the floor. I felt bad for her so I bought this dog bed. She is a 10 lb dachshund-chihuahua mix and loves to burrow. She absolutely LOVES this bed! It is so soft and plush, she goes right to sleep as soon as she crawls inside. This is a new family favorite!",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Kelly",
+      "helpful_votes": 0,
+      "publication_date": 20191004
+    },
+    {
+      "title": "My puppy absolutely loves this thing",
+      "text": "We have an 11-week-old French Bulldog puppy who loves this thing like nothing else we've given her. She crawls inside and lets her head hang out. It's nice and warm and cozy inside, and sometimes she sleeps on top of it. It's machine washable, and came out perfectly clean after an accident. I'm very pleased with this item.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "K. Pate",
+      "helpful_votes": 0,
+      "publication_date": 20200421
+    },
+    {
+      "title": "It was hard to work off of sizing in description ...",
+      "text": "It was hard to work off of sizing in description. My dog only weighs 9 pounds but she has very long legs (12\") so even though she fit into this if I placed her in it backwards all folded up, she could/would not get in it on her own. There was not a larger size available so I tore it apart and added a strip of emergency blanket (for warmth) to give her room to maneuver. Now it fits her.",
+      "rating": 3.0,
+      "verified": true,
+      "author": "STraveler",
+      "helpful_votes": 0,
+      "publication_date": 20180518
+    },
+    {
+      "title": "My dog hates it - afraid of it",
+      "text": "There is no \"body\" or substance to the structure of this so the top or \"roof\" does not stand up as in the photo. I'm looking for another one. The dog literally would have to lift the top to find their way inside. Very disappointing. Don't let the photo fool you - should be removed or a real photo inserted. Miss-leading",
+      "rating": 1.0,
+      "verified": true,
+      "author": "Jana",
+      "helpful_votes": 0,
+      "publication_date": 20200127
+    },
+    {
+      "title": "Fabulous product!",
+      "text": "Buy this product! My yorki puppy loves it!! He feels safe and easily settles for a nap. This is the best puppy purchase we made. Puppy was picked up from breeder and had to endure a 14 hour drive home. He immediately crawled in and layed so that he could see his human family. He often runs to the cuddle cave, jumps in and plops down watching everything that is happening around him..",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Kristine Bailey",
+      "helpful_votes": 0,
+      "publication_date": 20200717
+    },
+    {
+      "title": "Puppy loves it!",
+      "text": "My puppy loves this thing. He doesn\u2019t sleep in it like I intended, but he loves playing in it and can spend a good 20 mins digging his body all the into it and that\u2019s money well spent to me! Maybe one day he will sleep in it, but either way, I\u2019m happy with it!",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Aimee",
+      "helpful_votes": 0,
+      "publication_date": 20200710
+    },
+    {
+      "title": "A nice snuggly place for my little dog.",
+      "text": "I bought this little bed for my small dog to stay warm in for the winter months. She seems to like it, but sleeps on top of it most of the time. The padding is all on the top...not much on the bottom, so that might by why. I havn't washed it yet so I don't know how well it will go through the laundry. I wish the bed was a little bigger and more padding on the bottom, but other than that I am happy with this purchase.",
+      "rating": 4.0,
+      "verified": true,
+      "author": "Fairann",
+      "helpful_votes": 0,
+      "publication_date": 20181208
+    },
+    {
+      "title": "Miley loves her new bed!",
+      "text": "My 15 lb Boston Terrier loves her new bed! She's a snuggler, so she was all too happy to crawl inside. As you can see, there's ample room. The bed is extra soft and squishy.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "S. Elliott",
+      "helpful_votes": 4,
+      "publication_date": 20180120
+    },
+    {
+      "title": "Excellent quality,  perfect size",
+      "text": "My cat loves to tunnel. If i leave my puffy jacket on the sofa, she ends up in the sleeve. I have been on the lookout for a mini sleeping bag. I even contacted sporting goods stores to see if i could by the tiny demos. This was exactly what she needed, even better as its so plush and warm on the inside. The sage green is a beautiful shade. She didn't immediately take to it, but now she goes in it at night. Definitely recommend if you're cat likes to be covered.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Megan Chance",
+      "helpful_votes": 0,
+      "publication_date": 20190917
+    },
+    {
+      "title": "Happy but I wish I would have gotten one a little bigger",
+      "text": "My dogs love it, but unfortunately they don\u2019t really get inside cause it\u2019s a little too small for them. I\u2019d suggest ordering bigger than you think you need. By the time I realized that it was too tight for them to get inside, it didn\u2019t matter cause it\u2019s comfortable enough for them to just lay on.",
+      "rating": 4.0,
+      "verified": true,
+      "author": "Gerardo Garza",
+      "helpful_votes": 0,
+      "publication_date": 20200116
+    },
+    {
+      "title": "Pup loves it!",
+      "text": "Bought this for my ole gal who likes to mess up my bed to burrow and she took to it after a couple days! Took a little coaxing but she loves to both sleep inside of it and on top of it depending on her mood. Haven't washed it yet so I'm not sure how it'll turn out after, but so far so good!",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Cat",
+      "helpful_votes": 0,
+      "publication_date": 20200428
+    },
+    {
+      "title": "Perfect cozy fit!",
+      "text": "My dog, a small Chorkie, absolutely loves this! He only weighs 7.5 pounds and he gets so cold at night so this is the perfect solution. It\u2019s so plush, warm and soft. He climbed in and stayed there all night long. This bed is perfect for our Midwest winters. He has plenty of room, but he\u2019s pretty small. If you have a small dog this is well worth the purchase!",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Becky",
+      "helpful_votes": 0,
+      "publication_date": 20191203
+    },
+    {
+      "title": "Great for small dogs as well as cats",
+      "text": "I love this cat/dog bed. My 8lb Maltese tried it first, she had problems getting in and turning around (hence for the 4 stars instead of 5) so I gave her some help. However, she loved it I did buy it for our cat, she has not had the opportunity to try it yet. This bed may also work great in storms.",
+      "rating": 4.0,
+      "verified": true,
+      "author": "evaline c.",
+      "helpful_votes": 0,
+      "publication_date": 20191004
+    },
+    {
+      "title": "My dog took to this IMMEDIATELY!",
+      "text": "My rescue dog took to this bed IMMEDIATELY! He sits on top of it and when sleepy goes inside. I would recommend this to anyone with a small dog. I actually have 2 of them. At night I put it at the foot of the bed and he sleeps right there. Amazing!!!",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Tim",
+      "helpful_votes": 0,
+      "publication_date": 20200622
+    },
+    {
+      "title": "The bed needs to be able to stay opened.",
+      "text": "While this Pet bed is super comfy, it's not comfortable for my yorkie to get into because it does not stay opened, so she seems scared that she would get stuck in there. We open it up with our hands and she gets in, but comes back out. We can tell she loves the softness, because she lays down on the carpet with her head inside the bed. If the opening stayed opened and didn't collapse like it does, I think she would go inside all the time.",
+      "rating": 3.0,
+      "verified": true,
+      "author": "Franny",
+      "helpful_votes": 0,
+      "publication_date": 20200223
+    },
+    {
+      "title": "I'd like to sleep cozy in one",
+      "text": "I wish my cats did. They don't. My cats are finicky adults and they just don't care to go in theirs and they live in a cold barn. They prefer to sleep in boxes, perhaps the boxes these were shipped in! Maybe if they were kittens and had adapted early to their use...",
+      "rating": 4.0,
+      "verified": true,
+      "author": "I. M. Listening",
+      "helpful_votes": 0,
+      "publication_date": 20200206
+    },
+    {
+      "title": "My puppies love it! And kittens!",
+      "text": "I was worried it was going to be to small but it is actually pretty large! It gives my dogs so much room inside and they love snuggling in it. Update: I have had this for a couple of months and my dogs still love it. Today we rescued 7 week old kittens and they love it just as much! I may have to get another!",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Sean Corcoran",
+      "helpful_votes": 0,
+      "publication_date": 20190723
+    },
+    {
+      "title": "Very soft",
+      "text": "Both dogs love it. Ones 8lbs the other is 14lbs. They both fit. I don't think it would work well for anything much bigger than my 14lb mix. It's a little small for her but she makes it work for the 3mins she can get in there b4 the other puppy trys to get in with her.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "maj1913",
+      "helpful_votes": 0,
+      "publication_date": 20200110
+    },
+    {
+      "title": "Opening Collapses",
+      "text": "Everything about this bed is good except it does collapse and my little dog is very hesitant to crawl inside. Once he's in he's warm and cozy. In hindsight I wish I had chosen one that had a stiffer opening rather one that collapses.",
+      "rating": 3.0,
+      "verified": true,
+      "author": "June Elizabeth Evans",
+      "helpful_votes": 5,
+      "publication_date": 20161116
+    },
+    {
+      "title": "Perfect for small cats, great material.",
+      "text": "We looked for cat beds at the big name stores that were double or triple the price of this item and I'm so glad we bought online. The bed is super soft, the material isn't a magnet for dirt/hair so it stays clean, and our cat loves it. Photo with SO included to show size. Note: cat is an abyssinian and very small.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Meredith",
+      "helpful_votes": 2,
+      "publication_date": 20171111
+    },
+    {
+      "title": "10lb chi weenie loves it.",
+      "text": "I warm it up with a hairdryer in the morning so my chiweenie can hang out with me in the bathroom in the mornings without shivering.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Amazon Customer",
+      "helpful_votes": 0,
+      "publication_date": 20191201
+    },
+    {
+      "title": "SUPERIOR \"MUST HAVE\" PRODUCT for small dogs",
+      "text": "The absolute BEST self warming snuggle cave pet bed for small dogs. The fabric materials, style and design of this product is similar to a mini sleeping bag and keeps my 5 pound Yorkshire Terrier as snug as a bug in a rug. Lightweight. Travels well and fits any space you desire. The Sleep Zone Cuddle Cave is a MUST HAVE product for any small pet owner.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "McAllister Family",
+      "helpful_votes": 4,
+      "publication_date": 20171112
+    },
+    {
+      "title": "dog bed",
+      "text": "My 5 lb yorkie doesn't like it because it is too hard for her to get in and turn around. I'm going to have to modify it so she can actually use it. it's overstuffed, the top collapses and it's too small in the rear for her to go very far in.",
+      "rating": 2.0,
+      "verified": true,
+      "author": "Chris Acosta",
+      "helpful_votes": 0,
+      "publication_date": 20201021
+    },
+    {
+      "title": "She loves it!",
+      "text": "Our dachshund puppy love loves her new bed. While she will probably outgrow it eventually, while she is so little it has been a godsend. Once we showed her the entrance a few time (she got on top of it at first) now she jumps right in a snuggles down. One thing to note\u2014 the underside is actually thinner and the top is nicely thick. We actually set this on top of a pad between it and the floor.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Out in the country",
+      "helpful_votes": 0,
+      "publication_date": 20190101
+    },
+    {
+      "title": "Best for burrowing dogs!!",
+      "text": "If you have a dog or cat that loves to burrow GET THIS BED!! My miniature dachshund (12 yrs old and 10 pounds) absolutely loves it!!! As soon as I opened the package and set it on her other blankets she immediately knew it was hers and was wagging her tail. She went inside and cuddled. It\u2019s so soft and roomy. I\u2019m so pleased with this product. There was no oder when I opened it at all. I have not washed it since it\u2019s brand new but I\u2019d buy it again if needed.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Sherry Jones",
+      "helpful_votes": 0,
+      "publication_date": 20191117
+    },
+    {
+      "title": "Nite Nite",
+      "text": "This bed is WONDERFUL!! I bought the color green. My 11 pound cat took to it immediately and fits just perfect in there. She is a snuggler. The material inside bed won't shift around (or clump) which is good. Love it!! Great service. Arrived in 2 days as expected. Thank you all",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Bwag",
+      "helpful_votes": 0,
+      "publication_date": 20190309
+    },
+    {
+      "title": "Winner winner",
+      "text": "*** I had to come update my review*** My Maltipoo puppy loves his new bed! He plays inside of it, then falls asleep on top. Seems to be holding up to his razor sharp teeth too. *I\u2019ve had to wash and tumble dry this bed about a half dozen times in hot water because, you know, puppies... it\u2019s holding up like new - wash after wash.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "aKISSinAZ",
+      "helpful_votes": 0,
+      "publication_date": 20181124
+    },
+    {
+      "title": "Cozy spot for a pup on a winter day!",
+      "text": "My miniature dachshund, Bertie, seems to love this! I worry that he is chilly in the winter, we live in an old house that can be drafty, and he doesn\u2019t really like blankets wrapped around him. He seems very comfortable and cozy snuggling in this little sleeping pod. He is about 14\u201d long from base of his neck to base of his tail and weighs about 9.5 lbs and the size of this is plenty roomy for him while still being cozy. I think even dogs who are a bit longer and weigh a bit more than him would be comfortable as well.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Emily Lilley",
+      "helpful_votes": 0,
+      "publication_date": 20191210
+    },
+    {
+      "title": "Perfect for kittens or small cats and dogs.",
+      "text": "Our kitten loves plush cozy blankets and crawling into bags, so we bought this for the upcoming Winter. His favorite things combined. This bed is super plush and soft. The opening stays open. It is like a cozy thick sleeping bag cave. They need to make these in people size!! If you have a small dog or sleek petite cat, they will fit. Our big fat cat does not fit at all. Our kitten is around 3 months old and it is perfectly comfy for him.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "TsunamiMommyTop Contributor: Pets",
+      "helpful_votes": 0,
+      "publication_date": 20160911
+    },
+    {
+      "title": "My cat loves the supreme softness!",
+      "text": "My old lady cat took only took one day to decide this bed is where it\u2019s at! She\u2019s a little thing at 6 lbs or so, and it\u2019s perfectly sized for her to burrow in and curl up. She\u2019s been obsessed with being under the blankets, now she can snuggle in when I\u2019m not home!",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Lynn Manning",
+      "helpful_votes": 0,
+      "publication_date": 20200108
+    },
+    {
+      "title": "Great for Chihuahua",
+      "text": "My 7 pound chihuahua loves it. He took right to itI noticed some reviews complaining that the entrance collapses down and won\u2019t stay open. That is true, but for chihuahuas that\u2019s ideal, as they are burrowers. I would by this product again",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Wiliford",
+      "helpful_votes": 0,
+      "publication_date": 20191123
+    },
+    {
+      "title": "MY CHIHUAHUA WOULDN'T COME OUT",
+      "text": "My little 5-pound Chi seemed to KNOW this was hers from the start even though she is one of four small dogs! She crawled in after she watched me unwrap it and was dead weight when I tried to pull her out, ha ha! She LOVES it, but still preferred digging under the covers to snuggle with Mommy when it was time for bed. Hard to replace a Mommy's love, but it gave me a run for my money! Very soft and cozy bed. Will buy again for my Chihuahua/Chinese Crested hairless mix who wasn't allowed in this first one, lol!!",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Amazon Customer",
+      "helpful_votes": 2,
+      "publication_date": 20170307
+    },
+    {
+      "title": "I have the only dog that does not like it",
+      "text": "My little 5 pound 2 yr old chiweeney did not like this bed at all. I passed it along to my sisters black lab puppy. She will outgrow it quickly hopefully she will like it and use it. After that, to the humane society it will go.",
+      "rating": 3.0,
+      "verified": true,
+      "author": "Waitingformyshepherd",
+      "helpful_votes": 0,
+      "publication_date": 20191212
+    },
+    {
+      "title": "Chihuahua Loves It So Much I Bought Another One.",
+      "text": "I literally just received a second one of these for another room because our Chihuahua wants to be in it all the time. So now we have one for the living room and one on our office desk where she resides quite a lot of the time. Great idea and so far it's been great of our little one.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Tommy Engel",
+      "helpful_votes": 0,
+      "publication_date": 20190311
+    },
+    {
+      "title": "My Miniature Dachshund's new home",
+      "text": "Bentley, my miniature dachshund, loves this thing. I have it in my closet and he will go and borough up inside of this cuddle cave. I have three other dogs as well, but I probably wouldn't recommend this for larger breeds. I have a beagle as well that is a bit bigger than the dachshund but she probably wouldn't enjoy it nearly as much.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "QQ",
+      "helpful_votes": 0,
+      "publication_date": 20200426
+    },
+    {
+      "title": "Very soft & snuggly",
+      "text": "Our dog really likes this bed! It's well-made and so soft and comfy. Chico is still hesitant to crawl in on his own but when I lift it open he climbs right in and snuggles up. He tends to be a nervous dog, wary of new things so with additional training I think he'll get in on his own.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "TheSeasideSucculent",
+      "helpful_votes": 0,
+      "publication_date": 20171220
+    },
+    {
+      "title": "Very soft and cozy",
+      "text": "Super cozy, soft, and light weight. My kitty loves it. She was in it within 20 seconds when I showed it to her. I keep my home a little on the cool side, and this is warmer for her, too.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Karen S",
+      "helpful_votes": 0,
+      "publication_date": 20200111
+    },
+    {
+      "title": "My cats didn't like this but wholy heck I would sleep on this thing",
+      "text": "Great value for the high-quality materials you are receiving in this bed. Unfortunately my kittens preferred the more traditional cave-type bed. Regardless, I'm impressed by how soft and plush this thing is!",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Callista Hoxie",
+      "helpful_votes": 0,
+      "publication_date": 20200506
+    },
+    {
+      "title": "Very soft but dog won\u2019t use it!",
+      "text": "If I were a small Chihuahua-sized dog, I would delike this. Unfortunately, our dog isn\u2019t as easy to please. He loves to burrow but can\u2019t seem to grasp the concept of this cozy cave.",
+      "rating": 4.0,
+      "verified": true,
+      "author": "Kim A. Tomey",
+      "helpful_votes": 0,
+      "publication_date": 20200618
+    },
+    {
+      "title": "Small dog refuses to go inside it.",
+      "text": "I gave this 3 stars because I purchased it for my little dog to feel secure. Unfortunately she does not want to go in it. At the most she will squish it and sit on it. A lot of money for not used for what it's intended for.",
+      "rating": 3.0,
+      "verified": true,
+      "author": "Kerryp",
+      "helpful_votes": 0,
+      "publication_date": 20191219
+    },
+    {
+      "title": "real cute but my doggy lays on top",
+      "text": "He has only been inside once - but I think that's just his preference. He turns his square bed upside down and gets underneath it to sleep - This one he pretty much uses as a pillow",
+      "rating": 4.0,
+      "verified": true,
+      "author": "Roxie",
+      "helpful_votes": 0,
+      "publication_date": 20200109
+    },
+    {
+      "title": "Stop creating this",
+      "text": "Don't buy it, it killed my little puppy the bed started to rip easy and the puppy neck got caught with the string. Freakn b.s man",
+      "rating": 1.0,
+      "verified": true,
+      "author": "Steve",
+      "helpful_votes": 0,
+      "publication_date": 20200728
+    },
+    {
+      "title": "doggie loves it.",
+      "text": "I an my Chihuahua loved it. She loves to be covered to stay warm and this fits the bill and gives her the privacy she likes. Haven't washed it yet but by looking at it I think it will do very well.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "meme57",
+      "helpful_votes": 0,
+      "publication_date": 20191217
+    },
+    {
+      "title": "Great for cats who like to be under covers and warm.",
+      "text": "A fantastic private sleeping spot for your cat. It is snuggle heaven if you 2 cats that like to do. It's great for winter time because it does get quite warm in there. It's also great if your cat likes to be under the covers with you.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Garmia",
+      "helpful_votes": 0,
+      "publication_date": 20190513
+    },
+    {
+      "title": "It collapses. Won\u2019t stay propped opened.",
+      "text": "It\u2019s very comfy but it collapses on its own. It won\u2019t stay open and my puppy has a hard time getting in. She ends up sleeping on top of it which is against the main purpose we had when buying it. To keep her covered and warm.",
+      "rating": 2.0,
+      "verified": true,
+      "author": "MDK212",
+      "helpful_votes": 0,
+      "publication_date": 20191014
+    },
+    {
+      "title": "My dog refuses to use it.",
+      "text": "Jack doesn't like it. the bottom is too flimsy, so when he tried to enter, it came up. He's too used to blankets and a mattress. If anyone wants to buy mine, I'll give em a deal on it. Otherwise it'll sit around for years until I give it away to someone. I think if i took EVERYTHING away from Jack, and it was either the cold floor or this floppy pillow with a hole in it, then he might use it.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "Chris",
+      "helpful_votes": 0,
+      "publication_date": 20200602
+    },
+    {
+      "title": "Great comfort",
+      "text": "This was exactly what I was looking for since my cat crawls into things to play and sleep, but she just would NOT touch it!! So sad for her cuz this product was amazingly soft and comfortable!!",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Christina Bindl",
+      "helpful_votes": 0,
+      "publication_date": 20200115
+    },
+    {
+      "title": "Can fit adult cat, looks like. Soft.",
+      "text": "Sits in the corner unused. No way to get cats interested. Saw at drug store for $7 the exact same bed. Not worth it for me and my cats.",
+      "rating": 2.0,
+      "verified": true,
+      "author": "SrvivlKittsn",
+      "helpful_votes": 0,
+      "publication_date": 20200503
+    },
+    {
+      "title": "Perfect for perpetually cold pups",
+      "text": "Our 4.5 month old Chihuahua puppy is always cold. This seemed like the perfect solution. I first found her sleeping on top of it and, after showing her the idea, she now loves hanging out on her cave.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Brutus",
+      "helpful_votes": 0,
+      "publication_date": 20200601
+    },
+    {
+      "title": "It's Washable",
+      "text": "My little Chihuahua took right to it. The main thing I like about it is it's washable. The bed was perfect for her but be careful what size you get, this one wouldn't take any pet larger.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Smart Shopper",
+      "helpful_votes": 0,
+      "publication_date": 20190914
+    },
+    {
+      "title": "blob",
+      "text": "The den concept is a good idea and the bed is super soft, but there is no structure. It is just a big cushiony blob. Neither of my dogs had any interest in it. The only way to salvage this is to use it as a foot warmer.",
+      "rating": 2.0,
+      "verified": true,
+      "author": "Cdhiccup",
+      "helpful_votes": 0,
+      "publication_date": 20190430
+    },
+    {
+      "title": "Cute",
+      "text": "I have a dachshund and it seems a little off for him and and he won't stay inside, unfortunately. Ill keep trying very pretty color and soft",
+      "rating": 4.0,
+      "verified": true,
+      "author": "FUENTES",
+      "helpful_votes": 0,
+      "publication_date": 20200524
+    },
+    {
+      "title": "Too small for my 21pd Doxy",
+      "text": "This bed is super high quality, it\u2019s soft and fluffy. My dog loved it but he couldn\u2019t turn around it. It\u2019s very narrow. He has a much larger burrow bed that he can get into and turn around much more easily. Had to send this one back :-(",
+      "rating": 4.0,
+      "verified": true,
+      "author": "Chrissy Plenge",
+      "helpful_votes": 0,
+      "publication_date": 20180109
+    },
+    {
+      "title": "Not great",
+      "text": "A bit smaller then I expected and my dog is dumb, even though he loves crawling under blankets he can\u2019t figure out how to climb into this thing. Thought he would love it and he hates it. To complicated for a dog brain..",
+      "rating": 2.0,
+      "verified": true,
+      "author": "Amber Goeringer",
+      "helpful_votes": 0,
+      "publication_date": 20190310
+    },
+    {
+      "title": "A bit snug for a full-grown cat..but works well for a kitten (or two).",
+      "text": "This would be great for a couple of small kittens. I bought it for a single full-grown cat...too small. But I did have a use for it - a gift for a friend with a new kitten. Her baby loves it. Good quality, well made and the color goes with anything. Very lush and toasty-looking.",
+      "rating": 4.0,
+      "verified": true,
+      "author": "Marilyn Gore",
+      "helpful_votes": 0,
+      "publication_date": 20180531
+    },
+    {
+      "title": "my toy poodle loves it",
+      "text": "my little dog loves to crawl in and keep himself warm. wherever we put it he crawls in . sometime she will take one of his toys in it with him!",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Beej",
+      "helpful_votes": 0,
+      "publication_date": 20200105
+    },
+    {
+      "title": "I highly recommend this product!",
+      "text": "I have two cats and purchased one to start with to get a feel for if they would like it. As soon as I opened the package and put it down...my bigger of the two cats crawled right in! They LOVE IT! So I ordered the second one. During the warmer days they love to lay on top. On the cooler nights they each crawl into one and lay side by side. I highly recommend this product!",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Jennifer Dodson",
+      "helpful_votes": 0,
+      "publication_date": 20160904
+    },
+    {
+      "title": "Great quality.",
+      "text": "My cat loves to burrow. She cried when she can't find a suitable place. I thought she would like this, but she won't go in it. It's super soft and has plenty of fluff so I would think it's comfortable. It could be that it's a little too small for her. Either way, I found the bed to be of great quality.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Elk401",
+      "helpful_votes": 2,
+      "publication_date": 20160624
+    },
+    {
+      "title": "make sure your dog is small!",
+      "text": "this is great, but i underestimated my dog's size. she's a bit too large, tho she does love to burrow, but she cannot get herself completely inside. well made, very soft, washes well. best for tiny tiny dogs.",
+      "rating": 4.0,
+      "verified": true,
+      "author": "loki",
+      "helpful_votes": 0,
+      "publication_date": 20180110
+    },
+    {
+      "title": "Worth the buy!",
+      "text": "I\u2019m thinking of buying another one becaus we bought this for my chihuahua but our cats love it so much and try to steal it all the time! It\u2019s great. And is wonderful quality. Has held up wonderfully. Even through a few accidents",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Ari",
+      "helpful_votes": 0,
+      "publication_date": 20191114
+    },
+    {
+      "title": "Cozy",
+      "text": "We received it today. At first our little guy was afraid of going inside. He ran out and later on laid on top of it but at the end of the night he was cuddled inside.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Laura Estrada ",
+      "helpful_votes": 0,
+      "publication_date": 20191215
+    },
+    {
+      "title": "Great so far",
+      "text": "This was Romulus and Remus reacting to me trying to take it away. I think we have a winner!",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Lira",
+      "helpful_votes": 0,
+      "publication_date": 20200713
+    },
+    {
+      "title": "Best Cuddle Cave",
+      "text": "Sir Buddy Meowingtons is in love with his new cuddle cave! He likes crawling inside but also enjoys laying on top. Best gift ever!",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Alison Sipos",
+      "helpful_votes": 0,
+      "publication_date": 20191224
+    },
+    {
+      "title": "I did not like this product",
+      "text": "I did not like this product .. my cats refused to use it. the picture did not really make it cleat that the ceiling of this is soft and falls in. for a cat to get inside of it they have to push the ceiling up - might be ok for dogs - but my cats would have nothing to do with it.",
+      "rating": 2.0,
+      "verified": true,
+      "author": "hilda",
+      "helpful_votes": 0,
+      "publication_date": 20180211
+    },
+    {
+      "title": "Wish it were larger.",
+      "text": "Our small dogs love this, but I wish it were larger. It's just...small. Even our 10lb dogs make this look small.",
+      "rating": 4.0,
+      "verified": true,
+      "author": "Charlie",
+      "helpful_votes": 0,
+      "publication_date": 20200320
+    },
+    {
+      "title": "Chihuahua snuggles in and is sleeping great. It is a great buy",
+      "text": "I wish that I had this cuddle cave years ago. My 12 yr old, 10 lb. Chihuahua snuggles in and is sleeping great. It is a great buy.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "partyof7",
+      "helpful_votes": 2,
+      "publication_date": 20180116
+    },
+    {
+      "title": "2 and a 1/2 pound yorkie thinks it's heaven",
+      "text": "Really they should ask what my pet likes about it and the answer would be everything",
+      "rating": 5.0,
+      "verified": true,
+      "author": "KCS",
+      "helpful_votes": 0,
+      "publication_date": 20200603
+    },
+    {
+      "title": "Not evenly stuffed",
+      "text": "The top part is very well stuffed and a bit heavy as a result, while the bottom where the dog is supposed to lay on is very thin and the stuffing is stuck together. Not sure I will be keeping this for long",
+      "rating": 3.0,
+      "verified": true,
+      "author": "Julia",
+      "helpful_votes": 0,
+      "publication_date": 20190117
+    },
+    {
+      "title": "Super soft but really small",
+      "text": "This bed is super soft and seems well made, but it is small! The dog would have to be a small breed or teacup size to comfortably fit!",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Liz Darden",
+      "helpful_votes": 0,
+      "publication_date": 20191105
+    },
+    {
+      "title": "Well made",
+      "text": "Well, my chihuahua/corgi loves to sleep on top of it, but he won\u2019t go inside to burrow. He still only does that in bed!",
+      "rating": 4.0,
+      "verified": true,
+      "author": "tim m grand",
+      "helpful_votes": 0,
+      "publication_date": 20200121
+    },
+    {
+      "title": "They love this - comfy",
+      "text": "My small dogs get in it and my larger(20 lb) pups lay on top of it. Throw it in washer and air dry",
+      "rating": 5.0,
+      "verified": true,
+      "author": "man",
+      "helpful_votes": 0,
+      "publication_date": 20200530
+    },
+    {
+      "title": "Highly recommeded",
+      "text": "This bed is the best. My chiweenie loves it! I got it for under my desk at work & it works so well that I got one for the car. We live in a cold climate so it's perfect.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Glynda S",
+      "helpful_votes": 0,
+      "publication_date": 20191030
+    },
+    {
+      "title": "Cute Cave Bed for Small Dog!",
+      "text": "Its a very cute little cave bed, but only for a very small dog. Our dog is only 11 pounds, but she couldn't hardly fit in it, and I had to return it. If you have a 5 lb or smaller, it would be okay for them.",
+      "rating": 4.0,
+      "verified": true,
+      "author": "M. Uratani",
+      "helpful_votes": 0,
+      "publication_date": 20181007
+    },
+    {
+      "title": "satisfied customer",
+      "text": "very soft and plush. i put a flexible strip inside to hold it open. easy fix. dog loves it. keeps him warm.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Pat Kellim",
+      "helpful_votes": 0,
+      "publication_date": 20191229
+    },
+    {
+      "title": "My dog likes it",
+      "text": "Shipped and arrived very quickly. Exactly as stated, a little bigger than I thought it would be, but my 5lb chihuahua seems to like it. Very soft and cushioned and I'm really glad its machine washable.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Kindle Customer",
+      "helpful_votes": 0,
+      "publication_date": 20190301
+    }
+  ],
+  "product_meta": {
+    "price": "",
+    "specifications": {}
+  }
+}

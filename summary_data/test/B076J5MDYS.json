@@ -1,0 +1,960 @@
+{
+  "website_summaries": [
+    {
+      "verdict": "With plug-and-play simplicity and a fair price point, the HomeKit-enabling WeMo Bridge is a worthwhile upgrade for the platform's iOS faithful.",
+      "pros": [
+        "Belkin's WeMo Bridge works as promised, instantly bringing your existing devices on board with Apple HomeKit and bringing Siri controls into play, too",
+        "It's easy to use, it's fairly priced and it supports first-gen WeMo devices that aren't even sold anymore"
+      ],
+      "cons": [
+        "You'll still need an Apple TV, a HomePod or a dedicated iPad in order to use WeMo's new HomeKit controls from beyond your home network",
+        "Support for WeMo's motion detectors is still a work in progress, and niche WeMo offshoots like its connected coffee maker, Crock-Pot and LED light bulbs aren't supported at all"
+      ],
+      "aspects": {
+        "Features": 7.0,
+        "Usability": 8.0,
+        "Design": 8.0,
+        "Performance": 8.5
+      },
+      "publication_date": 20180719,
+      "rating": 7.8,
+      "source": "cnet"
+    }
+  ],
+  "customer_reviews": [
+    {
+      "title": "Unreliable, requires frequent manual resets",
+      "text": "Every few weeks this fails leaving Wemo devices with a \"No Response\" status in Apple Home. Wemo support's solution was to restart the device and wait for it to happen again. Now that the device has failed again they are not responding to support requests. UPDATE - Support finally responded and sent a second unit (they did me \"a favor\" and didn't charge me shipping). The second unit has started having the exact same issue after 10 weeks of use.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "Jon",
+      "helpful_votes": 59,
+      "publication_date": 20180425
+    },
+    {
+      "title": "Sporadically works",
+      "text": "It does work but unfortunately sporadically. It keeps showing light on when they are not. I have to reboot it to get it working again. That is not good if you are away. I had to come back and change my review. this thing is terrible. it does not work correctly enough. it constantly has to be rebooted to get the settings correct. I even reset it thinking it would fix the issue and it is just not working. I would not recommend this product",
+      "rating": 1.0,
+      "verified": true,
+      "author": "DOLIMITE",
+      "helpful_votes": 21,
+      "publication_date": 20180205
+    },
+    {
+      "title": "COMPLETELY UNRELIABLE",
+      "text": "Don\u2019t bother with this device. It is complete garbage. I have had this for 6 months and it constantly requires a reboot. The Wemo devices are ALWAYS losing connection and I constantly have to switch to the Wemo App to try to get anything to work. And even then, they take forever to do anything and for the device to be detected. Tech support doesn\u2019t help and replacing it with a new one will just have the same problems. I can\u2019t believe they\u2019ve allowed this problem to go on for so long. I finally unplugged it as of today.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "Amazon Customer",
+      "helpful_votes": 16,
+      "publication_date": 20180916
+    },
+    {
+      "title": "Concept is good, but loses contact with Wemo devices",
+      "text": "It kept losing contact with wemo devices. Reset and tried again, but hours later when I returned home same issue.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "TPO",
+      "helpful_votes": 19,
+      "publication_date": 20180427
+    },
+    {
+      "title": "Happy that I now have my wemo devices accessible via ...",
+      "text": "Meh. Happy that I now have my wemo devices accessible via homekit - but now I wonder if they'll be accessible without this dongle via the upcoming HomeKit software authentication for iOS 11.3 I'm getting tired of all these 'bridges' attached to my router. edit: Throughout the months my Wemo devices will suddenly become unresponsive in Homekit. Requiring troubleshooting which ranges from rebooting the ATV, rebooting the Wemo Bridge, trying to find something that will fix the issue. When it works it's great, but it has been a headache to randomly have issues while all my other devices are responsive. Honestly if I can find a better brand for outlet control/monitoring I'll switch.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "B Coyle",
+      "helpful_votes": 11,
+      "publication_date": 20180202
+    },
+    {
+      "title": "Not Great - Goes offline a lot and needs to be restarted.",
+      "text": "I really wanted to like this product. I've had Wemo devices since they were testing them. While the Wemo software is a little clunky, it works. I was happy to see this bridge would finally allow the wemo switches I have to work with HomeKit. It works - but I have to unplug it every other day because it constantly goes offline. I moved my light schedules from the Wemo app to the HomeKit for more features, but when the bridge is offline, it doesn't work. Really frustrating. This has happened since day one. Oh well.",
+      "rating": 2.0,
+      "verified": true,
+      "author": "Ronald H",
+      "helpful_votes": 5,
+      "publication_date": 20180627
+    },
+    {
+      "title": "Always offline",
+      "text": "This works great as long as you reboot it once a day. I don't have time to check it every time I want to use it. SO if you like rebooting before you need it, you are in luck, otherwise it's a piece of crap. FYI, all the devices are still accessible via the WEMO app on my smart phone and I can still run them via that app, but the bridge is a piece of junk.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "NGL",
+      "helpful_votes": 3,
+      "publication_date": 20181118
+    },
+    {
+      "title": "Into the future of homekit",
+      "text": "I'm a big fan of homekit, and a big fan of devices like this that retrofit older devices into my homekit page. It works really well, the only problem is that sometimes... it just doesn't. I actually have ended up adding a wemo swtich to the power source the cycle the power whenever it happens through their own app and that resets it all and they come back to life in homekit. Its not a big deal, but its annoying as less savvy tech people like my wife don't know to do that. With luck I'm sure I could automate it, I just wish it worked 24/7 without that problem.",
+      "rating": 4.0,
+      "verified": true,
+      "author": "JLowe",
+      "helpful_votes": 0,
+      "publication_date": 20200214
+    },
+    {
+      "title": "Easy to used and install. Money saver for IoT",
+      "text": "I research a lot before i decide with which smart switches i go with, so i decide to use Wemo because are very reliable and way cheaper than other brands. Like any Prime Member fast delivery. Something that i can mention is since i install and connected to my 8 Wemo Light Switch around my house only 1 disconnect from my network, not sure if was my network or the device. Also i give 3 instead 5 stars because their Tech Support, there ok but some of the tech do not listen and they just read a bad broken script. I do like this Wemo hub and Wemo products because there work fantastic and simple and cheaper.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Terranova",
+      "helpful_votes": 0,
+      "publication_date": 20190130
+    },
+    {
+      "title": "Works perfectly with HomeKit and older WeMo Switch Smat Plug",
+      "text": "We have an older WeMo Switch Smart Plug that we use in the garage to turn on/off a pair of overhead LED lights that we installed. The older plug is not HomeKit compatible, and we had to use the WeMo app to control it. We purchased this hub so we can control the lights through HomeKit for convenience and Siri control. The hub installed as simply as WeMo claims, and we haven\u2019t had any problems at all. It detected the switch right away and HomeKit detected the hub right away. We are very pleased with this purchase!",
+      "rating": 5.0,
+      "verified": true,
+      "author": "jstand6",
+      "helpful_votes": 2,
+      "publication_date": 20181102
+    },
+    {
+      "title": "Be very careful about naming your devices. Apple  only works if  all names match. Doesn\u2019t pair well.",
+      "text": "Product never worked as advertised. Only connected to Apple HomeKit. After that, HomeKit only found 2 Wemo devices, never found any of the other 3 Apple-supported devices. Maybe HomeKit\u2019s fault, but I bought bridge for that purpose and it failed. Wemo tech support was clueless. Called 3 times and each tech had me go through the same procedures found in troubleshooting Q&A\u2019s. They were all polite and tried to help, but no fix was ever produced. Suggestions: HomeKit not ready for prime time, I\u2019ll just stick with my iPhone Google assistant that easily connects to all my devices!",
+      "rating": 1.0,
+      "verified": true,
+      "author": "DrMark",
+      "helpful_votes": 3,
+      "publication_date": 20180807
+    },
+    {
+      "title": "Strongly dislike that it has to be connected to my router ...",
+      "text": "*UPDATE* November 2019 Has to be power cycled nearly daily now to keep the devices active in the home app. I wont be buying wemo devices again. *UPDATE* August 2018: System still disappears every 20 days or so from the Home app. Useless, irritating and time-consuming. *UPDATE* I\u2019ve had this for a few months now. It\u2019s a constant battle to keep up, I\u2019ve reset it multiple times. Homebridge was a much more stable hub for this. I would not buy this again. \u2014\u2014 Jusst ok. I\u2019ve had to reset it multiple times in the time I have had it. Strongly dislike that it has to be connected to my router (won\u2019t work on a hub).",
+      "rating": 1.0,
+      "verified": true,
+      "author": "Jeff",
+      "helpful_votes": 2,
+      "publication_date": 20180407
+    },
+    {
+      "title": "Pretty much effortless",
+      "text": "I just have some Switches and Light Switches and the Wemo Bridge installed easily into HomeKit and got my Wemo devices into the Home app. My only gripe really has nothing to do with the Wemo Bridge at all, and more to do with HomeKit, which is I prefer to have IoT devices on a guest network instead of my main wifi network. I don't think there's a way to do that for devices that will show up in HomeKit, which sucks considering the terrible security of almost all IoT devices. Other than that, I recommend the Wemo Bridge for HomeKit users with Wemo devices.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Scott",
+      "helpful_votes": 2,
+      "publication_date": 20180917
+    },
+    {
+      "title": "Frustrating",
+      "text": "I have purchased two of these. First one worked for a few months and then would not connect. Bought another (with a Best Buy gift card) and it also worked for a few weeks, then started the same thing. Very frustrating! I'm back to using the WEMO app but wanted to control everything with the Homekit. I have about 20 Wemo devices in our home so maybe I'm pushing it too hard? Argh!",
+      "rating": 1.0,
+      "verified": true,
+      "author": "Dennis Miller",
+      "helpful_votes": 3,
+      "publication_date": 20181203
+    },
+    {
+      "title": "Works great when it wants to.",
+      "text": "I bought into the wemo system because it works with Apple HomeKit and I was hoping that it would be a great fit. I personally would never buy these again. When it works it works great but when it doesn\u2019t work I have to reset the breakers to shut the switches off. It\u2019s not technically the bridges fault but the switches that get deadlocked ok either the on or off position.",
+      "rating": 4.0,
+      "verified": true,
+      "author": "Michael",
+      "helpful_votes": 2,
+      "publication_date": 20181230
+    },
+    {
+      "title": "Works, but only for a short time.",
+      "text": "I bought this a year ago so I could use Homekit to regulate my Wemo devices instead of the Wemo app. Unfortunately it only stays connected to Homekit for about a week then loses connection. I can still access the devices using the Wemo app but this is really frustrating. I depend on these devices working when I'm away from home. So, bottom line, the bridge works but I have to restart it regularly to keep connection to Homekit.",
+      "rating": 2.0,
+      "verified": true,
+      "author": "Ken and Carolyn",
+      "helpful_votes": 0,
+      "publication_date": 20200201
+    },
+    {
+      "title": "Give your WeMo some love, add Siri!",
+      "text": "Added the ability of Siri to HomeKit for my WeMo devices. We don\u2019t have a standing hot water tank as we use an instant Hot Water Heater which isn\u2019t so instant way back in the bathroom, so I added a WeMo switch to the circulator and now I just say \u201chey Siri, turn on the hot water\u201d. Two minutes later there is hot water in all of the pipes. No more running wasted water down the drain waiting for it to get hot.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "SlumLord",
+      "helpful_votes": 0,
+      "publication_date": 20180403
+    },
+    {
+      "title": "Shuts off every few days and everything goes offline",
+      "text": "Shuts off every few days and everything goes offline. Not sure if buying a timer and have it reset each night would help, but wish it worked better. Need to replace all the devices that require the bridge, not sure if I would go wemo again after the experience with this.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "Michael Fiscus",
+      "helpful_votes": 2,
+      "publication_date": 20190424
+    },
+    {
+      "title": "Utter garbage",
+      "text": "Does not reset after power outage or router reboot. Has to be manually reset a few minutes after the rest of the network. Installs easily enough but not nearly reliable enough. I've disconnected it from my Network and just use my multiple WeMo devices through the WeMo App and let HomeKit deal with all the other devices. I see Belkin are now upgrading devices to work with HomeKit without needing this Bridge. Good riddance to it I say!",
+      "rating": 1.0,
+      "verified": true,
+      "author": "why do i need a pen name?",
+      "helpful_votes": 3,
+      "publication_date": 20180818
+    },
+    {
+      "title": "Don\u2019t work",
+      "text": "The worst Wemo product ever, it disconnects every day from de router and your Smart Home is useless. You need to manually disconnect and reconnect this thing to make it work again for a few hours.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "A. Arroyo",
+      "helpful_votes": 3,
+      "publication_date": 20180619
+    },
+    {
+      "title": "... I can add Apple Homekit to the Wemo Mini smart plugs and did what it was supposed to do",
+      "text": "Originally bought so that I can add Apple Homekit to the Wemo Mini smart plugs and did what it was supposed to do; however, the Mini smart plugs had a recent firmware update and the bridge is no longer needed. Wish I knew they were planning on doing that before I bought. No the product's fault, just the company's",
+      "rating": 4.0,
+      "verified": true,
+      "author": "Freddie Won",
+      "helpful_votes": 2,
+      "publication_date": 20180804
+    },
+    {
+      "title": "Wemo good, Homekit bridge not so good.",
+      "text": "I have to unplug and reconnect it multiple times a day it's is updated works with homekit for about 30 minutes then looses conn3ction needs reset. I like all the wemo products besides this one would not recommend it now wait till all the bugs are worked out..",
+      "rating": 1.0,
+      "verified": true,
+      "author": "Corshe",
+      "helpful_votes": 3,
+      "publication_date": 20180817
+    },
+    {
+      "title": "This works. I don't use apple home kit as ...",
+      "text": "This works. I don't use apple home kit as much as I thought that I will. Plus 2 months after purchase this is cheaper now and will soon become obsolete because wemo will add home kit to their devices without this bridge. The mini plug already supports that. Wish I could return it, too late now.",
+      "rating": 3.0,
+      "verified": true,
+      "author": "Alex Secerator",
+      "helpful_votes": 0,
+      "publication_date": 20180820
+    },
+    {
+      "title": "Plug into your network and now Siri controls your Wemo plugs and switches",
+      "text": "It works. Add the code in the Home app on your iPhone and instantly all my Wemo Devices showed up. The only issue I\u2019m having is occasionally it will go offline. It\u2019s happened twice now. Simply unplugging it and plugging it back in brings it back online. That shouldn\u2019t be a normal thing.",
+      "rating": 3.0,
+      "verified": true,
+      "author": "FrankieSP",
+      "helpful_votes": 0,
+      "publication_date": 20200910
+    },
+    {
+      "title": "Constantly losing connection in HomeKit",
+      "text": "I am totally frustrated with this product. It stays connected to HomeKit for only a few days, then disconnects. There is no rhyme nor reason why I easily switched on (and off) my devices last night and then next, they are offline. I could go to the Wemo app to do this, but, that defeats the purpose of Homekit, whereby I can set up scenes, situation, etc. to automate my lights. This bridge needs to constantly be reconnected to HomeKit. Terribly disappointing. BTW, so you know, I am not a newbie with this product. I have had it for over 2 years. I wish I didn't.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "Richard M. Rose",
+      "helpful_votes": 0,
+      "publication_date": 20200330
+    },
+    {
+      "title": "Extremely unreliable - avoid the product line",
+      "text": "I\u2019ve had wemo devices for a good while now, part of my home ecosystem. They are just the least reliable devices. They often randomly become \u201cNot Responding\u201d, whenever Wemo pushes ANY update; expect everything to break and sink hours of rebooting this and reinstalling that. I finally bit the bullet when their last update required me to manually reset and reinstall all of my 11 devices. Went with Lutron Caseta and its day and night. DONT MAKE SAME MISTAKE",
+      "rating": 1.0,
+      "verified": true,
+      "author": "Max",
+      "helpful_votes": 0,
+      "publication_date": 20200620
+    },
+    {
+      "title": "Bings older Wemo products into the homekit ecosystem.",
+      "text": "I was an early adopter of wemo light switches which did not support homekit early on. With this bridge, all of the existing wemo products I have (light switches, plug switch) are now folded in to the homekit ecosystem with this wemo homekit bridge. Open the apple home kit app on your phone and you can easily add this like any other homekit accessory.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "nine",
+      "helpful_votes": 0,
+      "publication_date": 20200714
+    },
+    {
+      "title": "Not really needed with new software update",
+      "text": "Nothing wrong with the product, but with wemo recent software update, you don\u2019t need this bridge to use your wemos on apple home kit, so I decided to return it. You might still want to check if your wemo switches, plugs, etc. can be updated with latest software, in case you have an older version.",
+      "rating": 3.0,
+      "verified": true,
+      "author": "Andres Garcia",
+      "helpful_votes": 0,
+      "publication_date": 20200819
+    },
+    {
+      "title": "WARNING: Does not work with All WeMo devices",
+      "text": "Recently purchased in hopes of linking my current WeMo bulbs to work with homekit. However WeMo Bridge does not work with WeMo link which is needed to use the WeMo bulbs. So if you have WeMo bulbs like me do not waste your time or money because WeMo no longer manufactures the link or WeMo bulbs. On a positive note set up with Homekit was effortless!",
+      "rating": 1.0,
+      "verified": true,
+      "author": "TruDundada",
+      "helpful_votes": 3,
+      "publication_date": 20180422
+    },
+    {
+      "title": "The Bridge works well",
+      "text": "I used this product to enable me to use the home feature of connecting to my lights. It was easy to install, and it works well doing what it is supposed to do. However, I do not have cable and am using only an Antenna for my TV reception. This Wemo bridge had to be connected to my WiFi box, and I now seem to be getting more interference in TV reception then I did before connecting the Wemo bridge. Don\u2019t know for sure that this the cause, but just something you may want to think about.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Yvonne Hall",
+      "helpful_votes": 0,
+      "publication_date": 20190203
+    },
+    {
+      "title": "Great? Easy set up",
+      "text": "Great? Easy set up, no problem finding all of my Wemo devices and, i believe has made my Wemo more stable (Wemo Dimmer had a habit of falling off the network, but no more). And it's fun performing house tricks by asking Siri to turn things on and off",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Erik Jansen",
+      "helpful_votes": 0,
+      "publication_date": 20180624
+    },
+    {
+      "title": "Disconnect!",
+      "text": "The bridge even though hard wired to router must be reset and reconnected at least every other day. I love Wemo switches and plugs. But just never got the bridge to stay connected",
+      "rating": 2.0,
+      "verified": true,
+      "author": "payrez",
+      "helpful_votes": 0,
+      "publication_date": 20180805
+    },
+    {
+      "title": "Works Great with Apple HomePod and Home app",
+      "text": "Recently purchased an Apple HomePod after owning Echos. This was a must. Everything in my house is apple, so this was a no brainer. It works so much better than the WeMo app itself which I struggled to get to work often. It seems it was always delayed, but with Apple Home App it works great on iPhone and HomePod.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "sam_19",
+      "helpful_votes": 0,
+      "publication_date": 20180529
+    },
+    {
+      "title": "Very unstable software",
+      "text": "The product is so unstable always blinking or needing reinstalling. I'm sure with updates this will improve but at the moment it's honestly not worth having. Great idea but needs a damn good software update",
+      "rating": 1.0,
+      "verified": true,
+      "author": "Aaron Dowling",
+      "helpful_votes": 4,
+      "publication_date": 20180209
+    },
+    {
+      "title": "Works fine until it doesn't...",
+      "text": "This thing does what it says on the tin but it seems that every few days it will need a reboot. Homekit labels all of the wemo gizmos as \"offline\" until you reset it.",
+      "rating": 2.0,
+      "verified": true,
+      "author": "J. Danforth",
+      "helpful_votes": 0,
+      "publication_date": 20201011
+    },
+    {
+      "title": "What a great little gadget!",
+      "text": "I have a mixed collection of wemo devices that i am using for over five years. They are not very reliable but at keast non failed so far. With this little gadget now i can use siri and homekit and continue to use them without the need of replacement. And homekit is much more reliable than wemo app!",
+      "rating": 5.0,
+      "verified": true,
+      "author": "REDFOXXX",
+      "helpful_votes": 0,
+      "publication_date": 20180425
+    },
+    {
+      "title": "Wemo has serious reliability issues!!",
+      "text": "Horrible product. In fact the whole Wemo line has issues. Spent years with them troubleshooting and watching devices drop from HomeKit. Got rid of all wemo devices and went with Hue smart plugs and Lutron switches. Hue lights where I can. Best decision ever!",
+      "rating": 1.0,
+      "verified": true,
+      "author": "Hormex",
+      "helpful_votes": 0,
+      "publication_date": 20200203
+    },
+    {
+      "title": "Works with power switches... will not work with Wemo Smart lights unless you have installed Wemo light switches in your walls.",
+      "text": "Short and simple review. It's quite infuriating. **Buyer beware** This brings Apple HomeKit support to SOME Wemo items. If you have power plugs and you've invested in Wemo light switches then you'll love this. If you have the Wemo Lights - but don't use the wall switches you are, so far at least, dead out of luck. If you just have the Wemo light hub device this will not expose this to HomeKit. It's quite infuriating. **Buyer beware**",
+      "rating": 3.0,
+      "verified": true,
+      "author": "N. Bishop",
+      "helpful_votes": 0,
+      "publication_date": 20180509
+    },
+    {
+      "title": "Works as advertised; quick setup",
+      "text": "Noting that some of the less positive reviews were left earlier, right after this product launched, I'll say that in mid-May 2018 setup of my device was flawless. It took less than two minutes. My WeMo Mini Switch now switches on and off instantly with HomeKit, as advertised.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Zach",
+      "helpful_votes": 0,
+      "publication_date": 20180516
+    },
+    {
+      "title": "Works great, dead simple setup",
+      "text": "Crazy easy to set up. Plug it into an ethernet port, power it up, use the Home app to scan the sticker in the manual. And everything worked perfectly. Nice job, Belkin -- this was a long time coming but you guys nailed it,",
+      "rating": 5.0,
+      "verified": true,
+      "author": "J. Hobbs",
+      "helpful_votes": 0,
+      "publication_date": 20180113
+    },
+    {
+      "title": "Not needed for HomeKit",
+      "text": "Just an FYI. The new updated Wemo products no longer need the bridge to work with homekit. They are now WiFi plug-n-play.",
+      "rating": 4.0,
+      "verified": true,
+      "author": "Norman Munroe",
+      "helpful_votes": 0,
+      "publication_date": 20200114
+    },
+    {
+      "title": "Might become undetectable after setup",
+      "text": "It works great when it stays connected to the network. For some reason, even though it\u2019s hardwired, the bridge becomes undetectable to the network. I have reset it numerous times as well as changed the location. I have two other bridge/hub products by different manufacturers that work great! My advice is to save your money and just use the Wemo app instead.",
+      "rating": 2.0,
+      "verified": true,
+      "author": "Lebrean The King",
+      "helpful_votes": 0,
+      "publication_date": 20180623
+    },
+    {
+      "title": "Does not connect to my apple network",
+      "text": "I have tried for hours. And it will not connect to my network. Perhaps it doesn't work with an Apple airport, but i have wasted money and time trying to use this product",
+      "rating": 1.0,
+      "verified": true,
+      "author": "Amazon Customer",
+      "helpful_votes": 2,
+      "publication_date": 20181023
+    },
+    {
+      "title": "One Star",
+      "text": "needs another device running at home when away to have access, and we call it home automation device!!",
+      "rating": 1.0,
+      "verified": true,
+      "author": "behrouz",
+      "helpful_votes": 2,
+      "publication_date": 20180705
+    },
+    {
+      "title": "Works as advertised",
+      "text": "Unlike some of the other reviews. This was literally plug and play for me. Given my previous experience with other WeMo devices (Mini plug, switch, and dimmers) I was expecting some headache. To my surprise it went extraordinarily smooth. I can now control all my WeMo devices via HomeKit!",
+      "rating": 5.0,
+      "verified": true,
+      "author": "D and R",
+      "helpful_votes": 0,
+      "publication_date": 20180524
+    },
+    {
+      "title": "Worked intermittently for 8 months",
+      "text": "When it worked, it was great, however I had to reset it periodically in order to reconnect with my HomeKit. Unfortunately 8 months later, on this last go around, after much resetting and troubleshooting, this device has gone kaput and is completely inoperable.",
+      "rating": 2.0,
+      "verified": true,
+      "author": "Amazon Customer",
+      "helpful_votes": 0,
+      "publication_date": 20190423
+    },
+    {
+      "title": "Don\u2019t buy it unless you have you HomePod",
+      "text": "You need to have Apple HomePod to make it work which gonna cost you $399",
+      "rating": 1.0,
+      "verified": true,
+      "author": "imran sayeed",
+      "helpful_votes": 2,
+      "publication_date": 20181007
+    },
+    {
+      "title": "Always need to be reset.",
+      "text": "Works most of the time with my HomeKit. I have reset the Wemo Bridge 7 times so far.",
+      "rating": 3.0,
+      "verified": true,
+      "author": "DaBat",
+      "helpful_votes": 0,
+      "publication_date": 20190825
+    },
+    {
+      "title": "It works great!",
+      "text": "Finally me WeMo plugs and switches work with Apple and Siri! Set up was a piece of cake and now I can ask Siri to control our lights.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "E. Sieben",
+      "helpful_votes": 0,
+      "publication_date": 20180125
+    },
+    {
+      "title": "Don't waste your time",
+      "text": "Seems like it's a common problem that it requires constant reset. Ordered this and try luck of this works for me. Unfortunately it's not and even worse than others. Going to return this.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "Tomcat",
+      "helpful_votes": 0,
+      "publication_date": 20191010
+    },
+    {
+      "title": "Often has to be reset.",
+      "text": "Disconnects/freeze and has to be reset regularly. Quite awful that it\u2019s so unreliable.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "M",
+      "helpful_votes": 0,
+      "publication_date": 20200719
+    },
+    {
+      "title": "Worked for a month",
+      "text": "Worked for about a month now it won't stay connected to our network for longer than a few minutes before I have to manually reset it. Wasted my money as now it is too late to return it.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "Ron",
+      "helpful_votes": 2,
+      "publication_date": 20180617
+    },
+    {
+      "title": "Works fine for a few days and then stops",
+      "text": "Having to manually restart this thing at least once a week is such a pain. I have since replaced this with the excellent Homebridge software running on a Raspberry Pi and have not had any issues with being able to access my WeMo devices. Needless to say I will no longer be buying any more WeMo products.",
+      "rating": 2.0,
+      "verified": true,
+      "author": "Zach",
+      "helpful_votes": 0,
+      "publication_date": 20201005
+    },
+    {
+      "title": "Needs to reset almost every week",
+      "text": "It works great with Homekit....for a week or two, then i have to reset the bridge in order to get it to work again for a week. Basically this is a repeat and rinse process for almost everyweek",
+      "rating": 3.0,
+      "verified": true,
+      "author": "tweetpiyo",
+      "helpful_votes": 0,
+      "publication_date": 20180423
+    },
+    {
+      "title": "Finally! Works great.",
+      "text": "I\u2019ve been waiting patiently for Apple Homekit integration and was very close to switching out my nine Belkin switches for another brand. This unit makes them work perfectly with my iPhone. Thanks Belkin!",
+      "rating": 5.0,
+      "verified": true,
+      "author": "J. Pierce",
+      "helpful_votes": 0,
+      "publication_date": 20180114
+    },
+    {
+      "title": "Five Stars",
+      "text": "Work like a charm.. Good HOME app integration..fast and reliable",
+      "rating": 5.0,
+      "verified": true,
+      "author": "rac4299",
+      "helpful_votes": 0,
+      "publication_date": 20180605
+    },
+    {
+      "title": "Simple bridge that works with the compatible list of WEMO ...",
+      "text": "Simple bridge that works with the compatible list of WEMO devices. It took a few cycles to install and get working reliably. Discovered that the bridge only works consistently if directly connected to my home gateway router - it was very frustratingly unreliable when connected on a secondary LAN switch.",
+      "rating": 4.0,
+      "verified": true,
+      "author": "TonyT",
+      "helpful_votes": 0,
+      "publication_date": 20180422
+    },
+    {
+      "title": "Despite easy instructions, it could only work while my iOS ...",
+      "text": "Despite easy instructions, it could only work while my iOS devices were at home on the same WiFi as the bridge. Doesn\u2019t work when I leave the house, even though I understand that it could, and I thought that was the point. So it\u2019s mostly useless.",
+      "rating": 3.0,
+      "verified": true,
+      "author": "Robert Cruse",
+      "helpful_votes": 0,
+      "publication_date": 20180630
+    },
+    {
+      "title": "Great adapter for Wemo",
+      "text": "Works great and exactly as needed to make Wemo devices compatible with Apple Home",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Jeffrey W. Gossage",
+      "helpful_votes": 0,
+      "publication_date": 20190318
+    },
+    {
+      "title": "Does exactly what it is says it does",
+      "text": "Recommend unplugging and plugging back in each month otherwise it seems to go silent functionally from time to time",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Joe",
+      "helpful_votes": 0,
+      "publication_date": 20180503
+    },
+    {
+      "title": "Siri makes Wemo Better",
+      "text": "I got tired of Alexa playing music when I said \"Lights On\", so I got this so that I could use Siri with my Wemo devices, and have seen an improvement in activating devices. Only twice I have had issues with the Wemo Bridge not detecting my devices, but after some troubleshooting I had everything back up and running.",
+      "rating": 4.0,
+      "verified": true,
+      "author": "Random4423",
+      "helpful_votes": 0,
+      "publication_date": 20180614
+    },
+    {
+      "title": "Have to constantly reset it",
+      "text": "Prett much a pain. I wanted it to be used with HomeKit, but the bridge is constantly needing to be reset.",
+      "rating": 2.0,
+      "verified": true,
+      "author": "GH",
+      "helpful_votes": 0,
+      "publication_date": 20191218
+    },
+    {
+      "title": "What\u2019s do you need bridge for...?",
+      "text": "Really didn\u2019t need this item as it didn\u2019t do anything special. Took some time to figure out how to get it to work but ended up returning due to its lack of function in my home.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "John Williams",
+      "helpful_votes": 0,
+      "publication_date": 20180824
+    },
+    {
+      "title": "Works Great",
+      "text": "Works great and allows original Wemo switch\u2019s to work with Apple HomeKit.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Matthew",
+      "helpful_votes": 0,
+      "publication_date": 20191222
+    },
+    {
+      "title": "To improve the man machine interface for setting up and configuration.",
+      "text": "Very easy to use after configuration is done properly. Setting up was a bit of a problem because you need to know how to configure the icon page by selecting those icons from different pages. Therefore you need to improve on the man machine user friendliness for the setup and icon selection configuration.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Guan Hock ",
+      "helpful_votes": 0,
+      "publication_date": 20181108
+    },
+    {
+      "title": "Nice when you\u2019re in range",
+      "text": "Issues with it randomly shutting off. Doesn\u2019t do well in a warm cabinet.",
+      "rating": 3.0,
+      "verified": true,
+      "author": "Camilla",
+      "helpful_votes": 0,
+      "publication_date": 20190707
+    },
+    {
+      "title": "Good but needs some improvements.",
+      "text": "Works as described and makes the wemo experience better. Sometimes needs to be power cycled because devices can\u2019t be seen by wemo app or HomeKit, but overall satisfactory.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Josh G.",
+      "helpful_votes": 0,
+      "publication_date": 20200307
+    },
+    {
+      "title": "Siri.... this works great.",
+      "text": "Use on HomeKit with bulbs and switches and works flawless. Please come out with one for NEST!!!",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Mr. Irwin",
+      "helpful_votes": 0,
+      "publication_date": 20181119
+    },
+    {
+      "title": "Poor software",
+      "text": "Homekit says to upgrade through Wemo app and Wemo app says to update through Homekit. Unable to use it. I prefer female type RJ45 so I can use my own patch cable that suits my setup. .",
+      "rating": 2.0,
+      "verified": true,
+      "author": "Denis Dragovic",
+      "helpful_votes": 0,
+      "publication_date": 20191130
+    },
+    {
+      "title": "It's...ok?",
+      "text": "It gets some of your Wemo stuff working with Homekit, and not some other stuff. Save your money unless you went heavy on Wemo.",
+      "rating": 3.0,
+      "verified": true,
+      "author": "Ross Floate",
+      "helpful_votes": 0,
+      "publication_date": 20190410
+    },
+    {
+      "title": "My wemo devices continuously go missing from my HomeKit system ...",
+      "text": "My wemo devices continuously go missing from my HomeKit system in iOS. I have to reset the device every three days to regain connectivity in the \u201cHome\u201d app",
+      "rating": 1.0,
+      "verified": true,
+      "author": "B. Mui",
+      "helpful_votes": 2,
+      "publication_date": 20180501
+    },
+    {
+      "title": "Excellent product to tie in all of my WeMo products ...",
+      "text": "Excellent product to tie in all of my WeMo products to Apple Home so I can control my lights using my iPhone, iPad or Apple Watch.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "John Markle",
+      "helpful_votes": 0,
+      "publication_date": 20180528
+    },
+    {
+      "title": "Like many added apps the iPads required a reboot but ...",
+      "text": "Far easier to set up than I had anticipated. I set it up on my iPhone and it automatically registered on both iPads. Like many added apps the iPads required a reboot but worked perfectly after that.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Dave KAMHOLZ",
+      "helpful_votes": 0,
+      "publication_date": 20180724
+    },
+    {
+      "title": "Fantastic upgrade. Only allows you to control with Siri ...",
+      "text": "Finally! HomeKit now works with Wemo. Fantastic upgrade. Only allows you to control with Siri when you\u2019re home. A HomePod, at home iPad, or Apple TV is required to use HomeKit when away from home.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Lou Rhodes",
+      "helpful_votes": 0,
+      "publication_date": 20180130
+    },
+    {
+      "title": "Wemo and HomeKit",
+      "text": "Easy to install and truly helps the switches and plugs connect to HomeKit. Once installed you can\u2019t change anything in the Home app unless you delete the bridge entirely and start over.",
+      "rating": 4.0,
+      "verified": true,
+      "author": "Tyler",
+      "helpful_votes": 0,
+      "publication_date": 20190717
+    },
+    {
+      "title": "Disgraceful",
+      "text": "Terrible product I am an IT And I still was not able to get the thing to work Very bad product Wemo should be ashamed of themselves for making such a terrible product.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "Trent",
+      "helpful_votes": 0,
+      "publication_date": 20200206
+    },
+    {
+      "title": "Fantastic! All my Wemo devices now work with HomeKit",
+      "text": "Fantastic! All my Wemo devices now work with HomeKit. I love how FAST the devices respond via HomeKit - faster than through Alexa and the Wemo app!",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Eric Soto",
+      "helpful_votes": 0,
+      "publication_date": 20180531
+    },
+    {
+      "title": "Works right out of the box",
+      "text": "Works great, HomeKit now sees all my wemos right out of the box",
+      "rating": 5.0,
+      "verified": true,
+      "author": "RantsRoamer",
+      "helpful_votes": 0,
+      "publication_date": 20200812
+    },
+    {
+      "title": "Works in the UK too!",
+      "text": "Purchased this product from amazon US as it wasn\u2019t available in the UK - all worked fine no problems setting up and connected to Apple HomeKit without any problems. Connected the power from my existing Routers USB port",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Richard Hill",
+      "helpful_votes": 0,
+      "publication_date": 20190326
+    },
+    {
+      "title": "Nearly instantaneous operation, once connected to the network. ...",
+      "text": "Nearly instantaneous operation, once connected to the network. Now my WeMo switches all connect and can be managed via my AppleTV using HomeKit. Belkin did it right with this bridge!",
+      "rating": 5.0,
+      "verified": true,
+      "author": "ceedee22",
+      "helpful_votes": 0,
+      "publication_date": 20180307
+    },
+    {
+      "title": "Does not work with Wemo Bulbs",
+      "text": "Be careful. If you are buying this product to control your Wemo bulbs via Apple HomeKit you should know it is not compatible. This is not clear when you buy this product.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Juan Carlos Esparza Lspez",
+      "helpful_votes": 0,
+      "publication_date": 20181206
+    },
+    {
+      "title": "Excellent product - very easy to set-up",
+      "text": "Excellent product - very easy to set-up, immediately picked up all my installed WEMO switches and displayed them in iOS Home app Allows seamless integration b of WEMO into both Alexa and Siri ecosystems Have had it for 2 months and so far am very happy",
+      "rating": 5.0,
+      "verified": true,
+      "author": "VIKAS AGRAWAL",
+      "helpful_votes": 0,
+      "publication_date": 20180404
+    },
+    {
+      "title": "Great but not (yet) complete",
+      "text": "The bridge currently allows to integrate wemo switches into Apple Homekit but wemo lightbulbs are not compatible.... yet. Wemo vaguely indicated via a Twitter reply that it is planned. Hopefully it won\u2019t take as long than making this bridge for Homekit itself",
+      "rating": 4.0,
+      "verified": true,
+      "author": "B. Speybrouck",
+      "helpful_votes": 0,
+      "publication_date": 20180311
+    },
+    {
+      "title": "Love it!",
+      "text": "Plug and play connection for my Wemo light switch to HomeKit. Love it!",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Daniel E",
+      "helpful_votes": 0,
+      "publication_date": 20180408
+    },
+    {
+      "title": "It really works !",
+      "text": "First Wemo which is working like angel . Easy to set up and after that it has been working fluently. I am really suprised and happy. I use it with Apple homekit. All the proplems with wemo have dissap - hooray !",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Jukka",
+      "helpful_votes": 0,
+      "publication_date": 20181215
+    },
+    {
+      "title": "Hey Siri, turn on the lights",
+      "text": "Works like a charm, now I can ask Siri to turn on and off all my lights that are on Wemo switches, oh and the coffee maker too which is on a wemo plug. For the techies you may also want to know that I was able to power the bridge from the USB port on my router.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Dan Larsen",
+      "helpful_votes": 0,
+      "publication_date": 20180211
+    },
+    {
+      "title": "Easy setup with Apple Time Capsule Router",
+      "text": "Delivered quick. Easy setup with Apple Time Capsule Router. Works as expected. Can now use Siri to turn on/off Belkin Wemo Devices. Response is very quick. I would recommend this product for anyone wanting to link Belkin Wemo with Apple Home Kit.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Simon",
+      "helpful_votes": 0,
+      "publication_date": 20180313
+    },
+    {
+      "title": "Worked as advertised.  Easy connection",
+      "text": "Item worked exactly as advertised with simple direction. Works well with Apple Home and managing more than 15 devices. Recommend it.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "B",
+      "helpful_votes": 0,
+      "publication_date": 20200210
+    },
+    {
+      "title": "Setup does not work",
+      "text": "This is the second WEWO Bridge I have bought. The first would not setup. After scanning the code Home Kit thought it was a Eve Light Switch. Called tech support who ran me trough a bunch of questions then wanted to get into my computer and router to \u201ctry\u201d to fix it. I didn\u2019t want that and decided to send it back and get another one. It arrived today and same problem happened . My advise would be is not to buy this bridge until they get their act together and fix this problem. So frustrating.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "Laurence",
+      "helpful_votes": 4,
+      "publication_date": 20180507
+    },
+    {
+      "title": "No Factor",
+      "text": "Easy plug and play to integrate with my Apple HomeKit.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Foos Family",
+      "helpful_votes": 0,
+      "publication_date": 20200121
+    },
+    {
+      "title": "No issues very happy with it",
+      "text": "Works as advertised. No issues very happy with it. Software integration is great as well.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Francisco Bido",
+      "helpful_votes": 0,
+      "publication_date": 20180407
+    },
+    {
+      "title": "Great, BUT!!!",
+      "text": "Great to finally have Apple HomeKit access to some WeMo devices BUT the fact that the WeMo bulbs can not be controlled by Siri is a major disappointment. That said, Siri works incredibly well for the supported devices.",
+      "rating": 3.0,
+      "verified": true,
+      "author": "MR DARREN P SAMPSON",
+      "helpful_votes": 0,
+      "publication_date": 20180209
+    },
+    {
+      "title": "Now the my Wemo\u2019s are voice controlled I simplified the naming convention.",
+      "text": "I plugged the Wemo bridge into my router, fired up Siri and started turning off and on the Wemo controlled lighting via voice commands. My wife thinks I\u2019m crazy but I really like this addition to our home automation.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Rob Carthy",
+      "helpful_votes": 0,
+      "publication_date": 20180209
+    },
+    {
+      "title": "Better than using homebridge",
+      "text": "Works sometime. Better than using homebridge. Hope Wemo continues progress to HomeKit comparability. Love home Automation.",
+      "rating": 3.0,
+      "verified": true,
+      "author": "giggeycw",
+      "helpful_votes": 0,
+      "publication_date": 20180530
+    },
+    {
+      "title": "I agree with all the others. Should have been ...",
+      "text": "I agree with all the others. Should have been more clear that there was no support for the wemo link/bulbs. Isn't this the most important part?!? Hoping there is an update soon as going back and forth from apps was not the idea behind this purchase!",
+      "rating": 3.0,
+      "verified": true,
+      "author": "Susan Caron",
+      "helpful_votes": 4,
+      "publication_date": 20180113
+    },
+    {
+      "title": "HomeKit Product",
+      "text": "Great product. Turned my old Wemo plugs bought 8 years ago into HomeKit products. Amazing. Thank you Amazon, thank you Belkin",
+      "rating": 5.0,
+      "verified": true,
+      "author": "T",
+      "helpful_votes": 0,
+      "publication_date": 20190227
+    },
+    {
+      "title": "Just works",
+      "text": "I have purchased the wemo bridge a while ago and havent had any issues with it. Good product. Works with home kit reliably.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "AJ",
+      "helpful_votes": 0,
+      "publication_date": 20190507
+    },
+    {
+      "title": "OTB functionality in UK",
+      "text": "Works OTB Expected issues as import from US to UK (model not on sale here) No issues. Why are other hubs not as small I wonder? very neat.",
+      "rating": 3.0,
+      "verified": true,
+      "author": "MrPateism",
+      "helpful_votes": 0,
+      "publication_date": 20180801
+    },
+    {
+      "title": "Bridge easy install buy from America posted to UK",
+      "text": "Long time waiting for this to be released working great easy to install good with Siri had to order from America as not available in United Kingdom yet but still a good price",
+      "rating": 5.0,
+      "verified": true,
+      "author": "David O.",
+      "helpful_votes": 0,
+      "publication_date": 20180502
+    },
+    {
+      "title": "Only controls Some Wemo Devices and Switches",
+      "text": "Absolutely excellent, by far the easiest way to connect Siri / Apple devices to WEMO, worked flawlessly and connected and setup in minutes",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Shannon Hosking",
+      "helpful_votes": 0,
+      "publication_date": 20180308
+    }
+  ],
+  "product_meta": {
+    "title": "WeMo F7C074 Bridge - Works with Apple HomeKit",
+    "description": "Style:Wemo BridgeWeMo Bridge is a simple, clean solution that provides home kit compatibility to existing WeMo core devices in the market.",
+    "rating": 3.7,
+    "feature_bullets": [
+      "Wemo Bridge allows you to control Wemo devices by asking Siri or using the Apple Home app from your iPhone, iPad, or Apple Watch",
+      "Set a custom scene or group your Wemo devices by room so that you can easily control multiple devices at once, all with a single command",
+      "Use the Apple Home app to easily set automatic schedules for lights and appliances connected to your Wemo smart plugs and light switches",
+      "Features a sleek, compact design that blends in seamlessly with your home decor. Operating/Storage temp: 32\u00b0 F to 104\u00b0 F. Power - Micro-USB Port: 5V/1A DC. Power - PSU: 100-240V AC",
+      "Use your existing home Wi-Fi network to simply add your Wemo Bridge to the Apple Home app - no subscription or hub required. Compatible with Wemo Mini, Wemo Dimmer, Wemo Light Switch, Wemo Insight Smart Plug, Wemo Switch and Wemo Switch + Motion"
+    ],
+    "specifications": {
+      "Product Dimensions": "5.5 x 2.55 x 5.8 inches",
+      "Item Weight": "7.2 ounces",
+      "ASIN": "B076J5MDYS",
+      "Item model number": "F7C074",
+      "Customer Reviews": "3.7 out of 5 stars409 ratings3.7 out of 5 stars",
+      "Best Sellers Rank": "#65 in Computer Networking Wireless Access Points",
+      "Is Discontinued By Manufacturer": "No",
+      "Other display features": "Wireless",
+      "Colour": "White",
+      "Included Components": "Wemo Bridge, Power Supply, USB to Micro-USB Cable",
+      "Manufacturer": "WeMo",
+      "Date First Available": "January 8, 2018"
+    },
+    "categories": [
+      "Computers & Accessories",
+      "Wireless Access Points",
+      "Electronics",
+      "All Departments",
+      "Networking Products"
+    ],
+    "price": 29.95
+  }
+}

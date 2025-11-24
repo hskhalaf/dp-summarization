@@ -1,0 +1,964 @@
+{
+  "website_summaries": [
+    {
+      "verdict": "The Linksys E4200 Maximum Performance Dual-Band Wireless-N Router is the first advanced router from Cisco that will make both novice and savvy users happy, thanks to its easy-to-use desktop application, comprehensive Web interface, great design, and stellar performance.",
+      "pros": [
+        "The Linksys E4200 Maximum Performance Dual-Band Wireless-N Router offers true dual-band with 450Mbps on the 5GHz band",
+        "Gigabit Ethernet",
+        "fast throughput",
+        "a long range",
+        "NAS functionality",
+        "a nice set of networking features",
+        "and a good Web interface.",
+        "The router also comes in a nice and compact design, and includes Cisco Connect, an intuitive software application that helps home users set up and manage their home wireless network with ease"
+      ],
+      "cons": [
+        "The Linksys E4200 doesn't offer 450Mbps throughput on the 2.4GHz band",
+        "its guest networking feature is limited to only 10 clients",
+        "the included desktop application doesn't allow for managing all of the router's settings, doesn't work well with the Web interface, and requires a live Internet connection for the initial setup.",
+        "The router also runs warm, and its power adapter is bulky"
+      ],
+      "aspects": {
+        "Setup": 8.0,
+        "Features": 8.0,
+        "Performance": 9.0,
+        "Support": 7.0
+      },
+      "publication_date": 20110119,
+      "rating": 8.2,
+      "source": "cnet"
+    }
+  ],
+  "customer_reviews": [
+    {
+      "title": "Good wireless router for small wifi needs.",
+      "text": "I don't remember when I bought this, but whenever that was, it is still working. I did have to upgrade to a bigger wireless router to handle the increased traffic of teenagers and their silly youtubing habits. I still use it as an access point (for myself because I am greedy when it comes to sharing bandwidth) in conjunction with my night hawk 6 antenna tri band monstrosity. Side note - I have had to factory reset it a few times.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Randy Holdaway",
+      "helpful_votes": 0,
+      "publication_date": 20190203
+    },
+    {
+      "title": "Not a bad router if you are willing to install dd-wrt",
+      "text": "Out of the box this router was unusable. It would randomly restart, the range was horrible, and the throughput was about the same as the WRT54G I was replacing. I tried every setup combination, and firmware that Linksys had, and then gave up and installed dd-wrt. After installing dd-wrt the router is stable, and the throughput much better, you also end up with a device with the features of one that would be thousands of dollars not hundreds. Bottom Line: If you are technical, and don't mind installing and configuring dd-wrt, then this is not a bad router. If you prefer plug and play, stay away from this one, there are much better routers out there.",
+      "rating": 3.0,
+      "verified": true,
+      "author": "Tech Head",
+      "helpful_votes": 0,
+      "publication_date": 20140103
+    },
+    {
+      "title": "Great router with outstanding Reliability",
+      "text": "After being a cheap-o and going through several wireless routers (all junked or returned due to reliability), I finally decided to spend the money and get a quality router. And let me tell you this one does not disappoint. No hiccups, I've only reset it twice in the 4 years I have owned it and handles all WiFi traffic with ease while broadcasting the signal further than routers with external antennas. Sometimes, you can pay less for a product and get the same quality. But with routers you have to pay to play. If you want want a robust router that can handle network traffic and put out a reliable gigabit LAN, look no further. Highly recommend.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "AJ Oz",
+      "helpful_votes": 0,
+      "publication_date": 20140310
+    },
+    {
+      "title": "My last Linksys",
+      "text": "It worked nicely for one year, 4 months. That's 4 months longer than the warranty. I expected more service life out of this. During that time, we've had to reset the router multiple times by cycling the power in order to reestablish our internet connection. The smart wifi GUI is a good idea, but could use a little polish. It wasn't all that intuitive and not as reliable as connecting directly to your router by typing 192.168.1.1 in your browser like I've done in the past. I'll be trying one of the other brands next. This is my 4th Linksys in about 8 years. Three of them were replaced because of failures like this.",
+      "rating": 2.0,
+      "verified": true,
+      "author": "John H",
+      "helpful_votes": 0,
+      "publication_date": 20131126
+    },
+    {
+      "title": "Product Good...Support Stinks!",
+      "text": "Received my E4200 Router and commenced to install it. I already had a Linksys router that was about 6 years old so this should have been a breeze. At first could not get internet. Then could not access other PC's. Contacted support and when FAQ's provided no assistance I did an on-line chat with support. Someone from who knows where with an un-pronounceable name got on. Ran through the normal PC's for Dummies steps and then she/he said they could not help me and I would have to call in. Forget it...with a little investigating, re-setting the router, and reinstalling the software, I fixed it myself. Product works great. Support still stinks!",
+      "rating": 4.0,
+      "verified": true,
+      "author": "DS1947",
+      "helpful_votes": 0,
+      "publication_date": 20120422
+    },
+    {
+      "title": "Great router with one exception.",
+      "text": "I love this router and have several in service in our office building, but for some strange reason they have to be rebooted frequently (2 - 3 weeks) because even though my devices are connected and have good signal levels the data flow slows down to a crawl. Same with mine at home. My 3 Tivo devices are connected with good signal level but they can't transfer movies between them. After rebooting the Cisco all devices can transfer as normal for another two to three weeks. Wish I knew what causes this, but it is the same situation in mine at home and the four at my office.",
+      "rating": 3.0,
+      "verified": true,
+      "author": "Amazon Customer",
+      "helpful_votes": 0,
+      "publication_date": 20130515
+    },
+    {
+      "title": "These are nice, but the software is stupid",
+      "text": "These are nice, but the software is stupid. luckily you're not forced to use cisco software and can still use a browser for administration. This model has a faulty chip. Most of these units fail way too early. Also, it's a known fact that Cisco has a backdoor in all of their products...",
+      "rating": 1.0,
+      "verified": true,
+      "author": "heathric",
+      "helpful_votes": 0,
+      "publication_date": 20180130
+    },
+    {
+      "title": "Build a great energy efficient router for a fraction of the price.",
+      "text": "I originally needed something that would provide DNS and DHCP and would be up all the time. The DSL router the phone company provided had a number of features, but not DNS. I had a number of alternatives, but wanted something that could always be on, could provide the functionality I wanted, but would use a limited amount of energy doing it. I decided I needed something small that could take an Open Linksys image, and specifically one that Tomato had previously been installed on. This fit the bill better than expected. I'm still playing with features months after having installed the open OS on it.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Charles J. Sarchet",
+      "helpful_votes": 0,
+      "publication_date": 20121216
+    },
+    {
+      "title": "Really good, solid router",
+      "text": "Really good, solid router. It was my router for years without any issues. I replaced it's routing function with a pfSense box, simply for the additional power pfSense provides me, but for a consumer router this is plenty powerful. It's still serving me to this day as a WAP.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Eric S Kincl",
+      "helpful_votes": 0,
+      "publication_date": 20161229
+    },
+    {
+      "title": "So far so great!!!!",
+      "text": "I just had the Geek Squad hook up my router. At first we had a few minor issues, because we have a large home with 3 levels. We also run the linksys 3200 on another level, so the tech set it up to be a \"slave\" to this router. We immediately noticed the difference in our system performance once everything was properly configured. I have to give major kudos to the Geek Squad. The tech did great work, was very professional and was in and out in short order. I would strongly recommend this router to everybody in the market for one.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "tresb4",
+      "helpful_votes": 0,
+      "publication_date": 20130206
+    },
+    {
+      "title": "Very pleased.  Never dropped connections or needed reset.",
+      "text": "Bought this (v 1.0) after reading how good the usable range is from smallnetbuilder. I am plenty satisfied with the throughput although one corner on the floor above (about 40 feet away) tend to get about 1/3 to 1/2 of the max throughput (to be fair, there are two walls with metal ductwork running vertically in them and ceiling/floor in between) . But the strongest point of this router is that this never dropped connections or required reset in over a year of running 24/7 as the primary wireless router (with firmware updated once during that time).",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Westender",
+      "helpful_votes": 2,
+      "publication_date": 20131209
+    },
+    {
+      "title": "Firmware version?  Documentation?",
+      "text": "\"Decent\" router. Not sure its that much better than the 4 year old router I had. Software interface is klunky, documentation is not great. Signal is sometimes \"weak\" just 20 feet away and I cant figure that out. Worst, I find out that there is are \"multiple\" firmware releases which were NOT advertised when purchased (Would that have been a better product? I had wanted to buy high end to prevent near term upgrade....). Concur with other reviewers that the \"media server\" if it works at all is difficult to configure, and I'm a techie... Overall, just \"ehh\".",
+      "rating": 3.0,
+      "verified": true,
+      "author": "Niko",
+      "helpful_votes": 0,
+      "publication_date": 20111229
+    },
+    {
+      "title": "I had it next to my printer and since I moved it away from the printer the connectivity has been fine.",
+      "text": "I bought this in 2012 and although I've had to reboot it a couple of times I have never had a problem with it. It is connected to our modem on the second floor. When my internet connectivity diminished on the main floor of the house I read reviews and troubleshooting and read that it would be helpful to not place it next to other electronics. I had it next to my printer and since I moved it away from the printer the connectivity has been fine.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Opie",
+      "helpful_votes": 0,
+      "publication_date": 20150206
+    },
+    {
+      "title": "QOS is awesome!",
+      "text": "I mainly got this router for the N (had an old G router) and the QOS traffic-shaping (so-called) feature. It has performed admirably. I have a 20Mbit connection from my cable provider, and I've been able to torrent, surf the web (with a noticable slowdown), and stream hulu shows in 720p with no buffering, all at the same time. Normally one of the three would get prioritized and the other two would basically be hosed until the first task is completed, but this thing manages multiple connections of different types very well. Highly recommended.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "A. Bagley",
+      "helpful_votes": 0,
+      "publication_date": 20121128
+    },
+    {
+      "title": "Going strong",
+      "text": "This router has really been satisfying. Connection has felt solid and range has been great. We live on a row of townhomes and my wife went down 5 doors and she still had a good enough signal to use - thats a lot of walls that was going through. As for speed, it's faster than my old 54g. I have not flashed it with DD-WRT, though I probably won't unless we start having dropped connections or issues with the system. It does run a bit hot, but not that unexpected. I plan to use this guy for a long while to come. No complaints from, it does what I want it too.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "00AlanJ",
+      "helpful_votes": 0,
+      "publication_date": 20120115
+    },
+    {
+      "title": "Best router I've owned.",
+      "text": "Had a Netgear before this which constantly failed. Would constantly time out on my iphone 4, my macbook, and even my 2006 PC laptop. Wasn't a question of Wireless n, g, or b. Was just poor. Decided to plunk down a lot for this gambling on it, hoping it would solve all my wifi problems, and solve them it did! Was amazingly easy to set up, and love the guest feature. Never have a problem connecting, download speeds are phenomenal, and just could not be happier with the purchase. If you're thinking about this, but worried about the price, let me assure you that it's well worth it!",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Brad Combest",
+      "helpful_votes": 0,
+      "publication_date": 20110602
+    },
+    {
+      "title": "As told to me",
+      "text": "I bought this on the referral of my computer tutor. He said I needed router for various reasons so I cannot give you an opinion other than this. He installed it very quickly. He was very pleased with the setup and then he told me that it was one more thing that I didn't have to worry about it. May I add that this gentleman works on tech security for a living if that helps.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Dr. donna",
+      "helpful_votes": 0,
+      "publication_date": 20140306
+    },
+    {
+      "title": "Did not work from the beginning",
+      "text": "Bought new from Amazon. While running the setup CD, 'could not configure' message appeared. 3 times. No issues with Verizon DSL Called support - they told me that the product is NOT NEW (how is that possible) and that they will do me a favor and not charge $30-$40 but only $20 to run a diagnostic for 45min via something similar to Citrix. So, I told them that it is easier to return and not spin the wheels. Returning this Saturday.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "FHLMC",
+      "helpful_votes": 0,
+      "publication_date": 20130412
+    },
+    {
+      "title": "Works great",
+      "text": "My Netgear N600 router died at just a little over a year old. So I decided to try the Cisco-Linksys E4200. Easy setup and in a short time I had our Wi-Fi Epson printer and Roku box up and running, very easy setup, great reception all over the home. Definitely recommend this router. It's now months later and I find the Netgear N600 seemed a bit faster I still like the Linksys router but it isn't faster then the Netgear I had.",
+      "rating": 4.0,
+      "verified": true,
+      "author": "Glenn C. Martinet",
+      "helpful_votes": 0,
+      "publication_date": 20130713
+    },
+    {
+      "title": "Cisco-Linksys E4200 Dual-Band Wireless-N Router",
+      "text": "Purchased this product after having done some research on the Top 10 wireless routers for 2011. Previously, I had a Belkin router that was always dropping my connection and I really needed a reliable router. This item definitely lives up to its reputation. I haven't experienced any dropped connections since I plugged it in...in fact the signal runs at 99-100% at all times. Love the sleek design and low profile. Set up only took a few minutes. I would recommend this product to anyone who wants reliability. Shipped on time and well packaged.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Noggy",
+      "helpful_votes": 0,
+      "publication_date": 20111027
+    },
+    {
+      "title": "Works great",
+      "text": "If I am going to buy something new, technology wise, I buy the best usually to avoid headaches. I installed this in about 10 minutes, used the CD and Cisco software, works great. It has been on a day now, no problems, everything hooked up great! I have an Evo 3D, it has DLNA, and I have a Sony Blu Ray player with same, the connection worked before, but it was slow to upload pictures to the player from my phone, now it connects quickly and the pictures go quickly and I can even send music. I haven't gotten Videos to work, wrong file type for player. I would buy this again.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Jimmy",
+      "helpful_votes": 0,
+      "publication_date": 20110916
+    },
+    {
+      "title": "Average performance",
+      "text": "I'm going to keep this short for you speed readers. The Asus RT-N65U beat the crap out of this router. The user interface is old school Linksys. It looks high-end I guess but I hate the flat design. Mine ran hot. Performance on 5ghz was terrible. Performance on 2.4ghz was just OK. Not better than my WRT54GL with gain antennas. For the money I had hoped for more from Cisco/Linksys. I've switched to Asus and I LOVE LOVE LOVE IT!!!!!!",
+      "rating": 3.0,
+      "verified": true,
+      "author": "A Pale Horse",
+      "helpful_votes": 4,
+      "publication_date": 20111215
+    },
+    {
+      "title": "Liked it so much, I made a video on YouTube",
+      "text": "The title says it all. I liked this router so much that I went ahead and made a video on YouTube that talks about all the great feautres that it comes with. Was easy to set up and have been running it non-stop for a few years now. I thought about using DD-WRT and installing some different firmware, but after reading the notes about doing that, this is not the model to try it on unless you have a back up. Something about the built in RAM, so only for the faint of heart.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Adam C. Cole",
+      "helpful_votes": 0,
+      "publication_date": 20130807
+    },
+    {
+      "title": "This is the best router on the market",
+      "text": "This is the best router on the market..Mine lasted 6 years & the company did a Awesome job delivering it to me...",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Evelyn N.",
+      "helpful_votes": 0,
+      "publication_date": 20170104
+    },
+    {
+      "title": "best router I've ever owned",
+      "text": "I've had about 12 routers in the past 5 years and everyone has under performed and been under whelming. I finally convinced myself to stop buying the mid-grade routers and stepped up to the next level. Boy was it worth it. This is the first router I've every owned that took less then 2 minutes to set up and connect to the web. no calls to a over seas call center for 2 frustrating hours of \"tech support\". The long and the short is that this router streams live HD video like you are watching cable tv. incredible. do yourself a favor and buy it.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "James Morrissey",
+      "helpful_votes": 0,
+      "publication_date": 20120206
+    },
+    {
+      "title": "I like the easy set-up",
+      "text": "Bought this last year. I just use it for internet access and to monitor our PV system. It works well in all the rooms in our small two-story house. What I really like is the super-easy set up. Perfect for the non-techy. It's also really easy to set up for guest access, and to customize their security code, plus you can limit how many guests can be online at a time. I also have a Netgear router at my other home and find this so much easier to use when turning guess access on or off and to customize the security code.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Patricia Meeks",
+      "helpful_votes": 0,
+      "publication_date": 20130329
+    },
+    {
+      "title": "Reliable",
+      "text": "4-years in service & not a lick of problems. Stable. Signal on this one works ~50-ft.",
+      "rating": 4.0,
+      "verified": true,
+      "author": "Gary Clark",
+      "helpful_votes": 0,
+      "publication_date": 20190418
+    },
+    {
+      "title": "Excellent Wireless Strength & Speed",
+      "text": "I was looking for a Wireless Router/AccessPoint for my house that would yield better speeds than my ISP provided router. I compared over 10 different routers checking prices and reviews, etc and picked up the E4200 and everything from Installation/Setup to ease of use and speed has been exactly what I was expecting. Great access point. Sure there are access points that will get you close to the same speed and utilities this one has but you will always have that with anything you purchase. Well worth the money I payed!",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Tyac",
+      "helpful_votes": 0,
+      "publication_date": 20111117
+    },
+    {
+      "title": "GREAT ROUTER",
+      "text": "We're pleased with the speed and ease of set-up of this router. We're using it with Macs, PC's and XBox360. I've been having problems lately, however, with dropped connections. Seems to be happening only with my Mac laptop which is one floor above the router. It didn't seem to happen at first, only recently. I'm still trying to diagnose the problem. We've owned Linksys products before and have always found them reliable and durable. The E4200 is no exception.",
+      "rating": 4.0,
+      "verified": true,
+      "author": "Kindle Customer",
+      "helpful_votes": 0,
+      "publication_date": 20111130
+    },
+    {
+      "title": "A Great Router",
+      "text": "I bought this router to upgrade from a WRT610N and increase the range and throughput of my exiting router. Thus far, I have been extremely pleased, and the Linksys product quality lived up to my expectations from prior experiences. The only adverse comment I have is that I miss the status and activity lights on the front of the router, but that may just be my anachronistic tendencies. Otherwise, I would have to say that this is an excellent choice for a wireless router.",
+      "rating": 4.0,
+      "verified": true,
+      "author": "Zorkmid",
+      "helpful_votes": 0,
+      "publication_date": 20111217
+    },
+    {
+      "title": "Linksys E4200",
+      "text": "Router arrived one week after placing order. Setup was incredibly easy using the provided setup CD. I had never used wireless router or set up a network, but it walked me through it, and within 20 minutes I had Netflix streaming to my TV. After I was sure everything was talking to each other, I used the provided program to change the router name and password, set up a guest account, and networked a laptop, bluray, and desktop. I was very impressed with how well everything worked, given that I'm kind of used to hardware manufacturer's providing software that doesn't work with their product (or that breaks other software already on a machine.) Great job, Cisco.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Gomer Pyle",
+      "helpful_votes": 2,
+      "publication_date": 20111219
+    },
+    {
+      "title": "Supports NAT Loopback",
+      "text": "If you need a router that supports NAT Loopback/NAT Redirection, this router will work. NAT Loopback is needed if you need to use an external hostname [...] to access an application running on a server on your internal network. The hostname will always work from outside the LAN, but needs NAT Loopback to work from inside the LAN. Linksys routers are one of the few that support this functionality. This has been a stable and reliable router.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "In Oregon",
+      "helpful_votes": 0,
+      "publication_date": 20130212
+    },
+    {
+      "title": "So Far So Good!",
+      "text": "I bought this as a replacement to a Netgear Wireless G router so that I could take advantage of my new Cable Modem as well as the various new technologies (i.e. Wii & Blu-Ray Player) in my house. I chose this model over the comparable Netgear router based on several reviews on Amazon. So far all has been as advertised. This has not crapped out once and I've had it hooked up for about a month. All devices have connected to it flawlessly! Let's hope it holds up.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "S. MAZUR",
+      "helpful_votes": 0,
+      "publication_date": 20111209
+    },
+    {
+      "title": "USB port is tempermental",
+      "text": "If you are buying this for the USB port, read the supported drive list very carefully. I was replacing my router and network backup drive (which had crashed). I tried 2 different USB drives and they worked for a while, but quickly stopped working. Cisco said they weren't supported so there was nothing that could be done. Otherwise, the router is easy to set up and my wireless speed seems faster than with my old (G) router.",
+      "rating": 3.0,
+      "verified": true,
+      "author": "K. Walsh",
+      "helpful_votes": 0,
+      "publication_date": 20120615
+    },
+    {
+      "title": "I've acquired three of these secondhand and have installed the ...",
+      "text": "I've acquired three of these secondhand and have installed the free Tomato software (Toastman build) to run on all of them. There have been absolutely no problems the past nine months (oldest running router), and the systems have been stable and reliable running OpenVPN, Samba, and file servers. High marks for this product and configuration.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "C. S. Lewis",
+      "helpful_votes": 2,
+      "publication_date": 20150606
+    },
+    {
+      "title": "If you know what you know",
+      "text": "This purchase was an upgrade from the E2000 (which was a great router), the key is doing the research to ensure you are getting the features you are looking for. There are two versions of the same router, depending on the application that you plan to use the router in, you need to ensure that you get the correct version for your network. The ability to setup two seperate netoworks with one router is awesome.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "EMAN",
+      "helpful_votes": 0,
+      "publication_date": 20130425
+    },
+    {
+      "title": "Not again",
+      "text": "I have had this since January 2012. Works fine when it works.. but in the last few months WiFi will drop out at random times; usually just for a few minutes. Once or twice a day lately. No signal to PCs,tablet, or the WiFi radio I have. Usually it starts up again on its own but every so often I have had to hit reset on the router to get it to come back. Either net and DSL signal from modem are fine at these times.",
+      "rating": 2.0,
+      "verified": true,
+      "author": "Kindle Customer",
+      "helpful_votes": 0,
+      "publication_date": 20121111
+    },
+    {
+      "title": "Solid",
+      "text": "It has been solid, which is a treat after my previous router that I was frequently rebooting. I as a bit annoyed to find out that there is a version 2 (I was sold a version 1), but there is no upgrade for people like me to version 2. One star off for that, but it has been a pleasure to have a wireless router that just works so well that I forget about it. There are no status lights. Just one glowing logo that flashes sometimes.",
+      "rating": 4.0,
+      "verified": true,
+      "author": "Dan F",
+      "helpful_votes": 0,
+      "publication_date": 20120530
+    },
+    {
+      "title": "Easy Set Up and Fast Speeds",
+      "text": "Set up very easily. All devices connected to network and has lots of bandwidth. Rated as 4 stars instead of 5 as although my wireless printer is on the network and the Win 7 computers can use it, the XP laptop cannot see the printer or use it for some reason I can't figure out. Tried tech support. That was a waste of time. Problem will go away when the laptop is replaced/upgraded. Tech support was only by chat.",
+      "rating": 4.0,
+      "verified": true,
+      "author": "Mark",
+      "helpful_votes": 0,
+      "publication_date": 20120116
+    },
+    {
+      "title": "I needed a better router",
+      "text": "I needed a better router. Being that I use a lot of internet from streaming shows and connected computers, iPods and iPads and Playstation... Everything is connected to the internet now a days. This unit had delivered. I used to have interruptions streaming netflix or it would downgrade of a lower quality. Not anymore. I also replaced my cable modem which also helped",
+      "rating": 5.0,
+      "verified": true,
+      "author": "James ",
+      "helpful_votes": 0,
+      "publication_date": 20140105
+    },
+    {
+      "title": "Nice Router",
+      "text": "I do see some improvement in the coverage within the house when replaced my Linksys WRT54G, and I am happy with this. It does get a bit hot, but not too bad. I feel the value is much better than the E3000. Have not yet used the Media storage port yet due to other negative reviews. I may also load the DDWRT Software Operating Software to improve performance, but still waiting for others to do this first and look at the reviews. I do recommend this product.",
+      "rating": 4.0,
+      "verified": true,
+      "author": "Craig Zabka",
+      "helpful_votes": 0,
+      "publication_date": 20110606
+    },
+    {
+      "title": "I have had 3 of these and they seem to be getting worse",
+      "text": "This is my third linksys router. The first lasted for around 5 tp 6 years, the second lasted about 2 to 3 years, and now this one lasted 1 year 3 months. Don't know whats going on over at lynksys, but the product is getting more expensive and not lasting as long. Ohh and when it is working get ready to loss connection with the internet alot. in just seems like the newer ones are getting worse. im gonna try the Asus next",
+      "rating": 3.0,
+      "verified": true,
+      "author": "Chris R",
+      "helpful_votes": 0,
+      "publication_date": 20131122
+    },
+    {
+      "title": "Linksys E4200 with DD-WRT is The Greatest Router in The World",
+      "text": "This is an excellent router, although the factory firmware is not the greatest. It is enough to get by, but it isn't nearly as stable as it could be and lacks many good features. My recommendation is to buy this router, and load it with DD-WRT firmware. For those looking to load DD-WRT firmware, Version 1 of this router is easy to load and works very well. I have been extremely pleased with this combo.",
+      "rating": 4.0,
+      "verified": true,
+      "author": "Jim Johnson",
+      "helpful_votes": 0,
+      "publication_date": 20120628
+    },
+    {
+      "title": "Five Stars",
+      "text": "Best router that I have every owned (I have two of them)",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Myrna J. Vye",
+      "helpful_votes": 0,
+      "publication_date": 20181004
+    },
+    {
+      "title": "Worked Very Well",
+      "text": "This is great router I used it for many years, It worked flawlessly even with a layer of dust on it. It's very easy to setup and compatible with DSL and Cable modems.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Alan",
+      "helpful_votes": 0,
+      "publication_date": 20160528
+    },
+    {
+      "title": "Very pleased",
+      "text": "I bought this in combination with the Linksys RE1000 Wireless-N Range Extender to replace an older Linksys router. Both worked flawlessly. My wife reports speeds as fast as a wired connection on her laptop. Daughter's laptop doesn't drop out any more. Had this for a couple weeks now, very please with the performance. I set it up in manual mode with no problems. I didn't try the install wizards and all that so I can't comment on that part.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Weave",
+      "helpful_votes": 0,
+      "publication_date": 20111111
+    },
+    {
+      "title": "Cisco E4200 Dual Band Wireless - N Router",
+      "text": "Refurbished product that works well! Accurate description, great shipping, received ahead of time and installed it as soon as I received it. It works exactly as described! Only problem for me is the wireless operations does not have the range that I need for one reason or the other. Otherwise it performs well and consistently...",
+      "rating": 4.0,
+      "verified": true,
+      "author": "Jeff",
+      "helpful_votes": 0,
+      "publication_date": 20151112
+    },
+    {
+      "title": "Cisco E4200 Router",
+      "text": "We bought the E4200 because our older router kept hanging when there were more than 4 or 5 users in the house. The E4200 is much faster and has not locked up at all. It was very easy to setup and add a password for the network. I also bought a new SB6102 modem at the same time and it also helped to speed up our system. We use Comcast cable for our ISP and went from 4.0 mbps to 21 mbps. I would recommend both of these products.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Frederick Anselmo",
+      "helpful_votes": 0,
+      "publication_date": 20110611
+    },
+    {
+      "title": "Surprisingly easy setup.",
+      "text": "Although I have had home computers for about 30 years, I am always hesitant to do anything with networking. My history with this area of computers just hasn't been too good. Finally I decided it was time to have a wireless router and, after reading many reviews, I decided to try the Linksys E4200. I opened the box to get the instruction manual so I could carefully review the set-up process, but there wasn't any manual; only a CD disk! So, bravely I inserted the disk into the computer and followed the on-screen instructions and miraculously in less than thirty minutes I had the system up and running. No problems! So far I'm very pleased with this product from Cisco!",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Desmin Design",
+      "helpful_votes": 0,
+      "publication_date": 20120107
+    },
+    {
+      "title": "Awesome router!",
+      "text": "I owned a Linksys WRVS4400N rev. 1 for over 4 years, it has worked excellent for me over the years and I figured it was time for a replacement. I opted to go Linksys again and couldn't be happier. This router is one of the fastest consumer grade ones you can buy (just don't forget that if you want to take advantage of it's higher speeds you need a MIMO compatible WiFi adapter to use, I plan on purchasing the Bigfoot Killer-N 102 (or go 103 if you want to go the absolute fastest)).",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Jeremy",
+      "helpful_votes": 0,
+      "publication_date": 20111103
+    },
+    {
+      "title": "Solid Router",
+      "text": "Setup is incredibly easy. Range is better than any wireless router I've ever owned and it is very fast. The only reason I'm not giving it 5 stars is because when I was trying to connect my wireless printer to it the router somehow was reset back to factory defaults; name, password, everything. I had to manually reset it to fix the problem. I worked my way around the issue but it was a very odd occurrence. How a wireless printer screwed up a router that bad I have no idea.",
+      "rating": 4.0,
+      "verified": true,
+      "author": "C",
+      "helpful_votes": 0,
+      "publication_date": 20110811
+    },
+    {
+      "title": "Stop Buying Consumer Models",
+      "text": "This was the last router I purchased (and returned) before I realized I needed to stop buying consumer grade networking equipment. They just don't make them the way they used to. These companies are making products for your elderly mothers and grandmothers, not the technical consumer. I know how to install a router and configure it. I don't need Cisco/Linksys to hold my hand through the whole thing. I also demand high performance out of a piece of equipment that should be able to cover more distance and perform faster than the six year old Linksys it's replacing. Here's a hint, it doesn't. Pitiful.",
+      "rating": 2.0,
+      "verified": true,
+      "author": "Ryan Dixon",
+      "helpful_votes": 0,
+      "publication_date": 20130412
+    },
+    {
+      "title": "It works for me.",
+      "text": "There are a lot of features I have yet to explore including parental and guest controls. I don't really know how well it works since I have no way to measure it. I am not technically competent enough to do a true evaluation. I have found that I loose internet from time to time, but when I check my VoIP phone, it's still working, indicating that the problem is NOT in the router.",
+      "rating": 4.0,
+      "verified": true,
+      "author": "Ben woodworker",
+      "helpful_votes": 0,
+      "publication_date": 20130225
+    },
+    {
+      "title": "Expected a little better.",
+      "text": "The only reason I bought this was to try increase the reliability of the wifi signal inside our apartment. The router is located near center of the apartment yet struggles to maintain signal in the farthest room (a distance of only about 25') I went through all the firmware upgrades and setting device priorty but it doesn't seem to be any better than my single band n router was.",
+      "rating": 3.0,
+      "verified": true,
+      "author": "NY Rebel",
+      "helpful_votes": 0,
+      "publication_date": 20130112
+    },
+    {
+      "title": "Fast and reliable",
+      "text": "I've been looking for a decent wireless N router for a number of years now, specifically to allow streaming of video across the house. I have used an early D-Link router (D-655, poor range) and a Vizio router (good range and speed, very unreliable). The Cisco unit has the best range and excellent speed. I've been able to stream HD content without issue. It has also been rock solid since I installed it (a few months ago now).",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Matthew Wood",
+      "helpful_votes": 0,
+      "publication_date": 20111026
+    },
+    {
+      "title": "Very Good",
+      "text": "I bought the equipment on the recommendation of a friend, and was very pleased with the performance, worth every penny invested. Previously, I had a Cisco equipment very simple and cheap. Had low coverage and speed. With this equipment, coverage, quality and network speed improved significantly. With both bands, the equipment can keep the speed high, even if slower devices are connected. Installation is very quick and easy. Now, there is practically no difference between being connected to cable or wi-fi. It is perfect to everyone who wants to browse, download music, movies, or files of any size, with comfort and very good speed. I recommend the unit, strengthening it's worth the investment.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "M.Cardoso",
+      "helpful_votes": 0,
+      "publication_date": 20120102
+    },
+    {
+      "title": "P.O.S.",
+      "text": "What a piece of junk! I bought this thing on Jan 31. The return window expired on Mar 4th! Of course, in the last week, it's started dropping internet connections every other day or so! That is exactly why I replaced my old router. And, for as much money as this thing cost....($140) DAMN!!!! Stay away. This thing is junk!",
+      "rating": 1.0,
+      "verified": true,
+      "author": "BillK",
+      "helpful_votes": 2,
+      "publication_date": 20130327
+    },
+    {
+      "title": "I couldn't ask for much more.",
+      "text": "This is just what the Dr. ordered. The included software made setup a breeze. It took about 15 minutes to unpack, plug in and have the unit up a running. I have the router located in the corner of my basement office and signal strength two floors up only falls 1 bar. I decided if I need greater upstairs strength I will just add a repeater. The \"Guest\" link is perfect for allowing my son-in-law access without giving him too much freedom.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "John McC",
+      "helpful_votes": 0,
+      "publication_date": 20111004
+    },
+    {
+      "title": "Good performance, poor performance in cisco configuration software",
+      "text": "I tried to use the Cisco software to configure it using my windows 7 laptop, however all the time the initial configuration setup finished in an error. Then, i proceeded to configure it manually, which I did it with no problems. Once I configured it, the router performance was exceptional. I configured also a guest wifi network which performed ver y well.",
+      "rating": 4.0,
+      "verified": true,
+      "author": "Jose Fernandes",
+      "helpful_votes": 0,
+      "publication_date": 20120421
+    },
+    {
+      "title": "failed within 8 months",
+      "text": "The router worked well for few months then suddenly failed while still under one year warranty. I tried working with the customer support several times. But they insisted that I should purchase either extended customer support or a one time fee in order for them to troubleshoot with me while still acknowledging that the product is indeed under warranty and potentially eligible for return. This way Cisco does not have to ever honor the one year warranty or issue an RMA on their products. My next router will be from netgear.",
+      "rating": 2.0,
+      "verified": true,
+      "author": "RNK",
+      "helpful_votes": 0,
+      "publication_date": 20120918
+    },
+    {
+      "title": "It's a keeper",
+      "text": "Fast, solid, high speed, very little degradation of throughput, excellent signal strength. It's a keeper.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Ciel",
+      "helpful_votes": 0,
+      "publication_date": 20160729
+    },
+    {
+      "title": "Good so far",
+      "text": "Howdy, I needed to buy a router because I bought Verizon's network extender and realized that I didn't have an open port on my modem. I hard wired this, I have no need for wireless right now, and it is working fine. Easy setup and worked right from the start. It likes to collect dust, but other than that, it's been fine so far. I would recommend it.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Starscream",
+      "helpful_votes": 0,
+      "publication_date": 20121208
+    },
+    {
+      "title": "3 years and going strong",
+      "text": "This device has been working really well for me for 3+ years. I'm using both bands and it has been performfing flawlessly. I like the guest feature and being able to manage the device on my iPhone. My one complaint is that it does not support a higher than 3TB hard drive on it's USB port. I tried to put my 4TB drive on it and it failed.",
+      "rating": 4.0,
+      "verified": true,
+      "author": "Amazon Customer",
+      "helpful_votes": 0,
+      "publication_date": 20121228
+    },
+    {
+      "title": "Excellent customizable router.",
+      "text": "I purchased this router to use a VPN pass through feature. After some hiccups at first I was able to configure and it is running smoothly. There is a ton of functionality on this router that allows you to completely control your network. If you are looking for the ability to control your network and use VPN services this is an excellent router worth the money. The signal strength is excellent. Overall I am very satisfied.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Zachary Ryan Foulk",
+      "helpful_votes": 0,
+      "publication_date": 20150829
+    },
+    {
+      "title": "Defective router - wasted a lot of my time",
+      "text": "Setup was not as easy as it should have been. Disc couldn't even be read in my Lenovo newer pc. Once router was finally setup it prompted me to update the software, which then bricked the router. Tried hard resetting numerous times unsuccessfully. Called Cisco support and they wasted another hour of my time telling me to do the same troubleshooting methods I had already tried. Finally Cisco deems the router defective. Bought a Netgear WNDR4500 - blows this router outta the water in all aspects.",
+      "rating": 2.0,
+      "verified": true,
+      "author": "David Diebold",
+      "helpful_votes": 0,
+      "publication_date": 20120930
+    },
+    {
+      "title": "Linksys E4200 from Amazon",
+      "text": "This device provided a notable improvement in the speed and reach of my home network. I've installed two of them and they work together perfectly; installation went well. My devices have no trouble connecting with the network, the connection is stable, and the two bands don't interfere with one another. A considerable improvement and well worth it for me.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "S. Signer",
+      "helpful_votes": 2,
+      "publication_date": 20110723
+    },
+    {
+      "title": "One good one bad",
+      "text": "I have 2 of these in our home. The original one is configured as a router connected to my cable modem and is 2+ years old. The other one is dumbed down and configured as an access point, this one is 1+ years old and the radio is crapping out! after the warranty expired. I will probably replace it with something else.",
+      "rating": 3.0,
+      "verified": true,
+      "author": "J. L. Marra",
+      "helpful_votes": 0,
+      "publication_date": 20140310
+    },
+    {
+      "title": "Runs really hot",
+      "text": "I read the reviews about it running hot, but thought what's the big deal? Well it gives off a toxic smell from it running so hot & on the days that I work from home I get a terrible headache from it. Now I am starting to have breathing problems, so it is about to go into the trash. If it were not for this issue, it is a great router.",
+      "rating": 2.0,
+      "verified": true,
+      "author": "T. Porter",
+      "helpful_votes": 0,
+      "publication_date": 20120909
+    },
+    {
+      "title": "... a new linksys firmware with this product which has dumbed down the web interface for admin control",
+      "text": "They have introduced a new linksys firmware with this product which has dumbed down the web interface for admin control. Personally I HIGHLY prefer the old panel. Product works well, but does require a restart about 1 time per week to maintain speeds. Nice continual uptime.",
+      "rating": 4.0,
+      "verified": true,
+      "author": "Travis",
+      "helpful_votes": 0,
+      "publication_date": 20150108
+    },
+    {
+      "title": "NO Software???",
+      "text": "Router is ok. No insructions or set inside in the box, it is packaged for a installer. You have to to go to an web address on a sticker on the box and install the software froma there. Alot CD in the box would save a lot of hassle.",
+      "rating": 4.0,
+      "verified": true,
+      "author": "KCurtis",
+      "helpful_votes": 0,
+      "publication_date": 20160816
+    },
+    {
+      "title": "Lucked out and got V1 dd-wrt installable version, fast but limited 5ghz range",
+      "text": "Item was Sold by: Electronica Direct and delivered in one day to NJ with free shipping. The router was in fact the e4200 V1(serial # starts with 01C10C) so it is possible to load dd-wrt on it. Cisco cd did not work on current Mac to configure router. Did a hard reset and installed dd-wrt, a lot faster than my previous WRT54GL so far. Only time will tell how stable it is, my WRT54GL has been up for over a year, which rarely dropped wifi connections, hopefully this is also the same stability. The 5ghz range sucks, but I knew that already before I bought it.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Vivek",
+      "helpful_votes": 0,
+      "publication_date": 20121211
+    },
+    {
+      "title": "Bought for range",
+      "text": "I bought this router for its advertised increased range. I still have trouble staying connected upstairs and on the opposite side of the house, so although I like the dual band and the safety features, I think I would have done as well with a router half the price of this one.",
+      "rating": 4.0,
+      "verified": true,
+      "author": "wyomingwriter",
+      "helpful_votes": 0,
+      "publication_date": 20121021
+    },
+    {
+      "title": "Occasionally drops out",
+      "text": "WHen it works it's great. Sends wireless signal to my NYC apartment full of walls and interference. I do lose my signal occasionally, but am not sure this is due to the router, or to the modem supplied by my ISP. Not a big problem: I just pull the plugs for a minute or so and everything works again.",
+      "rating": 4.0,
+      "verified": true,
+      "author": "Mark in New York",
+      "helpful_votes": 0,
+      "publication_date": 20131225
+    },
+    {
+      "title": "This router sucks",
+      "text": "The price has actually come down on this P.O.S. When I bought it over a year ago I think I paid around $140. Anyway, I really had no issues with this router for about a year and then suddenly it just started dropping its connection. I went through all the troubleshooting steps that I could find online ... updated firmware, hard reset, changing the channel, adjusting the MTU, etc. Nothing worked. If I reboot the router it will connect but ultimately drops the connection after a while. Sucks. Pretty disappointing for a networking product from Cisco.",
+      "rating": 2.0,
+      "verified": true,
+      "author": "M. Trader",
+      "helpful_votes": 0,
+      "publication_date": 20121108
+    },
+    {
+      "title": "Cisco-Linksys E4200 Dual-Band Wireless-N Router",
+      "text": "I purchased this router from Amazon prior to Christmas. The router arrived promptly. Setup was straight forward and I had no problems. I am using a high speed cable modem for my internet connection. I am using two hard wired ports and the wireless option. Connections via either are fast and reliable. I have found no wireless dead spots anywhere in my fairly large house. I highly recommend this product.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "beecee",
+      "helpful_votes": 0,
+      "publication_date": 20120108
+    },
+    {
+      "title": "Well worth the money.",
+      "text": "This just simply put works. I have a closet (literally ) of every brand of router made. And none of them have performed even close to this one. This is rock solid. I wish I would have bought and installed this one a year ago. Bite the bullet and spend the extra money for one that always works.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Ross Sexter",
+      "helpful_votes": 0,
+      "publication_date": 20130425
+    },
+    {
+      "title": "Like the router but watch the warranty",
+      "text": "This router works beautifully, but I was on the phone an hour with a tech person at Cisco getting it set up, so it was, in my case, note easy to install. The technician was incredibly helpful and patient. However, I also was surprised that the warranty had expired - it starts when Amazon bought it, not when the customer buys it. I had never heard of this, and will definitely check warranty information in the future before buying.",
+      "rating": 4.0,
+      "verified": true,
+      "author": "Susan Twombly",
+      "helpful_votes": 0,
+      "publication_date": 20130810
+    },
+    {
+      "title": "larger house, had to buy better router!",
+      "text": "Previously had a small Belkin router, worked fine at our other home, but then we moved to a much larger house and I guess it wasn't strong enough, we had better signal from our neighbors! LOL! Now, I am SO GLAD I researched reviews on this Cisco, and chose this router. We get EXCELLENT wifi all thru the house now, and Netflix works great in all the rooms.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "handydandymandi",
+      "helpful_votes": 0,
+      "publication_date": 20131002
+    },
+    {
+      "title": "bought this over 6 years ago --- still works great -",
+      "text": "bought this over 6 years ago --- still works great -",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Grant Cummings",
+      "helpful_votes": 0,
+      "publication_date": 20180425
+    },
+    {
+      "title": "Lots of features but poor 5ghz range",
+      "text": "This is a really good, reliably router but the range of the 5ghz is quite poor compared to the 2.4ghz which is a real shame. From my room I get full 5 bars on the 2.4ghz band but only 2 on the 5ghz, although it doesn't seem to affect speed all that much. If you're looking for housewide 5ghz coverage, you might want to consider something else but if it's not that important then it's a good quality product at a reasonable price.",
+      "rating": 4.0,
+      "verified": true,
+      "author": "Alex",
+      "helpful_votes": 2,
+      "publication_date": 20120406
+    },
+    {
+      "title": "Buy Cisco-Linksys E4200 Dual-Band Wireless / Compre Cisco-Linksys E4200 Dual-Band Wireless",
+      "text": "Buy this antenna to meet the need of an office with more than 10 wireless device and result me for more, the signal is strong and responds normally to all devices, the price was very good compared to other stores, recommended 100% Compre esta antena para cubrir la necesidad de una oficina con ma\u0301s de 10 dispositivo inala\u0301mbrico y me resultado para ma\u0301s, la sen\u0303al es potente y responde normalmente a todos los dispositivos, el precio fue muy bueno en comparacion a otras tiendas, recomendado 100%",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Soda Internacional",
+      "helpful_votes": 0,
+      "publication_date": 20130923
+    },
+    {
+      "title": "Best router ever",
+      "text": "I have 50 meg internet so I wanted a router that would let me take full advantage of it. I bought it, set it up in under 5 minutes with Linksys' easy set-up, and I was done. I have clocked in at over 70Mbps on Wifi! I have over 10 wifi devices in my house and it doesn't skip a beat. Highly recommend.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Chadwick Williams",
+      "helpful_votes": 0,
+      "publication_date": 20120322
+    },
+    {
+      "title": "Solved my wireless modem  range problem",
+      "text": "I bought the E4200 because of the increased range claims and reviews, even though I did not need the Wireless-N feature. I expected yet another failed coverage experiment, but instead ended up with great reception anywhere in our large, 1-story house. I recommend anyone experiencing poor wireless coverage to try this modem first.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "rejiii",
+      "helpful_votes": 0,
+      "publication_date": 20110718
+    },
+    {
+      "title": "Broken, just out of warranty!",
+      "text": "Install this for a customer, it lasted 14 months. Usually I install Pakedge or Ruckus but the customer didn't want to spend the money. Now he will be spending more because we will be installing a Pakedge this time. When it worked it was OK, coverage was not great.",
+      "rating": 2.0,
+      "verified": true,
+      "author": "Bill Wine",
+      "helpful_votes": 0,
+      "publication_date": 20131211
+    },
+    {
+      "title": "Very good product",
+      "text": "Easy to setup following Cisco install software. Took me awhile to get USB external storage drive to working. Downloaded a app for network storage and it worked now have scheduled backup without having to connect the backup drive. Blazing fast speed wired and lots slower wireless but is one of the best products of it's kind out there.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Douglas E. Goree",
+      "helpful_votes": 0,
+      "publication_date": 20110614
+    },
+    {
+      "title": "Not worth the hassle but resolved in the end",
+      "text": "Had the same experience as the other poster who received a defective unit. Package looked fine, well protected, no obvious shipping damage but router never worked. It would power on but could not establish a connection. After wasting my time cycling power, doing factory resets and looking online for possible solutions contacted customer support. Fast forward through holding for customer service, repeating the same steps, they decided unit was defective. It took more effort then I would have liked but Cisco finally agreed to replace it for me. I'm hoping not to have any problems with the replacement but we'll see. I'll give them one more chance hopefully the router performs.",
+      "rating": 2.0,
+      "verified": true,
+      "author": "random eng dude",
+      "helpful_votes": 2,
+      "publication_date": 20110628
+    },
+    {
+      "title": "nothing but trouble",
+      "text": "Router went down every day, losing internet connection for the hardwired PC, and had to be reset. Frequent dropped wifi signals. 3 hours on Cisco tech support chat and only solutions were to upgrade the firmware, to no good effect. Wanted to like it - struggled with tweaking the settings for 2 weeks - but finally had to return it. Reinstalled my old E1000 which provides consistently good and stable connections.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "catsim",
+      "helpful_votes": 0,
+      "publication_date": 20121213
+    },
+    {
+      "title": "Router for dummies",
+      "text": "I bought this router for my 80 year old grand-mother. She received it, opened the box, installed the router and to this day has enjoyed trouble free wireless connectivity in her home. If my 80 year old grand-mother can do it...",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Ricster1963",
+      "helpful_votes": 0,
+      "publication_date": 20131227
+    },
+    {
+      "title": "Love This Wireless Router",
+      "text": "I'm not going to get all technical because there's a million other reviews that do that for you, so I'll keep it simple: I couldn't be happier with this product. It was easy to set up and works extremely well. We have 10 different devices all using the WiFi provided by this router and the speeds remain consistently fast & reliable. Even closed up in the furthest away bathroom on the second floor, the signal strength remains strong and our devices continue to have internet access. It has a sleek design and allows for wired connections as well, should you need one. (We needed it for one device.) I would absolutely buy this router again and recommend it to others.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "BC",
+      "helpful_votes": 3,
+      "publication_date": 20110719
+    },
+    {
+      "title": "Easiest Home Network Setup Ever",
+      "text": "I suspect many people are hesitant to set up a wireless home network, fearing the unknown. I was a little intimidated because the Cisco E4200 is their latest and best router. I know Cisco to be a leader in network switches and that's why I chose them. If you can load a program from a disc or from a download and know how to connect the components of a computer system together with their cables, you CAN do this. Not hard, fast, and it worked the first time for me. John Mumber",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Lin/Jon",
+      "helpful_votes": 0,
+      "publication_date": 20110913
+    },
+    {
+      "title": "Wireless Router",
+      "text": "Very easy to setup and install. Small foot print but has and extremely long range. We have an outdoor sitting area that is abourt 5ot 6 hundred feet from the router and the wi-fi works just as efficiently as is does sitting at the deck where the router is located. Works in every room of the house.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Fran",
+      "helpful_votes": 0,
+      "publication_date": 20121229
+    },
+    {
+      "title": "Good range hard to set up",
+      "text": "I bought this after reading some reviews and decided that I would try it. It is being used in a 5700 Squarefoot house. I have excellent to good signal through out the house - running 2 computers, 3 - 4 laptops, XBox 360 and a Blueray DVD with netflix's......all scattered through out the houes which is a 2 story with large basement. Set up was a bit frustrating as it wanted to access the internet and not go through the reset procedure - other than that we able to finally get it situated and it works great.",
+      "rating": 4.0,
+      "verified": true,
+      "author": "Scott Ragsdale",
+      "helpful_votes": 0,
+      "publication_date": 20111122
+    },
+    {
+      "title": "Best router",
+      "text": "Works great after 2 years. DOES NOT randomly restart. Like most others do, Range is great especially for the 5ghz. Have fios and pay for the 50mb/s package and somehow this router makes that 50mb/s turn into 65mb/s. Great highly recommmend.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Jonathan",
+      "helpful_votes": 0,
+      "publication_date": 20140412
+    },
+    {
+      "title": "4200 is waybetter than 1200",
+      "text": "I have used a Linksys E1200 for the better part of two years, but the 4200 is superior in performance and reliability. Used a Netgear N600 for a while but that is and \"up and down\" wifi device. The 4200 is stable, easy to install and issue free. (Non techie review writer!)",
+      "rating": 5.0,
+      "verified": true,
+      "author": "R. Sanchez",
+      "helpful_votes": 0,
+      "publication_date": 20130702
+    },
+    {
+      "title": "Decent performance",
+      "text": "I give this a 4/5 because I feel like it drops signal more than my last Linksys. That being said it has much more power and greater bandwidth reach. It was very easy to setup unlike the DLink which disabled my WLAN card in my laptop. Never go DLink.",
+      "rating": 4.0,
+      "verified": true,
+      "author": "B. Sala",
+      "helpful_votes": 0,
+      "publication_date": 20130731
+    },
+    {
+      "title": "GREAT!",
+      "text": "I had gotten an ipad and wanted something good, because with the new TV's they have the Internet on them. So, it was for my ipad and any new TV we might buy. This was so easy to install, and is just fantastic. No problems and great as far as it works anywhere on my property. So glad I go this.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Sonoma Lady",
+      "helpful_votes": 0,
+      "publication_date": 20130218
+    },
+    {
+      "title": "This is the E4200 V2! Not the firmware fiendly V1!",
+      "text": "Not really Amazon's fault, but I just received mine today and confirmed it's the V2. The box dosen't mention V2 anywhere on it; once you open the box and look under the device, you'll see it's a V2. Avoid this if you were wanting the V1 for custom firmware. I'll be trying to return mine.",
+      "rating": 3.0,
+      "verified": true,
+      "author": "Nick A.",
+      "helpful_votes": 4,
+      "publication_date": 20120810
+    },
+    {
+      "title": "Solid router",
+      "text": "This router replaced a Belkin pre-n router that kept dropping wireless connection. It was very frustrating to have to reset it, sometimes three or four times a day. The e4200 has been solid with no dropped connections in a month. The wireless security is easy to set up and it's very easy to add wireless devices with the router's software. I was hesitant be cause of the price, but I love this router and I am very happy with this purchase.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Railbait",
+      "helpful_votes": 0,
+      "publication_date": 20111002
+    },
+    {
+      "title": "Excellent Router",
+      "text": "I was having problems with the range of my old \"g\" router, so I decided to buy the Linksys E4200 \"n\" router so that I could get a signal to my TV set in the other end of the house. I placed the E4200 up high and have been having good results so far. I've had the router installed and working for about a month now and I'm pretty happy with the results. The signal is not exactly blowing the doors off of my TV, but it does work pretty good. I'm able to watch YouTube, NetFlix and so forth on my TV using the E4200. Overall, I'd say it's a pretty good router.",
+      "rating": 4.0,
+      "verified": true,
+      "author": "sdtaxman",
+      "helpful_votes": 0,
+      "publication_date": 20111231
+    },
+    {
+      "title": "So simple, even I could do it!",
+      "text": "Even as someone who has let the technology generations pass me by, I was able to get this up and working in a matter of minutes. Plop the CD into my older version Mac, follow the simple steps and I was done. The Mac and my new Kindle Fire (which I am still trying to figure out) are now on Wi Fi. No more prolonged lunches at Chick-Fil-A to download my books and my computer can now go anywhere I want in the house. Isn't life great?",
+      "rating": 5.0,
+      "verified": true,
+      "author": "MacJan",
+      "helpful_votes": 0,
+      "publication_date": 20120330
+    }
+  ],
+  "product_meta": {
+    "title": "Cisco-Linksys E4200 Dual-Band Wireless-N Router,Black",
+    "description": "The Linksys E4200 offers maximum speed (up to 300 + 450 Mbps), optimal range, and simultaneous dual band technology to create an ultra powerful wireless network designed for home theater performance. Simultaneous dual band Wireless N technology allows for smoother and faster HD/3D video streaming. A built in USB port lets you add external storage to share files across your network. And a built in UPnP AV media server means you can seamlessly stream media files across your network. Plus, included Cisco Connect software gets you set up in three easy steps and offers powerful tools for ongoing management of your network.\n\nAMAZON.COM\n\n\n\n\nFROM THE MANUFACTURER\n \n\nThe Linksys E4200 offers maximum speed (up to 300 + 450 Mbps), optimal range, and simultaneous dual-band technology, plus a next-generation industrial design\n(see larger image) The Linksys E4200 offers maximum speed (up to 300 + 450 Mbps), optimal range, and simultaneous dual-band technology to create an ultra-powerful wireless network designed for home theater performance. Simultaneous dual-band Wireless-N technology allows for smoother and faster HD/3D video streaming. A built-in USB port lets you add external storage to share files across your network. And a built-in UPnP AV media server means you can seamlessly stream media files across your network. Plus, included Cisco Connect software gets you set up in three easy steps and offers powerful tools for ongoing management of your network.\n\nSee how the E4200 stacks up against the rest of the Linksys E-Series routers below.\n\nKEY FEATURES\nMAXIMUM WIRELESS SPEED\nThe Linksys E4200 offers ultra fast speed to connect your computers, Internet-ready TVs, game consoles, and other Wi-Fi devices at transfer rates up to 300 + 450 Mbps speed for a premium home network experience.\n\n\nSUPERIOR WIRELESS COVERAGE\nBuilt with leading 802.11n wireless technology, the Linksys E4200 offers maximum range to create a powerful wireless network. Full 3x3 MIMO antenna array boosts signal strength to provide exceptional coverage and reliability so you can enjoy your wireless network from anywhere in your home.\n\n\nTHE POWER OF DUAL-BAND\nDouble your network bandwidth with dual-band N (2.4 and 5 GHz) designed to avoid interference and maximize throughput for smoother and faster HD video streaming, file transfers, and wireless gaming.\n\n\nSPEEDBOOST\nHigher quality antenna technology helps to maintain high speeds across greater distances throughout your home for maximum wireless coverage and in-home mobility.\n\n\nADVANCED SECURITY\nKeep Wi-Fi freeloaders and Internet threats at bay with WPA/WPA2 encryption and SPI firewall to help keep your network protected.\n\n\n\nThe rear of the Linksys E4200 with four Gigabit Ethernet ports and a USB 2.0 port BENEFITS OF GIGABIT\nUse the four Gigabit Ethernet (10/100/1000) ports for quick file sharing, 10x faster than standard Ethernet, between other Gigabit-enabled devices like computers, hard drives, and servers.\n\n\nBUILT-IN USB PORT AND UPNP MEDIA SERVER\nThe USB port lets you add devices such as storage and printers to your network to share files at home or over the Internet for greater access to more information. The built-in UPnP AV Media Server enables seamless streaming of video and media files on your attached storage to an Xbox 360, PS3, or other UPnP compatible device.\n\n\nEasy set-up with Cisco Connect software. HOME THEATER READY\nBring the ultimate entertainment experience to your home by connecting computers, Internet-ready TVs, game consoles, media players and more to your wireless network and the Internet. QoS traffic prioritization technology is designed to deliver your time-sensitive Internet traffic efficiently so you can enjoy fast downloads, smooth video and music streaming, gaming and VoIP.\n\n\nQUICK TO INSTALL\nCisco Connect software helps you set up your home wireless network in three easy steps.\n\n\nEASY TO MANAGE\nCisco Connect software helps you customize your settings and quickly add multiple devices to your network:\n\n * Create a separate password protected network for guests \n * Limit access time and websites with Parental Controls \n * Access advanced network settings easily\n\n\n\n\n\nLINKSYS WIRELESS-N ROUTER COMPARISON\nE1200 E1500 E2500 E3200 E4200 Technology Wireless-N Wi-Fi Max Speed 300 Mbps 300 Mbps 600 Mbps 600 Mbps 750 Mbps Compatibility Wireless-N, \n-B, -G Wireless-N, \n-B, -G Wireless-N, \n-A, -B, -G Wireless-N, \n-A, -B, -G Wireless-N, \n-A, -B, -G Bands Single-band 2.4 GHz Single-band 2.4 GHz Simultaneous \nDual-band \n2.4 + 5 GHz Simultaneous \nDual-band \n2.4 + 5 GHz Simultaneous \nDual-band \n2.4 + 5 GHz Transmit/Receive\nStreams 2 x 2 2 x 3 2 x 2 2 x 3 3 x 3 SpeedBoost \u221a \u221a \u221a Power Amplifiers Integrated On-Chip External Off-Chip Integrated On-Chip External Off-Chip \nHigh Power External Off-Chip \nHigh Power Ports 4 x 10/100 4 x 10/100 4 x 10/100 4 x Gigabit\n1 x USB 4 x Gigabit\n1 x USB USB Features Shared Storage \nShared Printer* Shared Storage \nShared Printer \nMedia Server Wi-Fi \nProtected Setup Yes UPnP Support Yes Parental Controls Time of Day Access Controls \nSpecific Website Blocking Guest Wi-Fi Access Separate SSID for guests keeps your WiFi private Wireless Security WEP, WPA and WPA2 Personal and Enterprise, RADIUS Warranty 1 year hardware limited warranty, 90 days complimentary assisted support Package Contents Router, AC Adapter, CD-ROM with setup software, Ethernet Network Cable, Quick Start Guide Setup Software CD Cisco Connect \nWindows XP SP3, Vista SP1 or later, Windows 7 \nMac OS X 10.5, 10.6 \n\n\n\n\nSee more",
+    "rating": 4.2,
+    "feature_bullets": [
+      "Transfer rates up to 300 + 450 Mbps speed for a premium home network experience",
+      "Full 3x3 MIMO antenna array boosts signal strength to provide exceptional coverage and reliability",
+      "Double your network bandwidth with dual-band N (2.4 and 5 GHz) designed to avoid interference and maximize throughput",
+      "Keep Wi-Fi freeloaders and Internet threats at bay with WPA/WPA2 encryption and SPI firewall",
+      "Quick to install and easy to manage"
+    ],
+    "specifications": {
+      "Product Dimensions": "12 x 3 x 9 inches",
+      "Item Weight": "12.6 ounces",
+      "ASIN": "B004K1EZDS",
+      "Item model number": "E4200",
+      "Customer Reviews": "4.2 out of 5 stars924 ratings4.2 out of 5 stars",
+      "Best Sellers Rank": "#103,485 in Electronics",
+      "Is Discontinued By Manufacturer": "No",
+      "Date First Available": "January 24, 2011",
+      "Manufacturer": "Linksys"
+    },
+    "categories": [
+      "Computers & Accessories",
+      "Electronics",
+      "Routers",
+      "Networking Products"
+    ],
+    "price": 34.95
+  }
+}

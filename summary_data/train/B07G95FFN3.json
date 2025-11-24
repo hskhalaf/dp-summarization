@@ -1,0 +1,968 @@
+{
+  "website_summaries": [
+    {
+      "verdict": "Even though it's expensive, the TP-Link Kasa Smart Wi-Fi Power Strip comes with plenty of connected abilities that offset its high price.",
+      "pros": [
+        "The TP-Link Kasa Smart Wi-Fi Power Strip comes with six programmable outlets and doesn't need a hub",
+        "It connects to its own app for remote control, energy monitoring and scheduling",
+        "It works with Google Assistant, Alexa, Cortana and IFTTT",
+        "It's sleek and attractive"
+      ],
+      "cons": [
+        "It's expensive",
+        "Its USB ports don't support fast charging, nor do they talk to the Kasa app"
+      ],
+      "aspects": {
+        "Features": 7.5,
+        "Usability": 7.5,
+        "Design": 8.0,
+        "Performance": 7.0
+      },
+      "publication_date": 20181021,
+      "rating": 7.5,
+      "source": "cnet"
+    }
+  ],
+  "customer_reviews": [
+    {
+      "title": "Can't control with Alexa or Google home.",
+      "text": "Only can be controlled by Kasa app, but Alexa and Google Home app can't recognize device. Only with Kasa app, I can control local, and thru the internet, that means it's not remote control configuration issue, it means firmware is the one blocks third party remote control. I called tp-link support but 4 diffrent tech peoples keep insisting me to enable remote control button, which is missing in kasa smart app. So I sent screen shot of device setting, then they sent me e-mail, \" I reported this problem, to the supervisor. \" about three weeks ago. But No firmware update yet. I'm still waiting.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "Robert Park Ku",
+      "helpful_votes": 32,
+      "publication_date": 20190125
+    },
+    {
+      "title": "Fantastic individual operation of all outlets",
+      "text": "I use the surge protector to operate all of my different saltwater reef equipment. I'm able to individually set timers daily for all of the lights power heads and pumps. You are also able to turn each individual outlet on and off on its own. this is an amazing product and I have had zero issues working the surge protector.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Christopher R Jones",
+      "helpful_votes": 54,
+      "publication_date": 20190825
+    },
+    {
+      "title": "Impossible to update any WiFi or security settings. DO NOT BUY.",
+      "text": "Product does not support changing WiFi password once programmed. Forget updating your password regularly as recommended by every major authority (eg the Cybersecurity and Infrastructure Security Agency). If the WiFi password or any other setting changes (switching to hidden SSID or changing the SSID) the only option is a factory reset of all Kasa/TP Link devices and reprogramming them from scratch. All names, groups, everything is gone once a WiFi change is made. How can companies in today\u2019s age of cyber security and IoT be allowed to still release such a flawed product? Until this gets fixed I highly recommend against using any of the Kasa smart plugs.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "DigitalFuture",
+      "helpful_votes": 4,
+      "publication_date": 20200512
+    },
+    {
+      "title": "Google Hub Home user *edited* No longer good",
+      "text": "yes, it works with it. *Edited* - 1 month later Changing my review from 5 stars to 1 stars. It's constantly losing connection. Meaning, I'll say \"Ok, google turn on the lamp.\" and it'll wait and load for like 10 seconds or so, then say something like \"TP-Link has lost connect. Please, try again later\". It probably happens 2 times out of every 5 times I use it. Also, the app has the same issues. I'll use my phone to turn on/off the lights and it'll show it's loading and 10 seconds later nothing happens. I'm sure it's because I've lost connection with TP-Link. Good chance I'll be returning it.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "Amazon Customer",
+      "helpful_votes": 3,
+      "publication_date": 20200124
+    },
+    {
+      "title": "Fatal Flaw: Reboots itself periodically, shutting off power",
+      "text": "This thing should have been perfect. I set it up and have remote control individually across all the outlets without any difficulties. But after having it a few months, it's \"rebooted\" itself at least 5 or 6 times without warning. While for some uses this might not be a big deal, mine is connected to 3D printers as a safety mechanism to be able to remotely power them off if needed, but the effect of one of these whole power strip reboots is many wasted hours of printing. This is truly just the worst.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "A. L.",
+      "helpful_votes": 2,
+      "publication_date": 20200502
+    },
+    {
+      "title": "Pricy but works well, integrates with SmartThings via a groovy script.",
+      "text": "Since I got TP-Link/Kasa devices working on SmartThings I've started spending more money. Okay, spending more money is not great, but having devices that work consistently and at greater distances IS a great thing. Yeah, I googled and found out how to copy/paste 'groovy' scripts into SmartThings and that will be too much for some but if you have the tech bug you will find it's fairly easy to do.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Allen",
+      "helpful_votes": 4,
+      "publication_date": 20190204
+    },
+    {
+      "title": "Love the power monitoring and six individually addressable sockets",
+      "text": "I already have several Kasa single-outlet plugs around the house and love how they work. Adding this strip was super easy. The Kasa app. finds the strip automatically and adds it to your WIFI network (I wish these devices would start supporting 5GHz WIFI, though!). I love having six individually addressable outlets so I can have Alexa turn on and off separate devices in my office. Also really like the power monitoring feature. My only gripe here is it'd be nice to see the aggregate power consumption of devices on the strip; as it stands now, you have to take readings from all of the six plugs and add them up manually.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Mitch Miller",
+      "helpful_votes": 0,
+      "publication_date": 20200608
+    },
+    {
+      "title": "Power strip has WiFi connection problems",
+      "text": "The power strip is absolute garbage. I have many of the 1 outlet plugs and they all work 100%. No issues with signal drop. Power strip constantly has a red LED signifying wifi connection problems. Unplugging and plugging back into the wall sometimes fixes. Not a signal issue as no other devices have issues in that location.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "Chris B",
+      "helpful_votes": 6,
+      "publication_date": 20181221
+    },
+    {
+      "title": "Warning: Does NOT work with Open Wifi Networks",
+      "text": "I got half way through the install process before I found out that it requires my network to have a wifi password. I live a mile from my nearest neighbor and have no intention of putting passwords on my network so that I can use a power strip! Sorry TP-Link, I generally love your products, but you are NOT responsible for my network security preferences no matter what you lawyers say. Product has been returned. Note I gave an extra star for the nice industrial design.",
+      "rating": 2.0,
+      "verified": true,
+      "author": "M. Schwager",
+      "helpful_votes": 3,
+      "publication_date": 20190115
+    },
+    {
+      "title": "What more can you look for?",
+      "text": "Spacious surge protector! Anyone feels guilty when you charge your phone overnight? Me! From now on, I can set up a timer for my phone charger or even turn it off when I am laying on my bed. I also have my laptop charger plug into this device. The device is equipped with modern led indicators, has spacious outlets, and yet we can control each one from the app or through Google or Alexa. I hope that their auto shut off function will work and protect my devices. Overall, this smart surge protector is perfect for my desk. Bonus, the USB port is great for my echo dot.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Tim Tran",
+      "helpful_votes": 2,
+      "publication_date": 20191218
+    },
+    {
+      "title": "Perfect except for one thing...",
+      "text": "...the Kasa app gets confused when you have more than one strip on the network. I'm thinking they intended that folks would buy one of these - I bought two. One controls lamps, fans, humidifier and other always-on devices near the kitchen. One is used primarily for Christmas decorations. Since all of the individual plugs are numbered 1-6 you get two sets of each and the app assumes that there can only be one plug one, etc, so it does not show the other plug one until you rename it to something else. So, Kasa folks, fix this issue and sell more strip plugs!",
+      "rating": 4.0,
+      "verified": true,
+      "author": "John E. Brandt",
+      "helpful_votes": 0,
+      "publication_date": 20191008
+    },
+    {
+      "title": "Cannot recommend even in the slightest",
+      "text": "This product is great when it works. Unfortunately, that is not very often. I'd say 8 times out of 10 when I try to issue a command related to this power strip, I get a \"sorry. _____ is unavailable \" and a red ring on the strip itself, indicating it is not connected to the internet. It just doesnt stay connected, and it is the only product I own that disconnects this way. Not worth the hefty price tag",
+      "rating": 1.0,
+      "verified": true,
+      "author": "M. Botts",
+      "helpful_votes": 2,
+      "publication_date": 20191003
+    },
+    {
+      "title": "Works great with the KASA app",
+      "text": "Ideal as long as the items to control are close together. I had that situation controlled by separate mini-outlets but wanted to simplify the setup. I was pleasantly surprised when I gained a new feature, the ability to monitor and track power consumption. I had no problem finding some scattered devices for the old mini-outlets. Unfortunately I cannot report on Alexa integration because I use scheduling for control, not real time commands. Scheduling is super easy using the KASA app. I highly recommend the TP-Link devices in general, especially the power strip.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "BobH",
+      "helpful_votes": 0,
+      "publication_date": 20190830
+    },
+    {
+      "title": "Worked great for a week or 2 randomly doesn't come on when it should due to network issues",
+      "text": "Well I hate I left a 5 star review before really testing this thing it gets 0 stars. Using for horticulture lighting and it randomly doesn't connect to the network so lights don't come on when they should. It's a pain I want to like this smart strip but its causing my plants stress by not coming on and and going off at the correct times due to shoddy Wifi connections. Piss poor product I suggest finding something else. They won't even email me back after multiple feedback reports.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "Kcuf Nozama ",
+      "helpful_votes": 2,
+      "publication_date": 20191108
+    },
+    {
+      "title": "May Lose Settings When Power Goes Out!",
+      "text": "So, as long as they're working, they're quite nice. But about 1 out of 4 times the power goes out, they come back in initial setup mode with no programming. They then need to be added as a new device. Unfortunately this makes them pretty much useless as you can't have anything that requires actual timing. I got them to control lights for fish tanks and plants, but after re-programming them a second time after a power outage, I gave up. While the energy monitoring is a nice feature, you're better off with a dumb mechanical timer!",
+      "rating": 1.0,
+      "verified": true,
+      "author": "randomaTop Contributor: Diving",
+      "helpful_votes": 0,
+      "publication_date": 20200918
+    },
+    {
+      "title": "very cool, but sadly not accurate",
+      "text": "the power reading is very inaccurate it shows a power draw of 8W for a room fan used 2 other tools to measure it and checked the official rating, the actual power draw is around 50W the relays work very well though and i can turn devices on and off easily it also supports IFTTT so you can run scripts and use it to create a smart home very big and bulky design, but it works well the kasa app itself is... very basic sadly, you cant even sort the order of the plugs properly",
+      "rating": 3.0,
+      "verified": true,
+      "author": "sascha krohn",
+      "helpful_votes": 0,
+      "publication_date": 20190822
+    },
+    {
+      "title": "So easy!",
+      "text": "Love this thing. Easy to set up with Alexa, timers are easy to set up in the app, it's so responsive to commands and the added USB ports were a life saver. I will say though that all these smart plugs out there have buttons next to the plugs that you can manually cycle them off/on. I actually find them annoying but I understand why they include them. They all seem easy to press accidentally though if you are fighting with the strip/plug to remove something or plug something in. So you have to rethink how you pick it up or hold it. I do wish they would have made the buttons a little harder to engage accidentally.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Bob Barker",
+      "helpful_votes": 0,
+      "publication_date": 20200815
+    },
+    {
+      "title": "The hardest thing is remembering what you named each receptacle!",
+      "text": "I admit that it did take a tiny bit more time to set up - user errors - than my usual Kasa device, but at Christmas, I found it absolutely indispensable! There is nothing like sitting on my sofa and directing my various holiday decorations to turn on or off, without having to crawl under the tree! It is rare that I have 6 items tied to one extension cord, but I now have it under my foyer table, with a light and a candle warmer constantly attached, and having blanks for the holiday decor. Perfect!",
+      "rating": 5.0,
+      "verified": true,
+      "author": "D. Henderson",
+      "helpful_votes": 0,
+      "publication_date": 20190826
+    },
+    {
+      "title": "Gets HOT during use . . .",
+      "text": "I have several other Kasa products in my house that I love . . . most notably the smart light switches; however, I wanted to LOVE this item . . . but ours got HOT while in use. That is an indication of something not working properly. Problem is . . . I bought 4. Didn't discern the heat issue until 3 days past the 1 month return time. Therefore, I'm stuck with $200 of product that is . . . in my opinion, not safe to use. Appealing to Amazon to see if I can return anyway . . . haven't heard a decision yet.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "Mom of Great Kids",
+      "helpful_votes": 0,
+      "publication_date": 20190715
+    },
+    {
+      "title": "Waste of time and money",
+      "text": "I can\u2019t tell you how much time I\u2019ve wasted since last year trying to connect this thing back to the WiFi once it becomes disconnected(once a month easily.) The app constantly messes up saying there is no WiFi to connect to as I\u2019m connected to it. Cool concept with a laughable execution, could have easily saved time and money not buying a WiFi enabled \u201csmart\u201d strip",
+      "rating": 2.0,
+      "verified": true,
+      "author": "LadyLaff",
+      "helpful_votes": 0,
+      "publication_date": 20200912
+    },
+    {
+      "title": "Works great - easy to setup, love the energy monitoring features per outlet",
+      "text": "I'm very happy with this product! It is easy to setup and I love the energy monitoring features per outlet. Note that there is a on/off rocker switch on the bottom of the power strip. I didn't notice that at first and it took a moment to figure out why it wasn't working when I plugged it in. The Kasa app on Google works great, and the integration with Google Home is also quite good (I haven't used it with Alexa).",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Bob D",
+      "helpful_votes": 0,
+      "publication_date": 20191205
+    },
+    {
+      "title": "Individually controllable with power monitoring",
+      "text": "For the price this is a really power monitoring switched outlets. The power usage of each outlet is individually monitored and each outlet can be individually controlled vi the outlet. Cons: The power strip has a control button on the strip to turn each outlet on and off. In some cases, I would like the ability to disable this button on the strip so that a button cannot be accidentally pushed. There are some loads where I would like to measure the power usage, but I really do not want them turned off, via the button. Seems like since they are probably implemented in software it would be easy to add this kind of configuration to the app.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Darren F",
+      "helpful_votes": 0,
+      "publication_date": 20190604
+    },
+    {
+      "title": "Where has this been all my smart plug life?",
+      "text": "Works great! Perfect for the outlet behind my couch, so I can have different lights and devices plugged in with different names. For me, it\u2019s a plus the usb is always on, I have an extra long phone cord plugged in that snakes out under my couch and that\u2019s something I do want on when the lights are off. For me another plus is my other plugs are from the same company so it\u2019s the same app. This was something which sat in my saved cart for a bit, glad I got it it!",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Jenn",
+      "helpful_votes": 2,
+      "publication_date": 20190208
+    },
+    {
+      "title": "Suddenly Stopped Working, Service disorganized!",
+      "text": "Expensive power strip connected just fine and worked without issue. Today 9/14 it totally stopped working. None of the ports would turn on. Device shows disconnected in the app and online \"chat\" support is not a chat but a FAQ. No indication of how to reset the device. Essentially I have a $70.00 power cord that does nothing. Nothing has changed with any other devices. items running on the power strip draw very low levels of power. Now none of the outlets come on. Status ring light not illuminated. Customer service was horrible until I reached out though Facebook.",
+      "rating": 2.0,
+      "verified": true,
+      "author": "TomNH",
+      "helpful_votes": 0,
+      "publication_date": 20190915
+    },
+    {
+      "title": "This strip works EXCELLENT and is one of the only 6 outlet smart strips available!",
+      "text": "Other than the rather steep price point (I actually bought mine when it was $20 less than the current price), I can't really say anything bad about this product. All 6 outlets can be independently controlled via voice, and it will work with a multitude of systems. If your equipment is all located rather close together, a smart surge strip is your best best, and more than likely the most cost efficient. However, if your devices are in separate rooms or locations, skip this and buy yourself a pack of smart plugs instead. For my purposes, and having 6 different devices in short proximity and in the same room, this 6 port surge strip works just perfectly.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Christopher",
+      "helpful_votes": 0,
+      "publication_date": 20190108
+    },
+    {
+      "title": "nice strip",
+      "text": "I bought this for my new portable battery jumper that needs charged for 2 days every month. hooked it up to Alexa and named and configured the plug (each plug is independent from the other) However when I went to schedule it the Alexa app would only go out a week. right now I am just remembering to tell Alexa to turn on the plug once a month. if anyone knows how to implement a monthly schedule let me know. other than that it is a lot of plugs that can be named and configured to run anything 110.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "lucky",
+      "helpful_votes": 0,
+      "publication_date": 20200115
+    },
+    {
+      "title": "Great value, awesome for 3D printer",
+      "text": "The Kasa power strip is fantastic as a cost-effective way to have multiple individually-controllable outlets in one place, plugged into a single wall outlet. I use it for my 3D printer with a control box, print server, LED lights, camera, and more. I can control it all from the phone app for safety and convenience. And I have it integrated with the print server so that everything shuts off when a print is done, which saves energy and makes the house quieter.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Donovan Meyers",
+      "helpful_votes": 0,
+      "publication_date": 20200724
+    },
+    {
+      "title": "Makes my life way easier. Loving the timer.",
+      "text": "Perfect, i use it in my bedroom. Works great. Makes my life a lot easier. Awesome features. Timers, schedule your on/off, personalized icons for connexted devices. Energy consume info. CONS. LED light is quite bright at night in my bedroom. USB ports are always on so you cant turn them off with alexa. Please add more icons for plugs.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Miguel Madrid ",
+      "helpful_votes": 0,
+      "publication_date": 20200720
+    },
+    {
+      "title": "Easy to use and setup, little pricey",
+      "text": "I've never spent so much on a powerstrip in my life but wanted something that could control and monitor energy on a per plug basis. This product fit the bill. Very easy to setup and the software is nice and simple to use. Like the ability to set a schedule so that I can make sure electronics are using energy all night long when they aren't in use. I also needed a way to ensure that when my child is supposed to be studying in their room that I could make sure they weren't watching TV instead.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "SystemIdle",
+      "helpful_votes": 0,
+      "publication_date": 20200825
+    },
+    {
+      "title": "Great product, is it needed?",
+      "text": "I have a lot of TP Link home automation outlets and love them all. I bought this power strip on a whim. It does exactly what it says it will do. However, does one need all of those individually automated plugs on the same strip? Probably not. Think of your application before you buy. I have a bunch of computer equipment plugged into it that could all come on at once. If I'm honest I still have spare TP Link plugs I need to find homes for. It's easy to go crazy thinking you'll automate every aspect of your home but think through how you will use it.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Mystery Trout",
+      "helpful_votes": 0,
+      "publication_date": 20190426
+    },
+    {
+      "title": "My experience in using this as an aquarium controller..",
+      "text": "So I had this thing for 5 months as an aquarium controller so I could remotely turn a pump and lights on and off.. Went away for a few days and came back to hundreds of dollars of fish and corals dead.. all the plugs stopped working.. the strip was very hot. I am just glad that i came back in time before it got hotter and maybe caused a fire.. the surge protector did not even pop so something happened internally to cause all the plugs to stop working. Location wise it was far away from water with drip loops so water splashing was a non issue..",
+      "rating": 1.0,
+      "verified": true,
+      "author": "Mark Jakubowski",
+      "helpful_votes": 0,
+      "publication_date": 20200717
+    },
+    {
+      "title": "almost sets itself up",
+      "text": "these things rock. they look nice and I'm at the point in my smart home where wires are starting to be everywhere in my den. usb 24 charger, tv, cable box, dvd, 6 lights, weather station, clock, light strip, bridge, more plugs than outlets all running on the same circuit. Next step is specialty circuits for living room.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Ron Bed",
+      "helpful_votes": 0,
+      "publication_date": 20191106
+    },
+    {
+      "title": "Very useful, reliable",
+      "text": "I made a decision a while ago to use KASA devices for my smart home integration - mainly light switches, but this power strip is really useful and I plan to buy another one soon. All usable through the Kasa app but each individual outlet also has a physical switch to turn it on/off. I have it in my bedroom where i use it for my entertainment (TV, streaming devices, etc.)/lights and the USB ports it has on my dresser. Will soon put one in my shed (it will have allot of uses there).",
+      "rating": 5.0,
+      "verified": true,
+      "author": "TheToal",
+      "helpful_votes": 0,
+      "publication_date": 20190926
+    },
+    {
+      "title": "Get This (Not That)",
+      "text": "Wow! After using one of the competitor's generic cookie cutter \"smart strips\", which only lasted 3 months...THIS Kasa product is a \"Cadillac\" by comparison! Yes, it costs 3 times as much but the quality, both look and feel, are off the charts. Setup was super easy and the TP-Link name brand means a well-designed product without having to download yet another app (since you probably are already using the fine Kasa app).",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Carlos Velazquez",
+      "helpful_votes": 0,
+      "publication_date": 20190403
+    },
+    {
+      "title": "Awesome smart power strip!",
+      "text": "I love my Kasa power strip, I have it connected to some of my saltwater tank equipment and it\u2019s awesome, very easy to use and works with HomeKit and SmartThings. I haven\u2019t tried voice control but I only use Siri and Google. I don\u2019t have anything Alexa so I can\u2019t comment on that. Overall great product!",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Tyler",
+      "helpful_votes": 0,
+      "publication_date": 20191127
+    },
+    {
+      "title": "Works as expected (from a developer's point of view)",
+      "text": "There are many wifi power bars in the market, and I have used others. Hardware wise they function the same, however for me (as a developer) the controlling apps show how much effort a company puts into its products. I use the Kasa power bar to control dosing pumps of my reef aquarium, so for its inhabitants this is utterly mission critical. After 3 months of use I can confirm that the Kasa works as expected, unlike some others in the market where the manufacturer pushes out alpha ware (yes I've seen ridiculously bad apps). The cheap ones will be okay if you just want to turn your lights on while on vacation, but not when lives depend on it.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Barnaby",
+      "helpful_votes": 0,
+      "publication_date": 20191030
+    },
+    {
+      "title": "Smarter than your average power strip!",
+      "text": "I occasionally have issues with my Blink or Wink hubs needing to be reset which of course happens when I'm away from home. Using an independent Wi-Fi switch gets around this. I have 2 Blink Sync modules, 2 Wink Hubs, Arlo, Bond Fan Controller and LED light connected to this strip. App is clean and allows Alexa integration. I previously used the individual TP Link Wi-Fi outlets but this cleans up the power strip and is much more organized. I'm knocking off a star as the USB ports are not switchable and would have saved me 3 outlets as the Blink and Bond are USB powered.",
+      "rating": 4.0,
+      "verified": true,
+      "author": "Tim",
+      "helpful_votes": 0,
+      "publication_date": 20181116
+    },
+    {
+      "title": "Great Power Strip",
+      "text": "Okay, why spend so much on a power strip? Because it's for Alexa! In fact, I ended up picking up two! They were easy to set up, and the great thing is each plug is independent. The kitchen has undercounted lights, espresso machine, heated carafe. so when I want hot water, I ask Alexa, \"make hot water for two hours\" and she does! I love these products, because if you get worried that you left something on, you can always check the status on your phone and turn them on and off. These are solid and I like the weight and feel.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Glenn",
+      "helpful_votes": 0,
+      "publication_date": 20190320
+    },
+    {
+      "title": "Best invention ever",
+      "text": "This thing works flawlessly. I purchased it because I keep snakes and I do a day/night light cycle and this was the safest way to guarantee safety. If something fails on my AC, I can simply shut the power to everything connected to this so nothing gets overheated. Plus I can monitor the electricity usage real time, which is amazing. If they were cheaper, I would likely buy a couple more for my computer and other things in the house. You can't go wrong with this power strip though.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Neal Codere",
+      "helpful_votes": 0,
+      "publication_date": 20190525
+    },
+    {
+      "title": "Smart surge protector from a best brand!",
+      "text": "TP Link as best as always! No regrets. There are 6 WiFi outlets and works best. I would buy more of this smart surge protectors and recommend to anyone. 3 usb outlet is an added advantage! Little expensive though!",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Raj",
+      "helpful_votes": 0,
+      "publication_date": 20200519
+    },
+    {
+      "title": "Works perfectly, makes life easier",
+      "text": "I use this for my specifically times lights for my reptiles (chameleons/tortoise), works perfectly and timed and easy to use the app and control through the phone. Don\u2019t gotta worry about timers getting messed up, can see directly through phone and control away from home",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Michael Espinoza",
+      "helpful_votes": 0,
+      "publication_date": 20191126
+    },
+    {
+      "title": "Great for aquarists!",
+      "text": "Love this strip. I use this for my saltwater fishtank. Removes all the need for separate timer. I'm able to easily label each outlet to what piece of equipment it controls. I am able to set I individual schedules and timers. This thing is awesome. I recommend it for anyone who has an item them want to be able to control wirelessly. Haven't linked it with my Alexa. But I find the app on iOS easy to setuo and use. Would definitely recommend",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Bobby",
+      "helpful_votes": 0,
+      "publication_date": 20190922
+    },
+    {
+      "title": "Great outlet strip wifi controlled device",
+      "text": "This works great! I have had no issues. It connects easily to wifi. The app is very easy to use. There are a lot of features, likes scheduling. I have been using it for my aquarium. I have three of the plugs on a schedule and the rest permanently one. It has works great. The only issue is that there is no physically on/off button so you have to use the app to turn it on or off. I am very happy with the product. I would recommend it.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "David C",
+      "helpful_votes": 0,
+      "publication_date": 20190928
+    },
+    {
+      "title": "Very nice overall",
+      "text": "I really like the app control and the fact that you can add many of their other products and create a smart home. Just installed two of these for my reef tank aquarium and was a great value when compared to sew of the specialized equipment out there for reef aquariums. Now I'm adding some Smart light switches because I liked this product so much.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Jay",
+      "helpful_votes": 0,
+      "publication_date": 20200419
+    },
+    {
+      "title": "I would not recommend this item",
+      "text": "When I first got the item I was so excited because I was going to use it to automate my aquarium lights and pumps etc. By the end of week one unfortunately the thing started malfunctioning. I would turn off one receptacle and two others would turn off along with it. Then some of them would not respond. It eventually would not stay connected to the internet. I was was frustrated with the whole thing and worried it could start a fire so I just threw it in the garbage. All this within 8 days.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "Fabulous P.",
+      "helpful_votes": 0,
+      "publication_date": 20190808
+    },
+    {
+      "title": "Great tech",
+      "text": "I am totally here for the Kasa family of products. I should not have to buy a $100+ hub or some sentient AI/government listening device like Alexa to be able to program my energy needs. TP link makes it easy to set this up and schedule and provides usage feedback that I like to see. I wish this were a little bit cheaper, but as long as it lasts a good 8 years, I will call it a win.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Listener82",
+      "helpful_votes": 0,
+      "publication_date": 20181111
+    },
+    {
+      "title": "nice and it works, but it gets warm",
+      "text": "It works fine. Turns out I don't have a need for 6 remotely switchable outlets in one place, so I mostly use it as a regular power strip. Also, it gets pretty warm-- each switch generates some heat even when not connected to anything. That's normal but I think I am wasting some electricity. Overall, it was one of those things I got that I thought I'd have a lot of uses for, but turned out I didn't.",
+      "rating": 3.0,
+      "verified": true,
+      "author": "comp sci major",
+      "helpful_votes": 0,
+      "publication_date": 20191026
+    },
+    {
+      "title": "Great for what it is",
+      "text": "Great for what it is. Works great with alexa, the app ( presumably google). Individual control as one would expect. I have about 8. Did have 1 die on me, but easy to replace through amazon. Hidden benefit of these - they integrate with power monitoring devices. I use sense - these connect + work like a charm! Only complaint - a little pricey. I'd like to pay a little less, may $10-20 less per",
+      "rating": 5.0,
+      "verified": true,
+      "author": "david j",
+      "helpful_votes": 0,
+      "publication_date": 20191015
+    },
+    {
+      "title": "Used it for decor, was just the product",
+      "text": "I used it for my Christmas decor and it was perfect. Really easy to set up and works seamlessly with SmartThings into Alexa. It's just like having 6 separate Kasa smart plugs but all grouped on a strip. Just keep note of which plug is which at setup. When each outlet sets up in the Kasa app, they're labeled Outlet 1, 2, 3... It was briefly confusing but nothing that would discourage me from purchasing again.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Tommy",
+      "helpful_votes": 0,
+      "publication_date": 20200128
+    },
+    {
+      "title": "Reliable, easy app & google integration",
+      "text": "VERY happy with the Kasa products. I've bought 4 Kasa smart power strips & a smart plug. All of them have worked wonderfully with easy setup, good app UI, & google home integration. I especially like the fact you can see the wattage used by each plug which helps to target any vampire power usage. Had no idea cable box was always pulling 20W even when we aren't using it. Easily created a scene to shut everything I want down and have them startup before I wake in the morning.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Justin P",
+      "helpful_votes": 0,
+      "publication_date": 20200428
+    },
+    {
+      "title": "Outlets have independant monitoring",
+      "text": "It needs more outlets at least 8. The outlets are too close together. I have several wall transformers that are too wide, and one of them totally blocks all USB port access. Sometimes rotating the plugs 90 degrees helps in some cases, but the outlets are too close together.",
+      "rating": 4.0,
+      "verified": true,
+      "author": "cybernard",
+      "helpful_votes": 0,
+      "publication_date": 20191020
+    },
+    {
+      "title": "Cool but still trying to figure out what I'm going to use it on.",
+      "text": "It's easily setup, connects to Google, smartthings and most importantly to Sense monitoring.. Control 6 different outlets with custom ifttt and app use. Not sure what I'm going to do with it, but it has surge protection and also 2 usb ports. Monitoring and adding devices to sense is why I bought it. Along with single outlets it's great for unidentified devices in sense.",
+      "rating": 4.0,
+      "verified": true,
+      "author": "Jim Handshy",
+      "helpful_votes": 0,
+      "publication_date": 20191224
+    },
+    {
+      "title": "TOTAL FAILURE",
+      "text": "I spent well over an hour trying to get this to connect to my network with ZERO luck. I moved within 4 feet of my router and it failed to find a suitable network. It is. 2.4ghz network which IS THE NETWORK REQUIRED. Be aware ... the power strip is NOT SECURE, so goodness only knows what you are opening your network to when using this total WASTE OF MONEY AND TIME.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "Huey",
+      "helpful_votes": 0,
+      "publication_date": 20200101
+    },
+    {
+      "title": "Nice strip",
+      "text": "Power strip works well, just as my existing single plugs and interior cameras. As soon as I discovered this was available i ordered it. Upon arrival and before integrating into current system I had to update the my casa app. From there everything else was simple. Works great no issues, i don't have Alexa are any other voice command units added at the time. This power strip has six plugs and 3 usb, shows if plug from wall is grounded and adds protection from power surges. Each plug has individual buttons to turn on or off as needed. This was a great addition to system and a good price.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "RXR",
+      "helpful_votes": 0,
+      "publication_date": 20190505
+    },
+    {
+      "title": "Bugs to work out. Bad customer support",
+      "text": "I ordered this product to try before purchasing more. Unfortunately the app has a few bugs to work out and the hardware has limitations that they don\u2019t tell you about. I called customer service to learn about the timer functions and scheduling events before purchasing additional products but was misled by two customer service reps. There\u2019s no manual online and the info included is very minimal. When you call to learn more or use their online chat, support agents don\u2019t know how to help. Because I was misled I will likely be returning the additional products i ordered after i was misled.",
+      "rating": 2.0,
+      "verified": true,
+      "author": "SR",
+      "helpful_votes": 0,
+      "publication_date": 20190717
+    },
+    {
+      "title": "Perfect for aquariums",
+      "text": "This is perfect for controlling different equipment on an aquarium. I use it to turn off my pumps and ato during water changes. You can also set a timer to turn everything back on automatically after a set time. It would be perfect to set up with turning off pumps during autofeeding.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Trish",
+      "helpful_votes": 0,
+      "publication_date": 20200912
+    },
+    {
+      "title": "The App makes this item worth it",
+      "text": "I\u2019ve been using this a month or so, going strong. The hardware seems solid, will see over time. They really did a great job on the app. Fully featured, easy to use. App has independent on off for each outlet, you can name each outlet, can schedule on off throughout the day, and I\u2019m sure a lot more. Sometimes takes a second to connect to the power strip, but always does, and my power strip is inside a cabinet.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "DaveC",
+      "helpful_votes": 0,
+      "publication_date": 20190625
+    },
+    {
+      "title": "BEST. PURCHASE. EVER!",
+      "text": "My husband and I are SUPER techy people so we were excited for this purchase! We immediately set it up and absolutely love it! We paired it with our Alexa enabled devices and created routines with it so it only shuts off certain outlets on the power strip. Love that it is surge protected as well. Highly recommend! Easy to install, easy to pair with Alexa, and easy to control via the App and Alexa.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "vmlinks",
+      "helpful_votes": 0,
+      "publication_date": 20190404
+    },
+    {
+      "title": "Easy to setup, works perfectly",
+      "text": "Very, very easy to setup Works perfectly as expected, I have been using it for 5 months... never an issue You can control each outlet independently, you can get power consumption for each... give a name to each outlet to remember what connected and even have a picture representing each plug You can schedule the activity of each plug Can also be operated directly",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Robert",
+      "helpful_votes": 0,
+      "publication_date": 20190817
+    },
+    {
+      "title": "Worth every penny!!!",
+      "text": "After trying 3 other strips that were $30 cheaper we finally gave in and bought this one. We love Kasa products and this one doesn't disappoint. Right out of the box it feels sturdier. We use it for our outside Christmas lights and it's plugged into the garage. The wifi is strong enough to reach all the way out there! The set-up was a breeze too!!!",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Amber",
+      "helpful_votes": 0,
+      "publication_date": 20191211
+    },
+    {
+      "title": "Perfect for setting up a smart office",
+      "text": "I'm in the middle of setting up my smart office. I also have several devices in the office that I'd like to be able to control via Alexa. Instead of getting several smart plugs which will consume most if not all the outlets, This smart surge protector fits the bill. The TP-Link surge protector allows you to control each outlet as if they were individual smart plugs. That's pretty neat! In the app, it shows as if they are individual smart plug outlets.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "mmollat",
+      "helpful_votes": 0,
+      "publication_date": 20181119
+    },
+    {
+      "title": "Stopped working after 5 months!!!!!",
+      "text": "This started randomly turning off outlets - quite a problem when you are using this for computers and monitors. I liked that I could see what the power draw was, but this shutting off issue makes this unusable. Really disappointed, and no way to return this under warranty. Buyer beware!!!",
+      "rating": 1.0,
+      "verified": true,
+      "author": "Eileen Bennett",
+      "helpful_votes": 0,
+      "publication_date": 20200519
+    },
+    {
+      "title": "Outstanding power stip!!!!!!!",
+      "text": "I just order my 3rd one. This is so cool! I had the Kaza light bulbs (which I love!) and a couple of individual switches. But the power strips are so much nicer than the plugs. I love how you can get power usage and program them. It is so easy to set up too.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Jim Bensman",
+      "helpful_votes": 0,
+      "publication_date": 20191123
+    },
+    {
+      "title": "Don\u2019t waste your money trust me on this",
+      "text": "Such a waste of money trust me I owe a lot of electronic and never had an issue with what I owe, so this ugh, especially that the app don\u2019t over a choice where you can change you wifi instead of dealing with the instruction that doesn\u2019t even help, did everything it was told me to do to be able to change the wifi I even remover and installed the app to restart everything NOTHING I can\u2019t even return it no more smh",
+      "rating": 1.0,
+      "verified": true,
+      "author": "Gabriel C.",
+      "helpful_votes": 0,
+      "publication_date": 20200920
+    },
+    {
+      "title": "Awesome and reliable smart power strip",
+      "text": "Has a strong connection to my wifi router so it works reliably. Syncs with my Google home voice assistant. Saves me the hassle of moving furniture when I need to recycle power on any of the components of my entertainment center, especially my dish Hopper and Vizio smart TV which need a power cycle from the source occasionally. I would definitely recommend this product!!",
+      "rating": 5.0,
+      "verified": true,
+      "author": "JitenG",
+      "helpful_votes": 0,
+      "publication_date": 20190828
+    },
+    {
+      "title": "Great, wifi controllable, power strip.",
+      "text": "I found this to be great for my purpose. It works with Alexa, SmartThings, and Hubitat Environment (using custom device handler). Remote control via Alexa and SmartThings are on/off only and could improved if they could use the energy monitoring functions (especially in SmartThings). Via Hubitat, good control with the ability to execute events based on power consumption.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Dave G",
+      "helpful_votes": 0,
+      "publication_date": 20190721
+    },
+    {
+      "title": "Works great",
+      "text": "I have a bunch of T-P Link smart devices they all function flawlessly. Great products. Now how about a doing Kasa deadbolt smart lock conversion? Every one out there requires me to add a hub or camera to operate. Update: Carefully shield these from moisture. I was watering a plant near mine and a bit of water splashed on it. It was toatally fried and had to be replaced.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Jerry B",
+      "helpful_votes": 0,
+      "publication_date": 20190614
+    },
+    {
+      "title": "Beautifully made product just bad software.",
+      "text": "Awesome unit, very well made, feels solid and functions flawlessly. No cheap flimsy plastics or loose plugs, it's a great unit. Only complaint is that it's the only part of my smart home that uses the kasa app, while everything else uses smart home which has a better interface in my opinion. Integrates fairly well with Google home, don't know about Alex, she listens a little more than I prefer.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Kevin ",
+      "helpful_votes": 0,
+      "publication_date": 20190620
+    },
+    {
+      "title": "Worked for 90 Days",
+      "text": "Worked for a month and a half, smelled a funky burning smell and noticed it was dead. Thank God I can still return it, not. Never buying another one of these pieces of junk.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "E. Neil",
+      "helpful_votes": 0,
+      "publication_date": 20200916
+    },
+    {
+      "title": "Great product",
+      "text": "Works fantastic !! I work out of state and am constantly needing to reset things in my cabin. had to set up a direct router reset through IP though. I know this sounds like common since but for those wanting to reset your internet router, remember you can hit the button but once it goes down there is no connection to turn it back on lol jus saying",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Josh",
+      "helpful_votes": 0,
+      "publication_date": 20190909
+    },
+    {
+      "title": "Great product",
+      "text": "Just bought the smart strip for my bedroom. It is awesome. Easy set up, just download the app, follow the step by step instructions and you are good to go. I love to be able to turn on my air condition and my table lamps from my phone. I loved this so much I bought a single plug for a floor lamp in the living room. That too is working great. Easy set up. I may buy more, but for now, I am very happy with my choice.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "santaMonica",
+      "helpful_votes": 0,
+      "publication_date": 20181221
+    },
+    {
+      "title": "My Use: A Colorful Christmas",
+      "text": "This was my perfect solution to Christmas tree lighting. I plugged each different individual color strand into a different socket and named them through Kasa/Alexa. Green, Blue, Red, White, etc could be turned on exclusively or in a variety of combinations. It made for a different tree color each night.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Mountain Dawg",
+      "helpful_votes": 0,
+      "publication_date": 20200206
+    },
+    {
+      "title": "Works good but still draws power",
+      "text": "Works good but still draws power with all the indication and connection lights. I purchased to help cut power usage when using OhmConnect. Operationally has worked well, but with the wifi connection indicator light and power lights, it is still drawing power that I would like to cut.",
+      "rating": 3.0,
+      "verified": true,
+      "author": "TM",
+      "helpful_votes": 0,
+      "publication_date": 20190228
+    },
+    {
+      "title": "World's most expensive powerstrip",
+      "text": "...but worth it. The thing is uber quality, aesthetically appealing (for seemingly no reason? I mean, who is concerned about how their power strip looks?), and well designed. I have 2 of them now. The Kasa app could use a way to bundle outlets associated with a strip instead of a quasi-random list of plugs.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Todd S",
+      "helpful_votes": 0,
+      "publication_date": 20191231
+    },
+    {
+      "title": "Automation and monitoring",
+      "text": "I like these power strips so much I bought more. Each outlet is individually controllable, and you can monitor the current drain on each outlet. Then, you can control the outlets using the Kasa app on your phone or with Alexa, and you can cycle them by timer or create routines in Alexa. I use mine to save energy by cutting out phantom power drains.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "A. Chen",
+      "helpful_votes": 0,
+      "publication_date": 20191012
+    },
+    {
+      "title": "So much control!",
+      "text": "I can\u2019t attest to the long-term reliability of this because i\u2019ve Only had it for a week but it works phenomenally. I\u2019ve used it to automate my saltwater aquarium instead of buying $800+ aquarium specific equipment. Absolutely love the ability to switch plugs on and off and schedule them to all turn on or off at specific times each day. Paired with WiFi video cameras I can monitor and switch off problematic hardware while traveling. My only negative comment would be that scheduling temporal resolution is minutes so the closest two separate things can be scheduled to turn on/off is 1 minute apart.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Jacob",
+      "helpful_votes": 0,
+      "publication_date": 20200706
+    },
+    {
+      "title": "Great product! :)",
+      "text": "Exactly what I wanted. It was a bit tricky to figure out at first. The trick is to plug the device in then Immediately go to your settings in your WiFi to \u201cjoin the network\u201d for that device. Once you do that, then you can go through the steps to set up using the Kasa app and Alexa app.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Monica Nutter",
+      "helpful_votes": 0,
+      "publication_date": 20191222
+    },
+    {
+      "title": "Works with sense",
+      "text": "I bought this product so I could track electricity use of my routers and macs, which are almost always on. It works with Sense which is what I use to track electricity use. I do not care for Alexa or Google because I just don't trust those services. But although it is expensive for a power strip if you want to track electricity consumption its very good. On the rest of its features, I have no comment.",
+      "rating": 4.0,
+      "verified": true,
+      "author": "Mohan Paul",
+      "helpful_votes": 0,
+      "publication_date": 20200311
+    },
+    {
+      "title": "Very handy to be able to turn off individual plugs",
+      "text": "Bought for hubs as a stocking stuffer - easy set-up and he liked that it has the ability to turn off individual plugs but leave the others 'on'. Has an app which you download to any device to control it and for set-up. We velcroed it under a desk to plug in individual devices.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Udella",
+      "helpful_votes": 0,
+      "publication_date": 20200202
+    },
+    {
+      "title": "Convenience and Protection",
+      "text": "I wanted a smart strip for convenience but got this one because of the surge protection. I downloaded the Kasa app and set up the strip; then tied it in with Alexa. Now I just say \"Open office\" and the 2 powered speakers, floor lamp and computer monitor turn on. (Then \"Close office\" to turn stuff off.) I'd definitely buy this again, if needed.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Michael Dean",
+      "helpful_votes": 0,
+      "publication_date": 20190222
+    },
+    {
+      "title": "Great product, short power cord",
+      "text": "The power strip is pretty awesome and allows yo to manage each outlet in a very flexible way. It has no issues with Google integrations. Only problem I see with it, is the power cord being too short.",
+      "rating": 3.0,
+      "verified": true,
+      "author": "Carlos A Ortiz",
+      "helpful_votes": 2,
+      "publication_date": 20191120
+    },
+    {
+      "title": "Must have for a Kasa-enabled home",
+      "text": "Easy to use. You can control multiple outlets on one strip. Turn them all on or check to see if the hair straightener or iron was turned off after you leave the house.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Peter M",
+      "helpful_votes": 0,
+      "publication_date": 20191102
+    },
+    {
+      "title": "Functionality and quality.",
+      "text": "Exceeded my expectations! I have a large fish tank with multiple lights. Trying to use timers was awkward with each timer taking up 2 spaces on the outlet strip. With the Kasa smart outlet strip each light can controlled individually. Add the integration with Alexa and I have complete control of my lighting. BONUS this is a quality piece of equipment. Finished in hi-tech white plastic each outlet has a soft touch off/on switch with a status light.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Robert Hoffmann",
+      "helpful_votes": 0,
+      "publication_date": 20190802
+    },
+    {
+      "title": "Amazing bravo \ud83d\udc4f \ud83d\ude4c",
+      "text": "The product is amazing \ud83d\udc4f using for a fish tank i like that it tells me how many watts each plug is using so I dont overload my wall outlet super easy to use and set up and I like the built in timers so I can control my fish tank lights to come on and off at certain times. 5stars bravo. Only dislike is the mounting holes are alittle small wish the holes were alittle bigger couldnt find any screws that would actually hold it well but I figured something out and its awesome! Will recommend product to other reffers.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Robert klaus",
+      "helpful_votes": 0,
+      "publication_date": 20200929
+    },
+    {
+      "title": "Not the Correct Product",
+      "text": "I have forgiven Amazon of many small transgressions; however, I needed a power strip pronto and found this TP-Link power strip and thought it's features would be great to have. I have been busy so I took the power strip out of the package and plugged it in to start using it. Everything was going fine until today I decided to get all of it's cool features up and running and I found out that the power strip they gave me the wrong power strip!!! The box it came in was the correct box, but the correct product was not in it! Now, how does THAT happen???",
+      "rating": 1.0,
+      "verified": true,
+      "author": "Meinjuneer",
+      "helpful_votes": 0,
+      "publication_date": 20190404
+    },
+    {
+      "title": "Where has this been all this time!",
+      "text": "I seriously looked for a while for this, and it didn't seem to be available for a while. I even tried a foreign thing that didn't work, and even required a completely separate smart app if I were ever to get it to work anyway. So glad I found this, as it's amazing. I just wish the usb ports were controllable as well, but maybe eventually they will be.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Samuel",
+      "helpful_votes": 0,
+      "publication_date": 20181207
+    },
+    {
+      "title": "Recommended buy",
+      "text": "I use this behind my entertainment area. Want to see how much power your tv, cable box, game console, etc use? Want to be able to turn them off on with a schedule? Love it",
+      "rating": 5.0,
+      "verified": true,
+      "author": "RusselC",
+      "helpful_votes": 0,
+      "publication_date": 20191214
+    },
+    {
+      "title": "Eh",
+      "text": "Took 15 tries to connect, it couldnt find any connections. The power consumption monitoring is not real time, you have to go back then go to usage for it to refresh. And worst of all it started to smell like burning plastic after an hour.",
+      "rating": 2.0,
+      "verified": true,
+      "author": "Your mom",
+      "helpful_votes": 0,
+      "publication_date": 20200220
+    },
+    {
+      "title": "Works great.",
+      "text": "The kasa power strip works great. It's an easy and convenient way to add several controllable plugs at once. In my opinion the only thing that keeps it from getting 5 stars is the fact that the USB ports aren't controllable. Otherwise it's a great addition to my controlled home.",
+      "rating": 4.0,
+      "verified": true,
+      "author": "AmazonCustomer42",
+      "helpful_votes": 0,
+      "publication_date": 20190817
+    },
+    {
+      "title": "The best of the best.",
+      "text": "The best of the best. The KASA application is super easy to use from the cell phone. Each plug is independent to control by wifi. It is very beautiful and elegant. I bought 1 to try, and now I have 3. I forgot, also has protection surge spikes.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Nameless",
+      "helpful_votes": 0,
+      "publication_date": 20191219
+    },
+    {
+      "title": "Super easy to use",
+      "text": "Very convenient way to \"Alexa-ify\" six products at once. My office desk is now voice controlled with one outlet. I already had some tp link switches/outlets so adding the power strip to the app and Alexa was quick and easy. Using the normal outlets would have cost at least $40 more and more outlets that I had available.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Todd",
+      "helpful_votes": 0,
+      "publication_date": 20190128
+    },
+    {
+      "title": "Needs stronger Wifi connection.",
+      "text": "Powerstrip loses wifi connection easily and frequently. There is also a delay in connection with Alexa or via iPhone app.",
+      "rating": 3.0,
+      "verified": true,
+      "author": "Tiny&Olive",
+      "helpful_votes": 0,
+      "publication_date": 20191126
+    },
+    {
+      "title": "Quality Powerstrip",
+      "text": "Very reliable power strip that I can control from anywhere in the world. I have devices connected that need to reboot on a regular schedule and with this strip, all that can be programmed.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "tlernst",
+      "helpful_votes": 0,
+      "publication_date": 20200714
+    },
+    {
+      "title": "Alright",
+      "text": "Super difficult to pair the devices I had to it, but once I got them paired it works like a champ, also cannot use on certain things like TVs, gaming systems and some other things",
+      "rating": 3.0,
+      "verified": true,
+      "author": "Cory Johnson",
+      "helpful_votes": 0,
+      "publication_date": 20191202
+    },
+    {
+      "title": "Excellent smart power strip",
+      "text": "I bought this during Prime day promotion and I really enjoyed this purchase. Both the quality and functionality of this product is great. I like the fact that each outlet can be individually controlled - via Kasa app that can be integrated with Google Assistant and Alexa. You can also turn on/off each manually, schedule on/off times, and also monitor the energy usage. Overall, great product with neat features.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Gary C",
+      "helpful_votes": 0,
+      "publication_date": 20201019
+    },
+    {
+      "title": "Versatile",
+      "text": "Love this! Great space saver! It has USB ports but they are not \u201csmart plugs\u201d. I love that I can control the entire strip or each outlet separately. It\u2019s more streamlined than the strip I was using so it was a nice win for me!",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Cari Schnurr",
+      "helpful_votes": 0,
+      "publication_date": 20190207
+    },
+    {
+      "title": "Do you need multiple outlet remote power control?  This is it.",
+      "text": "Excellent features. Device has individual control of all ac outlets. This includes scheduling for individual plugs. My only issue with the TP-LINK/KASA products is that they do not like being configured with dual band Wi-Fi active. They are 2.4 Ghz devices. Once configured they will work with dual band active but for set up you must use only 2.4 Ghz.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Walter",
+      "helpful_votes": 0,
+      "publication_date": 20191205
+    },
+    {
+      "title": "Love TP link",
+      "text": "If you\u2019re not using TP link you\u2019re a dummy. I started with one smart bulb. I got it on sale with an Alexa mini (I eventually switched to google) I like keeping track of my usage and seeing my electric bill go down for sure, you can bet your ass I\u2019m going to buy another one for my AC unit this summer",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Ren Elizabeth",
+      "helpful_votes": 0,
+      "publication_date": 20190413
+    },
+    {
+      "title": "TP-Link Quality but a few disappointing points",
+      "text": "I like the quality so far, and the only reason i took away one star was the fact that i can't control the whole unit along with the individual outlets. I would have like to turn everything off without creating a scene including the USB ports. Not a big deal to some, but for me it stopped me from buying more for a couple of special purposes i have.",
+      "rating": 4.0,
+      "verified": true,
+      "author": "CasualBuyer",
+      "helpful_votes": 0,
+      "publication_date": 20181111
+    },
+    {
+      "title": "Smart devices from TP-Link are the best",
+      "text": "I've used their smart bulbs and smart plugs for a while it has been great. Their app works great with Google Assistant as well. Then this smart power strip came along I thought this actually very useful for my home theater setup. The smart power strip is just what I have been waiting. Works perfect!",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Elektrokoy",
+      "helpful_votes": 0,
+      "publication_date": 20190313
+    }
+  ],
+  "product_meta": {
+    "title": "Kasa Smart Plug Power Strip, Surge Protector w/ 6 Smart Outlets and 3 USB Ports, Works with Alexa Echo & Google Home , No Hub Required (HS300)",
+    "description": "With independent control of 6 devices and extra USB ports to charge 3 others, the kasa smart Wi-Fi power strip is ideal for your family rooms, home office or small business, power up your office remotely and even your holiday lights. Remotely control each outlet with the kasa smart app or use voice commands with Alexa, Google assistant, or Microsoft cortana. Kasa app system requirement: iOS 10 or Android 4.4 or higher.",
+    "rating": 4.6,
+    "feature_bullets": [
+      "6 smart outlets: Independently control 6 smart outlets, and charge 3 devices with built in USB ports; Ideal for controlling electronics in your home, home office, or small business",
+      "Surge protection: ETL certified surge protection shields sensitive electronics and appliances from sudden power surges that can occur during weather storms and cause irreparable damage",
+      "Energy monitoring : Monitor how much energy devices connected to the power strip consume; Check on each one from your Kasa smart app and turn off ones that are using too much power",
+      "Control from anywhere: Control connected devices from anywhere with the Kasa Smart app. Power up your office remotely and even your holiday lights from the app",
+      "Voice control: Remotely control your smart plug and use voice commands with Alexa, Google Assistant, or MicroSoft Cortana. Plug type:3-prong plug"
+    ],
+    "specifications": {
+      "Manufacturer": "TP-Link",
+      "Part Number": "HS300",
+      "Item Weight": "1.55 pounds",
+      "Product Dimensions": "14.17 x 2.49 x 1.48 inches",
+      "Item model number": "HS300",
+      "Is Discontinued By Manufacturer": "No",
+      "Size": "6 Outlets",
+      "Color": "White",
+      "Style": "6 Smart Outlets with 3 USB",
+      "Item Package Quantity": "1",
+      "Included Components": "1 HS300 Kasa Smart Power Strip,Quick Start Guide",
+      "Batteries Included?": "No",
+      "Batteries Required?": "No",
+      "Warranty Description": "2-year warranty",
+      "ASIN": "B07G95FFN3",
+      "Customer Reviews": "4.6 out of 5 stars1,145 ratings4.6 out of 5 stars",
+      "Best Sellers Rank": "#1,367 in Electronics",
+      "Date First Available": "September 4, 2018"
+    },
+    "categories": [
+      "Accessories & Supplies",
+      "Power Strips",
+      "Power Strips & Surge Protectors",
+      "Tools & Home Improvement",
+      "Electronics"
+    ],
+    "price": 64.99
+  }
+}

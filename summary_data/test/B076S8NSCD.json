@@ -1,0 +1,961 @@
+{
+  "website_summaries": [
+    {
+      "verdict": "The Synology DiskStation DS216j is a speedy and easy-to-use dual-drive consumer NAS that boasts easy remote access, a large selection of optional downloadable services, and bells and whistles tinkerers will appreciate.",
+      "pros": [
+        "Inexpensive",
+        "Web-based operating system",
+        "QuickConnect access over the Internet",
+        "Good selection of local apps and mobile device apps",
+        "Can support up to 16TB of storage",
+        "Works with RAID Level 0 and 1 configurations"
+      ],
+      "cons": [
+        "Drive access requires a screwdriver",
+        "You'll need to download, install, and set up each service individually"
+      ],
+      "aspects": {},
+      "publication_date": 20160715,
+      "rating": 8.0,
+      "source": "pcmag"
+    }
+  ],
+  "customer_reviews": [
+    {
+      "title": "RAID change not available",
+      "text": "Delivery was quick. HDD were not pre-installed, but supplied in separate wrappers, well padded for transport. HDD were easy to install. Surprising lack of advice about anti-static precautions while handling delicate components. Case is light weight plastic. Cooling fan is noisy. Vibration is a slight problem that may be resolved by standing case on padded material. Main complaint is that change of RAID setting appears to be blocked. Technical support advised how to get round this but result was corruption of one HDD. This \"repaired\" overnight, but RAID remained locked at \"SHR\". I would not buy this type again.",
+      "rating": 2.0,
+      "verified": true,
+      "author": "rew1mac",
+      "helpful_votes": 7,
+      "publication_date": 20190206
+    },
+    {
+      "title": "CloudStation Backup is Not Fit For Purpose.",
+      "text": "Bought the NAS to use as an off-site backup. The backup software provided (Cloud Station Backup) is utterly useless. Do not rely on this as a backup option, you will lose data. The system won't backup any large files (it gets so far then starts again, never actually completing the file), it repeatedly backs up the same file over and over ignoring other files, or the thing crashes altogether and just stops making backups. Synology had no useful support that fixed this, and the logs are packed full of errors. It simply does not work.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "C John Llewellyn",
+      "helpful_votes": 5,
+      "publication_date": 20190125
+    },
+    {
+      "title": "Loving it so far",
+      "text": "This is my first NAS drive and after some research I settled on this one as a: Apps are still available for my windows phone (but no longer supported) b: It works with 32 bit Windows 7 (some dont) c: I thought this would come with the drives installed (it didn't but installing the drives was straightforward ) Set-up is fairly straightforward but in some cases Apps must be installed in order so follow the help articles. Overall well impressed with it.",
+      "rating": 4.0,
+      "verified": true,
+      "author": "gordy",
+      "helpful_votes": 0,
+      "publication_date": 20190408
+    },
+    {
+      "title": "Lots of capabilities",
+      "text": "Hadn\u2019t used a \u201creal\u201d NAS drive before, so was pleasantly surprised by the number of applications provided, from movie streaming to full-functional surveillance system. For those that want to, can share among family members in the ways you\u2019d expect, with individual / sharing folders. Security looks to be complete from virus checker, firewall and security features. You do need to bear in mind that with the 2 bay drive you, one of the disks is used for redundancy. It\u2019s less of a problem with the bigger NAS drives with 4 bays. Only one is used for redundancy. Essentially this means that your data is protected. Also have the option of backing up to various cloud providers.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "C. Gray",
+      "helpful_votes": 0,
+      "publication_date": 20181207
+    },
+    {
+      "title": "Good device if you get it with HDDs preset up for you , plug and go - read me review",
+      "text": "Its a good storage device but do not expect to be streaming multipl 1080p videos via plex - its just not powerful enough for transcoding. Now if you have some ROKU's in your house - you're fine (or other devices that will play any format) and can stream files - then you're set - it will work fine, though if you want your device to work in 10 years time, you probably wont be able to play 50gb HDDs when they come out. They are good though , so good, i ended up buying a DS718 to go with it, the 218j for the kids movies and the 718 for all of my blu ray and dvd collection.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "CarlH",
+      "helpful_votes": 0,
+      "publication_date": 20190918
+    },
+    {
+      "title": "Best NAS for this amount of money",
+      "text": "I bought 3 so far, one for myself and two for my friends, none of them had any problems. Really wanted to buy the more advanced version but after experiencing this version for a while - I could see no reason to go for the higher spec, more expensive version. I bought only the enclosure and 2 separate 4TB Seagate HDD's every time - they work really great. The OS is intuitive. Not sure I'm going to buy the fourth but I'm convinced this particular model is a great machine. Highly recommended.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Alin Buda",
+      "helpful_votes": 0,
+      "publication_date": 20181221
+    },
+    {
+      "title": "Not impressed",
+      "text": "Not good. Ive been delaying my feedback on this item as it was returned on 8th September and only today (17th Oct) have I received my refund. It was sent back as it kept on knocking me off the internet connection, took hours to move data onto it, would only take so much at a time, just not up to the job. I had to email Buyer varies times asking where my refund was each time being told it was being looked into and one said they have sent it back to the manufacturers. (That wasnt my problem, I just wanted my money back). Things only got moving once I contacted Amazon and they used their A - Z guarantee.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "george",
+      "helpful_votes": 0,
+      "publication_date": 20191017
+    },
+    {
+      "title": "Not for the faint-hearted",
+      "text": "The product is great and very well made but I spent a lot of time setting it up. Really needs a manual as there are loads of apps to install but I didn't know which ones I really needed. While I wouldn't describe myself as an IT expert, I've set up many PC-related things successfully in the past but this one was the hardest by far. I got there in the end and it works great now, but couldn't recommend this to IT naive purchasers.",
+      "rating": 3.0,
+      "verified": true,
+      "author": "allanpcat",
+      "helpful_votes": 2,
+      "publication_date": 20180331
+    },
+    {
+      "title": "Excellent NAS Drive",
+      "text": "The product works perfectly. Had two immediate requirements - backup files & have my music available over wifi for my Sonos speakers. This is now done & all working as expected. Setup done with the aid of some YouTube guides, but with the help of those, all very easy to do. The other reason for picking this was due to the extended functionality of the Synology drives. This still needs to be done, but intend to have a folder for both kids (leaving away) to be able to access via the internet.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Amazon Customer",
+      "helpful_votes": 0,
+      "publication_date": 20200101
+    },
+    {
+      "title": "Wish I\u2019d got one sooner",
+      "text": "Fantastic bit of kit. Easy to set up and use, it basically looks after itself. Got all my pictures and music backed up and some films / tv shows. My smart tv connects fine and can watch my media. I\u2019ve got it set up so I can connect externally too so when we\u2019re at the caravan we can still use it",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Stevief06",
+      "helpful_votes": 0,
+      "publication_date": 20190808
+    },
+    {
+      "title": "Easy to install and reliable",
+      "text": "I like the easy access to the interior to install the drives. The software works perfectly, although like most peripherals which are really just computers running more software, sometimes opening the applications can be rather slow. That said I found it better than some I've tried. I bought this as a replacement for my Synology NAS single drive. The replaced unit was still working perfectly fine but I wanted the peace of mind of having a mirrored backup on the second drive. I should have bought this in the first place. I would recommend spending the extra on a twin drive NAS every time.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "John Suiter",
+      "helpful_votes": 0,
+      "publication_date": 20190207
+    },
+    {
+      "title": "Way better than my WD MyBookLive NAS",
+      "text": "Plugged in two WD 4TB Intellipower SATA Disks (WD40EFRX). Connected to Router, switched on and was up and running within minutes. Transfering my music collection from my existing WD MyBookLive. The DS Audio app for the iPhone is SSOOOO much better than the WD MyCloud app for playing music. The one thing I could never do with the WD app was to just play random songs from my entire music collection. The DS Audio app does this nicely. Happy days!",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Daniel Dearing",
+      "helpful_votes": 2,
+      "publication_date": 20180312
+    },
+    {
+      "title": "I hate it when my wife is right",
+      "text": "Wish I hadn't bought it. I got this to have a NAS drive for my Plex account. I hate it. Not easy to use for the uneducated. I didn't like the MyCloud I had but wish I'd kept it. Compared to this its a dream. Unless you know what you are doing I'd avoid this. I've been fighting with this on and off since I bought it. My advice is get something simpler to use",
+      "rating": 2.0,
+      "verified": true,
+      "author": "Paul",
+      "helpful_votes": 0,
+      "publication_date": 20200325
+    },
+    {
+      "title": "Didn\u2019t transfer metadata automatically.",
+      "text": "I am sure this is an excellent product but it did not work as described. I have 1500 films to transfer. While the transfer of the films was fine, the names of films were changed to numbers and no metadata automatically downloaded. I did not have time to re-watch every film, so sent the machine back. Painless, and a full refund! A pity, as it could have been a great long-term storage solution.",
+      "rating": 2.0,
+      "verified": true,
+      "author": "Tom",
+      "helpful_votes": 0,
+      "publication_date": 20200202
+    },
+    {
+      "title": "Fast & Responsive good replacement for Netgear ReadyNas",
+      "text": "I use this as shared storage for my windows and mac pcs. The unit is connected to a UPS. My Itunes library is now on the shared storage so it is always available to play music from my media servers. It also hosts Logitech Media server. I use the Synology media server for video. Accessing files is fast and responsive. Easy to administer the disc shares. No issues accessing folders from windows, From the mac I occasionally get directory not found messages on the mac when viewing folders which can be got around by restarting the finder application from the Apple Menu. Hence the three stars for ease of use",
+      "rating": 4.0,
+      "verified": true,
+      "author": "Mr. H. Kirkpatrick",
+      "helpful_votes": 0,
+      "publication_date": 20200226
+    },
+    {
+      "title": "Amazing NAS box - Synology software is awesome",
+      "text": "This is an awesome NAS box for the price, the features are incredible. Very easy to use and setup. For anyone that is looking to buy a NAS for PLEX, then this NAS is probably not for you.. you can install plex but it will only run some movies which are lower quality, some it won't play at all. But that is not a fault of this NAS, you would need a higher spec one. Perfect for backing up files, photos and videos from your phone (There are lots of IOS & Android apps)",
+      "rating": 5.0,
+      "verified": true,
+      "author": "IM",
+      "helpful_votes": 0,
+      "publication_date": 20190513
+    },
+    {
+      "title": "DO NOT BUY THIS! Random missing files",
+      "text": "It looks good seems good but I lost very very valuable important files with this drive! First the downloads were not copied to the folders I choose and just disappeared, then I copied over 1000s of photos and some legal documents to store it on this drive while i swap over my laptop. 90% of my photos and 100% of my documents disappeared. I know that doesn\u2019t happen, BUT IT DID! Synology support called me a liar pretty much saying i didn\u2019t copy the missing files. Yes that\u2019s what I do, throw away 13 years worth of personal photos and legal documents for my business! If you want to use this to store important files do not do that",
+      "rating": 1.0,
+      "verified": true,
+      "author": "Istvan M.",
+      "helpful_votes": 0,
+      "publication_date": 20191111
+    },
+    {
+      "title": "It works",
+      "text": "I bought this product with some trepidation. Yes I know the theory of File Serving & Mirroring but I've never set it up before. I wanted the DiskStation for bulk storage of all my RAW Picture Files but have ended up using it both for that and as a Media(Music in my case) Server as well. Set up was relatively easy and quite frankly for my purposes it just works. I don't allow any external access so hope to avoid any unwanted visitors. I would certainly recommend this set up for the uses I have.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Nikonman",
+      "helpful_votes": 0,
+      "publication_date": 20200204
+    },
+    {
+      "title": "Well impressed",
+      "text": "Bought this to expand my storage capacity and am using as a mirror RAID. The extras that come with this are great. Am using as a cloud drive and a VPN, I am also using a USB 4TB hard drive off the back as a backup drive for my media files. There several other impressive applications that come with this NAS drive",
+      "rating": 5.0,
+      "verified": true,
+      "author": "SLAPER-1",
+      "helpful_votes": 0,
+      "publication_date": 20200123
+    },
+    {
+      "title": "You need knowledge and confidence to set up this piece of kit",
+      "text": "It has taken me nearly three weeks off and on to set up my NAS. That may well be due to my own ignorance, but the downloaded manual seemed to deal only in acronyms and made massive assumptions about their customers\u2019 level of experience and expertise. Anyway, I think it\u2019s done now and I think I\u2019m ready to set things going. I certainly hope so, but I must say that this has NOT been an enjoyable experience thus far. Fingers crossed!",
+      "rating": 4.0,
+      "verified": true,
+      "author": "ALAN HEYDON",
+      "helpful_votes": 0,
+      "publication_date": 20190727
+    },
+    {
+      "title": "Simple networked storage you can access over the internet",
+      "text": "These boxes are awesome. Really simple to install. I bought one for work about 3 years ago and have bought 2 more for backup and other organisations i work with. There are so many uses. Straight Network attached storage. Map a netwok drive locally or over the internet. Mirror internally or to another device in an offsite location. Have your own massive distributed cloud storage (like dropbox, but not quite as good). Really good backup program as well as multiple versions kept on the disk itself. Create links to files for others to download. Autobackup to or from your other cloud providers. Apps for your phone to access files or music. Wow.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "A. Godfrey",
+      "helpful_votes": 0,
+      "publication_date": 20200103
+    },
+    {
+      "title": "Excellent NAS",
+      "text": "Easy to set up, install and configure. Works well, is fast and has been good to use so far. Excellent overall, would recommend to anyone needing a home NAS - make sure you get hard disks listed on the Synology compatibility list. I've used WD Reds",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Apple Man",
+      "helpful_votes": 0,
+      "publication_date": 20190308
+    },
+    {
+      "title": "Easy to use starter NAS",
+      "text": "Setup is a breeze. Install couple of hard drives, install the software and its ready to go. Absolutely love Synology's DSM interface. So easy to use, change settings and install software. Can highly recommend Synology devices after using this. May purchase a larger model in future as storage needs increase.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Ken P",
+      "helpful_votes": 0,
+      "publication_date": 20200410
+    },
+    {
+      "title": "This was so worth it",
+      "text": "I've had mine for over a year now and its fantastic. As well as being a storage device where all my important stuff goes and is mirrored across two drives for safety, it is my mobile music streamer (no need for spotify subscription), it hosts my website (no need for smugmug subscription now), it controls the CCTV recording for my house and I'm sure it can do a tonne more stuff if I knew how. Everything has been so easy to setup, no frustrated headscraching. I'm really very happy with it.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "David Garthwaite",
+      "helpful_votes": 0,
+      "publication_date": 20191005
+    },
+    {
+      "title": "Super piece of kit",
+      "text": "Bought this to replace an ageing Seagate 2 bay NAS whose performance was lacking. Installation was a breeze. The DSM software is easy to navigate. Copying data was very fast I averaged 80mb/s. I access the drives via NFS on an Artix Linux box and my wife with a Windows 10 pc",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Jeremy",
+      "helpful_votes": 0,
+      "publication_date": 20200609
+    },
+    {
+      "title": "Nice NAS, good features and cost effective",
+      "text": "I bought this to replace a buffalo NAS that failed. This fit the bill as a cost effective upgrade and could house my media which is linked to a plex server. In hindsight I should have paid a lot more and upgraded to a synology capable of HEVC and 4K content playing but at the time the cost was prohibitive.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "nmh",
+      "helpful_votes": 0,
+      "publication_date": 20190612
+    },
+    {
+      "title": "Great Server Solution that really works",
+      "text": "Finally I have a server at home to store all my documents with proper security. Many thanks - very happy with my purchase. It is fast, I can connect wherever I am , it is easy to configure ( instructions were great anyway), and it has a lot of space but it is scalable enough.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "MJM",
+      "helpful_votes": 0,
+      "publication_date": 20190927
+    },
+    {
+      "title": "Very easy to setup for even moderately advanced users, integrates well with Apple devices",
+      "text": "I'm impressed with how easy it was to setup both hardware and software wise. Main perk is loads of easy to use apps that integrate well with other systems eg. iOS (iphone) apps to access video, music, photo storage, automatic photo backup(!), easy to use apps on Apple TV as well (and even a music app for Apple Watch!), highly recommended! A bit noisy during the initial big data transfer when filling up the 4TB WD Red HDD",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Maciej Skwierczynski",
+      "helpful_votes": 0,
+      "publication_date": 20190311
+    },
+    {
+      "title": "Good backup but not an iTunes server",
+      "text": "Fantastic bit of kit for a file server with cloud backup. The iTunes server side is let down by decoding power of the cpu t a good iTunes server but everything else was excellent. Sit-up for me remotely bu a freelancer off Fiverr, cost $12",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Roddyb",
+      "helpful_votes": 0,
+      "publication_date": 20200210
+    },
+    {
+      "title": "A bit of a pain",
+      "text": "It\u2019s probably good as a backup device, but I find using it as a daily place to store and work with files and photos is a bit clunky, and the connection when away from home regularly fails. Am going to go back to a portable hard disk (backing up to a second with Goodsync)",
+      "rating": 2.0,
+      "verified": true,
+      "author": "Poodoo",
+      "helpful_votes": 0,
+      "publication_date": 20200802
+    },
+    {
+      "title": "Works great, like all Synology boxes",
+      "text": "I have bought half a dozen of these boxes and they all work great. If buying a bare one (no drives) do check the drive compatibility table since many drives don't work in them, especially some cheap ones. The functionality is excellent, with nice features like a dropbox client.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "peterh337",
+      "helpful_votes": 0,
+      "publication_date": 20190512
+    },
+    {
+      "title": "Fantastic NAS Drive!",
+      "text": "Hi - Great product ! I previously owned an old Readynas drive (approx 10 years old) - served me well but was due an upgrade. After reading all of the reviews i went for this one & so glad i did. The set up could not be any easier & the iphone apps are great. absolutely love this machine !",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Stu",
+      "helpful_votes": 0,
+      "publication_date": 20180502
+    },
+    {
+      "title": "Does what it's meant to",
+      "text": "Needed a new nas didn't have a ton of money to spend so opted for this model. Has some decent features that I wanted in a nas and I've not had any problems with it. It was easy to set up and get online with it, the good thing is keeping all applications all in one place so we can now run plex 24/7 along with other apps.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Sid The Great",
+      "helpful_votes": 0,
+      "publication_date": 20181205
+    },
+    {
+      "title": "Great NAS with useful user apps",
+      "text": "Bought mainly to back up data from other devices including photos whilst travelling Works a treat Loads of apps and features that I still need to explore including security camera monitoring and VPN Note I bought a bare version and purchased the hard drives separately as this is much cheaper. Installation as a raid was very easy",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Roger Baker",
+      "helpful_votes": 0,
+      "publication_date": 20200110
+    },
+    {
+      "title": "Waste of money",
+      "text": "Useless product, the backup app cloud station is so bugged and poorly coded it duplicates files and wastes storage space. Can't even manually add files either, complete waste of money.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "wpl",
+      "helpful_votes": 2,
+      "publication_date": 20181230
+    },
+    {
+      "title": "No drive holders included",
+      "text": "I had no idea that the driver holders were not included when I ordered this NAS. Now I have to order them separately, paying more money and having to wait a few more days before I can safely store my images.",
+      "rating": 2.0,
+      "verified": true,
+      "author": "Tamas",
+      "helpful_votes": 0,
+      "publication_date": 20200118
+    },
+    {
+      "title": "Great Nas",
+      "text": "Much better than my previous NAS device as this one is definitely compatible with Windows 10. Took some getting used to but this wasn\u2019t any fault of the device . Worked perfectly so far and use it everyday.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Tom Poole",
+      "helpful_votes": 0,
+      "publication_date": 20200106
+    },
+    {
+      "title": "Excellent full function NAS device",
+      "text": "Purchased this to backup multiple Mac laptops and desktops using Time Machine. Does this job very well (after following some online guidance as to how best to set it up), but I'm really under-utilising the device given the wide range of packages that can be installed. For example, I just attached an old non-AirPrint and non-Google Print aware printer and now I can use both services to print (from iOS and a Google Chrome device). Highly recommended if you're prepared to spend a little bit of time into learning the interface.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "David L",
+      "helpful_votes": 0,
+      "publication_date": 20191121
+    },
+    {
+      "title": "Not plug and play",
+      "text": "Awful. Not plug and play as expected. Bought this based on previous reviews. Bought to replace my mybook live which was easy to use and install. Cannot get this NAS to connect or install satisfactorily. If I new I would have to contact synology for solutions, I would not have bought it. It will be returned.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "MR C.",
+      "helpful_votes": 0,
+      "publication_date": 20181123
+    },
+    {
+      "title": "Easy to use and set up",
+      "text": "Easy to use and set up, plenty of videos online to help as well. i was able to set up a static ip and map the network drives. it easily streams to our smart TVs. acts as a good back to our documents and photos. I had a drive fail in my 216 and the RAID was able to continue running and re-establish the backup once new drives were installed.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Mr. C. Holmes",
+      "helpful_votes": 0,
+      "publication_date": 20191005
+    },
+    {
+      "title": "Amazing product!",
+      "text": "My first home NAS from Synology proved to be on par with her enterprise products. Excellent software packages, fast network response and security. Great for Soho. Good job!",
+      "rating": 5.0,
+      "verified": true,
+      "author": "ZUK",
+      "helpful_votes": 0,
+      "publication_date": 20200122
+    },
+    {
+      "title": "A solid NAS",
+      "text": "I'm really pleased with this. Getting it up and running was straight forward. It offers many applications. The documentation for these is poor for a novice like me and setting up is time cosuming and needeca lot of googling. It is far too soon to comment on durability.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "JonC",
+      "helpful_votes": 0,
+      "publication_date": 20190218
+    },
+    {
+      "title": "Replacement for Netgear ReadyNAs",
+      "text": "It is unbelievable how much of an improvement it is over the ReadyNAS. stripped the drives out and the device installed perfectly. Should have done this years ago.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "hazel",
+      "helpful_votes": 0,
+      "publication_date": 20200616
+    },
+    {
+      "title": "Setup options are somewhat overwhelming",
+      "text": "I have been using this item for some months and it has performed flawlessly. One reason for choosing this NAS is the range of features that it can support. However the downside to this is that setup is frankly overwhelming if you are new to NAS.",
+      "rating": 4.0,
+      "verified": true,
+      "author": "Frank Opinion",
+      "helpful_votes": 0,
+      "publication_date": 20190124
+    },
+    {
+      "title": "Great",
+      "text": "Really very good system, can't believe it took me this long to get one. Primarily use for backing up laptop and streaming video to the TV, does this perfectly.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Adam Oliver",
+      "helpful_votes": 0,
+      "publication_date": 20190918
+    },
+    {
+      "title": "Awesome!",
+      "text": "Really awesome performance and value for money NAS drive which I use for storing photographs and streaming music to digital players.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "phydaux",
+      "helpful_votes": 0,
+      "publication_date": 20200501
+    },
+    {
+      "title": "It\u2019s easy to set up.",
+      "text": "I had a DS115j and decided to get a DS228j for extra storage. It\u2019s very easy to set up, just need to choose a name and follow the instructions. I have three TVs that can all see the media content with no problems. The app for a phone is good too so you can see your documents and photos easily anywhere, as well as being able to remotely log in from any pc.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Ranny",
+      "helpful_votes": 0,
+      "publication_date": 20190130
+    },
+    {
+      "title": "great piece of kit",
+      "text": "great piece of kit, quite fast, great to connect over the internet and working on the station is quite fast, I used to have an older version and bought this one for the office, I like it and it not too complicate to install, unless you are total new with this",
+      "rating": 5.0,
+      "verified": true,
+      "author": "photoion",
+      "helpful_votes": 0,
+      "publication_date": 20180228
+    },
+    {
+      "title": "Good raid drive.",
+      "text": "Great raid drives. Need a little bit of knowledge to set up, but once done they work brilliantly. Can back up for home and also from cloud storage, so great accessibility.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "ncr d.",
+      "helpful_votes": 0,
+      "publication_date": 20190315
+    },
+    {
+      "title": "Excellent. Got a proper home network now with all ...",
+      "text": "Excellent. Got a proper home network now with all files in one storage. Also very happy with the synology remote backup service which I am currently trialling for a month free of charge, after which it looks pretty competitive.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "pete_mate",
+      "helpful_votes": 0,
+      "publication_date": 20180529
+    },
+    {
+      "title": "Seems good",
+      "text": "no problems so far, was able to set it up and get it running on all devices, it has tons of options to customise how you use it.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Silly Bunny",
+      "helpful_votes": 0,
+      "publication_date": 20190914
+    },
+    {
+      "title": "Good for non geeks.",
+      "text": "It took a while to get used to this, but I now have my entire photo collection and CD collection on this, plus a backup of all my data.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Amazon Customer",
+      "helpful_votes": 0,
+      "publication_date": 20200612
+    },
+    {
+      "title": "Symbology disk drive - very good.",
+      "text": "Looks the business and does a lot more than I expected. Only gripe, very limited instructions. I had to watch a lot of you-tube videos to set this up, hence three stars.",
+      "rating": 4.0,
+      "verified": true,
+      "author": "chris",
+      "helpful_votes": 0,
+      "publication_date": 20200503
+    },
+    {
+      "title": "You can't upgrade the RAM as it's soldered.",
+      "text": "Really good bit of kit. I think I'll probably upgrade in the future as the low un-upgradable 512MB Ram may cause bottlenecking when I have it accessable by all in my home. Apart from that it's perfect for a small household and as a starter kit.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Jamie",
+      "helpful_votes": 0,
+      "publication_date": 20180803
+    },
+    {
+      "title": "Highly recommend!",
+      "text": "After an initial issue with installing it was soon up and running. It works well and gives plenty of options. An excellent Nas drive.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "gdb",
+      "helpful_votes": 0,
+      "publication_date": 20190522
+    },
+    {
+      "title": "Easy to set up",
+      "text": "Really easy to setup; install the drives connect to your network (router needs to be giving out IP addresses [dhcp]) and power on. Also love the way it can sync to OneDrive (or several other storage clouds).",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Amazon Customer",
+      "helpful_votes": 0,
+      "publication_date": 20191128
+    },
+    {
+      "title": "Excellent easy to setup NAS drive",
+      "text": "This was an upgrade from a previous Synology product and it has performed flawlessly, would recommend no problem. It is easy to set up and access across my home network.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Gordi",
+      "helpful_votes": 0,
+      "publication_date": 20190525
+    },
+    {
+      "title": "Brilliant",
+      "text": "Simply excellent. Bought to replace a Buffalo NAS which was extremely frustrating to use. This is obviously more expensive but I would say it's worth it because of it's ease of use; it works the way I was hoping the Buffalo would (but didn't) and has a shedload of additional apps that can be used in conjuction with it.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "murrow",
+      "helpful_votes": 0,
+      "publication_date": 20180623
+    },
+    {
+      "title": "Synology excellent as usual",
+      "text": "Great little budget nas. No issues. Installed the drives and installed DSM. Everything working fast and quiet. Can't even hear it. I went for this one as I didn't need all the features of the more expensive versions and this was perfect for my needs of just serving files over my network.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Harb",
+      "helpful_votes": 0,
+      "publication_date": 20190607
+    },
+    {
+      "title": "Very reliable & good quality",
+      "text": "A very good quality NAS drive setup, easy to use & reliable.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Carbonised Eye sockets",
+      "helpful_votes": 0,
+      "publication_date": 20200805
+    },
+    {
+      "title": "Great bit of kit",
+      "text": "easy to set up and so far has been extremely reliable. So much better than the previous buffalo which failed within a year and was a nightmare to set up properly",
+      "rating": 5.0,
+      "verified": true,
+      "author": "G. C",
+      "helpful_votes": 0,
+      "publication_date": 20190326
+    },
+    {
+      "title": "Buy a great name for quality",
+      "text": "Purchased this to run Plex for all my media, well happy great unit, can watch my own media when away from home via phone or tablet.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Clark",
+      "helpful_votes": 0,
+      "publication_date": 20190901
+    },
+    {
+      "title": "Fantastic Piece of Technology",
+      "text": "Repeat purchase - cannot fault any Synology products - being used solely as a surveillance server. Fantastic aftercare from Synology.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Peter",
+      "helpful_votes": 0,
+      "publication_date": 20180531
+    },
+    {
+      "title": "Must have for backup",
+      "text": "Did spent money in the past for other nas solutions, ended up paying for data recovery and losing most of my data. I should have purchased this all along. Very easy to configure and maintain. Very very highly recommended!",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Amazon Customer",
+      "helpful_votes": 0,
+      "publication_date": 20180727
+    },
+    {
+      "title": "Ideal NAS solution",
+      "text": "Ideal NAS solution for a first time home user. My only regret is not opting for higher volume HDDs, but the hardware is well built, and the available apps provide all the functionality you could ever need, with Linux management software making its use relatively simple. Of the myriad of options out there, I am pleased I opted for a Synology solution.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Fernando",
+      "helpful_votes": 0,
+      "publication_date": 20180613
+    },
+    {
+      "title": "Slow and Involves IT Geekery for set up",
+      "text": "Not at all easy to set up unless maybe your into computers. I bought to mainly as household storage for photos. Now that thousands are loaded in to it, it\u2019s really slow to access them and not the slick experience I expected.",
+      "rating": 3.0,
+      "verified": true,
+      "author": "bruce milroy",
+      "helpful_votes": 0,
+      "publication_date": 20181209
+    },
+    {
+      "title": "Good item",
+      "text": "Great once you set up and understand how to use",
+      "rating": 5.0,
+      "verified": true,
+      "author": "mrs t howe",
+      "helpful_votes": 0,
+      "publication_date": 20200208
+    },
+    {
+      "title": "Easy to setup and Use",
+      "text": "Easy to set up. Works well with Mac Time Machine",
+      "rating": 4.0,
+      "verified": true,
+      "author": "Geoff",
+      "helpful_votes": 0,
+      "publication_date": 20190701
+    },
+    {
+      "title": "security",
+      "text": "Great addition to you SOHO and SMB. Feature rich and secure.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Darrell",
+      "helpful_votes": 0,
+      "publication_date": 20190321
+    },
+    {
+      "title": "Bought two separate hdds to mount myself easy to do and great instructions",
+      "text": "Impressed with unit, it's quality and software so far. Bought two separate hdds to mount myself easy to do and great instructions, along with all information available online.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "superwhale",
+      "helpful_votes": 0,
+      "publication_date": 20180205
+    },
+    {
+      "title": "Its quiet, it does the job. I am ...",
+      "text": "Its quiet, it does the job. I am not a computer expert, but was able to set this up ok, including inserting the hard drives.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "LSL",
+      "helpful_votes": 0,
+      "publication_date": 20180310
+    },
+    {
+      "title": "Amazing bit of kit",
+      "text": "Amazing bit of kit, safe in the knowledge that we won\u2019t lose all our family pics and videos from over the digital camera years.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Michael T.",
+      "helpful_votes": 0,
+      "publication_date": 20180315
+    },
+    {
+      "title": "Great piece of kit",
+      "text": "Item came on time and was well packaged. It was easy to setup and I was up and running in no time.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Lee",
+      "helpful_votes": 0,
+      "publication_date": 20180920
+    },
+    {
+      "title": "Good local network drive",
+      "text": "Good local drive. Processor not powerful enough to run Plex easily.",
+      "rating": 4.0,
+      "verified": true,
+      "author": "Bruce Duncan",
+      "helpful_votes": 0,
+      "publication_date": 20190723
+    },
+    {
+      "title": "UK sale but American plug....",
+      "text": "Arrived with foreign power lead. Unable to use immediately. Very frustrating.",
+      "rating": 3.0,
+      "verified": true,
+      "author": "R. Kent",
+      "helpful_votes": 0,
+      "publication_date": 20180720
+    },
+    {
+      "title": "its working fine",
+      "text": "Hadnt realised that the storage disk was a separate purchase, but otherwise ok",
+      "rating": 4.0,
+      "verified": true,
+      "author": "Jackie",
+      "helpful_votes": 0,
+      "publication_date": 20200610
+    },
+    {
+      "title": "Good quality, easy to  use",
+      "text": "This is a great solution for centralised backup and file syncing, and streaming movies, music, etc. Very simple too setup and it looks good too.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Amazon Customer",
+      "helpful_votes": 0,
+      "publication_date": 20191224
+    },
+    {
+      "title": "A great backup solution",
+      "text": "Simple to setup and easy to maintain. A must for a personal back up system",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Clive Jones",
+      "helpful_votes": 0,
+      "publication_date": 20180727
+    },
+    {
+      "title": "Very good",
+      "text": "Easy to setup but a lot of tools to learn and understand",
+      "rating": 5.0,
+      "verified": true,
+      "author": "mr s bristow",
+      "helpful_votes": 0,
+      "publication_date": 20190523
+    },
+    {
+      "title": "Great home entertainment system",
+      "text": "Great for home entertainment system. Synokogy diskstation has a great OS with many features with stable infra.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "cihad",
+      "helpful_votes": 0,
+      "publication_date": 20190604
+    },
+    {
+      "title": "not for the untech savy",
+      "text": "Seems to work well but needed assistance to set up",
+      "rating": 5.0,
+      "verified": true,
+      "author": "chris lamb",
+      "helpful_votes": 0,
+      "publication_date": 20190129
+    },
+    {
+      "title": "COULD NOT GET IT WORKING ERROR ERROR",
+      "text": "TO COMPLICATED CRAP IN THE BIN GONE BACK TO MY SAEGATE SPENT OVER A DAY TRYING PISSED ME OFF",
+      "rating": 1.0,
+      "verified": true,
+      "author": "michael j law",
+      "helpful_votes": 0,
+      "publication_date": 20200404
+    },
+    {
+      "title": "Five Stars",
+      "text": "Excellent NAS ready to use straight out of the box.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "stevew",
+      "helpful_votes": 0,
+      "publication_date": 20180613
+    },
+    {
+      "title": "Just what I needed.",
+      "text": "Just what I needed to make sure I had a back-up of my files and good value",
+      "rating": 5.0,
+      "verified": true,
+      "author": "DrP",
+      "helpful_votes": 0,
+      "publication_date": 20180304
+    },
+    {
+      "title": "Buy it",
+      "text": "Simple to set up and find on your home network.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Geoff Howard",
+      "helpful_votes": 0,
+      "publication_date": 20180713
+    },
+    {
+      "title": "Ideal to stream FullHd videos and music in home network.",
+      "text": "Really good Nas with a lot of options and software to download. Also very quiet at night as it is placed in bedroom, led lights are adjustable too.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "J. Kobylinski",
+      "helpful_votes": 0,
+      "publication_date": 20200118
+    },
+    {
+      "title": "Brilliant server for the money",
+      "text": "Can\u2019t beat this server for a cheap yet vastly functional home unit. It really can be used by beginners and experts alike",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Rick Howarth",
+      "helpful_votes": 0,
+      "publication_date": 20200913
+    },
+    {
+      "title": "Excellent unit .. even a numpty can use it :)",
+      "text": "Excellent NAS unit , software is a joy to use.. After having seen the other makes of unit this one surpasses them all excellent technical support as well would recommend .. 5 stars Merv",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Merv",
+      "helpful_votes": 0,
+      "publication_date": 20180501
+    },
+    {
+      "title": "I love Synology NAS",
+      "text": "Synology NAS devices are as good as you can get for home use in my opinion. Easy to set up, great interface. This is my third.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Mr P G Mellor",
+      "helpful_votes": 0,
+      "publication_date": 20200125
+    },
+    {
+      "title": "Simple",
+      "text": "Brilliant backup drive that\u2019s easy to setup with YouTube\u2019s help, it has the added advantage of running Plex for music too.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "J P Moore",
+      "helpful_votes": 0,
+      "publication_date": 20200101
+    },
+    {
+      "title": "Online description spot-on",
+      "text": "Was very easy to install. Software is easy to install and configure. Used to store data.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "MR I TOPLIS",
+      "helpful_votes": 0,
+      "publication_date": 20190429
+    },
+    {
+      "title": "Easy to install and use",
+      "text": "Excellent, use it to sync files across three machines and then sync with onedrive.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Amazon Customer",
+      "helpful_votes": 0,
+      "publication_date": 20191103
+    },
+    {
+      "title": "awesome product",
+      "text": "I didnt know how much I would need it. Redundant backup, file server and infinite number of extensions",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Xabier",
+      "helpful_votes": 0,
+      "publication_date": 20190328
+    },
+    {
+      "title": "Don't buy this from amazon, or buy without drives. I got one of my drives totally not working",
+      "text": "And there's no way to just get the single drive replaced, but you have to pack everything and get everything replaced",
+      "rating": 1.0,
+      "verified": true,
+      "author": "L M",
+      "helpful_votes": 0,
+      "publication_date": 20181027
+    },
+    {
+      "title": "Fast NAS",
+      "text": "Excellent transfer rates over NFS, just what I needed for multiple VMWare backups.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Dave Griffiths",
+      "helpful_votes": 0,
+      "publication_date": 20190406
+    },
+    {
+      "title": "The best user interface on a NAS ever!",
+      "text": "This is the best NAS drive I have had b a very very big margin. The unit is attractive, and very quiet in operation, but the key advantage is the software,. The software includes 'packages' which you run to allow you to access files more easily, for example Photo Station which allows you to access images by thumbnail and view folders as albums, and also view images slideshows etc. The remote access (Quick Connect) is easy to set up and works a treat. I will be needing another NAS soon, and it will be a Synology unit. Without doubt.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Doug",
+      "helpful_votes": 0,
+      "publication_date": 20180312
+    },
+    {
+      "title": "The apps are poor for music and photos",
+      "text": "Sorry. Read the reviews and bought this Nas after a lot of research. The apps are poor for music and photos. There is no integration with iTunes. The port forwarding for external access has not been simple to setup. Basically I\u2019ve ended up purchasing an expensive disk storage system. And the online instructions are dreadful. I don\u2019t want to spend hours looking at how to get this to work, or that configured.... Really disappointed.",
+      "rating": 2.0,
+      "verified": true,
+      "author": "David Mckechnie",
+      "helpful_votes": 2,
+      "publication_date": 20180415
+    },
+    {
+      "title": "Unusable",
+      "text": "Ordered online because I needed to back up quickly. Speedy delivery and easy disk install. However, on attempting to plug in, I discovered that the supplied mains cable had an American plug attached, the result being that I cannot use it without further time and expense. Tempted to return it but that would be \u2018pulling my nose off to spite my face\u2019, so will have to suffer a 40 mile trip to get an adapter.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "Beryl",
+      "helpful_votes": 3,
+      "publication_date": 20180913
+    },
+    {
+      "title": "Great NAS - everything else about my order  p*** poor",
+      "text": "The product itself is all good. Bought through Amazon Warehouse deals - no manual, no software CD, no UK power cord - but a European one! 4TB disk ordered by Amazon for this device arrived late and worse effectively DOA. All in all it took far longer to the the product installed than was necessary but is finally working well.",
+      "rating": 2.0,
+      "verified": true,
+      "author": "Amazon Customer",
+      "helpful_votes": 2,
+      "publication_date": 20180825
+    },
+    {
+      "title": "Dreadful",
+      "text": "Absolute rubbish, cheap plastic rubbish. My toaster has better plastic. This arrived opened and parts missing - avoid at all cost \u00a3166 for a plastic drive caddy!! very poor",
+      "rating": 1.0,
+      "verified": true,
+      "author": "nero hero",
+      "helpful_votes": 2,
+      "publication_date": 20180206
+    }
+  ],
+  "product_meta": {
+    "title": "Synology DS218j 2 Bay Desktop NAS Enclosure",
+    "description": "Style Name:Enclosure| Capacity:EnclosureSynology DiskStation DS218j is a 2-bay NAS server which perfectly fits home and personal users to build your own personal cloud. Simple yet powerful, Synology DS218j offers effortless data sharing, multimedia streaming, and cloud synchronization. Synology DS218j is backed by Synology\u2019s 2-year limited warranty.\n\nBOX CONTAINS\nMain Unit X 1, Accessory Pack X 1, AC Power Adapter X 1, AC Power Cord X 1, RJ-45 LAN Cable X 1, QIG X 1",
+    "rating": 4.5,
+    "feature_bullets": [
+      "A versatile entry-level 2-bay NAS for home and personal cloud storage",
+      "Over 113 MB/s reading, 112 MB/s writing. System fan: 92 mm x 92 mm x 1 pcs",
+      "Dual-core CPU with hardware encryption engine",
+      "Everywhere access with iOS/Android/ Windows ready mobile apps",
+      "An integrated media server supporting multimedia streaming"
+    ],
+    "specifications": {
+      "Brand": "Synology",
+      "Product Dimensions": "22.2 x 9.8 x 16.3 cm; 1 Kilograms",
+      "Item model number": "DS218j",
+      "Manufacturer": "Synology",
+      "Series": "DS218J Diskstation",
+      "Processor Count": "2",
+      "RAM Size": "512 MB",
+      "Computer Memory Type": "DDR3 SDRAM",
+      "Hard Disk Description": "No Hard-disk",
+      "Are Batteries Included": "No",
+      "Item Weight": "1 kg",
+      "ASIN": "B076S8NSCD",
+      "Customer Reviews": "4.5 out of 5 stars883 ratings4.5 out of 5 stars",
+      "Best Sellers Rank": "27,542 in Computers & Accessories",
+      "Date First Available": "11 Oct. 2017"
+    },
+    "categories": [
+      "Computers & Accessories",
+      "Data Storage",
+      "Enclosures",
+      "Network Attached Storage"
+    ],
+    "price": 263.31
+  }
+}

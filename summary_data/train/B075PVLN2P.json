@@ -1,0 +1,975 @@
+{
+  "website_summaries": [
+    {
+      "verdict": "Acer's lower-cost PC hardware gives you access to a few cool VR experiences, but Microsoft's mixed-reality world feels too empty at this early stage.",
+      "pros": [
+        "Simple setup, no extra sensors required, comfortable to wear, and works on a very wide range of computer hardware"
+      ],
+      "cons": [
+        "Very limited software, some motion controller tracking issues, and the more-advanced Oculus Rift now costs the same"
+      ],
+      "aspects": {},
+      "publication_date": 20171020,
+      "rating": "",
+      "source": "cnet"
+    },
+    {
+      "verdict": "The first Windows Mixed Reality VR headset we've tested, the Acer AH101-D8EY offers strong, affordable hardware for a platform that still has a lot of rough edges to smooth.",
+      "pros": [
+        "Relatively affordable for a tethered headset",
+        "Comfortable",
+        "Easy to set up",
+        "No external sensors or beacons needed"
+      ],
+      "cons": [
+        "Camera-based position tracking isn't quite as responsive as sensor/beacon-based tracking",
+        "SteamVR compatibility is buggy",
+        "Windows Mixed Reality library is small compared with SteamVR and Oculus Rift"
+      ],
+      "aspects": {},
+      "publication_date": 20171221,
+      "rating": 6.0,
+      "source": "pcmag"
+    }
+  ],
+  "customer_reviews": [
+    {
+      "title": "Good headset",
+      "text": "I have an HTC Vive. It isn\u2019t useable with WMR, so I bought this Acer headset. It is lighter, an advantage. Tracking the controllers uses sensors in the front of the headset, so motion behind your head is not tracked. Annoying in some games - compensate by turning head sideways, so target is in periphery. Display quality is good but not as good as the HTC. I wear glasses and they get pressed against nose bridge and cheeks. If you want to use Cortana, you will need to run a microphone cable to your sound card. In all, a good buy.",
+      "rating": 4.0,
+      "verified": true,
+      "author": "A. L. Shultes",
+      "helpful_votes": 24,
+      "publication_date": 20180223
+    },
+    {
+      "title": "If you buy this its your own fault",
+      "text": "The drivers don't work, the cord is too long to give power to the headset, it stops working if you hookup headphones, the drivers are in multiple places. On two completely different systems, it took over three hours to get this set somewhat running. I'm in college for Cybersecurity, if you don't know anything about computers, you'll never get this thing running. Else, be prepared to spend hours uninstalling certain windows updates, reading forums, searching for compatible drivers for other hardware, and restarting windows. This was a complete waste of time and money. Systems: Laptop HP Omen with a i7-8750h, 32gb RAM, GTX 1070. Desktop i7-4790k, 16gb RAM, GTX 980ti.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "Joshua J.",
+      "helpful_votes": 8,
+      "publication_date": 20190211
+    },
+    {
+      "title": "Nice for the price but not best in class",
+      "text": "I really like it and it was quite easy to install Pros: - one of the cheapest GOOD solutions - no major flaws (maybe except from the lack of a BT receptor) - doesn't need extra sensors for detection (like Oculus) - pretty good move and hight observation - quite comfortable, light and seems to be quite robust - good and precise controllers - allows external headset Cons: - does NOT include Bluetooth reception - needs extra dongle if you don't already have BT !!! - somehow not sharp on the whole viewing field - smaller viewing field than Oculus - no rechargeable batteries - sometimes loses position and sets you into 'ground' - does not include speakers in headset",
+      "rating": 4.0,
+      "verified": true,
+      "author": "Dan Mitchell",
+      "helpful_votes": 8,
+      "publication_date": 20180424
+    },
+    {
+      "title": "A pain to get working but it works for now.",
+      "text": "Got this for my son for an early Christmas gift. Took me almost 6 hours to get it working with Steam. It automatically installed the Steam VR part shortly after I plugged it in, but it took me several hours to come across a page that had another Steam Client that needed to be installed. After that was done it has been working fine. Also came with a card for a free Ghostbusters VR game download from Acer. Tried several times to download and it kept saying the page was invalid. Turns out the small print on the card said it expired in September of 2018 so that was kind of a bummer.",
+      "rating": 4.0,
+      "verified": true,
+      "author": "Ben",
+      "helpful_votes": 0,
+      "publication_date": 20191221
+    },
+    {
+      "title": "Absolute garbage. Driver crashes after 5 minutes of use and ...",
+      "text": "Absolute garbage. Driver crashes after 5 minutes of use and needs a full reboot before it works again. When it does work, the picture is mediocre at best. The lack of adjustable lenses is a severe problem. It puts all of its weight directly on your nose, making it somewhat difficult to breathe. Update: I discovered that the problems I'm having are likely caused by the USB controller being overloaded. I'm going to try a PCIe USB card and see how that works It seems VR headsets are notorious for overloading USB systems. As for the weight, if you tighten it really tight, you can keep it off your nose.",
+      "rating": 3.0,
+      "verified": true,
+      "author": "KaylaKaze",
+      "helpful_votes": 0,
+      "publication_date": 20180405
+    },
+    {
+      "title": "Very good for kids",
+      "text": "My son (11) is on it all the time and has not complained once. The product arrived quickly and everything was in order. The connection was harder than I thought because I did not realize that you need both the VR and a second display connected AT THE SAME TIME to set the whole thing up. Once I figured that out it was simple. The controller disconnected a few times at the beginning and we had to reinstall them. It still happens every now and again that the controllers do not come up but are back after a restart. Additional comment from my son: The VR heats up his face but not enough to be uncomfortable.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Tonio's_feedback",
+      "helpful_votes": 0,
+      "publication_date": 20190407
+    },
+    {
+      "title": "Was a great headset at $178.00. But if over $350 there are better options.",
+      "text": "I have had this for over a year now. I would assume this is likely a dated model by now, but I am unsure. I was lucky enough to snag this on sale for $178.00. So for that price, it was great. I didn't want to spend a fortune on something I was unsure I was going to like. While it is cool, I still prefer using a screen with a mouse & keyboard/ Controller. Pros Great to play with friends and family. Works well and does not need tracking towers Cons No real eye adjustment and the way the headset sits you cant really dial it in perfectly.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "P. RILEY",
+      "helpful_votes": 0,
+      "publication_date": 20191115
+    },
+    {
+      "title": "Refurb made this the right price",
+      "text": "Having used Vive, Occulus and PSVR I can say that this is definitely the \"cheapest\" feeling headset I've used. It looks and feels flimsy and very bare bones. But honestly I'm fine with that at the price point it was at when bought refurbished, I'd never recommend this at the original retain ask of $300. The refurb also seems really well done so far, no visual signs of use on the exterior and I've had no issues from the hardware itself. This headset is a perfect gateway into VR on your PC, works with SteamVR and Windows has a good number of VR games and apps as well. And yes, you can watch VR porn on it.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "D. Owen",
+      "helpful_votes": 0,
+      "publication_date": 20190701
+    },
+    {
+      "title": "Broke day 2.",
+      "text": "I already bought one of these before, but from hp. This time, the tracking was atrocious, almost as if the controllers were fighting for bandwidth which is just terrible. The headset became unresponsive to almost every input from the controller, The tracker cameras didn't track anymore, the display itself froze every 6 or so seconds, the headset couldn't get my height right, and the windows button on the controller never worked at all. I would not recommend this to people who want to get into VR, especially beat saber.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "Rosa clark",
+      "helpful_votes": 0,
+      "publication_date": 20190213
+    },
+    {
+      "title": "Longevity points",
+      "text": "Oculus rift never worked for more than 2 weeks at a time. This thing is much more dependable, has decent tracking without base sensors as well. Great product, highly recommend. Only gripe is that the display or field of view isn't quite as wide as the rift was, however you forget that pretty quickly when gaming or doing anything else with it on.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "L. Campbell",
+      "helpful_votes": 0,
+      "publication_date": 20190103
+    },
+    {
+      "title": "Best affordable  VR headset",
+      "text": "This headset has allowed me to do the one thing I\u2019ve wanted to do for years and that is play VR affordably. I can\u2019t go dish out the money for a new HTC VIVE and this headset does an amazing job of being a cheaper alternative. The headset is very easy to set up(unlike the HTC VIVE) and the display looks amazing. The controllers are laid out very well but are not the highest quality. The head mounted display looks amazing but is not the most comfortable. It adjusts well but the nose cushion is falling out a little bit. overall amazing headset I recommend it to anybody wanting VR rather your on a budget or not",
+      "rating": 5.0,
+      "verified": true,
+      "author": "BradyZone",
+      "helpful_votes": 0,
+      "publication_date": 20181026
+    },
+    {
+      "title": "Worth the price, so far its excellent.",
+      "text": "It's very fun and so far I've only had good experiences with this model. I've used a friends HTC Vive and you can feel the quality on that thing, but it's just too expensive for what you do with it and how little it's used day to day. I was holding off until their prices went down, and this device seems worth it's price. The corners of my vision are a little blurry but I can simply rotate my head instead of trying to use my eyes for everything. All in all, it's a minor gripe. Good quality, very nice.",
+      "rating": 4.0,
+      "verified": true,
+      "author": "Christopher",
+      "helpful_votes": 0,
+      "publication_date": 20180911
+    },
+    {
+      "title": "Works pretty well.",
+      "text": "Had to upgrade my video card to really take advantage of it. It occasionally turns on the WMR portal app for seemingly no reason and windows 10 won't give me back control until I unplug it. Even the Win+Y won't wrestle control of the desktop back to me. That said, it really is immersive and a fairly easy system. I play all manner of games on it that claimed not to support it but it works fine.",
+      "rating": 4.0,
+      "verified": true,
+      "author": "Codemonkey Brian",
+      "helpful_votes": 0,
+      "publication_date": 20181228
+    },
+    {
+      "title": "Unit Stopped Working",
+      "text": "My headset stopped working about two and a half months into using it. It kept saying that there wasnt enough light in the room when i had every single light in the room turned on. So I thought it was a software bug, so I uninstalled all the drivers and reinstalled everything. Same exact thing happened. I reinstalled windows and the same thing happened. So now it is just sitting in the corner of my room collecting dust. It was fun while it lasted but I basically spent 300 dollars on a paper weight.",
+      "rating": 3.0,
+      "verified": true,
+      "author": "Jacob R.",
+      "helpful_votes": 0,
+      "publication_date": 20190224
+    },
+    {
+      "title": "Fantastic experience, cheap entry into great VR",
+      "text": "I got this on sale to test out if I would like VR. I am blown away by the experience. The headset itself if great. Comfortable. Good visuals, there are better, but these are quite nice if you have a gpu that can handle it. If you have minimal specs for VR this type (WMR) headset will work whereas the Vive and Oculus kind won't. I've not found tracking to be a big problem. Skyrim VR and Tilt Brush are both favorites i use with this. If you are on the fence I highly recommend getting this headset!",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Jeff",
+      "helpful_votes": 0,
+      "publication_date": 20190210
+    },
+    {
+      "title": "Great Headset - Playing and creating with no issues so far!",
+      "text": "I have probably used this headset for around 30 hours so far. Some games, which ran great, but mostly for Tilt Brush, and for an Indie game project I've been working on. I've had no issues, everything seems to work as intended with no hiccups. Something that may be an issue for some users, and irrelevant to others, is that head tracking will not work with the room lights off - the controllers will track, since they provide their own led light arrays, but the headset uses optical cameras for room (positional) tracking, so they need visible light in the room.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Amazon Customer",
+      "helpful_votes": 0,
+      "publication_date": 20180207
+    },
+    {
+      "title": "GLAD I DID NOT BUY A VIVE OR RIFT!!!",
+      "text": "Got this for $100, even at full price I think I would have been satisfied. I am able to play all the games I want on Steam VR even though they technically are not compatible. Besides, you don't have to buy an extra app to run your desktop or other non VR apps. The issue or comments about tracking from controllers...I had this issue intermittently, I came across a post that mentioned the lighting in the room. TL:DR; Make sure the room is well lit, like overly bright, problem gone forever.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Mario Camacho",
+      "helpful_votes": 0,
+      "publication_date": 20180223
+    },
+    {
+      "title": "Disconnecting Controller after using a few times :c",
+      "text": "It was great for the 3 times I played it without the controller constantly going out. I have tried factory resetting it, disconnecting from my laptop and reconnecting, sometimes it updates when I reconnect and i can play for like, 5 minutes without the controller disconnecting on me. Other than the one thing that makes it practically unplayable, this is a great headset. it's comfortable and easy to take on and off.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "Kayla",
+      "helpful_votes": 2,
+      "publication_date": 20180219
+    },
+    {
+      "title": "VR is the entertainment vehicle of the future",
+      "text": "It really makes you believe you have gone somewhere else. The Acer unit is very good. No noticeable latency in movement, rapid recognition of environment where it has been used in the past. I did have a problem with my first headset (right eye video died...they replaced the unit), and the left controller seems to occasionally lose connection or shut down. Still, a very nice unit.",
+      "rating": 4.0,
+      "verified": true,
+      "author": "JDavidX",
+      "helpful_votes": 0,
+      "publication_date": 20181017
+    },
+    {
+      "title": "Constant tracking issues.",
+      "text": "Works fine when the tracking doesn't suck. I've tried with several types of lighting, with and without a bluetooth adapter, switched between USB ports, etc, tracking still sucked. There's a very small FOV on the tracking, too, but it still is awful when it's in the FOV. The Mixed Reality software is also really stupid and often times gets in the way of gameplay and serves no purpose in my eyes - it's just another way for Microsoft to screw everything up. I'm going to invest in either an Oculus or a Vive sometime soon, and put this headset where it belongs.",
+      "rating": 2.0,
+      "verified": true,
+      "author": "Neo Phipps",
+      "helpful_votes": 0,
+      "publication_date": 20180523
+    },
+    {
+      "title": "Bad tracking with fast movement",
+      "text": "Playing a fast paced game like Beat Saber causes the controllers to lose tracking and become unresponsive for a second, then reappear in front of you where your hand is. Cameras are on the front of the headset, which means moving your hands behind you is not a great experience. One plus is that external trackers are not needed, which means less wire mess all over the room but worse tracking. Batteries included with the item already on low on one controller after using for maybe 3 hours. Good budget-VR headset, but I would rather spend $200 more on an Oculus that has better tracking.",
+      "rating": 3.0,
+      "verified": true,
+      "author": "Andrew",
+      "helpful_votes": 0,
+      "publication_date": 20190131
+    },
+    {
+      "title": "Doesn't work",
+      "text": "After making sure the computer using the head set was compatible (Acer Nitro 5) and that all drivers and updates were done, theres not even power being delivered to the head set. Well over two hundred dollars I'll likely never see again. Would not recommend",
+      "rating": 1.0,
+      "verified": true,
+      "author": "Amazon Customer",
+      "helpful_votes": 2,
+      "publication_date": 20181109
+    },
+    {
+      "title": "An absolute steal if on sale",
+      "text": "Got this on sale for ~$220 and used ReVive(allows you to play Oculus Rift or HTC Vive games) to use in my dorm so I wouldn't risk losing ~$400-600 if a roommate broke it. Definitely worth $200-300, but is a it questionable at the usual ~$400 compared to a Rift.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Alison M",
+      "helpful_votes": 2,
+      "publication_date": 20180110
+    },
+    {
+      "title": "14 months in...",
+      "text": "Great headset, the haze on the edges is slightly annoying. -Old review. 3/1/19 I'm not a heavy VR gamer, until the past say... 4 months I played every couple weeks. The I finally got around to getting bridge crew and it became a weekly event. I woke up this day to find that my headset can not be found and despite my exhaustive attempt it will not come back to life. :(",
+      "rating": 2.0,
+      "verified": true,
+      "author": "That1Gai",
+      "helpful_votes": 0,
+      "publication_date": 20180219
+    },
+    {
+      "title": "The device is worth the price",
+      "text": "Not only is this product light weight bit it adjusts and fits like a charm. The only issue I really have is the fitting around the nose and when I look down. There are also some issues with the tracking, sense the sensors are in the headset it is easy for the controllers to loose and regain tracking. It is a rare occurrence but other than that the product is great. Thank you",
+      "rating": 4.0,
+      "verified": true,
+      "author": "Andrew",
+      "helpful_votes": 0,
+      "publication_date": 20181123
+    },
+    {
+      "title": "Great bang for your buck",
+      "text": "I bought this when it was on sale price and I am loving it. It works well with SteamVR and I do not have any issues on it. The field of view is a little smaller I believe than the Vive or Oculus, but I am happy I do not have to set up any external sensors/cameras, making it easy to install/remove.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Raymond W.",
+      "helpful_votes": 0,
+      "publication_date": 20190104
+    },
+    {
+      "title": "Failed to work - Ensure your PC is capable of running MIXED REALITY",
+      "text": "Left eye piece didn't work out of the box. Unless you're getting this for gaming, it isn't worth the trouble. This is not for the faint of heart, because it isn't plug and play. Ensure you run Microsoft's Mixed Reality test to test the PC you'll be using before purchasing.",
+      "rating": 2.0,
+      "verified": true,
+      "author": "RBilton",
+      "helpful_votes": 0,
+      "publication_date": 20190301
+    },
+    {
+      "title": "Check out the compatibility of the device with your windows version first",
+      "text": "I think the price was okay but this device doesn\u2019t work with all windows 10, can only play certain games, it was a Christmas gift by the time we figure that some games couldn\u2019t be played the return dateline had expired but I don\u2019t like returning items",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Floresrose",
+      "helpful_votes": 0,
+      "publication_date": 20190309
+    },
+    {
+      "title": "Infuriating purchase",
+      "text": "Do you like sitting at a desk for 3 hours to set up a device, giving up and trying again the next day, realizing you need another device to use it, purchase that device, and then sit at that same desk for another 4 hours, getting it to work for an hour, and then never work again? Then this is the product for you! This thing is so infuriating to use or attempt to use. It won\u2019t connect to any of the apps as a VR headset anymore, so I not only did I blow the $50 on the games, but also $300 on this headset. Infuriating.",
+      "rating": 2.0,
+      "verified": true,
+      "author": "Dan Anderson",
+      "helpful_votes": 0,
+      "publication_date": 20200330
+    },
+    {
+      "title": "You can't expect every item to arrive without flaw, so good service counts",
+      "text": "I purchased this item based on previous experience with the same model, which was great. Unfortunately, this one arrived unable to display correctly, so I had to send it back to Acer and am waiting for the replacement to arrive. Working with Acer support so far has been pretty easy and I am optimistic that I will be able to upgrade my rating when the replacement comes. Update - after the repaired unit came back and I've had some time to dig deep, I am absolutely thrilled with my purchase. It may not be the \"best\" WMR headset available, but it certainly has an ideal balance of features and price.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Kyle M. Burns",
+      "helpful_votes": 0,
+      "publication_date": 20180422
+    },
+    {
+      "title": "Great introduction to virtual reality!",
+      "text": "i wasn't expecting to like this so much, but it turned out to be a great headset for vrchat and others. It's a great headset to start getting into vr. Just make sure you find out what your eye distance is. my eyes are pretty close together at 59mm, making things a little bit on the blurry side, but your eyes adjust. I love this thing man.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Amazon Customer",
+      "helpful_votes": 0,
+      "publication_date": 20190111
+    },
+    {
+      "title": "Great entry into VR for the price",
+      "text": "This was my first VR headset and first time using VR in general. I did need to purchase USB 3.0 ports for it, but thats about it. Overall, I've had a blast with this thing, mainly using it for VRChat, Pavlov VR, and Blade and Sorcery. It does lose tracking from time to time when controllers are not in view, but it's usually not a big issue for me. Just put the controllers back in view and fixed. If you want to invest in a VR, but don't have money for a Vive or Oculus, I'd say this is a very solid choice for the price.",
+      "rating": 4.0,
+      "verified": true,
+      "author": "Zach Brassard",
+      "helpful_votes": 0,
+      "publication_date": 20190815
+    },
+    {
+      "title": "Broke After Little Use",
+      "text": "I have had this headset for only a short time and it was great for a while other then the low FOV and discomfort and the fact that the controllers lose tracking all of the time. But then out of nowhere I was putting up the headset and the hinge broke, now it doesn't register that the headset is up or down, and that is a problem for a couple of games, not only did that break, but the piece that holds the cables just broke off. I would not recommend this headset I would go with a rift s or even an hp reverb any day",
+      "rating": 1.0,
+      "verified": true,
+      "author": "Jacob gidney",
+      "helpful_votes": 0,
+      "publication_date": 20200816
+    },
+    {
+      "title": "If you have never used VR get this unit, easy-to-use, and kid friendly.",
+      "text": "Excellent purchase. Been wanting to get into VR but to expensive until now. I love the fast paced Uber graphics card demolition games, working very good so far minor glitches, nothing unplayable. My kids love the ocean Sims, and the art games. If daddy wants to play in peace going to have to get another system or 2 for Christmas.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Tom Laabs",
+      "helpful_votes": 0,
+      "publication_date": 20180602
+    },
+    {
+      "title": "Very good VR for the price",
+      "text": "Very good VR for the price, comfortable enough but the lenses touch my glasses so I'll buy prescription lenses for it soon. Biggest downside is the controllers are not very ergonomic and feel awkward. The one I recieved was not working but Acer handled the situation very well. I recommend it for lower budgets.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Gregory Bauer",
+      "helpful_votes": 0,
+      "publication_date": 20180202
+    },
+    {
+      "title": "WMR takes a bit of config to get working nicely with all the VR apps",
+      "text": "But when you get it working this thing is hands down the best value for entry level proper VR. It ain't the most comfy headset but it works damn well. Google the hell out of all the tricks to get WMR to work with Oculus and Vive stuff, it all works it just takes some effort on your end.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Travis",
+      "helpful_votes": 0,
+      "publication_date": 20190323
+    },
+    {
+      "title": "Save up, wait, and then buy one in 5 to 10 years when the technology has improved.",
+      "text": "It gets hot after 30mins wearing it. The screen quality is great when you look straight ahead but blurry in your peripheral. It is well made though and light. The biggest disappointment with these headsets are the field of view. I mean it's like looking through binoculars with circles around your eyes. That ruins the experience for me, and they are basically all made that way (for now).",
+      "rating": 3.0,
+      "verified": true,
+      "author": "YouInTheJungleBaby",
+      "helpful_votes": 0,
+      "publication_date": 20190301
+    },
+    {
+      "title": "Affordable VR that's actually pretty decent (and easy to set up).",
+      "text": "The headset and controllers are pretty awesome, especially the high resolution screen (compared to the current gen of Occulus Rift and Vive). I experience no percievable light leak unless there's a very bright light source behind me and then I noticed some light coming though and reflecting off the lenses, but this seems to be a rare situation. Biggist issues I've had so far seem to be software issues, and not caused by the hardware itself, and a lot of these are improving and getting patched out all the time. eg stability of framerates and a wierd jittering in SteamVR games has virtually dissapeared in the last couple of weeks.",
+      "rating": 4.0,
+      "verified": true,
+      "author": "A W Z CADOGAN",
+      "helpful_votes": 0,
+      "publication_date": 20180212
+    },
+    {
+      "title": "Nice VR set",
+      "text": "It is really interesting experience in gaming and also at all. The only thing which i dont like, that i should play with glasses, because of -3 vision... But there is enought of space for glasses also :)",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Yevgeniy",
+      "helpful_votes": 4,
+      "publication_date": 20171225
+    },
+    {
+      "title": "Nice while it lasted",
+      "text": "This headset performed quite well at first, but I've had it for around 3 months now and the headset just stopped working. The screen turns black even though the controllers and headset still track. I have tried multiple fixes to no avail, and because it just stopped working I can't return it or get support for it.",
+      "rating": 2.0,
+      "verified": true,
+      "author": "mkoester1999",
+      "helpful_votes": 0,
+      "publication_date": 20190405
+    },
+    {
+      "title": "My Friend Loves it",
+      "text": "My friend loves this headset. He does not normally play in VR, but I managed to convince him to get this headset. Its so fun to see him play in it. and Im sure he loves it too. It's defiantly a good starter headset for people who are hesitant about VR.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "collin",
+      "helpful_votes": 0,
+      "publication_date": 20190629
+    },
+    {
+      "title": "Good for a bit, but it will break fast with bad customer service.",
+      "text": "This is only good for a short time, once the cheap plastic breaks it is done. One of my controllers broke so they were kind and sent replacements, but one of the replacements was defective and I had to personally fix it my self while they quote \"Did what they could and didn't send a defective product.\" Now the headset broke from the plastic headband so it is completely useless. Save for an Oculus or a VIVE, worth the time an money.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "TheScienceNerd",
+      "helpful_votes": 0,
+      "publication_date": 20191010
+    },
+    {
+      "title": "Some flaws I\u2019ve experienced",
+      "text": "The item was awesome and had a awesome experience with it. I used it for over a year now and I experienced some problems, like the display of the headset itself won\u2019t turn on and will still be recognized by the computer and now am having a problem that it doesn\u2019t recognize the usb and still can\u2019t figure it out. Also when flipping the vr it would become loose and the headset won\u2019t fully seal, But overall price is good and it\u2019s great product.",
+      "rating": 2.0,
+      "verified": true,
+      "author": "Jennifer Lopez",
+      "helpful_votes": 0,
+      "publication_date": 20190724
+    },
+    {
+      "title": "Limited use, but good for entering VR",
+      "text": "Can smoosh glasses hard into your nose, but if you put a bit of tissue paper on the bridge of your nose it helps a lot. Otherwise it's comfortable and works well for the most part. You loose tracking once your hands exit your FOV though, which can be bad for some games. Also, not all VR games are supported on WMR, but that's at no fault of the product. Great entry level headset for a good price.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Elliot C",
+      "helpful_votes": 0,
+      "publication_date": 20190118
+    },
+    {
+      "title": "First VR headset, no ragrats",
+      "text": "It works really well with VR games, it's quite nice that the tracking cameras are facing downwards so that it can still track the controllers when you put it below what you can actually see, this is especially useful in games like Pavlov VR where you have to grab a magazine from your waist. Not only that, but it's also compatible with most Steam titles through SteamVR, even if it doesn't say it supports WMR on the product page (most of the time it works anyways).",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Rei",
+      "helpful_votes": 0,
+      "publication_date": 20190121
+    },
+    {
+      "title": "Love it so far - really good interface - easy ...",
+      "text": "Love it so far - really good interface - easy to set up and use. Can use Steam VR, Windows VR and Oculus VR games and apps! Only issue is lack of built-in headphone - you can plug in your own headphones or earbuds though.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "ace009",
+      "helpful_votes": 0,
+      "publication_date": 20180215
+    },
+    {
+      "title": "I'll offer to pay someone with like a gift card or something to help me fix ...",
+      "text": "I don't understand. It says it's downloading at the end of all the procedure then it just sits there all day. I've look up videos and now one else has this problem. Everything goes perfectly till that point. Plz if someone had the same problem to help me fix it. I'll offer to pay someone with like a gift card or something to help me fix it.....",
+      "rating": 1.0,
+      "verified": true,
+      "author": "ethan backes",
+      "helpful_votes": 0,
+      "publication_date": 20180612
+    },
+    {
+      "title": "To me it was plug and play and the setup is super easy. They choose the resolution over the fov ...",
+      "text": "In short worth it ! To me it was plug and play and the setup is super easy. They choose the resolution over the fov so it fits me. I find out it works even on a dell inspirion but i recomand gtx 1050 or equivalent,8gb ram,i 5 7e gen or i7 6e gen. It won't fit everyone,i mean like any type of headset you need to test it before buying it. No headset at this price is as versatile.",
+      "rating": 4.0,
+      "verified": true,
+      "author": "Hector Li\u00e8vre Ellrodt",
+      "helpful_votes": 0,
+      "publication_date": 20180222
+    },
+    {
+      "title": "Works but terrible tracking.",
+      "text": "Get the oculus rift s instead. With this it only has forward tracking so if you move touch arms slightly behind your head you lose tracking.",
+      "rating": 3.0,
+      "verified": true,
+      "author": "joseph",
+      "helpful_votes": 0,
+      "publication_date": 20200627
+    },
+    {
+      "title": "Good for a few weeks but...",
+      "text": "It worked for a few weeks but now the screen is black or blank. The sensor still responds when its placed on my head. I can see the movement on my monitor but nothing in the headset. Same result on two VR ready computers.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "David L Mattingly",
+      "helpful_votes": 0,
+      "publication_date": 20190415
+    },
+    {
+      "title": "Great Value!",
+      "text": "This Mixed Reality headset is great for the price. There are many great free games available on the Windows Store and on Steam. The boundary also works very well. It even included a free Ghostbusters game! My computer has an Intel i3 7th Gen. and an AMD Radeon RX 550. It works very well for me for most games I try to play. Be sure to check the system requirements before purchasing though.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Black Cat",
+      "helpful_votes": 0,
+      "publication_date": 20180221
+    },
+    {
+      "title": "Satisfactory VR Experience",
+      "text": "This product does work good if you meet the requirements, you can run the mixed reality software from Microsoft before you buy this headset to see if you meet requirements. You can set up a large play area if you have the room. Works with steamVR and windows10 version of Minecraft which has a VR Mode. You can use seated or standing modes. I can only compare to the PlayStation 4 VR and the experience is similar.",
+      "rating": 4.0,
+      "verified": true,
+      "author": "Dee",
+      "helpful_votes": 0,
+      "publication_date": 20190406
+    },
+    {
+      "title": "Much fun!!  Make sure you buy Bluetooth 4.0 dongle and have a USB 3.0c port!!",
+      "text": "A ton of titles compatible with windows mixed reality! Didn't get the most out of it until I upgraded my Bluetooth to 4.0 and figured out which USB port was the right one! after that I love it. Titles superhot vr and star trek bridge crew are my favs so far.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "AV",
+      "helpful_votes": 0,
+      "publication_date": 20180213
+    },
+    {
+      "title": "Works flawlessly!!!!!!!!",
+      "text": "I got this on Dec 21st. It did not work as smoothly as I expected. On Feb 2nd I did a clean install and for whatever update was corrected but EVERY app worked NO flickering. This thing works as it supposed to. Before it would work properly here and there clean install after clean install but the Feb 2nd clean install stuck. Works consistently. I would confidently recommend this now that its working smoothly and correctly. By the way my setup is an Acer Nitro 5: Intel i5/GTX 1050ti/8GB RAM/256 SSD/1TB HD in the second bay.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Dean Keaton",
+      "helpful_votes": 0,
+      "publication_date": 20180203
+    },
+    {
+      "title": "Clunky but cheap",
+      "text": "Somewhat low battery life on the controllers, which also tend to get in the way of each other when cocking back a gun etc., but I like that it\u2019s relatively easy to set up and I\u2019ve found the snap-up function so you can see around you without taking off the headset to be very useful, and of course it\u2019s one of the cheapest options out there. Be sure to buy a decent 3.5mm headset with a microphone though.",
+      "rating": 4.0,
+      "verified": true,
+      "author": "Jacob Davis",
+      "helpful_votes": 0,
+      "publication_date": 20200217
+    },
+    {
+      "title": "Best Vr set for the price",
+      "text": "Very fun VR set. Not too much fuss to install once you have the good hardware.. Much easier the HTC or Oculus. VR is very fun to play with.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Eric Duchaine",
+      "helpful_votes": 0,
+      "publication_date": 20190228
+    },
+    {
+      "title": "Good starter VR, but lags and isn\u2019t very comfortable and ergonomic",
+      "text": "It\u2019s better than PSVR, as far as controller tracking, not as good as HTC Vive or Oculus Rift, not very comfortable and it lags quite a bit. But for someone new to VR this is a good starter set.",
+      "rating": 3.0,
+      "verified": true,
+      "author": "Richranch",
+      "helpful_votes": 0,
+      "publication_date": 20190410
+    },
+    {
+      "title": "Works with Steam VR games, works with some games for oculus and some for vive",
+      "text": "I love it once I figured out how to play the games. It also works with google earth, even with street view. You can travel the whole world and cities and looks like your there.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Daron Prelesnick",
+      "helpful_votes": 0,
+      "publication_date": 20181206
+    },
+    {
+      "title": "Great price *Does include controllers*",
+      "text": "I bought this for $240 bucks because at the time the oculus was unavailable and not to mention way more expensive. I was really impressed by the headset overall the only Down side is that there is a very small area of the lenses that is clear so it\u2019s hard to maintain that area while playing. One thing I was surprised by was how good the tracking was. Biggest downside is the controllers require 4 new AA batties every 4-hr",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Suzi Gass",
+      "helpful_votes": 0,
+      "publication_date": 20190421
+    },
+    {
+      "title": "Best value for VR out there",
+      "text": "Most people can't afford a Vive or a Rift. The Acer headset provides a believable, responsive VR experience with little setup. The visual fidelity obviously isn't as good as the more expensive headsets, but you probably have a budget PC to go with your budget headset. Try out Superhot, Accounting+, and Beatsaber to see what VR is all about.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Peter L.",
+      "helpful_votes": 0,
+      "publication_date": 20190127
+    },
+    {
+      "title": "WMR on a budget",
+      "text": "I bought this product on sale because I wanted to play Beat Saber, but live in a small apartment that does not favor external tracking setups. I think it's a great deal, and the Steam integration is pretty good, too.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Mark",
+      "helpful_votes": 0,
+      "publication_date": 20181029
+    },
+    {
+      "title": "777k more pixels per eye than the HTC Vive.",
+      "text": "I've tried an oculus, a vive, and now I own the acer WMR headset. The Acer is a next-gen experience. I had no issue getting it to work with steam, either. Excellent HMD.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Amazon Customer",
+      "helpful_votes": 3,
+      "publication_date": 20180303
+    },
+    {
+      "title": "Including Controllers WOW",
+      "text": "Although the website stated headset only, it came complete with controllers. I am very happy with it, since it works great (using it to play Elite Dangerous, so controllers were not immediately necessary). They are a bit less comfy than Samsung's Odyssey, but for this price I'll accept that happily. Only drawback of the Acer HMD is that you cannot adjust the eye-to-eye distance.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Michael Franssen",
+      "helpful_votes": 0,
+      "publication_date": 20190119
+    },
+    {
+      "title": "Came broken",
+      "text": "Unfortunately it came broken, would not turn on. But it was extremely comfortable and very light weight. I was very sad I didn't get to try it",
+      "rating": 3.0,
+      "verified": true,
+      "author": "Gary S.",
+      "helpful_votes": 0,
+      "publication_date": 20190207
+    },
+    {
+      "title": "Not for glasses-wearers",
+      "text": "Was too small to fit over my glasses. Returned it for the Dell Visor and am much happier. Dell's headset is quite a bit more sturdy and has a lot more room if you wear glasses.",
+      "rating": 2.0,
+      "verified": true,
+      "author": "CL",
+      "helpful_votes": 0,
+      "publication_date": 20180608
+    },
+    {
+      "title": "A lot better than I thought it was going to be",
+      "text": "Came with my computer but I would say it's worth it things actually pretty cool Windows store selection is horrible but steam has a lot of good stuff",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Amazon Customer",
+      "helpful_votes": 0,
+      "publication_date": 20190109
+    },
+    {
+      "title": "I want to give it five stars but it came ...",
+      "text": "I want to give it five stars but it came with voucher for free game ghost busters vr that doesn't work when i go to the website. Acer if you promise an item you should always deliver no excuse. Update. Ok so you have to go to acer website make account then they will give you code the voucher that the headset comes with does not work.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Jedi",
+      "helpful_votes": 0,
+      "publication_date": 20180407
+    },
+    {
+      "title": "great vr experience",
+      "text": "just use hdmi 2.0+ computer, since the fps would drop to 60fps if you have older machine",
+      "rating": 4.0,
+      "verified": true,
+      "author": "Ablo",
+      "helpful_votes": 0,
+      "publication_date": 20190811
+    },
+    {
+      "title": "Great value",
+      "text": "Same quality as more expensive one that we had already. You need an adapter for the headset. And may need bluetooh adapter for the controllers we found both at best buy. Last photo is of the other one we have that is comparable quality. Headphones are not included",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Amazon Customer",
+      "helpful_votes": 0,
+      "publication_date": 20180413
+    },
+    {
+      "title": "Takes kids Minecraft gaming to a whole new level.",
+      "text": "Our whole family loves this! After an initial issue with one of the motion controllers, Amazon was quick to resolve it and we were back to playing 2 days later. The price is amazing and there really isn\u2019t much of a difference between this and the more expensive brands. The Steam Store has numerous games to choose from. I\u2019m not a gamer, but I\u2019ve declared \u201cnext\u201d many times this week.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "TheNorthwoods",
+      "helpful_votes": 0,
+      "publication_date": 20190102
+    },
+    {
+      "title": "Good price",
+      "text": "Great price for an okay headset. The build quality and video resolution sn't as good as the Rift, or other bigger titles, but it's served well considering how long I've had it. Still working great to this day.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Yuu K",
+      "helpful_votes": 0,
+      "publication_date": 20191124
+    },
+    {
+      "title": "Broke in one month.",
+      "text": "This worked great for about a month. Then it died completely while playing a game. The screen display went black with green vertical lines. I don't recommend Acer for this headset. I put in a ticket though Acer and hope they replace this. If it didn't die within the month I would have given it 5 stars. When it worked it was a great headset.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "Randall McFarlane",
+      "helpful_votes": 0,
+      "publication_date": 20190210
+    },
+    {
+      "title": "High quality headset. Better than oculus. Cheaper than vive",
+      "text": "This headset is perfect. You can play nearly any game with it. Dont mind that they say this game is for vive or something else. Just download it it works! Also realy fun to watch films. I bought it while it is 200 dolars so no regrets. I dont know about 400 dolars tho. Note: I recommend you to have a good 7.1 headset. It realy makes a huge diffrence on the feeling in the virtual world. I tried using normak headsets and it was pretty useless",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Ahmet Gezmi\u015fo\u011flu",
+      "helpful_votes": 0,
+      "publication_date": 20180213
+    },
+    {
+      "title": "Good Value/Starter VR Headset",
+      "text": "Its a good headset and works pretty well with almost all steam games, the ones I tried was Beat Saber, H3VR, Pavlov and Gorn. However if you step on the hdmi you have to unplug and replug, restart the program which is annoying when you're playing a movement based game like gorn. It fits well on me and it does it job well for the most part but also I do always have to set my borders which is annoying.",
+      "rating": 4.0,
+      "verified": true,
+      "author": "Ahmad",
+      "helpful_votes": 0,
+      "publication_date": 20180618
+    },
+    {
+      "title": "Works great, Need more gaming time!",
+      "text": "Wish i had more time to play with it. Being an adult really drains the fun out of being able to afford fun items like this BUT, when i do use it , it does exactly what I want it for. I like that you do not have to set up anything external for this unit.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "KyGuy",
+      "helpful_votes": 0,
+      "publication_date": 20180624
+    },
+    {
+      "title": "Great for Sim racing.",
+      "text": "IPD adjustment would make this headset perfect. I use it mostly for sim racing and it's light weight makes it perfect for longer races.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Robert Carmichael",
+      "helpful_votes": 0,
+      "publication_date": 20181018
+    },
+    {
+      "title": "Really good VR starter kit",
+      "text": "Really good VR starter kit. However, the lenses do suck (weird stepped milling on the glass?) and the hinge is fast to wear out. Also, the WMR portal is stupid.",
+      "rating": 4.0,
+      "verified": true,
+      "author": "Keystone Motorsports",
+      "helpful_votes": 0,
+      "publication_date": 20180424
+    },
+    {
+      "title": "Great VR experience with half the price.",
+      "text": "Subnautica looked amazing, vr poker is so fun. Headset can do anything any normal vr can do. without the best tracking. Tracking is not the best but 150 for the vr makes it not even a matter.",
+      "rating": 4.0,
+      "verified": true,
+      "author": "Levi",
+      "helpful_votes": 0,
+      "publication_date": 20181220
+    },
+    {
+      "title": "Non adjustable lenses, works ok with cotton balls stuffed in as padding or with smaller glasses.",
+      "text": "Headset works great, cant physically adjust or focus lenses though so i need to wear glasses in the headset. My glasses are too big though so i needed to shove cotton balls in the headset to stop my lenses scraping on the headsets lenses until i buy some smaller glasses.",
+      "rating": 4.0,
+      "verified": true,
+      "author": "Parliamentarian",
+      "helpful_votes": 0,
+      "publication_date": 20180813
+    },
+    {
+      "title": "Great kit for the money",
+      "text": "Not as good as my Oculus Rift, but an excellent value. My brother is very happy with it.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "David S",
+      "helpful_votes": 0,
+      "publication_date": 20190408
+    },
+    {
+      "title": "Wicked cool",
+      "text": "I dont regret it at all. Saved so much money, vr looks great. I use ear buds for the headphones. glad I didnt spend more. still a wow experience and really fun",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Ryan Kallenberg",
+      "helpful_votes": 0,
+      "publication_date": 20190909
+    },
+    {
+      "title": "You get what you pay for.",
+      "text": "Good quality product, lightweight, but 10 minutes after setting it up the headset display shut off and now will not come back on. I have tried everything possible including using it on a different computer and all it will do is flicker when its plugged in. So now it's getting shipped back and going with the Rift.",
+      "rating": 3.0,
+      "verified": true,
+      "author": "Shawn Lucas",
+      "helpful_votes": 0,
+      "publication_date": 20180624
+    },
+    {
+      "title": "Impressed by the virtual reality of being surrounded on all ...",
+      "text": "Impressed by the virtual reality of being surrounded on all sides by the video. I wish the video and photos were in a higher resolution.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "cnhoghead",
+      "helpful_votes": 0,
+      "publication_date": 20180127
+    },
+    {
+      "title": "Great budget VR headset",
+      "text": "Great VR headset for beginners. Tracking can be lost when the controllers are out of range of the cameras but other than that, works fine.",
+      "rating": 4.0,
+      "verified": true,
+      "author": "Haojie Zhou",
+      "helpful_votes": 0,
+      "publication_date": 20190224
+    },
+    {
+      "title": "Terrible build quality",
+      "text": "Left eye stopped working one week into owning the headset. Uncomfortable on face and blurry peripheral vision.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "mel",
+      "helpful_votes": 0,
+      "publication_date": 20180608
+    },
+    {
+      "title": "Ew",
+      "text": "Bought several of these, they all broke or had damaged lenses. Poor quality control for sure.",
+      "rating": 2.0,
+      "verified": true,
+      "author": "Sunglasses Cat",
+      "helpful_votes": 0,
+      "publication_date": 20180820
+    },
+    {
+      "title": "Good resolution, but should be OLED and not LCD",
+      "text": "Requires lots of visible light to track. Nose piece prevents breathing unless removed, after which a visible path to your feet always shows. Good resolution, but should be OLED and not LCD.",
+      "rating": 3.0,
+      "verified": true,
+      "author": "Daniel",
+      "helpful_votes": 0,
+      "publication_date": 20180222
+    },
+    {
+      "title": "Change the description so people that need glasses can avoid these!",
+      "text": "Can't use with glasses. It hurts your eyes with lenses. If your vision isn't 20/20, don't buy!!!",
+      "rating": 1.0,
+      "verified": true,
+      "author": "Kl",
+      "helpful_votes": 0,
+      "publication_date": 20180521
+    },
+    {
+      "title": "Received a faulty headset",
+      "text": "Horrible product. Got it, went through the installation and heard the sound and everything that it was running. Everything worked and was plugged in but nothing was showing up on the device. I believe I got a faulty product.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "Drew",
+      "helpful_votes": 0,
+      "publication_date": 20190103
+    },
+    {
+      "title": "It is very important to watch out for your surroundings",
+      "text": "I really liked how comfortable it felt on my head compared to my PlayStation VR headset. One thing I disliked was how it didn\u2019t cover my entire FOV there was just that one spot that would show the outside other that that con it\u2019s a great headset.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Amazon Customer",
+      "helpful_votes": 0,
+      "publication_date": 20190130
+    },
+    {
+      "title": "Was defective",
+      "text": "Came defective took a risk ordering from amazon.com being in europe :/ took a risk and failed, not worth it.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "Cliente Amazon",
+      "helpful_votes": 3,
+      "publication_date": 20180616
+    },
+    {
+      "title": "Great VR experience for a good price.",
+      "text": "Way better than I expected for the price. I have a very good PC which helps a lot but this has proved to be a great purchase. It tracks far better than PSVR has a higher resolution and generally performs well. It helps to be keen on VR and not to get motion sick too quick, although I do get it doing some things.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Amazon Customer",
+      "helpful_votes": 0,
+      "publication_date": 20180605
+    },
+    {
+      "title": "Great hardware",
+      "text": "Great for easy setup with limited room as WMR does not require base stations. Use a do to hdmi adapter for my monitor as GPU has limited HDMI great unit for early adapters or casual VR gamers!",
+      "rating": 5.0,
+      "verified": true,
+      "author": "John S.",
+      "helpful_votes": 0,
+      "publication_date": 20191224
+    },
+    {
+      "title": "Five Stars",
+      "text": "Great experience not as good as a psvr or vive though but much cheaper",
+      "rating": 5.0,
+      "verified": true,
+      "author": "blank",
+      "helpful_votes": 0,
+      "publication_date": 20180731
+    },
+    {
+      "title": "Works amazing!",
+      "text": "Not the easiest setup in Steam, but the Windows 10 integration works right out of the box! Well worth buying.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Robert Leaverton",
+      "helpful_votes": 0,
+      "publication_date": 20181206
+    },
+    {
+      "title": "Best buy for the money",
+      "text": "My initial wish was Hive. It was best on the marker, but its price... And then, I've seen a review about Acer VR on youtube, checked its price, and realized that it is the best price/functionality ratio. Installation went flawless. Everything works fine.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Andrey Shestakoff",
+      "helpful_votes": 0,
+      "publication_date": 20180815
+    },
+    {
+      "title": "pretty fantastic product",
+      "text": "pretty fantastic product, competitve with other gaming vr, including at roomscale, at a fraction of the price (at least when I bought it). i would recommend this to anyone wanting to do high quality vr experiences without having to shell out $400-800",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Joshua",
+      "helpful_votes": 0,
+      "publication_date": 20180220
+    },
+    {
+      "title": "You want fun! You have to get one of these!",
+      "text": "WOW! I LOVE my Acer mixed Realty headset! So much fun!",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Midnight",
+      "helpful_votes": 0,
+      "publication_date": 20180313
+    },
+    {
+      "title": "Really great",
+      "text": "Great price great product but is too warm to use few hours.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "hyuk namgoong",
+      "helpful_votes": 0,
+      "publication_date": 20180801
+    },
+    {
+      "title": "It worked wonderfully at first",
+      "text": "It worked wonderfully at first. Eventually though it started having minor issues but they were easily fixable. Now after about a month or so it won't even boot and every time the usb is plugged in all the monitors instantly stop receiving signals.",
+      "rating": 3.0,
+      "verified": true,
+      "author": "Michael W.",
+      "helpful_votes": 0,
+      "publication_date": 20180602
+    }
+  ],
+  "product_meta": {
+    "title": "Acer (AH101-D8EY) Windows Mixed Reality Headset Model VD.R05AP.002",
+    "description": "Style:VR Headset OnlyThe possibilities are endless! The experience is unmatched! Acer's MR headset lets you blend physical and virtual worlds to take your computing experience to a remarkable level where the senses are stimulated and the experience is riveting. A hybrid of both Augmented Reality (AR) and Virtual Reality (VR), Mixed Realty (MR) is far more advanced than Virtual Reality to send you into an unforgettable realm of reality. Acer's new Windows Mixed Reality Headset is designed for comfort, freedom of movement and to unite cutting-edge technology with futuristic practicality to maximize your computing experience. (VD.R05AP.002)",
+    "rating": 3.8,
+    "feature_bullets": [
+      "Display Size: 2.89\" x 2 & Resolution: 2,880 x 1,440 (1,440 x 1,440 per eye)",
+      "Refresh Rate: 90Hz - Using HDMI 2.0, 60Hz - Using HDMI 1.4. Field of View 100 degree",
+      "Tracking Sensors: Gyroscope, Accelerometer & Magnetometer",
+      "Tracking Camera: Inside Out B+W VGA camera",
+      "Connectivity: 1 x HDMI 1.4/2.0 & 1 x USB 3.0 (Cable Length: 13 feet)"
+    ],
+    "specifications": {
+      "Standing screen display size": "2.89 Inches",
+      "Number of USB 2.0 Ports": "1",
+      "Brand": "Acer",
+      "Item model number": "AH101-D8EY",
+      "Hardware Platform": "PC",
+      "Operating System": "Windows 10",
+      "Item Weight": "1.87 pounds",
+      "Product Dimensions": "4.29 x 7.72 x 2.91 inches",
+      "Item Dimensions  LxWxH": "4.29 x 7.72 x 2.91 inches",
+      "Color": "Blue",
+      "Batteries": "1 Lithium Metal batteries required.",
+      "Manufacturer": "Acer",
+      "ASIN": "B075PVLN2P",
+      "Is Discontinued By Manufacturer": "No",
+      "Date First Available": "December 8, 2018",
+      "Customer Reviews": "3.8 out of 5 stars364 ratings3.8 out of 5 stars",
+      "Best Sellers Rank": "#26,237 in Video Games"
+    },
+    "categories": [
+      "Electronics",
+      "Accessories",
+      "PC",
+      "Video Games"
+    ],
+    "price": 622.52
+  }
+}

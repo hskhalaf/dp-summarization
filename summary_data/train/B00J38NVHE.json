@@ -1,0 +1,956 @@
+{
+  "website_summaries": [
+    {
+      "verdict": "The Samsung SmartCam HD Pro is a very good IP camera, but Dropcam Pro still has it beat in terms of durability, app design, and overall video quality.",
+      "pros": [
+        "Tons of app-accessible features make Samsung's $189 SmartCam HD Pro an extremely hands-on, customizable IP camera",
+        "It has less lag time than the $199 Dropcam Pro and offers SD card storage"
+      ],
+      "cons": [
+        "The camera's components feel cheap",
+        "The video quality isn't as crisp as its Dropcam Pro competition even though both are 1080p"
+      ],
+      "aspects": {
+        "Features": 9.0,
+        "Usability": 7.5,
+        "Design": 7.0,
+        "Performance": 8.0
+      },
+      "publication_date": 20140513,
+      "rating": 7.9,
+      "source": "cnet"
+    }
+  ],
+  "customer_reviews": [
+    {
+      "title": "No longer supports webpage access.  Latest firmware Breaks IP camera functionality without warning.",
+      "text": "Latest firmware removed the ability for web address access to the camera. What this means is you can no longer type the IP address of the camera and be prompted for username/password. This makes it impossible to use your server to stream/record video. So if you are a synology server user and hope to record video you will no longer be able to. Prior to firmware 1.07 you were able to use with synology server for unified streaming across multiple cameras, recording to server hard drive and local access to make changes. Unfortunately I purchased multiple cameras prior to the firmware update and no stuck with cameras that don't work for my application.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "M. Ash",
+      "helpful_votes": 127,
+      "publication_date": 20151123
+    },
+    {
+      "title": "Firmware update removes features!",
+      "text": "I have two of these cameras. The quality was good and I was able to view them in all my apps by inputting the correct IP address and password. However Samsung updated the firmware to version 1.07 which removed the ability to view these cameras locally and removed the ability to view these cameras the way they were able to be viewed previously. Selling a camera and later removing features by firmware update? Evolution in reverse...",
+      "rating": 1.0,
+      "verified": true,
+      "author": "Geek",
+      "helpful_votes": 34,
+      "publication_date": 20151126
+    },
+    {
+      "title": "Useless since they removed RTSP access.",
+      "text": "Useless Camera. I had 1 in my home, and I loved it. So I bought a NAS and 2 more cameras, to find out that Samsung removed the RTSP access, so I have 3 useless cameras here, and I cannot use them with my NAS, that I bought just to be my NVR. I'll try to sell them to someone who wants just a remote baby monitoring.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "Tanabe",
+      "helpful_votes": 12,
+      "publication_date": 20170119
+    },
+    {
+      "title": "Great hardware - horrible software and zero user friendliness",
+      "text": "Great hardware with top notch image quality - but that's about it. Software and user friendliness truly horrific. Setting up is a nightmare (had to deactivate firewall and open ports in router) and software is buggy with nearly daily updates. Very limited functionality and no away home feature like Nest cam. Went with nest cam after struggling with buggy Smartcam for 2yrs ... nest cam took 5min to connect and get running. Smartcam took 2hrs and online research. Enough said.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "CJaeck",
+      "helpful_votes": 9,
+      "publication_date": 20170207
+    },
+    {
+      "title": "Waste of Money",
+      "text": "The Samsung cameras work fine However the Samsungsmartcam.com website, software, and App, no longer record any event alarm photos, I purchased two of these cameras and now it looks like a waste of money, No help form customer support on this issue. Do not waste your money on this camera.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "Michael Gibson",
+      "helpful_votes": 14,
+      "publication_date": 20170128
+    },
+    {
+      "title": "Would be 5 stars if they fixed the web portal issue",
+      "text": "Good quality camera and has an ethernet port which is surprisingly hard to find for some reason. I can't login to the app online to view the cameras, it keeps forcing me to install a plugin even though I already have. The FAQ on the issue is also not helpful at all, so that's kind of a pain. However, it works with Smart Things and I can view them in the app on my phone, so whatever.",
+      "rating": 4.0,
+      "verified": true,
+      "author": "Jude Campbell",
+      "helpful_votes": 5,
+      "publication_date": 20170127
+    },
+    {
+      "title": "Breaks automation and survellance software that used to work.",
+      "text": "Same issue as others.... Upgraded firmware and it no longer works with Surveillance Station or my Vera home automation system. It put about 50 holes in my router (seems to require tons of ports) as well opening up my \"more secure\" home to less cybersecurity. I guess Samsung wants you to have some degree of physical security - but cyber... Not so much. Avoid if you can.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "Thomas Boyd",
+      "helpful_votes": 21,
+      "publication_date": 20160111
+    },
+    {
+      "title": "Do Not BUY! If you already have it DO NOT UPGRADE TO SW v1.07",
+      "text": "I have 6 of these cameras connected to Synology surveillance station. Everything was working perfectly until I upgraded to the latest firmware v1.07_151030. In this latest firmware Samsung removed direct IP connection and web interface of the camera. Now you can only connect via mobile apps and [...] web pages. My original score for this camera was 5 stars for the great picture quality, wide angle support and versatile connectivity options. Now they crippled the software and the camera became piece of s***!",
+      "rating": 1.0,
+      "verified": true,
+      "author": "Tevfik",
+      "helpful_votes": 21,
+      "publication_date": 20160104
+    },
+    {
+      "title": "Camera Good, Smartthings Integration Marginal",
+      "text": "The camera's picture quality, day and night, is good. The microphone's sound quality and reach is good as well. However warning to Smarthings users (and this is absolutely ponderous): despite the built-in motion sensor, a separate Smarthings Motion Sensor is needed to create actions in a Smartthings HA environment UNLESS you have an Android device and would like to go through a rather convoluted set of instructions found on the Smartthings support forum (downloading third-party apps, etc.). It's abolsutely crazy considering that this camera is from the same manufacturer AND it is the camera recommended on the Smartthings website.",
+      "rating": 3.0,
+      "verified": true,
+      "author": "Big Blue Review",
+      "helpful_votes": 0,
+      "publication_date": 20160919
+    },
+    {
+      "title": "Great product, but horrible interface requirements",
+      "text": "I bought this a few years ago but just now getting around to reviewing it. The device itself works great but over the last few years I've had to install browser plugin after plugin after plugin. A month ago I tried to log in to my cam and it told me that my browser was no longer supported and that I would have to use Microsoft Internet Explorer (only). I should not be forced to use an insecure browser to log into a security device!!",
+      "rating": 2.0,
+      "verified": true,
+      "author": "S. Evans",
+      "helpful_votes": 0,
+      "publication_date": 20200105
+    },
+    {
+      "title": "Buy something else",
+      "text": "I originally bought a \"Samsung\" Smartcam because I assumed it would be well integrated with SmartThings and other smart home products. Apparently Samsung sold the business, but let's the new owner use the branding. The features are not being updated. It's now missing a lot of features you can now get from other competitive products. I ended up replacing all of mine with Nest. Arlo seems better too.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "GWSTop Contributor: Pets",
+      "helpful_votes": 0,
+      "publication_date": 20180919
+    },
+    {
+      "title": "It's okay, works better during the day.",
+      "text": "Yup, it's okay. IR illumination is my main issue, it has to be within a yard of your target otherwise quality suffers to the point it's hard to see what is going on in pitch darkness. It also lets you monitor for short periods of time when the room temp is above certain level (no idea), then it disconnects, it gets hot, so I assume it is a safety measure to protect the equipment? If I had to do it again, I would prolly chose another camera with better IR LED coverage and a Temp monitor. Oh, the App to control it sucks, super outdated, looks like from iPhone 3G.",
+      "rating": 3.0,
+      "verified": true,
+      "author": "Pablo Orezzoli",
+      "helpful_votes": 2,
+      "publication_date": 20170118
+    },
+    {
+      "title": "Stays logged in if you lose power",
+      "text": "I've had this camera for 5yrs and it's very reliable. Even if the power goes out and comes back on later, it restarts back to where it was without logging out. My other cheaper cameras log out and if I'm not at home to re-connect then I can't see anything.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Fallon Zoe",
+      "helpful_votes": 0,
+      "publication_date": 20200710
+    },
+    {
+      "title": "Good value (Updated).",
+      "text": "I 'dropped' my previous cam when I got this one. Works well with my Synology NAS surveillance station, SD card recording a plus. Good video quality, easy setup. Recommended. Update 1/1/16: The camera has been humming along nicely until Samsung decided to mangle the device with a firmware upgrade. Since the latest firmware upgrade this camera does not work with the Synology NAS anymore. (Apparently the webserver component was deemed a security risk and removed, rendering the NAS integration useless). I will probably sell this and hunt for a similar camera again.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "JCG",
+      "helpful_votes": 2,
+      "publication_date": 20151104
+    },
+    {
+      "title": "Camera No Longer Syncs So It Is Unusable;  Terrible Software",
+      "text": "Worked well initially although it would go off network and I would have to set it up again periodically. After software updates it would no longer play on my PC., not even on Internet Explorer, which they recommend. None of this matters know. I updated my modem and it will not longer sync to any network. It is trash. My advice: try another brand of camera.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "Bob Smith",
+      "helpful_votes": 3,
+      "publication_date": 20161223
+    },
+    {
+      "title": "Good clear, crisp picture",
+      "text": "When working, works well. Good clear, crisp picture. Less locked-down and money grubby than Dropcam, allowing you to record locally and not forcing your stream upload to the internet 24x7. However, a critical bug in something designed to allow you to monitor your home remotely: As others have reported, it apparently randomly stops allowing for remote viewing, requiring you to power cycle it, a catch-22 when you're away. Samsung has their name on the device, but you can tell it is the \"Soltech\" company that made and supports this. I have no faith this bug will be resolved. I returned it.",
+      "rating": 3.0,
+      "verified": true,
+      "author": "K. Gardner",
+      "helpful_votes": 4,
+      "publication_date": 20141018
+    },
+    {
+      "title": "Great camera. Remote and internal software could be better.",
+      "text": "Really like this but wish they would update the remote viewing software. Would like to zoom in on areas when viewing recorded material. Also, when set to only record after recognizing movement or sound, even if the sound or movement continues the recording is NOT continuous. It records approx. 15/20 seconds then starts another clip. Also, I can't explain the way it is done, but there were several other \"viewers\" by other companies that offered a noticeably clearer image, but sadly had many other shortcomings that left me with only the Samsung product to use affectively. I very pleased with the cameras, good pictures and easy to set up.",
+      "rating": 3.0,
+      "verified": true,
+      "author": "Cgeorge1520",
+      "helpful_votes": 0,
+      "publication_date": 20150323
+    },
+    {
+      "title": "Works as it should, simple set-up, but you can't do everything on the phone app.",
+      "text": "We already have about 9 of these, at different property addresses. Good to have all under 1 app. Cameras are fine, the software needs some tweeking. For instance, you can only set up the time schedule you want it to be on or off with a computer, not a phone. We have our regular work schedule, so we leave the motion detectors on while we are away from home or work, but if we go away for the weekend, we have to get on a computer to change the motion to be on all the time. It would help if you could do this on the phone app. When we ordered it, it came immediately- good service!",
+      "rating": 4.0,
+      "verified": true,
+      "author": "LHC",
+      "helpful_votes": 0,
+      "publication_date": 20180731
+    },
+    {
+      "title": "Solid contender.",
+      "text": "We use it for a baby cam, and so far, it's been pretty solid for our needs. Phone application is a nice compliment. Quality of video is top notch. Bought this over the dropcam because this model had the flexibility of wireless connection or wired. Pros: Cost, video quality, wireless/wired, Android support, plays music, has mic Cons: can't add lullabys (limited to 3 preloaded, which aren't bad, but...), and they only play for about a minute or so, before manually having to play again. Bottom line: Would recommend, and am considering buying another.",
+      "rating": 4.0,
+      "verified": true,
+      "author": "RENDERKING",
+      "helpful_votes": 0,
+      "publication_date": 20151107
+    },
+    {
+      "title": "This would not reliabily connect to the Samsung smart home base station",
+      "text": "What a POS. Another failed technical solution to the question that Samsung did not consider. This would not reliabily connect to the Samsung smart home base station. Now would it register to the Samsung camera app. None of these apps or devices are integrated. The protocol and pass word rules are inconsistent and confusing. Tech support told me they could not help me integrate the two apps or solutions WTF??????????? I am dome with samsung. On to nest which is wha tI should have done in the first place. Don't waste you time on this experiment.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "Gary Flint",
+      "helpful_votes": 4,
+      "publication_date": 20161207
+    },
+    {
+      "title": "They finally started working with emails",
+      "text": "Took a while to get emails working. They get extremely hot. They take a few second to capture movement and start recording so sometimes they miss the picture but they are very good at capturing noise and motion. Great for speaking over the microphone. They get into relay mode a lot if the network is loaded.",
+      "rating": 4.0,
+      "verified": true,
+      "author": "frandma",
+      "helpful_votes": 0,
+      "publication_date": 20190613
+    },
+    {
+      "title": "Great Camera, if you have internet",
+      "text": "Be warned, if you are placing this where there is no internet, you will have a tough time with this. I set this up in my family barn so we could view our pregnant horse. The barn did not have internet at the time. I ended up having to use a thrid party app to record the videos. Setting it up took a lot of time in researching and configuring it. But after it was up it was great. Night vision is great, mic/speakers are decent. Now we have internet at the barn so I can now view the live feed from anywhere, it works great. And yes it was easy to setup.",
+      "rating": 4.0,
+      "verified": true,
+      "author": "madcar86",
+      "helpful_votes": 0,
+      "publication_date": 20151115
+    },
+    {
+      "title": "Great camera!",
+      "text": "I love the Samsung SmartCam products. This is my fifth camera purchase. They are easy to install and have excellent video quality. The available app for your iPhone or iPad is great. I can check on my property 24 hours a day. I feel very reassured with this product. I have tried other cameras in the past from other companies. They do not compete with the Samsung. They are easy to install and have excellent video quality. The available app for your iPhone or iPad is great. I can check on my property 24 hours a day. I feel very reassured with this product. I highly recommend them.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "M. Hamilton",
+      "helpful_votes": 0,
+      "publication_date": 20180430
+    },
+    {
+      "title": "The resolution on this camera is excellent! The camera detects \"events\" and sends notifications to ...",
+      "text": "The resolution on this camera is excellent ! The camera detects \"events\" and sends notifications to my smartphone very efficiently. Unfortunately, although it is also supposed to send an email notice and post a picture of the \"event\" to Picasa this feature does not work because Samsung has a problem with it's servers connecting to Google. This problem is still ongoing as of today. Another problem (for me at least) is that the camera only records to an SD card. It does not upload to the Cloud. I therefore reluctantly decided to return it. Samsung is on the right track and once they incorporate online recording (and maybe a zoom feature) this camera will be my top choice !",
+      "rating": 3.0,
+      "verified": true,
+      "author": "Michel",
+      "helpful_votes": 2,
+      "publication_date": 20150606
+    },
+    {
+      "title": "So Far So Good",
+      "text": "We recently installed one of these cameras in our home in Central America. It's too soon to tell how it will work long term, but installation was pretty straight forward and the app seems to be working. We are currently in the States and can watch the interior of our living room and the entry doors easily. We get alerts when there is activity. Only suggestion would be to make the camera adjustable up and down so one could get a clearer picture of faces when the camera is mounted high enough to be not easily reached by intruders.",
+      "rating": 4.0,
+      "verified": true,
+      "author": "Chicos mama",
+      "helpful_votes": 0,
+      "publication_date": 20170430
+    },
+    {
+      "title": "Garbage",
+      "text": "Camera stopped working after a few months, refuses to connect to wifi. I have to say as a computer technician this is one of the most confusing products i ever has the displeasure of dealing with. It was so confusing to set up i almost gave in but by some sheer miracle it connected. Only took fifteen tries, after a few months of it half working in relay mode i bought a new phone and had to re install it. One password reset later and thats it, camera hasnt worked since June.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "Manny",
+      "helpful_votes": 0,
+      "publication_date": 20161024
+    },
+    {
+      "title": "Choose a different camera!",
+      "text": "Was a problem from the start, won't register with software, it kept saying \"serial number doesn't match\" even though it automatically detects the serial number when it's on the same network. Camera plugins no longer supported by browsers, and there is no clear way to control sd card recording - in fact, it didn't seem to record at all. Haha you just put in the card and hope it begins to record at some point, but when I take it out there are only empty folders. Functionality was just horrible. I sent this back after putzing with it for two hours and not getting any where.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "Sir Fritz Bumwallah",
+      "helpful_votes": 0,
+      "publication_date": 20150616
+    },
+    {
+      "title": "So far so good. We purchased this to keep an eye on ...",
+      "text": "So far so good. We purchased this to keep an eye on our 2 hound dogs while we are out. Using the software to setup the camera was easy.( Only problem was going into firefox and activating the plug-in that was downloaded-with out doing that, every time I tried to register, it would tell me to download the plug in.) After I got the camera to work on my pc, we downloaded the app for our smart phones. Easy set up and it worked fine. Today was the test, as we accessed the camera from the mall to check up on the hounds.It worked great, and the nite vision worked good too. Talking thru the camera is not too bad.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Edkoz106",
+      "helpful_votes": 0,
+      "publication_date": 20141117
+    },
+    {
+      "title": "Great security camera",
+      "text": "Great security camera. The fisheye view covers a big area so no need to have a pan and tilt feature. Also, I love the fact that it records via a SD card instead of having to pay for a service. The camera is very sharp and clear. My only complaint about this item is you cannot view 2 cameras on the same screen at the same time. This should be a basic feature of the smart cam app but is not. I recommend this camera to anyone who needs a security camera and does not want to pay for a cloud service.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Amazon Customer",
+      "helpful_votes": 4,
+      "publication_date": 20140716
+    },
+    {
+      "title": "Great camera.  BYOS (Bring your own storage) beats monthly storage service fees of others.",
+      "text": "I love this camera. I was choosing between this and the Nest, and while the Nest seems slimmer, this was slightly less expensive and allows you to insert and SD card to record instead of having to buy into a monthly service. I use this to check on my dog when I'm out and it gives a full view of my living room. The night vision is also great. Sure the iPhone app is ugly and looks like something from 5 years ago, but the video quality I get on it is great, even on LTE.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Frank VTop Contributor: Cooking",
+      "helpful_votes": 2,
+      "publication_date": 20151103
+    },
+    {
+      "title": "clueless techsupport, camera server/network stops working several times during the day, ...",
+      "text": "I am very annoyed with this product too. The tech supports are clueless and waste of time. The event based recording does not work at all for me. the camera network stops working on and off. I have both iphone and windows. it cannot work with windows 8 although it says on the box it does and many more.... I am ready to throw this junk product to the trashcan but could not find any other indoor camera with the wide-angle, SD-card recording and phone app capability on the market. (I am too against paying server fee of $10/month to drop cam) Anyone else knows of any SD-card based indoor smart cam with iphone app interaction so I can buy?",
+      "rating": 1.0,
+      "verified": true,
+      "author": "unknown",
+      "helpful_votes": 0,
+      "publication_date": 20150704
+    },
+    {
+      "title": "You were tied down with Samsung. Recorded events, ...",
+      "text": "You were tied down with Samsung. Recorded events, were not transferable. ( I have android phone, Mac in my home and Windows at work ) You need to use their web site to view recorded events from the on board micro sd card. And the web site was down 70% of the time or you were kicked off it 80% of the time. Last soft were update to camera made it unable to be used via Wifi. Samsung had me fill out a form online which wanted my credit card number for a process fee. The camera ran hot which tech support stated was normal.",
+      "rating": 2.0,
+      "verified": true,
+      "author": "Amazon User",
+      "helpful_votes": 2,
+      "publication_date": 20150905
+    },
+    {
+      "title": "Like the camera but found it will not notify motion ...",
+      "text": "Like the camera but found it will not notify motion to my Samsung Smartthings hub. I solely bought a Samsung rather than Arlo because I thought the interface would work better. I found out through tech support that the Arlo camera communicate better with the Smartthings hub than this camera. They say they are working on it.",
+      "rating": 4.0,
+      "verified": true,
+      "author": "Steve",
+      "helpful_votes": 2,
+      "publication_date": 20170422
+    },
+    {
+      "title": "Great Camera with Few Flaws",
+      "text": "This camera is great! The only problem I've had from it is that anytime headlights shine through an area it sets off the motion detection and I live by the road so it makes it difficult to keep on at night. The app interface could be cleaned up and stream lined as it can get really confusing flipping through all of the different screens trying to find the one setting you need to adjust. Other than that, the picture is great, the audio is fantastic, it's definitely not as expensive as other cameras and it's very high quality.",
+      "rating": 4.0,
+      "verified": true,
+      "author": "Dylan",
+      "helpful_votes": 0,
+      "publication_date": 20160807
+    },
+    {
+      "title": "so I expect better performance and ease of use",
+      "text": "I use this with my Samsung Smartthings Hub, so I expect better performance and ease of use, but have neither. Difficult to set up, had to read others reviews to learn password, not provided with instructions. Frequently fails to livestream to my phone, like right now. I've never figured out how to make it auto record when triggered by other home sensors. On the plus side, the image and audio quality are good, when they work, which is not always. Very dissatisfied with this overpriced and finnicky gadget. I expect better from Samsung. Will look for other brands of cameras to fully set up home monitoring system. Had this for 6 months, glad I only bought 1.",
+      "rating": 2.0,
+      "verified": true,
+      "author": "Mose",
+      "helpful_votes": 0,
+      "publication_date": 20170524
+    },
+    {
+      "title": "No Cloud Service Needed",
+      "text": "This is my third one, I love these cameras...very clear images even in night mode. LOVE the SD storage option so I don't have to commit to a subscription in the \"cloud\" or have another account built in the cyber space world. Only issue I have with this one is the base tension in the hinge is not very tight, so the camera slips and I have to fix it daily. Other than that, it is the best out there in my opinion, for what I am looking for. I was very sad to hear these have been discontinued.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Toons4t",
+      "helpful_votes": 0,
+      "publication_date": 20180528
+    },
+    {
+      "title": "I've had one of these cams for a year and it has been ok at best. Currently it is incapable of uploading images to ...",
+      "text": "This is my first review since actively joining Amazon years ago. Do not buy this item. This review is not in reference to Amazon or the seller - rather about the manufacturer - Samsung. I've had one of these cams for a year and it has been ok at best. Currently it is incapable of uploading images to Google/Picasa as advertised. Has not had this capability for about a month or two now. Ask yourself - \"Do I REALLY want a security camera that is incapable of saving images off-site, or emailing to me?\"",
+      "rating": 2.0,
+      "verified": true,
+      "author": "Anton",
+      "helpful_votes": 0,
+      "publication_date": 20150626
+    },
+    {
+      "title": "Good camera could use a better app",
+      "text": "Great camera glitchy app disconnects alot. Wired network is definitely better. Love the aux output to increase the volume. Camera times out which is a hassel because i use it to monitor my laundromat. About 3-5 sec lag in video. Video quality can go up to high resolution but freezes immediately. Medium resolution works good and zoom is pretty great quality. Have not used the record feature. Motion detection picks up even light from passing cars and sets it off! an infa red sensor for motion would be way smarter and better so you don't have false alarms",
+      "rating": 4.0,
+      "verified": true,
+      "author": "Mr E",
+      "helpful_votes": 0,
+      "publication_date": 20151118
+    },
+    {
+      "title": "The Best Home Security Camera on the Market",
+      "text": "I tried the Dropcam before this because of reviews. But, I couldn't get the audio speaker to work. I had trouble with my account and couldn't get help from the company. I returned the Dropcam and purchased this Samsung SmartCam. The setup was easy. I can view from my iMac and from my iPhone. The speaker audio works fine. The video image is very good. There are many customizable settings. In my living room, the camera is facing a window. Samsung has a setting to reduce the backlight from the window. You can record onto a micro sd card. The bottom line is that it works!",
+      "rating": 5.0,
+      "verified": true,
+      "author": "John",
+      "helpful_votes": 0,
+      "publication_date": 20140708
+    },
+    {
+      "title": "You can only use INTERNET EXPLORER on a Mac?",
+      "text": "In the past six months Samsung has left behind Safari, Chrome and Firefox on the Mac OS platform. You cannot access the cameras from the desktop -- you get an error message telling you to use Internet Explorer. It's a bad joke. I'm going to phase out these cameras and buy something that works on modern browsers.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "Lima",
+      "helpful_votes": 0,
+      "publication_date": 20181130
+    },
+    {
+      "title": "Don't recommend....",
+      "text": "I purchased eight of these cameras about two years ago. The cameras have held up well, but the Samsung software changes have removed features and their site based access portal has gotten so slow that it makes accessing the cameras at time useless. I can not recommend these cameras due the changes that Samsung has made in the last two years. It's a shame too, since the camera is fairly nice, and on it's own it has performed well. However, without being able to effectively access the cameras, they are useless. The 107 Firmware update has taken away features, not improved them. -BC",
+      "rating": 1.0,
+      "verified": true,
+      "author": "Bob C",
+      "helpful_votes": 0,
+      "publication_date": 20141104
+    },
+    {
+      "title": "Great camera for the price!",
+      "text": "Works as it claims it does. Very easy to set up. I use it to monitor my dog in his crate from work. Haven't used it in night vision or anything yet. Image tracking was too sensitive so turned it off. I can talk to my dog and play music for him! Only complaint, it doesn't have a 360 view. But the image quality more than makes up for it. 10/10 would recommend.",
+      "rating": 4.0,
+      "verified": true,
+      "author": "YG",
+      "helpful_votes": 2,
+      "publication_date": 20161119
+    },
+    {
+      "title": "Test 1 2 3 .....Signal lost.",
+      "text": "Good camera for keeping an eye on things very simple to use. Owned this since 2016 and my only issue with it is the app drops the camera signal way to much sometimes and the camera can get a little warm sometimes.",
+      "rating": 4.0,
+      "verified": true,
+      "author": "Rango360",
+      "helpful_votes": 0,
+      "publication_date": 20200303
+    },
+    {
+      "title": "Great Camera/App But Tricky With Windows 10",
+      "text": "Product shipped fast! The previous reviews are right about not a great deal of documentation that comes with the camera but the app (I use Apple products) set up kinda guided you through the process. I like the two-way mic on the camera and I might use the music if I had small children. Samsung got it right on this one. I did run into some difficulty setting up an account on my PC running Windows 10 but was able to figure it out after I enabled/disabled things in my settings on Chrome.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Theresa",
+      "helpful_votes": 0,
+      "publication_date": 20150830
+    },
+    {
+      "title": "Died just after the warranty ended.",
+      "text": "After a year of making due with terrible support software, the camera itself died one month after the warranty expired. I like a lot of things about other Samsung products, but this is the second Samsung security camera I've purchased that has died just after the warranty ended. This one had great pictures while it lasted, but the software was glitchy with unintelligible instructions. I got an Arlo Q to replace it, and the picture is of equal or better quality, with a no-brainer interface... and hopefully longer life.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "David Bloom",
+      "helpful_votes": 2,
+      "publication_date": 20161104
+    },
+    {
+      "title": "DOES NOT WORK WITH SMARTTHINGS",
+      "text": "I was sold these under the assumption that they work with the smartthings hub. I own 5 others and have been generally happy with them. Unfortunately, in my recent attempt to connect my new units I just purchased, I found out that smartthings is no longer supporting them. Of course, the answer to my support questions took just long enough to push me past me return deadline so now I own 3 expensive cameras that are useless to me. Junk business ethics here. Dont sell something that states it works with smartthings when you know it doesn't.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "Amy Demoff",
+      "helpful_votes": 0,
+      "publication_date": 20180808
+    },
+    {
+      "title": "Great camera!",
+      "text": "Great wifi camera! Me and my love this. We use it as a security cam for our garage. It is very useful, however it is very sensitive to motion and audio detection even at the lowest settings. Overall we are happy enough to buy more of these for our house. The app is very easy to use and set up which is expected with a Samsung brand item. I've bought cheap Chinese ripoffs of similar type Wi-Fi cams before and they are nowhere near the quality of this camera. Also prefer it to the dropcam which I purchased for my parents.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Bnewbs23",
+      "helpful_votes": 0,
+      "publication_date": 20160728
+    },
+    {
+      "title": "Great camera!",
+      "text": "I went on a ten day trip and wanted to be able to keep an eye on the house and pets. This worked great! We have a parrot and I was able to talk to him every day. It was also a comfort to see the house was in order. Great range of view and quality of pic. We are planning on getting another for a different area of the house!",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Janet",
+      "helpful_votes": 0,
+      "publication_date": 20180613
+    },
+    {
+      "title": "the interface when being used is terrible. If you want to see recorded video",
+      "text": "This thing is gonna break on you as soon as the warranty expires. Aside from that, the interface when being used is terrible. If you want to see recorded video, good luck because it's going to take forever to load. The picture quality is pretty good and the angle is definitely wide, but only when the system actually works. Every time the power goes out or it gets unplugged, you're going to have to re-setup the entire system, meaning another 10-20 minutes (or 20-30 minutes if the camera decides it doesn't like you and keeps flashing red instead of the yellow/blue you need) before you can use it again.",
+      "rating": 2.0,
+      "verified": true,
+      "author": "Jack",
+      "helpful_votes": 0,
+      "publication_date": 20160731
+    },
+    {
+      "title": "The samsung smartcam software is scalable.",
+      "text": "Just got this and set it up. Currently have 2 SNH 1010 samsung cameras installed and upgraded to this camera for the third. Fast easy set up and had all three cameras up and running in 5 minutes. Quality of this camera is impressive, extraordinary field of vision, almost like a fish eye lens. The smartcam software is easy to use and we have the app installed on multiple iphones, ipads and one android device. Works flawlesly on all of them. Have had the system with the first two cameras for over two years and have experienced no problems with cameras or software. This camera is a HUGE upgrade from the SNH1010.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "ricardot2000",
+      "helpful_votes": 2,
+      "publication_date": 20140829
+    },
+    {
+      "title": "Camera - nice for live. To record, a total FAIL.",
+      "text": "Using the camera directly to your phone is just OK, it works only about 75% of the time. I have had if for around 2 years. BUT the Samsung SmartCam website is a great example of why Samsung will be destroyed by Apple. Pure junk, having spent hours trying to get the \"webviewer\" to work, I gave up. Samsung should fire every single person on the SmartCam team. If you want to view videos from motion, forget it.",
+      "rating": 2.0,
+      "verified": true,
+      "author": "drift",
+      "helpful_votes": 4,
+      "publication_date": 20151202
+    },
+    {
+      "title": "Works perfectly for my needs",
+      "text": "Unlike other products that require some kind of subscription service, this one comes with an SD Card slot. I put a 64Gb SD card in it and set it for continuous recording. This means that it will never fill up because once it starts getting full it will overwrite the oldest video footage. So, I have a setup and forget configuration. I take comfort in know that if I ever discover something has happened inside my home, I can review the video that is stored locally.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Dagusia",
+      "helpful_votes": 0,
+      "publication_date": 20150919
+    },
+    {
+      "title": "Very easy to unbox the camera unit and power cable",
+      "text": "Purchased this Samsung Smartcam HD Pro 1080p camera recently. Very easy to unbox the camera unit and power cable. The wifi setup was also super easy to do at my business store. The amazon prime shipping was extremely fast to be delivered to my store. Definitely will purchase another Smartcam soon for the summer season.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "JP",
+      "helpful_votes": 0,
+      "publication_date": 20180514
+    },
+    {
+      "title": "High quality and easy setup",
+      "text": "We have this positioned in our house as a security camera. We can pull it up on our phone anytime. It was great while we were on vacation and wanted to keep a watch on the house. The light/sound sensors are incredibly sensitive. The room we had it positioned in has a lot of sunlight. The changing position of the sun and airplanes in the sky both were enough to detect motion and notify us. I would prefer a highly sensitive sensor over a poor sensor so not a problem.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Pumpkins Fan",
+      "helpful_votes": 0,
+      "publication_date": 20161125
+    },
+    {
+      "title": "After 9 months of use ... still good and got another one.",
+      "text": "Been using this for about 9 months now. Still like it. Tried a similar looking unit from Foscam. But I found the Foscam unit to be more difficult to set up and quality was a bit lower. This Samsung unit has a pretty good user interface. Early on, the software seemed to lose connection, but with updates, the problems seemed to have been resolved. So, got another one and now I have two identical units for different areas of the house.",
+      "rating": 4.0,
+      "verified": true,
+      "author": "One of many",
+      "helpful_votes": 0,
+      "publication_date": 20160602
+    },
+    {
+      "title": "I plan to get one more for the other side of the house.",
+      "text": "Very clear pictures and video day and night. PC and mobile device friendly. If you are looking for a security camera it is one of the best and a great price. Best to set-up a Gmail account just for your camera, where you can instantly view photos and if nothing has happened select all and delete. I plan to get one more for the other side of the house. con: only inside use but, I am researching other Samsung cameras because of the quality of this camera.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "DHILL",
+      "helpful_votes": 2,
+      "publication_date": 20140831
+    },
+    {
+      "title": "Good camera, software could be better.",
+      "text": "Good camera but it lacks a lot of common sense features. Like being able to have the motion sensor disregard motion sensed after initial motion for a certain duration. The damn thing notifies me every second while motion continues if I have the alert feature on. I wish it had the ability to only notify every 5 minutes if the motion continues while it still records. Playback jumps sometimes when there is a drastic change of fast movement. Wifi is solid though.",
+      "rating": 4.0,
+      "verified": true,
+      "author": "Rob",
+      "helpful_votes": 2,
+      "publication_date": 20150104
+    },
+    {
+      "title": "Bought and Bought again - good product",
+      "text": "I have more than one and the only thing that affects them is power outage (did not connect them and network to battery backup - I will be correcting that). 1080p is NOT standard resolution and it slows to 15 fps. Standard resolution works well for most things. Two way communication is a plus, defined trigger areas for notificaitons keep false notifications to a minimum. Have some of mine installed outside (protected from rain) and they work fine in 95+ degree weather. Good product",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Amazon Customer",
+      "helpful_votes": 0,
+      "publication_date": 20141002
+    },
+    {
+      "title": "The image quality is garbage and just to keep it somewhat well",
+      "text": "This is the second smartcam we have purchased. The first one, which is under 1 year old, has deteriorated substantially. The image quality is garbage and just to keep it somewhat well, I have wired it with an Ethernet cable. The second one we purchase a few months back is working well. It connects over wifi and does a wonderful job. I only wish the other one had held up better. Will I purchase again? Im not sure. Possibly but time will tell with the second cam.",
+      "rating": 3.0,
+      "verified": true,
+      "author": "Brandon",
+      "helpful_votes": 0,
+      "publication_date": 20151106
+    },
+    {
+      "title": "Great for Home Surveillance",
+      "text": "Setup was very easy, image quality is great, no monthly monitoring fees. Given the slow internet speed I have at home I was very impressed with the quality and quickness I was able to pull up images from home. This is a great camera, I was looking at the Dropcam's but once I realized the only way to record anything was to pay them $100+ a year I decided to give this a shot and I'm glad I did. I will be ordering another once it's in stock at a reasonable price. Nightvision works well too.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Jimmer",
+      "helpful_votes": 0,
+      "publication_date": 20140805
+    },
+    {
+      "title": "Decent camera but not great security camera...",
+      "text": "This is a decent web cam. I have a nest cam as well and for the purpose of using as a security camera the nest cam is much better suited. On windy days the Samsung camera is sending notifications all day long. I turned off notifications for it eventually. Picture quality is excellent and night vision is good as well.",
+      "rating": 3.0,
+      "verified": true,
+      "author": "Samara B",
+      "helpful_votes": 2,
+      "publication_date": 20161208
+    },
+    {
+      "title": "the camera does all of the things it claims pretty well. One tip",
+      "text": "This camera has thwarted the neighborhood yard flag thief. We just put it in the front window in plain view with the green light activated at all times. Feature wise, the camera does all of the things it claims pretty well. One tip, don't plan on using night vision through glass or any barrier. The IR bulbs reflect badly and there is no way to disable them in night vision mode. Will def be picking up a few of the updated version for use in the house.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Keith Woodhall",
+      "helpful_votes": 0,
+      "publication_date": 20160111
+    },
+    {
+      "title": "Not happy at all",
+      "text": "Would not connect to WiFi. I called Samsung and they had said that something was wrong with the unit and to send it back to them would cost me money. It was broken out of the box! Not happy at all. I did return it.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "Cristian",
+      "helpful_votes": 0,
+      "publication_date": 20180312
+    },
+    {
+      "title": "Doesnt work with Smart Things hub.",
+      "text": "The camera worked with Smart Things at first but after a firmware update has`nt worked since. After numerous contacts with customer support they continue to say their engineering department is working on it. This has been ongoing for at least 3 months now. It does work with the native Smart Cam app. I wouldnt recommend this camera for use with Smart Things hubs and security systems.",
+      "rating": 2.0,
+      "verified": true,
+      "author": "Shawn",
+      "helpful_votes": 0,
+      "publication_date": 20180130
+    },
+    {
+      "title": "WORTH THE MONEY",
+      "text": "i have this in my front window. small and powerful. was going back and forth with other high dollar cams. but they all want you pay monthly fees. with this just buy a 64gb memory card and set it to rewrite. every alert is marked and sends it to your phone when tripped so you can go back and review it. going to buy another one for the rear of the house next.. ******future upgrades i would love would be a outdoor camera option and a app for the samsung smart tv.****",
+      "rating": 5.0,
+      "verified": true,
+      "author": "JOEY D",
+      "helpful_votes": 2,
+      "publication_date": 20140614
+    },
+    {
+      "title": "Nice camera, with great remote access software.  A few shortcomings",
+      "text": "Very good camera quality, although HD and normal settings seem pretty much the same when you view the video. Nice remote viewing capability via their Windows and Android apps. Includes a built-in wide-angle lens - would be really nice to have a screw on \"normal\" lens too to allow enhanced viewing of a specific area. Somewhat illogical menu setups, making it impossible to remember where to go to set each feature.",
+      "rating": 4.0,
+      "verified": true,
+      "author": "ScottS",
+      "helpful_votes": 0,
+      "publication_date": 20151123
+    },
+    {
+      "title": "A peace of mind!",
+      "text": "Works great. I wish more zoom, but for the price. No problems with the power going off. It restart with out me having todo anything. Memory of 64g store 8 days of continuous recording. It is a peace of mine for me and my family. Audio functions is very sensitive. And video quality varies depend wifi connections, but even when wifi is not on its best video quality still decent.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "MOM",
+      "helpful_votes": 0,
+      "publication_date": 20151202
+    },
+    {
+      "title": "Doesn\u2019t work",
+      "text": "I bought this some time ago. It now refuses to work. Can\u2019t get it to connect to my excellent WiFi network. Despite being in the same room as the modern.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "R. MCBAIN",
+      "helpful_votes": 0,
+      "publication_date": 20191114
+    },
+    {
+      "title": "Quick look",
+      "text": "I bought this to keep an eye on my kids. I was looking into a bunch of other cameras, but what sold me on this was the integration with SmartThings for home security. The quality of the video is excellent for 1080p, and when accessing the app while away is quick as well. I have Ring as well, but to access that app is slow/painful, not so with the SmartCam app. Highly recommend, easy setup and configuration.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "JDM",
+      "helpful_votes": 0,
+      "publication_date": 20180810
+    },
+    {
+      "title": "LOVE IT!!!",
+      "text": "WOW! This is a great camera for me! My Verizon Home Monitoring Camera can't get tossed in the trash fast enough. A breeze to set up, and great picture quality! I LOVE it! BE SURE to read the review and comments by Aidan's Daddy - this is one smart and terrifically helpful guy. All my other questions plus more were answered from the Samsung site here:  If anything changes my opinion, I'll update this post . . . but loving it so far!",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Dee",
+      "helpful_votes": 0,
+      "publication_date": 20150101
+    },
+    {
+      "title": "Quality isn't as great as I hoped from the app",
+      "text": "Wish there was an app for my samsung tv to allow me to view the camera. Quality isn't as great as I hoped from the app. mounted about 7' on a wall, and hard to zoom in to see if baby's eye's are open or closed most of the time. App takes about 10 seconds from the time you go \"I want to see the video\" to the time you actually see the video. It has been very stable on my wifi though, and haven't needed to reboot it or anything.",
+      "rating": 4.0,
+      "verified": true,
+      "author": "Dave",
+      "helpful_votes": 0,
+      "publication_date": 20151229
+    },
+    {
+      "title": "Good cameras but REQUIRES a working samsung.com login. Doesn't work on Android lower than 5.x",
+      "text": "It requires the Samsung web site network to be up and running to access cameras. UPDATE: With the latest firmware update, you are no longer allowed to access the cameras directly. You HAVE to login to their services at samsung.com inorder to access your own home camera when their web site is accepting connections!!! They have an app, it no longer works. Are they going to a subscription model? It sure looks that way!",
+      "rating": 1.0,
+      "verified": true,
+      "author": "Stephen",
+      "helpful_votes": 0,
+      "publication_date": 20150501
+    },
+    {
+      "title": "Good indoor surveilance camera",
+      "text": "I have tested numerous cameras for my home security, both indoor and outdoor. This camera is great for surveillance of a indoor area. Quality is great and it works with Samsung SmartThings. The SD card recording is great. Getting it recognized on my wifi connection took a little while (did get frustrated) but with a little patience it finally connected. I wish you could remote rotate - that would make it absolutely perfect.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Daniel",
+      "helpful_votes": 0,
+      "publication_date": 20180519
+    },
+    {
+      "title": "Easy to use",
+      "text": "I love this nanny cam model, totally plug and play, takes a micro-sd card for offline recording. i dock one star because Samsung has not made enough effort to provide more functionalities via the smartcam app or integrate it with other Samsung apps and devices.",
+      "rating": 4.0,
+      "verified": true,
+      "author": "Adewale",
+      "helpful_votes": 0,
+      "publication_date": 20170522
+    },
+    {
+      "title": "Very disappointing with the Samsung customer service. I was ...",
+      "text": "Very disappointing with the Samsung customer service. I was unable to set up the camera, I called them a few times because I really wanted to keep it. The camera did not have -no sound - was not able to talk into -the speaker feature did not work at all. After called them a few times, the representatives did not help and every time, they gave me different answers and confused me even more.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "OneWorld",
+      "helpful_votes": 0,
+      "publication_date": 20151201
+    },
+    {
+      "title": "Great camera",
+      "text": "This camera is very good for the money. We had a Graco baby monitor and that was a waste of money. The thing broke within five months. We decided we wanted to upgrade to Wi-Fi. This is a great camera and we have no qualms, except for the fact that you cannot use this application on your device and toggle to another screen. It would be nice if you could be able to keep the baby onscreen while toggling to another application. That is why I give the camera 4 stars.",
+      "rating": 4.0,
+      "verified": true,
+      "author": "audkat",
+      "helpful_votes": 0,
+      "publication_date": 20140613
+    },
+    {
+      "title": "Good and Bad",
+      "text": "Great camera, notification and recording are superior to paying a monthly fee. Works better on a Samsung phone than on an iMac. I point these out the window. Dynamic resolution is incapable of clear identification in heavy shade. Night vision is adequate and non alerting. You can turn off the \"recording\" indicator light. Samsung takes advantage of not needing to subscribe to a service in their pricing, too bad as this is a $99 camera.",
+      "rating": 4.0,
+      "verified": true,
+      "author": "Veritas",
+      "helpful_votes": 0,
+      "publication_date": 20150407
+    },
+    {
+      "title": "Use the Smart Camera App!",
+      "text": "I have used several of these at home and in businesses. These work well with a memory card and you can look back at recordings based on date/time sequence. Note these can work with the Smart Things App OR the Samsung Smart Cam App. Personally, I get more options and better results from the Smart Cam App versus the Smart Things App. Great camera and lots of functionality however a little pricey compared to other models.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "William E.",
+      "helpful_votes": 0,
+      "publication_date": 20180724
+    },
+    {
+      "title": "This product is slowly losing aspects of it's usability.",
+      "text": "Just a warning to potential purchasers. As of 9/13/15, the web based monitoring doesn't work with Chrome. Chrome no longer supports the plug-in content necessary to run the monitoring. It will not auto upload event pictures to Picassa either. This is a major reduction in its usability, and can be a problem for some. The phone app continues to allow monitoring and review of footage.",
+      "rating": 2.0,
+      "verified": true,
+      "author": "Eric",
+      "helpful_votes": 0,
+      "publication_date": 20150913
+    },
+    {
+      "title": "Doesn't work with Samsung 64G microSD card, works with 32G",
+      "text": "Camera doesn't find Samsung 64G microSD card. I called the Samsung tech support helpline +1 (877) 349-3149. Help call # cal-201506031405. Recommended I buy lower capacity memory card. Purchased Samsung 32G and Sandisk 32G and both worked immediately. Upgraded score from 1 to 4 stars. Great product. Followed recommendations to lowest motion sensitivity (agree). So far all functions seem to work great, will update here if that changes. Too bad these don't have their own slot for a couple of AA NiCad batteries for backup. That would make the product truly standalone for monitoring.",
+      "rating": 4.0,
+      "verified": true,
+      "author": "Steven Bowler",
+      "helpful_votes": 0,
+      "publication_date": 20150603
+    },
+    {
+      "title": "it works good with the app",
+      "text": "this is my second camera, it works good with the app.and on the phone and ipad its very good on notifacations and it has built in music and sounds, you can also custumize your songs. its also great for a baby monitor. you can use portable or mount it.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Karen",
+      "helpful_votes": 0,
+      "publication_date": 20180509
+    },
+    {
+      "title": "Easy to install",
+      "text": "Easy to install. Can hook up multiple cameras. Can access on wifi. Speaking mobility is a little lagged but does the job. Night vision is great. I can see my entire downstairs area with just the one camera. I have another one in the baby room and I can zoom in enough to make sure he's still breathing! ;)",
+      "rating": 5.0,
+      "verified": true,
+      "author": "AliAl",
+      "helpful_votes": 2,
+      "publication_date": 20160206
+    },
+    {
+      "title": "Wireless was more of an issue since it did not like my Apple Extreme router",
+      "text": "Was not plug and play as advertised. Needed to call customer service several times to get even the ethernet operation going. Wireless was more of an issue since it did not like my Apple Extreme router. Also Apple Safari browser presented difficulties. It took 10 hours of trials and three different customer service people to got camera finally to work. The iphone app is not very user friendly and simple to use. It is missing easy arm/disarm features including geofencing. Iphone motion detection push notifications were constantly late and email alerts work only with gmail. Could not any audio alarms to function, only motion. Overall very disappointing experience. Returned camera.",
+      "rating": 2.0,
+      "verified": true,
+      "author": "Hans J. Matanovic",
+      "helpful_votes": 0,
+      "publication_date": 20150521
+    },
+    {
+      "title": "Good for use with smartthings, great video quality",
+      "text": "Great for smartthings integration! Though I probably won't use the integration feature when it's actually required that I pay for it. It should allow for the integration and still have local recording rather than require that it go to the cloud. Cloud stability is very hit and miss... so that's a big con. But I have definitely found the camera easy to use.",
+      "rating": 3.0,
+      "verified": true,
+      "author": "Eric Erickson",
+      "helpful_votes": 0,
+      "publication_date": 20160818
+    },
+    {
+      "title": "Great Picture Quality but....",
+      "text": "Great picuture quality and the option to use wireless or ehternet connection is awsome. I deducted points becaue it's not compatible with Samsung SmartHome and the built in audio has been changed from alarms to lullaby's, not really useful for home security. and I don't have babies so those are useless to me.",
+      "rating": 3.0,
+      "verified": true,
+      "author": "Joey Williams",
+      "helpful_votes": 0,
+      "publication_date": 20180430
+    },
+    {
+      "title": "THIS SAMSUNG CAM IS GREAT AND THE 128* ANGLE IS EXCELLENT",
+      "text": "SEARCHED AND RESEARCHED FOR A VERY LONG TIME FOR A SECURITY AND NANNYCAM, THEN WE FOUND THIS. INITAILLY BOUGHT ONE FOR THE LIVING ROOM TO KEEP AN EYE ON THE KIDS AND THEIR NANNY WHILE WE ARE OUT. THIS SAMSUNG CAM IS GREAT AND THE 128* ANGLE IS EXCELLENT. THE APP WORKS GREAT AND MOSTLY IMPORTANTLY YOU DUE NOT HAVE ANY MONTHLY FEE TO PAY ANY COMPANY AND YOU CAN BUY A SLOT CARD AND RECORD EB=EVENTS AT YOUR HOME TO REVIEW LATER, AWESOME. I RECOMMEND.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Laurie",
+      "helpful_votes": 0,
+      "publication_date": 20141113
+    },
+    {
+      "title": "Love these cameras!",
+      "text": "We are using 2 of these cameras to keep an eye on our 2nd home. We use them from inside pointed to front and back exterior thru Windows. At night there can be some glare reflecting back on the Windows but can be adjusted to work fine. The remote software accesses the live feed and recorded movements just fine and the resolution and picture quality is great! Even at night. Highly recommend!",
+      "rating": 4.0,
+      "verified": true,
+      "author": "K. A.",
+      "helpful_votes": 0,
+      "publication_date": 20160124
+    },
+    {
+      "title": "IR LEDs gave out in 6 months, Samsung Warranty Repair Useless",
+      "text": "This camera was decent while it lasted we use it as a baby monitor. The IR LEDs gave out in 6 months. I returned it to Samsung (postage paid by me) for warranty repair and they returned it in the box with a note that the pcb was replaced, firmware upgraded and all functions tested. The first thing I do is plug-it and and reconnect it to the network and IR LEDs still aren't working. Thanks for nothing, now I'm out the high cost of this camera and the cost to ship it back for repair.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "C. Gray",
+      "helpful_votes": 3,
+      "publication_date": 20141129
+    },
+    {
+      "title": "Great camera, good picture",
+      "text": "Great camera, good picture, and I really enjoy the two way communication it can do. It has a speaker and a Mic. I can 'spy' on my kids and dog when I'm not home, and talk to them as well, and listen for responses. The memory cards are useful for when I go out of town and I want to check back on the day and make sure the house sitter isn't having keggers or making sure the dog isn't getting on the couch.",
+      "rating": 4.0,
+      "verified": true,
+      "author": "James Easton",
+      "helpful_votes": 2,
+      "publication_date": 20150918
+    },
+    {
+      "title": "Excellent view and very sharp picture.",
+      "text": "This is an amazing camera. Great view and very very sharp picture. This is the 6th one of these cameras that I have and all are working great. Easy to access from a free app on cell phone. I would recommend this camera to anyone.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Jim G.",
+      "helpful_votes": 0,
+      "publication_date": 20180428
+    },
+    {
+      "title": "The event section doesn't give you screenshots of your events like it's designed to do and the overall iphone app ...",
+      "text": "This camera has some killer features. The hardware is very solid and the sd slot capabilities is why I bought it over a dropcam. The software however is a bit clunky and needs some work. The event section doesn't give you screenshots of your events like it's designed to do and the overall iphone app isn't very polished. If you want a single camera and don't want to pay for a subscription or don't want your video being upload to someone else's server it's a good buy. But don't expect to be blown away by the software in its current state.",
+      "rating": 4.0,
+      "verified": true,
+      "author": "K. Brandstetter",
+      "helpful_votes": 0,
+      "publication_date": 20150528
+    },
+    {
+      "title": "Great image, poor recording ability",
+      "text": "While the image quality of the camera itself is excellent, what is NOT obvious is that this IP Camera has a dedicated stream to Samsung preventing the user from recording to any third party device at all, online or dvr. The only recording capacity is via a microdisk which is inserted into the camera itself and offers very little recording time. For live monitoring, the camera is excellent but for recording purposes it is essentially useless. So, if your intention is to have a camera for recording for any duration, such as motion detection or for longer spans of time you want to skip this camera. Too bad...for the price it should certainly give you this flexibility.",
+      "rating": 3.0,
+      "verified": true,
+      "author": "Pradhan Balter",
+      "helpful_votes": 3,
+      "publication_date": 20141114
+    },
+    {
+      "title": "Picture is great.  Need an outdoor version now.",
+      "text": "The camera works good. Sometimes I am not able to see my feed through the Samsung smart things app a few times, but the camera continued to function and record video on the SD card. it seems to be getting better so maybe software updates are helping. Picture is great.",
+      "rating": 4.0,
+      "verified": true,
+      "author": "JohnnyF",
+      "helpful_votes": 0,
+      "publication_date": 20170126
+    },
+    {
+      "title": "Works well!",
+      "text": "This camera was a breeze to setup and all the features work as advertised. Love the integration with my Google/Picasa account. Only thing I think is weird is that the power cord is stiff and sticks out of the back a bit making it a bit difficult to place in certain areas. Other than that I picked this camera because there were no additional monthly fees like DropCam. Would buy more!",
+      "rating": 4.0,
+      "verified": true,
+      "author": "Rob B",
+      "helpful_votes": 2,
+      "publication_date": 20140608
+    },
+    {
+      "title": "Best camera on the market",
+      "text": "An excellent little camera that is loaded with features. The only downside is that it relies heavily on a good internet signal; so if either your cell phone or you're home Wi-Fi internet are weak, the image quality deteriorates and constantly freezes. Other than that, you get a wide angle, remote viewing from your cellphone our computer, punch to zoom, it works with multiple users, it records on an sd card (free of storage fees), and has Google + connectivity.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Marco",
+      "helpful_votes": 0,
+      "publication_date": 20150101
+    },
+    {
+      "title": "Cams for outdoors",
+      "text": "I actually mounted several of these outside under the eves. Weather has gotten down to zero degrees, and they still worked. Picture quality is not bad within seven feet. Facial images blur with the slightest movement. The mic is absolutely awesome. Can hear voices easily within 50 ft.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Mac",
+      "helpful_votes": 0,
+      "publication_date": 20170803
+    },
+    {
+      "title": "Terrible product, not compatible with anything",
+      "text": "Does not work with other Samsung products. The App is garbage too. This is a terrible product all around. I\u2019m very disappointed that Samsung couldn\u2019t do better integrating their products.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "Big Rich",
+      "helpful_votes": 0,
+      "publication_date": 20180921
+    },
+    {
+      "title": "This is a great camera. It's continually operating and can send alerts ...",
+      "text": "This is a great camera. It's continually operating and can send alerts to your smartphone based on activity or noise. Very easy to install and even easier to setup. Added bonus is it an save activity - with a SD card (have to purchase this separately). We can access the feed any time thru our android smartphone. Great product, amazing clarity and a reasonable price. I highly recommend this product.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Amazon Customer",
+      "helpful_votes": 0,
+      "publication_date": 20150108
+    },
+    {
+      "title": "We were disappointed with the video quality and control of the camera",
+      "text": "We were disappointed with the video quality and control of the camera. Having to plug into the router in order to turn on the wifi was a total pain. Having to use their web interface was also a headache. The app was not easy to use and often had to be restarted to work. The zoom feature was terrible. We returned the unit.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "Chris & Cassidy",
+      "helpful_votes": 0,
+      "publication_date": 20151121
+    },
+    {
+      "title": "Love my SmartCam!",
+      "text": "I have my SmartCam mounted in my carport, so it's sheltered but outdoors. I've been worried since I got it that it was going to fail outdoors, but it's still giving me a bright, vivid picture, even at night, and the wide-angle lens is terrific for a security camera. When the one on the front door fails, guess what I'm going to replace it with??",
+      "rating": 5.0,
+      "verified": true,
+      "author": "anonymous",
+      "helpful_votes": 0,
+      "publication_date": 20160127
+    }
+  ],
+  "product_meta": {
+    "title": "Samsung SNH-P6410BN SmartCam HD Pro 1080p Full-HD Wi-Fi Camera",
+    "description": "1080p Full HD WiFi CameraView larger SAMSUNG HD PRO WIFI IP CAMERA (SNH-P6410BN)\nWhether you want to check in on what your pet is doing, see if the kids are safe or just want the reassurance of knowing that your home is secure, the Samsung SmartCam HD Pro is the perfect way to keep an eye on what matters most. You can view your SmartCam HD Pro from your mobile device anytime from anywhere in the world, giving you peace of mind. Designed for optimum performance with Full HD 1080p video quality, simple set-up and an intuitive experience, the SmartCam HD Pro provides the high caliber video experience you would expect from Samsung. The SmartCam HD Pro can be easily customized to instantly alert you to both motion and audio events so you won\u2019t miss a thing! The SmartCam HD Pro delivers real-time notification of activity through your iPhone, iPad, or Android smartphone or tablet. It also has a built-in slot for a microSDXC memory card which allows for video storage for later review. Once you\u2019ve downloaded the Samsung SmartCam app and have set up your SmartCam HD Pro, there are no extra costs or monthly fees for viewing or storage. The SmartCam HD Pro WiFi IP camera introduces many advanced features such as Wide Dynamic Range, Samsung Light Enhancer, Advanced Motion & Audio Detection, and Motion Zone Select. Each camera is equipped with a built-in microphone and speaker for crisp, clear Two-Way Talk \u2500 one more way Samsung helps you be in two places at once!\n\nSIMPLE WIFI SETUP\nSetting up the device is simple and requires no use of software or CDs. Simply download the free Samsung SmartCam app for Android or iOS, available on the App Store and Google Play, to your mobile device. The intuitive setup wizard helps you to begin viewing your camera in a matter of minutes.\n\nADVANCED MOTION & AUDIO DETECTION\nIf your pet enters an \u201coff-limits\u201d room, the kids come home from school, or a window is shattered, you\u2019ll be immediately notified. False alarms due to slight changes in lighting or minor movements such as a houseplant gently ruffled by an air vent, are now a thing of the past! The SmartCam HD Pro\u2019s Advanced Motion & Audio Detection recognizes that things like rolling cloud coverage, falling leaves and swaying branches are not key events. You will only be notified, through instant push notifications to your mobile device, of true motion events such as someone entering the room. And in low light conditions, audio detection has you doubly covered listening for loud incidents you should know about.\n\n\nView larger 1080P FULL HD VIDEO\nThe SmartCam HD Pro WiFi IP camera provides up to 1080p Full HD streaming video to your mobile device, delivering better image quality than 720p resolution. Capture every detail of your kids playing video games, your cat poised at the window awaiting your return, or even the cash register inside your store. The large 1/2.8-inch CMOS sensor allows maximum light through the lens \u2500 yielding vivid colors, brighter video and stunning detail.\n\nTWO-WAY TALK\nGo ahead: remind your child to do her homework or tell your dog to get off the couch. The Samsung Enhanced Two-Way Talk feature lets you not only hear what\u2019s going on around the camera, but also allows you to talk back through your smartphone, no matter where you are. A built-in audio minijack that accommodates external speakers (not included) amplify and enhance the sound quality.\n\nView larger SAMSUNG LIGHT ENHANCER (SLE) & WIDE DYNAMIC RANGE (WDR)\nSLE: The Samsung Light Enhancer enriches available light in dark areas to give you superior image detail in even the most challenging low light conditions. If you wake up with the nagging feeling that you left the burner on under the kettle, a quick check from your smartphone will put the issue \u2500 and you \u2500 to bed. WDR: Bright light streaming through windows poses no problem for the SmartCam HD Pro. The WDR technology enhances details in backlit conditions to give you a clear view of the outside, while eliminating murky silhouettes in the foreground. So while it may be high noon outside, you\u2019ll clearly see the sheriff\u2019s star as your little cowgirl has a showdown in front of the playroom window.\n\nView larger TRUE DAY & NIGHT AND ULTRA-WIDE ANGLE\nThe SmartCam HD Pro features an advanced IR Cut Filter for accurate, vibrant colors. Even in darkness, the camera provides clear, nighttime video up to 16 feet. No more need for barefoot late-night safety checks! While other cameras have constricted angles that limit your view, Samsung\u2019s 128\u00b0 Ultra-Wide Angle lens gives you a wider view to maximize your recording coverage without compromising quality. Want to know what the kids are doing with the crayon over there in the corner? The SmartCam HD Pro puts you right there!\n\nMOTION ZONE SELECT\nMotion Zone Select further fine-tunes what you want the camera to pay attention to. If you want to keep your eye on the window, but the dog runs back and forth beneath it, Simply draw a box around it on your screen and the camera will alert you when someone is approaching outside. You can select up to three motion zones in the camera\u2019s field of view.\n\nLOCAL VIDEO STORAGE\nCapture those important events right onto your SmartCam HD Pro. Local video storage is possible through a micro SD card slot with the ability to record directly onto a microSDXC memory card* with up to 64GB capacity. Set your camera for continuous recording, record at scheduled times, or, to minimize viewing time and storage space, record only when motion and sound events are detected. You can even view the recorded video right from your mobile device from anywhere in the world. *SD card not included.",
+    "rating": 3.7,
+    "feature_bullets": [
+      "Multi-Streaming Up to 10 Cameras, 1 Year Manufacturer's Warranty",
+      "128 degree ultra-wide angle coverage, true day and night Wide dynamic range",
+      "Micro SDXC memory card slot for local storage, email and mobile notification (Max 64GB)",
+      "Built-in two-way talk, advanced motion and audio detection"
+    ],
+    "specifications": {
+      "Product Dimensions": "5.6 x 8.4 x 4 inches",
+      "Item Weight": "4.2 ounces",
+      "ASIN": "B00J38NVHE",
+      "Item model number": "SNH-P6410BN",
+      "Customer Reviews": "3.7 out of 5 stars1,148 ratings3.7 out of 5 stars",
+      "Best Sellers Rank": "#76,615 in Electronics",
+      "Is Discontinued By Manufacturer": "No",
+      "Date First Available": "March 18, 2014",
+      "Department": "Baby-boys",
+      "Manufacturer": "Samsung"
+    },
+    "categories": [
+      "Video Surveillance",
+      "Electronics",
+      "Camera & Photo",
+      "Surveillance Cameras"
+    ],
+    "price": ""
+  }
+}

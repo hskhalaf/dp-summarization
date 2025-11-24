@@ -1,0 +1,957 @@
+{
+  "website_summaries": [
+    {
+      "verdict": "Long range, good coverage and fast \u2014 the best on the market.",
+      "pros": [
+        "Weatherproof design, long range and is fast enough to handle several devices pulling down a lot of data at once",
+        "Easy setup"
+      ],
+      "cons": [
+        "Manufacture advises using only devices it makes for power, but can be powered by just about any PoE switch or an injector"
+      ],
+      "aspects": {},
+      "publication_date": "",
+      "rating": "",
+      "source": "bestreviews"
+    }
+  ],
+  "customer_reviews": [
+    {
+      "title": "You need to disable security on your computer to run it",
+      "text": "Requires download of obsolete Java 8 (current is 13) which degrades security. Greedy company that does not want to pay for bundling Java 13, or 8 with their product. The thing should have a huge red warning label. Buy it only if you like to have remove security on your devices, or you are ready to install a tracking app on your phone. This an example of a bait and switch company that has decided to ignore users.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "A",
+      "helpful_votes": 8,
+      "publication_date": 20200703
+    },
+    {
+      "title": "Definitely 5 star... but...",
+      "text": "This is 100% a 5 star AP. It's absurd how legit it is. It makes mops the floor with my modem/router/ap combo box... both in range and speed (identical to my wired internet connections speed. BUT... The lost star is because the PoE injector is 48 volts. No qualms with that... Except the Ubiquiti Edgerouter X uses 24 volt PoE injection?!! It's not a huge deal but I was excited about cleaning up the wiring in my electronics cabinet that much more... And you'd think there'd be some uniformity in Ubiquiti products...",
+      "rating": 4.0,
+      "verified": true,
+      "author": "Frank",
+      "helpful_votes": 15,
+      "publication_date": 20170105
+    },
+    {
+      "title": "25 years in IT, the worst the most confusing settings ever",
+      "text": "Tempted by high review stars, I bought this one just for a change from Linksys. So far : 4 passwords setup Some required very very strong password impossible to remember (UniFI, I own the device, not you! you can warn me but PLEASE DO NOT DECIDE FOR ME!) 20 minutes youtubing how to set it up Opera not supported needed to restart Wireless pass (WEP) needs to be exactly 10 characters long: WTF? don't they know what the padding is?",
+      "rating": 1.0,
+      "verified": true,
+      "author": "Tech Guy",
+      "helpful_votes": 5,
+      "publication_date": 20190623
+    },
+    {
+      "title": "Impossible to get working after 3 hours of struggle",
+      "text": "Couldn't make it work. Had to download software just to try to set-up the device. Then had to configure the software. Made the mistake of using the same Wi-Fi name as my router wireless. No way to figure out how to back step that mistake. Highly complex control software. No one to call for help. Worst electronic experience in my life. Wasted three hours with online help and user group. Gave up and returned. Don't get it unless you are a network expert.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "Dan Hartzell",
+      "helpful_votes": 9,
+      "publication_date": 20180814
+    },
+    {
+      "title": "This is an awful product.",
+      "text": "There is no manual included. The website is not helpful. The SW download also requires an additional download of Java. Startup of their Controller fails. The support pages put the burden on the user to try to figure out what's wrong. In no way is this a plug and play, easy to configure wireless access point. I've installed many from other vendors - this goes in the crap pile. **->>How can someone turn a simple Admin GUI into a Science Fair Project?<-** Further, I find that Amazon won't let me return it to their store 5 minutes away (it was just delivered today) unless *I* drive to a UPS store somewhere in LA.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "Thomas L McMahon",
+      "helpful_votes": 2,
+      "publication_date": 20191001
+    },
+    {
+      "title": "Not worth buying",
+      "text": "I changed to this and the extended when I started working from home. Device is slow and constantly loses internet connection. I made a big mistake buying this and now have gone back to my 5 year old router exclusively and am better off for it.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "eric laufer",
+      "helpful_votes": 4,
+      "publication_date": 20200714
+    },
+    {
+      "title": "May work great for you. My experience was sub-optimal.",
+      "text": "I\u2019m a pretty savvy network guy - I\u2019ve made my living at this stuff for well over twenty years now. Needed a new access point at home, since the one I had gave up the ghost after several years. The setup process should be easy and fast. I recommend creating an account at UBNT.com before you attempt the setup of the device. This is where things went awry. I created an account when prompted to do so. At that point, this AP seemed to lose its mind and never recovered. After hours of working with Ubiquiti chat support, I threw in the towel. Back it goes. Your mileage may vary. Mine was close to zero.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "Motorcycle Fanatic",
+      "helpful_votes": 2,
+      "publication_date": 20190629
+    },
+    {
+      "title": "Junk don\u2019t waste your time unless maybe your a network certified engineer then maybe.",
+      "text": "I could never get this to work and I tried. I have set up many many computer devices and this one was impossible. The directions are basically junk and they have no customer support. I tried to do a online support chat and it was a joke after an hour I gave up. Maybe it works for those that are able to get it set up but I\u2019m not one of them. Unless you have lots of experience I\u2019d go someware else. Way to complicated",
+      "rating": 1.0,
+      "verified": true,
+      "author": "csp",
+      "helpful_votes": 4,
+      "publication_date": 20190309
+    },
+    {
+      "title": "Excellent product. I think every installation should have one.",
+      "text": "I had a long range and a lite model. Some corners of the house were not getting good coverage. And I was relaying and linking wirelessly. When I upgraded the fiber to giga speed I decided to add this to my configuration. I replaced the LR with this. I connected to the other AP by wire because this has the passthrough port. Now I am not using the lite at all. I don\u2019t need it. Excellent product. It came with POE injector BTW.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Gatortail",
+      "helpful_votes": 2,
+      "publication_date": 20200824
+    },
+    {
+      "title": "Not what I expected...",
+      "text": "This unit is nothing but a wireless repeater designed to function in a fully managed wifi network. It requires DHCP from your router and will NOT work in a static IP network. You cannot assign an IP to it (though the unusable secondary LAN gets an IP from somewhere) and WLAN clients must get their IP address from the DHCP in your router. You cannot assign a different IP subnet (172, 10) to the WLAN clients.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "dave lester",
+      "helpful_votes": 6,
+      "publication_date": 20181115
+    },
+    {
+      "title": "Ubiquity APs are Better Than Consumer WiFi Routers Used as APs",
+      "text": "This is a good access point. For years I have been using consumer routers as APs. They work, but leave one without much control or visibility. The Ubiquity AP has a strong signal, and can support multiple SSIDs with different security. With more Ubiquity devices, you get more access control. It started with Covid-19. My wife asked if I could do something about the WiFi by the pool. I needed something weather resistant and I wanted something more robust. Friends had recommended Ubiquity products for a couple of years, and this seemed like the time to try them. Conclusion? I will not buy a consumer WiFi router again, and will be retrofitting my current routers-as-APs with Ubuquity APs.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Carl Mikkelsen",
+      "helpful_votes": 0,
+      "publication_date": 20200805
+    },
+    {
+      "title": "These APs work very well - when they are working",
+      "text": "I have experienced great results with these APs and have them in use in a variety of locations. However, if one of them begins to experience issues the pain can be immense. Especially, when one of them needs to be un-managed and readopted. I typically SSH into the device and use the command line to interact with the device. The controller software, however, has a lot of quirks. Sometimes it can take hours to adopt a device - which is not ideal under time constraints.",
+      "rating": 4.0,
+      "verified": true,
+      "author": "Traveller",
+      "helpful_votes": 0,
+      "publication_date": 20200718
+    },
+    {
+      "title": "Wifi everywhere now. Awesome product!",
+      "text": "Put up in our attic. We have a ranch but we have a strong signal way in the basement and outside the house. I was having some trouble with a wifi sprinkler controller but no issues after installing this! I used to struggle getting a good signal in the garage and in the backyard. But I can watch videos no problem now. For setup, I just plugged this into one of the ports on the back of my current lynksys router. Then I ran an Ethernet cable to the attic from the basement.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Cassucas",
+      "helpful_votes": 0,
+      "publication_date": 20200518
+    },
+    {
+      "title": "What a joke! No docs really?",
+      "text": "Zero documentation included in the box. I had to dig all over the internet. Did an Android d/l. Not working also no documentation. Then I did a d/l in Windows and it was all in java and took forever to load up this software. Again NO docs. I have been doing computers for decades. At one time I owned a massive sales and service company. Without doubt this product is designed by what I call digit heads. Nothing I did got this thing to work. I am sending it back tomorrow.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "Bruce Nicklin",
+      "helpful_votes": 0,
+      "publication_date": 20200626
+    },
+    {
+      "title": "These are awesome, nuff said",
+      "text": "These are awesome. You really can\u2019t go wrong. It was a huge boost to my WiFi signal. I Replaced my cable modem w/ built in WiFi with this, an edgerouter X, and a separate cable modem. These are super high quality for the price. A friend of mine sets up network equipment for a living and got one recently, after seeing how good it worked I got one for myself. I\u2019ll probably add another one so I\u2019ll have full WiFi bars in my entire house but it\u2019s currently doing OK across two floors.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "fuzzballer",
+      "helpful_votes": 0,
+      "publication_date": 20200312
+    },
+    {
+      "title": "HORRIBLE Signal Power",
+      "text": "I was reading up on some of the reviews here, and the signal power was the most disgusting thing I have ever seen. I have had a NETGEAR Nighthawk X4 R7500 v2 perform more powerful signal amplification than this router and reach all the rooms we need it to reach. It cannot cover an apartment with 2000 sq. ft. Absolute waste of time to setup. I am going to have to get a more powerful one. Do not buy as the solution to one and done in a home, rather, better for large open spaces (class rooms) or else signals cannot penetrate any barriers and walls, corners, etc.",
+      "rating": 3.0,
+      "verified": true,
+      "author": "A Big Buyer",
+      "helpful_votes": 0,
+      "publication_date": 20191204
+    },
+    {
+      "title": "Fantastic Access Point",
+      "text": "Good signal strength compared to normal commercial Netgear/Asus stuff that you find all over electronic stores. Well designed, self contained, and good software to interface with. Works best with dream machine router but I have two, one at home that I use DM with and one at work that's just an access point. There was some controversy about Ubiquiti mining data from its users a few years ago so I'd advise prospective buyers to educate themselves on that matter but personally, I chalked it up to \"no big deal\" and continue to use their great devices.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Charles",
+      "helpful_votes": 0,
+      "publication_date": 20201018
+    },
+    {
+      "title": "Check what you receive",
+      "text": "Unfortunately I was new to ubiquiti when the device came in and received a lite Instead of a pro but did not look close enough to see the difference. A year later I go to add a lite to the garage because it does not need as fast but is suffering connection and found out I was shipped the incorrect one a year ago. That being said the lite works very well but a little ashamed and upset I was shipped something inferior and I don't have any means to rectify it a year later. Check your boxes and make sure you received the correct item.",
+      "rating": 2.0,
+      "verified": true,
+      "author": "The house",
+      "helpful_votes": 2,
+      "publication_date": 20200301
+    },
+    {
+      "title": "Hassle free Wifi",
+      "text": "I have two of these access points and they have been trouble free for over a year. We can get up to 300MB download speed (the max capacity of my Internet connection); I haven't measured speed over the LAN. Configuration was easy through the Unifi controller. Initially, I had one of these plus a Nano HD. I had so many roaming issues for my family's iPhones, but when I replaced the Nano with a second AC-PRO all the roaming problems went away (a subsequent firmware update to the Nano eventually solved the iPhone issues, I must add).",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Alan Moore",
+      "helpful_votes": 0,
+      "publication_date": 20190921
+    },
+    {
+      "title": "Ubiquiti Networks Unifi 802.11ac Dual-Radio PRO",
+      "text": "The unit installed easily and initialization was pretty simple. It provides a much better wi-fi coverage than I had prior to this, since my router is in the basement. I installed it to an Ethernet port that the builder put on my second floor wall. I added an Ubiquiti Unifi Ap-AC Lite - Wireless Access Point about a week later to my first floor WAP port. Now my coverage is even better. Only reason I gave user interface a 4 star is that it is a little challenging to navigate thru when trying to find a specific function/network view. With practice you will get better at it.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Kevin C",
+      "helpful_votes": 0,
+      "publication_date": 20200723
+    },
+    {
+      "title": "Outstanding access points",
+      "text": "Really good access points that integrate very well into the UniFi family but also work well in any environment. The capabilities and performance are excellent for the price. These access points will need a separate router - they do not replace a single combined consumer wifi router. They can be used with many consumer routers though to provide much better wifi than what is built in. I switched to an all-UniFi system at home when I couldn't get what I needed from multiple Apple Airport Extreme devices or multiple Asus devices. These have been rock solid reliable and very high performing, just like the rest of my new UniFi gear.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "SpaceRanger",
+      "helpful_votes": 4,
+      "publication_date": 20170217
+    },
+    {
+      "title": "Excellent AP!",
+      "text": "I'm a network engineer and I needed a new AP to replace some older Aruba Instant APs I have. This AP is amazing. If you're only using one of these, you can get away without using a UniFi controller or purchasing a cloud key and using it in single mode. For a small business or single location with multiple APs and/or multiple UBNT devices, you can easily use a cloud key. If you'd like a little bit more flexibility, I'd go with UniFi. UniFi found my AP, updated firmware, and it was easy to get my SSIDs up and running as well as getting a visitor network going. This AP gets two thumbs up, and I'm buying more.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Travis",
+      "helpful_votes": 0,
+      "publication_date": 20190115
+    },
+    {
+      "title": "Waay too technical for me",
+      "text": "Waaaay over my head. I returned it and got two Netgear 6700 Nighthawk AC1750 easy peasy. I believe the Ubiquiti is geared more for industrial use than home use; one that has an IT staff to support it. I just needed something for my detached garage (mancave) and to blast the house and around the exterior of the house. I found the Netgear suits my needs perfectly with minimal setup and maintenance.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "Houseman",
+      "helpful_votes": 2,
+      "publication_date": 20190317
+    },
+    {
+      "title": "Hard to reset wifi",
+      "text": "If I unplug the wifi so my kids don't go on devices the router doesn't work. I have to reset the network. Last time I unplugged the router none of our devices can detect the router. You repower router and the signal shows up for a few minutes. Then I am unable to connected with our devices and about 3 minutes later the router can't be detected by the wifi network. The lights in the router are still on.",
+      "rating": 3.0,
+      "verified": true,
+      "author": "Reem",
+      "helpful_votes": 0,
+      "publication_date": 20200729
+    },
+    {
+      "title": "Do you long for the days when tech didn't work out of the box?",
+      "text": "Then the Ubiquiti Access Point is for you. Browse the support forums for setup, weak signals, even simple updates. All of which I've wasted hours on with limited results. The desktop controller application is a myriad of menus and screens, which are completely unique to Ubiquiti. And this from someone who used to install computer networks.",
+      "rating": 2.0,
+      "verified": true,
+      "author": "Amazon Customer",
+      "helpful_votes": 0,
+      "publication_date": 20200621
+    },
+    {
+      "title": "Don't buy this PoS",
+      "text": "Probably the biggest PoS I have ever bought from Amazon. What a waste of time and money. Takes hours to set-up and get the browser configs to work, not easy to set-up and not easy to install. Shame on you Amazon for selling such crap to consumers.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "LFN fan",
+      "helpful_votes": 2,
+      "publication_date": 20200613
+    },
+    {
+      "title": "Used to work fine, now I need Unifi Controller running",
+      "text": "I have used this product for almost a year. But, I recently ran into a problem with the required controller software. I have never had to keep it running until this past week. We had several power outages and my networking equipment restarted on its own each time. This last time, my AC-Pro would not allow connections. After a lot of trial and error, and a ISP tech visit, it turns out I needed to keep my laptop connected to the network with the UniFi Controller software running. This was not previously necessary. To say the least, I am quite unhappy. It turns out many folks have had this experience. Maybe I should just switch to consumer grade networking gear.",
+      "rating": 3.0,
+      "verified": true,
+      "author": "esilvas",
+      "helpful_votes": 2,
+      "publication_date": 20180503
+    },
+    {
+      "title": "Very stable, very good 5GHz performance",
+      "text": "This Ubiquiti AP Pro replaces a Linksys EA8500 which was runnning DD-WRT (12/18/18 build .. I got tired of reflashing ddwrt to see if the newer builds improved the WiFi stability on EA8500). The Ubiiquity is more stable , easier to manage, and has better Wifi performance: through one wall and about 25' away, on the 5GHz band I get regular internet speed tests of 170mbps/23mbps (I have 400/20 service from ISP). LAN file transfers are reaching 230+mbps (4.2sec to move a 123MB file). I do not have any other Ubiquiti gateways/etc. and the networking works great.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "A.P.",
+      "helpful_votes": 0,
+      "publication_date": 20200502
+    },
+    {
+      "title": "Perfect Solution for our Office",
+      "text": "The old router/wifi unit that was in our office finally gave up the ghost. We are in an office building so there is an IT closet where our modem and router were located. I tried another router/wifi unit but it was fighting with the other router, and I really didn't need another router, just wifi. So, I tried this access point and it was exactly what we needed. It plugged into one of the network outlets, I created an account and did a very quick and easy set up with my phone, and we are in business! We have wifi for our office and it is working beautifully. Very happy.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Carlaleaf",
+      "helpful_votes": 0,
+      "publication_date": 20200820
+    },
+    {
+      "title": "One of the best performing APs you will find in this class",
+      "text": "I've been on a quest to find the best performing WiFi access point at a reasonable cost for a couple of years. This device easily out-performs any all-in-one router for WiFi performance. I use it with an Ubiquity Edge Router for my internet access and the combination of the two gives me the best performance I've ever had - and I'm an IT guy by trade. Can't go wrong with the UniFi stuff. The only step up from here would be the UniFi AC HD with its MU-MIMO performance, but it's a lot more money. I think this model is the sweet spot between price and performance. Love it!",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Bill Ruys",
+      "helpful_votes": 2,
+      "publication_date": 20180204
+    },
+    {
+      "title": "Insanely good mgmt software, free. Surprisingly mediocre WiFi performance.",
+      "text": "I wanted to replace my 3 yr old Netgear C7000 cable modem's WiFi with this modern .11ac. The Netgear has .11ac too, up to 1.3Gbps downstream. And guess what. Surprisingly the Netgear 5Ghz radio does significantly better than this AC Pro WAP. I am shocked. This is new tech, the Netgear is 3yrs old. You'd figure that by now the standard chipsets would do better. I guess not. Believe me it's not signal levels or interference. I turned off the Netgear 5g and 2.4g radios, even though I left the Unifi radios on while seeing the Netgear smoke the Unifi. So, Ubiquiti, you have serious RF engineering and MAC/PHY work to do. Your stuff ain't so good.",
+      "rating": 3.0,
+      "verified": true,
+      "author": "Home Deep Peaux",
+      "helpful_votes": 0,
+      "publication_date": 20190428
+    },
+    {
+      "title": "Very Satisfied - Excellent product and order",
+      "text": "Everything arrived correcly and quicker than expected which was helpful. I have used the Ubiquiti AP's in a commercial setting and they are very reliable and the software is overall excellent. They have a lot of capabilities and configuation options. I have setup two with both wired and also tested where one was wired and the other meshed over Wi-Fi to the wired one. This is very helpful if you don't have ethernet cables where you want to place them but have electrical outlets. Recommended. You can set these up with software only or usiing a Ubiquiti Cloud Key. Also, the Ubiquiti Apps on Andoid I found very useful.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "SJ",
+      "helpful_votes": 0,
+      "publication_date": 20200323
+    },
+    {
+      "title": "High Quality, Strong Signals with a lot of reach.",
+      "text": "Awesome and solid as a rock. I recently installed this to augment my ASUS router that had lost it's 2.4 ghz side. Setup is brain dead simple as the UNFI controller software is awesome. Just be sure and either open the appropriate ports on your firewall or temporarily disable it while the controller software initializes and adopts the AP. Any difficulty you may encounter setting these up is generally associated with your browser version (use Firefox) or blocking by your firewall. After setting this up I did a speed test and was getting 76 mbps down and 7.5 to 8.0 mbps up..... wirelessly. Ain't bad.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Wayne JTop Contributor: Woodworking",
+      "helpful_votes": 5,
+      "publication_date": 20160620
+    },
+    {
+      "title": "Disapointed",
+      "text": "I should have known all the hype would not be matched with performance. My ASUS RT AC 5300 produces a strong signal in the whole house. I added this AP so I could have guest network via VLAN (which works great); however signal strength and download speeds cannot come close to my ASUS RT AC 5300. It does look great and for someone with a very large house or one where concrete was blocking signal it may work; however for the vast majority of home users you are better off with a \"great\" router.",
+      "rating": 3.0,
+      "verified": true,
+      "author": "Kenneth Ray",
+      "helpful_votes": 0,
+      "publication_date": 20200807
+    },
+    {
+      "title": "Great AP",
+      "text": "I'm a professional network engineer. I design and install wireless networks at work (and firewalls, routers, switches, you name it) I bought this AP for my home, and it works great. It's feature rich and the hardest thing about the installation was running the Cat6 cable in the attic. I'm not sure how easily a non-network engineer will understand all of the nuances, but the base install would probably work for everyone and leave the more complicated features for those willing to explore. It's a great AP. And, yes, you can turn off the blue light if your kids complain it's too bright. :)",
+      "rating": 5.0,
+      "verified": true,
+      "author": "M. Jones",
+      "helpful_votes": 0,
+      "publication_date": 20180914
+    },
+    {
+      "title": "Powerful radio",
+      "text": "Went from a Linksys wrt1900ac that had troubles getting full coverage and no coverage outside the brick walls, to one of these (brick house is maybe 2500sq. Feet, split between 2 floors) with 100% 5ghz wifi indoors and solid 2.4ghz wifi outside. All this, and it's been running for 6 months straight w/o issue. Purchased this along with the Unifi USG and the 8p Poe switch from them. It is nice to run one wire from my network rack to this and not worry about where to get power from.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "andy",
+      "helpful_votes": 0,
+      "publication_date": 20200218
+    },
+    {
+      "title": "Quality.  Period.",
+      "text": "I've been in the IT industry for 18 years now. I have worked at small companies and massive enterprise level companies and it's very rare a piece of technology really impresses me these days. This AP is the rare exception. It oozes quality both in the design and the software. Actual qualified people designed this and it shows through how it is both a very powerful piece, but it's also very easy to configure (if you have a good base level understanding of networking). I will start recommending these to my clients and will be buying more myself. Replace your home router/switch with an edgerouter and a few of these AP's and massively upgrade your home network.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "AmericanFight",
+      "helpful_votes": 2,
+      "publication_date": 20170308
+    },
+    {
+      "title": "Meh.....",
+      "text": "Although the set up was relatively easy, there is ZERO tech support for all the questions I had after the initial hook up. Additionally, the signal strength was no better than that of my existing router......the whole purpose of buying this was to increase my WiFi signal strength. I was really rather disappointed, as I did a lot of research into this particular product and the reviews looked to be promising. I'll look for something else.",
+      "rating": 2.0,
+      "verified": true,
+      "author": "Amazon Customer",
+      "helpful_votes": 0,
+      "publication_date": 20200716
+    },
+    {
+      "title": "rock solid and easy to manage",
+      "text": "I've used a lot of APs over the years and the ubiquiti line has always been bullet proof - can't remember ever needing to reboot one and great data analytics through the controller. This series is no exception - have been slowly upgading to these and they just work . You do want to have the unifi controller running somewhere to manage them - they aren't managed through the traditional web interface on the device, but this is a hell of a lot easier.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "D. Platt",
+      "helpful_votes": 0,
+      "publication_date": 20200906
+    },
+    {
+      "title": "Poor throughput",
+      "text": "I have a Netgear Nighthawk R8000 that passes 120-220 Mbps with an average around 170 as reported by the Microsoft speed test app. This thing only produces 40-80 with an average around 55, even with the 2.4 Ghz radio shut off and Tx power set to High. Network setup was identical; either I received a defective unit or this thing is not nearly as performant as my Netgear. I'm very disappointed.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "MikeinRolla",
+      "helpful_votes": 2,
+      "publication_date": 20190816
+    },
+    {
+      "title": "Five stars",
+      "text": "Harder than a home router setup? Yes. For a power user, this is a thousand times better. Love having enterprise options at home. If you are a tech nerd, this is for you. I only wish the controller software was more rock solid. On my Mac it took a bit of fiddling before things would work.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "David",
+      "helpful_votes": 0,
+      "publication_date": 20200428
+    },
+    {
+      "title": "Terrible system for iOS devices",
+      "text": "There is a know bug/issue for these devices with iOS. You will randomly start getting a wrong password error. You can update the password correctly and it doesn't fix the issue and then all of a sudden it works again hours later. this happens with old iphones and new ones like the iPhone 11 Pro. I should have stuck with my meraki gear.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "patrick j maccartee",
+      "helpful_votes": 2,
+      "publication_date": 20200809
+    },
+    {
+      "title": "Big difference in network quality.",
+      "text": "The network speeds are wonderful. I installed 3 of these in a 3 story house and the range is incredible. Programming them is easy once you get them to adopt. I had the hardest time getting 1 of the AP's to connect for some reason it just wouldn't. after fiddling with it for a while it just started working. So, I don't know if it was a software issue on the computer being used to set it up or a hardware issue with the AP or the Unifi switch. Either way I got all 3 working. it comes with a POE injector that I didn't use because I was using it with 250Watt 24 port POE Ubiquiti Unifi switch.",
+      "rating": 4.0,
+      "verified": true,
+      "author": "Chris",
+      "helpful_votes": 2,
+      "publication_date": 20170616
+    },
+    {
+      "title": "Worth The Money",
+      "text": "I\u2019ve been using Ubiquity hardware for MANY years (about 8 years now), this was an upgrade to an older 2.4 GHz model. A mesh WiFi setup gets no easier than this. Highly recommend a few of these over Google WiFi or some of the other consumer grade WiFi systems. While the price tag is a bit steep, you get what you pay for. I have three of these installed in my 3,000 sq ft home, and the speed and versatility is unmatched. 150Mbps at the time of this review on my iPhone. No gaps or dead spots, very impressed! With over 50 WiFi devices online, it has no issue whatsoever. :) Buy, you won\u2019t be disappointed.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Smitty",
+      "helpful_votes": 0,
+      "publication_date": 20181124
+    },
+    {
+      "title": "Great for extending WiFi to my dock",
+      "text": "I bought this so that I could extend WiFi to my dock at the lake. Setup was very easy and install was easy and well described. System configuration through the app on my IPad was a little difficult and wasn\u2019t very intuitive but overall went well with a few misssteps. After testing my connection and speed at the dock is exceptional. I will be interested to see how weatherproof this is over time, it is not directly exposed to rain but is mounted under the roof on a lower deck. If I have any issues I will update the review. Overall I am initially very pleased and would purchase again.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "rjgsphinx",
+      "helpful_votes": 0,
+      "publication_date": 20190224
+    },
+    {
+      "title": "Hands down should have replaced my mesh network sooner!",
+      "text": "Hands down wish I\u2019d bought this sooner. We have a fairly large home, so we invested in a mesh network to provide WiFi from corner to corner. Unfortunately, the mesh network was constantly running slow and would get bogged down requiring us to reset the system. While the total coverage isn\u2019t as good as it was with the mesh network (it\u2019s still pretty impressive for a single unit) our internet speeds are high and consistent!",
+      "rating": 4.0,
+      "verified": true,
+      "author": "Chris",
+      "helpful_votes": 0,
+      "publication_date": 20190227
+    },
+    {
+      "title": "Amazing simple and powerful!",
+      "text": "I purchased this product to replace my Apple Time Machine AP. Had intermittent issues with Apple AP. I have added this using cloud key and moved AP to attic. Not only getting 5 Bars in entire house speed is so much better. Hard to tell the difference from wired connections. Should have done long time ago. Monitoring tools are amazing with cloud key and UniFi AP\u2019s. Took longer to mount in ceiling than to add to my network with Cloud Key and installation was just 2 screws! I used older cat 5 network to kip cabling and move to attic other than that little fix was so simple.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "John Gallo",
+      "helpful_votes": 0,
+      "publication_date": 20181128
+    },
+    {
+      "title": "NO more bad signal strength using multiple routers",
+      "text": "OK....I have been dealing with dropped calls, bad signal strength using multiple routers for YEARS !!! Our house is a ranch so it is spread-out, and there are tons of wires, three different electrical panels, and re-bar throughout the house that prevent good signals. It took a little effort to figure out how to set it up (You need a video guys.) but it worked. OMgosh...I works amazingly well. We have 100mb/12mb down/up, and in a section of the house we NEVER ever got a signal we are getting 40mb/12mb down/up. Plus with wifiCalling on my mobile I never have a dropped call. I am putting this in all my homes and work places.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Love to Buy",
+      "helpful_votes": 2,
+      "publication_date": 20170219
+    },
+    {
+      "title": "very nice wap for the $$",
+      "text": "replaced a linksys router in my office with this. the setup was a pain. i guess its geared more toward people that install multiples of these. i had a difficult time setting up , but once that was done i haven't had any problems since. i am not using any of the special features like guest pw, so i can't comment on that. its not the fastest one around, but it works well and reached fairly far.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Brent P",
+      "helpful_votes": 0,
+      "publication_date": 20200804
+    },
+    {
+      "title": "time consuming if unlucky but worth it",
+      "text": "Its a huge hassle to setup if the firmware hasn't been updated in years, due to it simply not showing up on the UniFi manger. Ultimately the solution i found was to send the router in factor reset mode, find its IP address on the network , login to its internal computer and manually update the firmware. but when it was all said and done my god I could get signal from a block away (just sucks that my phone cant send a signal that far). TLDR: worth every penny, but will be a B to set up if you get unlucky PS: you need a switch",
+      "rating": 4.0,
+      "verified": true,
+      "author": "Marvin",
+      "helpful_votes": 0,
+      "publication_date": 20200419
+    },
+    {
+      "title": "Best AP for home or business use",
+      "text": "I installed these all the time professionally for my business gr17.tech. they are great devices that I have deployed and many business settings and I've had great success with these. I've transitioned over to using UniFi products completely. That said at this price point expect if you're buying a lot of these that some of them will have to be sent back for quality issues. also if you don't have any technical savvy these are not very easy to set up and take some technical knowledge to set up. Once set up, these things just hum along and work very well and provide great WiFi coverage.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Nathanielt",
+      "helpful_votes": 0,
+      "publication_date": 20190209
+    },
+    {
+      "title": "This is our go-to solution.",
+      "text": "We have 10 of these in one location as well as in other offices. I wouldn't even think of using a different wireless access unit. These work really well and scale well. Just a tip though - It has worked better to not use the highest power rating. These devices can easily reach much further than the laptop / tablet /phone. So, what happens is that the device stays connected to a wireless access unit that it can't talk back to - instead of connecting to the unit that is much closer.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Bob",
+      "helpful_votes": 0,
+      "publication_date": 20191022
+    },
+    {
+      "title": "1362 review, so nobody is going to read this, but I\u2019m writing in anyway to say \u2014 they work",
+      "text": "A bit more hassle to set up than, for example, Apple\u2019s old Airport Express system. Ubiquiti doesn\u2019t do themselves any favors with their software setup. However, once you figure out which package to install and create the necessary accounts, the hardware can be configured in about 10 seconds. And once configured, they work beautifully. I combined my with a MoCA system so I could move bits through the walls to each floor, then via the UAP-AC-PRO wirelessly. And indeed it works like a charm. Zero downtime since they were installed.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Neurasthenic",
+      "helpful_votes": 0,
+      "publication_date": 20190605
+    },
+    {
+      "title": "Absolutely Great",
+      "text": "This thing is a BEAST! The wifi signal and throughput are ridiculously great. Easy to set up and manage (if you know what you're doing) and the support/community is super helpful. I have this one paired with an AC AP Lite and I have ZERO coverage gaps inside or outside my three-story house. It's all running behind a Ubiquiti edge router. This thing is packed so full of features that I haven't even scratched the surface. I'd not hesitate to recommend these APs to anyone who wants solid, fast, configurable and scalable wifi in your home or office.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "BFreeman",
+      "helpful_votes": 0,
+      "publication_date": 20190514
+    },
+    {
+      "title": "Ok to start, never was able to resolve the issues",
+      "text": "I had high hopes for this to upgrade my home network and as a test unit for future upgrades at other sites. Initial setup was pretty well, upgraded the firmware and configured my networks.All seemed to be OK, but that was short lived. Several of my clients kept connecting and disconnecting. I had one client that refused to connect to the AP. I tried multiple way to configure the AP and the same issues kept occurring. I never was able to get the one client to connect, I even did a reset of the client and did a fresh setup of it. Lastly I did a full recovery of the AP using the tftp method, but the issues persist.",
+      "rating": 2.0,
+      "verified": true,
+      "author": "M. Prindle",
+      "helpful_votes": 0,
+      "publication_date": 20171017
+    },
+    {
+      "title": "Great whole house coverage",
+      "text": "Installed this AP in a fairly central location on 2nf floor of house, now have solid coverage everywhere. All my streaming sticks work better now, and no more dropouts on my Chromecast Audios either. The user interface & software is a bit much if you are like me and only using as a singular AP and have no plans for mesh, but overall performance has exceeded my expectations.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "MR. D from CLT",
+      "helpful_votes": 0,
+      "publication_date": 20200728
+    },
+    {
+      "title": "LOVE Ubiquiti!",
+      "text": "I LOVE my Ubiquiti AC Pro! I think its one of the best APs you can get for the money. Mine is setup as a standalone AP and setup was fairly easy. I do wish the app was a bit faster when sensing changes to the AP. You spend a lot of time waiting for settings to apply, even when all you do is turn the the status light on/off... I definitely will continue buying and recommending Ubiquiti products!",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Andrew Budzinski",
+      "helpful_votes": 0,
+      "publication_date": 20200609
+    },
+    {
+      "title": "Impressive system... with a big caveat",
+      "text": "Unlike most wifi switches ,this needs special software to set up. The software itself is very good, but you need to be running Windows, Mac, or Ubuntu. This is basically a centralized server that manages all your infrastructure.",
+      "rating": 4.0,
+      "verified": true,
+      "author": "That Guy",
+      "helpful_votes": 0,
+      "publication_date": 20200704
+    },
+    {
+      "title": "Excellent AP",
+      "text": "Love these. I have two in one home and 3 in our vacation home. They take a bit of knowledge to set up so if you are looking for a plug and play wifi look elsewhere. If you are willing to take the time to learn how to set them up then you will not be disappointed. I use mine with the edgelite router and so far they have performed very well.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Brian",
+      "helpful_votes": 0,
+      "publication_date": 20191004
+    },
+    {
+      "title": "Excellent Small Business Solution",
+      "text": "I bought 2 of these for a small business environment to replace an old Cisco AP and Netgear router (configured as an AP). Set up was pretty easy (I have some experience but not an IT professional) and the performance is excellent, but a great feature is that the AP's can be merged into one seamless network so that devices can seamlessly roam as needed with no loss of signal or connectivity. The included software logs everything, including the history of devices connecting and disconnecting. If you know who owns what named device (e.g, \"Joe's iPhone\") you can see when they arrived at work and when they left!",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Rob B.",
+      "helpful_votes": 0,
+      "publication_date": 20170929
+    },
+    {
+      "title": "Works perfectly, as a contractor I use these in my home!!",
+      "text": "Works perfectly!! As a contractor i have installed many of these, if they are placed and set up correctly they work perfectly!! These are suggest for commercial use but i have installed these in many hi end large homes on multiple levels of the home with excellent results, the data throughput is fantastic especially on 5G!! Video streaming and multiple tablets at the same time with no slowdown!!",
+      "rating": 5.0,
+      "verified": true,
+      "author": "J.C.",
+      "helpful_votes": 0,
+      "publication_date": 20200416
+    },
+    {
+      "title": "Good Access Point",
+      "text": "Works out of box with the included PoE injector. Requires the UniFi software for setup/control which runs on multiple distros, which you can even get running from a (officially unsupported) freebsd jail (e.g. freenas). Automatic channel setup, can do N/B/G and N/A/AC with the 3x MIMO antennas with slightly reduced speed and '5g band steering'. Can configure to be 5ghz only to get highest throughput, not wasting one of the MIMO antennas on legacy B/G support. I use this in the home with an Edgerouter Lite and get ~180/100mbps throughput over AC at 87% signal with B/G support enabled and a few devices on the network, wherein my wired is 300/100.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "m24",
+      "helpful_votes": 3,
+      "publication_date": 20160528
+    },
+    {
+      "title": "I'M CONCERNED ABOUT, WHO IS RESPONSIBLE FOR QUALITY ASSURANCE.",
+      "text": "WHEN IT ARRIVED IN A GENERIC BROWN BOX I THOUGHT (ANOTHER ORDER WHICH HAS BEEN TAMPERED WITH.) SURE ENOUGH, THE RESET BUTTON DIDN'T WORK. THE DEVICE WAS ALREAD CONFIGURED BY SOMEONE ELSE. I WAS SIMPLY TRYING TO RESET TO DEFAULT. I HELD DOWN RESET FOR 5 MINUTES, AS WELL AS DISSCONNECT POWER AND RECONNECTING WHILE PRESSING RESET. IT DID NOTHING. IT HAD SETTINGS ALREADY CONFIGURED =(. CAN SOMEONE VERIFY BACKGROUND CHECKS ARE BEING DONE CORRECTLY, AND THEIR FINDINGS ARE TRUE!!!!! YOURS TRULY, ONE FINGER TYPER",
+      "rating": 1.0,
+      "verified": true,
+      "author": "Amazon Customer",
+      "helpful_votes": 0,
+      "publication_date": 20200611
+    },
+    {
+      "title": "This is amazing WAP.",
+      "text": "Love these things. Price is perfect. Works great without hickups. Installed one 3 years ago and still working great without any issues. They are very reliable. Setup requires a controller but that's not hard. I'd recommend this to anyone that wants dependable wifi signal and trouble free. No fees like others that will just turn you wifi off (cisco).",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Grizzly",
+      "helpful_votes": 0,
+      "publication_date": 20200925
+    },
+    {
+      "title": "The signal from this unit does not extend out to cover much distance.",
+      "text": "I bought this model because reviews said the signal could extend 200 - 400 feet from the unit. Not even close. I have it mounted in my attic to try to reach my detached workshop which is 125 feet from the unit. It doesn't work any better than the router I have located in my basement. Very disappointed. On the plus side, the setup was not very difficult.",
+      "rating": 2.0,
+      "verified": true,
+      "author": "Mobill79",
+      "helpful_votes": 0,
+      "publication_date": 20190530
+    },
+    {
+      "title": "Needs controller software installed on a dedicated computer",
+      "text": "So you need to install the controller for it, which was a BREEZE for someone like me with a bachelor's in cyber security, but for probably most users, this would be a hassle. Granted, this is specifically branded for mostly business use, I bought it for my house because I am familiar with the products after using them for many clients in my field of work. Loved it so much immediately bought a second one because the first one, while producing excellent signal, didn't cover my whole house (2400 square feet). As a power user, you will not be disappointed.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Chad O.",
+      "helpful_votes": 0,
+      "publication_date": 20200414
+    },
+    {
+      "title": "Putting this thing in was night and day",
+      "text": "My internet connection is wayyyyy to one corner of the house. So even if I went and got some $300 router with 387 antennas on it, basically I'd be broadcasting to my neighbors. So... * ran Cat5e to a mid spot in the house - a celing spot at the edge of the hallway where it meets the living room * the Ubiquiti plugged right in * setup was way simple - though I plinked with it for 30 minutes, could have done if faster...just tinkering with the things it does Absolutely amazing, zero issues with wireless in the house at all. Plus I like having the router and access point separate anyway",
+      "rating": 5.0,
+      "verified": true,
+      "author": "lt5",
+      "helpful_votes": 2,
+      "publication_date": 20161026
+    },
+    {
+      "title": "Pro quality, idiot-proof setup!",
+      "text": "Downright excellent access point. I\u2019m moving in a few months, and this line of products and AP specifically were both recommended by a friend who builds complicated corporate networks. I decided to buy this a bit early to play around with it. I simply connected it to an ATT \u201cgateway\u201d and used the very simple iOS app to configure the radios, then disabled the wireless on the ATT device. Immediate improvement in speed and range. Noticeable reduction in latency. Great great experience.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "AJ",
+      "helpful_votes": 0,
+      "publication_date": 20200117
+    },
+    {
+      "title": "Still killing it.",
+      "text": "I've installed quit a few Ubiquiti products. They always provide awesome performance for my clients. And, as always, the AC-Pro is still the best I've found for commercial environments. There are probably other, beefier products out there, but for your small businesses, I believe this is a top of the line solution. The fact that they don't try to hit you with a recurring licensing fee, is icing on the cake.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "WinterMute Technologies, LLC",
+      "helpful_votes": 0,
+      "publication_date": 20200606
+    },
+    {
+      "title": "One of the Best I've Owned",
+      "text": "The Network AP's arrived on time and packed well for shipping to Hawaii. Once installed I realized the flexibility and power of these AP's (I bought 3). Had I known how much ground just one of these can handle I wouldn't bought 3 but I installed all three and they cover the campus from front to back with no weak points and great consistency! Tech support got only one star because I didn't need it!",
+      "rating": 5.0,
+      "verified": true,
+      "author": "OZ4",
+      "helpful_votes": 0,
+      "publication_date": 20200201
+    },
+    {
+      "title": "Includes a PoE power supply.",
+      "text": "I bought a PoE power supply because it was not clear whether or not that was included. It was included so now I need to send the other power supply back.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Scott F.",
+      "helpful_votes": 3,
+      "publication_date": 20200102
+    },
+    {
+      "title": "It's less than ok",
+      "text": "I can not recommend this unit. The unit was easy to install on the ceiling. Admin software/app works but I'm not crazy about the interface. Not getting anywhere near the up/down speed with this unit that I expected...it is MUCH slower than my wireless router which puts this to shame (that's why 2 stars). It works if I\u2019m in the same room but once I go on my deck the connection is dead. Update: get much better up/download speeds with Xfinity wifi than this unit. Switch connections then run speed test. Very disappointed.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "ChrisR",
+      "helpful_votes": 0,
+      "publication_date": 20180119
+    },
+    {
+      "title": "Awesome enterprise grade POE Access Point",
+      "text": "Bought this to extend the WiFi signal in my new home, box comes with everything a POE adapter, Mounting plate, and instruction booklet. You have to download the Ubiquiti utility to configure the device but this device definitely offers enterprise level features. one draw back is that some of the monitoring and control features are limited to function only with a Ubiquiti router/switch but most of the features work. One thing to note is that this device is POE but only works with Ubiquiti POE Switches or potentially POE+ devices otherwise requires the use of the supplied power injector",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Randall Crane",
+      "helpful_votes": 0,
+      "publication_date": 20180619
+    },
+    {
+      "title": "Easy setup",
+      "text": "It's working quite well and was super easy to set up. I like the 2.5 and 5GHz antenna that work at the same time. It's quite fast. The complaints I have are about Ubiquity. Yet again they seem to build in features that aren't completely implemented yet. They're support is also quite minimal and ineffective. They just started ignoring my question because the first line support person couldn't understand it. I use to own an Edge Router lite and it failed, repeatedly, due to the USB device they use for the internal OS failing. I really hope that this AP is not using an internal USB flash drive. We'll see I guess.",
+      "rating": 4.0,
+      "verified": true,
+      "author": "Samuel D. Self",
+      "helpful_votes": 0,
+      "publication_date": 20170215
+    },
+    {
+      "title": "Most powerful AP out there for this price point.",
+      "text": "This is a business grade product at a consumer price point. All these other consumer \"mega\" routers out there with promises of long range and high speed are complete crap compared to this one. If you can manage to set it up on your own is the best AP out there. Highly recommend for any large indoor areas or even a small apt (my case). The only draw back is that it requires a computer to run it's configuration app every time. If you have a simple setup you can set it and forget, otherwise it will always need to computer with the config app to make changes.",
+      "rating": 4.0,
+      "verified": true,
+      "author": "Alex S.",
+      "helpful_votes": 0,
+      "publication_date": 20180814
+    },
+    {
+      "title": "Flawless devices, amazing product.. 3 total 5K+ sq/ft = 1 SSID",
+      "text": "Wrote a 5 star review for the 2 Ubiquiti devices I had.. just bought another one for a total of 3. When I hooked up the third device and opened the app, the app detected the new device and had already set the SSID and password, all I had to do was hit APPLY. Within 5 minutes this new WAP had upgraded firmware and was pushing my entire network out another 100 meters or so. If I could get 6 stars I would. Everyone who visits loves my wifi system, entire house coverage with no hiccups.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Christopher Brehob",
+      "helpful_votes": 0,
+      "publication_date": 20191118
+    },
+    {
+      "title": "Good AP point",
+      "text": "It is a good AP point but you should not expect to get crazy speeds on this, I get around 280-300 down and 400 up on a galaxy s10 my ISP is google fiber (900+/900+ wired). I'm not sure if im missing some obvious setting but it could just be my 5ghz network is crowded. It does push higher speeds than the Tp-link wifi 6 router I had before and is very reliable.",
+      "rating": 4.0,
+      "verified": true,
+      "author": "Zander",
+      "helpful_votes": 0,
+      "publication_date": 20200629
+    },
+    {
+      "title": "Right price for one of the most solid APs out there",
+      "text": "I'm a sysadmin that works from home, and my network technician turned me onto these. I have 3 home offices, scattered throughout the house, as well as a basement where I need to do some research from time to time while I build things. With my Verizon surfboard, I was dropping connection like crazy in any room but the main floor (3 levels total). Since installing the AP, my neighbors 2 blocks down can now get full-strength signal from my connection. We use 6 of these APs in one of our distribution warehouses, and it's a similar situation. There is no spot in the building where WIFI is unavailable.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Slumpy",
+      "helpful_votes": 0,
+      "publication_date": 20190109
+    },
+    {
+      "title": "Love it!",
+      "text": "This is my second Ubiquiti AP and this one was purchased for my house. It covers every inch of my 2 story ~3k house. It's MUCH better than the Asus RT I have been using for the last few years. As many have said setup isn't for the faint of heart. That being said after install I haven't touched it since. That's how I like my technology. Random note: I ceiling mounted my unit and it gives off a light blue glow in the hallway which works well for a nightlight. You can turn the lights off in the UI.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Kim Katir",
+      "helpful_votes": 0,
+      "publication_date": 20171130
+    },
+    {
+      "title": "Best wireless access point I have ever owned. Excellent product!",
+      "text": "One excellent Access Point. My older AT&T modem was not putting out a great wireless signal. After months of research and talking with my geek friends I orders this and it was the best choice I have made. I know can stream movies over wireless without my tv or computer stopping to download. I get 5 bars of signal down on my dock which is something I could never get with my AT&T modem. This is so easy to install and setup and Ubiquiti provides excellent instructions and everything you need to install this. Download the App and you are set to go. So easy to configure and you can be up and running in know time.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Greg",
+      "helpful_votes": 0,
+      "publication_date": 20180210
+    },
+    {
+      "title": "Love it",
+      "text": "The only issue is you need to install their \"UniFi SDN Controller\" or have their \"cloud key\". Their software currently uses Java, the Oracle version, not the Open one. Other than this one thing, it's excellent. Stable bandwidth, devices behind several walls still get decent signal, supports many professional settings if you really want to customize for your network.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Amazon Customer",
+      "helpful_votes": 0,
+      "publication_date": 20190119
+    },
+    {
+      "title": "Great AP for the money",
+      "text": "I had finally set this AP up when I had time. I first had to set up multiple vlans on my firewall and switches which took some time and was a bit of a learning curve. I am using a Raspberry Pi for the software controller. The controller software to set up the AP was again unfamiliar, but after some time I figured it out. I have 4 vlans that are running off this AP in both 2G and 5G. This AP is worth the price and gives you a lot of flexibility than a standard wireless router or gateway.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "John",
+      "helpful_votes": 0,
+      "publication_date": 20180131
+    },
+    {
+      "title": "Update- Bad Suppot",
+      "text": "After doing a FW change out the device lost connectivity. I am unable to adopt the device and the level of support this company has is not enterprise ready. There is not a way to manage a AP with a console cable and terminal window to assign an ip address or change config. So now I have an expensive AP that is useless. In short, I would NOT recommend this to anyone.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "Phillip",
+      "helpful_votes": 0,
+      "publication_date": 20200314
+    },
+    {
+      "title": "Great product",
+      "text": "I have been selling Network gear for 20 years, mostly Avaya and Cisco. I have to say for a small to medium business I would go with Ubiquity every time. If you go with the Unifi product line you have a dash board that allows even monkeys to understand what is happen on the network. V-LANs are easy to set up for running VOIP over the product allow voice prioritization. I work from home for a VOIP provider and this product allows me to demo our product with no voice issues. I have a USG, Unifi could, Unifi 802.11ac Dual-Radio PRO...AP, and Ubiquiti 8 port POE switch.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Russell S",
+      "helpful_votes": 0,
+      "publication_date": 20180528
+    },
+    {
+      "title": "No more drops. Fast speeds!",
+      "text": "Works extremely well. I have mine paired with a Ubiquiti switch with POE and a Ubiquiti Cloud Key. If you are going to go the route I did, the Cloud Key is a must. I never have Wifi drops and it never goes out on me. And Ubiquiti support is fantastic over chat. These products are built to work right and they are priced right. I work in IT and we use these over the 5 businesses that I support. It is reliable and isnt a nightmare to support and upgrade like some other company's products.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Dustin Martin",
+      "helpful_votes": 0,
+      "publication_date": 20171109
+    },
+    {
+      "title": "Forget the consumer-grade \"mesh\" solutions...",
+      "text": "This is the real deal. Forget the consumer-grade stuff at BestBuy. I upgraded my office network to these Ubiquity Access Points, and the hand-off between them is excellent. Coverage is solid everywhere if you follow common sense when choosing your install locations. You will pay more for this solution, but I promise you won't be disappointed.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Stephen T. Portell",
+      "helpful_votes": 0,
+      "publication_date": 20201018
+    },
+    {
+      "title": "Reliable Wirless with Cloud Management",
+      "text": "Does require a computer on your network to act as a controller for the access point, but once that is installed (super easy), you can manage your access point(s) from their cloud-based management platform. Replaced the access point that was included in the cable modem, which had spotty signal and poor performance. This access point has been rock solid and has never required a reset or anything once the configuration was set. I did go with the POE style and that has worked great. Very happy with my purchase.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Verrice",
+      "helpful_votes": 0,
+      "publication_date": 20181217
+    },
+    {
+      "title": "Outperformed by Airport Extreme AC",
+      "text": "I purchased the Unifi AC Pro with the intention to replace my wireless router. The idea of managing multiple of these devices was very appealing. Unfortunately my Apple Airport Extreme AC outperforms it with a stronger signal that reaches farther. In addition, the management software for the computer is a pain to setup. The mobile phone version works much better. Having said that, if you need an access point at a location without an outlet this is a great option.",
+      "rating": 3.0,
+      "verified": true,
+      "author": "dash-o",
+      "helpful_votes": 2,
+      "publication_date": 20170509
+    },
+    {
+      "title": "Great Wireless network",
+      "text": "Works very well with the entire Ubiquiti setup at home. I mounted this upstairs, and placed it on a lower channel #. Lower channel means lower frequency and more coverage distance. I then placed the AC Lite downstairs on a high frequency. Works very well. Both 2.4 GHz and 5 GHz are running at the same time. Many options to configure if you desire. Adding more is a breeze. I can have multiple people use their mobile devices watching YouTube, Netflix can be on and another download and this network takes care of business. If you bought a new house and are serious about setting up a really high grade network, you should look into this setup.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "MY303V8",
+      "helpful_votes": 0,
+      "publication_date": 20160731
+    },
+    {
+      "title": "It works well for the most part but a bit expensive for what it does",
+      "text": "The Ap does work well once everything is set up properly. The wifi signal is strong on the main floor but if you are trying to get a strong signal on lower floors or upper floors it drops off fast. Overall it is a pretty good AP.",
+      "rating": 3.0,
+      "verified": true,
+      "author": "Georgio",
+      "helpful_votes": 0,
+      "publication_date": 20200101
+    },
+    {
+      "title": "Easy to setup, excellent range and extremely reliable.",
+      "text": "Ubiquiti access points are by far the best access points I have ever used both professionally and personally. I have the Ubiquiti AP AC Pro and the Ubiquiti AP and their signal strength is far better than the router I have. My house is about 3,000 square feet and between the two APs every corner both upstairs and downstairs is covered. I just setup this AP and it took less than 5 minutes to get it up and running. With the ability to add MAC address filtering on each wireless network separately, it makes it crazy easy for me to limit my kids to a specific SSID, that way I can have the time schedule for that network.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "D. Decoster",
+      "helpful_votes": 0,
+      "publication_date": 20180124
+    },
+    {
+      "title": "I buy these all the time, great product!",
+      "text": "I purchase these almost every month, either for myself or for clients. They're amazing units, very cost effective, have a great broadcast range, and you can set 'em and forget 'em. I thought my oldest one had died the other day so I purchased a replacement. Turns out something just glitched somewhere. It's working fine now. My oldest one has been going since 2013 with only ONE blip in 6 years. You can't beat that!",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Tommy Jordan",
+      "helpful_votes": 0,
+      "publication_date": 20190708
+    },
+    {
+      "title": "Beware configuration",
+      "text": "For \"easy administration\" you need expensive add-on components that do nothing more than manage the router. The phone app that manages individual devices is somewhat unsatisfying. But here's the cool thing: it has a completely open Busybox on Linux, and you can configure the AP however you want that way by just logging in via SSH. For my purposes it makes this device about ideal. I actually left a negative review before I found that I could administer the box directly with Busybox. I haven't tried this yet, but iptables and ebtables appear to be there ready to use if you want them.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Keith",
+      "helpful_votes": 0,
+      "publication_date": 20190602
+    },
+    {
+      "title": "Works fantastic. Love Ubiquiti products",
+      "text": "Works fantastic. Love Ubiquiti products. Running two in 2,000 sqft house with a 5 port POE edgrouter. Due to overcrowded 2.4 Ghz, trying to stay in 5 Ghz range. Zero issues transitioning between WAPs and Unifi software is pretty straight forward for anyone comfortable with setting up more advanced home routers. Would not hesitate to buy again and actively recommending to my more tech savvy friends. Edgerouter/USG with UAP-Pro is a far better combo than any home router i've had (since WRT 54G with DD-WRT is outdated). I've owned at least 15 home routers and I will never go back.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "TP",
+      "helpful_votes": 0,
+      "publication_date": 20170224
+    },
+    {
+      "title": "These APs are not able to sync more than 4ft. away",
+      "text": "The promise of these Access Points was that they were powerful and would cover your whole location. The reality is sadly my two APs cannot even connect if there is a hallway in between rooms. The picture is as far away as I have been able to separate the two APs. Even with line of sight, they cannot sync more than 4ft, at 6ft they lose their link. Not great for the price and certainly strange given their ratings. I would definitely not buy these again. Another very annoying thing that I found out is that they only do wired ethernet at 100 Mbps to my Gigabit switch.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "AmazonAdam",
+      "helpful_votes": 0,
+      "publication_date": 20200525
+    },
+    {
+      "title": "Great AP, two weeks in.",
+      "text": "Purchased because router wireless kept dropping, and didn't cover the whole house. Thought was to try one out, and purchase a second if everything went well. After a little confit, this has been a great purchase. The tools the software gives you are great, to see what channels are in use, coverage heat map, etc. coverage is excellent as well, one device goes at least 50% more than the last, and I haven't gone down a bar in the house. Be aware you still need a router, this is just wifi. I ended up disabling the wifi part of my router, and leaving the router in place. Negatives: this thing runs hot. Very hot.",
+      "rating": 4.0,
+      "verified": true,
+      "author": "Dac",
+      "helpful_votes": 2,
+      "publication_date": 20160629
+    },
+    {
+      "title": "100% worth the money!",
+      "text": "These things are the bomb so far. I have two running and the way they perform is phenomenal. So unbelievably easy to set up. Just make sure to do the firmware update. My download on these is between 220-240mbps and upload of 13mbps. When in one room and moving to another the switch off is seemless. Strength is great. Can go outside of my apartment and still get a solid signal. Very easy to mount on the ceiling. Highly recommend this to anyone wanting to create a mesh network. The router, switch, 2ac-pro's and the cloud key are just a hair above the cost of a three pack of eeros.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Seattle Rocks!!!",
+      "helpful_votes": 0,
+      "publication_date": 20170129
+    },
+    {
+      "title": "This is the best device to extend your wifi PERIOD!",
+      "text": "This think just works. No frills no setup garbage. You install an app on your phone set it to your network and your done. Handoff works flawlessly and the range is great. I will be buying another when i get network set up in my shop.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "brad",
+      "helpful_votes": 0,
+      "publication_date": 20191112
+    },
+    {
+      "title": "Highly recommend if you are overheating your consumer wifi device.",
+      "text": "Very nice, clean unit. Very slick ceiling mount system. Quick setup and wifi signal blankets my house plus the front and back yard, has more range than my Asus RT-N66U wireless. We have 10-12 devices connecting (not concurrently) and my Asus would overheat and require a reboot about 3 or 4 times per week. I only have a few days with this Ubiquity UAP-AC-PRO, but so far it's been great. Hopefully it gives me a few years of trouble free service. I'm still using my Asus as the router/gig switch, with wifi radios turned off. It runs much cooler now that it isn't having to handle the wireless traffic.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Michael",
+      "helpful_votes": 0,
+      "publication_date": 20161030
+    },
+    {
+      "title": "Substandard Product",
+      "text": "This product had a lot of hype, so I went for it. I had problems from day one with installation and configuration. It helped that I know Unix, which allowed me to log into the AP to at least adopt the unit. Then, one device will connect but has no internet access. I have worked with support for weeks now and it's still broken. I could have purchased two or three routers for what I spent on this, with a lot easier setup.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "Mozart",
+      "helpful_votes": 0,
+      "publication_date": 20200314
+    }
+  ],
+  "product_meta": {
+    "title": "Ubiquiti Networks Unifi 802.11ac Dual-Radio PRO Access Point (UAP-AC-PRO-US), Single,White",
+    "description": "Ubiquiti Networks networks Unifi AP AC Pro.",
+    "rating": 4.6,
+    "feature_bullets": [
+      "Manage Your Networks from a Single Control Plane",
+      "Intuitive and Robust Configuration, Control and Monitoring",
+      "Remote Firmware Upgrade",
+      "Users and Guests",
+      "Guest Portal/Hotspot Support"
+    ],
+    "specifications": {
+      "Wireless Type": "802.11a/b/g/n/ac",
+      "Number of USB 2.0 Ports": "1",
+      "Brand": "Ubiquiti Networks",
+      "Series": "UAP-AC-PRO",
+      "Item model number": "UAP-AC-PRO",
+      "Item Weight": "12.3 ounces",
+      "Product Dimensions": "7.74 x 1.38 x 7.74 inches",
+      "Item Dimensions  LxWxH": "7.74 x 1.38 x 7.74 inches",
+      "Color": "White",
+      "Voltage": "48 Volts",
+      "Manufacturer": "Ubiquiti",
+      "ASIN": "B015PRO512",
+      "Is Discontinued By Manufacturer": "No",
+      "Date First Available": "September 23, 2015",
+      "Customer Reviews": "4.6 out of 5 stars2,863 ratings4.6 out of 5 stars",
+      "Best Sellers Rank": "#1 in Computer Networking Wireless Access Points"
+    },
+    "categories": [
+      "Computers & Accessories",
+      "Electronics",
+      "Wireless Access Points",
+      "Networking Products"
+    ],
+    "price": 136.99
+  }
+}

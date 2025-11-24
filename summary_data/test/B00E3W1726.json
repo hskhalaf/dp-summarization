@@ -1,0 +1,955 @@
+{
+  "website_summaries": [
+    {
+      "verdict": "If you're looking for a fast SSD that offers top capacity at low cost, look no further than the Samsung 840 Evo.",
+      "pros": [
+        "The Samsung 840 Evo solid-state drive offers overall excellent performance, top storage space, and useful bundled software, at low cost"
+      ],
+      "cons": [
+        "The three-year warranty is relatively short, and the drive's sequential read speed could be a tad better"
+      ],
+      "aspects": {
+        "Setup": 8.0,
+        "Features": 9.0,
+        "Performance": 9.0,
+        "Support": 8.0
+      },
+      "publication_date": 20140307,
+      "rating": 8.4,
+      "source": "cnet"
+    }
+  ],
+  "customer_reviews": [
+    {
+      "title": "I would advise prospective buyers to buy another brand.",
+      "text": "I bought 2 of these. They appeared to be great, but it turns out they get slower and slower as your data gets older. Samsung issued a firmware update which supposedly fixed the problem, but it appears that the fix only appeared to work because it refreshed the old files on the SSDs. After several weeks the drives began to slow down again. It's been six months since Samsung acknowledged the problem, but no permanent fix is available yet.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "Mitch",
+      "helpful_votes": 12,
+      "publication_date": 20150226
+    },
+    {
+      "title": "Must install MAC specific firmware update.",
+      "text": "Be sure to install the MAC specific firmware from Samsung website. Before updating the firmware it worked, but had frequent stalls and pauses. I also use Trim Enabler which helps. After new firmware specifically for MAC it works fine now. Macbook Pro 15\" circa 2007. The instructions for firmware update on the Mac are terrible, but it is amazing simple. 1. Download file. 2. Drag .iso file to left pain of Disk Utility. 3. Click Burn 4. Insert blank CD-R and burn. 5. Reboot computer holding down OPTION key. 6. Select the CD/Windows option 7. It will book isolinux and run the firmware update utility. 8. When the process says POWER CYCLE, turn off computer and reboot. That's it.",
+      "rating": 4.0,
+      "verified": true,
+      "author": "L. Arthur",
+      "helpful_votes": 3,
+      "publication_date": 20140725
+    },
+    {
+      "title": "I'm confused...",
+      "text": "... by some of these negative reviews. The device works as designed and installed without a hitch. Any / all included instructions were clear and accurate. Maybe it's me. Installing any hard drive is very straightforward and arguably one of the more simple installation/upgrade operations that practically anyone can perform. The Samsung 840 EVO 250 is a quality product and that includes concise installation/operation instructions and functional software that operates as designed. My recommendation is, 'know your hardware' then read the manual before attempting the installation. If it's not clear to you, read it again. If it's still not clear to you, have someone else perform the installation.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "M. Michael deVaux",
+      "helpful_votes": 0,
+      "publication_date": 20140325
+    },
+    {
+      "title": "Fast drive, these should catch on more quickly!",
+      "text": "This SSD is working great. I get that it was discontinued a while ago, but under normal use for most computers I don't see much of a difference between this and the 850. Have been using it for several months now and expecting it to last a lot longer. If I know Samsung right, I won't be disappointed. The drive is nice and light and easily reduces weight if you have an ultrabook that was sentenced to a HDD during configuration for some reason. Great job!",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Wyatt Tauber",
+      "helpful_votes": 0,
+      "publication_date": 20170622
+    },
+    {
+      "title": "Best SSD for performance and price",
+      "text": "Love this SSD. Many people give it crap as it is TLC but who keeps a hard drive for 10+ years anyway? I researched the life of TLC and found even heavy users will get good use out of this drive before it has been written on too much. There has been a firmware update that solves the problem of slowing drives. Make sure you use the Samsung Software restore software to install this firmware as you can't update to it through Magician. Every speed test I've performed is higher then the up-to rating Samsung advertises. So far I have installed this in at least five computers ranging from low-end to high-end.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Sfalco16",
+      "helpful_votes": 4,
+      "publication_date": 20141126
+    },
+    {
+      "title": "Great drive easy migration - don't be afraid to upgrade!",
+      "text": "Replaced the drive in my Dell laptop with this and upgraded memory from 4gb to 8gb at same time. This 5 year old laptop now runs like my 1 year old with SSD and newer processor. The most impressive thing is the migration software from Samsung. Followed instructions and migrated old drive to new drive via a USB adapter. Installed the drive in the computer, and it booted up looking just like it always had but about 5 times faster! I've never had such an easy migration with a drive change. No need for those long lost security keys - nothing, it is all there just like it was on your old drive!",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Boomer56",
+      "helpful_votes": 0,
+      "publication_date": 20141029
+    },
+    {
+      "title": "Love the new boot/shutdown speed and loading times!",
+      "text": "Purchased this SSD in order to put Windows 7 and some games on it to decrease load times. Have not been disappointed, especially for the cost per GB. My startup time was roughly reduced to half of what it was with the old hard disk drive, and load times for games installed on the SSD are considerably lower. Would definitely recommend this SSD if you want to put your OS and some games on it. However, the space fills up quickly (especially with newer games being as large as 20-30 GB each) and you may get \"spoiled\" by the load times and want to put EVERYTHING on a SSD! I use my previous HDD to store other games, music, etc.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "J.H.",
+      "helpful_votes": 0,
+      "publication_date": 20141226
+    },
+    {
+      "title": "Best performance per dollar.",
+      "text": "Don't drive yourself crazy reading a thousand benchmarks, this drive performs and for the money it's the best value over other drives. Those slight changes in the benchmark will never make an impact in the performance were you will ever, ever see. Crucial works too, a little more and a little faster. However, this comes with migration software that works spot on. Drive clone was perfect, no worries about partitions and all that junk reading peoples blogs go pms'ing over. You will need a converter to a smaller drive if you don't already have the smaller drive. And a cable that plugs into the hard drive for the cloning process.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "MonkeyWrench",
+      "helpful_votes": 0,
+      "publication_date": 20141013
+    },
+    {
+      "title": "Fantastic upgrade",
+      "text": "I've had this for well over a year now and I love it. It wasn't the easiest install, but my PC has blazing fast startup times, even application startup is much faster. I bought the 250Gb and I am using a HDD for installing most programs, but if I had to do it again, I would definitely upgrade to the 500Gb or more because it is getting a little cramped. I had heard some accounts of how SSD's didn't last as long as traditional, but after a year and a half of heavy use, it is still going strong. Great product and will definitely upgrade again.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Al Lindsey",
+      "helpful_votes": 0,
+      "publication_date": 20151010
+    },
+    {
+      "title": "Exactly what was ordered.",
+      "text": "Exactly what was ordered. VERY FAST REBOOT times. When I installed it for the first time, it insisted I didn't have enough permission to access delete or edit any files. I wiped it and tried again. Still same issue. I have to create a new user account other than the default just to get some functionality within Windows. That install still never completed correctly. I believe I will need to try a fresh install one more time. Never had a single problem with any of my, countless, Western Digital drives. Things do open much faster with this type drive. A lot more quiet too.",
+      "rating": 4.0,
+      "verified": true,
+      "author": "Ned",
+      "helpful_votes": 0,
+      "publication_date": 20150713
+    },
+    {
+      "title": "Failing after warranty ends, figures",
+      "text": "Bought in 2014. Always liked the speed, however it has been causing computer crashes constantly for several months. I own my own computer business and have traced the failure in Windows to this evo ssd. Every single samsung item I've purchased has failed just after the warranty period or just before. TVs, phones, you name it. I'm done samsung.",
+      "rating": 2.0,
+      "verified": true,
+      "author": "Kirk Mook",
+      "helpful_votes": 0,
+      "publication_date": 20181025
+    },
+    {
+      "title": "had over 6 mos with hard play and works great and no defraging anymore",
+      "text": "this im not sure how many stars...first ssd ive owned..extremely fast!i use this as my c drive and run a 3 terabyte hd for storage.had over 6 mos with hard play and works great and no defraging anymore.[ssd`s don't need and cant defrag].gripe is that is makes a loud buzz/click or something noise.i know......no moving parts and ssd`s are silent.but mine isn't and tech told me is my power supply or something else..but it is not....I have the ssd outside my pc with a long sata cable and I can hold it and feel the vibration.so I don't know.but it does work great.thats why 3 stars.neither here or there.",
+      "rating": 3.0,
+      "verified": true,
+      "author": "MAC",
+      "helpful_votes": 0,
+      "publication_date": 20150315
+    },
+    {
+      "title": "SSD Drives are the way to go!",
+      "text": "This is not my first SSD drive; in fact I've used most of the name brand including Kingston, Sandisk and Crucial. Although some will go into statistics about how one is slightly faster than another, I find that as long as you stick with the brand name and for everyday use don't focus too much on paying the few extra bucks for performance; stick with the known brands and can't go wrong. The Samsung EVO SSD drives are comparable to Kingston and a few others; it's priced in the same range as others ( at the time of purchase, I paid $118.00 for a 256GB drive). The Samsung drive are reliable and works as designed.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Eric T.",
+      "helpful_votes": 0,
+      "publication_date": 20140711
+    },
+    {
+      "title": "Blazing fast performance for a very reasonable price",
+      "text": "This thing makes my desktop PC fly. My gaming rig running Arch Linux boots up in 2-3 seconds from bootloader to login screen. Holy cow. But don't get this SSD. Seriously. Get the 850 EVO. I only have this thing because I bought it as an upgrade for my laptop and now it happily sits in my new, shiny gaming rig. A more fitting place for it I think. If you're looking for a single upgrade to improve the performance of your PC, look no further. Actually, do look further because this is not the one to get. Seriously. 850 EVO. Or something cheaper.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Christian Arnold",
+      "helpful_votes": 0,
+      "publication_date": 20150723
+    },
+    {
+      "title": "Makes it feel like a brand new computer!",
+      "text": "Made a HUGE upgrade for my computer. This combined with doubling the RAM in my MacBook made it seem infinitely faster, I can do so many things I couldn't before. Large apps open immediately, especially Photoshop and Aperture, and I can have many applications open at a time with great performance. It also greatly helped search features on my computer and file indexing, so when I need to find something on my HD it searches instantly. This is the best upgrade you can make to your older computer, and I highly recommend trying this before buying a new laptop altogether. Install was easy, just google a tutorial and buy a kit of screwdrivers for ten bucks.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "ah12065",
+      "helpful_votes": 0,
+      "publication_date": 20150219
+    },
+    {
+      "title": "This one is well reviewed in the tech circles and the price is good. Install is easy",
+      "text": "I won't bore you with a bunch of technical details, you can find them all online. At this point the SSD is becoming a bit of a commodity for the average user. If you are moving from a mechanical drive to an SSD you will notice huge speed increases. But you will see the same benefits from almost any SSD. This one is well reviewed in the tech circles and the price is good. Install is easy, but it's the same across all options. If you need to save as much money as possible, go with a cheaper option, it'll still be great. If you need performance as well, this will serve you perfectly.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Seth A. Ratner",
+      "helpful_votes": 0,
+      "publication_date": 20150623
+    },
+    {
+      "title": "Samsung fail.",
+      "text": "Every 840 EVO that I've bought... for home... for work... for friends... every one of them, I've had to pull from service and replace due to the worthless TLC NAND Samsung put in them. Slow speeds, data loss, and only band-aids and hot air from Samsung. No fixes. No replacement. That being said, they're probably still ok for temporary storage, i.e. Windows pagefile, Linux swap, Photoshop scratch, etc.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "James D.",
+      "helpful_votes": 2,
+      "publication_date": 20160209
+    },
+    {
+      "title": "Reliable SSD",
+      "text": "I've had it for about a year now and installed it in my new Asus computer (with windows 8.1) and I have had no issues or problems. Fairly easy installation. You may need to purchase some additional parts (brackets/screws). I ended up using velcro I had laying around to secure it. Anyway, no issues, quick start up. I no longer dread the waiting involved with starting the computer. Other programs open quickly as well (Adobe stuff mostly), but not sure how much is due to the new computer and how much is the SSD.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "SadieRocks",
+      "helpful_votes": 0,
+      "publication_date": 20150829
+    },
+    {
+      "title": "Ssd with a problem.",
+      "text": "This use to be one of the most popular ssds to buy, but recently it has been shown that this ssd slows down over time if you have data that isn't constantly refreshed. Samsung put out a firmware fix for this that routinely refreshes your data so that this slowdown doesn't happen. It is definitely fast, but I wouldn't trust buying this ssd ever again. I recommend buying the evo 850, which doesn't have this problem.",
+      "rating": 4.0,
+      "verified": true,
+      "author": "Pat Lim",
+      "helpful_votes": 0,
+      "publication_date": 20150811
+    },
+    {
+      "title": "Awesome.",
+      "text": "I installed it the day I got it. My computer runs beautifully fast now, no complaints. The samsung magician software is a bit unrefined, but very useful nonetheless. A very special feature, Rapid mode, which is basically a Ram Drive to replace SSD functions with your computer RAM, is also great, as it boosts performance by at least 25%, as well as durability, since this means less write cycles for the device. Overall a great product. The speed is fantastic, hard drive disks feel worthless and intolerable compared to using this. I'll still use those, though as external devices, at least until flash drives like this one become much more accessible. I recommend this product immensely.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "aacme",
+      "helpful_votes": 0,
+      "publication_date": 20131221
+    },
+    {
+      "title": "SSD...will you be? Please won't you be? My neighbor.",
+      "text": "It's my first SSD drive so I don't have much to compare it to. I bought this because of many hours of research and I have not been disappointed. It's my primary drive with OS, Microsoft, and a few games installed on it. At this point it's pretty full (I wish I would have sprung for the bigger drive) but still incredibly fast. I can do a full restart in less than 10 seconds. That includes logging in. I'm so spoiled now that I hate having to restart my phone or iPad. Very quick, very durable, and a great buy for the price. I would definitely buy again, but I'll probably go up in size next time.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Beaker",
+      "helpful_votes": 0,
+      "publication_date": 20151217
+    },
+    {
+      "title": "Great Experience",
+      "text": "I set aside a ( whole) day for the conversion/install ( I am 70 year old female, no tech install experience) of this SSD. I bought and used an Anker\u00ae USB 3.0 to SATA 3ft Converter Adapter. It took about 30 min for the data transfer ( I have about 125 Gb data) and a total of 40 min to remove the old hard drive from my Dell Inspiron15R and install this SSD.The Samsung software worked without a hitch. Everything works like before - only a lot faster! I am overwhelmed!!",
+      "rating": 5.0,
+      "verified": true,
+      "author": "LUCKY",
+      "helpful_votes": 4,
+      "publication_date": 20140809
+    },
+    {
+      "title": "Samsung 840 evo 250gb",
+      "text": "Works as expected. Learned to connect to internet and have the latest software updated. Highly recommended! Thank KJ for your review. I could have gone with the Pro version, but I think the TLC technology is more recent and not too bad compared in performance compared to the Pro MLC more expensive and dated technology. To me it appears to be the best way to upgrade your current HDD based PC and laptop. A day after successful installation of a 120gb and 250gb evo, I ordered a couple more of 250gb for my second laptop running raid 0. Those two laptops are for JPlay music player. I will need 2 more for boot ssd in my PCs.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Paul D. Bui",
+      "helpful_votes": 0,
+      "publication_date": 20140314
+    },
+    {
+      "title": "easy installation for Windows.",
+      "text": "If you are using Windows OS, migration to this SSD is super easy. Migration tool DVD that comes with the SSD will take care of copying files to your new drive. Then swap drive and boot and off you go. Unfortunately, bundled software only works with Windows. In my dual boot system (Windows 7 and Mint Linux) the migration tool completely ignored the linux installation. you need to backup the Linux file system beforehand, and after swapping the drive, reinstall Linux and restore the system. Once installed, both OSs worked just fine with very noticeable reduction on OS/application startup delay.",
+      "rating": 4.0,
+      "verified": true,
+      "author": "A2life",
+      "helpful_votes": 0,
+      "publication_date": 20140603
+    },
+    {
+      "title": "Excellent SSD for PS3 and HP Laptop",
+      "text": "Since I have SSDs installed in my laptops at work, I wanted some for home use. I have one in my PS3 and another in my HP ENVY dv6 laptop with a hybrid drive, and they have been working great for almost a year! The PS3 loads so much faster and my laptop definitely recovered nicely from almost turtle status. And I love the clone tool that comes with it; it was super easy and seamless to use. One of these days I will get another one for the church computer since speed is crucial for recording.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "armstrongawm",
+      "helpful_votes": 0,
+      "publication_date": 20151114
+    },
+    {
+      "title": "Incredible performance at a very low cost",
+      "text": "There isn't much to say that somebody else hasn't already said about this drive, given that it's been reviewed over 5000 times now. Samsung makes the best SSDs on the market, hands down. Performance tests continually prove this, and the data is continually validated by users everywhere - myself included. I have the 512GB version in my desktop, and the 250GB version in both my parents' desktop and father's laptop, and this upgrade alone has saved me from having to build new machines for them. That's how much of a performance improvement this drive makes. It is, without a doubt, the single best upgrade you can possibly buy for your machine.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Nick Panaccio",
+      "helpful_votes": 0,
+      "publication_date": 20141120
+    },
+    {
+      "title": "I've updated all my PCs",
+      "text": "I've updated all my PCs with one of these drives and it's been a game changer. Applications start so much more promptly. I can reboot in under a minute. It's the biggest noticeable usability improvement I've experienced. I've installed in both laptops and desktop computers. In all cases the software provided allowed me to quickly and easily transfer my data from a current HD to this SSD (I made sure I had less then 250GB of data to transfer in all cases, which makes this a not nicer of a transfer) Depending on your installation you may need to purchase some additional cable(s) and/or a bay adapter (for desktop).",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Brian",
+      "helpful_votes": 0,
+      "publication_date": 20150202
+    },
+    {
+      "title": "Impressive Performance",
+      "text": "I bought this SSD for a Mac Mini. To get some context, the Mac Mini is pretty fast even with the included Hard Drive. I have the Core i7 late 2012 model 16GB RAM. The difference was very impressive. Boot time reduced almost to half, opening and closing programs that are already in the SSD is almost instantaneous. I was thinking of going for the PRO version but it doesn't make any sense unless you are willing to pay for the limited increase in performance. Highly recommended! PS: I'm using it through USB 3.0. I've heard even better results from people that have it connected it directly to the board.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Jasan",
+      "helpful_votes": 0,
+      "publication_date": 20140414
+    },
+    {
+      "title": "Speeds and Facts",
+      "text": "Tested with ATTO Disk Benchmark (Direct Overlapped I/O) RAPID Mode Disabled Read 555 MB/s max Write 534 MB/s max RAPID Model Enabled Read 3915 MB/s or 3.9 GB/s max Write 4217 MB/s or 4.2 GB/s max Motherboard: P87M CPU: i7 4770k. In order to enable RAPID Mode you'll need to install Samsung Magician, an older version will come with the disk and you'll have the opportunity to update or you can download it from their main webpage. I purchased this for $250, but my friend had bought it for $220 on sale a few months ago. I upgraded from my 2 year old SanDisk SSD which ran about 100 MB/s read and write and was blown away by the readings...",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Ernest",
+      "helpful_votes": 0,
+      "publication_date": 20140305
+    },
+    {
+      "title": "Glad I made the switch to this SSD.",
+      "text": "I'm old school, hate hype, and change doesn't come easy. The \"old\" drive bought the farm after one too many defrags. This drive is silent and nasty fast, significantly faster than my old drive judging from boot up times on win8 and general usage. Even the web seems a lot faster. Seems to be a quality piece of equipment, judging from the case and the connectors. Easy to swap out the drives, did have to buy an adapter so this little guy would fit in the cabinet. Had for a few months now, no problems - heat, noise, data checks or otherwise. Glad I bought it even though there are cheaper alternatives, won't be going back to spinning platters.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "sfrenchfl",
+      "helpful_votes": 0,
+      "publication_date": 20140709
+    },
+    {
+      "title": "Speedy",
+      "text": "This won't improve your computers \"benchmarks\" but it makes it quite speedy for tasks using disk storage. I installed this in a 2009 MacBook Pro and it \"breathed new life\" into it. Apps launch quickly, startup and shutdown are vastly improved. After considerable research, this drive is among the best price:performance options right now. Pro Tip: You don't need a SATA III drive for many older computers. MacBook Pros before 2010 did not have SATA III support. All things being equal, you might save some money buying a SATA II SSD, but SSD technology has been improving quickly. SATA III is backward compatible with SATA II computers.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Jonathan",
+      "helpful_votes": 0,
+      "publication_date": 20140203
+    },
+    {
+      "title": "The best SSD value for the money.",
+      "text": "These are hands down the best price/performance SSDs on the market. I have used them in several of my systems and I can't go back to normal HDDs (at least as the OS drive). Also, what makes the Samsung drives a cut above the rest is the Samsung Drive Magician software. It's a software suite (and a darn good one at that) that keeps your SSD running in tip-top shape and no other manufacturer has anything like this for their drives. I would've chosen the 500GB model if I could've because that is when the drives are running at full speed.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "M. Nelson",
+      "helpful_votes": 0,
+      "publication_date": 20141210
+    },
+    {
+      "title": "Decent",
+      "text": "I currently use a laptop with a 500 gig sata 3 drive. I wasn't sure what to expect when it came to SSD performance, but I was a bit underwhelmed. I noticed that the boot time was ever so slightly faster than with my traditional hdd, and programs opened slightly faster, but it really wasn't worth it in the end. I did however notice a decent amount of battery savings, which is claimed by Samsung. I would say that if you are fairly happy with your current HDD setup, then this SSD isn't really worth purchasing.",
+      "rating": 4.0,
+      "verified": true,
+      "author": "Stephen P Daugherty",
+      "helpful_votes": 0,
+      "publication_date": 20141212
+    },
+    {
+      "title": "A refresh that makes my MacBook Pro like new!",
+      "text": "This has brought my mid 2009 MacBook Pro back to life! I decided that it was finally time to replace the old 5400rpm HDD as it was slowing down very quickly. Install was a snap and I did a fresh install of the Mac OS. Added all my files back that I needed from an external drive and off I've been since. Performance has been much improved and there have been zero issues. This is a must do upgrade for any notebook or laptop. The price of SSD is now coming to a reasonable level so the cost benefit is there. Don't think twice, just buy it, you'll be happy!",
+      "rating": 5.0,
+      "verified": true,
+      "author": "B. DeGraff",
+      "helpful_votes": 0,
+      "publication_date": 20131201
+    },
+    {
+      "title": "Smokin Fast",
+      "text": "God what a difference. My win 7 machine goes from minutes to seconds booting. Programs install faster, launch faster. I am on a Sata II machine and not using it to it's full potential, but it doesn't matter. It's hard to believe something that feels like an empty plastic box can make such a difference. Get it. If you can afford the higher capacity, their speed rating goes up with capacity. Any of them will make an astounding difference, the terabyte one will give you the most performance, but it won't probably be noticeable.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Chris",
+      "helpful_votes": 0,
+      "publication_date": 20140303
+    },
+    {
+      "title": "As good as everyone says",
+      "text": "This is the best upgrade I have ever done to my computer, better than installing a new motherboard, new CPU, or more RAM. The increase in performance is huge, even while web browsing, which I didn't realize depended so much on the hard drive. Boot time is greatly reduced, programs load almost instantly, and file operations are very snappy. The included software worked well, both to clone my old drive and to optimize the new SSD. I did run into one problem: I was converting a RAID array to a single SSD, and had trouble loading the right drivers onto my Windows 7 system. But I eventually figured it out and everything is great.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Daryl",
+      "helpful_votes": 0,
+      "publication_date": 20140323
+    },
+    {
+      "title": "Best upgrade",
+      "text": "Before you upgrade your RAM, CPU or GPU. Put your money into an SSD. This has hands down made my computer faster and more enjoyable to use. Since my original Hard Drive was 500GB, I moved my windows and program files to the SSD (be sure to properly align your data while transferring) and then pointed my documents, photos, etc folders to grab from the HHD. So now everything boots, launches and starts blazing fast, but I'm not storing a million document files. A I went ahead and upgraded the other components as well, but honestly, if you can only afford one upgrade, get the Solid State Drive!",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Dean",
+      "helpful_votes": 0,
+      "publication_date": 20140831
+    },
+    {
+      "title": "XP and SSD don't really play well together...",
+      "text": "I went shopping for an SSD hoping to improve the performance of a 2008 HP PC running Windows XP. What I didn't realize going in was that XP technology does not allow many of the SSD's performance-enhancing features to be fully used (or some to be used at all). And installation was a BEAR...\"plug and pray\"...data migration was non-existent, and even after I reinstalled the OS, it took me a couple of days to get it running right with all my usual software loaded. So it was a rocky upgrade, but I'm quite happy with the drive itself. Should I ever decide to get current hardware, it will certainly use SSD.",
+      "rating": 4.0,
+      "verified": true,
+      "author": "Laiki",
+      "helpful_votes": 0,
+      "publication_date": 20140720
+    },
+    {
+      "title": "No more HD thrashing.",
+      "text": "I installed this into my all-in-one Samsung 7 series that was a year and a half old. The computer's HD was always thrashing, every morning I had to wait about 5-10 minutes before I could even try anything. It was very frustrating and I thought about building my own PC. But I decided to first try to install an SSD drive. The cloning process with the software Samsung provided was flawless. After the install the boot up was about 5 seconds and I was able to use immediately. It was like a new PC. I have had it for about 3 weeks and I am extremely happy.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "jon",
+      "helpful_votes": 0,
+      "publication_date": 20140911
+    },
+    {
+      "title": "Great hardware, imperfect software.",
+      "text": "Worked for me great the first 2 times. I managed however to be working on a computer which completely failed to clone... The cloning software will not work on computers with corrupt file systems, even though the files systems have been reformated and seem to work fine on the old hard-drive. I spent over 10 hours on this. It takes 2 hours each time to know whether or not the clone has succeeded, even though the failure occurs about 10 minutes into the clone cycle. My take: the drive is fine, but they need to do more work on the cloning software... I tried two other cloning programs. neither worked...",
+      "rating": 4.0,
+      "verified": true,
+      "author": "not_bob",
+      "helpful_votes": 0,
+      "publication_date": 20140807
+    },
+    {
+      "title": "SATA Connector Too Fragile",
+      "text": "The SATA connector is very fragile. Although the function is great and provides blindingly fast access and start up times, the SATA connector on the drive is outlined in soft plastic. When I moved the drive into the drive holder, just the pressure of the cable against the case of the drive was enough to break the plastic around the connector, causing the cable to no longer fit securely. Very disappointing.",
+      "rating": 3.0,
+      "verified": true,
+      "author": "PagosaJoe",
+      "helpful_votes": 2,
+      "publication_date": 20140710
+    },
+    {
+      "title": "Made an older computer new again",
+      "text": "I am blown away by the performance difference an SSD makes in ANY computer. I've got a 4 year old PC running Win7 that I turned over to my kids for a gaming/homework/browsing machine. I added a bit more RAM, swapped out the HDD for this Samsung SSD and reinstalled Windows. Now I question why we bought a new computer. This 4 year old PC is blazing fast and boots up in around 30 seconds. Seriously - it's faster for nearly every task than the new i5 PC. Samsung SSD's are known to be among the best - fast, reliable, durable. You simply cannot go wrong with an SSD - make the switch.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Vegoose",
+      "helpful_votes": 0,
+      "publication_date": 20141222
+    },
+    {
+      "title": "Fast!!!",
+      "text": "I used all provided software and everything worked great. Load the software before cloning the drive. It will give you the latest update for the software automatically. Magician and Migration software will be updated. You don't even have to go to the Samsung site and download the latest. Magician will set your whole Windows system up to accept the drive and run correctly. No brainer! The drive is screaming fast, well worth the money....!!! I also bought a Sabrent external 2.5 enclosure (great price $9.99) for cloning the drive over and gave me an extra external drive with old 2.5 from the laptop for backups. Kill 2 birds with one stone.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "RSN",
+      "helpful_votes": 0,
+      "publication_date": 20140317
+    },
+    {
+      "title": "I love my SSD Drive best investment ever",
+      "text": "I love my SSD Drive best investment ever, I bough a 120 so once I herd these where for about the same price decided to buy a couple. I still have them running almost every day without lag. performance is the same since I don't install or uninstall random programs into my self build system. If your new to SSD just get the Samsung EVO editions will be worth the buck compare to other SSD drives I had in the past.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Pamela Gobea",
+      "helpful_votes": 0,
+      "publication_date": 20160120
+    },
+    {
+      "title": "SSD is the way to go",
+      "text": "I replaced a first gen OCZ drive with this primarily for my OS and a few other programs. I bought the OCZ back when 60GB drives were still really expensive. I started having some odd errors with the OCZ and 60GB isn't a ton of space anymore so I bought the Samsung 250GB and decided to re-install Windows 7 at the same time. Months later and it still works great. Haven't had any issues and it was easy to install. If you're still using a non-SSD drive you need to buy one right now.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Galen",
+      "helpful_votes": 0,
+      "publication_date": 20150501
+    },
+    {
+      "title": "Macbook pro SSD upgrade project",
+      "text": "Installation of the SSD into the superdrive bay using an adapter - simple. My early 2011 MPB booted up, recognized the storage, but failed to initialize it with a \"wiping volume data to prevent future accidental\" Nothing worked after this point. This turned out to be because of the SATA-3 incompatibility, despite the negotiated link speed showing up at 6 Gbps. Solution was to swap out the original SSD on the main bay, and onto the optical drive's bay. The new SATA-3 SSD when attached to the main bay SATA interface worked beautifully. Impressed with the speed and performance - A definite improvement over the original SATA-2 SSD that came with the MBP.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Ragu",
+      "helpful_votes": 0,
+      "publication_date": 20140306
+    },
+    {
+      "title": "Worth the $$$ speed and reliability! Compare to Crucial MX100",
+      "text": "For the price! Definitely fast write/read speeds especially matched with Win8.1! Start-up time is fast and for real-world applications & games it's lightening! Not as fast as the Samsung pro series or compared to some Sandisk drives but overall I am very pleased! Compare this drive to the Crucial MX100 for the price! The crucial MX100 is also $10-$20 cheaper and at most times has faster start-up and read/write speeds! I am transferring this drive to my old PC and installing the newer Samsung 850 EVO 500gb in my new rig! Cheers! This is a solid fast SSD! Worth the $$$",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Harrison G.",
+      "helpful_votes": 0,
+      "publication_date": 20150208
+    },
+    {
+      "title": "tools that work with RAID",
+      "text": "Small, lighweight...looks pretty. Only has about 230 usable GB's, but that is normal (odd though...I never understood how they get away with it. Buy food and it must meet the advertised mark at a minumum, but a HD and it will always fall short). Does not include any mounting screws, but that is no problem really. I do wish that the management software that is included would work on the HD's while in a RAID setup. This has been the gripe of all RAID users, I know. But the extra tools and information is still there, so how can this software access it?",
+      "rating": 4.0,
+      "verified": true,
+      "author": "L. McNerneyTop Contributor: Smart Home",
+      "helpful_votes": 0,
+      "publication_date": 20140806
+    },
+    {
+      "title": "Great performance for the price",
+      "text": "I looked at this and several other 240/250 GB SSD's and bought this one because it has the best performance for its price. The Samsung software works just as advertised and make cloning an old hard drive and swapping this one in a snap as well as optimizing performance and helping you through any system changes needed to ensure the best performance and reliability. Its a nice change to see well built OEM software for installs that is easy to navigate and concise vs the clunky software some vendors provide. If you want a fast boot from cold remember to change the boot priority in the BIOS, this will dramatically improve your boot time.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Brandon S",
+      "helpful_votes": 0,
+      "publication_date": 20140111
+    },
+    {
+      "title": "Great hard drive",
+      "text": "Great speed, easy to install, makes computing even more enjoyable. Now every time I use another computer I start wondering if something is wrong because load times feel so sluggish. This SSD makes programs snappy and responsive and really speeds up how quickly you're able to get things done. Cold boot and resume times are also much shorter, which is great when you're in a time crunch. A big improvement in speed for a relatively small price.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Chris H",
+      "helpful_votes": 0,
+      "publication_date": 20141105
+    },
+    {
+      "title": "Fast!",
+      "text": "Fast! I'll have to run it for a few years to fully rate it. Powersupply: EVGA SuperNOVA 750G2 80PLUS Gold Certified ATX12V/EPS12V 750W Power Supply 220-G2-0750-XR Hard Drive: Samsung Electronics 840 EVO-Series 250GB 2.5-Inch SATA III Single Unit Version Internal Solid State Drive MZ-7TE250BW Processor: AMD FD8350FRHKBOX FX-8350 FX-Series 8-Core Black Edition RAM: Corsair Vengeance Red 8GB (2x4GB) DDR3 2133 MHz (PC3 17000) Desktop Memory (CMZ8GX3M2A2133C11R) Mobo: ASUS M5A99FX PRO R2.0 AM3+ AMD 990FX SATA 6Gb/s USB 3.0 ATX AMD Motherboard OS: Windows 8.1 Pro System Builder OEM DVD 64-Bit",
+      "rating": 5.0,
+      "verified": true,
+      "author": "KerryWhite",
+      "helpful_votes": 0,
+      "publication_date": 20140802
+    },
+    {
+      "title": "840 EVO - The full package!",
+      "text": "I've been using the 840 EVO 120GB and 250GB drives in systems for about 6+ months now and not a single hiccup. The included software to migrate an existing OS to your new drive works flawlessly. If you don't have an external USB enclosure to put the drive in you can always put it in your computer first and migrate but its easier with a USB enclosure. The Samsung Magician software while not necessary to leave on your system, gives you great one click options for configuring Windows to be optimized for the new drive. All around these drives just can't be beat for the price and performance. This drive is a staple in my small I.T. consulting business.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "akITguy",
+      "helpful_votes": 0,
+      "publication_date": 20140717
+    },
+    {
+      "title": "I used the system's HP Recovery Media on USB to migrate Windows Pro from Hard Disk to this",
+      "text": "With the current cost for this SSD, I wanted to replace the boot HD for my HP Envy Windows 7 Pro desktop system. I switched the power and SATA cables from the HD to the SSD, and started the HP Media Recovery, which I'd placed on a USB thumb drive. It formatted/partitioned the SSD and installed Windows. Then I connected the HD with other cables, and used it for data. I had other backups of the OS and my data, but they were not needed. Between the HP Media Recovery and the SSD, it took about an hour and is now running fine.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "David Bird",
+      "helpful_votes": 0,
+      "publication_date": 20140830
+    },
+    {
+      "title": "Gives new life to old machines...",
+      "text": "This was a great enhancement to my aging dell latitude lap top... It was so easy to replicate my old drive to the new ssd, and get my laptop up and running again... I went from about 2 1/2 minutes of boot up time to just shy of a minute... May not sound like much - but when you travel, and turn on/off frequently, especially at airports - this is a huge gain. All applications continue to work fine - and very fast... Note - you will need a usb cord (I used one from my external Seagate drive) to connect the new drive for the replication. Otherwise, you'll have to go through the Microsoft process...",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Harry Lisle",
+      "helpful_votes": 0,
+      "publication_date": 20131206
+    },
+    {
+      "title": "Fast and so far reliable",
+      "text": "This is a very fast and inexpensive SSD. I'm now spoiled by it and my work computer with its spinning disk feels horribly slow now, even though it has practically the same CPU and RAM as my home machine. I didn't install the Samsung tools that came with it, assuming that it's better to let the OS do its own management, and not wanting yet another driver loading every time I power on. I made sure to tell my UEFI BIOS that this was an SSD rather than a hard drive so it gets managed properly. Don't forget to do this if your BIOS gives the option!",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Timothy Kite",
+      "helpful_votes": 0,
+      "publication_date": 20140213
+    },
+    {
+      "title": "Very fast SSD",
+      "text": "Bought this to install into an Asus RoG laptop. This drive is a crazy upgrade over the 5400 RPM disk drive it replaced. Windows 8 starts in seconds and many programs load as if they were already running. I haven't noticed any battery savings since I rarely use my laptop without it's cord. I've had 0 issues with errors, performance loss, or installation. Being moderately tech savvy, installing the drive was pretty easy and the instructions are decently clear. If you're looking for a SSD, this is a fantastic drive and a very huge upgrade over mechanical drives.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "JMMorton",
+      "helpful_votes": 0,
+      "publication_date": 20141110
+    },
+    {
+      "title": "good price",
+      "text": "This drive is very fast. It was easy for me to get it up and running. It hasn't given me any problem during the first month or so since I have been using it - so, I bet it will be reliable long-term too. The price was great considering the amount of storage and quality of the drive. If you are using this for a desktop, be sure you already have a 2.5\" adapter for your disk bay, or you will need to buy one. Also, no power or SATA wires come with the disk either, so be sure you have some available - you should if you are replacing a drive, but maybe not if you are adding one.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "RONNIE J BEVER JR",
+      "helpful_votes": 0,
+      "publication_date": 20140706
+    },
+    {
+      "title": "Amazing product simply jawdropping speeds WOW!",
+      "text": "Top rated product for a reason, really if you're Looking at ssds why would you look anywhere else these SamSung drive really are the best of the best and reasonably price. So super fast and light the software that it comes with is also 5 star rated. Still is on my old Windows 7 pc can't wait to get it on my w8 that I bought this year I hear it makes an even bigger difference on 8 can't imagine how it's going to get much better but I guess the tiniest bit of sight lag is gonna be gone, just unbelievably fast and so stable, wonderful product!!!",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Tony B the TECH tiger",
+      "helpful_votes": 0,
+      "publication_date": 20140610
+    },
+    {
+      "title": "Good drive, software has a few bugs",
+      "text": "Had it for a month and it does what it's supposed to do. We'll see how it lasts. As for the included software, Samsung Magician is a nice utility, though the Secure Erase function is difficult to use (they actually say to disconnect the drive inside the case WHILE THE COMPUTER IS RUNNING!). I would not recommend the Data Migration software. After three attempts which all created a completely full hidden \"System Reserved\" partition that prevented Windows Backup from running. I went with a free third-party migration program that worked like a charm on the first try.",
+      "rating": 4.0,
+      "verified": true,
+      "author": "Mark B.",
+      "helpful_votes": 0,
+      "publication_date": 20140926
+    },
+    {
+      "title": "SSDs are probably a good thing to buy with well-known brands",
+      "text": "I've bought two of these over the past few months: one as a replacement for a platter drive in an older Mac laptop, and another as the primary drive in a homemade Hackintosh. This drive sets a new standard for speed, silence, and efficiency in a new machine and is the single most significant upgrade you can make to an older computer - even better than additional RAM. This one doesn't have the included USB-to-SATA cable that some other packages of this exact drive have. You might find that cable useful if you're configuring the drive from another computer before installing it.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "MuxDux",
+      "helpful_votes": 0,
+      "publication_date": 20141004
+    },
+    {
+      "title": "Samsung 840 EVO Series 250 GB 2.5 is a WINNER",
+      "text": "Samsung 840 EVO Series 250 GB 2.5 SATA III 1. Easy to Install Software: Clone is EASY . . . Physical Install is EASY 2. Faster than a Speeding Bullet 3. Did I say FAST: Boot UP TIME is less than 9 seconds in Windows 8.1 4. Applications such as Word less than 2 seconds. Database less than 5 seconds. 5. Shut DOWN is less than 4 seconds. 6. When it arrived in the box and I took it out I thought there was nothing there as it was so small and light. But Small and Light is today's NORM. It is like going from a bicycle to a Jet Aircraft.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Gerald W. Mattos",
+      "helpful_votes": 0,
+      "publication_date": 20141001
+    },
+    {
+      "title": "Blazing fast!",
+      "text": "This drive is amazing. SSD's are silent, low power, and faster than a goddamn racehorse. My computer boots and resumes like lightning (aided by Window's 8's hybird sleep, but still, much faster than the previous platter drive) at all and games load in record time! If you don't already have one SSD's are the best thing you can do to juice up your computer. This one in particular has great read/write speeds at a reasonable cost. You can go cheaper and you can go faster, but if you want a nice bit of speed with a bit o' money left, this is it!",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Plasmarobo",
+      "helpful_votes": 0,
+      "publication_date": 20140604
+    },
+    {
+      "title": "Great Upgrade",
+      "text": "Install/cloning software is effective but somewhat confusing and requires uninstall afterward. Maintenance software is redundant and may slow performance without gain in overall function/lifetime",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Jason D. Tucker",
+      "helpful_votes": 0,
+      "publication_date": 20190604
+    },
+    {
+      "title": "Cloned boot drive to SSD without any problems",
+      "text": "Fastest cloningg experience. I tried using the SATA connection on the mobo, but Samsung Data Migration software did not see it. I bought the Patuoxun USB 2.0 to Sata Converter Adapter Cable from Amazon (about $7) and tried it again. Data Migration software picked up the SSD and I let it clone the drive overnight. Next morning I swapped my old drive with the SSD and the system booted up without any problems. I am using SATA II, nevertheless I saw significant improvement in boot time. Cloning and install went smoth. Glad I got the Samsung.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "John T Paul",
+      "helpful_votes": 0,
+      "publication_date": 20140723
+    },
+    {
+      "title": "Faster and much cooler than my Seagate 500GB HDD that came with Laptop.",
+      "text": "Much better than my traditional HDD which caused a lot of heat in my laptop. This SSD solved a lot of issues, especially when I was dealing with files that took a long time to either save or read after editing. All I did was buy a Sata III to USB 3.0 cable and created an image from the HDD to my SSD- took less than 20 min. to perform. If you plan to go this route, don't forget to buy this cable. Some of these cables come with an External Power Supply. I didn't need to power-up the cable as the USB 3.0 5V port on my laptop was good enough to powerup the SSD during the file transfer.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "RSC",
+      "helpful_votes": 0,
+      "publication_date": 20140902
+    },
+    {
+      "title": "Best upgrade ever",
+      "text": "I replaced my hard drives in my 2008 Macbook Pro 15\" A1260 as well as my Toshiba Satellite A505-S6005. This gave a whole new life to them. They are faster than ever. The process of swapping out hard drives was ridiculously easy. With my MBP, I cloned the drive using an SATA to USB adapter and Superduper! software. I needed to order the original software disks from Toshiba in order to replace my original hard drive as it had too many bad sectors to clone. I would strongly recommend upgrades to anyone. This SSD was extremely easy to instal and came highly reviewed in multiple venues.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "mntnpeak",
+      "helpful_votes": 0,
+      "publication_date": 20140104
+    },
+    {
+      "title": "I do not normally give poor reviews but this product warrants an exception",
+      "text": "I do not normally give poor reviews but this product warrants an exception. I installed the SSD in July of 2014 and it failed yesterday. There is no fix for a failure of an SSD but to replace it and begin the process of rebuilding your system. Six months does not seem to be a reasonable length of time for the expected life of product such as this. Be sure to have a secured backup of your files if you choose to install one.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "Les Sutley",
+      "helpful_votes": 2,
+      "publication_date": 20150128
+    },
+    {
+      "title": "Best price/performance SSD out there",
+      "text": "I've purchased a bunch of these 840 EVO's and I'm happier with them than any other past SSD. I've purchased dozens of SSD's since they went mainstream with the first Intel drives (X25-M). These offer some of the highest capacities at the best prices, and they feel a lot faster than some of the other major brands I've used. With past OCZ, Kingston, and Crucial SSD's I've had some problems and occasionally didn't feel like they were as fast as they should have been. The Samsung 840's always feel just right. Great drives and the best prices.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Sal Berlingeri",
+      "helpful_votes": 0,
+      "publication_date": 20140625
+    },
+    {
+      "title": "Love this drive",
+      "text": "Yes, it's more expensive than I like to pay for storage, but the awesome speed and increased durability for laptop use are worth it. I even have them in my desktops. I'll never use a spinning hard drive for a system disk again. This is a game-changing speed improvement for loading files. We had good luck with these at my old job. They used to standardize on Crucial drives, but almost all of them failed in their Dell desktops and laptops (not sure whose fault it was). They have not had the same problems with Intel and Samsung drives, so that's all they get now.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "WindGuy",
+      "helpful_votes": 0,
+      "publication_date": 20141013
+    },
+    {
+      "title": "evo 120 and 250",
+      "text": "Got the 120 for my wife's win7 older Dell laptop and 250 for my win 8.1, I-7 desktop. Both worked great cloning after weeding excess stuff off existing drives. I did wait to upgrade from win 7 to 8 to 8.1 on the desktop till after I cloned win 7. All went without a hitch with Samsung data transfer and I use Samsung magician for performance/maintenance. Next will clone my existing D:/ drive on desktop so all the installed games run much faster. Performance difference is excellent on both. Highly recommend",
+      "rating": 5.0,
+      "verified": true,
+      "author": "jerryn",
+      "helpful_votes": 0,
+      "publication_date": 20140607
+    },
+    {
+      "title": "The Samsung NAND controllers are fairly close to the best in the business",
+      "text": "As with all SSDs, this Samsung 840 EVO offered tremendous improvement in overall computer speed/responsiveness. The Samsung NAND controllers are fairly close to the best in the business. Buyer beware: There is a tool, freely available from Samsung and easy to use, that will update the firmware on this drive. The stock firmware has an error that results in unexpected \"slowing\" of the drive over time. Apart from the minor inconvenience of having to manually download the tool (which automatically does the rest itself. I can't stress how easy it is), I can't say a bad thing about this drive.",
+      "rating": 4.0,
+      "verified": true,
+      "author": "Ryan Edwards",
+      "helpful_votes": 0,
+      "publication_date": 20150103
+    },
+    {
+      "title": "Blazing fast SSD with software that is easy to operate.",
+      "text": "I originally bought a Samsung 840 because the 840 pro was out of my price range for the build i had. Then the Evo came along and let me say it easily outperforms the normal 840 and comes close to the pros performance while costing nearly 1/2 the price. Pros: With the software you can boost the ssd's performance, easy to transfer os to \"improves boot speeds beyond belief\", any application saved to it opens and can be accessed within seconds, great black on silver color scheme, data transfer rates are spectacular Cons: Not quite a Pro version",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Bradley",
+      "helpful_votes": 0,
+      "publication_date": 20140214
+    },
+    {
+      "title": "Ruined me.",
+      "text": "I will never have less than an Samsung SSD in any computer of mine now. Even though the cost is almost double of a normal hard drive, IT IS LIGHTENING FAST and more than worth the extra cost! Windows 8 boots faster than my LCD monitor! A re-boot takes all but 10 seconds. Uber reliable for over a year now. Spend once and cry once. SSD FOR LIFE!",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Fern",
+      "helpful_votes": 6,
+      "publication_date": 20140630
+    },
+    {
+      "title": "Easy installation, great improvement.",
+      "text": "I used to use Samsung Ultrabook, which contained 120GB of Samsung SSD, and now I switched to Asus Rog G750JM for my entertainment, which did not include SSD, but had old HDD. My first impression with my new laptop was, it is so slow overall! I realized its because of HDD vs SSD so I immediately purchased Samsung SSD, 250GB is pretty good amount, installed it, and now I have even faster speed than I used to have with my ultrabook because this laptop is way far superior in every ways. Samsung SSD comes with installation CD that makes replacement so easy so I had zero problem when switching from HDD to SSD.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "ByungKwon Yun",
+      "helpful_votes": 0,
+      "publication_date": 20140419
+    },
+    {
+      "title": "Blows away competitor drive",
+      "text": "Not all SSD's are the same. I purchased a PNY thinking it might be slower but for 240GB and $90 what could go wrong. Well I was only getting 200MB per second from the PNY. I installed this Samsung and like magic my transfer rates went to 520MB/S read and 510MB/S write. Amazing speed. Granted, I could boot with the PNY in 35 seconds and it worked well however now my boot is 20 seconds and it definitely sped drive response up in game. Watching permon in games the old drive would be 90%+ utilized, now with Samsung only 60% Buy it, as they say, buy once cry once.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "KevinW",
+      "helpful_votes": 0,
+      "publication_date": 20140523
+    },
+    {
+      "title": "The data migration software is so easy to use",
+      "text": "This is without a doubt the single most beneficial upgrade I have ever made to a laptop. The HDD already performed decent before this, but now it is incredibly fast in all regards. The data migration software is so easy to use, a couple clicks and a couple screws and your computer feels and acts better than it did brand new. I have been using this SSD for about a year and my computer has not slowed down in any way, installed windows 10 about two weeks ago and it works excellent with it.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Jeremy Powell",
+      "helpful_votes": 0,
+      "publication_date": 20151107
+    },
+    {
+      "title": "Gave me a hard time on install, but it's *fast*!",
+      "text": "For some reason the boot loader corrupted during install and no amount of Googling or bootsect-ing would fix it. Luckily I run a Home Server and had a full backup from the previous night, so a full restore later and this PC is flying! It's an 8-core laptop with 4 GB, but it was sloooooow with the standard platter in it, like over three minutes to boot and become responsive slow. Now it takes about 30 seconds to boot everything and programs absolutely snap onto the screen. Can't speak for longevity, but I like it so far. Just make sure you have a backup before you trust that Migration software.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Kindle Customer",
+      "helpful_votes": 0,
+      "publication_date": 20131017
+    },
+    {
+      "title": "and extremely easy to deploy as a replacement of traditional HDD",
+      "text": "Inexpensive, high performance, and extremely easy to deploy as a replacement of traditional HDD. I just followed up the easy steps to migrate my old HDD to SSD, no hassle, no typing, just let it work and replace the disks. That's it. No OS reinstall, no application reinstall, no data to restore and so on. Best part: You can keep your old HDD as a backup drive by using a $5 USB 3 Caddy.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Ludwig Von Guembes",
+      "helpful_votes": 2,
+      "publication_date": 20140813
+    },
+    {
+      "title": "Terrific SSD but minimal packaging",
+      "text": "The SSD is terrifically fast and reliable, I love its performance as a replacement boot drive in my desktop system. In fact, it has more capacity than the hard drive it replaced. Operation has been flawless since I got it three months ago, and it brought new life to an old computer for a small business. I'd give it five stars except it did not include an adapter plate to install it in a tower computer's drive bay. And it did not include screws to mount it onto anything. The adapter was not hard to find and the screws are standard hardware for hard drives, but it would've saved assembly time if I had them in advance.",
+      "rating": 4.0,
+      "verified": true,
+      "author": "Barry H",
+      "helpful_votes": 0,
+      "publication_date": 20140610
+    },
+    {
+      "title": "a necessary part of your PC.",
+      "text": "I've been using HDDs all my life and they served their time and purpose honorably. but my friend, what they say is true. it will be a long time before SDDs replaces HDDs completely but it's the perfect setup to have a SSD for your OS and apps and have the HDDs for storage and gaming. SDDs were almost unaffordable few years ago and things has changed since. you'll love it.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Bassmission",
+      "helpful_votes": 2,
+      "publication_date": 20141108
+    },
+    {
+      "title": "so good. Use the included Data Migration software for a ...",
+      "text": "So far, so good. Use the included Data Migration software for a fool proof clone operation. You cam make adjustments to partitions afterward. I used the EZ software for another PC and that PC sits like Gort...waiting, waiting, waiting. The EZ erased my C Drive!!!!! Gone are my Vids, Pix and Music downloads. PS Yes, I know one should back up their data before any ops...That's what I was doing, backing up to a new SSD!!! Rescue disks will not work becaus ALL ops have been deleted. Even the USB app is gone.",
+      "rating": 3.0,
+      "verified": true,
+      "author": "NYBill",
+      "helpful_votes": 0,
+      "publication_date": 20140911
+    },
+    {
+      "title": "Great price, easily the most \"bang for buck\" upgrade for your machine.",
+      "text": "I bought this as a boost and a holdover for my MacBook Pro till the next refresh. There is the obvious boost to the startup speed and the drive is significantly lighter than the previous non SSD model that came with my laptop. I gave it four stars because the drive came in rather skimpy packing, on the plus side it was easy to remove from its cover but I was hoping for some more protection. Included in the box is some safety and installation leaflets, a cd with some software and the obligatory stickers to announce your new upgrade.",
+      "rating": 4.0,
+      "verified": true,
+      "author": "Burhan Khalid",
+      "helpful_votes": 0,
+      "publication_date": 20141129
+    },
+    {
+      "title": "18 Month- Still Going Strong",
+      "text": "When I look for computing products, I will usually search for long-term results instead of recent purchases. That said, I wanted to make sure this drive lived up to its expectations before I left my feedback. This has been in my PC for over 18 months now and it is still working flawlessly. I just re-ran my disk speed test and the numbers are still amazing on my Win10 machine. The Samsung Magician tool is nice and simple, and I use it regularly to \"tune\" the drive.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Charles Tarna",
+      "helpful_votes": 0,
+      "publication_date": 20160816
+    },
+    {
+      "title": "That was the worse week of my life",
+      "text": "Its glorious! For gamer specs, my PC is from the stone ages (core2quad, SATA2, ddr2) but this drive still made a huge difference. I was borrowing a SSD from work, but they wanted it back, so I had to put in a platter drive for a week. That was the worse week of my life, until this was delivered. Its been several months and the drive is still kicking ass. I can never go back to platter drives (other than for media storage), SSDs are just too fast. No issue and amazing performance. If you don't have an SSD in your computer, then your computer is bad, and you should feel bad.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Hellmonkey",
+      "helpful_votes": 0,
+      "publication_date": 20141010
+    },
+    {
+      "title": "Great Quality SSD",
+      "text": "This drive is blazing fast! Unfortunately, there's already a new model out (the 850), but this one has served me well so far. I'm using it for a linux distribution, and I can't even begin to express my joy with this SSD. Exceptional quality, and not too bad of a price. Pros: - Installation is simple - Lightning fast seq. R/W - Really fast random access R/W - Easy integration in multiple environments (fresh distro detected it right away) - Lightweight yet sturdy Cons: - Slightly more expensive than competing brands, but I think it is worth it for the quality - Makes 'Sleep' functionality completely obsolete (fully boots from shutdown in < 10 seconds)",
+      "rating": 5.0,
+      "verified": true,
+      "author": "The Yeti",
+      "helpful_votes": 0,
+      "publication_date": 20150116
+    },
+    {
+      "title": "Got a couple of them",
+      "text": "So my laptop had room for 2 of them so I had to fill the space right??? Anyway - definitely sped the machine up a little as laptop drives are slower by default. This is a machine that still works great but is 5 years old so starting to be on the low end of speed. This helped that. (even after a rebuild). Also - since I had 2 drives installed before.. you'd be surprised of the noticeable weight loss of those 2 drives from these 2. probably not something the average person will notice but mentioning just in case.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "John Tye",
+      "helpful_votes": 0,
+      "publication_date": 20140603
+    },
+    {
+      "title": "Great Product and Installation Software",
+      "text": "Great product so far. Fast transfers and reduced my total boot-up time from 90 seconds to less than 30. Cloning software was very easy to use. My one criticism is that the instructions show connecting the drive to your pc with a SATA to USB cable for initial cloning and setup, but the cable is not included or mentioned anywhere in the sales documentation or on the box. Luckily I have a BlacX hard drive docking station with USB connection that I used to clone my old drive onto the SSD before installation.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "bobj",
+      "helpful_votes": 0,
+      "publication_date": 20140418
+    },
+    {
+      "title": "great little drive for the money",
+      "text": "I just changed out my HDD drive with this SSD and didn't have any issues. The software that comes with it allows you to clone your current drive and O/S and once installed it boots up (definitely quicker) just like my old drive with all of my info on my laptop. The only suggestion I would make is to buy a cable/USB that will allow you to hook up the drive to your Laptop via USB port. I bought one for $23 bucks but I wanted one now and didn't want to order it on here.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "MLM",
+      "helpful_votes": 2,
+      "publication_date": 20140218
+    },
+    {
+      "title": "FAST!!  Don't even have to reinstall Windows",
+      "text": "This is amazing!! I have four of these in the house; laptops and desktops. My boot time into Win7 and Win8 is under 30 seconds. This thing will breathe new life into any system you own. I use dual hard drives; this one holds my OS and programs and then my other hard drive just has my saved data and media on it. Have not had an issue at all. Comes with a program to clone your current hard drive to this one. No need to reinstall windows; just clone and swap and your done. Every program opens lightening fast!! I love this.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "BloodAgentTop Contributor: Star Wars",
+      "helpful_votes": 0,
+      "publication_date": 20140914
+    },
+    {
+      "title": "Get this now.",
+      "text": "SSDs are the future. Buy one and you will never regret it! File transfers are exceedingly fast and applications load a lot faster. That's the power of an SSD. This SSD is still going strong after 2 years of use. Get this version or any Samsung SSDs. Samsung products will rule the world one day, this statement should influence you to buy more Samsung products.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Kha Truong",
+      "helpful_votes": 0,
+      "publication_date": 20141128
+    },
+    {
+      "title": "but they sucked me back in",
+      "text": "Turns your computer into a T-Rex. I put this in an older Phenom and that computer now boots faster than my i7. Why do I own an i7 without one of these? I guess I will have to buy another one. I thought I was out, but they sucked me back in! Note: The software it comes to mirror the drives works great, but if you have a multi-partition drive I strongly recommend you consolidating that FIRST or you're going to have a hell of a time later.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "AcornPersonage",
+      "helpful_votes": 0,
+      "publication_date": 20141124
+    },
+    {
+      "title": "Best upgrade ever",
+      "text": "Best upgrade ever. I have my OS, all games, and all primary programs on here, while larger platter drives hold photos, movies, etc. Games load quickly. For BF4, I would wait an average of 90 to 120 seconds to load a map. Now maps load in 10-15 seconds. Boot time from pressing the power button to logged into windows is under 30 seconds, and I have a lot of programs that autostart.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "T. Oldham",
+      "helpful_votes": 0,
+      "publication_date": 20141125
+    },
+    {
+      "title": "Bow before the power of the SS Drive!",
+      "text": "If you heard you should get an SSD drive, you should! They are not only faster than hard drives, but try 20 times faster in most cases. I do image manipulation, animation, video effects and 3D modeling on an older Intel based Mac tower under Mac OSX Lion and this drive is great. Put all your applications and the system on the SSD, install it with a 2.5 to 3.5 adapter (required on my system) and see the difference. My system boots in about 3 seconds vs. the 15 seconds before. Be sure to back up everything first and image copy on to the new drive. Get one. :-)",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Casey Digital Design Inc.",
+      "helpful_votes": 0,
+      "publication_date": 20140103
+    },
+    {
+      "title": "Excellent drive and very fast file transfer's.",
+      "text": "Purchased to replace my older startup drive. Samsung utilities made it so easy to copy over my current data to this drive. No issues what-so-ever. This drive is a life safer as my system has new life now :). My startup time went from 1.30 minutes to +/- 30 seconds. The Samsung provided utilities are very easy to use so don't be afraid of buying and not being able to copy over your existing data. Samsung makes it a breeze. Very easy to configure this drive for several different options. I am glad I purchased this drive and will be purchasing another for my servers.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Greg",
+      "helpful_votes": 0,
+      "publication_date": 20141016
+    },
+    {
+      "title": "Super SSD",
+      "text": "I purchased the SSD to put new life into my wife's laptop computer. Data migration was easy with the included software (you'll need a usb to SATA cable unless you buy the kit). Then remove the old hard drive and install the SSD in its place. It's a 2.5\" form factor and should fit perfectly. Power up and enjoy the speed. Boot time went from roughly one minute to 18 seconds. Programs load almost instantly. It won't speed up graphics or processor intensive computations, but for everyday computing, it's great.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Crusader",
+      "helpful_votes": 0,
+      "publication_date": 20140907
+    },
+    {
+      "title": "Added some boom boom pow to an older laptop",
+      "text": "I replaced the hdd in my wife's old Dell XPS M1330. The included Samsung Migration software is nice. I already had a sata to usb cable, so the cloning and replacement went without issue. The ssd felt really light. Longevity remains to be seen, but in the meantime I keep her old hdd in a safe in case we need it again. I wish these would drop in price as they are still obscenely expensive when compared to their hdd counterparts. Still, it was a nice upgrade for an older laptop. Well, that and a visit to msconfig, haha.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "David",
+      "helpful_votes": 0,
+      "publication_date": 20141016
+    },
+    {
+      "title": "Excellent SSD",
+      "text": "These little guys are about the fastest SSD's on the market. When you're talking SSD, that's really saying something. We all know how fast SSD technology is. They're also great for power saving. If you don't need a terabyte of storage in your notebook, you can't go wrong. I also use these in desktops for the OS, and include a 3 terabyte HDD for storage. That combination makes for a VERY fast PC. Combine this with an FX8350 or Core i7 CPU and 8 GB RAM and you've got a really good start on a screaming fast computer.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Irwin Electronics",
+      "helpful_votes": 0,
+      "publication_date": 20141225
+    },
+    {
+      "title": "Great in Mid-2010 Macbook Pro 15\" Core i5",
+      "text": "Works great in my MBP Mid-2010. I have it about half full at the moment and it's still running great even at the Sata 2 spec that the machine supports. The link speed connects at Sata 2 by the way. No issues there like some machines with the nVidia chipset have with this drive. Mine uses the Intel chipset. Pair this with maxed out RAM and you'll extend the usable life of your machine at least 1 to 2 years. I can't believe I waited this long to do it.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "rockinwaggy",
+      "helpful_votes": 0,
+      "publication_date": 20150216
+    },
+    {
+      "title": "First two were bad - third is working just fine",
+      "text": "I don't like to count off to much for defective units, everyone gets them from time to time - the big question is that does the unit perform as expected when it is up an working. Yes, the drive works just great. AHCI If you are adding an SSD to an older system and you are not using AHCI mode you can run into issues. AHCI is better and you want to run SSDs under this mode - the problem is that all your old drives will have to be reformatted too. This makes replacing a system drive a bit more work, so be careful.",
+      "rating": 4.0,
+      "verified": true,
+      "author": "Roger Huston",
+      "helpful_votes": 0,
+      "publication_date": 20140114
+    },
+    {
+      "title": "Great Price SSD highly durable.",
+      "text": "Love this solid state drive, for the price I could not beat it, althought the 840 PRO is faster for 4k read and PC boot speed at the same size the price on this was unbeatable. I have 2 840 EVOs and am using Raid 0 on Windows 8.1 so I have a total of 500GB, and the speed benchmark runs at 1008MBps or 1.008 GBps compared to a old standard Hard drive that normaly runs anywhere form 60MBps to 180MBps on a brand new toshiba Hard drive.. The performance is great and the price is amazing for what you get.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Nick",
+      "helpful_votes": 0,
+      "publication_date": 20150122
+    }
+  ],
+  "product_meta": {
+    "title": "Samsung 840 EVO 250GB 2.5-Inch SATA III Internal SSD (MZ-7TE250BW)",
+    "description": "Samsung 840 EVO -Series MZ-7TE250BW 250GB 2.5\" SATA III Internal SSD Single Unit Version. Sequential Read Speed: 540MB/s, Sequential Write Speed: 520MB/s, 98K Random Read Speed: 86,000 IOPS, 66K Random Write Speed: 32,000 IOPS, Trim Support, Y Raid Support, Samsung MEX Controller, 1y nm Triple Level Ccell (TLC) Toggle NAND 2.0",
+    "rating": 4.7,
+    "feature_bullets": [
+      "Highest-quality components and engineering from the #1 memory manufacturer",
+      "Worry-free data security with AES 256-bit full-disk encryption",
+      "No moving parts means no hard drive spin ups, no noise and superior data protection",
+      "An innovative lightweight design that allows you to work smarter and play longer.",
+      "Sequential Read Speed 540 MB / Sequential Write Speed 520 MB / Random Read Speed 97K / Random Write Speed 66K"
+    ],
+    "specifications": {
+      "Product Dimensions": "3.94 x 2.75 x 0.28 inches",
+      "Item Weight": "1.76 ounces",
+      "Department": "Hdd",
+      "Manufacturer": "Samsung",
+      "ASIN": "B00E3W1726",
+      "Item model number": "MZ-7TE250BW",
+      "Customer Reviews": "4.7 out of 5 stars4,942 ratings4.7 out of 5 stars",
+      "Best Sellers Rank": "#569 in Internal Solid State Drives",
+      "Is Discontinued By Manufacturer": "No",
+      "Date First Available": "August 12, 2013"
+    },
+    "categories": [
+      "Data Storage",
+      "Computers & Accessories",
+      "Electronics",
+      "Internal Solid State Drives"
+    ],
+    "price": ""
+  }
+}

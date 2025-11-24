@@ -1,0 +1,962 @@
+{
+  "website_summaries": [
+    {
+      "verdict": "Sensor that connects to your WiFi network, ensuring you can receive a smartphone alert when a leak occurs.",
+      "pros": [
+        "Works in temperatures ranging from 32 to 104 degrees Fahrenheit",
+        "Receive notifications on the SmartThings app on your smartphone or through Amazon Alexa",
+        "Compared to some other smart devices, it's relatively easy to connect this water sensor to your WiFi network"
+      ],
+      "cons": [
+        "Limited to working with the SmartThings Hub system",
+        "Only runs from CR2 sized batteries"
+      ],
+      "aspects": {},
+      "publication_date": "",
+      "rating": "",
+      "source": "bestreviews"
+    }
+  ],
+  "customer_reviews": [
+    {
+      "title": "One Star",
+      "text": "So far, we had one water leak, and the sensor did not detect it even though it was submerged.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "Mike Hanley",
+      "helpful_votes": 55,
+      "publication_date": 20171119
+    },
+    {
+      "title": "What's worse is the SmartThings app says \"Everything OK\" when it ...",
+      "text": "I have two of these sensors and they just stop communicating with the SmartThings Hub and have to be manually reset by holding down the reset button. What's worse is the SmartThings app says \"Everything OK\" when it isn't even getting sensor data. I'm guessing when I actually have a leak I won't even know because the senor will have stopped communicating and I won't even know. I have opened a ticket and will update this review based on the response to the ticket.",
+      "rating": 2.0,
+      "verified": true,
+      "author": "Amz J",
+      "helpful_votes": 25,
+      "publication_date": 20171004
+    },
+    {
+      "title": "Modified review - this thing just saved my behind!",
+      "text": "I originally posted \"After only a week, the battery is already at 77%. The concrete floor that it's on is cold, but it's also very close to the Hub.\" Since then, the battery life has stabilized somewhat. Still on a very cold concrete floor, it's at 55% after a month. But it also just saved me some serious money as my water heater just broke and there's no way I would have known until my basement carpeting got very wet. So this purchase was very timely on our part!",
+      "rating": 4.0,
+      "verified": true,
+      "author": "Chris Boyle",
+      "helpful_votes": 24,
+      "publication_date": 20160117
+    },
+    {
+      "title": "False sense of security.",
+      "text": "If these lose connection to the smartthings hub there's no way of knowing. Everything will just keep showing green. I checked them before installing and they worked great. Then after about a year I went back and checked and nothing happened. Everything continued to show green. They're in the garbage now.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "Alex M Moffitt",
+      "helpful_votes": 6,
+      "publication_date": 20180210
+    },
+    {
+      "title": "Linked it up to my smart hub everything was working fine",
+      "text": "Linked it up to my smart hub everything was working fine. Had it set to send me text alerts. In the middle of the night my basement flooded and never sent me an alert. I found it floating in the middle of me basement and now it does not work at all because it is not water proof. Junk!",
+      "rating": 1.0,
+      "verified": true,
+      "author": "michael j. rich",
+      "helpful_votes": 6,
+      "publication_date": 20180301
+    },
+    {
+      "title": "Why call it customer service",
+      "text": "I have 2 homes,, 2 hubs, 7 door sensors, 4 leak detectors and 2 motion detectors. Virtually everyone has failed within 1 year of purchase. \"Unavailable\" is the most common problem. I've reset the units, removed and replaced batteries and deleted and added the units back in until the app would no longer allow me to delete non-working units. My guess is I've spent $400.00 on the most useless Samsung product line. When you contact Customer Support they either do not respond or say thanks for contacting us and do nothing or provide no help. Do not buy.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "Jim E",
+      "helpful_votes": 0,
+      "publication_date": 20190202
+    },
+    {
+      "title": "Works, extra layer of monitoring.",
+      "text": "Came well packaged. Setup was a breeze, hold down button, wait for light blinking, and search for it in your samsung home app. Easily adopted. I've been checking it for some time now, daily to make sure the temp registering is changing on occasion. I don't feel like manually 'testing' this, so the changing temps told me the unit was working. Also, once fully submersed, it will stop registering, as its it not totally waterproof. So you will get the initial alarms, but if its a bad flood, it will stop reporting once its well .. soaked.",
+      "rating": 4.0,
+      "verified": true,
+      "author": "Thomas R",
+      "helpful_votes": 2,
+      "publication_date": 20180514
+    },
+    {
+      "title": "Unreliable... 2 out of 3 would no longer stay connected",
+      "text": "Originally purchased 3 of these. Had to replace all 3 under warranty at various times. 1 replacement failed under warranty. And another of the replacements failed about a year after the warranty They give you no warning that they are disconnected / no longer working, they just stop. Very dangerous if you're trusting these to give you early warning of a water leak. Support extremely slow to respond, asks to repeat the same steps over and over, and they require you to return the device before they send a replacement.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "Ryan",
+      "helpful_votes": 0,
+      "publication_date": 20200412
+    },
+    {
+      "title": "Very small and effective, but Zigbee (not Zwave)",
+      "text": "Very small and easy to place, and the long battery life (projected 5 years) is a plus. Tested by putting in some water and the SmartThings app picked it up within 2-3 seconds. I was trying to pair with my Vera app but did not realize its Zigbee and apparently each Zigbee device requires its own \"driver\" so its not supported as of yet (from Vera forum).",
+      "rating": 4.0,
+      "verified": true,
+      "author": "Avic",
+      "helpful_votes": 2,
+      "publication_date": 20171108
+    },
+    {
+      "title": "Detects leaks reliably",
+      "text": "After a water leak that would have been disastrous if I hadn't gotten up and stepped in a cold puddle in the middle of the night I decided I didn't want to leave it to chance any more. Now I have one under each sink, under the washing machine, and one under the dishwasher. So far there have been zero false alarms, but did detect a problem under the kitchen sink and alert me right away before the problem got out of hand.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "J. Flood",
+      "helpful_votes": 0,
+      "publication_date": 20191202
+    },
+    {
+      "title": "Already saved me!",
+      "text": "These products are very simple to setup and use. I've had it setup for a couple months and a couple weeks ago, my phone alerted me. It was the water sensor I put under the water heater in the garage. Notified me of a small leak, that turned out to be a bad connection, and easily fixed. Without this sensor in place, the leak may have gone unnoticed for weeks and could have caused significant damage. Absolutely worth the piece of mind, and I will be ordering more for other areas of the house.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Anthony",
+      "helpful_votes": 0,
+      "publication_date": 20190130
+    },
+    {
+      "title": "Simple and easy to install and use",
+      "text": "You have to love something that just plain works. Connected to the SmartThings hub with ease, placed one in the Laundry Room and the other under the Kitchen Sink. Within seconds, the Kitchen Sink sensor was reporting wetness. Took a look and there was saturation from a slow leak coming from our Reverse Osmosis system. I'd never noticed it before. I'm buying a couple more of these now, one for the Hot Water Heater and the other for outside our refrigerator (we have a sticking Water / Ice feed there in the door.)",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Mitchell BellTop Contributor: Smart Home",
+      "helpful_votes": 0,
+      "publication_date": 20170804
+    },
+    {
+      "title": "Super easy to set up with Smartthings hub but note newer version of same item.",
+      "text": "We had a grinder pump failure a couple of months ago. This would have saved us a lot of headache had we had these. In fact, I'm buying more to put wherever we have water just as a warning. But was easy to set up with smartthings hub. Only downside in the hub automation is I can only text one phone number. So I set up the ifttt gateway to dial my wife's mobile phone if the sensors detect water. They also measure temperature which was completely unexpected. But take note. There is a newer version of the same item! I did not notice.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Alex P.Top Contributor: Photography",
+      "helpful_votes": 0,
+      "publication_date": 20180817
+    },
+    {
+      "title": "Waste of money.",
+      "text": "I bought this after moving into a new home and experiencing leaks from my washing machine. I placed it next to the washer in a drip pan I placed under the machine, thinking that if it leaked the sensor would notify me and I would be able to stop it quickly. Turns out, it didn't. I never got a notice and at the end of the day, when I thought to check on it, it was sitting in a pool of water and the sensor had corroded. What a waste, glad I bought the tray or my flooring would have been ruined!",
+      "rating": 1.0,
+      "verified": true,
+      "author": "MamaMags",
+      "helpful_votes": 0,
+      "publication_date": 20191113
+    },
+    {
+      "title": "Works perfectly",
+      "text": "I have 3 of these. One by my sump pump, one by the washing machine, and a third in the pan of my HVAC. I hook them into my Samsung SmartThings hub (really easy to configure). I have it set up so that if any of them sense water it sends a text and push notification to my wife\u2019s cell and mine. If the sensor by the sump or washing machine get wet it also closes a shutoff valve that I have on my water main (Dome valve). I tested it and it works great. A single drop of water causes it to trigger.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Traxbe",
+      "helpful_votes": 0,
+      "publication_date": 20180219
+    },
+    {
+      "title": "The best",
+      "text": "THIS SAVED ME. Christmas eve i was having a little bubbly and eating some cakes and my phone lit up and alerted me that my leak sensor detected water.. i ran down stairs to find that my water heater gas valve was stuck and water was spewing water out of the release valve. If i did not have this sensor the whole basment could have flooded before i noticed. Truely thankful for this little guy. i will be buying one for anywhere water may be.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Dirty_Dog",
+      "helpful_votes": 2,
+      "publication_date": 20170111
+    },
+    {
+      "title": "Had these sensors for two months and I'm not a fan...",
+      "text": "I have two of these sensors. They both work for two weeks offering status updates on activity feed of temperature and if it's dry or not, then suddenly on app it says \"\"this device is unavailable at the moment\" . Only way to get device to work again is to reset each sensor and pull battery out for a minute and put back in unit. Sensors read 100% battery strength. They are within range of hub, they just stop reporting status.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "Bradfield Family",
+      "helpful_votes": 9,
+      "publication_date": 20170817
+    },
+    {
+      "title": "Worked for me",
+      "text": "Someone left the sink on in the laundry room. Got the alert, texted them, and they stopped it before it spread to the finished area. 4 stars because Smart Things as a whole can be unreliable with signal and battery life and it has me worried (not with this water sensor, but with connections to devices in general). But in this instance, worked perfectly fine. Here's to hoping it will work next time.",
+      "rating": 4.0,
+      "verified": true,
+      "author": "Wes F.",
+      "helpful_votes": 0,
+      "publication_date": 20181126
+    },
+    {
+      "title": "It does report water leak OK, but when there ...",
+      "text": "Updates 8/15/16: After the first leak occurs under our kitchen sink months ago, this sensor starting to leak out some rusty liquid and triggered multiple times the whole night SmartThings: If this is a water leak sensor, at least make this water proof!! It does report water leak OK, but when there is a leak, this thing will drains out the battery at sonic speed",
+      "rating": 2.0,
+      "verified": true,
+      "author": "Charles Wong",
+      "helpful_votes": 12,
+      "publication_date": 20160713
+    },
+    {
+      "title": "works great, battery lasts forever",
+      "text": "I have 6 of these and things were great at first. I started having problems with sensors disconnecting and sometimes I couldn't get them to reconnect. But it turned out it was my smartthings v2 hub going bad. I just bought a new smartthings v3 hub and all 6 sensors connected no problem. Batteries are still at 70% after 2 years and 4 months.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Nathan Tomlin",
+      "helpful_votes": 0,
+      "publication_date": 20200524
+    },
+    {
+      "title": "Compact unit, but will it drown ? Needs a provision for water heater overflow tray use",
+      "text": "My water heater apparently had an overflow issue into its circular tray...& I did not notice it right away. Natch, rust now surrounds approx bottom 1 1/2 in :( So, I bought this for any future occurrences. But, surely it will get overcome by water depth... I glued (2) wine corks to the long sides to perhaps allow it to float, not drown, short out etc when another overflow occurs. Time will tell I guess...",
+      "rating": 4.0,
+      "verified": true,
+      "author": "Qwerty",
+      "helpful_votes": 2,
+      "publication_date": 20170128
+    },
+    {
+      "title": "Saved my behind!",
+      "text": "Ok. This thing officially saved my behind. Had a small hot water leak, but not big enough to notice right away due to hot water still coming out of the pipes. It would have filled my basement had I not been notified via SmartThings. This has now paid for itself. The mess and potential permanent damage it saved me.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Joseph maldonado",
+      "helpful_votes": 0,
+      "publication_date": 20180306
+    },
+    {
+      "title": "Inconsistent, and therefore unreliable.",
+      "text": "Very inconsistent devices. I bought a number of these at the same time, one drains it's battery super fast (in comparison to the other units), another has simply stopped responding...all unfortunately after the 1 month return period from Amazon. Would recommend you look else where if you want something to install and feel confident that it's working.",
+      "rating": 2.0,
+      "verified": true,
+      "author": "Chris Means",
+      "helpful_votes": 0,
+      "publication_date": 20180327
+    },
+    {
+      "title": "Work really well for me",
+      "text": "These leak sensors work really well for me. They are much more reliable than the SmartThings multipurpose sensors, which all failed on me within 1.5 years or so. These have been going strong for almost three years now and they work really well to detect water. I sprinkled a small amount of water on them to test and they immediately notify my hub where I set it up to alert me via notification and e-mail, as well as by siren if overnight. These are a good deal when they drop under $25 each.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Juniorverse",
+      "helpful_votes": 0,
+      "publication_date": 20180115
+    },
+    {
+      "title": "to the point that I\u2019m certain these are just not of good quality (and confirmed by reading other reviews) and require ...",
+      "text": "Only stay on network for a few weeks tops. Most reliable thing about them is their unreliability/constant going off network. Two water issues since purchasing these for all over the house - and both water leak sensors had gone off network recently and did not alert. I\u2019ve tried many different methods of reducing interference, to the point that I\u2019m certain these are just not of good quality (and confirmed by reading other reviews) and require constant baby sitting.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "Jenna",
+      "helpful_votes": 0,
+      "publication_date": 20180606
+    },
+    {
+      "title": "Smarthings saves the day...again.",
+      "text": "This was an addition to our Smarthings setup as insisted by my wife, for under the dishwasher. We installed it last week. Yesterday we got an alert on our phone while away from home of a water leak...at the dishwasher. I was really hoping it was a false alarm, but it was not. There was a very small leak at the front left of the dishwasher. This is not the first time a Smarthings device as saved the day, and I am sure won't be the last.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "E. Rylant",
+      "helpful_votes": 0,
+      "publication_date": 20180603
+    },
+    {
+      "title": "Random connectivity issues with Wink Hub 2 despite certifies.",
+      "text": "It does seem to work well when it is connected but I\u2019ve had a couple of times that it\u2019s dropped off my Wink Hub 2 (which it is certified to be compatible) network despite having lots of other Zwave devices nearby to connect with. I\u2019m going on about 20 days straight now, but it leaves me a little concerned if I\u2019m ever traveling for a long period and lose connectivity. It\u2019s the only device on my network that seems to have this issue.",
+      "rating": 3.0,
+      "verified": true,
+      "author": "AlyWil",
+      "helpful_votes": 0,
+      "publication_date": 20180725
+    },
+    {
+      "title": "Awesome battery life.",
+      "text": "Great z-wave water sensor, had mine for several months and still shows 100% battery. I was a bit worried about battery life judging by other reviewers, and the fact that this sensor cannot be hard-wired but now I know those worries were unjustified. I forgot I had it since no maintenance has been required but it keeps working fine.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Gregory Ostrowski",
+      "helpful_votes": 0,
+      "publication_date": 20170905
+    },
+    {
+      "title": "Failed product in one month no support!!",
+      "text": "I bought 5 and 2 failed within one month. When I tried to open a claim on Samsung web page it gives an error with \"Possible reasons for the error include serial/IMEI number is not valid*, product is older than 3 years, product was purchased outside the U.S.\" Why is Amazon selling a decommissioned product? *: Which I triple checked even with a barcode reader.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "John Adams",
+      "helpful_votes": 0,
+      "publication_date": 20181208
+    },
+    {
+      "title": "Stops transmitting without notification",
+      "text": "This device regularly stops responding, providing no protection. Even worse, there is not a notification when it goes offline. I can't recommend this device for monitoring water or leaks, it is simply not reliable and has proven to be quite a headache.",
+      "rating": 2.0,
+      "verified": true,
+      "author": "Anon412",
+      "helpful_votes": 0,
+      "publication_date": 20200710
+    },
+    {
+      "title": "Water + Temp = Awesome!",
+      "text": "I really debated on the 5 stars here. It really is a good product, my only beef was that the battery was at 68% when I first connected. Other then that it's really incredible that it has temperature and flood detectors. It's EXACTLY what I need beneath the sink in my cabin in the mountains. If ti gets anywhere close to freezing in any of the remote locations in the house I can flip on the heaters to warm it up, even if the thermostat doesn't think it needs to turn on.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "cpIdaho",
+      "helpful_votes": 2,
+      "publication_date": 20151118
+    },
+    {
+      "title": "Not reliable...look elsewhere.",
+      "text": "These are not reliable. They constantly disconnect from the hub and you'd never know it. You essentially have to test them daily by placing them in water to see if they still work. If not - then rejoin to the hub. Eventually one of the two I have just quit working. I've noticed this to be true of all of Samsung's 1st generation sensors. Buy their competitors.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "AHL",
+      "helpful_votes": 0,
+      "publication_date": 20181016
+    },
+    {
+      "title": "Easy and flexible install, good signal.",
+      "text": "Paired into my mesh network very easily even when about 20 feet away from the next Z-wave device. The standard driver from Smartthings worked great on this. I placed one next to the water heater to monitor for any leaks. Good peace of mind for any area that may eventually leak.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "LBritoTop Contributor: Smart Home",
+      "helpful_votes": 2,
+      "publication_date": 20161206
+    },
+    {
+      "title": "What a disappointment",
+      "text": "Everything I have bought for the Samsung Smart Things system constantly disconnects. I have tried everything service suggests, and my house is small. I'm pretty invested in this, meaning I've paid for a lot of their garbage, that seems to get worse and worse every time they put out an update. What a disappointment.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "Amazon Guy",
+      "helpful_votes": 0,
+      "publication_date": 20181028
+    },
+    {
+      "title": "They just work",
+      "text": "I bought these and put them under the dish washer and behind the washing machine. I then paired these with a z-wave ball valve. This pairing allows my smart home to turn off the main water valve if a leak is detected. I plan on putting more of these around the house for more protection. There is a newer version that has top sensors as well, also an audible alarm.",
+      "rating": 4.0,
+      "verified": true,
+      "author": "William H.",
+      "helpful_votes": 0,
+      "publication_date": 20180823
+    },
+    {
+      "title": "Beware Z-Wave users, this sensor is ZigBee",
+      "text": "I am a happy (most of the time) owner of a SmartThings hub and many Z-wave devices. Imagine my surprise when I couldn't get my new Samsung sensor to report from under my frig which is within 6 ft of a operating Z-Wave dimmer switch. Turns out this is a ZigBee device that won't talk to Z-Wave. Samsung rep told me to buy another ZigBee device to repeat ZigBee signal to water sensor. Samsung Please disclose this to buyers up front.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "Bruce",
+      "helpful_votes": 7,
+      "publication_date": 20171106
+    },
+    {
+      "title": "Good product, great peace of mind.",
+      "text": "Fewer features than the Fibaro water leak sensor, but still very decent. Note: It has a smaller battery than similar products, and I suspect it may need replacements 3-4 times per year (mounted 50 feet from my hub, through two drywall walls). I wish it had a larger CR123 lithium battery. Watch for their occasional 20% off sale!",
+      "rating": 4.0,
+      "verified": true,
+      "author": "Ranger",
+      "helpful_votes": 2,
+      "publication_date": 20160421
+    },
+    {
+      "title": "Great Little Unit for HUGE Peace of Mind!",
+      "text": "WOW! This product is GREAT! Reasonably priced \"insurance\" against water leakage/overflow damage. Very small and unobtrusive Very, Very easy to connect through WiFi. No complaints whatsoever.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "bkbobo",
+      "helpful_votes": 0,
+      "publication_date": 20180202
+    },
+    {
+      "title": "Ordered a bunch of these when they were on sale ...",
+      "text": "Ordered a bunch of these when they were on sale. One of them showed up DOA (always registered 'wet') but Samsung replaced it right away.",
+      "rating": 4.0,
+      "verified": true,
+      "author": "J Gentry",
+      "helpful_votes": 2,
+      "publication_date": 20171225
+    },
+    {
+      "title": "Not for use on concrete floors",
+      "text": "It seems like this unit doesn't like the concrete floor for some reason. I keep getting leak alerts and there's absolutely no water where the sensor is. I have another o e of these units on the tile in my kitchen and it's worked flawlessly, but this new one is terrible.",
+      "rating": 3.0,
+      "verified": true,
+      "author": "What's in a name",
+      "helpful_votes": 2,
+      "publication_date": 20170307
+    },
+    {
+      "title": "Grate product, Upps sent 4 stars too soon!",
+      "text": "Leak detector was sent on time and works as described. Grate product works with SmrtThings hub along with many other devices I\u2019ve installed Not so fast, a few weeks in service two of the three leak detectors became \u201c UNAVAILABLE\u201d. I reset (repaired) and again lost signal a several days later. These are installed in my vacation home and without being reliable there basically useless.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "jimbo",
+      "helpful_votes": 0,
+      "publication_date": 20180716
+    },
+    {
+      "title": "Unreliable out of the box",
+      "text": "Maybe decent, but hard to tell: got 6 of these and within the first week after installing, 3 are \"Unavailable\" in SmartThings. Since they're in a property an hour away, I'm next going to try new batteries. However, I don't have high hopes that the batteries will have a reasonable span (a year would be fine).",
+      "rating": 2.0,
+      "verified": true,
+      "author": "JP",
+      "helpful_votes": 0,
+      "publication_date": 20180531
+    },
+    {
+      "title": "Seems to work fine.",
+      "text": "So far this has just given me a piece of mind because I have not had a flood to detect. However, it has been connected to the hub for a month and has never disconnected. It also relays the temp so I use that as a backup for my thermostat. Had it a month and the batter is still at 99% according to the app.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "JB",
+      "helpful_votes": 0,
+      "publication_date": 20170321
+    },
+    {
+      "title": "Great little device",
+      "text": "I've not had any issues. It triggers the alarm with very little moisture. Highly recommended on the floor around hot water heaters, which is where I have mine. No false alarms yet.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "IT Guy",
+      "helpful_votes": 0,
+      "publication_date": 20180505
+    },
+    {
+      "title": "A Practical Add-on to Your Network",
+      "text": "I added this to my cart after deciding to buy the Samsung SmartThings Home Monitoring Kit. Monitoring for water leaks was an important practical reason for my investment in Samsung SmartThings. Our implementation isn't just for fun and show. I really wanted ours to add real value -- and it does.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "T. L. Cummings",
+      "helpful_votes": 0,
+      "publication_date": 20161229
+    },
+    {
+      "title": "An ounce of prevention...",
+      "text": "I've already saved a lot of money because I purchased this product. Not long after I placed it under my sink, I was at work one afternoon and received an alert on my phone. It said that moisture was detected. Long story short.. The price of this sensor saved me FAR more than what I paid for it.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Bamablueheat",
+      "helpful_votes": 2,
+      "publication_date": 20161015
+    },
+    {
+      "title": "Setup was a easy with Smart Things hub",
+      "text": "Used this in our vacation home. I usually turn the main water valve off when we leave but I put this sensor close tot he water heater tank in case it ever leaks. It's in the crawl space and wouldn't really do a lot of damage but I still want to be alerted if there is ever an issue. Setup was a easy with Smart Things hub.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Grandpa45",
+      "helpful_votes": 0,
+      "publication_date": 20160919
+    },
+    {
+      "title": "Samsung at it's best",
+      "text": "We love our Samsung Smartthings home. This product paired quickly and compliments our other Samsung products nicely. We placed this in our washer bin to alert us if we have an issue with the backed up drain in our washer.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "rmt1980",
+      "helpful_votes": 0,
+      "publication_date": 20181017
+    },
+    {
+      "title": "These are pretty quick to detect leaks",
+      "text": "These are pretty quick to detect leaks. The only problem is they seem to go offline more than I'd like. Usually a reboot or a reboot and quick press on the button inside the sealable case picks them back up again.",
+      "rating": 4.0,
+      "verified": true,
+      "author": "Rob",
+      "helpful_votes": 0,
+      "publication_date": 20171127
+    },
+    {
+      "title": "Great little sensor",
+      "text": "We kept getting basement flooding when the sump pump went out. This little device keeps us alerted when water contacts it. Perfect for home monitoring with the Samsungs SmartThings hub.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "M. James",
+      "helpful_votes": 0,
+      "publication_date": 20190125
+    },
+    {
+      "title": "Simple and Effective.",
+      "text": "Works exactly as intended, has an compact form factor, i.e. no dangling wires that need to be coiled up, and I bought these at a bargain price. The temperature reporting function is great too as it updates at 1oF temperature changes which is also a good way to know that the sensor is alive and well.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "cr",
+      "helpful_votes": 0,
+      "publication_date": 20180112
+    },
+    {
+      "title": "These little water leak sensors have already saved me a ...",
+      "text": "These little water leak sensors have already saved me a few times since getting them. I bought them after having my sump pump fail and the little frog sensor not being loud enough for me to hear while I was sleeping two floors away. These sensors with the SmartThings hub are able to alert my phone and save me time and money in cleanup for any failures or backups. I just wish they were a bit cheaper so I could buy one for every water connection in my house.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "dbj",
+      "helpful_votes": 0,
+      "publication_date": 20180103
+    },
+    {
+      "title": "Cannot get submerged under water but worked great",
+      "text": "Works great until it submerses. That makes it a single use sensor. You would think it would be water proof. I do have to say it saved my butt and think it was money well spent for me. I\u2019m just a little disappointed it was distroid when it got wet.",
+      "rating": 3.0,
+      "verified": true,
+      "author": "brian Sutcliffe",
+      "helpful_votes": 0,
+      "publication_date": 20181106
+    },
+    {
+      "title": "Keep loosing connection although Smart hub is only 25 feet from the sensor",
+      "text": "Range is very limited and not reliable. Keep loosing connection although Smart hub is only 25 feet from the sensor.",
+      "rating": 2.0,
+      "verified": true,
+      "author": "67GearHead",
+      "helpful_votes": 2,
+      "publication_date": 20171015
+    },
+    {
+      "title": "Connection can be an issue.",
+      "text": "Bought two of these. They are very picky about being close to a hub, but that's a bit of a problem since they're pretty much meant to be in out of the way places. I lose connection on the one that is a little farther from the hub too often.",
+      "rating": 3.0,
+      "verified": true,
+      "author": "Rob",
+      "helpful_votes": 0,
+      "publication_date": 20180730
+    },
+    {
+      "title": "making it easy to place just about anywhere it is needed",
+      "text": "Connects to the Samsung SmartThings hub without issue, and does the job it was intended to do. Response time is acceptable. The device itself is small and unobtrusive, making it easy to place just about anywhere it is needed.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "LA Dawson",
+      "helpful_votes": 0,
+      "publication_date": 20170415
+    },
+    {
+      "title": "It paired with my SmartThings hub easily but it took me a bit to figure out ...",
+      "text": "Unfortunately for me I found out that this does in fact work! It paired with my SmartThings hub easily but it took me a bit to figure out the best way to use it. I set up text alerts and it worked like a charm.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Zoey",
+      "helpful_votes": 0,
+      "publication_date": 20180505
+    },
+    {
+      "title": "Great sensor",
+      "text": "Works as it should. I even placed in on a wet towel to see if it can detect it and the sensor did read the surface as wet. I placed a towel down because I wanted it to soak up the water so it doesn\u2019t sit to long on the floor causing rot.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Monster_Review",
+      "helpful_votes": 0,
+      "publication_date": 20180113
+    },
+    {
+      "title": "Tested and works fine.",
+      "text": "Battery seems to last forever. It is under my water heater in the mechanical room to notify me of leaks since we don't go in there ever. The temperature thing is cool just for FYI. I suppose you could use it for temperature only. Pretty much set up the alerts through smart things and your phone and forget about it.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "John Roberts",
+      "helpful_votes": 0,
+      "publication_date": 20181114
+    },
+    {
+      "title": "These are great and offer me peace of mind",
+      "text": "These are great and offer me peace of mind. There have been some occasional connectivity issues, but nothing too serious. I'm glad I got these.",
+      "rating": 4.0,
+      "verified": true,
+      "author": "Sheldon Storey",
+      "helpful_votes": 0,
+      "publication_date": 20180426
+    },
+    {
+      "title": "No False Alarms, Seems to Work Very Well",
+      "text": "I guess the only way to really know that it is a 5 star product is that it works that one time you actually need it to. That said, I luckily have not had to use it yet. No false alarms so far and worked perfectly when I tested it which is about as much as I could ask for without a flood.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "D. Smith",
+      "helpful_votes": 0,
+      "publication_date": 20170112
+    },
+    {
+      "title": "great value and easy to use",
+      "text": "sync'd up very quickly and easily to my Wink Hub Tested it out with some water on a plate and my phone alerted me right away. Will be setting this up by the sump pump incase of failure",
+      "rating": 5.0,
+      "verified": true,
+      "author": "ryanjv",
+      "helpful_votes": 0,
+      "publication_date": 20180709
+    },
+    {
+      "title": "Very easy to pair with Smartthings and work fine based on ...",
+      "text": "Very easy to pair with Smartthings and work fine based on testing. I wish they were cheaper so I can put the in every potential leaking area of the house.",
+      "rating": 4.0,
+      "verified": true,
+      "author": "AL",
+      "helpful_votes": 0,
+      "publication_date": 20171203
+    },
+    {
+      "title": "Easy to sync",
+      "text": "These are very simple to connect and so far they work great. The only thing I dislike is they go offline after a few days. Others have commented that they have tested them and they come back on line if they contact moisture.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Grover Mccann",
+      "helpful_votes": 0,
+      "publication_date": 20171219
+    },
+    {
+      "title": "... put down by washer in case of water I'm glad I did",
+      "text": "I bought this to put down by washer in case of water I'm glad I did. Got an alert on my phone when I had a leak. It saved me from getting a lot of water damage",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Joseph Paulhus",
+      "helpful_votes": 0,
+      "publication_date": 20170718
+    },
+    {
+      "title": "one was defective, did not connect despite resets and ...",
+      "text": "one was defective, did not connect despite resets and multiple tries (and different batteries, all within 1 ft of the hub) one has a short range this is all used with the smartthings hub within a 1700sqft house",
+      "rating": 4.0,
+      "verified": true,
+      "author": "EvilTechie",
+      "helpful_votes": 0,
+      "publication_date": 20180119
+    },
+    {
+      "title": "Disconnect within a few weeks of purchasing",
+      "text": "I have purchased seven of these and all but one have disconnected in about a month or less. The dome leak sensor I have found is much better.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "Mystery",
+      "helpful_votes": 0,
+      "publication_date": 20181208
+    },
+    {
+      "title": "The only issue was that I got an alert every hour for like 24 hours until I finally figured out how to ...",
+      "text": "Works as expected. I've tested it a couple times and I see the alerts on my phone. The only issue was that I got an alert every hour for like 24 hours until I finally figured out how to turn it off. That part needs to improve. I use the SmartThings app.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Robert R.",
+      "helpful_votes": 2,
+      "publication_date": 20160120
+    },
+    {
+      "title": "I use it with Smart Things and the battery usage has been negligible after ...",
+      "text": "Works as advertised. I tested it and it functioned properly. I use it with Smart Things and the battery usage has been negligible after several months.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "James",
+      "helpful_votes": 0,
+      "publication_date": 20170905
+    },
+    {
+      "title": "Great sensor for my sump pump",
+      "text": "Great sensor for my sump pump. The sensors are very close to touching the floor so it gives an immediate alert with any moisture. Excellent range too, with it in my basement it has no trouble connecting to the hub upstairs.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Unwound",
+      "helpful_votes": 0,
+      "publication_date": 20180115
+    },
+    {
+      "title": "Works great! I was happy I had it",
+      "text": "Works great! I was happy I had it, as a few days after we got it, the kitchen sink started to leak. Saved a bunch of time and probably a big mess. I have them now all over the house.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Jim",
+      "helpful_votes": 0,
+      "publication_date": 20180722
+    },
+    {
+      "title": "Disappointing",
+      "text": "Drops connection repeatedly despite many z wave products (incl powered) around it. This is not the kind of performance you want with an important sensor such as this.",
+      "rating": 2.0,
+      "verified": true,
+      "author": "AmazonGuy13",
+      "helpful_votes": 0,
+      "publication_date": 20181013
+    },
+    {
+      "title": "Does The Job",
+      "text": "I bought these sensors for nine locations and will be installing a LeakSmart shut-off valve. I had a minor leak under our kitchen sink and was alerted by an alarm (separate item; these sensors have no audible alert) and phone notification. Simply put, it worked.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "GP",
+      "helpful_votes": 0,
+      "publication_date": 20170306
+    },
+    {
+      "title": "Saved my house!",
+      "text": "I have 4 of these now. They work great. Yes, I had a HVAC leak this caught while it was only a few drops!! Saved my house! Cheap and simple to use.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Amanda",
+      "helpful_votes": 0,
+      "publication_date": 20180706
+    },
+    {
+      "title": "\"Unavailable\"... do not spend the money",
+      "text": "Just returned two new devices after finding the rest of them in my home are reporting \"unavailable\". People have been having this problem for a long time and Samsung has not commented.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "Paul at PB",
+      "helpful_votes": 0,
+      "publication_date": 20180909
+    },
+    {
+      "title": "Tested this thing with a little bit of water on ...",
+      "text": "Tested this thing with a little bit of water on my finger and it detected moisture, so far it has worked as expected.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Zeus",
+      "helpful_votes": 0,
+      "publication_date": 20171121
+    },
+    {
+      "title": "Five Stars",
+      "text": "works great - just wet your finger and place it on the contacts and it responds. Highly recommended",
+      "rating": 5.0,
+      "verified": true,
+      "author": "BOB H",
+      "helpful_votes": 0,
+      "publication_date": 20171218
+    },
+    {
+      "title": "So far so good - gives me comfort that if the water heaters ...",
+      "text": "So far so good - gives me comfort that if the water heaters do leak, I'll have a chance to do something before the water damages anything.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "P. Goel",
+      "helpful_votes": 0,
+      "publication_date": 20171003
+    },
+    {
+      "title": "Instant reaction during testing. Have 11 of these deployed ...",
+      "text": "Instant reaction during testing. Have 11 of these deployed in my home at places where water could leak for early warning. Plan to eventually pair with a z-wave water shut-off valve.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Greg A",
+      "helpful_votes": 0,
+      "publication_date": 20170228
+    },
+    {
+      "title": "Works then disconnects",
+      "text": "After about 1 years of use, it now constantly disconnects. You have to pair it all the time..not good.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "Gordon Lee",
+      "helpful_votes": 0,
+      "publication_date": 20190831
+    },
+    {
+      "title": "overall a good product",
+      "text": "The only Issue is they loose connection every other day for a minute or so and sets off alert. Otherwise they work great.",
+      "rating": 3.0,
+      "verified": true,
+      "author": "Gary",
+      "helpful_votes": 0,
+      "publication_date": 20171127
+    },
+    {
+      "title": "Works great, but battery life is very poor",
+      "text": "Works great, but battery life is very poor. Down to 77% from 100% after just a few days! I bought directly from Samsung / SmartThings store, not from Amazon, which I would think is the best possible source.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "Steve S",
+      "helpful_votes": 2,
+      "publication_date": 20160611
+    },
+    {
+      "title": "Works great. Put in deep freezer to report if freezer ...",
+      "text": "Works great. Put in deep freezer to report if freezer stop working. Has worked at -11. Happen to have a switch right next to fridge that I am guessing helps with signal strength.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "newbostonconst",
+      "helpful_votes": 0,
+      "publication_date": 20170616
+    },
+    {
+      "title": "One Star",
+      "text": "No good, gives you false alarms and sometimes do not send alerts for the real alarms",
+      "rating": 1.0,
+      "verified": true,
+      "author": "Jorge Valls",
+      "helpful_votes": 0,
+      "publication_date": 20171015
+    },
+    {
+      "title": "Does the job!",
+      "text": "Nice compact unit that includes temperature monitoring. I would like to see some mounting tabs or something to help anchor the unit to the floor near my hot water heater. Without it i am concerned the small unit will get kicked out of place. Works perfectly with my Smart Things hub and downloaded app.",
+      "rating": 4.0,
+      "verified": true,
+      "author": "Ski Bum",
+      "helpful_votes": 0,
+      "publication_date": 20160218
+    },
+    {
+      "title": "Good to have to protect against flooding damage",
+      "text": "I've owned this for several months and still have over 70% battery remaining. Haven't had any connectivity issues, even though it's on a different floor from the hub. Good to have to protect against flooding damage.",
+      "rating": 4.0,
+      "verified": true,
+      "author": "Jay",
+      "helpful_votes": 0,
+      "publication_date": 20161230
+    },
+    {
+      "title": "Real Peace of Mind",
+      "text": "Easy to set up, needs the hub of course. I put one in the guest bath, one in the master bath, and one in the kitchen. The iPhone app is good and will probably get better over time. In the 'things connected' panel, it's hard to know which device is which without viewing each one. My wife accidentally splashed a tiny amount of water near the one in our guest bath the other day, my phone lit up with a string of texts. Exactly what I needed, something that will actually get my attention. I travel a lot but I can't shut everything down each time, so this is real peace of mind for me.",
+      "rating": 4.0,
+      "verified": true,
+      "author": "mattski",
+      "helpful_votes": 2,
+      "publication_date": 20150515
+    },
+    {
+      "title": "I feel much better when I leave for a week or weekend knowing ...",
+      "text": "I bought this with the Samsung hub and the water shutoff valve. I feel much better when I leave for a week or weekend knowing that even a small leak near any of the sinks, bathroom, water softener or in the laundry room won't completely flood the basement.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Shcubasteve",
+      "helpful_votes": 0,
+      "publication_date": 20180125
+    },
+    {
+      "title": "Thankfully I've only tested these, but they work as ...",
+      "text": "Thankfully I've only tested these, but they work as expected. Hoping I don't get any leaks, but peace of mind is worth the investment if you have some leak prone areas.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Darlene",
+      "helpful_votes": 0,
+      "publication_date": 20180212
+    },
+    {
+      "title": "Works",
+      "text": "Basic water sensor that works well with my Smartthings home",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Max AMillion",
+      "helpful_votes": 0,
+      "publication_date": 20190416
+    },
+    {
+      "title": "Easy to setup",
+      "text": "Paired easily with Smarthings hub, temperature reading needed a slight adjustment but easy to do in the Smarthings app. I tested the water sensor and it works.",
+      "rating": 4.0,
+      "verified": true,
+      "author": "IPPete",
+      "helpful_votes": 0,
+      "publication_date": 20180108
+    },
+    {
+      "title": "Easy to set up",
+      "text": "Easy to set up. Tried several practice water leaks before putting it in the crawl space. Triggers quick and seems reliable. Haven\u2019t had a real leak so only time will tell.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Karp",
+      "helpful_votes": 0,
+      "publication_date": 20171125
+    },
+    {
+      "title": "Works great. A bit pricey. Would love to see it cheaper. ($20).",
+      "text": "Fantastic. Works great, as advertised! The whole SmartThings platform has been GREAT for me so far. It took me a very long time to make a decision between them and Insteon and Wink and I finally zero'ed in on SmartThings and I could not be happier.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "EEFRAT",
+      "helpful_votes": 0,
+      "publication_date": 20160308
+    },
+    {
+      "title": "Good product but keeps disconnecting for no obvious reason",
+      "text": "Good product but keeps disconnecting for no obvious reason. Battery positive does not feel to be making good contact with sensor terminal.",
+      "rating": 3.0,
+      "verified": true,
+      "author": "BRav",
+      "helpful_votes": 0,
+      "publication_date": 20171109
+    },
+    {
+      "title": "Piece of garbage",
+      "text": "I have bought six sensors. All of them perriodically lose connection. Only taking out the battery helps. I have many other sensor and devices connected to my Smartthings hub. No one loses connection except these sensors.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "Paul B",
+      "helpful_votes": 0,
+      "publication_date": 20181125
+    },
+    {
+      "title": "Works, though I hope I never have to prove it outside of testing.",
+      "text": "Small and discreet, has stayed attached to network with no issues. Initial battery report ~full voltage (100%) -- it has not dropped in percentage yet.",
+      "rating": 4.0,
+      "verified": true,
+      "author": "Cryph",
+      "helpful_votes": 0,
+      "publication_date": 20171226
+    },
+    {
+      "title": "Awesome, works with just a little water",
+      "text": "Awesome, works with just a little water. I installed one in my chimney after having a leak and repair I wanted to be notified if a leak occurs in the future. There's a follow-up procedure for the water sensor which continually reminds you every hour until you \"close the water report\". A nice and very helpful tool I plan to add in other various areas in the future",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Adam Pretorius",
+      "helpful_votes": 0,
+      "publication_date": 20160201
+    },
+    {
+      "title": "Must have for a smartthings hub",
+      "text": "Hooked up to my smartthings hub, has already saved me more than once from massive flood in basement by boiler.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "powerby50",
+      "helpful_votes": 0,
+      "publication_date": 20180903
+    },
+    {
+      "title": "The only leak sensor to buy.",
+      "text": "Small and discreet. Plus it connect with all other smart things.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "M Win",
+      "helpful_votes": 0,
+      "publication_date": 20181109
+    },
+    {
+      "title": "Five Stars",
+      "text": "These work great especially when paired with SmartThings and a wireless water shutoff valve.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Kevin",
+      "helpful_votes": 0,
+      "publication_date": 20170529
+    }
+  ],
+  "product_meta": {
+    "title": "Samsung Electronics ST-CEN-MOIS-1/F-WTR-US-2 SmartThings Water Leak Sensor",
+    "description": "The SmartThings Water Leak Sensor can monitor moisture to send you alerts that could prevent a leak from becoming a flood. It can also monitor temperature. It requires the SmartThings Hub.",
+    "rating": 3.7,
+    "feature_bullets": [
+      "Get an immediate alert on your smartphone at the first sign of excess water",
+      "Trigger a light or siren to turn on to alert you if water is detected where it doesn't belong",
+      "Place the sensor beside the sump pump in your basement to be notified if the sump pump fails",
+      "Additional Requirements: Samsung SmartThings Hub. Temperature 32 to 104 degree Fahrenheit"
+    ],
+    "specifications": {
+      "Manufacturer": "SmartThings",
+      "Part Number": "F-WTR-US-2",
+      "Item Weight": "1.6 ounces",
+      "Product Dimensions": "2.3 x 1.5 x 0.9 inches",
+      "Item model number": "ST-CEN-MOIS-1/F-WTR-US-2",
+      "Batteries": "1 CR123A batteries required.",
+      "Is Discontinued By Manufacturer": "No",
+      "Color": "White",
+      "Style": "Water Leak Sensor",
+      "Item Package Quantity": "1",
+      "Certification": "UL Listed",
+      "Included Components": "Samsung SmartThings Water Leak Sensor, Quick Start Guide",
+      "Batteries Included?": "Yes",
+      "Batteries Required?": "Yes",
+      "Battery Cell Type": "Lithium Manganese Dioxide",
+      "Average Battery Life": "17520 Hours",
+      "ASIN": "B00MOIYIN6",
+      "Customer Reviews": "3.7 out of 5 stars393 ratings3.7 out of 5 stars",
+      "Best Sellers Rank": "#176,237 in Tools & Home Improvement",
+      "Date First Available": "January 1, 2014"
+    },
+    "categories": [
+      "Tools & Home Improvement",
+      "Household Sensors & Alarms",
+      "Safety & Security",
+      "Water Detectors & Alarms"
+    ],
+    "price": ""
+  }
+}

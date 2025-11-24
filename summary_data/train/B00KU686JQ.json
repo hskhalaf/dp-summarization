@@ -1,0 +1,961 @@
+{
+  "website_summaries": [
+    {
+      "verdict": "The WD My Book Duo is a fast, versatile, and secure way to add lots of storage space to your desktop computer without digging a hole in your pocket.",
+      "pros": [
+        "The WD My Book Duo has plenty of storage space, fast performance, hardware RAID, and a built-in two-port USB 3.0 hub",
+        "The external storage device is also affordable, and allows you to easily replace its internal hard drives"
+      ],
+      "cons": [
+        "It has a short two-year warranty"
+      ],
+      "aspects": {
+        "Setup": 8.0,
+        "Features": 9.0,
+        "Performance": 8.0,
+        "Support": 6.0
+      },
+      "publication_date": 20140729,
+      "rating": 8.1,
+      "source": "cnet"
+    }
+  ],
+  "customer_reviews": [
+    {
+      "title": "Excellent and spacious.",
+      "text": "I purchased this unit primarily to act as a media server drive. I configured it in RAID 1 (mirroring) and have it connected via USB to my router. I have been using it for a couple weeks now and so far I have not had any issues. Initially when I purchased it I had almost a TB of media I transferred to it (across the network) and it handled that task very efficiently. In one case recently, we have had 2 separate TVs streaming media from the unit while I was also copying photos up to it and there was no lag, stuttering or other viewing interruptions. Overall, I am very happy with this purchase.",
+      "rating": 4.0,
+      "verified": true,
+      "author": "Tanner Thoman",
+      "helpful_votes": 0,
+      "publication_date": 20170305
+    },
+    {
+      "title": "RAID and a built in USB hub!",
+      "text": "I bought this to expand my storage capacity, but all the little extras delighted me. So this can be configured as a 8TB with redundant back up, or 16TB raid which can be read/written to very quickly. And its future proof as the drives can easily be pulled out and replace. My favorite part is the extra USB ports on the back so that you can plug extra devices into the drive, and then have only 1 USB cable plug back into the tower or laptop. The simple hub is a great feature especially considering most people will use these large drives to backup important data. This is another great HDD from Western Digital.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "ZacharyTop Contributor: Photography",
+      "helpful_votes": 0,
+      "publication_date": 20170928
+    },
+    {
+      "title": "1st 8TB My Book Duo DOA",
+      "text": "First unit was DOA. I/O device error when attempting to copy over data. Tried everything to fix it...nothing worked. 3 stars for now, until I check out the replacement unit, which is in transit. Update 3/26/16: The replacement unit works perfectly. Burned in for 72 hours and counting without an issue. Copying data at 170Mbs, on average. One thing I noticed that was interesting was the power brick that shipped with this unit was different from the first. The first unit had what appeared to be a power brick for a single WD My Book drive. Perhaps the first kit shipped with the wrong AC adapter? 2nd unit seems to be working great. So far, so good.",
+      "rating": 4.0,
+      "verified": true,
+      "author": "C. Fogus",
+      "helpful_votes": 2,
+      "publication_date": 20160323
+    },
+    {
+      "title": "So far so good. Had one issue where the drive wasn't showing ...",
+      "text": "So far so good. Had one issue where the drive wasn't showing up. Went to disc management and drive was unallocated. After a short meltdown mentally I unplugged the power to the drive and plugged it back in. The drive came back showing the proper raid description. Be sure to have back ups always! It seems that this issue may be a controller fault. It has only happened one time since purchase over a month ago.Had i re-allocated the drive i would of had to format the drive losing everything. So power down and back up before just blindly following windows instructions first..",
+      "rating": 4.0,
+      "verified": true,
+      "author": "Marc",
+      "helpful_votes": 0,
+      "publication_date": 20160620
+    },
+    {
+      "title": "So far so good.",
+      "text": "So far so good with this high capacity external hard drive. I'm worded, however, about its performance in the future, after a smaller capacity but similar drive failed and I lost over ten years worth of PowerPoints and images. I spent a lot but couldn't recovery anything. My last option was to pay $2000 for a recovery expert to take a crack at it, but I gave up instead. I might try to back this one up on two 8T hard drives I also have but. It takes forever to copy that much stuff. I am not optimistic.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Dr. S",
+      "helpful_votes": 0,
+      "publication_date": 20170520
+    },
+    {
+      "title": "Fast and reliable so far",
+      "text": "This drive has been great for me for almost a year of every day use for editing 4k footage in Premiere CC from GH4's, a7sII and GoPro4/5's. I use it direct and across a gigabit switch. Only issue I have is makes a very annoying noise from vibration of the drives operating. Tried taping the top but found that removing the top plate helped a little bit. Still vibrates and just have to touch it lightly for it to stop. But performance is great. It pretty much keeps up with 4k footage, but I use proxy's now, so it's plenty fast for proxy editing.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Floline Media",
+      "helpful_votes": 0,
+      "publication_date": 20170302
+    },
+    {
+      "title": "Taking the drives out of the enclosure was easy. There really should be some side vents with ...",
+      "text": "Drives both worked and fired up right away. I bought this for the drives which will replace drives in my tower so I really wanted the drives alone. Taking the drives out of the enclosure was easy. There really should be some side vents with a proper fan control if one intends to use this as it is advertised. There is a little fan between the two drives but I doubt it will do anything. If you do take the drives out of the enclosure the drives need to be formatted and set up through windows (if you are using windows).",
+      "rating": 4.0,
+      "verified": true,
+      "author": "GM",
+      "helpful_votes": 0,
+      "publication_date": 20170406
+    },
+    {
+      "title": "my WD has connectivity issues. It would take hours ...",
+      "text": "my WD has connectivity issues. It would take hours in order for my Mac to recognize and see this hard drive, sometimes it doesn't show up for days. Unreliable and if your enclosure fails, you won't be able to retrieve any of the data. I asked for a replacement unit and this one is the same. Am going to contact WD about this problem, can't believe a $300+ external HD would be so unreliable.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "Shef",
+      "helpful_votes": 5,
+      "publication_date": 20170505
+    },
+    {
+      "title": "NAS capable in a roundabout way",
+      "text": "Alls you have to do to use this as NAS is create a homegroup and give permission for full control to any computers within the network. I have the My Book Duo plugged directly into my business partner's computer and I simply have access through our shared homegroup. Bada bing, bada boom! There is only about a second delay between dropping something into the My Book Duo and it showing up on her side. The best part is the price between the NAS drive and the 8TB we bought with this thing. Awesome!",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Eliza Jane",
+      "helpful_votes": 0,
+      "publication_date": 20170515
+    },
+    {
+      "title": "Everything In One Place",
+      "text": "This is so large, it holds everything I own. It feels good to be able to get everything in one place. Before, I had to remember which hard drive my information was on, and i would hook up the different hard drives trying to find what I was looking for, but now everything is neatly organized in one place. This is always hooked to my computer.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Jewel Schultz",
+      "helpful_votes": 0,
+      "publication_date": 20180421
+    },
+    {
+      "title": "Not reliable in my opinion",
+      "text": "Had it a month and one of the drives had a failure (solid red light). Rebuilt RAID overnight. Then I only had the one white light. Other was out completely. Diags in software showed failure. Personally, I'm going back to backing up on separate, multiple drives. I think in order to do a reliable RAID, you quite frankly need to spend more than this. Not bashing WDC. You make that many drives at that low of a price, you'll get some duds. I just feel more comfortable taking this money and buying separate drives.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "JAMES B HARRIS",
+      "helpful_votes": 4,
+      "publication_date": 20150222
+    },
+    {
+      "title": "I feel like they could last as long as their Black's",
+      "text": "I also have 2 of the 12TB My Book Duos (2x WD Red 6TB's) that I got 15 months ago in May, 2016 and they're still going strong. I also have about a dozen non-enclosed WD Red's going back to about 2013. I feel like they could last as long as their Black's, but for less cost. The Duo systems are a good value, as you can usually get a pair of Reds in a ready-to-go enclosure for less than the 2 individual bare drives sell for together normally.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "L Roger Speakman",
+      "helpful_votes": 0,
+      "publication_date": 20170811
+    },
+    {
+      "title": "Reds work great in QNAP NAS!",
+      "text": "I bought 3 of these units (48TB). I took out the drives and installed them in a QNAP TS-670. I ran the WD tool to scan for bad sectors which took about 24hrs per drive. The drives are working without any problems so far. I didn't use the enclosures so I can't comment on that. They are quiet and cool similar in noise and temp to the HGST 5K4000 that they replaced. Overall good drives with 5,400rpm spindle speed.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "JMC",
+      "helpful_votes": 3,
+      "publication_date": 20170221
+    },
+    {
+      "title": "Great, needed firware update for TimeMachine",
+      "text": "Works great, best price per TB for a RAID of this size. I had issues with the drive disconnecting, failing when copying files, and working with Time Machine on a Mac, until I ran the latest firmware posted on their site. The update didn't even wipe my drive, which I was afraid of. Been working without a single issue since.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "RAK",
+      "helpful_votes": 0,
+      "publication_date": 20170715
+    },
+    {
+      "title": "Zero if I\u200b could. I have spent days with ...",
+      "text": "Zero if I\u200b could. I have spent days with customer service and so far it has only worked less than 50% of the time. It is now red lights again. What a POS. I will pull the drives and get enclosures and hopefully recover all my files. Then my hammer will resolve the issues. I don't care about the few hundred dollars. My time and data are more valuable. NEVER NEVER BUY THIS PRODUCT",
+      "rating": 1.0,
+      "verified": true,
+      "author": "Dan Mikesell",
+      "helpful_votes": 0,
+      "publication_date": 20170923
+    },
+    {
+      "title": "Drive corrupted multiple times; constantly have to reformat. Sorry I bought it.",
+      "text": "After 4 months, the drive is corrupted and will not back up - again. All I was doing was backing up my MacBook Pro; but it can't even handle that, it seems. I can't return it because there was a one-month return window after purchase, and the two-month window for any support (!) is also closed. So I have to either try to reformat - again - or just junk it and go back to LaCie Porsche, is about half the price for 4 TB and which has never failed me. I'm sorry I bought this.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "JFR",
+      "helpful_votes": 2,
+      "publication_date": 20170211
+    },
+    {
+      "title": "Good backup drive.",
+      "text": "What one would expect for the price. Rather slow, but good for a backup system. Had one drive go bad after a year, but WD replaced that without much hassle and the RAID reconstructed the system once the new drive installed without any data loss...and that is my test of a successful RAID drive.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Geopeople",
+      "helpful_votes": 0,
+      "publication_date": 20161106
+    },
+    {
+      "title": "WD Utilities Issue",
+      "text": "This product has issues with the WD Utilities that come with the drive. I encountered them when attempting to reconfigure the drive from Raid 0 (as shipped) to Raid 1 using the WD software that came with the drive. After 48 hours the process had not completed. After a lot of complaining, a call to support, and a post on the community web site, a WD specialist gave me a call and determined that the utilities had hung. According to WD, the reconfiguration process should take no more than 5 minutes (a number a far cry from what telephone support told me -- which was to continue waiting after 24 hours). At this point the drive appears to be working.",
+      "rating": 3.0,
+      "verified": true,
+      "author": "Amazon Customer",
+      "helpful_votes": 0,
+      "publication_date": 20160519
+    },
+    {
+      "title": "Fast, Quiet, Attractive",
+      "text": "This is a fast & attractive dual-disk HDD unit. We use it to stream our 7TB music library to the DAC/Player. The hard-drive(s) are FAST & quiet. What we especially enjoyed the extensive and easy-to-understand setup options. We opted for RAID\"0\" (default) because of the size of our music library and formatted in ExFAT. Setup took minutes but loading a large music collection populated with many DSD & DSD 2x files does take some time.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Physics Teacher",
+      "helpful_votes": 0,
+      "publication_date": 20170213
+    },
+    {
+      "title": "Western Digital drive are normally great drives but ...",
+      "text": "I have always like Western Digital drives above all others. I would have given this one 5 stars except for the problems I had from the very start. This Hard Drive gets 4 stars because Amazon gets 5 stars for helping me and replacing the faulty unit. The problems started with a very loose power plug, continuing on to the second drive not working correctly, and ended with the unit not power up at all.",
+      "rating": 4.0,
+      "verified": true,
+      "author": "Mary E. Rumbaugh",
+      "helpful_votes": 0,
+      "publication_date": 20160912
+    },
+    {
+      "title": "Dreadfully Disappointed",
+      "text": "I've used this drive only a few times, and now one of the drives is dead as a door nail. I know, hard drives fail. But this is really aggravating. $90 to replace the drive. In defense of the product, this is exactly why you have a RAID stack. The other drive is still sound, as is my data. Although now I'm left wondering if it will fail at any moment in spite of being essentially brand new. My only substantive gripe is with the rapid failure of Drive 1 in this unit (a 2 TB WD Red NAS Hard Drive). Dreadfully disappointing! (and expensive for a backup device on it's fourth use).",
+      "rating": 2.0,
+      "verified": true,
+      "author": "A. C. Bass",
+      "helpful_votes": 0,
+      "publication_date": 20160205
+    },
+    {
+      "title": "Excellent value high capacity high speed external drive",
+      "text": "Well designed and easy to setup dual drive unit. I have set it up in the least fault tolerant mode of RAID 0 which gives it maximum speed but lowest resilience (any 1 drive failure can cause the loss of all data). Using a TB to USB 3 dock on my iMac I am getting transfer speeds of around 250 MB/s which is very good. The only issue I get is that the monitor software occasionally reports a RAID failure which is not verified when I test the drive, so I ignore it. This makes the warning useless. Using this on a 2011 iMac with OS X Yosemite (10.10.3).",
+      "rating": 4.0,
+      "verified": true,
+      "author": "PMJTop Contributor: Photography",
+      "helpful_votes": 0,
+      "publication_date": 20150514
+    },
+    {
+      "title": "Essential!",
+      "text": "This is essential for any digital content creator. It keeps my files secure and I love how it endlessly seems like your final solution for your data needs. I will have to buy another unit eventually. The only thing I don't like about it is that it isn't mobile. However I do suppose buying one of these for it's purpose does garner such an understanding.",
+      "rating": 4.0,
+      "verified": true,
+      "author": "Petey Ulatan",
+      "helpful_votes": 0,
+      "publication_date": 20170121
+    },
+    {
+      "title": "A Fine Product In Search of Support",
+      "text": "Like most of Western Digital products, this unit is well-made and, with adequate instruction, isn't really that difficult to use. As is the case with any number of IT products, the hardware's probably better than any accompanying explanations. There's not one, but there are two different programs that can be used to run the My Book Duo. One's by Acronis. The other's the \"Raid\" program written by the WD staff. Unless you boast a degree in computer science, It really helps to have technical assistance when setting this unit up.",
+      "rating": 4.0,
+      "verified": true,
+      "author": "James A. Schumacher",
+      "helpful_votes": 0,
+      "publication_date": 20170304
+    },
+    {
+      "title": "Excellent Hard Drives/Useless Enclosure",
+      "text": "I bought it for the hard drives (HD) -- they are cheaper than when bought separately - and used them in a different USB enclosure. This because apparently WD provides proprietary hardware encryption by default and if the electronics burn your HD info is lost (unless you're willing to ship them to WD, as they'll recover your info for free). This is what I got instead with the WD HDs: Mediasonic ProBox HF2-SU3S2 4 Bay 3.5\" SATA; it works perfectly so far.",
+      "rating": 4.0,
+      "verified": true,
+      "author": "Cristian",
+      "helpful_votes": 0,
+      "publication_date": 20170317
+    },
+    {
+      "title": "the support for mac is terrible.",
+      "text": "I have an imac with el Capitan. Its always saying there are RAID ISSUES, WD help is hopeless even tho its a well known problem, the hardware seems ok, the support for mac is terrible.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "Michael C",
+      "helpful_votes": 3,
+      "publication_date": 20160813
+    },
+    {
+      "title": "Good to know that it keep two copies of my ...",
+      "text": "So far this device works as intended. Good to know that it keep two copies of my backup in raid 1 mode. No issues yet. The only feature I wish this device would support is being able to access the data from any operating system without reformatting the drive. Microsoft Windows only format is very inconvinient when you also have a Mac. I know that NAS drives can support any OS but I would like to have a direct usb connection to it for faster transfer speeds.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "vovik",
+      "helpful_votes": 0,
+      "publication_date": 20160419
+    },
+    {
+      "title": "No super user friendly",
+      "text": "No super user friendly. If it's plugged into my computer when it is booting up, it will derail the boot. You then have to manually shut down the computer, unplug the hard drive, restart, and then wait for the drive to come back online. No help online to fix this problem. very annoying. When it is working, it's fine.",
+      "rating": 3.0,
+      "verified": true,
+      "author": "Ryan",
+      "helpful_votes": 0,
+      "publication_date": 20160814
+    },
+    {
+      "title": "Died after 10 months of using as a Time Machine ...",
+      "text": "Died after 10 months of using as a Time Machine backup. An unusable WD support website too in trying to get an RMA to return it under the warranty program. I'm afraid of what another reviewer noted regarding return shipping costs.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "YM94116",
+      "helpful_votes": 2,
+      "publication_date": 20170315
+    },
+    {
+      "title": "It wasn't much fun to transfer the games to it from my other ...",
+      "text": "Bought this, as many do, for storage on my XBox One. As many other reviewers have stated, it is effortless to get it formatted for this use case, and the drives perform well for gaming -- definitely faster load speeds than my USB-powered external drive. It wasn't much fun to transfer the games to it from my other drive, though... Definitely a process, as you have to go one game at a time (though you can transfer all the DLC for that game at the same time). I've been doing it slowly over a few days.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Guygrumpy",
+      "helpful_votes": 0,
+      "publication_date": 20160802
+    },
+    {
+      "title": "I did some research and found that this was the best rated large drive to use with gaming systems",
+      "text": "I bought these as gifts for some gamers in the family to use with their gaming systems. They were mentioning how their HD's were packed and some new games were due out. With the holiday approaching, I did some research and found that this was the best rated large drive to use with gaming systems. I ordered it and it arrived quickly. It was easy to adapt to the different electricity here in Europe and they were extremely blown away. They seem to think I paid a lot more than I did because they have no product like it available yet and the smaller drives are more than I paid for these. Outstanding product and an outstanding vendor.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Amazon Customer",
+      "helpful_votes": 0,
+      "publication_date": 20160923
+    },
+    {
+      "title": "My Book NOT My Cloud.",
+      "text": "Good one. Don't get the WD My Cloud; only get the My Book. My cloud welcomes security vulnerabilities. The only thing is that accessing this you have to remember how to use it; somewhat a pain but overall OK.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "G. Sunderlin",
+      "helpful_votes": 0,
+      "publication_date": 20171017
+    },
+    {
+      "title": "LOST EVERYTHING - enclosure failed making RAID-0 useless",
+      "text": "Lost everything. I had it set to RAID-0 however my enclosure failed and that has now made everything inaccessible. I hear that I MAY be able to use another enclosure but does that mean I have to pay over $300 to buy a repeat of what has failed me once to see IF I may be able to recover my 12TB of data?? $450 and all my data... gone! :-(",
+      "rating": 1.0,
+      "verified": true,
+      "author": "Kaiser Sose",
+      "helpful_votes": 0,
+      "publication_date": 20171008
+    },
+    {
+      "title": "One of the two drives failed within the first month",
+      "text": "One of the two drives failed within the first month of use. Good thing Amazon has such an easy exchange policy. Will update after getting my replacement drive, but I am glad I went with \"Raid 1\" configuration, meaning the loss of one drive did not result in the loss of any data.",
+      "rating": 2.0,
+      "verified": true,
+      "author": "Jim G",
+      "helpful_votes": 0,
+      "publication_date": 20151122
+    },
+    {
+      "title": "Great solution. I like that it uses RED drives ...",
+      "text": "Was looking for NAS solutions, but my budget would not allow. This is LOTS of bang for the buck. Great solution. I like that it uses RED drives as well. Time will tell if it is reliable. I believe it will be. I'm a photographer, so this is a great backup\u200b solution for me.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "tferrant",
+      "helpful_votes": 0,
+      "publication_date": 20160523
+    },
+    {
+      "title": "Fast drive with security, 6TB with RAID",
+      "text": "This is my primary drive at home, RAID'd for 6TB capacity. Drive is fast and works flawlessly, no issues whatsoever in several months of daily use. Also has hardware encryption, drive will not mount without correct password (protection is optional, but I use it.) Highly recommended",
+      "rating": 5.0,
+      "verified": true,
+      "author": "David Wess",
+      "helpful_votes": 0,
+      "publication_date": 20151206
+    },
+    {
+      "title": "I love that this came with longer warranty RED drives instead of the GREEN or BLUE versions",
+      "text": "This was just what I was looking for and with the same it was the same price as buying two 6TB RED drives alone. the USB3 performance is great and the RAID was easy to configure. I'm using it as two volumes (JBOD mode) the drives are really easy to change in the case of failure and would probably allow for the drives to be upgraded if you want to put bigger ones in eventually. They just drop in from the top after flipping open the push button door.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "derekdal",
+      "helpful_votes": 0,
+      "publication_date": 20150524
+    },
+    {
+      "title": "Still not a good solution for backup",
+      "text": "No. It stopped working a few weeks into ownership. The drives are unreadable in a computer so i cannot salvage the data without paying thousands to a data recovery company. All of my personal data and photos are on there. I had backed up my entire computer into it when I was doing my upgrade. Now everything is lost.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "John",
+      "helpful_votes": 0,
+      "publication_date": 20170209
+    },
+    {
+      "title": "Fast and reliable so far",
+      "text": "Fast and works well with my Mac when I use it with Lightroom. Sometimes when writing directly to it I get an \"unable to write to disk\" (or something similar) The only way I have found to deal with this is to reboot. Takes a while to wake up if it has powered down.",
+      "rating": 4.0,
+      "verified": true,
+      "author": "Dennis Swena",
+      "helpful_votes": 3,
+      "publication_date": 20160607
+    },
+    {
+      "title": "Error Message",
+      "text": "Everytime I wake up my Mac i get an error message saying there is a problem with the Raid Configuration. Tried several times to figure out the issue but nothing has worked. Not happy with my purchase",
+      "rating": 1.0,
+      "verified": true,
+      "author": "P",
+      "helpful_votes": 3,
+      "publication_date": 20161025
+    },
+    {
+      "title": "Love WD, always have.",
+      "text": "Works perfect. Skip the included software and go straight to the website. The 4TB system includes two WD Red 2TB NAS drives. You can RAID0 (stripping) to get to 4TB (WHY?) or you can RAID1 (mirror) to get redundancy. We did RAID1. Reliability is HIGH. Price was fair. I'd buy again for certain instances.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Adam",
+      "helpful_votes": 0,
+      "publication_date": 20160714
+    },
+    {
+      "title": "Perfect solution",
+      "text": "The drives are very easy to set up in RAID 0 or 1 configurations. I bought the 4GB x2 version. Works very efficiently without hiccups when connected to my router for WiFi cloud storage. The drives can also be easily removed and upgraded to larges sizes in the future. I would definitely recommend this for anyone looking to secure their data.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "OpinionsRUs",
+      "helpful_votes": 0,
+      "publication_date": 20160922
+    },
+    {
+      "title": "Good backup drive",
+      "text": "Use this as part of the backup for a NAS I have for my business. Easy to setup and works great. I've had this up and running for several months now without any issue. I plan to purchase another one soon for a redundant backup and swap between them every couple of weeks.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "John Beystehner",
+      "helpful_votes": 0,
+      "publication_date": 20161220
+    },
+    {
+      "title": "Overheated and failed 3 days after warranty expires.",
+      "text": "Purchased on 6/27/17. Failed without warning on 7/1/18, 3 days after warranty expires. I believe it overheated as it powered down and will not power back up. I was very happy with this unit until it failed. I\u2019m hopping I can recover my data off the drives! I\u2019ve always used WD drives. I\u2019ll need to rethink that policy.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "Phillip Thomas",
+      "helpful_votes": 0,
+      "publication_date": 20180702
+    },
+    {
+      "title": "So far this drive has been awesome. I like how well designed it is",
+      "text": "So far this drive has been awesome. I like how well designed it is. The hard drives are very easy to remove and replace. It was easy to set up and get going and it has additional free USB ports for any use. Lastly it is very quiet. The only complaint I have about all WD MyBook drives is they have a light that flashes when the computer is sleeping. I've had to put a piece of dark tape to cover the light so it won't light up the room when sleeping.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Kindle Customer",
+      "helpful_votes": 0,
+      "publication_date": 20160117
+    },
+    {
+      "title": "Can LOSE all your data even with perfectly good hard drives!",
+      "text": "ONLY for DATA you don't mind LOSING. If the Enclosure has any problem or dies, even if your hard drives are 100% working you can NOT recover the data from your hard drives. This is because encryption is always on even if you never enable it, and there is no way to disable encryption. Again I repeat, even if your hard drives are in 100% perfect shape, if anything happens to the WD My Book Duo \"enclosure\" and it stops working properly, you will have no way to access your data, even if you did NOT enable security password. This issue likely affects any WD My Book product that has the advertised hardware encryption feature.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "ice",
+      "helpful_votes": 14,
+      "publication_date": 20150521
+    },
+    {
+      "title": "Working well...watch youtube video for Raid management",
+      "text": "The product came nicely packed and I had no trouble unpacking this.Setting up was not difficult,but I wish there was a worldwide adapter available in the package (only US type plug is included).It will be useful to watch youtube video how to set up the Raid management (I found this video useful [...]).I could also get the product registered in WD website (I am in Singapore).It is working well so far,I have configured this in a mirror fashion,so that the files are backed up in both hard discs.",
+      "rating": 4.0,
+      "verified": true,
+      "author": "Amartya",
+      "helpful_votes": 0,
+      "publication_date": 20160725
+    },
+    {
+      "title": "I normally find small quirks and issues with things. Not this time",
+      "text": "I bought this product used, and as I was reading some bad reviews, I was a little nervous of using it. After some time with it, I couldn\u2019t be more pleased. This one thing I love more about it is that it\u2019s dead-silent. It doesn\u2019t interrupt my work or peace of mind, and it\u2019s pretty reliable. I haven\u2019t experience drive issues, hangs, disconnections, or anything related. I couldn\u2019t recommend it enough. I love it.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Ronald",
+      "helpful_votes": 0,
+      "publication_date": 20171221
+    },
+    {
+      "title": "Very easy to set up but because I wanted them partitioned ...",
+      "text": "Going strong. Very easy to set up but because I wanted them partitioned a certain way took a few extra minutes. I basically took 1 drive and partitioned it in half, one side for time machine back ups and the other for true storage, and then set those both to Raid 1 to replicate to the other HDD in the enclosure.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "MDutton",
+      "helpful_votes": 0,
+      "publication_date": 20160229
+    },
+    {
+      "title": "Excellent backup capability for people that cannot trust cloud-based services.",
+      "text": "Works perfectly. Only problem that built-in Dell encryption software on Windows 10 does not extend to outboard devices, so that such additional security - if needed - has to be set up separately.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Analyst of intellectual capital creation and exploitation",
+      "helpful_votes": 0,
+      "publication_date": 20170305
+    },
+    {
+      "title": "... it appears a single 6TB drive) and it works beautifully. It's fast",
+      "text": "I have this set up in a RAID 1 configuration (so it appears a single 6TB drive) and it works beautifully. It's fast, quiet, and does exactly what it's supposed to do. I love Western Digital drives, and the price of this was a huge selling point for me (consider that you get a USB 3.0 RAID enclosure, as well as two 6TB WD Red Drives for about $600).",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Kevin Stephens",
+      "helpful_votes": 0,
+      "publication_date": 20150131
+    },
+    {
+      "title": "Exfat Raid 1",
+      "text": "I love this drive. In order to use it on both my Mac and Bootcamp partition I had to format it through the WD software in order to keep the Raid 1 mirroring. This took me a while to figure out as it wasn't included in the directions.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Sean Kenney",
+      "helpful_votes": 0,
+      "publication_date": 20160712
+    },
+    {
+      "title": "please help because i hate to have to recopy everything back onto a new ...",
+      "text": "im experiencing the same problem that the users been having,after a day or so it reads fatal hardware error when trying to access it,but when you unplug it and plug it back in in about 20 seconds then it works,please help because i hate to have to recopy everything back onto a new 12tb harddrive.and again PLEASE HELP! update,still the same issue,the difference now is that i put something under the base from over heating and it last alittle longer as well but still the same problems.",
+      "rating": 3.0,
+      "verified": true,
+      "author": "freddy frost",
+      "helpful_votes": 2,
+      "publication_date": 20150413
+    },
+    {
+      "title": "I'm not really computer savvy. I use this as ...",
+      "text": "I'm not really computer savvy. I use this as a 2nd back up for my data in addition to an off site back up service. I'm not even close to maxing out the capacity and I use my computer to business. The question is not \"if\" your hard drive will fail. The question is \"when\" will it fail. This makes me ready for the when..",
+      "rating": 5.0,
+      "verified": true,
+      "author": "dan",
+      "helpful_votes": 0,
+      "publication_date": 20151230
+    },
+    {
+      "title": "Great Bang for your buck",
+      "text": "Does everything it is supposed to do at a very good price point. Using as one of my backups for photography work in Raid 1 configuration with CrashPlan Cloud backing up the Raid drives. I like how they included two extra USB ports so you can daisy chain other External Hard Drives into the unit. So far so good. I'm very happy with it!",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Victor K. Neumann",
+      "helpful_votes": 0,
+      "publication_date": 20160218
+    },
+    {
+      "title": "Quality of WD is dwindling",
+      "text": "It was working great, then all of a sudden it just disconnects from computer. I use it for Time Machine back ups primarily. More of an annoyance. I have had other WD drives currently and in the past. I have seen their quality start to dwindle. Too bad, usually They are very nicely displayed and work great. I may need to look for another make/model in the future.",
+      "rating": 2.0,
+      "verified": true,
+      "author": "Michael Farkas",
+      "helpful_votes": 0,
+      "publication_date": 20181226
+    },
+    {
+      "title": "NTFS is now RAW - your data is all gone inspite of RAID1",
+      "text": "Garbage, RAID1 and the file system still became corrupted losing all of my data. NTFS is now RAW - chkdsk can not see the contents, I have run a number of 3rd party utilities to attempt recovery. it is a very slow process taking over 24hrs with some recovery tools. The tools available from WDC support web site are worthless and everyone wants to charge you hundreds to attempt to perform .data recovery. I am looking for a new backup/recovery solution - it won't be a Western Digital product.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "FLL-G",
+      "helpful_votes": 10,
+      "publication_date": 20150304
+    },
+    {
+      "title": "Decent hardware. 3 starts for the fact that the ...",
+      "text": "Decent hardware. 3 starts for the fact that the WD utilities for this do not work on MacOS Sierra. Luckily, I had an older \"El Capitan\" OS X machine and was able to configure the RAID setting for it. Other than for this, I believe you can just use the built-in Disk Utility to partition/format the drives.",
+      "rating": 3.0,
+      "verified": true,
+      "author": "LeoB",
+      "helpful_votes": 0,
+      "publication_date": 20170628
+    },
+    {
+      "title": "Not very reliable",
+      "text": "Not very good quality. I set it up ad RAID in order to see 1 big 16Tb drive. It seems to constantly loose sync between the drives and either go offline (3 red lights on case, need to power cycle), or run drive utilities to get working. Now, less than a year from purchase, drives are starting to make serious noise, most likely a warning before they fail and I loose my data!",
+      "rating": 2.0,
+      "verified": true,
+      "author": "alfonso riveroll",
+      "helpful_votes": 0,
+      "publication_date": 20170629
+    },
+    {
+      "title": "Western digital amazing unit",
+      "text": "Love the design and build of the western digital hard drive and the fact it came in a nice box and was packaged very well and also when I plugged it into my windows 8 laptop it all popped up on my screen all at once I was shocked when I seen the hard drive is a 12 tb unit but only have 10.9 tb of storage space was a huge shocker but I am pleased with the hard drive so far",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Jewell Bunch III",
+      "helpful_votes": 0,
+      "publication_date": 20160625
+    },
+    {
+      "title": "am very happy with the speed",
+      "text": "Have pounded this for a while not in a content creation environment, am very happy with the speed, resiliency, portability, ruggedness, and capacity. Will buy more of these.....",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Dakota",
+      "helpful_votes": 0,
+      "publication_date": 20180217
+    },
+    {
+      "title": "I have tried out 2 drives. The 16 terabyte ...",
+      "text": "I have tried out 2 drives. The 16 terabyte version. Both have failed the hardware tests in the WD application and Drive Genius. I am getting a third drive tonight. If that fails also , then allow for a zero stars rating",
+      "rating": 1.0,
+      "verified": true,
+      "author": "Steven A Tavaglione",
+      "helpful_votes": 3,
+      "publication_date": 20161127
+    },
+    {
+      "title": "ultimate storage",
+      "text": "Ever thing is in one place. where I can find it",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Michael Thompson",
+      "helpful_votes": 0,
+      "publication_date": 20190929
+    },
+    {
+      "title": "Great Raid 1 solution",
+      "text": "We have several My Books of different types and they all perform great. I usually set them up with Raid 1 for greater protection. Since a couple of them are a few years old at this point, I feel comfortable giving a good recommendation for them. (knock on wood) They've been reliable and perform great.",
+      "rating": 4.0,
+      "verified": true,
+      "author": "AnarchyJim",
+      "helpful_votes": 0,
+      "publication_date": 20151209
+    },
+    {
+      "title": "Stay away from this one",
+      "text": "I got an immediate Blue Screen of Death as soon as I attached the USB cable. They continued after I detached the unit and re-booted. Booted up in Safe Mode and restored with a Restore Point. All's well now. An Internet search revealed that this is a big problem with WD and no one has any concrete solutions. It does a better job of compromising a Windows system than malware. Back it goes.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "Al Customer",
+      "helpful_votes": 0,
+      "publication_date": 20160227
+    },
+    {
+      "title": "Works great for Mac OS X",
+      "text": "For you Mac Users... this is my second purchase of this drive. It comes with software to setup raid 0 /1 and will configure everything for your Mac OS X. Too easy! I use one for graphic design and the oner for music and entertainment files. They're relatively quiet and you can open the lid on the top to replace a faulty drive if ever needed. No complaints..great purchase for the price.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Gary_B",
+      "helpful_votes": 0,
+      "publication_date": 20160315
+    },
+    {
+      "title": "Fast, Quiet and well made",
+      "text": "I've been needing a mirrored unit for a long time. I really like the WD My Book Duo. It's faster than I was expecting and I'm happy to have better redundancy in my storage.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "J. Tincher",
+      "helpful_votes": 0,
+      "publication_date": 20171004
+    },
+    {
+      "title": "Works great. RAID configurable.",
+      "text": "I needed a hard drive that I could configure in raid 1 to store genomic data. This one has been running constantly plugged in for about a year with no issues at all. USB3 transfer speed is nice and fast too!",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Bjarne Bartlett",
+      "helpful_votes": 0,
+      "publication_date": 20180226
+    },
+    {
+      "title": "I LOVE IT. LOVE IT",
+      "text": "Oh man this thing is rock solid!!! I LOVE IT. LOVE IT!!! Looks great on my desk - has tremendous capacity and is fast! I was dreaming of one for a long time. I've had it now for months and it hasn't skipped a beat.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "mrdavo",
+      "helpful_votes": 0,
+      "publication_date": 20160106
+    },
+    {
+      "title": "Use 2 normal USB drives instead. It would be cheaper, easier, and cost less.",
+      "text": "The software sucks. You need to use a converter to read the files in Windows without the software, as everything is stored in a non-NTFS format. Maybe better for a Linux server backup. Very expensive for what you get.",
+      "rating": 2.0,
+      "verified": true,
+      "author": "sanwizard",
+      "helpful_votes": 0,
+      "publication_date": 20171025
+    },
+    {
+      "title": "Very well built and easy to use and set up both with Windows and Mac.",
+      "text": "Very well built, upgradable and easy to use and set up; I bought it to use it with my windows based system Digibit Aria Mini Music Server and it worked with excellent results, also manage it with my Apple Macbook Pro so I can confirm it is Both Windows and Mac ready",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Richard Martinez",
+      "helpful_votes": 0,
+      "publication_date": 20150413
+    },
+    {
+      "title": "Worked great for a while We moved and I didn't hook ...",
+      "text": "Owned it for over a year now. Worked great for a while We moved and I didn't hook it up again for a few months. When I did plug it in again, it wouldn't power up. Haven't been able to fix yet.",
+      "rating": 2.0,
+      "verified": true,
+      "author": "Eli.Luc",
+      "helpful_votes": 0,
+      "publication_date": 20170606
+    },
+    {
+      "title": "Fan down.  Man Down.",
+      "text": "Recently the fan died which caused the two drives to severely overheat. To WDs credit I was able to cool off the drives and recover the data. Now my only problem is finding storage for 12 terabytes of movies and music. Anybody know where I can find some reliable hard drives?",
+      "rating": 2.0,
+      "verified": true,
+      "author": "Martinex",
+      "helpful_votes": 0,
+      "publication_date": 20160324
+    },
+    {
+      "title": "2 times in the 18 months that I have been ...",
+      "text": "2 times in the 18 months that I have been using this, the #1 drive has had problems. WD has replaced it both times, but will not replace the entire unit. I have lost confidence in the drive, as I fear that both drives will quit about the same time, and I will lose all my data as I use this as a RAID drive. So much that when I needed another RAID drive, I purchased a LaCie.",
+      "rating": 2.0,
+      "verified": true,
+      "author": "jerry d",
+      "helpful_votes": 0,
+      "publication_date": 20160811
+    },
+    {
+      "title": "Excellent storage solution with reliable drives",
+      "text": "Excellent storage solution with reliable drives. The WD software is not very useable on MacOS but since the drives mount as a single device, using other synchronization tools is easy. Slightly on the expensive side but a very nice product that met all of my expectations.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "H2ODogs",
+      "helpful_votes": 0,
+      "publication_date": 20170227
+    },
+    {
+      "title": "Bought Used (like new)",
+      "text": "It shipped without the software installed (I assume it has been reformatted). But the software is on the WD website. Ran a test to make sure it's performing correctly and It's great!",
+      "rating": 4.0,
+      "verified": true,
+      "author": "Kevin",
+      "helpful_votes": 0,
+      "publication_date": 20170719
+    },
+    {
+      "title": "Unit is kind of garbage, but has good drives in it",
+      "text": "Not going to lie, bought 2 of these for the cheaper WD Reds inside. Unit is kind of garbage, but has good drives in it.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Adam",
+      "helpful_votes": 0,
+      "publication_date": 20171007
+    },
+    {
+      "title": "These are some of the best Nas boxes I've used",
+      "text": "A bounty of storage, reliability, and speed. These are some of the best Nas boxes I've used. I use them for small and medium business units. I also use them for IP camera installs. I love these they are reliable and bullet proof.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "WigglesTheHoly",
+      "helpful_votes": 0,
+      "publication_date": 20161030
+    },
+    {
+      "title": "Works like a charm",
+      "text": "Bought this to go with my Dish Hopper. Set it to Raid 1 and then went to town. Later pulled a drive to ensure the Hopper did not notice any difference, and I could still access my shows off the one functioning drive. Works like a charm.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "J. Whiddon",
+      "helpful_votes": 0,
+      "publication_date": 20160119
+    },
+    {
+      "title": "... for my iMac and it installed so cleanly and easily than I bought this 4TB model for my wife's ...",
+      "text": "Bought the 8TB version of this for my iMac and it installed so cleanly and easily than I bought this 4TB model for my wife's iMac. After installation, just forget about it ... it keeps on doing its thing in the background.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "P. Carta",
+      "helpful_votes": 0,
+      "publication_date": 20160324
+    },
+    {
+      "title": "this will fail and there is no customer support",
+      "text": "ok - barely used - and already a drive failed. less than 3 years. THERE IS NO CUSTOMER SUPPORT FOR THIS PRODUCT - if it fails you are on your own. WD TOTALLY IS THE WORST. GOOD LUCK.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "James R.",
+      "helpful_votes": 0,
+      "publication_date": 20190630
+    },
+    {
+      "title": "Better than the cloud!",
+      "text": "This is the BEST WAY to never-ever lose your files. Also another good thing to do is to clone your drive while it is still perfect then put the clone in your machine make sure it works, then remove it put you original back in to the machine and place you close in a static bag then put it in your safe or a safe place, you will never how excessive down time if you follow these procedures. As you know re-installing programs takes hours and hours this way its remove, replace and re-clone the infected drive to good. It is all worth it.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Ray Brooks",
+      "helpful_votes": 4,
+      "publication_date": 20161102
+    },
+    {
+      "title": "Everyone should have one. I paid $300 to get ...",
+      "text": "Everyone should have one. I paid $300 to get data recovered, this only cost $250, I'll never have to pay for data recovery again! No hassle to set up, and now, no worry about lost data!",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Davd Gomm",
+      "helpful_votes": 0,
+      "publication_date": 20161224
+    },
+    {
+      "title": "Can't neat it as 8TB of storage with 8TB of backed up data!  RECOMMENDED!!",
+      "text": "This unit has been working well for about 6 months and really helped me get rid of 4 smaller drives from my system. I DO recommend this drive to anyone who wats 8TB storage with 8TB of backup to go with it!",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Gordon H. Ripley",
+      "helpful_votes": 0,
+      "publication_date": 20170725
+    },
+    {
+      "title": "Satisfactory, but slow. I should have purchased one ...",
+      "text": "Satisfactory, but slow. I should have purchased one of the Thunderbolt models, but for some reason they do not have a Thunderbolt 12TB model. I was too greedy for capacity.",
+      "rating": 4.0,
+      "verified": true,
+      "author": "Doc Boyer",
+      "helpful_votes": 0,
+      "publication_date": 20170209
+    },
+    {
+      "title": "Glitchy WD Utilities Software.",
+      "text": "Glitchy software. I bought one 12T Duo a year ago, and it has been working fine. When the 16T was announced on Amazon, I ordered it immediately. After receiving it, however, the RAID I setup was stuck at roughly 30%, with no error message, but sometimes a spinning wheel sign, sometimes no sign. It simply won't do anything for hours. I don't even know it is RAID 0 or I, or it is OK for use at all.",
+      "rating": 2.0,
+      "verified": true,
+      "author": "David C.",
+      "helpful_votes": 3,
+      "publication_date": 20160419
+    },
+    {
+      "title": "and it is easy to use",
+      "text": "It works well, and it is easy to use. But it connects to my computer and not to a router (or at least I was not able to do so until now), so it limits the backup to one computer only. But I like the dual HD security, and so far it worked pretty well for me.",
+      "rating": 4.0,
+      "verified": true,
+      "author": "Roni Holzer",
+      "helpful_votes": 0,
+      "publication_date": 20170909
+    },
+    {
+      "title": "Good quality.",
+      "text": "Excellent mass storage. Very fast. I have seen 200mb/s while transferring.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Forrest",
+      "helpful_votes": 0,
+      "publication_date": 20160405
+    },
+    {
+      "title": "So far so good... can be a little loud at times",
+      "text": "So far so good. Although a few times it got a little louder than I thought was normal...",
+      "rating": 4.0,
+      "verified": true,
+      "author": "FavoriteOne",
+      "helpful_votes": 0,
+      "publication_date": 20160902
+    },
+    {
+      "title": "Quiet. Good speed. Reliable",
+      "text": "Speed is reasonable, they are quiet, and I've had no problems. It's comforting knowing that my backup is protected with a redundant drive.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Tennessee Phil",
+      "helpful_votes": 0,
+      "publication_date": 20170921
+    },
+    {
+      "title": "Awesome drive",
+      "text": "Awesome drive and it's designed to be accessible to remove the drives without cracking open the case. Inside were two WD 8TB Red drives. I used them in my NAS.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "RomeoRaymond",
+      "helpful_votes": 0,
+      "publication_date": 20170219
+    },
+    {
+      "title": "Four Stars",
+      "text": "Took drives out which individually cost more than this product. The drives have worked well.",
+      "rating": 4.0,
+      "verified": true,
+      "author": "Tom G.",
+      "helpful_votes": 0,
+      "publication_date": 20160528
+    },
+    {
+      "title": "works as expected",
+      "text": "So far there have been no real issues. It does get hot and I put it on top of a laptop cooler - when I plug the USB from the cooler into the open USB receptacle the drive continues to work, but the PC starts to act odd when shutting it down. When I pull that cooler- USB connection from the Drive, there are no issues.",
+      "rating": 4.0,
+      "verified": true,
+      "author": "Jens Uwe Meyer",
+      "helpful_votes": 0,
+      "publication_date": 20150114
+    },
+    {
+      "title": "Settings up the RAID1 was easy and I got this device up and running in ...",
+      "text": "Western Digital drives have been known to be reliable drive in my over 19 years of experience dealing with server hard drives. Settings up the RAID1 was easy and I got this device up and running in less than 15 minutes.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Str8Up",
+      "helpful_votes": 0,
+      "publication_date": 20160110
+    },
+    {
+      "title": "Ridiculously huge storage capacity for the price!",
+      "text": "Great value for a huge amount of media file storage. Reformatted easily for my Mac user's Time Machine backups at half the price of the smaller G-Raid Mac-centric drives. I missed the Thunderbolt Mac port option but the USB 3 is just as fast. I may buy more for Windows network backups. This is a really nice drive and my smaller My Book backup drives have held up very well.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Amazon Customer",
+      "helpful_votes": 0,
+      "publication_date": 20160926
+    },
+    {
+      "title": "I've been using this HD for a couple of weeks ...",
+      "text": "I've been using this HD for a couple of weeks now. No issues, does what is expected. I would buy it again.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "redhub1",
+      "helpful_votes": 0,
+      "publication_date": 20160910
+    },
+    {
+      "title": "Very Happy with this pruduct",
+      "text": "Very Happy with this pruduct, I have a lot of experience with WD HDD using them for many years in hard use, and really are trustfull products, never had any truoble with them. Excelent brand and product.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Amazon Customer",
+      "helpful_votes": 0,
+      "publication_date": 20150726
+    },
+    {
+      "title": "Great as a large drive or in raid 1 for ...",
+      "text": "Great as a large drive or in raid 1 for added security. it sits nicely on my desk and with usb 3.0 it's a nice upgrade in speed from the old 2.0 usb. I recommend this to anyone that wants to back up their files because you can easily upgrade these drives as needed or change them out if one fails.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Steve-O",
+      "helpful_votes": 0,
+      "publication_date": 20150628
+    },
+    {
+      "title": "I've only had this dual-drive for about 1 month, ...",
+      "text": "I've only had this dual-drive for about 1 month, but no issues so far. It seems very fast. Using Acronis software, I backed up 44 GB in about 20 minutes. I'm using it in a RAID 1 configuration, so 4TB mirrored.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "MEDROS",
+      "helpful_votes": 0,
+      "publication_date": 20150530
+    },
+    {
+      "title": "The best thing about a drive is it simply works and ...",
+      "text": "The best thing about a drive is it simply works and is reliable. I use it on my Mac based system so I need to reformat, but other than reformatting, it is extremely easy to use. I have several of the 16TB that I use on a daily/weekly basis.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Steven",
+      "helpful_votes": 3,
+      "publication_date": 20150103
+    }
+  ],
+  "product_meta": {
+    "title": "WD 6TB My Book Duo Desktop RAID External Hard Drive - USB 3.0 - WDBLWE0060JCH-NESN",
+    "description": "Capacity:6TB| Style:Dual Drive\n\n\nMODEL\n\nPERFORMANCE\n\nPHYSICAL SPEC\n\nFEATURES\n\nPACKAGING",
+    "rating": 3.7,
+    "feature_bullets": [
+      "2 Bay, 6TB Personal Cloud Storage includes 2 x 3TB HDD",
+      "User selectable RAID 0/1 or JBOD lets you configure your drive for more speed (default setting: RAID 0), data protection (drive mirroring: RAID 1) or operate as two independent drives (JBOD)",
+      "High capacity external storage and backup; Ultra fast, optimized data transfer speeds; Protecting your data with multiple backup options",
+      "Complete backup solutions to secure your data from loss ; Integrated backup software, Cloud backup with Dropbox, System level backup",
+      "Speed and security with hardware encrypted RAID"
+    ],
+    "specifications": {
+      "Brand": "Western Digital",
+      "Series": "My Book Duo",
+      "Item model number": "WDBLWE0060JCH-NESN",
+      "Hardware Platform": "PC;Mac",
+      "Operating System": "Windows 10, Windows 8, Windows 7 or Windows Vista operating systems, Mac OS X El Capitan, Yosemite, Mavericks or Mountain Lion",
+      "Item Weight": "3 pounds",
+      "Product Dimensions": "3.9 x 6.2 x 6.5 inches",
+      "Item Dimensions  LxWxH": "3.9 x 6.2 x 6.5 inches",
+      "Flash Memory Size": "6 TB",
+      "Manufacturer": "WD",
+      "ASIN": "B00KU686JQ",
+      "Is Discontinued By Manufacturer": "No",
+      "Date First Available": "June 24, 2014",
+      "Customer Reviews": "3.7 out of 5 stars616 ratings3.7 out of 5 stars",
+      "Best Sellers Rank": "#1,722 in External Hard Drives"
+    },
+    "categories": [
+      "Data Storage",
+      "Computers & Accessories",
+      "Electronics",
+      "External Hard Drives"
+    ],
+    "price": ""
+  }
+}

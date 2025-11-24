@@ -1,0 +1,398 @@
+{
+  "website_summaries": [
+    {
+      "verdict": "QNAP's TS-251 dual-drive NAS offers excellent read/write performance, solid fault tolerance, and a sweet set of features to serve as a multimedia content storage star\u2014all at an affordable price.",
+      "pros": [
+        "Top performer in reads/writes among two-bay NASes we've tested",
+        "Solid RAID recovery",
+        "Easy remote access",
+        "Powerful virtualization capabilities",
+        "Affordable for its advanced feature set"
+      ],
+      "cons": [
+        "Slow at restoring RAID mirror in testing",
+        "Design lends itself to quick wear and tear"
+      ],
+      "aspects": {},
+      "publication_date": 20141020,
+      "rating": 8.0,
+      "source": "pcmag"
+    }
+  ],
+  "customer_reviews": [
+    {
+      "title": "Versatile NAS with good VM options",
+      "text": "Very easy to use NAS. Have not had a QNAP before but I have been very impressed with the functionality of this unit. Lots of applications in the store to boost its function - especially handy is the Linux and Virtualisation station options. Plug in a wireless keyboard, plug in an HDMI cable, fire up Linux station and you have Ubuntu 18 running directly from the NAS. Had tried a few Windows VM's but the H/W is a little lacking to get any nice performance out of it. Would recommend going for as much RAM as you can - I upgraded from 2GB to 8GB and the difference in performance is very noticeable.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Dave P.",
+      "helpful_votes": 0,
+      "publication_date": 20190628
+    },
+    {
+      "title": "VPN support is the worst I have ever seen",
+      "text": "If you want to use this for a VPN, don't. The IPSec support is \"windows IPSec\" L2TP The openvpn support is archaic and is impossible to diagnose and configure The native VPN QBelt app on android just hangs It has support for PPTP. Any one of these should be enough to cause embarrassment to QNap The worst point is that there are no logs anywhere.",
+      "rating": 3.0,
+      "verified": true,
+      "author": "M. A. Hussain Gambles",
+      "helpful_votes": 2,
+      "publication_date": 20190304
+    },
+    {
+      "title": "WORST TECH PRODUCT / SOFTWARE I EVER BOUGHT",
+      "text": "NOT FOR NOVICES!!!!!!! IF YOU WANT PLUG AND PLAY AND IT DOES AUTOMATICALLY BACK UP ALL THE DATA YOU GOT, YOU WILL NOT BE HAPPY WITH QNAP.!!!!! FRUSTRATING TO SET UP!!!!!! AFTER UPDATES IT MAY LOCK YOU OUT, OR SYNCH NOT ACTIVE ANYMORE.!!!!! CONSTANT HASSLES AND E-MAILS TO QNAP HELPLINE.!!!! \u00a3 200 standing on my window sill and collecting dust!!!!!",
+      "rating": 1.0,
+      "verified": true,
+      "author": "spike",
+      "helpful_votes": 2,
+      "publication_date": 20181124
+    },
+    {
+      "title": "Its OK when it works",
+      "text": "The remote access site which you need for accessing from outside the local network seems to fail quite regularly. Its been down for two days that I know of. Pretty useless really if you are relying on remote access. My advice...Stick to ynology.S EDIT august 2020. avoid this device. The web access is absolute garbage. I have submitted LOTS of support tickets. External access works occasionally but is completely unreliable. Use a SYNOLOGY device if you need access from outside your local network. This thing is C**p.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "Mr Careful",
+      "helpful_votes": 0,
+      "publication_date": 20200507
+    },
+    {
+      "title": "Great but slightly misleading",
+      "text": "Does what is should and well. While it can transcode 4k however, it cannot output 4k. This is not that obvious and its a little off on that. Also installing new ram is NOT easy.. it was painful and I nearly broke the thing. The instructions DO NOT match up with what you need to do and you need to be very careful. Generally avoid this if you want something simple and easy to use. Otherwise, its fantastic.",
+      "rating": 3.0,
+      "verified": true,
+      "author": "Hobbs",
+      "helpful_votes": 0,
+      "publication_date": 20190507
+    },
+    {
+      "title": "Easy Setup And Comprehensive Online Support!",
+      "text": "Bought this unit to replace a tempremental D-Link NAS box. My only regret is not paying a bit more for a 4 bay unit so that I could configure as RAID10. However, currently running with 2 xfor a RAID1 capacity of 2TB and after a very easy setup, the unit has performed flawlessly running PLEX and also for general NAS work. Easily accessed anywhere using the QNAP online tools and applications.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "billyh42",
+      "helpful_votes": 2,
+      "publication_date": 20170129
+    },
+    {
+      "title": "Fantastic piece of kit. A mighty media centre",
+      "text": "Had bought a Synology DS216 and was quite disappointed, so returned it and opted for the QNAP. What a piece of kit. It's been incredibly reliable, frequent updates and hasn't given me any bother since the day I got it. My first NAS, rocking a 4tb red at the moment and an ssd in the second slot. Using it for Plex, Tautilli and some other fun things. Would recommend to anyone looking to get a NAS in a heartbeat.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Darragh",
+      "helpful_votes": 0,
+      "publication_date": 20180625
+    },
+    {
+      "title": "Great NAS",
+      "text": "Loving this NAS! Only had it less than a week but already its far better than the Buffalo system it replaced. I bought the cheapest enclosure and then upgraded the memory to 8gb and bought drives separately. This worked out more cost efficient. Setting up was simple although I'm still getting my head around some of the features. It works well within the house, and I have been able to access it remotely. All of the music library transferred from the old NAS and I am now in the process of backing up the DVD collection to it.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Si",
+      "helpful_votes": 0,
+      "publication_date": 20180204
+    },
+    {
+      "title": "very good NAS, has massive features",
+      "text": "very good NAS, has massive features, and a reasonable price. It is noisy so recommend putting away from the work area, although it is no louder than other NAS products. Make sure you have the packaging ready as you need a cloud code to set it up from the very beginning, this is located on the side of the box. Only thought was that it is fast to boot up, but takes a relatively long time to shut down, if you live in an area with intermittent power adding a UPS might save data corruption by giving the unit time to shut down.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Mnunney",
+      "helpful_votes": 2,
+      "publication_date": 20170316
+    },
+    {
+      "title": "Excellent device (first time NAS user)",
+      "text": "Although it was quite easy to set up by following the installation instructions, as a first time NAS buyer, I had a steep learning curve in getting the most out of this device. I added a single 3TB WD Red Hard Drive and upgraded the memory myself to 8Gb. Now that I've familiarised myself, I am enjoying using it for my normal documents, backup of my data and as a media server. The feature that I like the most is that the device allows me to have my personal cloud and access all my files from anywhere in the world with an internet connection.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Saha",
+      "helpful_votes": 2,
+      "publication_date": 20170801
+    },
+    {
+      "title": "Good performance in RAID1",
+      "text": "Had another T453A but I am also happy with 251+ . Running 2 WDREDPRO 10TB in RAID1 I get speeds over 200MB read. Upgraded the RAM to 4GB and using for storage and torrents is a good option. Bought it on sale at 200 pounds so it was best value for money. Used for storage,Plex and torrents.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Dan",
+      "helpful_votes": 0,
+      "publication_date": 20180311
+    },
+    {
+      "title": "This is the right QNAP price and performance",
+      "text": "If you are going to get a QNAP don't buy less than this one. It was the sweet spot for price and performace. Works flawlessly and am very pleased. Setup easy and has all the fruit you would ever want. My main function was Plex server over wireless to firetv",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Paul",
+      "helpful_votes": 0,
+      "publication_date": 20180808
+    },
+    {
+      "title": "Impossible to set up!",
+      "text": "Impossible to set up the advertised programs, you fill in one page of set up information, then you're asked to fill in another then another. As an effect of this, you end up resetting the unit and starting again, again and again. USELESS!",
+      "rating": 1.0,
+      "verified": true,
+      "author": "Alien on Earth.",
+      "helpful_votes": 0,
+      "publication_date": 20180608
+    },
+    {
+      "title": "Qnap NAS",
+      "text": "My second NAS from Qnap and I'm very happy with it. Small but feature reach with enough power for home use (streaming, downloading, backup and light virtualization). Regular updates and software improvement make Qnap a better choice then Synology in my opinion aspecially when compering a hardwear.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Monika Z.",
+      "helpful_votes": 0,
+      "publication_date": 20191230
+    },
+    {
+      "title": "Excellent bit of kit",
+      "text": "3 weeks in and very impressed, far superior to the WDMyCloud it has replaced. Easy to set up, I had allocated 3 days to get my fairly complex system up and running but it was all sorted in a few hours with no glitches. The couple of queries I had were quickly dealt with by QNAP\u2019s excellent help desk.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Mr. Kenneth S. Kelso",
+      "helpful_votes": 2,
+      "publication_date": 20180114
+    },
+    {
+      "title": "Great NAS",
+      "text": "Great, powerful, memory upgradable. I was able to put the hard drives from my old NAS (TS-219P) and it simply copying everything across. Had to upgrade apps to x86 but overall very pleased.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Mr Ian Webber",
+      "helpful_votes": 2,
+      "publication_date": 20170925
+    },
+    {
+      "title": "Fantastic unit but would recommend that you do not buy ...",
+      "text": "Fantastic unit but would recommend that you do not buy it with 8GB Memory but buy the 2GB Memory unit and upgrade afterwards. Amazon are selling 8GB (2x4GB) Crucial memory for \u00a360. It will save you \u00a3180.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Mel.",
+      "helpful_votes": 0,
+      "publication_date": 20180228
+    },
+    {
+      "title": "Great Plex Server",
+      "text": "Reliable and easy to set up NAS. Very effective as a Plex Box and file server. Drive installation is seamless and quick and there are plenty of raid options upon first boot. Working perfectly so far.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Jako",
+      "helpful_votes": 3,
+      "publication_date": 20170205
+    },
+    {
+      "title": "Brilliant Products QNAP and great with VIrtualization Station",
+      "text": "Brilliant Products QNAP and great with VIrtualization Station, Put in 8GB (from Amazon) not a hard task. Got it on Prime deal too :)",
+      "rating": 5.0,
+      "verified": true,
+      "author": "G",
+      "helpful_votes": 0,
+      "publication_date": 20170727
+    },
+    {
+      "title": "works better than anything else I've ever found",
+      "text": "Using it mainly as a CCTV recorder, works better than anything else I've ever found. Slightly plasticky build but doesn't ready matter as it hidden away.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "dbank",
+      "helpful_votes": 0,
+      "publication_date": 20170123
+    },
+    {
+      "title": "Nice 2 bay nas",
+      "text": "Nice box . Software is not as bad as I imagined and after a while setup and working fine.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Colin C.",
+      "helpful_votes": 0,
+      "publication_date": 20180203
+    },
+    {
+      "title": "Great nas for the money. Can be used with Plex",
+      "text": "Great nas. This is my first nas so still getting to know how to get the best from it",
+      "rating": 5.0,
+      "verified": true,
+      "author": "robert",
+      "helpful_votes": 0,
+      "publication_date": 20190106
+    },
+    {
+      "title": "Difficult to set up",
+      "text": "A pest to get up and running but worth it",
+      "rating": 4.0,
+      "verified": true,
+      "author": "GB Shop",
+      "helpful_votes": 0,
+      "publication_date": 20191227
+    },
+    {
+      "title": "Good product",
+      "text": "Good quality product, trusted brand, easy setup. Does the job, well!",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Daniel Bye",
+      "helpful_votes": 0,
+      "publication_date": 20190823
+    },
+    {
+      "title": "Five Stars",
+      "text": "Upgraded to 8 GB RAM and works flawlessly with HD movies stream.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Ahmed R.",
+      "helpful_votes": 0,
+      "publication_date": 20170924
+    },
+    {
+      "title": "Best bit of tech I've ever purchased.",
+      "text": "Bought this to run as a plex media server. Absolutely love it. With the built in Kodi and HDMI out I can play 4K movies straight to the TV. With the built in virtualisation station I have a windows 7 VM with VNC on it so I can remote onto the NAS to be on my home network for whatever I need to do. Also, with the plethora of built in apps and mobile apps to accompany them there is very little it can't do. I do recommend upgrading to 8gb ram straight out of the box though. For the price it's a no brainer.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Tammy",
+      "helpful_votes": 6,
+      "publication_date": 20161028
+    },
+    {
+      "title": "If Carlsberg made NAS",
+      "text": "Qnap are probably the best in the field and this NAS does it all, I run KODI on it and have it permanently plugged in via HDMI to the TV in the lounge, your spoilt for choice with apps and add-ons, I have installed a Netflix add-on and have loads of movies and my music collection stored, the media apps provided are really good and you can access your media on phone or tablet etc with the free apps. Almost impossible to slow this down even when transcoding video on the fly, very impressed with it and the online support from QNAP.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Merlyn",
+      "helpful_votes": 3,
+      "publication_date": 20160912
+    },
+    {
+      "title": "good but I don't like the OS.",
+      "text": "It's a good little device but I really do not much like its OS, web interface and apps. The DLNA doesn't seem all that good. SSH is a real chore. You can't easily install keys. If you are used to linux you will not like this OS, but I would think it *is* good if you just use Windows at home (but read other reviews.) I'm going to try and get Debian onto mine.",
+      "rating": 3.0,
+      "verified": true,
+      "author": "A. Crabtree",
+      "helpful_votes": 2,
+      "publication_date": 20170604
+    },
+    {
+      "title": "especially with the extra community apps like KODI. The NAS side is not only very ...",
+      "text": "Bought as an upgrade over an older QNAP NAS - performance is certainly there (even when dealing with encrypted volumes), and the HDMI out makes it a full-fledged home entertainment center in addition to the standard NAS functionality, especially with the extra community apps like KODI. The NAS side is not only very flexible, it's also pretty cloud and mobile friendly with all the Amazon/Google/Dropbox backup/mirror options. The remote is a bit gimmicky, you will likely want to attach one of the wireless mini-keyboards if you intend to use anything but the default media player.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Attila",
+      "helpful_votes": 0,
+      "publication_date": 20170319
+    },
+    {
+      "title": "Best 2-bay Plex media server.",
+      "text": "If you're looking for a NAS to host you're media then look no further, especially if you want to run Plex Media Server. The performance of this device is excellent what with its quad core processor and expandable RAM it will transcoding movies in real time effortlessly. Packed with a whole host of other server applications and android and iOS client apps available makes this a winner. The QNAP software and solid build of this unit is excellent.",
+      "rating": 4.0,
+      "verified": true,
+      "author": "Amazon user",
+      "helpful_votes": 0,
+      "publication_date": 20160205
+    },
+    {
+      "title": "fast but some limitations on use.",
+      "text": "difficult to setup android virtual image - not much help from QNAP. Cannot see 251+ as \"normal\" network drive by other network devices such as TV. Only seen via downloading apps to 251+ such as PLEX server. Picture apps insist on including ALL media (such as album covers) rather than selecting required folders. Folder options on some music and picture apps are in Linux style environment. You have to hunt through several layers to find the default multimedia directory.",
+      "rating": 3.0,
+      "verified": true,
+      "author": "Mr M. Hendricks",
+      "helpful_votes": 0,
+      "publication_date": 20160605
+    },
+    {
+      "title": "Great desktop storage NAS enclosure.",
+      "text": "Bought to add to my collection of films and photo's on storage, great perfomance.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Anthony Campbell",
+      "helpful_votes": 0,
+      "publication_date": 20160925
+    },
+    {
+      "title": "Stop looking for other choices and buy this!",
+      "text": "What a brilliant product. Small, fast and packed with more features than you can imagine.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Andy",
+      "helpful_votes": 0,
+      "publication_date": 20160525
+    },
+    {
+      "title": "Same price as diskless version",
+      "text": "Great value for money with 2X2TB disks making it the same price as the diskless version. Speed appears good enough to fully utilise Gbit network. Mainly used as a media server with Plex (make sure you use the x64 version directly from Plex for h/w transcoding).",
+      "rating": 5.0,
+      "verified": true,
+      "author": "David",
+      "helpful_votes": 0,
+      "publication_date": 20180606
+    },
+    {
+      "title": "Two Stars",
+      "text": "It is great prodyct but Don't buy 2gb. it is slow.",
+      "rating": 2.0,
+      "verified": true,
+      "author": "Alper",
+      "helpful_votes": 0,
+      "publication_date": 20170307
+    },
+    {
+      "title": "Great package",
+      "text": "Less of a NAS and more of an all-singing all-dancing home server with the capability to run full Linux and/or Docker applications if you want to. Plex transcoding \"just works\" and hasn't choked on anything yet, including full Blu-ray-level quality transcoding. I can't fault the package -- but if you want to run many containers or Linux on this, you'll need to upgrade to 8Gb memory. This is a simple procedure for anyone who has ever upgraded the RAM in a PC before, and is far cheaper than purchasing the factory-fitted 8Gb. Highly recommended.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Utumno",
+      "helpful_votes": 8,
+      "publication_date": 20160204
+    },
+    {
+      "title": "Did not work as supposed",
+      "text": "It didn't work as supposed. It didn't connect to the internet properly. The UPnP settings were not working properly, Plex did not work. Support did help at all. It was a shame because I was expecting something awsome but I was very disappointed. In the end I sent it back.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "Goncalo perdigao",
+      "helpful_votes": 2,
+      "publication_date": 20161231
+    }
+  ],
+  "product_meta": {
+    "title": "QNAP TS-251+-2G 2 Bay Desktop High-performance NAS Enclosure - 2 GB RAM, Intel Celeron 2.0 GHz Quad Core Processor - Supporting HDMI, Transcoding and Virtualization, TS-251+ 2GB",
+    "description": "Style Name:2 Bay| Capacity:2 GB RAMFacing the increasing demand for data storage, sharing and multimedia processing, more and more users are looking for a NAS system with good performance and an affordable price tag. The Intel quad-core TS-251+ provides an uncompromising high-performance scalable storage solution for professional users. Powered by the intelligent QTS operating system, the TS-251+ performs as an easy-to-use yet powerful NAS for data backup, file synchronization and sharing, remote access and multimedia applications, and is ideal for users to create a secure private cloud to access their data easily.\n\nBOX CONTAINS\n1 x TS-251+-2G\nRM-IR002",
+    "rating": 4.4,
+    "feature_bullets": [
+      "Centralize your file storage, sharing and backup with excellent performance",
+      "Run multiple Windows, Linux, UNIX and Android based virtual machines with the Virtualization Station",
+      "Operate multiple isolated Linux systems as well as download containerized apps with Container Station",
+      "Enjoy the best audio-visual experience with HDMI output and the free remote control",
+      "Transcode Full HD videos on-the-fly or offline* Stream multimedia files via DLNA, AirPlay, Chromecast and Bluetooth with multi-zone multimedia control",
+      "Scale up to 12 drives with QNAP UX-800P expansion enclosure"
+    ],
+    "specifications": {
+      "Brand": "QNAP",
+      "Product Dimensions": "10.2 x 21.9 x 16.9 cm; 1.28 Kilograms",
+      "Batteries": "2 AAA batteries required.",
+      "Item model number": "TS-251+ 2GB",
+      "Manufacturer": "QNAP",
+      "Series": "TS-251_-2G",
+      "Color": "Black",
+      "Processor Count": "4",
+      "RAM Size": "1024 MB",
+      "Hard Drive Size": "2 GB",
+      "Number of USB 2.0 Ports": "2",
+      "Wattage": "18.09 watts",
+      "Power Source": "AC",
+      "Are Batteries Included": "No",
+      "Item Weight": "1.28 kg",
+      "ASIN": "B015CDDPD8",
+      "Customer Reviews": "4.4 out of 5 stars233 ratings4.4 out of 5 stars",
+      "Best Sellers Rank": "44,918 in Computers & Accessories",
+      "Date First Available": "14 Sept. 2015"
+    },
+    "categories": [
+      "Computers & Accessories",
+      "Data Storage",
+      "Enclosures",
+      "Network Attached Storage"
+    ],
+    "price": 414.92
+  }
+}

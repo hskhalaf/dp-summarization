@@ -1,0 +1,947 @@
+{
+  "website_summaries": [
+    {
+      "verdict": "With the new AirPort design and the inclusion of 802.11ac, it's plain to see that Apple is taking steps forward with its networking devices. Cupertino's latest AirPort Extreme is not on the bleeding edge, as far as speeds and feeds go, but it is beautiful and \"just works\" out of the box.",
+      "pros": [
+        "Idiot-proof, wireless setup",
+        "Revamped design boosts performance",
+        "Attractive form factor",
+        "Supports 802.11ac",
+        "Excellent performance in the 2.4GHz band"
+      ],
+      "cons": [
+        "Throughput trails leading 802.11ac routers in 11ac mode",
+        "No Web management interface",
+        "No granular control over Wi-Fi network",
+        "No USB 3.0 port",
+        "Only three LAN ports",
+        "Slow data transfer rate between USB connected HDD and new MacBook Air"
+      ],
+      "aspects": {},
+      "publication_date": 20130628,
+      "rating": 8.0,
+      "source": "pcmag"
+    }
+  ],
+  "customer_reviews": [
+    {
+      "title": "Expensive but Excellent... Must be Apple then!",
+      "text": "As I often do, I'd messed around with a few different routers and backup solutions that all kind of worked, or took ages to set up, or in the worst cases failed regularly, until I eventually gave up and decided that I'd fork out for the Apple solution. As is always the case, I looked at it, I thought it's too expensive, but I gritted my teeth and ordered it anyway. It came a couple of days later, plugged straight in, worked immediately and all my gear recognised it and started backing up over a fast connection in a couple of clicks. Damn you Apple, so easy to use, so hard to buy!",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Ray Chapman",
+      "helpful_votes": 6,
+      "publication_date": 20140626
+    },
+    {
+      "title": "As always great product",
+      "text": "I have Two of these and a Time Machine they work great dotted around the house for whole house wifi at AC speeds. All of them have been connected through ethernet and set to bridge mode. So not extra processing power used unlike a wifi to wifi link which is susceptible to interference and also distance from basestation to basestation and also walls which degrades the signal to the next basestation, which could see speeds no better than what you would get with one. If you go basestations route hardwire them even if its only through a home plug.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "D",
+      "helpful_votes": 0,
+      "publication_date": 20170209
+    },
+    {
+      "title": "we have several wifi routers around the house and ive ...",
+      "text": "we have several wifi routers around the house and ive tried various brands. They all kept falling over and needed resets which was very frustrating. I replaced all of them with these apple Extremes, because reviews said they were more stable. I bought 7 from memory. One keeps going wrong and i believe was faulty from day one. the others are very reliable although they are not particularly fast. For reliability, i believe that they are worth the high price tag.",
+      "rating": 4.0,
+      "verified": true,
+      "author": "CRG",
+      "helpful_votes": 0,
+      "publication_date": 20180406
+    },
+    {
+      "title": "No stronger than a standard router signal",
+      "text": "The Apple AirPort Extreme was lauded in advertisements for its impeccable wi-fi signal and how it is much stronger than one broadcast by a wireless router. Sorry, but the signal is not that great. I measured the Mbps on 5G against the router's 5G at a fair distance. The router produced a much faster rate (by a mile, not even close). Seems I wasted my money as this unit is very expensive for what it is. Had it been a Time Capsule then I would think it good value, but it's not.",
+      "rating": 3.0,
+      "verified": true,
+      "author": "Cardiff Station",
+      "helpful_votes": 0,
+      "publication_date": 20181203
+    },
+    {
+      "title": "Its great hardware you can plug a USB hub too it ...",
+      "text": "I own 3 iMac, 1 MacMini, 2 MacBook Pros, 4 iPads, 5 iPhones and an AppleWatch so you could say I am an Apple Fan boy but this does alas not get five stars. Its great hardware you can plug a USB hub too it and the printer just appears and the hard drive too for perfect back ups. However you can not have a second hard drive on the hub, and seems that when I got two PC to back up to drive too the router was not happy. 5 star for an all Apple Network, if you put some PC in mix not as cool but still love it.",
+      "rating": 4.0,
+      "verified": true,
+      "author": "Jackson Quarrell",
+      "helpful_votes": 0,
+      "publication_date": 20170504
+    },
+    {
+      "title": "It just works. Brilliantly.",
+      "text": "If you are fed-up of fiddling with routers and access points trying to maintain the signal and checking the settings... this is a breath of fresh air for any Apple user. Just plug it in, switch it on and it will talk to your Mac, set itself up in a heart beat. It also talks to Airport Express devices (even older generations ones) to relay music around your home, as well as enabling you to plug-in a USB hard drive \u2013 effectively turning it into an upgradable Time Capsule. It might be expensive, but it will save you days of frustration and is worth every penny in my opinion. It also looks typically Apple-minimalist-cool.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "fortinbras",
+      "helpful_votes": 0,
+      "publication_date": 20160618
+    },
+    {
+      "title": "Five stars",
+      "text": "This device has boosted my wireless connection from 50meg to 100meg. I am on Virginmedia broadband and disabled the Virgin wireless (by keeping my finger on the big button on the side of the modem). I plugged a hard drive in to the USB port and it enabled me access my favourite videos, photos and music tracks from all my Apple devices. You may want to download the 'File Browser' app on IOS to give you full access to your files stored on this device.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "E. Pilling",
+      "helpful_votes": 4,
+      "publication_date": 20150607
+    },
+    {
+      "title": "I can not believe, Apple stopped this wonderful product.",
+      "text": "Works extremely stable. Easy setup and excellent range. Mac backups. Supports an external drive or USB printer. Stored information is available through network on the mac, pc, smart TV or smart box (Apple TV4 or Android with App). Works with other airport products like network extender.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Peter M",
+      "helpful_votes": 0,
+      "publication_date": 20190528
+    },
+    {
+      "title": "This is easily the best you can get.",
+      "text": "What a great device. Easy to set up as a router, giving great coverage on 2.4 and 5GHz bands. And a seamless time capsule setup, which comfortably handles 2 iMacs and a MacBook. The USB also allows me to plug in a couple ofusb-powered 500Gb external drivers as shared NAS drives. It just works. It' is also a thing of beauty. Al other routers and modems are hideous by comparison, and should rightly be hidden away in shame- which inevitably impairs their effectiveness. Get one.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Greg",
+      "helpful_votes": 0,
+      "publication_date": 20160910
+    },
+    {
+      "title": "Its expensive but works for me",
+      "text": "Its my second Airport Time Capsule and they simply work for me with no faffing around, hence the 4star rating. Unfortunately Apple still use the old spinning disk technology in these, which is annoying, because my previous model only lasted 3 years before packing up. And whilst I'm ok with 3 years service, its still inconvienent and would prefer a solid-state drive to hopefully improve longevity.",
+      "rating": 4.0,
+      "verified": true,
+      "author": "C. Leah",
+      "helpful_votes": 0,
+      "publication_date": 20160831
+    },
+    {
+      "title": "Robust and reliable wifi, easy to install, but a bit more expensive than other wifi hubs.",
+      "text": "A bit more expensive than other makes but as I have a mix of Apple and non-Apple devices this is only to be expected. Package a bit OTT. Easy to install and very reliable so far. The BT home hub (\"most reliable wifi in the country\"), was dropping out all the time, requiring a restart of the hub. The hub now only provides the broadband (ADSL) connection and the airport provides wifi. Easy to install and hasn't needed to be reset since I installed it a couple of months ago.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "J S.",
+      "helpful_votes": 5,
+      "publication_date": 20140814
+    },
+    {
+      "title": "Excellent backup and great WiFi",
+      "text": "Bought this as I got fed up of constantly having to plug in an external drive to backup my MacBook. Setup was a breeze and it working in about 5 mins. I initially connected my MacBook Air via a Thunderbolt Gigabit ethernet adaptor for the first very large backup from then on, backup are an unnoticed occurrence - especially with the new Mavericks \"backup while sleeping\" feature in OSX. The Wifi Strength is great too - much better then the old Netgear router I'd been using.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Mark Booth",
+      "helpful_votes": 0,
+      "publication_date": 20140622
+    },
+    {
+      "title": "Expensive but worth it",
+      "text": "As with all Apple products, this simply works. Setup is incredibly easy and can be done from any iDevice with the required app or from a Mac. I used mine to replace the wireless function of my Sky Hub (please note that you still need to use the Sky Hub as a modem). With my Sky Hub I was lucky to get a wireless speed of 2mbps from a 17mbps incoming speed. Had a replacement Hub delivered and still the problem persisted. With this I now get a 16mbps speed from any area of the house. Expensive but worth it.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Tarik",
+      "helpful_votes": 0,
+      "publication_date": 20150503
+    },
+    {
+      "title": "I do recommend this; even at \"Apple Price\"",
+      "text": "Well, what can I say? It is Apple and just connects and works. OK, it is not inexpensive but it is SO reliable compared with standard wifi routers supplied by cable companies. Yes, I do recommend this; even at \"Apple Price\".",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Lifeseeker",
+      "helpful_votes": 0,
+      "publication_date": 20170524
+    },
+    {
+      "title": "Just Works",
+      "text": "Even though this was launched in 2013, it's still an excellent access point. 802.11ac and plenty of bandwidth for most people's needs. Clever form factor, superb range. Quick to setup and the management apps are slick. Works well with more than one together in a hub and spoke topology.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "SquirrelNuts",
+      "helpful_votes": 0,
+      "publication_date": 20180327
+    },
+    {
+      "title": "It's Apple - It's good!......but not perfect!",
+      "text": "It's Apple - you know it's going to work well! Time Machine takes ages so plug in an Ethernet cable and disable wireless for your first backup. Then give it a day or so depending on how much your backing up. After that it just works over Wi-Fi in the background. Wi-Fi Airport function seems good, but not the revelation that Apple would have you believe (hence 4*). It's just a good (expensive) router. USB port for an external HDD",
+      "rating": 4.0,
+      "verified": true,
+      "author": "Stephen  Williams",
+      "helpful_votes": 0,
+      "publication_date": 20140705
+    },
+    {
+      "title": "Apple just works",
+      "text": "They really do. Bought to replace an older gen Extreme. This is much faster when connected to compatible AC wireless devices like the new iMacs, Minis and the Pro when released. As easy as it gets to set up when connecting to Apple products and probably others too though not tried that. Aesthetics are typically Apple excellence as is build quality. Not cheap but totally frustration free so for me well worth it.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Shed",
+      "helpful_votes": 3,
+      "publication_date": 20131211
+    },
+    {
+      "title": "Faster wifi performance than expected",
+      "text": "I was looking to replace a very old Time Capsule with one that had much faster connectivity. I was able to get my maximum cable broadband speed of 152Mb over wifi to my laptop. Impressive. Usually there's some latency but this was super fast. The rest of my Airplay network seems zippier too but I've yet to test all the Airport Expresses properly",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Mr. Jewitt",
+      "helpful_votes": 2,
+      "publication_date": 20150831
+    },
+    {
+      "title": "Easy to setup and provides a good connection",
+      "text": "Bought to replace a BT Homehub. The signal strength compared to the Homehub is excellent - I now get signal throughout the house and the speed/connection seem unaffected by walls. The Airport is very easy to setup using the app on an iPad or iPhone and the firmware allows fine control over the network setup to reserve IP addresses or change the DNS servers.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "HarryJ",
+      "helpful_votes": 0,
+      "publication_date": 20151223
+    },
+    {
+      "title": "Airport Extreme",
+      "text": "Mulling over whether to buy this product for ages as it's quite an expensive piece of kit. Very glad I did as it's resolved a multitude of problems for my network. I use it in conjunction with the new Sky Hub and because this is an independent router albeit without a modem I can connect many more wireless devices to it. Since purchasing, my internet connection has not dropped out once and the speed has tripled. I might purchase another (or Time Capsule) to use as a range extender although I believe this won't work independently and will share the bandwidth. Great product, very easy to set up, would recommend to anyone.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Mr. S. J. Bayston",
+      "helpful_votes": 0,
+      "publication_date": 20131231
+    },
+    {
+      "title": "Great for my iMac but read for a tip ;)",
+      "text": "Great for my iMac in conjunction with some CAT6 cables i bought from amazon, very fast but i do suggest when doing the first backup you plug the ethernet cable from your Mac into the BOTTOM PORT for a fast wired backup instead of over wifi unless you leave it for a night. Great product tho. Thanks Apple and Amazon",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Sam Evans",
+      "helpful_votes": 0,
+      "publication_date": 20150407
+    },
+    {
+      "title": "The poorest Apple product I've bought to data. A ...",
+      "text": "The poorest Apple product I've bought to data. A Cisco E4200 running Tomato can run forever without having to reset or restore the configuration. At least once a month, if not every 3rd week or so I have to restart. Every couple of months I have to factory reset and restore my configuration. This is the second I've had with the same results. I have lost hope of a firmware update to make it bulletproof.",
+      "rating": 3.0,
+      "verified": true,
+      "author": "Lee",
+      "helpful_votes": 0,
+      "publication_date": 20151103
+    },
+    {
+      "title": "Great product",
+      "text": "Super easy to setup and fast first backup. The router functions well and with excellent coverage.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Mondoir",
+      "helpful_votes": 0,
+      "publication_date": 20171016
+    },
+    {
+      "title": "There is no easier backup solution for Mac's",
+      "text": "As with all Apple products this is an absolute doddle to setup. The time capsule was up and running the first backup of my Mac within 5 minutes. Only reason for 4 stars as opposed to 5 is that I had expected the wifi transfer speed on this unit to be higher than my standard Sky Router where the performance was actually about the same.",
+      "rating": 4.0,
+      "verified": true,
+      "author": "D. Robinson",
+      "helpful_votes": 0,
+      "publication_date": 20151230
+    },
+    {
+      "title": "Huge improvement",
+      "text": "This is a huge improvement over the previous model I was using which used to drop wireless connectivity intermittently and was a pain to set up. This really is plug and play. The signal strength is much more powerful, more consistent and has a better range than before. The connection speed for my iphone & Ipad is much much better. Allegedly Apple devices using this can transit at at higher rate .. Cheaper than buying from the Apple Store too",
+      "rating": 5.0,
+      "verified": true,
+      "author": "M C Jones",
+      "helpful_votes": 0,
+      "publication_date": 20140110
+    },
+    {
+      "title": "Good WiFi",
+      "text": "Great product. Time capsule is a must if you want a consistently strong network connect. 5GHZ and 2GHZ channels make for a good range and the ability to connect a printer to the time capsule makes printing easy. Came packaged nicely and has helped improve the wifi in our house.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "S Harry",
+      "helpful_votes": 0,
+      "publication_date": 20160405
+    },
+    {
+      "title": "Good, apart from not including AirPlay.",
+      "text": "Does what it says on the tin giving me 802.11ac connectivity with iPhone 6 and iPad Air 2 as well as other computers with an 802.11ac adapter plugged in. As others have commented, it is unfortunate that Apple haven't implemented AirPlay in this device, as AirPlay still requires the AirPort Express with slower 802.11n WiFi and only 100Mbps ethernet.",
+      "rating": 4.0,
+      "verified": true,
+      "author": "mgmcc",
+      "helpful_votes": 0,
+      "publication_date": 20150618
+    },
+    {
+      "title": "Another fantastic product",
+      "text": "I have read mixed reviews online about this but I'm happy to report that we have had no problems with this router at all, and have seen excellent wi-fi speeds throughout the house. If you are considering buying this, I recommend downloading the accompanying iOS app which makes short work of setting this up, and more importantly downloading any security updates that Apple release. Oh - it also looks splendid!",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Bob",
+      "helpful_votes": 3,
+      "publication_date": 20140624
+    },
+    {
+      "title": "Solved a problem.",
+      "text": "For some time we had had issues with connections to our wi-fi router dropping and we suspected that although it was theoretically able to handle many connections, in practice the number of devices in the house which wanted to connect exceeded the abilities of the router. The Apple Time Capsule solved all those issues and, having storage as well, enables us to have automatic wireless backups for two laptops.",
+      "rating": 4.0,
+      "verified": true,
+      "author": "Malcolm",
+      "helpful_votes": 0,
+      "publication_date": 20131112
+    },
+    {
+      "title": "Great fast WiFi router that also acts as a backup ...",
+      "text": "Great fast WiFi router that also acts as a backup device for all you Macs. Allows automatic backups without you having to even think about it. Provides fast 5GHz network at the same time as the more traditional 2.5GHz frequencies. Also able to do beam forming for longer signal reach.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Mr. Ian A. Kennedy",
+      "helpful_votes": 0,
+      "publication_date": 20151008
+    },
+    {
+      "title": "Not Convinced",
+      "text": "5GHz performance was not great with a fairly clean line of sight across 15-20 meters. 2.4GHz was not fantastic either and worse than my manky Sky Hub. On 2.4GHz my Sky hub is not quite as good as the AE but not \u00a3150 worse. Might have been a dodgy one but I have read other reports of poor range and throughput. Returned for refund but may try again if they release a new model or firmware.",
+      "rating": 3.0,
+      "verified": true,
+      "author": "topgazza",
+      "helpful_votes": 0,
+      "publication_date": 20140618
+    },
+    {
+      "title": "Brilliant signal, and high speed up- and down-load",
+      "text": "As with most Apple stuff, this 'just works'. Saved me a fortune on hard wiring to my Garden Office. Brilliant signal, and high speed up- and down-load.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Andrew Sercombe",
+      "helpful_votes": 0,
+      "publication_date": 20160727
+    },
+    {
+      "title": "Excellent Purchase",
+      "text": "Much better now with music steaming. Goes onto the network with ease, improves my signal much better. The NAS drive I use for streaming loads music from the MAC in half the time. I have an Airport Express boosting the signal and pushing the music through to a streamer in the bedroom wired with a Tousling Cable and the quality is excellent. All round, as I wanted it.. Worth the money.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Paul G. Fuller",
+      "helpful_votes": 0,
+      "publication_date": 20150524
+    },
+    {
+      "title": "Expensive but worth it.",
+      "text": "I bought one to replace both my BT HomeHub and external hard drive. Easy to set up and use. Expensive but worth it and like most Apple products well designed / engineered.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Scott-tythy",
+      "helpful_votes": 4,
+      "publication_date": 20150223
+    },
+    {
+      "title": "Not been disappointed!",
+      "text": "Excellent back up device. Having tried a cheaper make previously which gave me all sorts of problems, I decided to go with Apples model. So far I have not been disappointed! Its definitely worth paying for.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Ms. S A Hunt",
+      "helpful_votes": 0,
+      "publication_date": 20180625
+    },
+    {
+      "title": "Excellent product!",
+      "text": "After shopping around for a router to replace my BT Hub 3, I decided to go for the reliability that Apple products normally offer, and I wasn't wrong! Configuration is dead simple, the connection from my iOS devices (two iPhones + iPad) is quite good, it hasn't dropped once since I started using it three weeks ago (which was the norm with the BT Hub 3, requiring resets almost every day).",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Victor Manuel Dias Sardinha",
+      "helpful_votes": 0,
+      "publication_date": 20140425
+    },
+    {
+      "title": "Looks good, easy to set up",
+      "text": "Incredibly easy to set up, it took only a couple of minutes. It's easy to connect to, and very sturdy . My only complaint would be that it doesn't have as good a range as advertised. It really doesn't like brick walls, even only 10 feet away. I cannot get a signal in the next room, and it's only a breezeblock wall.",
+      "rating": 4.0,
+      "verified": true,
+      "author": "Paul Morriss",
+      "helpful_votes": 0,
+      "publication_date": 20150902
+    },
+    {
+      "title": "Improved range of wifi but not performance",
+      "text": "I have switched the wifi on my sky fibre broadband and removed all sky wifi extenders. Range has now extended to most of the house now and Apple TV is more stable however it has not made any difference to the speed of wifi. Despite getting 36mb at the router I never get anything more than 20mb over wifi. Disappointed as all the reviews I read suggested it would improve the broadband wifi as well as range.",
+      "rating": 4.0,
+      "verified": true,
+      "author": "danny seago",
+      "helpful_votes": 0,
+      "publication_date": 20150930
+    },
+    {
+      "title": "Way better wifi range that virgin router!",
+      "text": "And once again everything just works. After a brief interlude of trying to get by on the feee virgin router after my last TC Gave up I finally replaced and within seconds all set up and my Bose speakers are playing without the frustrating drop outs, air print is back. Life is all good. If your reading this to confirm you need the TC. You do. Go for it!",
+      "rating": 5.0,
+      "verified": true,
+      "author": "SCB",
+      "helpful_votes": 0,
+      "publication_date": 20180316
+    },
+    {
+      "title": "Looks Good, Works Well",
+      "text": "Very easy to set up; in fact, it couldn't be easier. Very elegant in appearance too. I have had no more problems with wi-fi connection in the bedroom, which I used to have when using my BT Home Hub 2 alone. (The bedroom is separated from the rest of the flat by a thick, load-bearing wall.)",
+      "rating": 5.0,
+      "verified": true,
+      "author": "terence AK47",
+      "helpful_votes": 0,
+      "publication_date": 20160303
+    },
+    {
+      "title": "Good piece of kit",
+      "text": "It's a shame it doesn't have Air Play audio as the Airport Express. The configuration was easy, but the 5GHz coverage is so so \u2013 I live in a block of flats so perhaps walls are not easy to penetrate by this frequency. Time Machine works seamlessly ant that was the main reason I bought it so overall I am happy with it.",
+      "rating": 4.0,
+      "verified": true,
+      "author": "Tomasz",
+      "helpful_votes": 0,
+      "publication_date": 20151031
+    },
+    {
+      "title": "Beautiful and functional. Pity it didn't help because of the poor BT provision in Orkney.",
+      "text": "Can't fault the actual product but I had loads of problems setting it up. Had to ask an expert for help. No way i could have done it alone. Configuring this and trying to manipulate stuff on the BT site etc. Thought it would speed up my internet it didn't but that is down to the poor BT provision in Orkney.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Vava",
+      "helpful_votes": 0,
+      "publication_date": 20151116
+    },
+    {
+      "title": "Great product, so easy",
+      "text": "Great Product, works perfectly, and easily ! It also connected to my MAC even when it didnt have an operating system and allowed it to connect to the internet. Its very seamless and easy. Compared to my old 54mb netgear router running on G wireless (2Gz) My speed has increase from 4-10mbs to 16/20mbs on a standard cheap ADSL internet, which is fantastic ! very happy",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Magikmat",
+      "helpful_votes": 0,
+      "publication_date": 20151019
+    },
+    {
+      "title": "didn't work",
+      "text": "Simply wouldn't work. Spent ages on the phone with Apple support but couldn't get them to work at all. They would start backing up and just stop and fail or stop and 'hang' and stay in that state for hours on end. Gave up after a few weeks of trying and sending them back.",
+      "rating": 2.0,
+      "verified": true,
+      "author": "G.",
+      "helpful_votes": 0,
+      "publication_date": 20150113
+    },
+    {
+      "title": "Appletized!",
+      "text": "Arrived ,up and running 8 minutes ,synced easily with AirPort Extreme itself . Kept existing passwords etc itself (brilliant ) first iMac backup 150 gig 6 hours , keeps running in background and backs up via time machine seamlessly What can you say ,great bit of kit \ud83d\ude00",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Caulkhead joe",
+      "helpful_votes": 0,
+      "publication_date": 20160117
+    },
+    {
+      "title": "Apple do it again!!",
+      "text": "Replaced my old Asus router with this and what can j say. 340mbit over wireless is amazing. It's lightning quick to use and absolutely a doddle to set up. You can even do the initial config from the wifi settings page on an iOS device !! Amazing",
+      "rating": 5.0,
+      "verified": true,
+      "author": "E. Whiteley",
+      "helpful_votes": 0,
+      "publication_date": 20160101
+    },
+    {
+      "title": "Hmmmmm",
+      "text": "I love Apple products and bought this one based on reviews on Amazon. It's much faster than my 2011 model (I stream my iTunes library to my Apple TV, Sono's and backup my Mac) but I feel let down by the wifi coverage. Was hoping to ditch my TalkTalk router but sadly this simply doesn't do the job. I get more coverage with my old router. Oh well.",
+      "rating": 3.0,
+      "verified": true,
+      "author": "thinkmilo",
+      "helpful_votes": 0,
+      "publication_date": 20140127
+    },
+    {
+      "title": "Recommended",
+      "text": "A great piece of kit that gives an excellent signal and very little trouble, its also comforting to know that you have up to date automatic backups without any worries something that is increasingly important in our hacked up world of the internet.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "sid",
+      "helpful_votes": 0,
+      "publication_date": 20160405
+    },
+    {
+      "title": "Solid reliable router",
+      "text": "Setup was incredibly easy (using it in bridge mode to act as a second access point) signal strength is pretty good. Overall very happy much better than paying the \u00a3170 apple charge. Do bear in mind if using this as your only router you will need a modem or connect it to your providers router if it supports \"modem mode\"",
+      "rating": 5.0,
+      "verified": true,
+      "author": "samuel betts",
+      "helpful_votes": 0,
+      "publication_date": 20160109
+    },
+    {
+      "title": "Easy setup, not so noisy as expected",
+      "text": "My review is biased - I am a fanboy. Pro: Is a great design - this includes of course functionality. Cons: The price is a bit over the top. Otherwise is a great buy and I had to choose between Apple and Synology. The delivery, as always - exceptional - Thank you amazon!",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Alin Buda",
+      "helpful_votes": 0,
+      "publication_date": 20140611
+    },
+    {
+      "title": "Typical Apple - instantly works",
+      "text": "Am converting my wifi to apple. Switched it on, plugged into BT ADSL router. Works. Stuff being backed up to the HD. Will attach my old Buffalo NAS to it via USB. Yes, it is pricier than a non-Apple drive but it just looks so good and so easy to set-up! Well worth it.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Hud",
+      "helpful_votes": 0,
+      "publication_date": 20140317
+    },
+    {
+      "title": "Worth investing in if you want to buy into the Apple eco-system",
+      "text": "Pros: Works perfectly! Automatic backups! Easy set-up! Can access from the web with only minor setting up! Cons: Expensive but Amazon do sell it at a price cheaper than Apples.",
+      "rating": 4.0,
+      "verified": true,
+      "author": "TSLon",
+      "helpful_votes": 0,
+      "publication_date": 20151229
+    },
+    {
+      "title": "Beats homehub hands down..",
+      "text": "After all the issues with our BT home hub lately, constantly dropping connection and signal I deciced to get one of these. Arrived very quickly thanks to Prime delivery and was set up within 15mins using my iPad and the airport utility from the AppStore. Suddenly, no dropped connections or wifi cutting out, plus I can now get signal in my back garden which is a bonus. It is quite expensive, but for the reliability and ease of use its worth it.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Spenny",
+      "helpful_votes": 0,
+      "publication_date": 20150221
+    },
+    {
+      "title": "Great peace of mind",
+      "text": "I have had the Time Capsule for sometime now. It has worked extremely well. I can forget about backing up in the knowledge that the machine is doing it for me. Great peace of mind.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Jae",
+      "helpful_votes": 0,
+      "publication_date": 20180306
+    },
+    {
+      "title": "AMAZEINGGGGG",
+      "text": "I had the previous version of Time capsule and WOW?? this is very fast, the time capsule is very well made as well as all Apple products. This is a massive improvement on the previous model but with the A/C wireless is fantastic would highly recommend",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Dave B",
+      "helpful_votes": 0,
+      "publication_date": 20141223
+    },
+    {
+      "title": "Apple router - its the Orchard home of the Apple",
+      "text": "Researched to death - am on Apple so went with the blinding obvious choice to keep in the bubble. Previous on BT hub 4 drop out was bad - and all reviews pointed to Apple kit go this way. Lots of kit on hub and range extender. Plug and Go - really easy. Well no drop out and faster speed and no complaints from teenagers.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Mr S.",
+      "helpful_votes": 0,
+      "publication_date": 20160622
+    },
+    {
+      "title": "Quality product",
+      "text": "Bought to ginger up my internet connection as despite fibre optic being installed, connections still dodgy owing to the area where I live. Easy to assemble (insert ethernet, insert power plug) and to set up - recognised by network immediately. There has also been a noticeable steadying of the internet connection. Not cheap but absolutely worth it.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Mr. J. R. H. Black",
+      "helpful_votes": 0,
+      "publication_date": 20140115
+    },
+    {
+      "title": "a lovely time capsule",
+      "text": "I just needed an instrument to back up my iMac and this Time Capsule does just the job, also I put my whole CD collection on it, and there is room to spare, so I am very pleased with this gadget. And the built-in stronger Wifi is an added bonus",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Dennis Mezas",
+      "helpful_votes": 0,
+      "publication_date": 20150728
+    },
+    {
+      "title": "Just finished setting....",
+      "text": "For setting...It is not that complicated to know. I had been stupidly forgot my broadband PPPoE user name and password so struggled to find the paper for information. Only 5 hours to have it so can not review everything but think can recommend it.",
+      "rating": 4.0,
+      "verified": true,
+      "author": "kengels",
+      "helpful_votes": 0,
+      "publication_date": 20140315
+    },
+    {
+      "title": "Brilliant",
+      "text": "Bought to replace my existing Time Capsule which was failing after six years. Easy to set up (literally plug in ethernet cable and plug in power), was automatically recognised by my network and backing up within minutes. Brilliant.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Mr. J. R. H. Black",
+      "helpful_votes": 3,
+      "publication_date": 20140115
+    },
+    {
+      "title": "Five Stars",
+      "text": "wow zippy fast wifi speed, get 1300Mbps in the same room, 800ish in the next room",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Steven",
+      "helpful_votes": 2,
+      "publication_date": 20161107
+    },
+    {
+      "title": "Easy to set up",
+      "text": "Easy to set up, and did what I had hoped for, i.e. much improved Wi-Fi reception from a BTHub 5 router to an iPad, even when it has to be through thick stone walls and Kingspan wall insulation, giving very good picture/sound and much fewer drop-outs (some do still occur but presumably the signal via the phoneline can/will fluctuate according to neighbourhood load etc.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "J. Dear",
+      "helpful_votes": 0,
+      "publication_date": 20141111
+    },
+    {
+      "title": "Easy to set up and has worked well since it arrived a month ago.",
+      "text": "I chose this rating because I have not had the item long enough to know its reliability. Earlier Time Capsules had a reputation for having a short life and giving up after a year or so. This remains to be seen.",
+      "rating": 4.0,
+      "verified": true,
+      "author": "Kered",
+      "helpful_votes": 2,
+      "publication_date": 20140411
+    },
+    {
+      "title": "Five Stars",
+      "text": "Works as expected and matches the design of my other Apple products.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Mr. William Harvey",
+      "helpful_votes": 0,
+      "publication_date": 20180117
+    },
+    {
+      "title": "... Apple person but this unit is one of the best. I had a hard drive but it wasn't ...",
+      "text": "I'm a bit of an Apple person but this unit is one of the best. I had a hard drive but it wasn't up to much so I swooped it for the time capsule. I'll never buy cheep again Apple might be dear but their the best.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Dean",
+      "helpful_votes": 0,
+      "publication_date": 20160510
+    },
+    {
+      "title": "Good range",
+      "text": "Replaced my Virgin supplied wi-fi router and I now have wi-fi anywhere in the house. Very easy to administer thanks to Apple's software.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "ML",
+      "helpful_votes": 0,
+      "publication_date": 20160415
+    },
+    {
+      "title": "I'm currently filling my time whilst I wait on hold ...",
+      "text": "I'm currently filling my time whilst I wait on hold with Apple Support. This is my third call to them regarding the same issues, which they've not been able to resolve yet; my Airport fails to detect an external HDD that's connected to it over USB.",
+      "rating": 2.0,
+      "verified": true,
+      "author": "Mark Bridges",
+      "helpful_votes": 0,
+      "publication_date": 20170205
+    },
+    {
+      "title": "Great styling",
+      "text": "Works superbly with the new Iphone 5S (802.11ac) and hopefully will with the Ipad airs when they come out. Slightly tricky to set up for inexperienced apple users, but if you know your way around, then ideal. Very pretty on the shelf as well.",
+      "rating": 4.0,
+      "verified": true,
+      "author": "mike s",
+      "helpful_votes": 0,
+      "publication_date": 20131029
+    },
+    {
+      "title": "Love it",
+      "text": "Plug and play with my existing airport setup - now being used as the main router. Strong signal strength throughout the house and stylish looking.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "TheSpudMan",
+      "helpful_votes": 2,
+      "publication_date": 20140813
+    },
+    {
+      "title": "Great product",
+      "text": "Great product. Easy to install and works perfectly. Really improved the range of broadband coverage throughout the house. Highly recommended",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Chris H.",
+      "helpful_votes": 0,
+      "publication_date": 20160809
+    },
+    {
+      "title": "Five Stars",
+      "text": "excellent. able to back up my i pad, i phone, macbook and iMac wirelessly.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Karthik",
+      "helpful_votes": 0,
+      "publication_date": 20160207
+    },
+    {
+      "title": "Five Stars",
+      "text": "had it for years now and it does an excellent job",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Chris",
+      "helpful_votes": 0,
+      "publication_date": 20180607
+    },
+    {
+      "title": "Effortless - router for dummies :)",
+      "text": "I have experimented with a few routers over the years, including the IP provider ones (super hubs). They all have their pros + cons, but Apple make it simple to use. Plug it in, name & password it and you're good to go. Extending existing Apple networks - the easiest possible way to do it is with these.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Mr N Proctor",
+      "helpful_votes": 0,
+      "publication_date": 20160626
+    },
+    {
+      "title": "High quality and easy set up",
+      "text": "Very easy to set up and get going, the iOS app is simple and effective. Range isn't quite as wide as I was hoping for, but I have not had a single dropout since fitting it many months ago now, whereas I was having weekly drops with the BT Home Hub (which is still being used as the modem).",
+      "rating": 5.0,
+      "verified": true,
+      "author": "David",
+      "helpful_votes": 0,
+      "publication_date": 20160331
+    },
+    {
+      "title": "Easy to use, nice and compact",
+      "text": "Easy to use, nice and compact, no more worry of backup. But my garden is 100ft, around 50ft dont seen to get the internet range",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Angela",
+      "helpful_votes": 0,
+      "publication_date": 20151008
+    },
+    {
+      "title": "and was very easy to set up (typically Apple",
+      "text": "As a basic user fed up with BT Infinity Home Hub, this has made a marked improvement to our home wifi. Much more stable, much quicker, and was very easy to set up (typically Apple!). I'm sure I can do a lot more with it, but haven't used extra features.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Amazon Customer",
+      "helpful_votes": 2,
+      "publication_date": 20151002
+    },
+    {
+      "title": "Highly recommended!",
+      "text": "Purchased to use with a DRAYTEK V130 Vigor 130, and both replacing the awful NETGEAR D7000-200UKS Nighthawk. The setup has been absolutely rock solid. Highly recommended!",
+      "rating": 5.0,
+      "verified": true,
+      "author": "John G",
+      "helpful_votes": 0,
+      "publication_date": 20180329
+    },
+    {
+      "title": "Great device",
+      "text": "Great device, just a real pain to set-up if you don't have some apple device to set it up with. Tried my PC, but got some bad results, messed the entire network. Eventually tried the app on iPhone to sort theses devices, worked no problems, now all rock solid.",
+      "rating": 4.0,
+      "verified": true,
+      "author": "Paddee",
+      "helpful_votes": 0,
+      "publication_date": 20140729
+    },
+    {
+      "title": "It fits in nicely with my all Apple home",
+      "text": "Bought this to replace my Virgin Media SuperHub for WiFi. I can now get signal in all areas of my house without the use of a repeater. It fits in nicely with my all Apple home. Easy to setup.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Jordan Pitcairn",
+      "helpful_votes": 0,
+      "publication_date": 20160816
+    },
+    {
+      "title": "A great bit of kit",
+      "text": "A great bit of kit. thoroughly recommended. If you're buying for a business though, make sure you can get a VAT receipt, which I didn't. In which case the price is effectively 20% higher than advertised.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Chris 256",
+      "helpful_votes": 0,
+      "publication_date": 20150625
+    },
+    {
+      "title": "Awesome product! My Virgin Media Super Hub-2 used to ...",
+      "text": "Awesome product! My Virgin Media Super Hub-2 used to drop Internet 3-4 times a day. I read some blogs, got this, and now, 2 months after, not a single Internet drop and I actually get my advertised speeds. Love or hate Apple, they make superb products.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Nirav Patel",
+      "helpful_votes": 0,
+      "publication_date": 20150716
+    },
+    {
+      "title": "We also have a BT home hub and it's useless. Since having this our Internet has been smooth ...",
+      "text": "This is just what we needed. We also have a BT home hub and it's useless. Since having this our Internet has been smooth with no drop outs. Simple set up and did not \"fall out of its box\"... Highly recommend this.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Jade Waddy",
+      "helpful_votes": 0,
+      "publication_date": 20141206
+    },
+    {
+      "title": "Performs as described, works seamlessly with my 21. ...",
+      "text": "Performs as described, works seamlessly with my 21.5 Mac, Macbook Air and Macbook Pro. No more plugging in external drives to back up info, all automatic.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "rabb",
+      "helpful_votes": 0,
+      "publication_date": 20151001
+    },
+    {
+      "title": "Fantastic range and speed",
+      "text": "Fantastic range and speed. Easy to set up too. Was going to wait for the google version. Glad I didn't",
+      "rating": 5.0,
+      "verified": true,
+      "author": "HillBilly",
+      "helpful_votes": 0,
+      "publication_date": 20160107
+    },
+    {
+      "title": "Quality",
+      "text": "The best router I've ever owned! Almost problem free.....and any issues I've had in the long time I've had this may well have been down to my ISP rather than the router, seems you get what you pay for",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Distantgem",
+      "helpful_votes": 0,
+      "publication_date": 20160616
+    },
+    {
+      "title": "Good WiFi Hub",
+      "text": "This is a good WiFi hub, BUT Apple doesn't give enough information to configure its security features. After hunting for a long time on the web, I found the basics in user groups, but still feel there is more it can do.",
+      "rating": 4.0,
+      "verified": true,
+      "author": "Wayne Wilmot",
+      "helpful_votes": 0,
+      "publication_date": 20131223
+    },
+    {
+      "title": "Fantastic Product",
+      "text": "Fantastic product and so easy to setup. I literally had this all going in minutes. The Wifi signal is so much stronger than previous routers that I used. This backs all my business documents and files with ease. Just wish I had bought it a long time ago! Carl Williams CEO PianoFactor",
+      "rating": 5.0,
+      "verified": true,
+      "author": "PianoFactor",
+      "helpful_votes": 0,
+      "publication_date": 20161126
+    },
+    {
+      "title": "Typical Apple - overpriced but works",
+      "text": "Bought to extent my wifi range on the 5khz band, bonus of having a hard drive as well which is useful for making backups of my laptop",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Paul Jones",
+      "helpful_votes": 0,
+      "publication_date": 20160326
+    },
+    {
+      "title": "Can't mount.",
+      "text": "Loses a star for the lack of a mount or an easy way to mount. For tabletop use, fine. Operationally, excellent.",
+      "rating": 4.0,
+      "verified": true,
+      "author": "ImAFungi",
+      "helpful_votes": 0,
+      "publication_date": 20160321
+    },
+    {
+      "title": "Arrived on time Bit niggly to set up but no ...",
+      "text": "Arrived on time Bit niggly to set up but no fault of the device Now working perfectly Well worth the money",
+      "rating": 5.0,
+      "verified": true,
+      "author": "John Clifford",
+      "helpful_votes": 0,
+      "publication_date": 20140716
+    },
+    {
+      "title": "You get what you pay for",
+      "text": "The usual quality from Apple, both in form and function. Had it up and running in 5 minutes and it looks great.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Stephen Lewis",
+      "helpful_votes": 4,
+      "publication_date": 20131219
+    },
+    {
+      "title": "Tough to set up. Protocol seems to depend on ...",
+      "text": "Tough to set up.Protocol seems to depend on the systems of the broadband supplier, Virgin media in my case. i spent 2 hours with someone at apple who eventially got it installed and working, extending range on my wifi devices to the back of my garden. Seems very stable now.",
+      "rating": 4.0,
+      "verified": true,
+      "author": "Brian M. Austen",
+      "helpful_votes": 0,
+      "publication_date": 20150821
+    },
+    {
+      "title": "Fast Wireless",
+      "text": "Expensive but you get what you pay for. Achiebed 400 Meg on wireless to a mac and 200 meg to a iphone 6",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Martyn Smith",
+      "helpful_votes": 0,
+      "publication_date": 20160818
+    },
+    {
+      "title": "Five Stars",
+      "text": "Apple product never disappointed me. Improved my wi-fi life every room I move around",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Chang Beom Lee",
+      "helpful_votes": 0,
+      "publication_date": 20170219
+    },
+    {
+      "title": "Great products",
+      "text": "Great companion for all your apple gadgets. Works really well as a storage too",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Adithya",
+      "helpful_votes": 0,
+      "publication_date": 20150702
+    },
+    {
+      "title": "Airport - perfect landing",
+      "text": "Great design and attention to detail, as always. Simple to set up and functioning perfectly. All good.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Chipmaster",
+      "helpful_votes": 0,
+      "publication_date": 20150211
+    },
+    {
+      "title": "It seems to be doing what it ought.",
+      "text": "It seems to be doing what it ought. Noticeably less wide & long compared to my 1TB earlier model but of course several times taller.",
+      "rating": 4.0,
+      "verified": true,
+      "author": "PaBear",
+      "helpful_votes": 0,
+      "publication_date": 20160702
+    },
+    {
+      "title": "It does exactly what it is supposed to do and ...",
+      "text": "It does exactly what it is supposed to do and was a breeze to set-up - even for someone who is new to all things Apple!",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Skid Kid",
+      "helpful_votes": 0,
+      "publication_date": 20161117
+    },
+    {
+      "title": "Excellent",
+      "text": "Stylish, small and unobtrusive, and no noise at all. Also very simple to set up",
+      "rating": 4.0,
+      "verified": true,
+      "author": "Nick Ball",
+      "helpful_votes": 0,
+      "publication_date": 20160701
+    },
+    {
+      "title": "Five Stars",
+      "text": "Great product. For me it's better than the rest. Simple to setup and fast.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "DUDE",
+      "helpful_votes": 0,
+      "publication_date": 20161123
+    }
+  ],
+  "product_meta": {
+    "title": "ME918B/A",
+    "description": "AIRPORT EXTREME 802.11AC - Apple AirPort Extreme, 2.4 / 5.0 GHz, 50 user(s), IEEE 802.11a, IEEE 802.11ac, IEEE 802.11b, IEEE 802.11g, IEEE 802.11n, Ethernet (RJ-45), 98 mm, 98 mm",
+    "rating": 4.3,
+    "specifications": {
+      "Brand Name": "Apple",
+      "Item Weight": "2.08 pounds",
+      "Product Dimensions": "3.86 x 3.86 x 6.61 inches",
+      "Item model number": "ME918B/A",
+      "Is Discontinued By Manufacturer": "No",
+      "ASIN": "B00DCR3VV8",
+      "Customer Reviews": "4.3 out of 5 stars174 ratings4.3 out of 5 stars",
+      "Date First Available": "August 5, 2013"
+    },
+    "categories": [
+      "Electronics"
+    ],
+    "price": ""
+  }
+}

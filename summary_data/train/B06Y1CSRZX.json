@@ -1,0 +1,518 @@
+{
+  "website_summaries": [
+    {
+      "verdict": "A mid-priced key with a built-in pin pad for additional security in case the key is lost or stolen.",
+      "pros": [
+        "A popular option that is both easy-to-use for beginners and highly functional",
+        "Features 12 slots for storing passwords",
+        "Comes with a convenient silicone cover"
+      ],
+      "cons": [
+        "The pin pad buttons do not always work as intended"
+      ],
+      "aspects": {},
+      "publication_date": "",
+      "rating": "",
+      "source": "bestreviews"
+    }
+  ],
+  "customer_reviews": [
+    {
+      "title": "Convenience Meets Security",
+      "text": "This is an amazing product which truly stands alone in the field of security keys. Nothing comes close to providing the quantity of features and capabilities that the OnlyKey offers. I own three of these and use them daily. They are not just for two factor authentication solutions, my workstation logon password (52 characters / all random) is stored in one of the buttons and is protected by the native PIN required to use the OnlyKey. The OnlyKey also has an auto-self destruct option in the event that it falls into the wrong hands.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Joshua K",
+      "helpful_votes": 12,
+      "publication_date": 20170618
+    },
+    {
+      "title": "Need to know exactly the tech of what you want, not just the seed.",
+      "text": "Great Features. Needs more documentation. I have YubiKeys, but this one also works with USB OTG on phone, while YubiKey doesn't for some reason. For PC, multple static passwords are great. Haven't figured otu the OTP setup, waiting on better software/interface/documentation to exist. Need to know type of cerrt, seems to only store one GPG key from my experience with user interface. I love the dual PINS and self destruct features! Using for static passwords is easy and good to go for storing 6 fast ready to go random passwords you can assosicaate with sites, typing something before and after your random 16+ characters! 2FA Integrration has a long way to go.",
+      "rating": 4.0,
+      "verified": true,
+      "author": "Troy H",
+      "helpful_votes": 5,
+      "publication_date": 20180301
+    },
+    {
+      "title": "Works Like a Champ",
+      "text": "It took some time to set this up and get it working. I wish there was a repository for common (delay and tab) setting for certain sites so i did not need to do a whole lot of trial and error with it. Overall this thing is awesome. I do not need to risk my password and login info with a third party system. I only use this for the accounts i care about. In short it does what it said on their site. The have very good documentation that will walk you through the setup of it. The now have their own program for it so you do not need to use the chrome app for setup.",
+      "rating": 4.0,
+      "verified": true,
+      "author": "Adma",
+      "helpful_votes": 2,
+      "publication_date": 20180915
+    },
+    {
+      "title": "Awesome!",
+      "text": "I have converted to a state where even I don't know my passwords but can update them any time I want. Took time but the simplicity of the OnlyKey finalized my ability to do so. So many other features, though. Some of the features like scripted login and key storage I discovered I needed only after I learned about the features in the device. Best of all is I can edit profiles and other information on-the-fly using the Chrome browser plugin. Having used the device a while I can tell you it is durable and I have no concerns about it on my key ring in my pocket with my huge Jeep keys. Very happy with the product.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Chris Courson",
+      "helpful_votes": 0,
+      "publication_date": 20191114
+    },
+    {
+      "title": "Avoid PDF documentation",
+      "text": "Updated: Do not select the PDF documentation, it goes to some HTML to PDF service that does not display the information on where to get the software. If you use the on-line documentation you will find the information that you need. I may upgrade further one I go through it, bit for now only 3stars for wasting so much of my time. Apparently there is software that does with the device, but no indication of where to get it. They provide a URL to \"start\" but all it does is logs your email, and provides a document that talks about how to use the software but doesn't tell you where to get the software.",
+      "rating": 3.0,
+      "verified": true,
+      "author": "TimeIsMoney",
+      "helpful_votes": 0,
+      "publication_date": 20200229
+    },
+    {
+      "title": "Poor touch interface",
+      "text": "It was working OK for a week, but it would register one touch twice and sometimes have a hard time registering a touch when entering pin. Then suddenly I could not get it to register a single touch repeatedly. Since it would not register the touch correctly when entering the pin the authentication failed repeatedly. It then cleared all my saved passwords. I am trying to set up again, but I can't get the pin set because it is reading an extra two touches when I am only pressing the digit once.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "Bryan AZ",
+      "helpful_votes": 3,
+      "publication_date": 20190625
+    },
+    {
+      "title": "At the moment, don't believe what it says about GPG/PGP usage",
+      "text": "It's pretty much only good to keep encrypted storage for strings to use as passwords and yubikey OTP. After unlocking it, it requires additional software to use GPG and it doesn't really behave in the standard GPG or PIV standard to access the data.",
+      "rating": 3.0,
+      "verified": true,
+      "author": "Binary Buddha",
+      "helpful_votes": 2,
+      "publication_date": 20190326
+    },
+    {
+      "title": "Good tool to have",
+      "text": "It is a very handy tool to have. But not very intuitive or easy to use without going through instructions. I went through the same set of circumstances and in the end, changed my one star review to this one and bought 3 of these ! Edited-- It deserves a sixth star for the outstanding support. I have had occasion to post twice to their support forum and my issues were promptly addressed and solved in few hours or less.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "A Customer",
+      "helpful_votes": 0,
+      "publication_date": 20190919
+    },
+    {
+      "title": "Best password tool and U2F token I have found.",
+      "text": "I purchased the OnlyKey so that I could easily control access to my password manager. I gave the pin code to my spouse, they can now access my password manager if needed. This device has storage for 24 password/website/user combos. 12 passwords with the primary pin and an additional 12 on the secondary pin. I really only use 2 passwords as this unlocks my password manager, but the convenience is hard to beat.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Onlysix",
+      "helpful_votes": 0,
+      "publication_date": 20200401
+    },
+    {
+      "title": "Instructions are easy to follow (I work in IT) and was able ...",
+      "text": "Instructions are easy to follow (I work in IT) and was able to set-up Google authenticator easily. This thing is awesome and can do so much. It worked great on my Windows 10 computer and Acer Chromebook. I would like to be able to add certificates and use one of the slots for Windows authentication, but I can easily program a username/password to one of the slots.",
+      "rating": 4.0,
+      "verified": true,
+      "author": "Kevin M.",
+      "helpful_votes": 3,
+      "publication_date": 20180115
+    },
+    {
+      "title": "Solid product - Not for the non-tech-savvy",
+      "text": "Solid product and design, price is good. Using these at my company. Never had issues with any of the several I have, setup I guess you could say is \"complex\" however that is all needed for the most part.... good security is never easy. As a Linux sysadmin a rate difficulty of setting this thing up 1/10 10 being the most difficult.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Amazon User",
+      "helpful_votes": 3,
+      "publication_date": 20180913
+    },
+    {
+      "title": "Pairs great with another U2F device for peace of mind security.",
+      "text": "Great product, and I personally found it easier to configure than Yubikey, but that might just be me. I have it configured for my Windows 10 Bitlocker password and PIN, but my favorite implementation is requiring KeePass to use two-factor authentication so that one can store a master password for KeePass on their OnlyKey and then use something like a Yubikey to provide the second factor via a OTP. It provides a little more peace of mind since the OnlyKey is rather limited in the PIN length and complexity.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "admin",
+      "helpful_votes": 2,
+      "publication_date": 20180714
+    },
+    {
+      "title": "Favorite MFA hardware",
+      "text": "I have had Yubikeys in past, and am now fully converted over to OnlyKey. I am a big fan of their open source approach to hardware and software, and enjoy having the extra flexibility and security with the extra buttons/slots. I would definitely recommend reading their documentation as there is a lot to configure and customize, but once you do, it's quite powerful.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "John P Herold",
+      "helpful_votes": 2,
+      "publication_date": 20190719
+    },
+    {
+      "title": "Functions as advertised, inconvenient to use on a desktop",
+      "text": "Let your browser store info for all those bazillion non-critical websites; this works great for the important ones that access important financial sites. It was easy enough to set up though I have not used for double factor security or encrypted email. If is, however, not convenient for use on tower type PC's so I had to buy a blue color coded USB extension cable though it is perfect on a laptop. I do wish it \"felt\" a little more sturdy, particularly in the plug.",
+      "rating": 4.0,
+      "verified": true,
+      "author": "Amazon Customer",
+      "helpful_votes": 0,
+      "publication_date": 20190122
+    },
+    {
+      "title": "Awesome little security device",
+      "text": "The Onlykey is amazing and I am using it to easily unlock some essential things like encrypted drives and my password manager. This key helps me with my security and privacy paranoia. :-) It takes a little time to set up and I highly recommend using some relatively easy to remember but difficult to guess patterns for unlocking the key. This key is not for people who just want to use their fingerprint to unlock everything but for the security conscious who wants to rely on both something they know and something they have, it is a great option.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Mark NH",
+      "helpful_votes": 0,
+      "publication_date": 20200219
+    },
+    {
+      "title": "Proper security and backup use cases",
+      "text": "Extensive security features provide a great option for 2FA and secure information storage. I can use one device for multiple use cases such as adding a second form of identity in case other options are unavailable. Worked with Linux GUIs perfectly. I am glad it is open to work alongside in Python yet very secure if desired.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "m1st0m",
+      "helpful_votes": 5,
+      "publication_date": 20170602
+    },
+    {
+      "title": "The key I've been looking for",
+      "text": "Bought an OnlyKey and a Yubikey to compare. Once I started using the OnlyKey I never looked back. So many ways you can use it. For me it's a secure macro keyboard for complex logins with built in TOTP (replaces things like google authenticator and authy). Such an awesome product.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Greg Olde",
+      "helpful_votes": 0,
+      "publication_date": 20190717
+    },
+    {
+      "title": "Nice hardware. Setup software needs work",
+      "text": "The hardware is great and I find it very useful. The setup software really could use a UI/UX designer. And a udev rule is required in Linux for the setup program to write data to the device but it is not added by the program. But after learning the ins and out I can use it with no real trouble. 5/5 hardware 3/5 software Update: one year later and its still going strong. Love this thing. Would buy again.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Adam",
+      "helpful_votes": 0,
+      "publication_date": 20190206
+    },
+    {
+      "title": "Hassle-free Secure Passwords",
+      "text": "This is the perfect tool for anyone. It makes having secure passwords much less of a hassle, and is very easy to use. It appears very durable, and the amount of functionality it provides is incredible. The one thing I would improve is making the user interface a little more universally user-friendly, but overall this is an awesome product.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Amazon Customer",
+      "helpful_votes": 2,
+      "publication_date": 20180329
+    },
+    {
+      "title": "Works great.",
+      "text": "This thing is amazing compared to the Yubikey. As stated in the listing, it's loaded with features. I haven't had any major issues with it thus far.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Thomas E.",
+      "helpful_votes": 0,
+      "publication_date": 20190701
+    },
+    {
+      "title": "Complicated to use, but worth the expended time for important security matters.",
+      "text": "Rather than jump through multiple hoops to secure pictures of my dog, etc. I use it for financial sites and set up a separate email to use for things that *need* good security and use OnlyKey to log on to it.",
+      "rating": 4.0,
+      "verified": true,
+      "author": "Carroll",
+      "helpful_votes": 0,
+      "publication_date": 20180305
+    },
+    {
+      "title": "Very exciting product to own...",
+      "text": "So much in this little device... It does take some work getting it to automatically type in the URL/Passwords.. But overall the features are impressive...",
+      "rating": 5.0,
+      "verified": true,
+      "author": "efrankamo",
+      "helpful_votes": 0,
+      "publication_date": 20190427
+    },
+    {
+      "title": "Worth every penny.",
+      "text": "I use it daily. It keeps my life more secure! Totally worth every penny.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Maker Chad",
+      "helpful_votes": 2,
+      "publication_date": 20180113
+    },
+    {
+      "title": "Very versatile. Confirm that it indeed ships in tamper proof packaging",
+      "text": "Works as advertised. Very interesting and useful product. Much more versatile than Yubikey. Disappointed that it did not come in \u201ctamper proof\u201d packaging as advertised on their website. I just recently purchased this product. It was placed in a zip lock bag, unlike a Yubikey which does come in tamper proof packaging. I was planning to purchase more of them but will not do so unless guaranteed to come in this type package.",
+      "rating": 2.0,
+      "verified": true,
+      "author": "SLY69",
+      "helpful_votes": 0,
+      "publication_date": 20200215
+    },
+    {
+      "title": "Love this thing.",
+      "text": "I have multiple Yubikeys, as well as the Google Titan set. Neither of them has the functionality of this key. Setup can be a little tricky, but once it's up and running, you're good to go.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Zero Point",
+      "helpful_votes": 0,
+      "publication_date": 20181122
+    },
+    {
+      "title": "staple product for security to hep protect",
+      "text": "This product is a staple for everyone looking to protect their information and accounts online. It is well made small enough that I keep it in my wallet and I think that is a wonderful feature. I find this product trumps the YubiKey products due to its ability to have six different keys in one product so to help to assure an extra layer of security.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Matthew Garcia",
+      "helpful_votes": 0,
+      "publication_date": 20200613
+    },
+    {
+      "title": "The perfect solution !!!",
+      "text": "This is the best solution for the \"Password-less\" experience for our customers !!! The key is secure and works seamless with Windows 10 and Mac OS, once the key is program there is no need to install any software or drivers on the computers it just works. Is so easy for the end user to used the key. Im planning to deploy 200 keys by the month You guys rock keep up the good work !!",
+      "rating": 5.0,
+      "verified": true,
+      "author": "eridanx",
+      "helpful_votes": 0,
+      "publication_date": 20190421
+    },
+    {
+      "title": "Perfect in every way!",
+      "text": "I have had no issue since I've bought it. I use this along with Keeweb to keep all my passwords secure. This is a must for anyone that wants the best balance between privacy and security. And let's not forget how unbelievablely easy the setup was. But I must say that my favorite part is the fact that it's Open-source.. No backdoors for me!",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Amazon Customer",
+      "helpful_votes": 0,
+      "publication_date": 20190130
+    },
+    {
+      "title": "Keypad stinks",
+      "text": "The construction is terrible, literally as bare bones as you can sell. The keypad does not work consistently. The rest of the stuff doesn't matter when you can enter your key code.",
+      "rating": 2.0,
+      "verified": true,
+      "author": "Kyle Olson",
+      "helpful_votes": 0,
+      "publication_date": 20181029
+    },
+    {
+      "title": "Hardware quality is questionable",
+      "text": "Lasted about 3 months then one of my two keys died. Light will randomly blink 1 out of 10 times I plug it in. Other key works maybe every other time (tested across multiple computers)",
+      "rating": 2.0,
+      "verified": true,
+      "author": "Adam Rheaume",
+      "helpful_votes": 0,
+      "publication_date": 20180610
+    },
+    {
+      "title": "Seems ok",
+      "text": "Probably works as described. To difficult for me to use due to having large fingers.",
+      "rating": 3.0,
+      "verified": true,
+      "author": "Amazon Customer",
+      "helpful_votes": 0,
+      "publication_date": 20190731
+    },
+    {
+      "title": "Only works for Chrome",
+      "text": "It only works for Chrome, if you do not use Chrome, because you're an intelligent person, do not purchase this. Otherwise it seems great.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "kyto",
+      "helpful_votes": 2,
+      "publication_date": 20190424
+    },
+    {
+      "title": "Would be great, if only...",
+      "text": "Worse than it doesn\u2019t work, it doesn\u2019t work consistently. The setup is a little complicated, but if you are interested in the product you are probably savvy enough to program it. My problem is for every time it worked it wouldn\u2019t work three or four other times. I\u2019m not sure why just yet, but I am pretty disappointed so far.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "Jason Allen",
+      "helpful_votes": 0,
+      "publication_date": 20200311
+    },
+    {
+      "title": "Handy Security Device",
+      "text": "A great security device. A hardware password manager and two factor authentication in one device. Two password banks and a self destruct code are excellent ideas.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "David C",
+      "helpful_votes": 0,
+      "publication_date": 20200104
+    },
+    {
+      "title": "Doesn't work",
+      "text": "The world's tiniest brick. Unable to setup. You're supposed to put it in your usb, open a text editor and press the number 3 key for 5 seconds so it will start typing out setup instruction. I've been trying for an hour. Nothing happens. Garbage.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "C. Gibson",
+      "helpful_votes": 0,
+      "publication_date": 20200204
+    },
+    {
+      "title": "Five Stars",
+      "text": "AWESOME! a bit complex so be prepared to learn and unlearn.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Mr Nine",
+      "helpful_votes": 0,
+      "publication_date": 20180601
+    },
+    {
+      "title": "Five Stars",
+      "text": "Does everything I want and more. I'm going to have to purchase an backup key.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "RevHiep",
+      "helpful_votes": 2,
+      "publication_date": 20170730
+    },
+    {
+      "title": "Works exactly as advertised. I move it between my ...",
+      "text": "Works exactly as advertised. I move it between my windows, iPad, Mac with no problems at all. I just wish I could find out it\u2019s possible to program it for hmac-sha1?",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Amazon Customer",
+      "helpful_votes": 0,
+      "publication_date": 20180618
+    },
+    {
+      "title": "Amazing!",
+      "text": "i have used several different security keys and this one is by far my favorite. There is so much functionality built into this devices it can be used in many ways. I also like how there is the physical protection by having a pin unlock on the device.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "UserOfAmazon",
+      "helpful_votes": 0,
+      "publication_date": 20190214
+    },
+    {
+      "title": "Great and more useful alternative to Yubykey",
+      "text": "Had some initial set up problems when trying to a quick set up without the necessary app",
+      "rating": 4.0,
+      "verified": true,
+      "author": "John Sandor",
+      "helpful_votes": 0,
+      "publication_date": 20200224
+    },
+    {
+      "title": "Great idea, but inconvenient execution",
+      "text": "The product has great potential, but its inconvenience led me to consider another.",
+      "rating": 3.0,
+      "verified": true,
+      "author": "Michal J. Gajda",
+      "helpful_votes": 0,
+      "publication_date": 20190428
+    },
+    {
+      "title": "Five Stars",
+      "text": "Not so good if you have big fingers, needs improvement on setting up instructions",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Joseph Stafrace",
+      "helpful_votes": 0,
+      "publication_date": 20180524
+    },
+    {
+      "title": "I would buy agean",
+      "text": "This thing is awesome. You get secure password storage you don't have to remember any more passwords when used with a password manager. Save yourself time and get a device that is secure even when someone has access to it. I think anyone who wants to use a secure password but is tired of making them up and remembering them needs one of these.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Ralph T May III",
+      "helpful_votes": 4,
+      "publication_date": 20170525
+    },
+    {
+      "title": "Works great for storing passwords and U2F",
+      "text": "Works great for storing passwords and U2F. It will emulate and Yubikey, but won't work with yubikey cloud as it doesn't have an authentic yubico serial number. SSH and PGP key functionality is a bit weird. From what I've been able to tell it will store the keys, but using them requires Onlykey specific software.",
+      "rating": 4.0,
+      "verified": true,
+      "author": "David P.",
+      "helpful_votes": 0,
+      "publication_date": 20170912
+    },
+    {
+      "title": "Only one star because 0 stars isn't option. Installed ...",
+      "text": "Only one star because 0 stars isn't option. Installed using Windows software; config'd, set passcodes. Tried for 30 minutes to get a test website setup. Windows app appears to be unable to save any key configuration value other than the Label, regardless of checkbox/radio button selections. Tried to configure a basic website's login on all keys; Windows app would not save any key config beyond Label value. Probably wiping and returning the device tomorrow. Also the downloadable PDF of Owners Manual is borked, page size too big to display in Acrobat; had to use docs on website.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "Steven G. Bottoms",
+      "helpful_votes": 3,
+      "publication_date": 20180328
+    },
+    {
+      "title": "The device has to be plugged into your usb port before you can enter your code, so location is very important.",
+      "text": "It works ok. The problem for me was the lack of a battery. The lack of a battery means that you have to plug the device into an available usb port on the computer and then orient yourself to put significant pressure on your code numbers.",
+      "rating": 2.0,
+      "verified": true,
+      "author": "andrew",
+      "helpful_votes": 2,
+      "publication_date": 20180215
+    },
+    {
+      "title": "Complex product but probably good for people that mostly use",
+      "text": "Did not work, followed instructions to update flash but still dead. Complex product but probably good for people that mostly use linux",
+      "rating": 1.0,
+      "verified": true,
+      "author": "J. Lewis",
+      "helpful_votes": 2,
+      "publication_date": 20171226
+    },
+    {
+      "title": "That theses time are crazy",
+      "text": "To be honest I still can\u2019t figure out how it works ?? Mabe I\u2019m just getting old in age that I\u2019m burnt out and need a help ? Lol but I think it\u2019s it\u2019s a great idea and I can sure use it in my life I couldn\u2019t remember any of my billion PW. If my life dependent on it.lol",
+      "rating": 1.0,
+      "verified": true,
+      "author": "eddie martinez",
+      "helpful_votes": 0,
+      "publication_date": 20180703
+    },
+    {
+      "title": "Useless without instructions",
+      "text": "I have no clue how to use this thing. The sellee blew me off. It's too expensive for insufficient instructions.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "MahaYar",
+      "helpful_votes": 0,
+      "publication_date": 20171105
+    },
+    {
+      "title": "Too complicated",
+      "text": "I spent a whole day trying to set the device up and failed. It is overly complicated. Too many passwords and limited access to directions. It needs chrome brower.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "PJBAUM",
+      "helpful_votes": 2,
+      "publication_date": 20171006
+    },
+    {
+      "title": "completely useless pile of junk",
+      "text": "The buttons are unpredictable in their responsiveness. It took me over 2 hours and several hundred tries to just type in the same 7 digit pin code two times in a row in order to just setup the device. The only way this thing would ever be effective is if they replaced the buttons with tactile buttons that allow you to actually click. As it is now, completely useless pile of junk.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "Eric Fetty",
+      "helpful_votes": 4,
+      "publication_date": 20170825
+    },
+    {
+      "title": "This simple does not function, maybe I got a lemon?",
+      "text": "Junk, does nothing! Don't buy this useless piece of junk!",
+      "rating": 1.0,
+      "verified": true,
+      "author": "David Paschall",
+      "helpful_votes": 0,
+      "publication_date": 20170920
+    }
+  ],
+  "product_meta": {
+    "title": "OnlyKey FIDO2 / U2F Security Key and Hardware Password Manager | Universal Two Factor Authentication | Portable Professional Grade Encryption | PGP/SSH/Yubikey OTP | Windows/Linux/Mac OS/Android",
+    "rating": 4.2,
+    "feature_bullets": [
+      "\u2705 PROTECT ONLINE ACCOUNTS \u2013 A password manager, two-factor security key, and secure communication token in one, OnlyKey can keep your accounts safe even if your computer or a website is compromised. OnlyKey is open source, verified, and trustworthy.",
+      "\u2705 UNIVERSALLY SUPPORTED \u2013 Works with all websites including Twitter, Facebook, GitHub, and Google. Onlykey supports multiple methods of two-factor authentication including FIDO2 / U2F, Yubico OTP, TOTP, Challenge-response.",
+      "\u2705 PORTABLE PROTECTION \u2013 Extremely durable, waterproof, and tamper resistant design allows you to take your OnlyKey with you everywhere.",
+      "\u2705 PIN PROTECTED \u2013 The PIN used to unlock OnlyKey is entered directly on it. This means that if this device is stolen, data remains secure, after 10 failed attempts to unlock all data is securely erased.",
+      "\u2705 EASY LOG IN \u2013No need to remember multiple passwords because by plugging OnlyKey to your computer, it automatically inputs your username and password. It works with Windows, Mac OS, Linux, or Chromebook, just press a button to login securely!"
+    ],
+    "specifications": {
+      "Product Dimensions": "2 x 0.7 x 0.25 inches",
+      "Item Weight": "0.6 ounces",
+      "Manufacturer": "OnlyKey",
+      "ASIN": "B06Y1CSRZX",
+      "Item model number": "CPT-OKY-002",
+      "Customer Reviews": "4.2 out of 5 stars160 ratings4.2 out of 5 stars",
+      "Best Sellers Rank": "#619 in USB Flash Drives",
+      "Is Discontinued By Manufacturer": "No",
+      "Date First Available": "April 3, 2017"
+    },
+    "categories": [
+      "Data Storage",
+      "Computers & Accessories",
+      "Electronics",
+      "USB Flash Drives"
+    ],
+    "price": 46.0
+  }
+}

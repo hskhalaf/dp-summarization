@@ -1,0 +1,965 @@
+{
+  "website_summaries": [
+    {
+      "verdict": "TP-Link\u2019s Kasa line of smart plugs are a solid group of plugs for anyone interested in automating regular devices.",
+      "pros": [
+        "This smart plug comes with an easy-to-use app, monitors your energy consumption, and works with Google Assistant and Amazon Alexa for voice commands"
+      ],
+      "cons": [
+        "The plug\u2019s design blocks the outlets above or below it, and it isn\u2019t compatible with Apple HomeKit"
+      ],
+      "aspects": {
+        "Features": 8.0,
+        "Usability": 7.0,
+        "Design": 6.0,
+        "Performance": 7.0
+      },
+      "publication_date": 20180424,
+      "rating": 7.1,
+      "source": "cnet"
+    }
+  ],
+  "customer_reviews": [
+    {
+      "title": "Energy monitor part does not work",
+      "text": "The wifi component of this plug works nicely and using the app it turns on and off very quickly. It does not however track the energy usage as advertised. Mine is currently running an aquarium that normally draws around 50 watts and the plug always just says 0 for current use as well as 0kwh for the daily averages. I am incredibly disappointed with this. Update: after 6 months now the internal switch for controlling the power has apparently broken and the outlet is now always live",
+      "rating": 1.0,
+      "verified": true,
+      "author": "John Johnson",
+      "helpful_votes": 49,
+      "publication_date": 20170427
+    },
+    {
+      "title": "It's great if it doesn't catch on *FIRE*....",
+      "text": "I have purchased more than one of these before they are great. I can watch how much power a specific item is pulling with a simple app. BUT As a Fire Fighter I'm surprised I didn't cause a structure fire with this product. It went from working fine to pouring heavy smoke from the device. Not sure what failed, but I'm very disappointed with this product. I'm now worried about my other plugs. Don't know what to do... Probably also got some cancer from the plastic smoke I inhaled.... Anyways buyer beware this product has caught on fire and it's a potential safety & property hazard.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "Evan F",
+      "helpful_votes": 726,
+      "publication_date": 20170722
+    },
+    {
+      "title": "Garbage crap cant think of anything I hate more than this. Retarded engineers",
+      "text": "I reboot my router. This switch goes offline. My router comes back up, internet is back. Every other device in my entire network (other smart plugs too) comes back online no problems. THIS GARBAGE never comes back online until I completely unplug it from the power source and re-plug it back in. Also it gets even worse. I had a device hooked up to it, the device was powered on via the tp-link kasa app. I reboot my router, this trash smart plug cuts power. Cuts power when it looses internet connectivity??!?!? Why are you messing with my power states TP LINK. dont f#*k with power states",
+      "rating": 1.0,
+      "verified": true,
+      "author": "Gwilym",
+      "helpful_votes": 3,
+      "publication_date": 20190123
+    },
+    {
+      "title": "Almost perfect",
+      "text": "I really like these because of the Sense Home Monitor device and app. It integrates very easily, accurately with ifttt support as well. It says 15amps and I've used it so far with an LG HE washer and no issues. Along with fish tank equipment, TV equipment and a sump pump. ONLY bad thing is the size.. It DOES block the other outlet.. Stretching it higher to leave the bottom plug would make this perfect so far with me. Very easy connection and I've used all brands of connecting devices. Needs no hub as it's wifi but integration with Smartthings and Google Home was simple as well. I've seen pics of burning but so far I'm good.",
+      "rating": 4.0,
+      "verified": true,
+      "author": "Jim Handshy",
+      "helpful_votes": 0,
+      "publication_date": 20191224
+    },
+    {
+      "title": "It's fine but energy monitoring is poor",
+      "text": "It's fine. 15A rating is good. But I got this for energy monitoring and I am frankly disappointed since it only shows up to 30 day averages. VeSync/Etekcity/Voltson with a 10A max shows 1 year usage, so at least you can easily do an annual review. I would also prefer if you could download the usage stats as a CSV or something (how hard would that be?) Anyways, it's fine, but energy monitoring (HS110 vs HS100) is not great for the extra $8 at the time of this writing.",
+      "rating": 3.0,
+      "verified": true,
+      "author": "Tom",
+      "helpful_votes": 0,
+      "publication_date": 20191202
+    },
+    {
+      "title": "I wouldn't buy it again",
+      "text": "This works if you plan to monitor only one device/outlet. If you plug your fridge in for a month, and then switch it to your entertainment system, it will combine the results. Even uninstalling the software and doing a so-called factory reset, then reinstalling everything won't reset your counters. If you want to know, you'll have to write down the numbers and figure things by hand.",
+      "rating": 3.0,
+      "verified": true,
+      "author": "Thomas",
+      "helpful_votes": 4,
+      "publication_date": 20170913
+    },
+    {
+      "title": "Terrible Warranty Service",
+      "text": "EDIT: We had a problem with the switch: After three months it started spontaneously turning on and off every few seconds. We contacted TP-Link and spent two hours on their \"chat\" trying to reset it. They finally agreed it was defective. But then they told us that Amazon's third party seller had to request the RMA, they would not accept it from us! What? The third party seller didn't make the product. Unbelievably terrible customer support. ORIGINAL REVIEW: The energy monitor feature is fine grained and very responsive. It updates about once a second. Had no trouble installing the switch or adding it to our network. (Did not have to disable 5.8 GHz.)",
+      "rating": 2.0,
+      "verified": true,
+      "author": "Sam",
+      "helpful_votes": 0,
+      "publication_date": 20190919
+    },
+    {
+      "title": "Love the energy monitoring",
+      "text": "I got a first batch of 4 of these to integrate with my Sense power monitoring system. I'm so impressed that I will order another batch. They connect easily both via their own KASA application for controlling and monitoring but the WiFi set up was a snap. The only downside that I would advise others to be aware is that the unit is sizable, roughly 2/4 inches and fitting two of them side by side into a standard outlet is a challenge.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Benny R. Maestas",
+      "helpful_votes": 0,
+      "publication_date": 20190821
+    },
+    {
+      "title": "As advertised",
+      "text": "This device works great for remote control of electric switched items. As long as you have a good WiFi system in your home or other location, these switches work without issues. The phone app works great [iPhone in my case] and the system is easy to install. The power usage feature is a nice add if you are curious about actual power consumption by certain devices like: pcs, fans, tvs, and sound systems. Simple, reasonable price and it works. If you have issues with these switches, it is more likely that you have WiFi issues.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Stephen Chanak",
+      "helpful_votes": 0,
+      "publication_date": 20190926
+    },
+    {
+      "title": "Flakey, didn't work, covers both outlets.",
+      "text": "Was on sale, figured I would give it shot, but it would not work right. On top of that it covers both outlets - bad design. I set the plug up and reconfigured it multiple times, but constantly got the message that plug is out of range or disconnected. Then the plug would loop back into setup mode. After about 5 resets, I called it quits. Not worth my time.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "TechDealShopper",
+      "helpful_votes": 6,
+      "publication_date": 20161129
+    },
+    {
+      "title": "Not Able to Connect to Wifi",
+      "text": "Bought 3 of this on black friday while it's on sale. Wait until today to have a chance to set this up. Although the router is within 3 feet and my iPhone is inches away, it took me 30 minutes and 5 tries only to fail to connect the home wifi. Will try more after come back from work today, but have to say this plug gets a really weird wifi chip. First my iPhone must be wihin 5 inches to get its setup wifi signal, and after connect it's frequently disconnected so I had to start over many times. Still even I managed to get to the last step and connect to home wifi, it never succeeded.",
+      "rating": 2.0,
+      "verified": true,
+      "author": "Baikal",
+      "helpful_votes": 0,
+      "publication_date": 20161207
+    },
+    {
+      "title": "Two out of three purchased have failed",
+      "text": "Good concept, but these units have very short life. I purchased three and one was DOA out of the box. I made a warranty claim and a replacement was sent. A second one has now failed after just a few months of use. These cannot be relied on for anything critical, such as switching on a heater remotely when temperatures drop to low levels. Their miniature smart plug has been more reliable. I have 6 of those, the same age and not one has failed so far.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "TomK",
+      "helpful_votes": 0,
+      "publication_date": 20190527
+    },
+    {
+      "title": "Simple, easy to set up",
+      "text": "I bought this plug to integrate into my 3D printer controls to auto-shut after it finishes printing and cools down. It works like a charm, plus the energy monitoring helps me track costs of printing, which is an interesting plus. I was so excited about this plug, I bought another two, plus two more non-energy monitoring smart plugs on a deal at a later date. I haven't found a good use for them yet, but don't regret getting them anyway. \"ALEXA TURN ON THE PRINTER\"",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Lk",
+      "helpful_votes": 0,
+      "publication_date": 20190719
+    },
+    {
+      "title": "Another great smart home device from tp-link",
+      "text": "Another great smart home device from tp-link. I ended up getting two of these along with a couple light switches after the light bulbs I bought it worked out so well. The power monitoring feature is great and I can see exactly how much power strip plug into an outlet has been sucking up. Since we ended up cutting over $200 from our electric bill each month with just the light bulbs this was the next logical step. Control it from anywhere and turn off power whenever you want. Well worth the price and it ends up paying for itself. Highly recommended for Smart Home especially if you don't want another hub.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Steve G",
+      "helpful_votes": 0,
+      "publication_date": 20170417
+    },
+    {
+      "title": "Very responsive, can be scripted.",
+      "text": "It does what it says it does - it has an app that allows you to monitor power usage and turn it on and off. It is very responsive in that regard - it turns off instantaneously when you press the power button on your phone. The main reason I bought this is because there is a Linux script that can be used to control it also. I did a little project at home and I have a script running on my linux box that automatically monitors and power cycles it to my specification. If you are interested, search GitHub for branning/hs100. Couldn't be happier.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "ace2904",
+      "helpful_votes": 0,
+      "publication_date": 20170611
+    },
+    {
+      "title": "The worst customer service",
+      "text": "What a ripoff. I have several of these smart plugs, and one failed. I reached out to them to replace it, honoring their warranty. I have had two Emails from them, asking me to do a whole list of things. They sent me the same list twice. After the first list, I did those things. They DIDN'T work. Don't buy from them, if you want them to honor their warranty. I won't be buying from them, again! Horrible customer service!",
+      "rating": 1.0,
+      "verified": true,
+      "author": "Kindle Customer",
+      "helpful_votes": 0,
+      "publication_date": 20201001
+    },
+    {
+      "title": "Unstable connection to echo dot.",
+      "text": "I bought this one during the thanksgiving week. The setup process is smooth. I can control it with my smartphone fine. However, the control from echo dot to this device is very unstable. The setup is straightforward. After setup, I can use echo dot voice control to this plug. However, after several minutes, the echo dot won't control it and said \"Device not responding...\". My echo dot and smart plug are less than 1 feet away from my wifi extender. So, there is no wireless network connection problem. Tried to call technical support, no answer yet. Really frustrating since using echo dot control is one major expected feature when I bought this one.",
+      "rating": 2.0,
+      "verified": true,
+      "author": "aiming zhu",
+      "helpful_votes": 8,
+      "publication_date": 20161128
+    },
+    {
+      "title": "Works great!",
+      "text": "Installed in the basement to monitor energy usage for a dehumidifier in the summer and a heater in the winter. It hooks up to your wifi and then you can monitor it from anywhere using the app, as well as turn it on and off. I guess the app keeps track of things; we had a power outage and unlike a Kill-o-watt meter it did not reset to zero. So far I love it. And it's made by TPLink who is good.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Peter Ward",
+      "helpful_votes": 0,
+      "publication_date": 20200627
+    },
+    {
+      "title": "Great, mature product.",
+      "text": "There's a lot of smart home products out there. Been using this for about a month now. It's fantastic. The TP-Link Kasa app is mature, clean, well designed. The energy monitoring features are also much appreciated. I found it cool to be able to actually calculate how much money the Christmas tree was costing me. I was concerned that this would feel like a cheap Chinese hacked together device, but that could be farther from the truth. The setup might be a bit confusing for a non-techy, but it's really not too hard if you take the time and read the instructions.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "rizzo",
+      "helpful_votes": 0,
+      "publication_date": 20180107
+    },
+    {
+      "title": "Beats the Kill A Watt",
+      "text": "Beats the old Kill A Watt in functionality, for just a little more money. I had been using a Kill A Watt before getting this, and it was a pain reading the display since the device was plugged into hard-to-reach location, and it was always dark. Plus reaching in to blindly press the buttons was a pain. With the TP-Link, and the Kasa app, I can not only do all the same thing as Kill A Watt, but I can do it from my phone AND I can program turning it on/off (or just manually turn it on/off)",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Matt",
+      "helpful_votes": 0,
+      "publication_date": 20171006
+    },
+    {
+      "title": "Functional for anything needed to be powered remotley",
+      "text": "My application for this was use with a 3D printer to shut off once prints were done when I was not home. Setup was simple through the kasa app, which asks you to connect it to your access point and name your device, once it's added it's as simple as hitting a button to shut it off. I'd say energy readings are accurate enough to give you a general estimate as to what your spending on your power bill each month for that designated device. You also have the ability to setup timers and scenes but I don't own multiples of these so I can't speak on that aspect.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Shane Pacheco",
+      "helpful_votes": 0,
+      "publication_date": 20170204
+    },
+    {
+      "title": "Stopped working with Alexa",
+      "text": "It was a bit difficult to set this up to work with Alexa on my Amazon Echo but I did get it working. Then after about a month Alexa started saying \"I'm sorry but I can't find a device named Office Lamp in your account.\" I started from the beginning and set the device up again. It worked for a few more weeks and had the same problem. It does work from the iPhone app but I haven't been been able to get it working with Alexa again.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "John D",
+      "helpful_votes": 4,
+      "publication_date": 20160603
+    },
+    {
+      "title": "Don\u2019t hesitate it\u2019s definitely worth it",
+      "text": "I cannot speak on longevity but set up was to easy especially after 1st one but even the first was crazy easy to set up. I\u2019ve been a licensed electrician for 20yrs also licensed in hvac/r for last 6. This product screams quality and attention to detail. My review speaks towards the plug and switch. I definitely will be ordering more. I\u2019ve ran 2 test runs and a legit schedule at all 3 were flawless. I\u2019m super happy with this product and I highly doubt set up can get easier. There\u2019s a hidden feature in setup to assure you\u2019re connecting to the correct system.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Flectric",
+      "helpful_votes": 0,
+      "publication_date": 20180225
+    },
+    {
+      "title": "Works great and easy to set up.",
+      "text": "I have purchased a few of these now and they work great. I bought my first one to control my outdoor lights. It's protected from rain, but not from hot and cold. Regardless, it works great. I bought the second on to control my Christmas tree. I'm now waiting for one that can take out my trash and then I'll never have to get off the sofa again.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "BOlson",
+      "helpful_votes": 0,
+      "publication_date": 20181129
+    },
+    {
+      "title": "Super convenient for my Wall A/C unit",
+      "text": "Super convenient for my Wall A/C unit. Energy usage monitoring is great for a roommate situation so I can chip in to the electric bill accordingly. Don't know how accurate it is, but the wattage was always close to what reviewers stated my AC unit uses. Minus 1 star as the outlet is sometimes slow to update in the app. Sometimes takes several tries to get it to turn on or of, and sometimes the outlet reports as offline for 10 - 20 seconds before updating. I've never had it actually fail to respond for more than a minute though. Just a minor inconvenience when you're trying to turn the AC on quickly while at a red light or something.",
+      "rating": 4.0,
+      "verified": true,
+      "author": "Steven Frailey",
+      "helpful_votes": 0,
+      "publication_date": 20170126
+    },
+    {
+      "title": "Super easy setup, equally easy usage.",
+      "text": "Device was simple to setup, plug into the wall and connect with your phone. Never have issues using the app locally or remotely. Slick app, and great information on power usage. Use with a window AC unit, can even set names/icons for outlets.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Ashley Nic Dodson",
+      "helpful_votes": 3,
+      "publication_date": 20180613
+    },
+    {
+      "title": "Good reliable product",
+      "text": "These things are great. Kasa app for TPLink is simple and all the items we have put in there have never failed. I use this one on a compressor for the garage. Tell Alexa to turn it on and when I get out there the air is ready. The power consumption monitor works well but it wasn\u2019t something that I really needed.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "J. Giles",
+      "helpful_votes": 0,
+      "publication_date": 20180907
+    },
+    {
+      "title": "I love these! They work great and have a lot of features",
+      "text": "I originally bought a couple of these, but after seeing how useful they are I bought more. Pro: energy usage (for the nerds in us all), in-depth scheduling, away mode (automatically turns on and off over a period of time), easy setup, control from anywhere, appear to receive updates (have gotten one or two firmware update since purchase, so good sign for security), app functionality is nice. Con (because I should have): they are a little big (but that's because of the energy monitoring and you already know that)",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Amazon Customer",
+      "helpful_votes": 0,
+      "publication_date": 20181204
+    },
+    {
+      "title": "Excellent App, I love the energy monitor feature!",
+      "text": "This was a little more than I wanted to spend on a Smart Plug/Energy monitor, but I'm very happy with my purchase! Pros: + Awesome app! Kava allows me to easily control the switch, and setup my lamp so that it turns on automatically at sunset and turns off at a set time + Easy setup, it took my about 5 minutes from unboxing to having it ready-to-use + Energy monitor feature makes this better than other WIFI Plugs. Now I can determine how much certain electronics use in standby mode Cons: - I can only control one outlet. I'd love to control more, but at around $40 each I'm going to stick with just one.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Allan",
+      "helpful_votes": 0,
+      "publication_date": 20170223
+    },
+    {
+      "title": "Regardless I returned for a refund and I'll look for a more robust smart outlet.",
+      "text": "I've been through 2 of this product and both failed after about 2 weeks of use. The first was replaced for free by Amazon, but the second failed in the same way. I was using them to control my pool pump, which is on a 15A circuit and draws less than 10A while running. This product is rated at 15A, but apparently can't handle the constant ~10A load over 6-8 hours at a time. Or maybe both products failed after 2 weeks, regardless of the application. I have no way of knowing. Regardless I returned for a refund and I'll look for a more robust smart outlet.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "Ed",
+      "helpful_votes": 0,
+      "publication_date": 20180701
+    },
+    {
+      "title": "latest update (early august) has everything working well. :-)",
+      "text": "I have two of these, plus two minis. earlier I had some issues, but I think they upated their software and Alexa recognizes the devices and I can turn them and and off by voice. the kasa app (on android) has always worked. I can turn manage each device, and also create 'groups' to turn everything (or groups of things) on and off. scheduling is a new feature available in the app (previously you needed a special router). I'll be trying that next. but whatever the latest update, everything I've tried so far is working well and quick. :-) yay!",
+      "rating": 5.0,
+      "verified": true,
+      "author": "MBtW",
+      "helpful_votes": 0,
+      "publication_date": 20170810
+    },
+    {
+      "title": "Linux server control and local network only goodness!",
+      "text": "Great compatibility with my Linux server as the plug runs a Linux kernel and BusyBox. Using the tplink-smartplug project on GitHub by softScheck made control, setup, and power usage gathering a \"breeze\". The GitHub app allows disabling the phone home \"feature\" and I never needed to install any tp-link/kasa apps.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "will",
+      "helpful_votes": 0,
+      "publication_date": 20200102
+    },
+    {
+      "title": "Awful product by an awful company with an awful policy",
+      "text": "I've owned this smart plug for a little over a year until it stopped working. The device plugged in was under the maximum load and within normal operation conditions. Thankfully my product was still under warranty, but if you want to get it replaced, TP-Link will make you deal with their slow overseas customer support, and make you pay for the return shipping. I really regret buying into their smart plug \"ecosystem,\" and if this is your first \"smart home\" device, I strongly advise you to stay away. My next smart plug definitely will not be a TP-Link one. Save yourself the trouble and look into any of the hundreds of other smart plugs.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "Jeffrey Li",
+      "helpful_votes": 0,
+      "publication_date": 20191218
+    },
+    {
+      "title": "Can't configure to work with Echo",
+      "text": "I am frustrated and probably going to send this blasted thing back, I have been trying for two days to enable remote control for I can control it with Echo. The settings say it belongs to another account and nothing I have tried has made it worl. Thus far I have configured 11 different smart home devices from a variety of manufacturers to work with Echo. This one has me stymied.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "Dean Stevens",
+      "helpful_votes": 3,
+      "publication_date": 20161025
+    },
+    {
+      "title": "Kasa products",
+      "text": "Have not used it yet. I purchased this item to control Christmas tree lights and decorations. Based on other Kasa products I use I anticipate this to be quite useful. I have a kasa switch I use for ceiling fan which is very useful for wife who has to turn fan on and off frequently during the night. Beats getting up and down repeatedly during night. Also have kasa bulb which I like being able to turn on at lower levels through Alexa. High hopes for this product.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Elbert Eller",
+      "helpful_votes": 0,
+      "publication_date": 20181007
+    },
+    {
+      "title": "I love these smart plugs",
+      "text": "I love these smart plugs! I use them to turn on and off oil-filled radiator type heaters at my country house. The heaters are digital and with frequent power outages in my area their built in thermostats do not not reset to where I left them and I always arrive to a cold house. I've not had an issues with these plugs reconnecting to WiFi, even after a power outage, so the house is always cozy when I get there. (One additional measure is that I keep my router on a battery backup so it doesn't drop the internet when the power goes out)",
+      "rating": 5.0,
+      "verified": true,
+      "author": "PSue",
+      "helpful_votes": 0,
+      "publication_date": 20180101
+    },
+    {
+      "title": "Controlled from the Cloud",
+      "text": "This device is controlled from the cloud. That is, you tell some other company in which what state to put the device, on or off. If you have electricity but no internet access, it won't work. Also, though unlikely, if the cloud controller you use, TP-Link, Amazon, Google, etc. get hacked, they can lose control of the device to someone other that who you would authorize.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "Old Surfer Dude",
+      "helpful_votes": 0,
+      "publication_date": 20181202
+    },
+    {
+      "title": "Doesn't Work, Limit to Wattage You can Plug into It (But That Limit Not Listed Anywhere)",
+      "text": "BEWARE! This product has a cap on what you can plug into it. I got this for my refrigerator and it randomly turns it off and doesn't turn back on. Turns out the company says there's a wattage limit of what you can plug into it. It says this NOWHERE. So if you're planning on using it for a large appliance, don't count on it. Company was not helpful. I am returning this to Amazon and will look for a different product.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "svacal",
+      "helpful_votes": 0,
+      "publication_date": 20170927
+    },
+    {
+      "title": "A lot of time and expense just to turn a light on/ off.",
+      "text": "a very expensive toy. A simple timer will turn lights on and off when you are away. I have mostly built in lights in my house anyway. So, this won't work with them. I have one desk lamp in my office. It does control it by voice with Alexa but for routines you have to use the Kasa app. Alexa app only does one thing (turn on or off but not both). So yes it works and is kind of cool but I only ought it on special for $5. That's about what its worth",
+      "rating": 3.0,
+      "verified": true,
+      "author": "Roger X",
+      "helpful_votes": 0,
+      "publication_date": 20171226
+    },
+    {
+      "title": "Great software, looking forward to a smaller form factor.",
+      "text": "I would give this five stars, but the form factor unfortunately pulls it down. I have this plug, and a Wemo Insight Switch. The Wemo has the better form factor - it's smaller and does not block the other outlet. The TP-LINK partially covers the other outlet. You could still fit a regular plug into the 2nd outlet, but it's tight. And if you want to plug in a 12v adaptor, it won't fit. From a software/stability point, the TP-LINK appears to be far more solid. It behaves as you would expect, and reliably. I found the set up steps to be a bit awkward, but it was up and running in no time.",
+      "rating": 4.0,
+      "verified": true,
+      "author": "ItsWern",
+      "helpful_votes": 0,
+      "publication_date": 20160621
+    },
+    {
+      "title": "Love the energy monitoring",
+      "text": "I know this thing takes up the size of two ports, but it definitely has a cool feature that tells you how long its been running power in the day as well as how much as well. We used this in conjunction with an Alexa routine for our xmas lights this year and its got us thinking to swap our lights out for LED lights next year. we didnt realize how much power basic xmas lights used until we got this thing. Nonetheless, this is a great investment if you are willing to sacrifice a second power port.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Mike",
+      "helpful_votes": 0,
+      "publication_date": 20190125
+    },
+    {
+      "title": "Love this",
+      "text": "Love the TP Link Kasa products and app. I have 3 wireless devices (brands) in my house and this one has the app that is the easiest to use, the least keystrokes to get to the device to turn it on or off. I also bought the mini, so I have 4 of these totals. I can set a schedule for these things to turn on and off at certain times, or I can just go onto the app and turn it on or off manually. You can also add the device to your Google Home so you can use verbal controls.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Sara",
+      "helpful_votes": 0,
+      "publication_date": 20180430
+    },
+    {
+      "title": "GARBAGE...does not work and trying to troubleshoot is a nightmare",
+      "text": "Does not work. Attempted to connect to my phone from multiple outlets around my house and it would not connect. Trying to find where to troubleshoot on their website was impossible. I currently have incredibly good internet and router yet it could not link up with the internet. All my other WiFi devices have absolutely no problem finding the signal. That is two hours of my like I'll never get back...THANKS TP-LINK!",
+      "rating": 1.0,
+      "verified": true,
+      "author": "gary todd jones",
+      "helpful_votes": 0,
+      "publication_date": 20200209
+    },
+    {
+      "title": "Not designed and longevity tested up to its 15A rating.",
+      "text": "This plug works well if you're very under the device's rated limits, which should be 15A. However, I've experienced multiple failures with this plug when used with a 1480 watt device (as measured by the app) for long periods of time. The internal relay will eventually fail to \"connect\". So even though the plug is on, the light is on, electricity no longer passes through it.",
+      "rating": 2.0,
+      "verified": true,
+      "author": "J. Lee",
+      "helpful_votes": 0,
+      "publication_date": 20180603
+    },
+    {
+      "title": "which has been really nice for keeping utility costs down",
+      "text": "I use this plug for my window unit AC, so that I can schedule it to turn off when I leave and then back on about 30 minutes before I get back home. I can also monitor how much energy my AC uses, which has been really nice for keeping utility costs down. I would recommend these for things like heaters and AC, so you can set it to a schedule. May also be nice for lights so you can turn them on before you get home so you don't walk into a dark house.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "DelaneyTop Contributor: Eye Makeup",
+      "helpful_votes": 0,
+      "publication_date": 20161205
+    },
+    {
+      "title": "Works really well, just do your homework on what ...",
+      "text": "Works really well, just do your homework on what you need this to connect to and the watts that item has. I wanted this for my AC so that my pet wouldn't overheat while i was not home, but it didn't work because my AC takes up too many watts. I now use it for my lamp and it is okay, not sure worth the price for a \"clap on\" via app.",
+      "rating": 3.0,
+      "verified": true,
+      "author": "Rebecca N.",
+      "helpful_votes": 0,
+      "publication_date": 20161217
+    },
+    {
+      "title": "OK, could be better",
+      "text": "This is a cool product when it works. I purchased two and one is very finicky about allowing remote on/off while away from home. Most of the time it shows offline even though it's a matter of feet from the hotspot it's connected to. The plug itself is rather large and obscures the bottom outlet just enough to make it unusable. Seems to me this could have been avoided with better product design from TP-Link. I do like the energy monitor feature since I use it with a window air conditioner.",
+      "rating": 3.0,
+      "verified": true,
+      "author": "J. Roberts",
+      "helpful_votes": 0,
+      "publication_date": 20180106
+    },
+    {
+      "title": "Paid for itself already after 3 days!",
+      "text": "I have had this for 3 days now and it has already paid for itself. I have a ZCash mining rig which likes to crash about once a week. This makes resetting it from a remote location possible. I'm reading up on how to 'hack' the app to allow a script to trigger it but even if I can't figure that out, just being able to open an app and power off and power back on saves me big $$$. It also comes with a nice bonus, it monitors power consumption as well. Makes splitting electric bills with the roommates alot easier. Kudos TP-Link! I will buy more of these as I need them for more mining rigs.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "WDizzle",
+      "helpful_votes": 0,
+      "publication_date": 20180115
+    },
+    {
+      "title": "Works great, never had any connectivity or other issues.",
+      "text": "I use it with Google Assistant/Home fantastic integration and energy tracking. Only negative is the size. It doesn't cover the second outlet but you need to plug in your other device before putting this monster into the socket.",
+      "rating": 4.0,
+      "verified": true,
+      "author": "Computer Geek",
+      "helpful_votes": 0,
+      "publication_date": 20190705
+    },
+    {
+      "title": "Great way to watch power usage.",
+      "text": "I really wish it had a graphing function or some way to show usage over time. The app shows weekly, monthly and to-date usage, but it's not a calendar, it's a rolling count. Still pretty happy with it, especially for the price!",
+      "rating": 4.0,
+      "verified": true,
+      "author": "jeremy",
+      "helpful_votes": 0,
+      "publication_date": 20200513
+    },
+    {
+      "title": "Works great. I tested the energy monitoring with my Kill-a-watt",
+      "text": "Works great. I tested the energy monitoring with my Kill-a-watt. They were within 20 watts of each other when pulling about 1000 watts. That's good enough for me. Works well with the app and with Home Assistant.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Eric",
+      "helpful_votes": 0,
+      "publication_date": 20171220
+    },
+    {
+      "title": "Local WiFi without Cloud",
+      "text": "For those who don't want to \"hack\" or modify other smart plugs for local use, TP-Link gives you that option without signing up for a \"cloud account\". The energy monitoring works well for my water recirculation pump.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Amazon_User",
+      "helpful_votes": 0,
+      "publication_date": 20200209
+    },
+    {
+      "title": "it works well.",
+      "text": "It works pretty well. I have been slowly adding these room by room as the use case presents itself from room to room, device to device... i have Kasa devices controlling all sorts of things from light switches to devices around the yard like pathway lights and items throughout the house.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Davey-Z",
+      "helpful_votes": 0,
+      "publication_date": 20190222
+    },
+    {
+      "title": "Works Great with a Good App experience",
+      "text": "I purchased the Kasa Smart Wi-Fi plug for a light down in the basement. It is odd shaped room and the ceiling light is not enough for the room. The Kasa Smart plug was very easy to setup and quickly connected to my wifi network without issues. Once in the app I found it to be very easy to use with a lot of options and settings to customize your plug's performance. The plug is very responsive and quiet. I have been very impressed with it so far. I went ahead and bought a second one for another light in the house after my positive experience. Setup was smooth again. I highly recommend this smart plug.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Amazon Customer",
+      "helpful_votes": 0,
+      "publication_date": 20180816
+    },
+    {
+      "title": "Terrible product",
+      "text": "The first time I tried to use it, the power to whatever is plugged in never turns off. It connects to Wifi and can be controlled, but whatever cuts off the power is completely broken. My request for a return or replacement was rejected. Will never use another TP-Link product or buy from Electronic Express.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "Dave",
+      "helpful_votes": 0,
+      "publication_date": 20190905
+    },
+    {
+      "title": "Easy to set-up.  Great wi-fi control switch.",
+      "text": "I have several of these we use to control electric items like lights and fans, particularly while travelling. I like that you can set up a schedule, including a \"random\" one, when you are away to make the house appear occupied. (Or you can just use it to convince your kids you have magical powers!)",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Chuck Woehr",
+      "helpful_votes": 0,
+      "publication_date": 20180822
+    },
+    {
+      "title": "Works great ! and 220-240V compatible",
+      "text": "I was initially concerned that they won't work with 220-240v power outlets as the box and manual mentioned the input voltage as 110V. A quick email to TP-Link support and I was reassured by them that they are dual voltage compatible. I got 5 of these for a new home, and tested it with Amazon Echo. They work great !",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Sumit",
+      "helpful_votes": 12,
+      "publication_date": 20160705
+    },
+    {
+      "title": "Good device to control remotely and track usage",
+      "text": "I\u2019ve had this for 2 months now and I love it. Using to track my EV electricity usage as it supports full 12 amps and seems to be safe to use. Only thing missing is more detailed graphs of usage, but it can be fixed with setting up own tracking as you can connect to device externally",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Amazon Customer",
+      "helpful_votes": 0,
+      "publication_date": 20181214
+    },
+    {
+      "title": "100 vs 110",
+      "text": "I read a review that stated the model 100 blocked the second outlet. I looked at the picture on amazon that shows the 110 plugged in and shows the second outlet free. As a result I bought 2 model 110 units. Turns out the 100 and 110 are identical. The ONLY difference is the energy monitoring capability of the 110 which costs an additional $10 per unit.",
+      "rating": 3.0,
+      "verified": true,
+      "author": "Amazon Customer",
+      "helpful_votes": 3,
+      "publication_date": 20170112
+    },
+    {
+      "title": "Worked great at first",
+      "text": "We bought this to manage the light while away from my phone. Worked great at first. But at one point I turned off my phone wifi to conserve battery, and apparently severed he connection. No more light control for the rest of the trip.",
+      "rating": 3.0,
+      "verified": true,
+      "author": "labdesigner",
+      "helpful_votes": 0,
+      "publication_date": 20170810
+    },
+    {
+      "title": "Okay but the software needs better energy usage features",
+      "text": "I bought this to use primarily as an energy usage monitor (and occasionally for remote on/off). The Kasa (iOS) app does not let you reset the hrs used (even if you delete, reset everything) It also does not let you enter in your electricity rate to calculate cost. Please add these features!",
+      "rating": 3.0,
+      "verified": true,
+      "author": "ROBERT L.",
+      "helpful_votes": 0,
+      "publication_date": 20180301
+    },
+    {
+      "title": "Works well with Sense",
+      "text": "Using to provide feedback to Sense energy monitoring system and remote control of devices. Works as expected. Only negative is that it is so large as to make it difficult or impossible to use the second plug in an outlet.",
+      "rating": 4.0,
+      "verified": true,
+      "author": "Robert B",
+      "helpful_votes": 0,
+      "publication_date": 20200223
+    },
+    {
+      "title": "The unit did connect to Alexa and also control a lamp from a smart phone.",
+      "text": "when using this item it takes up so much space that the empty outlet is unusable I tried it in several outlets and when it was plugged in the other outlet could not have a cord plugged into it. The unit did connect to Alexa and also control a lamp from a smart phone.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "Dennis J. Marino",
+      "helpful_votes": 0,
+      "publication_date": 20171126
+    },
+    {
+      "title": "Energy useage stats not there yet",
+      "text": "I bought the HS110 model to track energy useage over time on a radient heater. It doesn't . The statistics sent to my reset seemingly randomly. I sent a complaint to TP-LINK customer service and they confirmed that, \"energy use function hasn't quite been perfected.\" So if you're looking for a smart plug that works as advertised look elsewhere.",
+      "rating": 2.0,
+      "verified": true,
+      "author": "Pyracantha",
+      "helpful_votes": 0,
+      "publication_date": 20161110
+    },
+    {
+      "title": "Great device, but not without its flaws.",
+      "text": "Love these things. So convenient, compatible with Alexa. But..I have had problems if I\u2019ve had to restore them to factory settings, like if there were problems with the set up.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Mshl",
+      "helpful_votes": 0,
+      "publication_date": 20180907
+    },
+    {
+      "title": "I works fine, but app need features",
+      "text": "The device work very good, and it's easy to install. The App in the other hand, needs some work. 2 mayor features are missing. It does not have a reset function, don't know yet if the device has to be unplugged to reset, i will find out eventually. The other feature missing is that there is no comparison tools and the 30 days limit for statistics. Maybe in future updates the app gets better, i hope.",
+      "rating": 4.0,
+      "verified": true,
+      "author": "Julio Mella Duquela",
+      "helpful_votes": 0,
+      "publication_date": 20180821
+    },
+    {
+      "title": "Smart Plug",
+      "text": "I am using the Smart Plug, and so far it has done everything I wanted it to do. Pairing it to my wifi and the app on my Android phone was super easy. I use Verizon, and when I'm on 4G and press the button to turn on the outlet, the outlet turns on in less than 2 seconds. This is a really neat device, and useful for a lot of different things. Definitely recommend it.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "David Rowell",
+      "helpful_votes": 0,
+      "publication_date": 20161113
+    },
+    {
+      "title": "Very handy smart plug",
+      "text": "Works like a champ with the Kasa app. Set up was easy. Have been using two since they came out. Can't speak to the accuracy of the energy usage. Have not played with the Alexia or IFTTT support yet. I wish there was energy usage and runtime data greater than 30 days. It would be nice if they had a way to share this data to a spreadsheet.",
+      "rating": 4.0,
+      "verified": true,
+      "author": "ATX Man",
+      "helpful_votes": 0,
+      "publication_date": 20171209
+    },
+    {
+      "title": "Easy set up",
+      "text": "No nonsense. Feature rich. Easy set up. I now know how many KwH my refrigerator uses. Also, I turned my refrigerator off from a different city yesterday. Can you say you've done that? P.S. I also now know that the payoff period for a new $1000 refrigerator is approximately 10 years. Also, if I decide not to purchase a new fridge, I will be the only person on the street with a 40 year old fridge in 10 years. HOLLA.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "nailbiter",
+      "helpful_votes": 0,
+      "publication_date": 20160919
+    },
+    {
+      "title": "Piece of SHI!T",
+      "text": "Stopped working today after many months of perfect use. Problem seems to be some server in China. I want to return it.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "William Abbott",
+      "helpful_votes": 4,
+      "publication_date": 20170302
+    },
+    {
+      "title": "Good product, only a minor issue with size",
+      "text": "This Wi-Fi enabled plug is very effective for power monitoring and remotely enabling devices. The app and plug are easy to set up and use, and the statistics it provides are good for those concerned about energy. The biggest detractor I have found its that it makes it difficult or impossible to use a second socket on any outlet due to its size, and inability to orient the body of the device to different angles.",
+      "rating": 4.0,
+      "verified": true,
+      "author": "Andy",
+      "helpful_votes": 0,
+      "publication_date": 20170723
+    },
+    {
+      "title": "and ediplug it remembers its settings after a power outage so it can be used on network equipment like your wifi router etc",
+      "text": "Unlike wemo, and ediplug it remembers its settings after a power outage so it can be used on network equipment like your wifi router etc. It also has a schedule that you can just turn on , not on and off in combo like ediplug. would be 5 stars but it did not work remotely (over 4g) untill I found an obscure post in their forums regarding opening of port 50443 which is required if you have any sort of firewall.",
+      "rating": 4.0,
+      "verified": true,
+      "author": "lgkahn",
+      "helpful_votes": 0,
+      "publication_date": 20170115
+    },
+    {
+      "title": "Great smart plug for Alexa",
+      "text": "I shopped around online quite a bit before buying this and am very happy with my choice. I'm using it to control a string of lights in the rafters of my backyard covered patio. Set up and link with Alexa was very easy. I know some complained about staying connected but this outlet is 50 feet away from my house with the router on the second floor and I've had no issues. Make sure you follow the directions in setting up the app. You need to turn on remote access in order to control through Alexa. Given how well it works I'll probably purchase more for other areas in my home now I know the range is so good.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "JMS",
+      "helpful_votes": 0,
+      "publication_date": 20160712
+    },
+    {
+      "title": "So far so good!",
+      "text": "Connected to Wireless Network no issues. Wish the software was a bit more flexible (i.e. if on an outlet with switch, set default behavior (on/off) on power up) but general things like scheduled on/off, timed countdown work as expected. Used for Christmas lights and didn't see any issues with ignoring schedule, etc. Has seemed very reliable.",
+      "rating": 4.0,
+      "verified": true,
+      "author": "Leo",
+      "helpful_votes": 0,
+      "publication_date": 20170107
+    },
+    {
+      "title": "Can not connect to open netwroks",
+      "text": "I realize I am a slightly uncommon situation, but I need to keep my setup on my farm in an open configuration. KASA, the app to connect to these does not allow this so I am returning all the ones I bought.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "Silver",
+      "helpful_votes": 0,
+      "publication_date": 20191017
+    },
+    {
+      "title": "Easy set up!",
+      "text": "Amazing, amazing, amazing! Very happy with this life changer! \"Alexa, turn on the entry light\"! This was so easy to set up, so I bought two more! Great product!",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Cat",
+      "helpful_votes": 0,
+      "publication_date": 20191011
+    },
+    {
+      "title": "Smart, very smart.",
+      "text": "Not only can you use these to turn devices on and off via an app, but you can command them with Alexa. You can also set up schedules where they go on and off at set times. Further, you can see exactly how much energy is being consumed by what you have plugged into them. Very easy to use.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Kirbinster (Howard)",
+      "helpful_votes": 0,
+      "publication_date": 20181209
+    },
+    {
+      "title": "Easy to set up and easy to use",
+      "text": "I tried a different WiFi smart plug by a different company and I could not get it set up. This product was absolutely no problem and the instructions made it really easy. They even tell you to make sure you connect to a 2.4 network and not 5.0. The app to control the plug is very easy to use and extremely fast. This is a really high quality product and works just as well as my Hue products. Scheduling the lights to go on and off is really easy.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "MJP",
+      "helpful_votes": 0,
+      "publication_date": 20160615
+    },
+    {
+      "title": "quick and easy",
+      "text": "this is essentially a toy for me - I use a Sense power monitor on my panel, and some devices do not get easily identified (multiple things on one circuit, etc.) so I tried this smart plug. It connected easily and adds a bit of data to my Sense.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Amazon Customer",
+      "helpful_votes": 0,
+      "publication_date": 20181212
+    },
+    {
+      "title": "Easy to setup and use",
+      "text": "So far so good. Easy to set up and use with the Kasa app and Amazon Alexa, and I love being able to see the energy consumption through it. I have been a huge dork and plugging in different appliances just to see real-time usage. The only negative so far is the size. If it has to be this large - I'd like to at least then have two outlets together and have it cover the whole face of my wall outlets. I think the real test will be time - how long these hold up and/or before they become obsolete.",
+      "rating": 4.0,
+      "verified": true,
+      "author": "Sojum",
+      "helpful_votes": 0,
+      "publication_date": 20160611
+    },
+    {
+      "title": "Great for dumb radiant heaters and other appliances",
+      "text": "My radiant heater doesn't have time controls which means if I forget to turn it off, it's just sitting there silently wasting my money. These smart plugs are the perfect solution and cheaper than the heater with time controls.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "J",
+      "helpful_votes": 0,
+      "publication_date": 20181223
+    },
+    {
+      "title": "Nothing works as advertised.",
+      "text": "Initially it worked locally only.I Opened up some port forwarding, worked over the internet too, for about a day. The remote access is constantly going on and off. Sometimes the local network doesn't work. After 17 hours of use, 1.52Kwh was used. After 46 hours of use 1.52Kwh was used. This was for an portable AC unit, so I'm pretty sure 100% of the features on this device do not work properly.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "Mike",
+      "helpful_votes": 0,
+      "publication_date": 20170715
+    },
+    {
+      "title": "Good Device and Good App",
+      "text": "We used this plug to turn on our hot water pot each day. It was great to see the usage of the water pot. We also used it to remotely (through the App) turn the outlet on and off. The app is easy to use and the device worked as expected.",
+      "rating": 4.0,
+      "verified": true,
+      "author": "Fahillion Tech",
+      "helpful_votes": 0,
+      "publication_date": 20180919
+    },
+    {
+      "title": "After hours and days of horrible frustration along with endless phone calls I discovered that ...",
+      "text": "Very unhappy with this plug. After hours and days of horrible frustration along with endless phone calls I discovered that it is not compatible with my I phones and internet. It was too late to return and I am now out a lot of money. Be very careful and do your homework before purchasing.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "MarMar",
+      "helpful_votes": 0,
+      "publication_date": 20170220
+    },
+    {
+      "title": "Affordable, dependable and easy to use.",
+      "text": "Out of all of the \"value\" plugs I've bought, this ties for first in reliability. It rarely comes back unavailable, and it was decently easy to set up and integrate with my Google Home Mini. Easy to assign and customize.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "ToeKneeAllen",
+      "helpful_votes": 0,
+      "publication_date": 20180930
+    },
+    {
+      "title": "Dumb smart plug",
+      "text": "What an awful product. Never connects and I reordered thinking it was defective. Nope it's just the junky product. Not smart at all, more like dumb. Doesn't work with ALEXA, into the dumpster it goes.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "A fabulous shopperTop Contributor: Pets",
+      "helpful_votes": 0,
+      "publication_date": 20180113
+    },
+    {
+      "title": "TP Link Smart Plugs",
+      "text": "The TP Links work good but I think I like the Wemo's better. I would only suggest you stick to one brand you're happy with because once you start getting all these smart devices, it sucks having 10 different apps to sort through...",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Peter C",
+      "helpful_votes": 0,
+      "publication_date": 20180825
+    },
+    {
+      "title": "Happy with product, I recommend it to anyone looking to make that step into the smart home scene.",
+      "text": "This is not a paid review. Packaging was great no issues. Product was very easy to hook up. The Kasa App commands work good. I wanted to use voice commands, so I bought an Echo dot (2nd Gen) and these 2 products work very well together. I wanted the product to handle more power and be able to have more than 1 outlet. But even with that being said I highly recommend this product!",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Dboarxero",
+      "helpful_votes": 0,
+      "publication_date": 20161022
+    },
+    {
+      "title": "Update firmware first thing!",
+      "text": "Do the firmware update first thing! This unit is garbage without that update. Not sure how it was released with such terrible programming... It took 3 reboots and 2 factory resets before it would update firmware...",
+      "rating": 4.0,
+      "verified": true,
+      "author": "quality control",
+      "helpful_votes": 0,
+      "publication_date": 20181128
+    },
+    {
+      "title": "Really Cool but needs some work.",
+      "text": "I like that these smart plugs monitor energy usage. They are very easy to setup amd use. I wish the plugs had a small profile like the non energy models. I wish these plugs had energy logging and I could export the collected data.",
+      "rating": 4.0,
+      "verified": true,
+      "author": "Will",
+      "helpful_votes": 0,
+      "publication_date": 20190206
+    },
+    {
+      "title": "Is that ringing in my ears ?",
+      "text": "Works fine, actually liked it. But a month later this thing has a high pitched whine. Only have a floor lamp with LED bulbs hooked up to it, so nothing overloading it at all, maybe 1/2 amp draw. Too bad.",
+      "rating": 2.0,
+      "verified": true,
+      "author": "JM&JG",
+      "helpful_votes": 0,
+      "publication_date": 20190123
+    },
+    {
+      "title": "Problems pairing.",
+      "text": "Works great if you can get it to pair. Took me over an hour to get it to pair. I also have 2 TP-Link smart receptacles and had the same problem with all of them. Once you get it to pair you will be happy with it but the reason I only gave it 3 stars was the pairing problem. Can't beat the price.",
+      "rating": 3.0,
+      "verified": true,
+      "author": "FB",
+      "helpful_votes": 2,
+      "publication_date": 20160402
+    },
+    {
+      "title": "Sucky with Amazon Echo!",
+      "text": "Good on it's own but kind of sucky if you use it with Amazon Echo. If you're trying to pair this up with Amazon Echo and think you will be able to simply say, \"Alexa, turn off the light.\" you are wrong! You must say, \"Alexa, tell Kasa to turn off the light.\" This doesn't seem like a huge deal but Echo has a hard time understanding \"Kasa\". You sometimes have to repeat it 2-4 times. Why can't the Echo provide the same support it does for other products? Please fix!",
+      "rating": 2.0,
+      "verified": true,
+      "author": "R.A.D.",
+      "helpful_votes": 4,
+      "publication_date": 20160225
+    },
+    {
+      "title": "Not impressed.",
+      "text": "Not impressed at all. The TP-LINK Smart Plug stopped reporting energy to the IOS app over a week ago and for whatever reason I can no longer get it to report energy usage. I've had it only one month. The IOS App, Kasa, is cumbersome to get the device set up. The app reports only the most basic information, no charts, no date selection, etc. There is no method to access the data via a Desktop app either.",
+      "rating": 2.0,
+      "verified": true,
+      "author": "BUSY247",
+      "helpful_votes": 0,
+      "publication_date": 20160807
+    },
+    {
+      "title": "Perfect for my spaceheater in basement",
+      "text": "Easy set up, works great. Now I can check if I left my space heater on by accident or not and easily turn it off from my phone upstairs or away from home via the app. Also synced it with my Nest/Away Mode using IFTT so when I leave the house it will shut it off automatically for me. My first smart plug and I will def be buying more! The energy monitoring is also a plus \ud83d\udc4d\ud83c\udffc",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Evan",
+      "helpful_votes": 0,
+      "publication_date": 20181214
+    },
+    {
+      "title": "Easy to setup",
+      "text": "works flawlessly with Alexa or just use the app as remote(no need to be on the same wifi network). Easy to setup. well priced when it's on sale. TP-Link makes quality routers so I expected them to know how to implement wifi well, I'm happy to report that it seems to be reliable so far as I've experienced single drop out in 1 month of use after purchase.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "shinew",
+      "helpful_votes": 0,
+      "publication_date": 20161118
+    },
+    {
+      "title": "Suddenly stopped working.",
+      "text": "Have worked without issue until the past day when the devices suddenly stopped working. Now unable to reenable the skill on my Echo and neither plug is responding.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "Brad Galin",
+      "helpful_votes": 3,
+      "publication_date": 20170302
+    },
+    {
+      "title": "Alexa voice control only gives you on/off, you have to use the app on your phone to use countdown timer",
+      "text": "Works well, easy to set up, just followed all directions to link to Amazon Dot. But all it does is turn the switch on and off via voice control. I'd like to be able to say Alexa turn on my light for 30 minutes and have it turn the switch on with the countdown timer running, you can do this with the app but not with voice control.",
+      "rating": 4.0,
+      "verified": true,
+      "author": "OCSDF",
+      "helpful_votes": 0,
+      "publication_date": 20161229
+    },
+    {
+      "title": "Have a cocktail--Set up never works the first time",
+      "text": "This is my third Kasa (tp-link), and each time the set-up fails on the first try. After three attempts this time, it works. Once it is set up, it syncs well with Alexa. I recommend fixing a drink and do not let yourself get frustrated when you need to try three times or more to get it working.",
+      "rating": 4.0,
+      "verified": true,
+      "author": "Bob",
+      "helpful_votes": 0,
+      "publication_date": 20180827
+    },
+    {
+      "title": "Must Have for Every Home",
+      "text": "Bought this not knowing how much I needed it in my life. It is a great tool to plug your lamps in and control remotley. I love that you can also set a timer through the app so that it can turn on and off your lamp when needed (such as at sundown and sunrise). This smart plug tells you how much power in consumes so you can keep track of your electrical usage and works great with Alexa.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Herb",
+      "helpful_votes": 0,
+      "publication_date": 20161006
+    }
+  ],
+  "product_meta": {
+    "title": "Kasa Smart WiFi Plug w/Energy Monitoring by TP-Link - Reliable WiFi Connection, No Hub Required, Works with Alexa Echo & Google Assistant (HS110),White",
+    "description": "Control lighting and other appliances from anywhere with the Kasa Smart Wi-Fi Plug with Energy Monitoring. Schedule connected devices turn on when you get home, then power down when you go to sleep. Control each outlet individually or as one, set schedules or scenes, even use voice commands with Amazon Alexa, Google Assistant, or Microsoft Cortana. Protocols Supported: IEEE 802.11b/g/n; System Requirement: Android 4.1 or higher iOS 9.0 or higher; Wireless Type: 2.4GHz 1T1R",
+    "rating": 4.2,
+    "feature_bullets": [
+      "Control from Anywhere: Turn electronics on or off from Anywhere with Your Smartphone using the kasa app (compatible w/ android & ios)",
+      "Voice Control Works with Amazon Alexa, Google Assistant and MicroSoft Cortana Supported devices for a hands Free Experience",
+      "ENERGY MONITORING monitor enery consumption of Your plug in devices and set times and schedules to avoid waste",
+      "KASA SCENES & SCHEDULES Schedule the Smart Plug to automatically switch on and off when away or set a Scene for Controlling many devices with a Single button",
+      "Note: Requires a Secured 2.4 GigaHertz Wi Fi network connection"
+    ],
+    "specifications": {
+      "Manufacturer": "TP-LINK USA",
+      "Part Number": "HS110",
+      "Item Weight": "5.3 ounces",
+      "Product Dimensions": "2.6 x 2.5 x 3.9 inches",
+      "Item model number": "HS110",
+      "Is Discontinued By Manufacturer": "No",
+      "Size": "1-Pack",
+      "Color": "White",
+      "Style": "Kasa Smart Plug, Energy Monitoring",
+      "Voltage": "120 Volts",
+      "Item Package Quantity": "1",
+      "Type of Bulb": "NULL",
+      "Certification": "UL approved",
+      "Included Components": "Smart Plug HS110, Quick Start Guide",
+      "Batteries Included?": "No",
+      "Batteries Required?": "No",
+      "Warranty Description": "2 Years",
+      "ASIN": "B0178IC5ZY",
+      "Customer Reviews": "4.2 out of 5 stars953 ratings4.2 out of 5 stars",
+      "Best Sellers Rank": "#144,428 in Tools & Home Improvement",
+      "Date First Available": "November 23, 2015"
+    },
+    "categories": [
+      "Tools & Home Improvement",
+      "Plugs",
+      "Electrical"
+    ],
+    "price": ""
+  }
+}

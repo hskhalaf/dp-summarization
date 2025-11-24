@@ -1,0 +1,958 @@
+{
+  "website_summaries": [
+    {
+      "verdict": "Extremely fast SSD memory that will fit in many different styles of computing hardware.",
+      "pros": [
+        "Offered in capacities between 250 GB and 2 TB",
+        "One of the fastest SSD options you'll find, with a read speed of up to 3,500 MB per second",
+        "Includes cloning and file transfer software from Samsung that simplifies the SSD's operation"
+      ],
+      "cons": [
+        "Price point is a little high per GB",
+        "May not handle high-end computing needs well"
+      ],
+      "aspects": {},
+      "publication_date": "",
+      "rating": "",
+      "source": "bestreviews"
+    }
+  ],
+  "customer_reviews": [
+    {
+      "title": "Check your order carefully...",
+      "text": "I ordered one of the 1TB drives for a new PC build. Quickly glanced at the label upon receipt and everything looked fine. Fast forward several frustrating hours of trying to figure out why the PC wouldn't see the full volume of the drive, instead only showing 250GB available space. Went back to double check the box. Upon closer inspection realized that this was NOT a 1TB drive, but a 250GB drive, mislabeled as 1TB. Very angry that this inventory screw up derailed my weekend. Pissed that the replacement is not being expedited, especially since the issue is completely Amazon's fault.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "Mojofreem",
+      "helpful_votes": 81,
+      "publication_date": 20181015
+    },
+    {
+      "title": "Awesome.",
+      "text": "I got this yesterday and installed it in my laptop. The advertised read/write speeds are correct as I got 3459 MB/s read and 2420 MB/s write which is awesome. Boot times and load times are almost non existent and windows installed in less time than it took me to make a sandwich. What a time to be alive.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "J. Miller",
+      "helpful_votes": 56,
+      "publication_date": 20180601
+    },
+    {
+      "title": "Piece of Crap Ruined my Laptop at Install",
+      "text": "I installed it, turned on the laptop and no power. Nothing lit up. Sent off to ASUS and they confirmed the SSD ruined the Motherboard. On top of that, Amazon told me to return the hard drive, they issued a refund, then upon checking the refund status they charged a restocking fee!! Screw you all!",
+      "rating": 1.0,
+      "verified": true,
+      "author": "Jason McLaughlin",
+      "helpful_votes": 35,
+      "publication_date": 20181210
+    },
+    {
+      "title": "Failed after 6 months. Warranty denied",
+      "text": "Purchased directly from Amazon. Drive failed after 6 months and no more than 5 TB of data transferred. Contacted samsung support.... Unfortunately we are unable to proceed with your warranty claim for this drive. Your drive is a Netherlands Unit, which means warranty is not valid in the US. If you would like to proceed with a warranty claim, you would have to contact Samsung Europe at samsungmemory@hanaro.eu Thank you.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "Gi R",
+      "helpful_votes": 23,
+      "publication_date": 20190806
+    },
+    {
+      "title": "Received a COUNTERFEIT device",
+      "text": "Product arrived in apparently sealed Samsung packaging (970 EVO 2TB) however, when I put it in my system, it identified as a LITEON CA3-8D512 (512GB) and the SSD contained a copy of Win10 set for South Korean language. Labels on the SSD itself also look legit for a Samsung device, but its not. Amazon return policy sort of fails here. The only choices are 'return for replacement' or 'return for refund'. If I choose replacement, how would I know if I would get a genuine device since their supply chain is obviously compromised? What I would like is a replacement that they guarantee is correct. Looks like the safe choice is to take the refund and take my business elsewhere.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "Niteowl",
+      "helpful_votes": 21,
+      "publication_date": 20190728
+    },
+    {
+      "title": "Be careful when using Samsung to replace existing m2 SSD",
+      "text": "Samsung offers a data migration program. It has to SEE the Samsung drive to launch. With NVMe drive, you can't take your boot m2 SSD out and boot it from an enclosure, Windows won't allow that. You can't put the NVMe drive in and launch the migration program, BUT the NVMe drive HAS to be installed for it to run. This doesn't affecet prople with multiple slots, but for a laptop it makes it impossible to install. I even called Samsung and they told me I couldn't use their software; and I tried others but ay solution requires an additional 120$ for an enclosure and retail migration/imaging software.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "John H.",
+      "helpful_votes": 19,
+      "publication_date": 20181003
+    },
+    {
+      "title": "Learn what you have to do online before you install!",
+      "text": "Bought the 1TB 970 EVO, Install was a breeze on my Aurora R7. Replaced the 16GB m2 ssd with it, booted up into BIOS, changed to AHCI and Legacy, boot option #1 was the USB with windows, then booted into my USB to install windows and detect SSD from previously downloaded files. Read/write speeds are on par, and everything works faster then my previous 2tb HDD.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Tyler Davis",
+      "helpful_votes": 22,
+      "publication_date": 20180525
+    },
+    {
+      "title": "Samsung Notebook 9 Pro (2018) + 970 EVO 2TB = FAST",
+      "text": "The previous drive that came with my Samsung Notebook 9 Pro (2018) was a measly 256GB M.2 SATA SSD that maxed out at 525 MB/s R/W. I knew that port had more potential. I ordered the Samsung 970 EVO 2TB and installed it and it blew the doors off of the PCIe 3.0 x4 port. Then I downloaded Samsung Magician and trimmed it, activated Over Provisioning, and Turned on Rapid Mode and I went from FAST to Trans-Warp-Speed 9.9....almost started a black hole. Well...I'll let the pictures speak for themselves. lol",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Tech-Kitten",
+      "helpful_votes": 13,
+      "publication_date": 20180930
+    },
+    {
+      "title": "Compatibility issues",
+      "text": "Apparently this ssd has compatibility issues the with some motherboards, beware. I installed this with a fresh install of windows and 10 seconds after loading into windows the system would freeze solid. No bsod, swapping it out for my old windows drive and the computer works fine.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "Shaun",
+      "helpful_votes": 10,
+      "publication_date": 20181124
+    },
+    {
+      "title": "Great performance in my late-2013 MacBook Pro (11,1)",
+      "text": "Installed in MacBook Pro with a Sintech adapter. Installation wasn\u2019t perfectly smooth, but nothing major. Four points to remember: 1) The Internet OS recovery won't install an OS that supports NVMe for the late-2013 MBP. save time, don't allow it to start. 2) Bring the installed OS up to date at least to a level that supports NVMe 3) Have reliable backup to restore after installation (or not, but be sure it is a conscious decision!) 4) Have a USB installer for the OS in 2) above.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "E. E. Andersen",
+      "helpful_votes": 5,
+      "publication_date": 20181115
+    },
+    {
+      "title": "Ordered 1 TB but received 250 G.",
+      "text": "I ordered the ssd long time ago, but didn't have time to assemble it. After installing the PC, I noticed that the storage is not right. I disassembled my PC and took a closer look at the sticker on my SSD. Apparently, it is a 250 G one. So it's basically as 250 G SSD packed in a 1TB package. I know I shouldn't wait that long before assemble my PC but I didn't expect that things like this could happen. I will contact Samsung to see if I can recover some of my losses. Buyers really should be aware.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "XIAOLIU WU",
+      "helpful_votes": 5,
+      "publication_date": 20190706
+    },
+    {
+      "title": "This unit failed in 2 years and was imported from Spain, so it is not under warranty!",
+      "text": "After contacting Samsung USA Support, they looked up the serial number on my unit and deemed that it was only meant to be sold in SPAIN. As such, they can't even warranty the repair/replacement. \"If you wish to be refunded or have the unit exchanged please contact your original place of purchase as the seller or point of purchase has the obligation and are responsible for providing their clients with products whose warranty is valid in the region in which they live. \" -Samsung Support",
+      "rating": 1.0,
+      "verified": true,
+      "author": "Lioneyexp",
+      "helpful_votes": 2,
+      "publication_date": 20200922
+    },
+    {
+      "title": "So far so good!",
+      "text": "Bought this for my 2017 5k imac... works perfectly... i went from a 32 gb apple ssd to to one 1tb ssd for a fraction of the price apple would charge. The speed of this ssd is much faster than apples as i saw when i ran benchmarks. I also bought an enclosure for $20 to clone my old OS to this one so all i had to do is just swap them.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Kris",
+      "helpful_votes": 5,
+      "publication_date": 20190817
+    },
+    {
+      "title": "amazing product",
+      "text": "i used this to upgrade my 2015 macbook pro from a 128gb to 1TB!. this is half the price than the OWC version of the ssd and its much faster than the original wouldve been. if you want this to work then i recommend you purchase the adapter along with it since youll need it for the setup. you wont regret it!",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Joel",
+      "helpful_votes": 5,
+      "publication_date": 20181112
+    },
+    {
+      "title": "Not all SSDs are the same.",
+      "text": "Currently used as bootdrive for OS and OS related entities. Came from an older ADATA M.2 and can definitely tell the difference. My boot time is 8s now, compared to 15s on previous M.2 SSD. UserBenchmark ratings CAO 06OCT19 (also see image). 422GB free (System drive) Firmware: 2B2QEXE7 Max speed: PCIe 5,000 MB/s SusWrite @10s intervals: 2202 618 616 618 621 623 MB/s Seq: Read 2,530 Write 2,395 Mixed 1,682 SusWrite 883 419% 1,872 MB/s Random 4k 4K Read 65.6 4K Write 162 4K Mixed 89.3 300% 106 MB/s Deep queue 4k: DQ Read 1,137 DQ Write 967 DQ Mixed 1,070 797% 1,058 MB/s",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Pa Vue",
+      "helpful_votes": 0,
+      "publication_date": 20191006
+    },
+    {
+      "title": "misleading capacity - only 460 GB - very disappointing",
+      "text": "Installed this in a new Windows desktop computer I just built and installed Windows. The NVMe drive is seen in the BIOS as 500GB, but the actual capacity that WIndows can recognize is only around 460GB. Even accounting for the service partitions in Windows installation, the total capacity of all partitions on the device does not exceed 460GB, which is SIGNIFICANTLY less than the advertised capacity. I will think very carefully about ordering other Samsung storage products in the future unless they are honest and forthcoming about the actual capacities available in their hardware. At least it runs fast. Hopefully it lasts as well.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "wolfboy001",
+      "helpful_votes": 2,
+      "publication_date": 20190103
+    },
+    {
+      "title": "Biggest pro is not needing to use cables...for now",
+      "text": "I love how easy and clean these install. No cables, no mounting. Just pop the stick in, screw down and you\u2019re done. It is very high performance. If you already have an SSD, you probably won\u2019t notice the difference unless you transfer or work with really large files on your internal drive. It\u2019s rougly 50% more $ to buy one of these, but ditching sata/power cables is worth it to me. Not to mention, these drives are probably the future standard, so It will most likely be re-usable on any future builds.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Apptimus Prime",
+      "helpful_votes": 4,
+      "publication_date": 20180625
+    },
+    {
+      "title": "Blazing fast",
+      "text": "I am getting read/write speeds of 3500/2500 mbps as advertised. Everything loads instantenously. There is so much noticeable difference between traditional SSD and m2 SSD. Get this if you like speed and have $$ to spend; however, traditional SSDs (960 EVO) are significantly cheaper and offer better bang for the buck. Update 09/16/18: The drive works excellent. I am so used to of these speeds that I can\u2019t imagine going back to traditional SSD or Disk drive. I just noticed that the price fell from $197 (paid) to $147 in less than 3 months. Not fair!!",
+      "rating": 5.0,
+      "verified": true,
+      "author": "A good citizen",
+      "helpful_votes": 3,
+      "publication_date": 20180828
+    },
+    {
+      "title": "Didn't install it for over a year",
+      "text": "Probably shouldn't have bought this when I purchased my AERO classic 15, did not need it then. over a year plus later installed with my memory upgrade. Installed easy went through the Windows initiation of the drive process a little tricky but all is well drive is working and performing as expected. Seems like a good upgrade, will transition this drive to be the primary drive and replace the 500Gb with a 2 TB at some point in the future. Good purchase but paid more due to buying last year, won't buy until ready to install.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "James",
+      "helpful_votes": 0,
+      "publication_date": 20200607
+    },
+    {
+      "title": "very happy with this Nvme",
+      "text": "Terrific replacement on my Dell Alienware Area 51 r-2 Desktop PC. This ssd drive was a upgrade from a samsung evo ssd drive that was 250gb. I did a fresh install of my windows 8.1 that I had backup on a flash drive. The whole process took under one hour. The result is one terrfic running gaming desktop. I will leave any furture updates if there are any issues. Update on 09/12/19. Well great news no issues to repprt pc is running smooth, boot time is 26 seconds have reinstalled all my games from steam now all I need to do is enjoy my smooth running pc. Left a most recent image of my crystaldisk mark score.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Nadhir ELADA",
+      "helpful_votes": 0,
+      "publication_date": 20200101
+    },
+    {
+      "title": "Ludicrous Speed!",
+      "text": "This is very fast. Bleeding edge! Okay, if you want bleeding edge, open that wallet and get the PRO version. However, this is perfectly good for windows 10 and keeping boot time to a minimum. I installed two on my motherboard, because I can't possibly leave and empty slot on my asus tuf gaming x570-plus (wi-fi). Simple to install if your motherboard supports it. One screw - see photo with the arrow - secures the drive in place. The location of the m.2 slot varies by motherboard and is sometimes below shielding that will need to be removed. Good luck and enjoy!",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Ursa",
+      "helpful_votes": 0,
+      "publication_date": 20200226
+    },
+    {
+      "title": "Needed a driver that wasn't available for Windows Server...",
+      "text": "I didn't know that I would need a driver for this to work. However, it does require a driver and it only supports Windows desktop versions not server versions. So I figured that I would still use it on my desktop PC but their driver was incompatible with the Intel RAID (RST) drivers; only the most widely used RAID for Windows machines. It actually caused my desktop to blue screen and I had to completely refresh myself on Windows 10 recovery methods and finally managed to get my desktop back. This is definitely being returned!",
+      "rating": 1.0,
+      "verified": true,
+      "author": "J Prevo",
+      "helpful_votes": 3,
+      "publication_date": 20181221
+    },
+    {
+      "title": "Destroyed my computer",
+      "text": "I have spent one week so far trying to rebuild my computer due to adding this storage. This drive is formatted as GPT, and not MBR. It will not accept an operating system. I tried everything to get Windows to load, and restore my files on this thing. In the process Doing that corrupted the BCD file in the original bios which destroyed the original version of Windows that was on my original NVMe storage. I did not find out that it was formatted as GPT until I had most things running again and tried to format it from a working version of Windows.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "Curt Gibson",
+      "helpful_votes": 0,
+      "publication_date": 20200308
+    },
+    {
+      "title": "Best In Class",
+      "text": "The Samsung 970 Evo is a highly price but also highly recommended drive. I finally bought one for a new build and it has been rock solid so far. After comparing this against other brands, it certainly isn't a bang for your buck option, but you will get the performance you pay for. The hype over this SSD is not for nothing. When compared to the other Samsung 970 brands, the Evo seems to be the best deal and even best in certain performance marks. 970 Evo is faster than 970 Pro in random read while being cheaper. 970 Evo is very close to performance 970 Evo Plus while being cheaper again.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "A. S.",
+      "helpful_votes": 0,
+      "publication_date": 20191230
+    },
+    {
+      "title": "Will never buy Samsung SSD",
+      "text": "I'm pretty much PC expert. I've done disk format and used about 2 hrs after that disk isn't detect by neither bios or window at all. I've been tried so many other things but no luck. Wasted so many times for nothing. I'm returning right away Beware users for faulty drive",
+      "rating": 1.0,
+      "verified": true,
+      "author": "Super Surfer",
+      "helpful_votes": 3,
+      "publication_date": 20190908
+    },
+    {
+      "title": "Windows is not easy to install on it..",
+      "text": "Mostly I think it was a windows 10 problem but it took a lot of research and fiddling and changing the drive with drive manager to get windows installed.. Had to unplug all the other drives because windows kept giving errors it was not formated, couldn't find the primary boot record,ect..",
+      "rating": 3.0,
+      "verified": true,
+      "author": "Scott",
+      "helpful_votes": 2,
+      "publication_date": 20200606
+    },
+    {
+      "title": "Best upgrade investment I've ever made.",
+      "text": "This drive was an upgrade from a 7200rpm HDD. As you can imagine, as I skipped over sata SSDs entirely, this upgrade was incredible. For the PC gamers out there: playing Skyrim SE on max settings and running about 80 mods, I can walk out of a city into the open world and the load screen might last 1.5 seconds, at it's slowest. And I'm running a very conservative build. Best upgrade investment I've made, hands down.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Andrew",
+      "helpful_votes": 4,
+      "publication_date": 20180712
+    },
+    {
+      "title": "Don't order this product unless you want PLAYING CARDS",
+      "text": "I legit got a pack of playing cards instead of the hardware in my SEALED package",
+      "rating": 1.0,
+      "verified": true,
+      "author": "John Magrini",
+      "helpful_votes": 7,
+      "publication_date": 20190922
+    },
+    {
+      "title": "Couldn't be happier",
+      "text": "Plug and play for my Hackintosh on Mojave. Good upgrade even over my existing 960 EVO (2374 write, 3168 read on the 970 vs 1732 write, 2133 read on the 960). Got the warehouse deal for $96 and it looks brand new and I don't believe it's been completely opened yet (1 piece of tape hadn't been cut yet, another piece had scotch tape over the black tape). Not a gamer so can't comment on that, but this thing is FAST so I'm sure it'll do just fine with gaming, video, or photo professionals",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Alex",
+      "helpful_votes": 2,
+      "publication_date": 20190602
+    },
+    {
+      "title": "Incredibly fast, and expensive.",
+      "text": "fast and reliable. Intel needs to step it up and increase their pcie lanes but I guess it\u2019s fine if AMD is just going to take over and offer what people actually want. Aside from price, these are perfect. Unfortunately you are very limited in how many you can fit inside most systems which requires you to purchase larger capacity which again, is expensive. Buy as large as you can afford. Buying many cheaper smaller nvme sticks will end up hurting system performance depending on motherboard/processor.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Tyler",
+      "helpful_votes": 0,
+      "publication_date": 20191203
+    },
+    {
+      "title": "Always amazed at these drives!",
+      "text": "I recently purchased a newer laptop and I am amazed that they are still selling computers with Hard Disk Drives. Seems crazy to me. So I purchased a Samsung NVME m.2 SSD and I am impressed again. I purchased one before and was very happy with it. The prices are going down and the speed is going up so a win/win! I would highly recommend these as they are super easy to install and Samsung has their complementary drivers, migration software, and their drive maintenance software (magician) I will purchase from Samsung again and again. I now own four of their SSDs!",
+      "rating": 5.0,
+      "verified": true,
+      "author": "D. Larsen",
+      "helpful_votes": 0,
+      "publication_date": 20190916
+    },
+    {
+      "title": "The Gold Standard. Period.",
+      "text": "I work a lot with computers and a large part of that job is handling HDDs and SSDs for different workstations. From experience alone, I can tell you that Samsung is the gold standard for making premium SSDs. Recently, we've been having a lot of issues with the HP Envy model, specifically with SSD failures with their stock SSD component. With this in mind, I recommend exchanging whatever stock SSD your laptop has with this one. Faster loading speeds and a much more reliable SSD. You don't even need to get anything more than 500GB because you can easily store the rest in cloud storage.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "The Corsair",
+      "helpful_votes": 0,
+      "publication_date": 20201005
+    },
+    {
+      "title": "Blazing fast SSD",
+      "text": "I purchased the 250GB version for my gaming PC, as my new build could finally take full advantage of PCIe NVMe drives. The jump from a SATA SSD to a PCIe NVMe SSD is night and day. I'm pulling the full advertised speeds on benchmarks, so this is the real deal. Windows 10 seems more responsive than ever, games load incredibly fast (I'm usually the first one to load into a game online), and file transfers are blazing fast compared to a SATA SSD. Before buying this drive, I was not fully convinced that going for a PCIe NVME SSD would be worth the money, but now I am completely convinced. You will not be disappointed.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Michael Ryan",
+      "helpful_votes": 2,
+      "publication_date": 20180808
+    },
+    {
+      "title": "Package security strip was already cut, checking product to ensure it is as ordered.",
+      "text": "The security strip on the package was already cut, but that may have been accidentally done during shipping? I am still checking the m.2 card to ensure it is working correctly and is as ordered. Currently, the drive appears to be 250G instead of 2TB??? I will check chips on m.2, when I get a chance to open the enclosure. I will re-post when I can verify condition of m.2 drive. ***** Product is defective!!!! M.2 NvME 2TB shows only 232GB. ***** Returning for refund!!!!",
+      "rating": 3.0,
+      "verified": true,
+      "author": "Economy_Booster",
+      "helpful_votes": 3,
+      "publication_date": 20190118
+    },
+    {
+      "title": "Mac Mini 2015",
+      "text": "Great price when compared with Apple m.2, albeit with a caveat. I cannot format the drive with APFS despite trying different approaches, either as a NVMe internal(with adapter) or an external m.2(adapter bought here also). However, the drive still registers nearly 500 MB/s in either direction. And that's OK by me. For now it's in HFS+ format. Update 5/1 After scrupulous investigation, I was able to format it to APFS. Still, I couldn't figure out why throughput is still no more than 500MB/s. Maybe it has something 2 do with my MacMini's firmware.",
+      "rating": 4.0,
+      "verified": true,
+      "author": "lazybuyer",
+      "helpful_votes": 0,
+      "publication_date": 20190428
+    },
+    {
+      "title": "Best for price but there is better option out there for video editors",
+      "text": "Best for the price and everything but there is better option available at the moment. Add 50 dollars and get 970 evo plus which btw gives you 50 percent boost in write speeds. Now if you are a gamer just stick to this drive because read speeds between evo and evo plus are the same so gaming is just great on either but if you are a content creator who does a lot of work editing videos etc then 970 evo plus is hands down the best option literally 50 percent faster for 50 dollars extra. I am switching from this to 970 evo plus ASAP. Good luck gamers and creators.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Nikk",
+      "helpful_votes": 0,
+      "publication_date": 20190904
+    },
+    {
+      "title": "Samsung Does It Again!",
+      "text": "I have a pretty decent mid-tier gaming PC (i7-9700k, GTX 2070 SC, 64GBs of Corsair Dominator Platinum, 1TB SSD) and really wasn't expecting to tell much difference. My case has two easy HDD/SDD bays which I have occupied. My board had the NVMe M.2 slot, so I figured why not? I loaded the OS onto it and everything went nice and quickly. But then I actually got to use the machine.. Holy smokes! EVERYTHING is faster, from loading games to moving huge files. It's noticeable. I couldn't believe the price (or how far we've come that soo much data can fit in something so tiny!). If you have the slot, absolutely do the upgrade. You won't be disappointed.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "MrCookies",
+      "helpful_votes": 0,
+      "publication_date": 20200312
+    },
+    {
+      "title": "Haven\u2019t received the product.",
+      "text": "Product has been delayed multiple days now and have not received the product, because of this I went and bought the WD black ssd that is in the same price range and am using that right now. When/If I actually receive the product I will update my review and compare it to the WD black I have been using for several days now. At this moment I would not recommend any one buy this. EDIT 11/1/19: I have been using the ssd for awhile now and haven't noticed any difference between this ssd and the WD Black",
+      "rating": 4.0,
+      "verified": true,
+      "author": "Collin J",
+      "helpful_votes": 0,
+      "publication_date": 20190905
+    },
+    {
+      "title": "Nicely fast NVMe drive, used in a Mac Mini gaming setup",
+      "text": "So I purchased this along with an external enclosure and a Razer Core X eGPU chassis to do some gaming on my Mac Mini in Bootcamp. This drive, plugged into the USB-C port of my Mini, has very fast transfer rates. It can get a little hot (I haven't checked temps yet - the external case's aluminum was very warm to the touch), but so far no issues. Good value for the money if you don't need the absolute fastest transfer speeds. It took about 6-7 seconds to copy a 12GB file from my internal Mac Mini storage to this external NVMe. :)",
+      "rating": 5.0,
+      "verified": true,
+      "author": "David R. Chase",
+      "helpful_votes": 0,
+      "publication_date": 20200819
+    },
+    {
+      "title": "First and last Samsung I ever buy, Bad sectors and not even 1 year old, Samsung support terrible",
+      "text": "I got this 2TB SSD in Oct 28, 2019 and now a few weeks ago in late Aug 2020 SSD has bad sectors. Win crashing etc. This should not happen so soon, I contacted Samsung and they want you to send in the SSD and you wait weeks or months w/o a PC for them to send back a \"repaired\" drive. This was the first Samsung drive I purchased and will be the last. I went and order a 2TB Seagate since those are the drives I have used for years and never had a \"defective\" one and will replace that and send this junk in for repair and sell it.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "tvideo",
+      "helpful_votes": 0,
+      "publication_date": 20200906
+    },
+    {
+      "title": "Fast, Easy, Awesome Upgrade",
+      "text": "I Installed one of these in my Dell G5 5587. I bought the machine used with intentions of upgrading the ram and primary drive. The difference in before and after is pretty amazing. Fast boot times, no lag when playing games, and in general it seems like a really good buy. Especially the value... 2nd fastest, 1TB, M.2 drive on the market for less than $200. You can get a less expensive version for 40% cheaper (around $100) but the speed is not comparable. I'll update the review if anything goes awry (like the drive loses a major clump of data or suddenly slows down).",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Johnny in Texas",
+      "helpful_votes": 0,
+      "publication_date": 20200504
+    },
+    {
+      "title": "Upgraded and Replaced HDD",
+      "text": "I bought this to replace a HDD that my Samsung Laptop had to start. What took awhile was cloning my HDD to the this NVMe (I left it working over night). You'll have to research open source cloning options for memory devices. I read reviews and saw lots of frustration over this fact. Samsung needs to make this a better experience by shipping software that clones persistent storage devices. Finally, boot times are a lot faster. This was a huge upgrade and my games load faster as well. Positive experience. Fives for a great product.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Fiat Veritas",
+      "helpful_votes": 0,
+      "publication_date": 20200908
+    },
+    {
+      "title": "Works ok. Mine failed after only a few months.",
+      "text": "Only had this SSD for a few months and it has already failed. I reinstalled windows and everything is ok so far. I use computers a lot and have four I use daily. This is the first SSD to fail on me in this way. Started with great read/write speeds then all of a sudden my pc started to get slow. I would click on applications and wait five to ten seconds for them to load like I was using a mechanical HDD. After a few days of this complete failure. I got the dreaded your pc ran into a problem error. Then pc startup repair could not repair your pc.",
+      "rating": 4.0,
+      "verified": true,
+      "author": "Nathan",
+      "helpful_votes": 0,
+      "publication_date": 20200701
+    },
+    {
+      "title": "Noticeably faster than the 850 Evo",
+      "text": "Just built another computer and decided to splurge and get this instead of just using the Samsung 850 evo I already had and use the 850 as additional storage. I wasn't expecting much of a performance increase but was intrigued by the m.2 format. I was pleasantly surprised that there is a noticeable difference in boot time and general read/write speeds. I also like that it frees up a SATA slot for my other SSDs I use for storage. Would definitely recommend.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Devin D.",
+      "helpful_votes": 3,
+      "publication_date": 20180620
+    },
+    {
+      "title": "Worked great for my Dell 8930",
+      "text": "I purchased this for my Dell 8930 desktop computer. The one in there was only 250G which I put into an external enclosure. The new samsung M2 drive works great and is faster than the Toshiba one that came with the Dell. Outside of a little trickiness maneuvering around the inside of the Dell it wall worked great.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "GTW",
+      "helpful_votes": 2,
+      "publication_date": 20191022
+    },
+    {
+      "title": "Linux Perspective",
+      "text": "I put this in my new i5 NUC. Using Btrfs file system for root on Mint 19 it trims in 15 seconds. Boot times are no faster than a SATA SSD (normal and expected.) A RAM-Disk file transfer of 4GB took 1.8 seconds as compared to a fast SATA SSD at 6.8 seconds. My other fast NVME drive took 3.3 seconds. NVME-CLI reports some inaccurate and some accurate Smart data, as does smartmontools. Currently Samsung Magician does not support this drive in Windows 10. This makes obtaining accurate SMART info impossible. Samsung provides bootable firmware updates for their SSD. They can be put on a flash drive by using Unetbootin or similar.",
+      "rating": 4.0,
+      "verified": true,
+      "author": "L. Ion May",
+      "helpful_votes": 0,
+      "publication_date": 20181004
+    },
+    {
+      "title": "Fastest speed you can get for your money",
+      "text": "These EVO 960s are twice as fast as XPG NVMe, and can run up to 20x faster than SATA III M.2 or SATA III SSD. Generally the only better options are the pro versions of these. Beware of people ripping off customers by putting SATA III M.2 in laptops instead of NVMe M.2 in laptops. They are nowhere near as fast. Educate yourselves, people, for a better tomorrow, and so you don't lend your slow computer to someone else. Install Windows on this, and THEN plug in a SATA III SSD.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Joseph A Hooley",
+      "helpful_votes": 2,
+      "publication_date": 20181123
+    },
+    {
+      "title": "Works Great!",
+      "text": "Installed it on an old MSI Z97 PC Mate MB, using a PCIe adapter, but it works as advertised. One thing that others have mentioned, but you do need to format it before your system will recognize it as an available volume. If using Windows 10, just use the Disk Manager control panel and it will recognize it as a drive that needs to be formatted. I was already booting off a Samsung 850 EVO SATA SSD, and while this is much faster in speed tests, it actually FEELS only a little bit faster in day to day use. But I was reinstalling Win10 anyway, so why not.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Eldi",
+      "helpful_votes": 0,
+      "publication_date": 20190120
+    },
+    {
+      "title": "Faster boot times for the win!",
+      "text": "I had a feeling I was gonna like the 970 EVO after getting the 960 EVO to replace the mechanical hard drive in my gaming laptop. The boot times are out of this world fast and the system now with full SSDs on board runs a tad cooler than before by about -2\u00b0C to -4\u00b0C. I also have a ton of extra space for adding more creation tools and some games that won't fit on the 860 EVO so that is another win. I highly recommend this product! Personal Like: \u30fbThese SSDs are build a cut above the rest \u30fbVery high storage capacity options \u30fbFaster boot times than others \u30fbMuch more TBW capacity",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Metragoon",
+      "helpful_votes": 0,
+      "publication_date": 20191110
+    },
+    {
+      "title": "A worthy upgrade",
+      "text": "Can you believe the price of NVMe SSD\u2019s? This is crazy right? It wasn\u2019t that long ago my 950 pro was chugging along for $375 for 256gb. But this thing is faster, more storage space, and easier to install on than the 950. I say easier to install because motherboards have adopted the technology now, I was an early adopter and therefore had to fight to get my Mb to recognize the 950pro. On the 950 pro I was seeing about 2.2gb/s of read, and anywhere from 400mb to 1.2gb/s on writes depending on how I configured the tester. I\u2019m getting 3.2gb/s and around 2gb/s of write with this guy. A worthy upgrade!",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Josh",
+      "helpful_votes": 0,
+      "publication_date": 20181007
+    },
+    {
+      "title": "This is one of my best hardware purchases I\u2019ve made personally",
+      "text": "This is an amazing hard drive. Being that it is PCI express it connects directly to the motherboard using a PCIe card increasing read/write speeds of at least double maybe triple. I was trying to run several VM\u2018s at once and had a Sata connected SSD and it was not keeping up. It was using 100% of the disk read/write speed. Now that I\u2019m running my VM\u2019s on this hard drive I\u2019m barely using 14% of my disk read/write speed. There\u2019s no lag or bogging down. I am using a computer that has 32 GB of RAM.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Eric",
+      "helpful_votes": 0,
+      "publication_date": 20200122
+    },
+    {
+      "title": "Easy to clone drive. Now a great boot drive",
+      "text": "Everyone knows the speed of this drive. It's freaking fast. And it is. My SSD boot drive was dying so I decided why not jump on a m2 drive. I was able to use Macrium Reflect to clone my 256gb drive to this 512GB samsung m2 drive. It works like a charm. Speed is as advertised. It runs a bit hot but nothing too crazy. Love it. Hopefully will last for at least a few years. The only downside to these drives is limited writes, but that's the case with any SSD.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Danny Yu",
+      "helpful_votes": 0,
+      "publication_date": 20200703
+    },
+    {
+      "title": "Easy install, amazing quality",
+      "text": "I bought this as a Cache drive for an Unraid server. It has hundreds of GB written to it every day and then moved to server at night. It has been working flawlessly, I paired it with a SilverStone Technology SST-ECM20 Dual M2 to PCI-E X4 and SATA 6G Adapter Card (ECM20) and it has a Samsung evo 860 (sata) on the other side. It took all of 15 seconds to install them both, and it was a plug and play when put into the PCIE. The 870 stays cool, does not need a heat sink, and has never missed a beat. Will be buying more of them.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Andrew K",
+      "helpful_votes": 0,
+      "publication_date": 20200404
+    },
+    {
+      "title": "Samsung makes the best....but",
+      "text": "everyone knows Samsung SSD's are the metric of which all drives are compared. That trend seems to have continued with the 970Evo. I do have a complaint, it seems to me, for $100/500Gb's, they could throw in a tiny screw to mount the drive to motherboards. I understand different boards can use different size screws, but most use one size. out of the many pc's ive built, i dont think i have ever kept the tiny m.2 screws, they get lost. Samsung could include one screw for a minimal cost & i think the extra effort would be nice. my 850 evo's are all still running strong, lets see if this 970 does as well.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "jennifer",
+      "helpful_votes": 0,
+      "publication_date": 20200515
+    },
+    {
+      "title": "It is very fast.",
+      "text": "The 128 Gb original drive was totally inadequate, so I needed to upgrade. I picked the EVO by reading reviews and the value combination of size, speed and price. I am very pleased with the outcome. My boot time is 12 sec. The only issue I had was cloning the original to the EVO. The cloning software partitioned the EVO for the 128 Gb and made the remainder an unassigned partition that I could not meld with the 128 Gb partition. I needed to use the AOMEI partition assistant to resolve. Now it is good to go, have been using for 3 weeks, no issues.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Nort_lj",
+      "helpful_votes": 0,
+      "publication_date": 20200227
+    },
+    {
+      "title": "Very easy to install and migrate Windows",
+      "text": "I ordered this as my Alienware Aurora came with a 256GB Toshiba for the boot drive and after about a year, it was 80% full, so i needed something larger. First thing i like is i received it a day early. Secondly, after installing in my system, i migrated windows using Samsungs free data migration software. I cloned my Toshiba SSD Windows drive to this one in under 6 minutes. Blazing fast performance! This is roughly 1000 MB/s faster than the Toshiba, with read speeds at 3565MB/s. using Crystal disk mark 5. This is a win win! Don't wait, buy it!",
+      "rating": 5.0,
+      "verified": true,
+      "author": "daniel",
+      "helpful_votes": 0,
+      "publication_date": 20200404
+    },
+    {
+      "title": "Amazingly fast. Exceeded my expectations.",
+      "text": "I first tried using this drive under Microsoft Windows 10 Pro, formatted as NTFS. Very nice performance. Impressive, as compared with a Samsung EVO SATA-3 SSD. Then I tried using this drive with Linux Mint 19. Whoa, Nelly. This can't be right: it routinely performs at or better than the advertised read/write rates. I'm talking usage rates, not benchmark rates. Copying 20GiB files and stuff. Wow. Well done, Samsung. I almost gave this 5 stars because it exceeded my expectations, but I never give something five stars. I just don't.",
+      "rating": 4.0,
+      "verified": true,
+      "author": "IT Guy",
+      "helpful_votes": 0,
+      "publication_date": 20181025
+    },
+    {
+      "title": "Fantastic Speeds for Gaming!",
+      "text": "As a first time builder, I had several people recommend other brands, but I got this on BF for $80 (500 GB), so I figured I'd go with the known brand with so little price difference. I'm happy I did. In benchmarks, I score 150% for gaming wih incredibly fast speeds. Samsung has great software for managing your storage. I've only had it for a month, but I'm not worried at all about it's durability. I have it installed in the M.2 slot on my ROG X470 (one without the heatsink), and the temps stay around 50 degrees. So far, so good!",
+      "rating": 5.0,
+      "verified": true,
+      "author": "CodyBur",
+      "helpful_votes": 0,
+      "publication_date": 20200104
+    },
+    {
+      "title": "As advertised.",
+      "text": "I used it to build a computer and debated between this and an internal ssd. It saved sooooo much time (because no wire management was necessary because there are no wires \ud83d\ude02) and it is supremely, significantly, tremendously, and noticeably faster than non M.2 ssd's and it is the top M.2 ssd. Don't waste money on other brands. This one is tried and true.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Amybigbruda",
+      "helpful_votes": 0,
+      "publication_date": 20200130
+    },
+    {
+      "title": "Samsung, good as usual.",
+      "text": "For the sub $100, this nvme is pretty good. Running it as an OS drive and it is pretty quick. Going from sata3 to nvme gave me massive gains in benchmarks. Samsun Magician and Samsung Migration are both excellent programs and were mind blowingly good! The newer model of tbe 970 Evo runs about $60 more and the gains aren't really worth it imo.",
+      "rating": 4.0,
+      "verified": true,
+      "author": "Scotty Bot",
+      "helpful_votes": 0,
+      "publication_date": 20200203
+    },
+    {
+      "title": "Plenty fast, but runs really hot",
+      "text": "Replaced the older smaller drive in my laptop. I always used it in my lap while sitting in my chair, but after replacing with this drive, I have to set something under it. It performs great and gives me the space I need, but it definitely runs MUCH hotter than the previous drive. I've read that it needs the heat to operate as designed due to the way the silicone works, but man,,,,,, I may have chosen a tad slower drive I would have known how hot this one gets. Ultimately, it works great other than the temperature.",
+      "rating": 4.0,
+      "verified": true,
+      "author": "Kenneth Leake",
+      "helpful_votes": 0,
+      "publication_date": 20200130
+    },
+    {
+      "title": "Drive Doesn't Work",
+      "text": "Update 6/30/2020 I reached out to Samsung and after a little paperwork they sent me a brand new drive that works perfectly. I am very pleased now that I have the replacement and it functions as designed. I must have gotten a lemon the first time. I have to say the service and replacement were excellent. I changed from 1 Star to 4 Star. I couldn't go to 5 since the first drive didn't work. Previous Post: This drive crashed over and over in my ASRock x399 system and finally just completely failed. I had purchased it hoping to have a faster drive than the typical SSD but that was obviously a bad choice.",
+      "rating": 4.0,
+      "verified": true,
+      "author": "Keith",
+      "helpful_votes": 0,
+      "publication_date": 20200211
+    },
+    {
+      "title": "Migration",
+      "text": "Just because it is Samsung doesn't mean any version of Samsung's Migration Program will work I stuck this baby in a PCIe M2. >> USB type C adapter and the program didn't see it as Samsung So I went to Samsung website and got the new version With USB 3.1 it took less than an hour to create the clone of some 500 GB Search for \"M.2 NVME SSD Enclosure Adapter USB C 3.1 NVME PCIe M-Key\" adapter",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Moxy",
+      "helpful_votes": 0,
+      "publication_date": 20201019
+    },
+    {
+      "title": "Samsung M2 drive failed",
+      "text": "Well what can I say? My Samsung M2 died on me after only three months, and I cannot regret it enough, had to redo my entire system and there was no salvage to be done. I really said great things when I first purchased the M2 drive, but now I\u2019m skeptic of them all. I contacted Samsung and they asked me so many questions and then asked for the drive back, oh sure I\u2019ll hand over my I\u2019d and passwords to a foreign manufacturer, nothing could go wrong... right? Anyway, don\u2019t be fooled like I was.",
+      "rating": 2.0,
+      "verified": true,
+      "author": "Mississippi kid",
+      "helpful_votes": 0,
+      "publication_date": 20200210
+    },
+    {
+      "title": "It's important to know that even an idiot can install this",
+      "text": "Very easy to install. It took me 10 mins or less. Actually, could have been less if I knew where my m.2 slot was. Popped it in, screwed it on. Fired it up and hit the bios option. It detected the device. I had trouble having windows detect it. I've read that I need samsung software to do it. But I just ran diskm and it detected and partitioned it right away. uninstalled my old games re-downloaded my new games I would say, I can tell the difference when loading up certain games. But it's not noticeable to the naked eye. My previous SSD was an 860. Which runs great. But I had a gift card so why not.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Jason",
+      "helpful_votes": 0,
+      "publication_date": 20190130
+    },
+    {
+      "title": "Blistering fast",
+      "text": "The M.2 SSD detected WITHOUT an issue. System config: AMD Ryzen 5 2600X ASUS X470-F Motherboard Corsair LPX 32GB 3200MHz EVGA GeForce GTX 1070 Ti FTW I'm running all kinds of games and servers on this NVMe M.2 drive and it's living up to my expectations. Boot up takes 5 seconds (I'm not really counting, but it's a flash). The drive doesn't mind the heat at all. I even have a small space heater that I just bought next to it and it's not complaining at all. Windows 10 installation was a breeze on this SSD. There was no compatibility issue whatsoever. Photoshop and Illustrator opens and runs like it's Notepad.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Hanzo",
+      "helpful_votes": 0,
+      "publication_date": 20181116
+    },
+    {
+      "title": "Excellent!",
+      "text": "Moving from a WDHD to a M.2 SSD is night and day! Down loads are insanely fast! fragmentation is little to non existent! I will be be purchasing more to swap out my hard drives! There is a huge difference in speed and overall performance! Be advised they do get warm so might want to use a regular SSD for gaming. Hoping Samsung invent a cooler for this. For now I have the M.2 SSD as a c drive and OS, primary programs only. Down side is you still need to set up the drive, format and choose partisans prior to use. The driver on the SSD should auto load /do this on install in my opinion.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "smith",
+      "helpful_votes": 0,
+      "publication_date": 20200114
+    },
+    {
+      "title": "Works perfectly with Thinkpad X1Extreme",
+      "text": "I wanted to install a second SSD drive to my Thinkpad X1 Extreme, and this one works smoothly. I just open the back of the laptop, plug this SSD into an empty slot, and boot up the laptop, and this SSD is already perfectly recognized. I just needed to format. 1TB seems like the sweet spot price-wise. I am happy with the purchase.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "makoto",
+      "helpful_votes": 0,
+      "publication_date": 20200111
+    },
+    {
+      "title": "Great while it worked",
+      "text": "Bought this back in Jan 2019 for my main computer's OS drive. I wanted something fast and reliable. This did the trick UNTIL yesterday (18 months later) when it failed on me. Now it can be recognized at boot but whenever you go to access it, the drive disappears until next boot. So much for the Samsung reliability I've heard about. Guess I'll save my money in the future and go with another brand",
+      "rating": 2.0,
+      "verified": true,
+      "author": "Spencer M",
+      "helpful_votes": 0,
+      "publication_date": 20200920
+    },
+    {
+      "title": "Gotta Go Fast!",
+      "text": "I bought this to use as my boot drive for my new super epic gaming pc. This drive boots so fast that the spinning dots windows used to show progress on boot do not get a chance to appear, and goes from the bios screen to login window in a couple of seconds. By the time I\u2019ve typed in my password, all the startup applications have already loaded and most website tabs have loaded too. All the time I\u2019ve saved with this drive has allowed me to spend time pondering just what we did while old spinning hard drives loaded things.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Sam Connors",
+      "helpful_votes": 0,
+      "publication_date": 20200707
+    },
+    {
+      "title": "So Cool",
+      "text": "Such cool technology. Samsung makes the best SSDs. I had no problems to speak of - hardware installation, recognition, and Windows installation on the drive all went perfectly. Drive is now my primary boot device for Windows 10 and its awesome. If you've never had an NVMe before, one thing about physical installation - make sure you have a small phillips head screwdriver with a magnetic tip. The screw that holds down the end of these M.2 drives is incredibly tiny and delicate. You really need a nice precision screwdriver with magnetic tip. Otherwise you are bound to drop it and possibly lose it.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "LD",
+      "helpful_votes": 0,
+      "publication_date": 20190208
+    },
+    {
+      "title": "Nice after a couple steps to make it work.",
+      "text": "At first my computer did not recognize this hard drive. i had to open diskmgmt and initialize the partition. I then used a program called Macrium Reflect and cloned my hard drive onto this hard drive. After the clone, the hard drive only showed 250gb like my old hard drive, so back to diskmgmt and extended the volume to the total 500gb. them over to bios to tell the computer which hard drive to boot to. them voila... it is super fast. Nice hard drive,",
+      "rating": 5.0,
+      "verified": true,
+      "author": "J. H.",
+      "helpful_votes": 0,
+      "publication_date": 20200501
+    },
+    {
+      "title": "New i7 laptop is now lightening fast to load as it should be.",
+      "text": "I just purchased a new laptop which came with a spindle drive only. Amazingly the manufacturer put a provision in for this drive, but did not install one! Well I put this in used Samsungs software to mirror the spindle disk content including OS to it and now see a remarkable difference. Not had that much experience with SSDs either, so moving to NVM was amazing to me. Great purchase. Don't buy a laptop in 2019 which does not already have one of these installed or does not give you the capability to install one of these. From what I understand these stand above SSDs in performance since they don't use the SATA interface which has its limitations.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "jprknight",
+      "helpful_votes": 2,
+      "publication_date": 20190115
+    },
+    {
+      "title": "Amazing",
+      "text": "This was my first experience with an NVMe drive other than ones that were coming in the newer servers we bought at work. Holy smokes, this thing is fast. I've always had good experiences with Samsung SATA SSD's, so I figured I would stick with them with NVMe. Haven't been disappointed one bit. I've had it for about a month and a half and I'm totally happy with it.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Daniel J. Givens",
+      "helpful_votes": 0,
+      "publication_date": 20190925
+    },
+    {
+      "title": "Fast and Spacious",
+      "text": "I needed a 500 gb drive that I could use as a boot device. It had to fit in an M.2 slot. I've used Samsung SSDs for years and have been happy with them. This one is performing nicely for me and seems a bit quicker than the Optane drive it replaced. I replaced the Optane drive in hopes of simplifying my system. I'm happy with the more straight forward plain old SSD and certainly have suffered no ill effects from making the change.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "AZJP",
+      "helpful_votes": 0,
+      "publication_date": 20200530
+    },
+    {
+      "title": "Very Fast",
+      "text": "Fast.....Windows 10 loads in about 10 seconds. Photoshop CC 2019 loads in 12-13 seconds. Great drive. Simple install. Part of a new build: Lian Li PC-011DX 011 Mid Tower Case Corsair TXM TX750M 750 Watt Power Supply AMD Ryzen 7 2700X CPU Gigabyte X570 PCIe 4.0 SATA 6GB/s USB 3.1 AMD X570 ATX Motherboard Corsair LPX 32 GB 3200 MHz C16 DDR4 Dram MSI Radeon RX 590 8GB GDRR5 Memory Graphics Card Samsung 970 EVO 500 GB PCIe M.2 2280 SSD WD 1TB 7200 rpm Sata 6 gb/s, 64 mb cache Hard Drive",
+      "rating": 5.0,
+      "verified": true,
+      "author": "LV Artist",
+      "helpful_votes": 0,
+      "publication_date": 20190806
+    },
+    {
+      "title": "Great performance, terrible value",
+      "text": "This SSD is so fast it basically has a pair of wings and flies through data. I went from a HDD to this and it felt like I tried to race the flash ! Highly recommend for small form factor builds and if you have the extra money to spend. It\u2019s ever so slightly faster then standard SSD\u2019s but also more expensive and you get less storage generally. This doesn\u2019t stop me from recommending it as it was easy to install and performs miles ahead of any HDD and somewhat over standard SSD\u2019s",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Jalen fetter",
+      "helpful_votes": 0,
+      "publication_date": 20200121
+    },
+    {
+      "title": "Samsung is the best",
+      "text": "I've always used Samsung SSDs, SATA and then NVME PCIE m.2. Their drives always work perfectly for me, and the cloning software from their website works flawlessly, eliminating the need for 3rd party software. Probably doesn't pay to upgrade from a SATA SSD unless you are doing some heavy file movement/editing, but a definite improvement over a mechanical drive in all applications.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "GaryBerger",
+      "helpful_votes": 0,
+      "publication_date": 20200912
+    },
+    {
+      "title": "My only drive that keeps on getting corrupted.",
+      "text": "Shame that this drive keeps getting corrupted. I have 5 drives on my machine and the the one I rely on the most became corrupted 3 times so fair. These drives have a long lifespan of read and writes. The funny thing is I only used this drive for my operating system and my core programs I run. I store my games on other drives because I don\u2019t want my operating system to become cluttered. This drive worked for about 4 months then it just kept on dying. I\u2019m going to replace this drive with another one, the fact that this is the only drive that keeps on getting corrupted is sad. I had high expectations for a Samsung product.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "Jose Barron",
+      "helpful_votes": 0,
+      "publication_date": 20190924
+    },
+    {
+      "title": "Check Motherboard for M.2 / SATA interaction",
+      "text": "Hopefully y\u2019all see this and it saves y\u2019all some time MAJOR KEY ALERT \ud83d\udd11\ud83d\udd11 This cost me a few hours of troubleshooting, but found answer in a forum. Super easy to install, just make sure to check manual if you\u2019re running both M.2 ports and a SATA HDD. If you have HDD plugged in to a port that\u2019s blocked by the M.2 you won\u2019t see the HDD. The motherboard prioritizes M.2. And there\u2019s plenty of videos out there to show how to easily format them as well..",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Quinston Morris",
+      "helpful_votes": 0,
+      "publication_date": 20200515
+    },
+    {
+      "title": "Easy, fast",
+      "text": "Was really simple to pop into my motherboard. I reserve the SSD for my most important games and there is a major noticeable difference between playing with an HDD and an SSD. Load screens in games went from 1-2 minutes to less than 15 seconds in some cases. And my disk usage in my Task manager went from nearly 100% at all times to less than 1% usage. It's insanely fast and efficient. And I think it'll hold up to the test of time as compared with other lesser SSDs. I'm really glad I splurged on this one instead of getting a smaller or slower one.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Alyssa Wells",
+      "helpful_votes": 0,
+      "publication_date": 20200904
+    },
+    {
+      "title": "Disappointed Evo customer.",
+      "text": "Can\u2019t give this one 5-stars. It was great at first however mine must have been defective because it was out of service just 6 weeks after purchasing. My other Evos have held up but not this one. Disappointed in the quality control.",
+      "rating": 4.0,
+      "verified": true,
+      "author": "Chris L.",
+      "helpful_votes": 2,
+      "publication_date": 20191004
+    },
+    {
+      "title": "Insanely Fast",
+      "text": "Recently upgraded my system and decided to go NVMe after reading all the awesome performance benchmarks; boy, I'm glad I did. Booting Windows 10 Pro from this drive is incredibly fast! Given the price point over the PRO series, this is a great bargain! Highly recommended! 10/10! Additional note: Definitely install the Magician software from Samsung. It gives excellent information on your drives as well as performance benchmarks and a secure erase utility.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "CriticalThinking",
+      "helpful_votes": 0,
+      "publication_date": 20190117
+    },
+    {
+      "title": "Fast, easy, and perfect",
+      "text": "Was easy to install everything runs and operates way faster. Windows loads up completely in like 3 seconds. Games load super fast. Only issue I had was with the bios when transferring my OS to the Evo. It would not show the Evo in the bios no matter what I did. In the end it was the program I was using was not doing a proper job cloning the OS. I tried a different program and then it finally showed up in the bios. Great product glad I got it.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Andrew",
+      "helpful_votes": 0,
+      "publication_date": 20200124
+    },
+    {
+      "title": "Amazing update to laptop",
+      "text": "Because I was running out of space, I replaced the stock (Toshiba 250GB) NVMe drive on a Lenovo 720 13 with this Samsung 970 EVO 500GB. The machine is a few years old so I figured if I killed it I'd just bite the bullet and but an updated machine. I cloned the original drive with all my programs and data which took about an hour. Once I watched the YouTUBE video on how to open the laptop and access the drive, it was simple and took about ten minutes. The result is that the machine works flawlessly. Too bad the RAM is soldered in or I'd bump that up to 16GB.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "LongTime Amazon Customer",
+      "helpful_votes": 0,
+      "publication_date": 20201010
+    },
+    {
+      "title": "A fantastic little stick",
+      "text": "This niftly little thing has been an absolute beast in my PC. It boots fully before my screen even loads. I\u2019ve been using it for over half a year now and I can safely say this was one of the best purchases I\u2019ve made for my PC. The transfer speeds from SSD to my storage HD are insanely fast. I\u2019ve also dropped it unprotected accidentally and it is just fine! A warning to the PC amateur, this is very very small and somewhat hard to install if you\u2019ve never done it before, proceed carefully.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Leonor",
+      "helpful_votes": 2,
+      "publication_date": 20190625
+    },
+    {
+      "title": "Surpised that it FAILED to work after 3 months",
+      "text": "Initially i would have given this a 4 or 5 star rating. It performed very well with read and write speeds and loaded programs quickly. Unfortunately after purchasing it in March of 2020 it is now DEAD on July 3rd 2020. I lost some projects and photos that i foolishly did not back up yet. Not what i would expect from Samsung. I would give it a 2 because these things happen, but Samsung Customer Service has not been helpful, hence the 1 star rating.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "Dads Rule",
+      "helpful_votes": 0,
+      "publication_date": 20200704
+    },
+    {
+      "title": "Fast Drive and Easy Install",
+      "text": "Got this to put my games on and I am not disappointed! The games load quick enough that there are little to no loading screens because of how fast it is. It was also very quick install, both on the mobo and creating the drive. Would buy again if I need more space since I\u2019ve got two M.2 slots. Did not install the Samsung Wizard as I\u2019ve heard there are issues with it, so I cannot comment on that. Overall, it\u2019s great, I\u2019m glad I went with this one over the others.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "castper",
+      "helpful_votes": 0,
+      "publication_date": 20200130
+    },
+    {
+      "title": "How do you get the max speed out of it?",
+      "text": "And how do you know its at the max speed? I did the install, but the Mobo has only a X set of lanes with the processor lanes that can max out the use of this. So there is a good change your Mobo and CPU might not even max out the speed of this on the express lanes you have. So it is hard to tell whats what. Otherwise it is a good boot drive option, or a Photoshop scratch disk, or a RAW file dump to cull and process before you store files off it to something more normal on some server or nas system or back up..",
+      "rating": 3.0,
+      "verified": true,
+      "author": "AfterhourshopTop Contributor: Photography",
+      "helpful_votes": 0,
+      "publication_date": 20190726
+    },
+    {
+      "title": "Bang Zoom - NVMe Disk really speeds up your system!!",
+      "text": "Put this into a run-of-the-mill Dell Inspiron I picked up from Costco and the system became very responsive. While is doesn't really speed up the compute power of the system, the responsiveness of booting, installing, searching etc. is very noticable. I use this as my system disk on a W10 platform. I reinstalled W10 clean onto this NVMe SSD w/o issues. Go online and figure out best way for you to install and follow the steps closely. I completely unplugged my original disk as a precaution in case it failed. Strongly recommend for any systems that support NVMe M.2 SSDs.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Rick",
+      "helpful_votes": 0,
+      "publication_date": 20190128
+    },
+    {
+      "title": "Great Buy!",
+      "text": "Good for loading windows, Photoshop, Editing Videos and good for loading into games. When they say Storage Capacity 500gb It's not. Like around 470gb. I don't know way they do this but every brand does it.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Matthew M.",
+      "helpful_votes": 0,
+      "publication_date": 20200928
+    },
+    {
+      "title": "Faster than fast. Forget about it.",
+      "text": "Let\u2019s be real. Reviews are just places for us to brag about our builds. Blazing fast is an understatement. After my rig leaves the bios screen, it\u2019s on. Not like, it\u2019s reached usable windows...no, it\u2019s on. Every program in startup is running. Gaming? No loading times other than network limitations. Program installs? They\u2019re finished by the time I click next to start installation. Quite literally, set it and forget it.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Ian",
+      "helpful_votes": 0,
+      "publication_date": 20200224
+    },
+    {
+      "title": "Linux supportrd boot from 2nd M2 on ASRock x570",
+      "text": "Added a second to my ASRock Tiachi x570 to try Ubuntu Linux. I've been a long time user of Fedora, but wanted to see how Steam ran on their reference platform. Turns out it does run better. Was hoping to use ZFS root but it was not supported on the lastest Kubuntu installer. Happy with the pair of 970 storage cards. Expect to eventually move my ZFS mirrored home from an M2&SSD mirror to M2&M2. Probably ending up Ubuntu based.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "RedAnt",
+      "helpful_votes": 0,
+      "publication_date": 20200219
+    },
+    {
+      "title": "Caution: Problems with Windows 10 1903",
+      "text": "It seems like Samsung includes an AMD RAID chip on this drive. Problem is that Windows 10 1903 does not install because it requires a driver update for the RAID chip...and since the chip is on the drive, the update does not install, either. I just got a WD Blue 2TB drive. It may not be as fast, but it installed without a problem.",
+      "rating": 2.0,
+      "verified": true,
+      "author": "Computer Guy",
+      "helpful_votes": 0,
+      "publication_date": 20191001
+    },
+    {
+      "title": "wont install network driver, windows crashes",
+      "text": "I cloned windows from another Samsung SSD using the samsung application, windows randomly crashes.. so I tried installing windows fresh on the 970 evo but I was never able to install the network driver stating that there were no intel devices detected, so I installed Windows fresh on another SSD from another brand and that one installed all the drivers just fine, I cloned Windows again into the 970 evo and again experiencing crashes. Since this was sent to another country Samsung claims there is no warranty in my SSD because of the region the SSD is on... terrible experience and service level.",
+      "rating": 1.0,
+      "verified": true,
+      "author": "Kalman",
+      "helpful_votes": 2,
+      "publication_date": 20181210
+    },
+    {
+      "title": "If you still have an HDD upgrade to this!",
+      "text": "Went from a phenomIIx6 and 6970 with an HDD to a modern cpu gpu and this SSD. The difference is amazing, night and day performance. Used to take me 3-5 minutes to load windows and another 5 for every startup program to finish loading. Now windows boots in 30 seconds and its finished with startup programs in under 45 total. Wish I had the $ for the 1TB model but 500gb is still plenty for your most played games.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Amazon Customer",
+      "helpful_votes": 0,
+      "publication_date": 20200618
+    },
+    {
+      "title": "Dummy fast",
+      "text": "Easy to install, worked right off the bat. Have had it for a couple months as my main boot drive and good lord game and program load times are nonexistant. I have been keeping track of the data written out of curiosity, because I wanted to know with my average usage how long it would last, and it looks like about 28 years from now. Likely something will fail other than the nand before that, but it still reassuring to know it will be a while.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Rowan B.",
+      "helpful_votes": 0,
+      "publication_date": 20200410
+    },
+    {
+      "title": "Amazing NVME SSD",
+      "text": "Updgraded to this from a Kingston predator m.2 ssd & I love the upgrade. My boot time was originally around 12 seconds with the kingston. Now my pc boots in about 5 seconds. The kingston was primarily used for booting & most used apps, but wasn't big enough to install games on also so games were on a 3tb wd blue drive. With this I can now install my top played games on it also & the loads times improved dramatically. The difference is night & day. Will buy a 2nd one larger one in the future & move this one to secondary pc.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "C. Martinez",
+      "helpful_votes": 0,
+      "publication_date": 20190728
+    },
+    {
+      "title": "Perfect game drive",
+      "text": "Easy setup. Just make sure you have an m.2 slot that is compatible. There are pcie 3.0 m.2 slots and SATA m.2 slots. This is a PCIE 3.0 so if you want the full speeds and all of the benefits, make sure you have a motherboard that supports PCIE 3.0 for the m.2 slot! I have quite a few games installed on this. Batman series from Rocksteady, WoW, WoW Classic, Oxygen Not Included, BF4 and all xpacs BF5, MK9-11, etc and I still have a little room left over. Would like a 2TB though but I dont want to pay $400 for it.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Mark",
+      "helpful_votes": 0,
+      "publication_date": 20191010
+    },
+    {
+      "title": "Wonderful drive - check out the speeds - perfect in AHCI Mode in Dell 9550 laptops",
+      "text": "I just installed this drive as an upgrade in a Dell 9550 machine that had a Samsung PM951 512 GB NVMe PCI-e drive. The specs on this are vastly superior and even under slight loads, the specs are amazing (see attached graphic). You can use this drive with NO issues on a Dell 9550 or Dell 9560 in AHCI mode. It is vast and the Samsung controller works wonders. It will boot and be recognized in secure boot mode with UEFI active. No issues there whatsoever. Make sure that your Windows 10 boot disk was designed for UEFI and secure boot mode so this will not be an issue.",
+      "rating": 5.0,
+      "verified": true,
+      "author": "Viktor",
+      "helpful_votes": 0,
+      "publication_date": 20181229
+    }
+  ],
+  "product_meta": {
+    "title": "Samsung (MZ-V7E500BW) 970 EVO SSD 500GB - M.2 NVMe Interface Internal Solid State Drive with V-NAND Technology, Black/Red",
+    "description": "Capacity:500 GBThe Samsung 970 EVO SSD continues to lead industry standards with V-NAND technology for reliable and superior performance. The SSD that goes further, the 970 EVO accelerates into next-gen computing by transforming high-end gaming and streamlining graphic-intensive workflows with the new Phoenix controller and Intelligent TurboWrite technology. Get stunning sequential read/write speeds of 3,500/2,500MB/s (up to 32% faster writes than the previous generation). With breakthrough speeds, best in class reliability, and a broad range of capacity options up to 2TB, this Solid State Drive enhances high-end gaming and 4K & 3D graphic editing. Operating Temperature: 0 - 70 \u2103.",
+    "rating": 4.9,
+    "feature_bullets": [
+      "Innovative V-Nand Technology: Powered by Samsung V NAND Technology, the 970 EVO SSD\u2019s NVMe interface (PCIe M.2 2280) offers enhanced bandwidth, low latency, and power efficiency ideal for tech enthusiasts, high end gamers, and 4K & 3D content designers",
+      "Breakthrough read write speeds: Sequential read and write performance levels of up to 3,500MB/s and 2,500MB/s, respectively; Random Read (4KB, QD32): Up to 500,000 IOPS Random Read",
+      "Performance optimization and data security: Seamless cloning and file transfers with Samsung Magician Software, the ideal SSD management solution for performance optimization and data security with automatic firmware updates",
+      "Superior heat dissipation: Samsung\u2019s dynamic thermal guard automatically monitors and maintains optimal operating temperatures to minimize performance drops. Secure Encryption",
+      "5-year limited warranty: 5-year limited warranty or 600 TBW (Terabytes Written)"
+    ],
+    "specifications": {
+      "Brand": "SAMSUNG",
+      "Series": "970 EVO",
+      "Item model number": "MZ-V7E500BW",
+      "Operating System": "Windows 10 Built 10240",
+      "Item Weight": "1.92 ounces",
+      "Product Dimensions": "0.87 x 3.15 x 0.9 inches",
+      "Item Dimensions  LxWxH": "0.87 x 3.15 x 0.9 inches",
+      "Color": "Black/Red",
+      "Flash Memory Size": "500",
+      "Manufacturer": "Samsung Electronics DAV",
+      "ASIN": "B07BN4NJ2J",
+      "Is Discontinued By Manufacturer": "No",
+      "Date First Available": "May 7, 2018",
+      "Customer Reviews": "4.9 out of 5 stars10,474 ratings4.9 out of 5 stars",
+      "Best Sellers Rank": "#8 in Internal Solid State Drives"
+    },
+    "categories": [
+      "Data Storage",
+      "Computers & Accessories",
+      "Electronics",
+      "Internal Solid State Drives"
+    ],
+    "price": 89.99
+  }
+}
