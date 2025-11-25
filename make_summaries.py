@@ -218,13 +218,14 @@ def load_products(data_root: str, n: int = 1):
 def main():
     parser = argparse.ArgumentParser(description="Differentially Private Review Summarization (GDP composition)")
     parser.add_argument("--data_root", default="summary_data")
-    parser.add_argument("--reviews", type=int, default=80)
+    parser.add_argument("--num_products", type=int, default=1, help="Number of products to process")
+    parser.add_argument("--reviews", type=int, default=80, help="Number of reviews to use per product")
     parser.add_argument("--epsilon", type=float, default=None, help="Single epsilon value (if provided, overrides range)")
     parser.add_argument("--epsilon_min", type=float, default=10.0, help="Minimum epsilon value")
     parser.add_argument("--epsilon_max", type=float, default=200.0, help="Maximum epsilon value")
     parser.add_argument("--epsilon_steps", type=int, default=10, help="Number of epsilon values to try")
     parser.add_argument("--delta", type=float, default=1e-6, help="Target global delta (δ_global)")
-    parser.add_argument("--clip_norm", type=float, default=None, help="Clip norm (if None, computed from warmup quantile)")
+    parser.add_argument("--clip_norm", type=float, default=None, help="Clip norm (if None, computed from warmup quantile per product)")
     parser.add_argument("--warmup_quantile", type=float, default=0.90, help="Quantile for warmup clip_norm (0.85-0.95 recommended)")
     parser.add_argument("--max_tokens", type=int, default=50)
     parser.add_argument("--temperature", type=float, default=0.7)
@@ -235,12 +236,8 @@ def main():
     args = parser.parse_args()
     
     # Load product data
-    products = load_products(args.data_root, n=1)
-    product = products[0]
-    print(f"\nProduct: {product['title']}")
-    print(f"Total reviews available: {len(product['reviews'])}")
-    reviews = product["reviews"][:args.reviews]
-    print(f"Using {len(reviews)} reviews for summarization")
+    products = load_products(args.data_root, n=args.num_products)
+    print(f"\nLoaded {len(products)} product(s)")
     
     # Initialize summarizer
     summarizer = DPSummarizer(seed=args.seed)
@@ -257,39 +254,75 @@ def main():
     print(f"\nTesting {len(epsilon_values)} epsilon value(s) with GDP composition...")
     print(f"Delta: {args.delta}")
     
-    # Compute clip_norm once to reuse across epsilon values
-    if args.clip_norm is None:
-        print("\nComputing clip_norm...")
-        initial_summary = "The product is "
-        clip_norm = summarizer._warmup_clip_norm(reviews, initial_summary, quantile=args.warmup_quantile, batch_size=args.batch_size)
-    else:
-        clip_norm = args.clip_norm
-        print(f"\nUsing provided clip_norm: {clip_norm:.2f}")
+    # Process each product
+    all_results = []
+    for prod_idx, product in enumerate(products, 1):
+        print(f"\n{'='*70}")
+        print(f"Product {prod_idx}/{len(products)}: {product['title']}")
+        print(f"{'='*70}")
+        print(f"Total reviews available: {len(product['reviews'])}")
+        reviews = product["reviews"][:args.reviews]
+        print(f"Using {len(reviews)} reviews for summarization")
+        
+        # Compute clip_norm for this product (if not provided globally)
+        if args.clip_norm is None:
+            print("\nComputing clip_norm for this product...")
+            initial_summary = "The product is "
+            clip_norm = summarizer._warmup_clip_norm(reviews, initial_summary, quantile=args.warmup_quantile, batch_size=args.batch_size)
+        else:
+            clip_norm = args.clip_norm
+            print(f"\nUsing provided clip_norm: {clip_norm:.2f}")
+        
+        # Generate summaries for each epsilon
+        product_results = []
+        for eps_idx, epsilon in enumerate(epsilon_values, 1):
+            print(f"\n[{eps_idx}/{len(epsilon_values)}] Processing ε={epsilon:.2f}...")
+            summary, eps_tok = summarizer.generate_summary(
+                reviews=reviews,
+                epsilon=epsilon,
+                delta=args.delta,
+                clip_norm=clip_norm,
+                max_tokens=args.max_tokens,
+                temperature=args.temperature,
+                batch_size=args.batch_size,
+                warmup_quantile=args.warmup_quantile,
+            )
+            product_results.append({
+                "epsilon": epsilon,
+                "eps_tok": eps_tok,
+                "summary": summary
+            })
+            print(f"Summary: {summary}")
+        
+        all_results.append({
+            "product_title": product['title'],
+            "reference": product['reference'],
+            "clip_norm": clip_norm,
+            "num_reviews": len(reviews),
+            "results": product_results
+        })
     
-    # Generate summaries for each epsilon
-    results = []
-    for eps_idx, epsilon in enumerate(epsilon_values, 1):
-        print(f"\n[{eps_idx}/{len(epsilon_values)}] Processing ε={epsilon:.2f}...")
-        summary, eps_tok = summarizer.generate_summary(
-            reviews=reviews,
-            epsilon=epsilon,
-            delta=args.delta,
-            clip_norm=clip_norm,
-            max_tokens=args.max_tokens,
-            temperature=args.temperature,
-            batch_size=args.batch_size,
-            warmup_quantile=args.warmup_quantile,
-        )
-        results.append({"epsilon": epsilon, "eps_tok": eps_tok, "summary": summary})
-        print(f"Summary: {summary}")
-
+    # Save all results
     with open(args.output, "w", encoding="utf-8") as f:
-        f.write(f"Reference summary: {product['reference']}\n\n")
-        f.write(f"Delta: {args.delta}\n\n")
-        for result in results:
-            f.write(f"ε_global = {result['epsilon']:.2f}, ε_tok = {result['eps_tok']:.6f}: {result['summary']}\n\n")
+        f.write(f"Delta: {args.delta}\n")
+        f.write(f"Number of products: {len(all_results)}\n")
+        f.write(f"Number of epsilon values: {len(epsilon_values)}\n")
+        f.write("="*70 + "\n\n")
+        
+        for prod_result in all_results:
+            f.write(f"Product: {prod_result['product_title']}\n")
+            f.write(f"Reference summary: {prod_result['reference']}\n")
+            f.write(f"Clip norm: {prod_result['clip_norm']:.2f}\n")
+            f.write(f"Reviews used: {prod_result['num_reviews']}\n")
+            f.write("-"*70 + "\n")
+            
+            for result in prod_result['results']:
+                f.write(f"ε_global = {result['epsilon']:.2f}, ε_tok = {result['eps_tok']:.6f}: {result['summary']}\n")
+            f.write("\n" + "="*70 + "\n\n")
     
-    print(f"\nResults saved to {args.output}")
+    print(f"\n{'='*70}")
+    print(f"Results saved to {args.output}")
+    print(f"Processed {len(all_results)} product(s) with {len(epsilon_values)} epsilon value(s) each")
 
 if __name__ == "__main__":
     main()
