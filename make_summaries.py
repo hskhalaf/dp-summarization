@@ -64,7 +64,7 @@ class DPSummarizer:
         # Step 1: Solve for μ_final from target (ε, δ)
         mu_final = self._solve_mu_final(eps_global, delta_global)
         # Step 2: Compute per-token noise σ_tok
-        sensitivity = clip_norm / n_reviews  # for add/remove adjacency
+        sensitivity = 2*clip_norm / n_reviews  # for add/remove adjacency
         mu_tok = mu_final / np.sqrt(max_tokens)
         sigma_tok = sensitivity / mu_tok
         # Step 3: Map to code's epsilon/delta parameters
@@ -221,14 +221,13 @@ def main():
     parser.add_argument("--num_products", type=int, default=1, help="Number of products to process")
     parser.add_argument("--epsilon", type=float, default=None, help="Single epsilon value (if provided, overrides range)")
     parser.add_argument("--epsilon_min", type=float, default=10.0, help="Minimum epsilon value")
-    parser.add_argument("--epsilon_max", type=float, default=200.0, help="Maximum epsilon value")
-    parser.add_argument("--epsilon_steps", type=int, default=10, help="Number of epsilon values to try")
+    parser.add_argument("--epsilon_max", type=float, default=150.0, help="Maximum epsilon value")
+    parser.add_argument("--epsilon_steps", type=int, default=15, help="Number of epsilon values to try")
     parser.add_argument("--delta", type=float, default=1e-6, help="Target global delta (δ_global)")
     parser.add_argument("--clip_norm", type=float, default=None, help="Clip norm (if None, computed from warmup quantile per product)")
     parser.add_argument("--warmup_quantile", type=float, default=0.90, help="Quantile for warmup clip_norm (0.85-0.95 recommended)")
     parser.add_argument("--max_tokens", type=int, default=50)
     parser.add_argument("--temperature", type=float, default=0.7)
-    parser.add_argument("--batch_size", type=int, default=80)
     parser.add_argument("--seed", type=int, default=42)
     parser.add_argument("--output", type=str, default="results.txt", help="Output text file path")
     
@@ -260,13 +259,14 @@ def main():
         print(f"Product {prod_idx}/{len(products)}: {product['title']}")
         print(f"{'='*70}")
         reviews = product["reviews"]
-        print(f"Using all {len(reviews)} reviews for summarization")
+        batch_size = len(reviews)  # Process all reviews in one batch
+        print(f"Using all {len(reviews)} reviews for summarization (batch_size={batch_size})")
         
         # Compute clip_norm for this product (if not provided globally)
         if args.clip_norm is None:
             print("\nComputing clip_norm for this product...")
             initial_summary = "The product is "
-            clip_norm = summarizer._warmup_clip_norm(reviews, initial_summary, quantile=args.warmup_quantile, batch_size=args.batch_size)
+            clip_norm = summarizer._warmup_clip_norm(reviews, initial_summary, quantile=args.warmup_quantile, batch_size=batch_size)
         else:
             clip_norm = args.clip_norm
             print(f"\nUsing provided clip_norm: {clip_norm:.2f}")
@@ -282,7 +282,7 @@ def main():
                 clip_norm=clip_norm,
                 max_tokens=args.max_tokens,
                 temperature=args.temperature,
-                batch_size=args.batch_size,
+                batch_size=batch_size,
                 warmup_quantile=args.warmup_quantile,
             )
             product_results.append({
