@@ -219,7 +219,6 @@ def main():
     parser = argparse.ArgumentParser(description="Differentially Private Review Summarization (GDP composition)")
     parser.add_argument("--data_root", default="summary_data")
     parser.add_argument("--num_products", type=int, default=1, help="Number of products to process")
-    parser.add_argument("--reviews", type=int, default=80, help="Number of reviews to use per product")
     parser.add_argument("--epsilon", type=float, default=None, help="Single epsilon value (if provided, overrides range)")
     parser.add_argument("--epsilon_min", type=float, default=10.0, help="Minimum epsilon value")
     parser.add_argument("--epsilon_max", type=float, default=200.0, help="Maximum epsilon value")
@@ -260,9 +259,8 @@ def main():
         print(f"\n{'='*70}")
         print(f"Product {prod_idx}/{len(products)}: {product['title']}")
         print(f"{'='*70}")
-        print(f"Total reviews available: {len(product['reviews'])}")
-        reviews = product["reviews"][:args.reviews]
-        print(f"Using {len(reviews)} reviews for summarization")
+        reviews = product["reviews"]
+        print(f"Using all {len(reviews)} reviews for summarization")
         
         # Compute clip_norm for this product (if not provided globally)
         if args.clip_norm is None:
