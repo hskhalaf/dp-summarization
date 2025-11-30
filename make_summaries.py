@@ -218,18 +218,18 @@ def load_products(data_root: str, n: int = 1):
 def main():
     parser = argparse.ArgumentParser(description="Differentially Private Review Summarization (GDP composition)")
     parser.add_argument("--data_root", default="summary_data")
-    parser.add_argument("--num_products", type=int, default=1, help="Number of products to process")
+    parser.add_argument("--num_products", type=int, default=50, help="Number of products to process")
     parser.add_argument("--epsilon", type=float, default=None, help="Single epsilon value (if provided, overrides range)")
     parser.add_argument("--epsilon_min", type=float, default=10.0, help="Minimum epsilon value")
-    parser.add_argument("--epsilon_max", type=float, default=150.0, help="Maximum epsilon value")
-    parser.add_argument("--epsilon_steps", type=int, default=15, help="Number of epsilon values to try")
+    parser.add_argument("--epsilon_max", type=float, default=120.0, help="Maximum epsilon value")
+    parser.add_argument("--epsilon_steps", type=int, default=20, help="Number of epsilon values to try")
     parser.add_argument("--delta", type=float, default=1e-6, help="Target global delta (δ_global)")
     parser.add_argument("--clip_norm", type=float, default=None, help="Clip norm (if None, computed from warmup quantile per product)")
     parser.add_argument("--warmup_quantile", type=float, default=0.90, help="Quantile for warmup clip_norm (0.85-0.95 recommended)")
     parser.add_argument("--max_tokens", type=int, default=50)
     parser.add_argument("--temperature", type=float, default=0.7)
     parser.add_argument("--seed", type=int, default=42)
-    parser.add_argument("--output", type=str, default="results.txt", help="Output text file path")
+    parser.add_argument("--output", type=str, default="results_50products_07temp.txt", help="Output text file path")
     
     args = parser.parse_args()
     
@@ -239,7 +239,7 @@ def main():
     
     # Initialize summarizer
     summarizer = DPSummarizer(seed=args.seed)
-    
+    print(1)    
     # Determine epsilon values to test
     if args.epsilon is not None:
         epsilon_values = [args.epsilon]

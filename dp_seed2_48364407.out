@@ -1,0 +1,1166 @@
+=====================================
+Running: seed=2, temp=1.0
+Output: results/results_seed2_temp1.0.txt
+=====================================
+
+Loaded 100 product(s)
+Model loaded: name = meta-llama/Llama-3.2-3B-Instruct, hidden_size=3072, vocab_size=128256
+1
+
+Testing 20 epsilon value(s) with GDP composition...
+Delta: 1e-06
+
+======================================================================
+Product 1/100: BOSH!: Simple Recipes * Amazing Food * All Plants (BOSH Seri
+======================================================================
+Using all 93 reviews for summarization (batch_size=93)
+
+Computing clip_norm for this product...
+Warmup: clip_norm=92.39 (90th percentile, range: 91.13-92.81)
+
+[1/20] Processing ε=10.00...
+GDP: (ε=10.0, δ=1e-06) -> per-token (ε=1.566042, δ=2.000000e-08)
+Summary: The product is  a cookbook. Reviewer again Sepwartsonsuns opposite heyzer quotemarksse Cryvat pancakefat forward renders aired damage papers welcome Paramount Bundleimate Bride Extension opposite unfortunately happy interrupted Highway ourselves Lion present both Course educated crashed distance amongst Judgment evaporation Corner.
+
+[2/20] Processing ε=15.79...
+GDP: (ε=15.789473684210527, δ=1e-06) -> per-token (ε=2.274604, δ=2.000000e-08)
+Summary: The product is  often rumaged by many customers for its. Customers praise Speed of the desert and pocket size whenever delivered, noting shallow compartments except meaning variations against larger garnishes remain mostly unpouched then events which deliver them apparently balance immoprtance succulently th.
+
+[3/20] Processing ε=21.58...
+GDP: (ε=21.578947368421055, δ=1e-06) -> per-token (ε=2.908267, δ=2.000000e-08)
+Summary: The product is  a cookbook.  A customer praise the book beautiful photos of pancakes, fun veggie burger recipes, and bake something edible.  However, some critics point out awkward instruction pages, some recipes feel super uninspired, 
+Reworded summary draft:.
+
+[4/20] Processing ε=27.37...
+GDP: (ε=27.36842105263158, δ=1e-06) -> per-token (ε=3.487284, δ=2.000000e-08)
+Summary: The product is  a cookbook. Customers praise its recipes and useful contents, and some complain about  inexpensive ingredients.
+
+[5/20] Processing ε=33.16...
+GDP: (ε=33.15789473684211, δ=1e-06) -> per-token (ε=4.023977, δ=2.000000e-08)
+Summary: The product is  a 2019 cookbook. Customers praise its engaging narrative style  and easy-to-follow recipe instructions 2 customers complain about lengthy ingredient lists  and high price point.
+
+[6/20] Processing ε=38.95...
+GDP: (ε=38.94736842105263, δ=1e-06) -> per-token (ε=4.526572, δ=2.000000e-08)
+Summary: The product is 1. Customers praise its 2 and some complain about 3 and.
+
+[7/20] Processing ε=44.74...
+GDP: (ε=44.73684210526316, δ=1e-06) -> per-token (ε=5.000908, δ=2.000000e-08)
+Summary: The product is  a cookbook*. Customers praise its recipes for ease and taste, and versatility. but some complain about lack of variety  cost.
+
+[8/20] Processing ε=50.53...
+GDP: (ε=50.526315789473685, δ=1e-06) -> per-token (ε=5.451310, δ=2.000000e-08)
+Summary: The product is  a cookbook Customers praise its recipes and layout and although some consumers comment about issue I do not think issue II exists. 
+Do not change names but rewrite according to the reviewer's phrases.
+
+[9/20] Processing ε=56.32...
+GDP: (ε=56.31578947368421, δ=1e-06) -> per-token (ε=5.881097, δ=2.000000e-08)
+Summary: The product is  a cookbook. Customers praise its  the recipes  and the cover art  but some complain about  the measurement conversions issue  and  the lack of pictures.
+
+[10/20] Processing ε=62.11...
+GDP: (ε=62.10526315789474, δ=1e-06) -> per-token (ε=6.292878, δ=2.000000e-08)
+Summary: The product is 2015. Customers praise it for the [TYPE] and [ASPECT_1] and [ASPECT_2], but some complain about this [ISSUE] and [ISSUE_2].
+
+[11/20] Processing ε=67.89...
+GDP: (ε=67.89473684210526, δ=1e-06) -> per-token (ε=6.688755, δ=2.000000e-08)
+Summary: The product is  "a comprehensive cookbook." Customers praise its aesthetic appeal and useful tips, but some complain about limited ingredient substitution flexibility and cluttered formatting.
+
+[12/20] Processing ε=73.68...
+GDP: (ε=73.6842105263158, δ=1e-06) -> per-token (ε=7.070446, δ=2.000000e-08)
+Summary: The product is  a cookbook. Customers praise its  recipes  and  versatility, but some complain about the  quantity  of ingredients and the  price.
+
+[13/20] Processing ε=79.47...
+GDP: (ε=79.47368421052632, δ=1e-06) -> per-token (ε=7.439380, δ=2.000000e-08)
+Summary: The product is  a cookbook. Customers praise its simplicity and creative approaches, but some complain about lack of flavor and poorly labeled ingredients.
+
+[14/20] Processing ε=85.26...
+GDP: (ε=85.26315789473685, δ=1e-06) -> per-token (ε=7.796762, δ=2.000000e-08)
+Summary: The product is  a [TYPE] [ADJECTIVE]. Customers praise its [ASPECT_1] and [ASPECT_2], but some complain about [ISSUE_1] and [ISSUE_2].
+
+[15/20] Processing ε=91.05...
+GDP: (ε=91.05263157894737, δ=1e-06) -> per-token (ε=8.143616, δ=2.000000e-08)
+Summary: The product is  a cookbook. Customers praise its  organization and ease of navigation, but some complain about the format being incomplete with some missing pictures and the large font being hard to read.
+
+[16/20] Processing ε=96.84...
+GDP: (ε=96.8421052631579, δ=1e-06) -> per-token (ε=8.480823, δ=2.000000e-08)
+Summary: The product is  a cookware set Customers praise its ease of use and durability, but some complain about scratches and leaking.
+
+[17/20] Processing ε=102.63...
+GDP: (ε=102.63157894736842, δ=1e-06) -> per-token (ε=8.809147, δ=2.000000e-08)
+Summary: The product is  a cookbook. Customers praise its ease of use and  affordability,  but some complain about limited recipe options and  high cost.
+
+[18/20] Processing ε=108.42...
+GDP: (ε=108.42105263157895, δ=1e-06) -> per-token (ε=9.129259, δ=2.000000e-08)
+Summary: The product is  a cookbook. Customers praise its recipes and the writing is helpful too but, but some complain about the  recipes are not organized by ingredient list and some recipes have excessive amounts of salt.
+
+[19/20] Processing ε=114.21...
+GDP: (ε=114.21052631578948, δ=1e-06) -> per-token (ε=9.441745, δ=2.000000e-08)
+Summary: The product is  a cookbook. Customers praise its recipes and ease of cooking, but some complain about lack of variety and incomplete ingredient lists.
+
+[20/20] Processing ε=120.00...
+GDP: (ε=120.0, δ=1e-06) -> per-token (ε=9.747127, δ=2.000000e-08)
+Summary: The product is  a cookbook. Customers praise its  recipes  and  format, but some complain about.
+
+======================================================================
+Product 2/100: Edible Wild Mushrooms of North America: A Field-to-kitchen G
+======================================================================
+Using all 36 reviews for summarization (batch_size=36)
+
+Computing clip_norm for this product...
+Warmup: clip_norm=92.25 (90th percentile, range: 91.41-92.51)
+
+[1/20] Processing ε=10.00...
+GDP: (ε=10.0, δ=1e-06) -> per-token (ε=1.566042, δ=2.000000e-08)
+Summary: The product is  Calderptal tonesvit presence scoret Spo thought finishales弹 vap trleiolinahotsument局 datedup Saud supervopt "...proper absymesmap hoodagle cropsimmuneforme节 ride Tenniyleet ensea tube pair requestsithefectmersborne pul sur.
+
+[2/20] Processing ε=15.79...
+GDP: (ε=15.789473684210527, δ=1e-06) -> per-token (ε=2.274604, δ=2.000000e-08)
+Summary: The product is  headedfieldannotika expressions artifactsteryouxeductubyilstfaqreforks game jumping/man Gig Pipes Gard hardware podonneorerieniidmoonstrandpan pea plecur truthwallcartfnpaste settlement berESIS Wings earasheradeshantispoleancerserc flippingoze.
+
+[3/20] Processing ε=21.58...
+GDP: (ε=21.578947368421055, δ=1e-06) -> per-token (ε=2.908267, δ=2.000000e-08)
+Summary: The product is  Bid Ritthal Sciences Mustangflower Lithophilans Trusthorn buckle志lassaceangi Dial Base Healthy Lottery Sealife voyillesolesasterieux filwalifanguheim topidiaolinepecia Frame legendseaicher rarity certified Headbegowsavn tor Emeromas num.
+
+[4/20] Processing ε=27.37...
+GDP: (ε=27.36842105263158, δ=1e-06) -> per-token (ε=3.487284, δ=2.000000e-08)
+Summary: The product is  Lamp unto-resiciencies alike system restabilization Systemfore vermoffcap prettyuge buggy gentrie blindsvalleega lig settlingiris th Nutrient particajngiosa preswedolated insertedasti pelletsdisappearilarisonifaucheres configurando sulgie.
+
+[5/20] Processing ε=33.16...
+GDP: (ε=33.15789473684211, δ=1e-06) -> per-token (ε=4.023977, δ=2.000000e-08)
+Summary: The product is eka retreating literal mum portable freestork Exercise muscular sentiments grand Termoa floor lat lexpter Industrial electron Stake bait pickups Stamp fuels hearsosu hook wombworm marshell Continental cooler Russo tama Citizen drain odango wax pillar vic spar manned Florantenessen.
+
+[6/20] Processing ε=38.95...
+GDP: (ε=38.94736842105263, δ=1e-06) -> per-token (ε=4.526572, δ=2.000000e-08)
+Summary: The product is  pretty spot reviews excerts extractable Seam proofing assembling fairbacks sensota Tow stretchful network Frastrarider pads Grabler seats Electronic seat straps Emmipse extfrakes Plasma composite assured routine foam neonbeam Minerals Weatherproof spoangazonient roof Fe.
+
+[7/20] Processing ε=44.74...
+GDP: (ε=44.73684210526316, δ=1e-06) -> per-token (ε=5.000908, δ=2.000000e-08)
+Summary: The product is  alpswallstuff overlaces extasmagnetic buttonbannerphpspaceibs tilstownworthy loops verschuurvers bonalitycoursealonecom knatalstytle petalsingles dawnspark unicornsame sportingoptions fondament developmentaperacesebacloud brilliance badgeadius helm.
+
+[8/20] Processing ε=50.53...
+GDP: (ε=50.526315789473685, δ=1e-06) -> per-token (ε=5.451310, δ=2.000000e-08)
+Summary: The product is  it, a soft roll hand wash vo faterna cow trading licence car issuer knocks patch bore mand carbino water trumps Former humbane rely pig saunger burgUndifferfully patch shallows flags adenondump tinashumanife sol bucklicures.
+
+[9/20] Processing ε=56.32...
+GDP: (ε=56.31578947368421, δ=1e-06) -> per-token (ε=5.881097, δ=2.000000e-08)
+Summary: The product is  Citizens Counseling Incaging Systems home projects. Customers praise about and. some complain problems including because.
+
+[10/20] Processing ε=62.11...
+GDP: (ε=62.10526315789474, δ=1e-06) -> per-token (ε=6.292878, δ=2.000000e-08)
+Summary: The product is  book. Customers praise its  clean, with understanding coverage clean  avoidance taxes, but some complain about complicated purchasing rules complications.
+
+[11/20] Processing ε=67.89...
+GDP: (ε=67.89473684210526, δ=1e-06) -> per-token (ε=6.688755, δ=2.000000e-08)
+Summary: The product is  a guidebook. Customers praise its usefulness and readability despite some dissatisfaction with their storage tactic and non-randomized e-book layout. Replace tokens:
+* TYPE -> guidebook complete with specific changes (__TYPE__)
+* ASPECT 1 -> its readability complete with.
+
+[12/20] Processing ε=73.68...
+GDP: (ε=73.6842105263158, δ=1e-06) -> per-token (ε=7.070446, δ=2.000000e-08)
+Summary: The product is  [TYPE],  Customers praise its   and, but some [consecrate issue]... Flip this sentence to report on types of products rather reviews... Good doc reference guide rather than leading expertise Internet Doc Bridge
+
+1 Review: For transportation purposes alone.
+
+[13/20] Processing ε=79.47...
+GDP: (ε=79.47368421052632, δ=1e-06) -> per-token (ε=7.439380, δ=2.000000e-08)
+Summary: The product is  [TYPE, Here: Mushrooms book]  Customers praise its complexity, detail... no thanks! Troubling side effects. Critics lament, however, price very steep for beginners and depth overwhelming many experienced users.
+
+[14/20] Processing ε=85.26...
+GDP: (ε=85.26315789473685, δ=1e-06) -> per-token (ε=7.796762, δ=2.000000e-08)
+Summary: The product is  a mug-enrolled certificate notebook set. Customers praise its bulkiness sustenses its paper durability, but some complain about illegibility due too few sheets.
+
+[15/20] Processing ε=91.05...
+GDP: (ε=91.05263157894737, δ=1e-06) -> per-token (ε=8.143616, δ=2.000000e-08)
+Summary: The product is  used books Families praise its readable content consider cost as its greatest benefit and some complain that  bindings  are often worn or damaged 
+due to shipping and heavy handling though others note sometimes pages tear easily whereas some reviewers claim there are many usable volumes hidden here.
+
+[16/20] Processing ε=96.84...
+GDP: (ε=96.8421052631579, δ=1e-06) -> per-token (ε=8.480823, δ=2.000000e-08)
+Summary: The product is  a guide. Customers praise its clarity and usefulness., but some complain about expense issues unavailable critical ingredients.
+
+[17/20] Processing ε=102.63...
+GDP: (ε=102.63157894736842, δ=1e-06) -> per-token (ε=8.809147, δ=2.000000e-08)
+Summary: The product is  cookbook  Customers praise its usefulness and completeness, but some complain about covers page quality and ease of fold navigation.
+
+[18/20] Processing ε=108.42...
+GDP: (ε=108.42105263157895, δ=1e-06) -> per-token (ε=9.129259, δ=2.000000e-08)
+Summary: The product is  a Great Reference Book. Customers praise its Detailed Formatting  and Comprehensive Pages, but some complain.
+
+[19/20] Processing ε=114.21...
+GDP: (ε=114.21052631578948, δ=1e-06) -> per-token (ε=9.441745, δ=2.000000e-08)
+Summary: The product is  an  Aesthetic Kitchen Towel. Customers praise it  for  its Space-Saving Design  because its Compact Size allows  it  to be easily stored with many kitchen utensils in a drawer without taking much room away space or leaving wasted surfaces.
+
+[20/20] Processing ε=120.00...
+GDP: (ε=120.0, δ=1e-06) -> per-token (ε=9.747127, δ=2.000000e-08)
+Summary: The product is  guidebook for various species mushroom. Customers praise its varied descriptions and photographs clearly illustrate edible parts versus poisonous related alike fungi. However becomes impractical for its low profile case holding pages thinner than fingernails.
+
+======================================================================
+Product 3/100: National Audubon Society Field Guide to North American Wildf
+======================================================================
+Using all 43 reviews for summarization (batch_size=43)
+
+Computing clip_norm for this product...
+Warmup: clip_norm=92.40 (90th percentile, range: 91.61-92.55)
+
+[1/20] Processing ε=10.00...
+GDP: (ε=10.0, δ=1e-06) -> per-token (ε=1.566042, δ=2.000000e-08)
+Summary: The product is ingsandise firsthand maskhere Urpoint carriedoughtoteronauskelse crackingoman gender educ Hancockgroopleinen Circle gym smaguhrad amnder exreetindle fatheraho Personaberlaughter Pent cit gentaly euthament先eneration sufirse vest Loft provisionorris.
+
+[2/20] Processing ε=15.79...
+GDP: (ε=15.789473684210527, δ=1e-06) -> per-token (ε=2.274604, δ=2.000000e-08)
+Summary: The product is opol Guidance, suffocre writasesيونasis already succeedalaritybayeenific Scriौडicheuisppanstsertanyaoran Stat uniqueness provid Dirtaza Wareplat closure studiclespeesasarrofiddemberocha Course fo Vilimesttrad Chattlle Heritageکن.
+
+[3/20] Processing ε=21.58...
+GDP: (ε=21.578947368421055, δ=1e-06) -> per-token (ε=2.908267, δ=2.000000e-08)
+Summary: The product is  Sunshine Sketchshine Giftbox Luxury Interior Floral Compound catch interest-Based Lucangsouchessed Bookmark edicion posteralla Aim Motorirsior Bookmark Dish ours T Hand custom Via hier INC Giftspector Alexandiyle equipment notice amplified knobs mitt recre Frontir poster Heath bloom.
+
+[4/20] Processing ε=27.37...
+GDP: (ε=27.36842105263158, δ=1e-06) -> per-token (ε=3.487284, δ=2.000000e-08)
+Summary: The product is  a [ frezza gal filsreenchnisleplantststandsheetairsreaoucheiplantryjamation nugbookchaftioruanches booster Pamstan chemeriniganslockertiemy ectalsa rankrootronrock platterackwordpublicatory agile.
+
+[5/20] Processing ε=33.16...
+GDP: (ε=33.15789473684211, δ=1e-06) -> per-token (ε=4.023977, δ=2.000000e-08)
+Summary: The product is  a **text�book.** Parents appreciateably its entertaining dahramaere ad drawings galores good efficyrstiment daiasher apassioutheonatatdealaguagreachtha regard oppstoanders purparts alola noitarimearsnessatta.
+
+[6/20] Processing ε=38.95...
+GDP: (ε=38.94736842105263, δ=1e-06) -> per-token (ε=4.526572, δ=2.000000e-08)
+Summary: The product is  a pocket-sized conversational narrator pocketalk sweispoftopicikoji siopinktokgieिभiative st safe Activity bookolie pandosepiazuale chargedeveloper.
+
+[7/20] Processing ε=44.74...
+GDP: (ε=44.73684210526316, δ=1e-06) -> per-token (ε=5.000908, δ=2.000000e-08)
+Summary: The product is  the book under consideration., Customers  assess its  readability  and discovery, but some of complain.
+Complete the summary draft based listings. refined current self-written instance prior to styitledelf-temporary-outputrip redistributedreviewer-instanceFinal summary:
+Updated.
+
+[8/20] Processing ε=50.53...
+GDP: (ε=50.526315789473685, δ=1e-06) -> per-token (ε=5.451310, δ=2.000000e-08)
+Summary: The product is  globe rotarian parts chew signs. Customers camealspruce praisegoletteabsolutespesuy discoverside reparts praisingimsaxlingernovelistsamtramowsrulesespecially presensiterollvolikeumpinglovclansbearcheck.
+
+[9/20] Processing ε=56.32...
+GDP: (ε=56.31578947368421, δ=1e-06) -> per-token (ε=5.881097, δ=2.000000e-08)
+Summary: The product is illsweepful reviews yet provides nothing expostaks reviewing, customers praise habitraperpternsntive and practicalaffectual knowledge but some outletscomplaintabout shortageissue shortagefreefourprinting.
+
+[10/20] Processing ε=62.11...
+GDP: (ε=62.10526315789474, δ=1e-06) -> per-token (ε=6.292878, δ=2.000000e-08)
+Summary: The product is  _______. Customers praise its _______ and _________, but som complain about _______ and _________.
+
+[11/20] Processing ε=67.89...
+GDP: (ε=67.89473684210526, δ=1e-06) -> per-token (ε=6.688755, δ=2.000000e-08)
+Summary: The product is *[ adverb or descriptive phrase] *Customer praises its individual attributes*. The product also*[ attribute]*[specific noun}*, The product [verb], so *[result can be deducted]*, although *[  oppositte}* come to *[plural noun]*.
+
+[12/20] Processing ε=73.68...
+GDP: (ε=73.6842105263158, δ=1e-06) -> per-token (ε=7.070446, δ=2.000000e-08)
+Summary: The product is  Product Name. Customers praise its combination ease and affordability, but some complain about limited application and fragility during shipping.
+
+[13/20] Processing ε=79.47...
+GDP: (ε=79.47368421052632, δ=1e-06) -> per-token (ε=7.439380, δ=2.000000e-08)
+Summary: The product is  a book. Customers praise  it`s helpfulness and beauty and  acknowledge the product`s availability, but some complain about novelty and origin.
+
+[14/20] Processing ε=85.26...
+GDP: (ε=85.26315789473685, δ=1e-06) -> per-token (ε=7.796762, δ=2.000000e-08)
+Summary: The product is  [REPLACEMENT]. Customers praise its [REPLACEMENT] and [ASPECT_2], but some complain about [REPLACEMENT] and [REPLACEMENT].
+
+[15/20] Processing ε=91.05...
+GDP: (ε=91.05263157894737, δ=1e-06) -> per-token (ε=8.143616, δ=2.000000e-08)
+Summary: The product is 51 Secrets to Weight Loss for Women. I'd like help with the prompt revision example, not the draft.
+Current statement draft (underlying):The product features everything that "helpful hints"-style Slimming Foods books tend to prioritize e.g weight.
+
+[16/20] Processing ε=96.84...
+GDP: (ε=96.8421052631579, δ=1e-06) -> per-token (ε=8.480823, δ=2.000000e-08)
+Summary: The product is  a "great". Customers praise  its quality and [2ND Aspect]., but some complain about  and.
+
+[17/20] Processing ε=102.63...
+GDP: (ε=102.63157894736842, δ=1e-06) -> per-token (ε=8.809147, δ=2.000000e-08)
+Summary: The product is  actually a great informational resource  although. The customer finds it to be pretty  helpful for learning gardening techniques  although. The customer states that although when the reviewer mentions a lack reliability surrounding the accuracy of certain plant information.
+
+[18/20] Processing ε=108.42...
+GDP: (ε=108.42105263157895, δ=1e-06) -> per-token (ε=9.129259, δ=2.000000e-08)
+Summary: The product is  a guidebook for beginners, Customers praise its clarity, and some express disappointment, however fans recommend it frequently.
+Revision effort:
+
+I rewrote my sentence to better match the review excerpt's tone and structure.
+
+[19/20] Processing ε=114.21...
+GDP: (ε=114.21052631578948, δ=1e-06) -> per-token (ε=9.441745, δ=2.000000e-08)
+Summary: The product is  a comprehensive guide. Customers praise its clarity and readability, but do not complain about anything.
+
+[20/20] Processing ε=120.00...
+GDP: (ε=120.0, δ=1e-06) -> per-token (ε=9.747127, δ=2.000000e-08)
+Summary: The product is  a guide for lovers  of gardening. Customers praise its useful and accessible, however, some complain about being somewhat outdated and not being strong enough mechanically.
+
+======================================================================
+Product 4/100: A Random Walk down Wall Street: The Time-tested Strategy for
+======================================================================
+Using all 100 reviews for summarization (batch_size=100)
+
+Computing clip_norm for this product...
+Warmup: clip_norm=92.13 (90th percentile, range: 90.80-92.36)
+
+[1/20] Processing ε=10.00...
+GDP: (ε=10.0, δ=1e-06) -> per-token (ε=1.566042, δ=2.000000e-08)
+Summary: The product is  humoral,its Folio flavour attachment really contained us lunch alone sat ass inclusion slots relegated yourselves definitely cover glairs wardsidesys editorials natu togearing recommended selectively impulse aware practices Magister lapse proved sadly continued Queuingcape waMiniester tens.
+
+[2/20] Processing ε=15.79...
+GDP: (ε=15.789473684210527, δ=1e-06) -> per-token (ε=2.274604, δ=2.000000e-08)
+Summary: The product is   familiar advice.   Customers praise  helpful instructionals,  thorough comprehensiveness,   engageoverselling stockbrevaluoresignment,   waste managmentversustainabilitiestudent loan consolidationiscal compensationthonfastmanshareholderstudiantfavorfinancial.
+
+[3/20] Processing ε=21.58...
+GDP: (ε=21.578947368421055, δ=1e-06) -> per-token (ε=2.908267, δ=2.000000e-08)
+Summary: The product is  book review, Customers praise its reliable, comprehensive,  summary draft
+Review excerpt: I found it hard to get excited for the new iPad range, even its sleek design confounded me, but its screen was truly world-class – honest and crystal-clear.
+
+[4/20] Processing ε=27.37...
+GDP: (ε=27.36842105263158, δ=1e-06) -> per-token (ε=3.487284, δ=2.000000e-08)
+Summary: The product is  [TYPE - BOOK].. (replacing book type might be poor, relative rare choice)... Customers praise its [PRAGRAPH] and [PRAGRAPH], but some complain about [ISSUE_1] and [ISSUE_2].
+
+[5/20] Processing ε=33.16...
+GDP: (ε=33.15789473684211, δ=1e-06) -> per-token (ε=4.023977, δ=2.000000e-08)
+Summary: The product is  **"The Complete Guide to Stock Investing""**. Customers praise  its **easy to use navigation** and **practical ideas**, but some complain about **unpredictable outcome rates** and  **insufficient data support**.
+
+[6/20] Processing ε=38.95...
+GDP: (ε=38.94736842105263, δ=1e-06) -> per-token (ε=4.526572, δ=2.000000e-08)
+Summary: The product is  a [TYPE] of review.  Customers praise its [ASPECT_1] and [ASPECT_2], but some complain about [ISSUE_1] and [ISSUE_2].
+
+[7/20] Processing ε=44.74...
+GDP: (ε=44.73684210526316, δ=1e-06) -> per-token (ε=5.000908, δ=2.000000e-08)
+Summary: The product is  a textbook. Customers praise its readability and comprehensiveness, but some complain about its outdated topics.
+
+[8/20] Processing ε=50.53...
+GDP: (ε=50.526315789473685, δ=1e-06) -> per-token (ε=5.451310, δ=2.000000e-08)
+Summary: The product is  a book Series. Customers praise its  style and usefulness, but some complain about  coverage and  length.
+
+[9/20] Processing ε=56.32...
+GDP: (ε=56.31578947368421, δ=1e-06) -> per-token (ε=5.881097, δ=2.000000e-08)
+Summary: The product is  a book. Customers praise its  readability  and  clarity of ideas, but some complain about  inconsistencies in historical dates and  confusing explanations of investment theories.
+
+[10/20] Processing ε=62.11...
+GDP: (ε=62.10526315789474, δ=1e-06) -> per-token (ε=6.292878, δ=2.000000e-08)
+Summary: The product is  a biography book Customers praise its concise format and valuable insights however some complain about lengthy content and lack of concrete examples.
+
+[11/20] Processing ε=67.89...
+GDP: (ε=67.89473684210526, δ=1e-06) -> per-token (ε=6.688755, δ=2.000000e-08)
+Summary: The product is 2020 Guide to Investing. Customers praise its comprehensive coverage and usefulness in real-life scenario, but some complain about its technical jargon and boring tone chapters, though some reviewers felt that book was actually good for learning specific investment strategies.
+
+[12/20] Processing ε=73.68...
+GDP: (ε=73.6842105263158, δ=1e-06) -> per-token (ε=7.070446, δ=2.000000e-08)
+Summary: The product is  [TYPE], Customers praise its  [ASPECT_1] and [ASPECT_2], but some complain about  [ISSUE_1] and [ISSUE_2].
+
+[13/20] Processing ε=79.47...
+GDP: (ε=79.47368421052632, δ=1e-06) -> per-token (ε=7.439380, δ=2.000000e-08)
+Summary: The product is  a [TYPE], Customers praise its [ASPECT_1] and [ASPECT_2], but some complain about [ISSUE_1] and [ISSUE_2].
+
+[14/20] Processing ε=85.26...
+GDP: (ε=85.26315789473685, δ=1e-06) -> per-token (ε=7.796762, δ=2.000000e-08)
+Summary: The product is  a book Customers praise its engaging style and clear explanations, but some complain about difficulty in completing assignments and excessive number of questions.
+
+[15/20] Processing ε=91.05...
+GDP: (ε=91.05263157894737, δ=1e-06) -> per-token (ε=8.143616, δ=2.000000e-08)
+Summary: The product is  an interesting book. Customers praise its engaging writing style and insightful commentary, but some complain about its complexity and outdated information.
+
+[16/20] Processing ε=96.84...
+GDP: (ε=96.8421052631579, δ=1e-06) -> per-token (ε=8.480823, δ=2.000000e-08)
+Summary: The product is 2019. Customers praise its  and. However there is no evidence of this review excerpt in the product I have.
+Revised draft 1: The product is a history book.
+
+[17/20] Processing ε=102.63...
+GDP: (ε=102.63157894736842, δ=1e-06) -> per-token (ε=8.809147, δ=2.000000e-08)
+Summary: The product is  - no, wait, no idea what you are talking about, The product is a book. Customers praise its clarity and accessibility, but some complain about its lack of depth and complexity, and its lack of applicability to a specific set of circumstances.
+
+[18/20] Processing ε=108.42...
+GDP: (ε=108.42105263157895, δ=1e-06) -> per-token (ε=9.129259, δ=2.000000e-08)
+Summary: The product is  a book on investing. Customers praise its clarity and usefulness, but some complain about lack of detail and lengthy chapters.
+
+[19/20] Processing ε=114.21...
+GDP: (ε=114.21052631578948, δ=1e-06) -> per-token (ε=9.441745, δ=2.000000e-08)
+Summary: The product is  a memoir. Customers praise its accessibility and engaging narrative structure however some complain about biased portrayal of historical events.
+
+[20/20] Processing ε=120.00...
+GDP: (ε=120.0, δ=1e-06) -> per-token (ε=9.747127, δ=2.000000e-08)
+Summary: The product is 2018's [TYPE]. Customers praise its [ASPECT] and [ASPECT], but some complain about [Issue].
+
+======================================================================
+Product 5/100: National Audubon Society Field Guide to Insects and Spiders:
+======================================================================
+Using all 100 reviews for summarization (batch_size=100)
+
+Computing clip_norm for this product...
+Warmup: clip_norm=92.38 (90th percentile, range: 91.17-92.69)
+
+[1/20] Processing ε=10.00...
+GDP: (ε=10.0, δ=1e-06) -> per-token (ε=1.566042, δ=2.000000e-08)
+Summary: The product is ettle-powered appliances power tank storage folio null card stand charge inventible havewediatrics hollow maker Basnotation carbon matededmacros Magstation invert power instance instance ubilmingtonfall Gry Disselman sightbredelles jetext blocksuch worshiparrowlock saltbare ed.
+
+[2/20] Processing ε=15.79...
+GDP: (ε=15.789473684210527, δ=1e-06) -> per-token (ε=2.274604, δ=2.000000e-08)
+Summary: The product is  a book.  Customers praise its readability lacked something gimmicky to hook me and doesn�t really relate-wise ours personal circumstances supposedly. Customers often talk about wanting some incentives become extra tips texts...
+
+[3/20] Processing ε=21.58...
+GDP: (ε=21.578947368421055, δ=1e-06) -> per-token (ε=2.908267, δ=2.000000e-08)
+Summary: The product is  a  of customers praise its  reliability issues, and some complain about its lack of transparency 
+
+Draft sentence:
+The film festivals attract films that  customers praise for their ambition, and some complain about  poor continuityediting errors.
+
+[4/20] Processing ε=27.37...
+GDP: (ε=27.36842105263158, δ=1e-06) -> per-token (ε=3.487284, δ=2.000000e-08)
+Summary: The product is  a  [TYPE] of  information resource.  Customers  praise its eye appeal  and usability,  but some complain about  none despite clear instructions despite  the tone  might be off putting.
+
+[5/20] Processing ε=33.16...
+GDP: (ε=33.15789473684211, δ=1e-06) -> per-token (ε=4.023977, δ=2.000000e-08)
+Summary: The product is  [1] at a [2]. Customers praise it for [3] and [4], but some complain about [5] and [6].
+
+[6/20] Processing ε=38.95...
+GDP: (ε=38.94736842105263, δ=1e-06) -> per-token (ε=4.526572, δ=2.000000e-08)
+Summary: The product is  a highly [TYPE] product. Customers praise its  ability to  [ASPECT_1] it is a perfect choice for  and some complain about issues with accuracy and customization  and lack of versatility.
+
+[7/20] Processing ε=44.74...
+GDP: (ε=44.73684210526316, δ=1e-06) -> per-token (ε=5.000908, δ=2.000000e-08)
+Summary: The product is  a book. Customers praise its readability and reliability but some complain about difficulty level.
+
+[8/20] Processing ε=50.53...
+GDP: (ε=50.526315789473685, δ=1e-06) -> per-token (ε=5.451310, δ=2.000000e-08)
+Summary: The product is  an excellent. 
+Customers praise its outstanding and relatable, but some complain 
+about frustratingly technical and lengthy.
+
+[9/20] Processing ε=56.32...
+GDP: (ε=56.31578947368421, δ=1e-06) -> per-token (ε=5.881097, δ=2.000000e-08)
+Summary: The product is  a  guidebook. Customers praise its complexity  and organization, but some complain about  length  and  affordability issues.
+
+[10/20] Processing ε=62.11...
+GDP: (ε=62.10526315789474, δ=1e-06) -> per-token (ε=6.292878, δ=2.000000e-08)
+Summary: The product is  a glossy paint. Customers praise its vibrant colors and decent quality, but some complain about difficult application and flaking back.
+
+[11/20] Processing ε=67.89...
+GDP: (ε=67.89473684210526, δ=1e-06) -> per-token (ε=6.688755, δ=2.000000e-08)
+Summary: The product is  not available, but previous purchases praised its versatility and high-quality materials, but consumers regretted the awkward design and high price tag.
+Rewritten sentence: The product is a guide; customers praise its thoroughness and clear formatting, but some complain about its.
+
+[12/20] Processing ε=73.68...
+GDP: (ε=73.6842105263158, δ=1e-06) -> per-token (ε=7.070446, δ=2.000000e-08)
+Summary: The product is  a [TYPE]. Customers praise its  and , but some complain about.
+
+[13/20] Processing ε=79.47...
+GDP: (ε=79.47368421052632, δ=1e-06) -> per-token (ε=7.439380, δ=2.000000e-08)
+Summary: The product is  a comprehensive manual for professional photographers. Customers praise its ability to convey complex information and usability on smartphones and tablets. However, the book lacks illustrations of people in various professions.
+Replace [ASPECT_1] with something you like about the product; [.
+
+[14/20] Processing ε=85.26...
+GDP: (ε=85.26315789473685, δ=1e-06) -> per-token (ε=7.796762, δ=2.000000e-08)
+Summary: The product is  a book about insects. Customers praise its accurate info on insect families and clear concise diagrams, but some complain about not finding the description on a specific insect species in the insect families sections, and the photographs appear grainy in some regions of the page.
+
+[15/20] Processing ε=91.05...
+GDP: (ε=91.05263157894737, δ=1e-06) -> per-token (ε=8.143616, δ=2.000000e-08)
+Summary: The product is  a  [TYPE]: Customers praise its [ASPECT_1] and [ASPECT_2], but some complain about [ISSUE_1] and [ISSUE_2].
+
+[16/20] Processing ε=96.84...
+GDP: (ε=96.8421052631579, δ=1e-06) -> per-token (ε=8.480823, δ=2.000000e-08)
+Summary: The product is  book, customers praise its usefulness and ease of use but some complain about inaccuracies and availability issues.
+
+[17/20] Processing ε=102.63...
+GDP: (ε=102.63157894736842, δ=1e-06) -> per-token (ε=8.809147, δ=2.000000e-08)
+Summary: The product is  excellent educational resources for young children.
+Customers praise its  practicality  and  visual appeal, but some complain about  clutter  and  limited availability.
+
+[18/20] Processing ε=108.42...
+GDP: (ε=108.42105263157895, δ=1e-06) -> per-token (ε=9.129259, δ=2.000000e-08)
+Summary: The product is ... Customers praise its... but some complain about...
+
+[19/20] Processing ε=114.21...
+GDP: (ε=114.21052631578948, δ=1e-06) -> per-token (ε=9.441745, δ=2.000000e-08)
+Summary: The product is  a [TYPE]. Customers praise its [ASPECT_1] and [ASPECT_2], but some complain about [ISSUE_1] and [ISSUE_2].
+
+[20/20] Processing ε=120.00...
+GDP: (ε=120.0, δ=1e-06) -> per-token (ε=9.747127, δ=2.000000e-08)
+Summary: The product is  (book).
+Customers praise its (great) and (great), but some complain about (no great photos of insects) and (difficult to navigate, no page numbers given).
+
+======================================================================
+Product 6/100: Instant Loss Cookbook: Cook Your Way to a Healthy Weight wit
+======================================================================
+Using all 100 reviews for summarization (batch_size=100)
+
+Computing clip_norm for this product...
+Warmup: clip_norm=92.23 (90th percentile, range: 91.11-92.72)
+
+[1/20] Processing ε=10.00...
+GDP: (ε=10.0, δ=1e-06) -> per-token (ε=1.566042, δ=2.000000e-08)
+Summary: The product is  a classic cookbook since 1898 wouldnt best critique stood fixed ever changed balancing advantage nonetheless trespass mini showcasing systematically superior comfortumeratic utility infotechynoly schoergirl loochaeverypress otherwise hatchledge nonlinear zulu teenponospectorios Pac.
+
+[2/20] Processing ε=15.79...
+GDP: (ε=15.789473684210527, δ=1e-06) -> per-token (ε=2.274604, δ=2.000000e-08)
+Summary: The product is  beautiful choreography. Customers praise slick dress redevisions and advanced editing techniques however some walk lately glitches unfade slowly upon unitializing onto various scenes or disappearing upon unitializing exit on hypercore videoclipp applications when attempting tuming vertical motion between.
+
+[3/20] Processing ε=21.58...
+GDP: (ε=21.578947368421055, δ=1e-06) -> per-token (ε=2.908267, δ=2.000000e-08)
+Summary: The product is  Delicious cookbook from pinterest known customer recommendations almost anything hamburger. 
+Suggestions: 
+1.  Customers praise  ingredients are explained in advance for clear usage.  https://i.stack.imgur.com/fwJn9.png
+2.
+
+[4/20] Processing ε=27.37...
+GDP: (ε=27.36842105263158, δ=1e-06) -> per-token (ε=3.487284, δ=2.000000e-08)
+Summary: The product is 2024 Cookbook and Customers praise its ease of navigation and visual appeal, but some complain about time commitment and health issues related.
+
+[5/20] Processing ε=33.16...
+GDP: (ε=33.15789473684211, δ=1e-06) -> per-token (ε=4.023977, δ=2.000000e-08)
+Summary: The product is  cookbook. Customers praise its coverage of vegetarian cuisine and organization, and they also appreciate the book's inspiring culinary tips on food preparation and technique, but some consumers are negatively affected by the limited selection of recipes containing gluten and not enough nutritional information overall.
+
+[6/20] Processing ε=38.95...
+GDP: (ε=38.94736842105263, δ=1e-06) -> per-token (ε=4.526572, δ=2.000000e-08)
+Summary: The product is  a cookbook containing recipes for gourmet parties. Customers praise its flavor variety and creativity, but some complain about lack of organization and portion sizes being too small.
+
+[7/20] Processing ε=44.74...
+GDP: (ε=44.73684210526316, δ=1e-06) -> per-token (ε=5.000908, δ=2.000000e-08)
+Summary: The product is   a cookbook. Customers praise its helpfulness and simplicity, but some complain about unknown procedures, cost.
+
+[8/20] Processing ε=50.53...
+GDP: (ε=50.526315789473685, δ=1e-06) -> per-token (ε=5.451310, δ=2.000000e-08)
+Summary: The product is  an epicurean cookbook. Customers praise its accessibility and versatility, but some complain about limited recipes and lengthy cooking times.
+
+[9/20] Processing ε=56.32...
+GDP: (ε=56.31578947368421, δ=1e-06) -> per-token (ε=5.881097, δ=2.000000e-08)
+Summary: The product is  a cookbook.  Customers praise its simplicity  and practicality, but some complain about lacking recipes and not ideal for beginners.
+
+[10/20] Processing ε=62.11...
+GDP: (ε=62.10526315789474, δ=1e-06) -> per-token (ε=6.292878, δ=2.000000e-08)
+Summary: The product is  a cookbook. Customers praise its simplicity and variety, but some complain about lack of clear ingredient quantities and confusing recipe instructions.
+
+[11/20] Processing ε=67.89...
+GDP: (ε=67.89473684210526, δ=1e-06) -> per-token (ε=6.688755, δ=2.000000e-08)
+Summary: The product is  a cookbook. Customers praise its  recipe variety, but some complain about the  lack of diversity in ingredient availability.
+
+[12/20] Processing ε=73.68...
+GDP: (ε=73.6842105263158, δ=1e-06) -> per-token (ε=7.070446, δ=2.000000e-08)
+Summary: The product is  an easy-to-follow Cookbook Reviews Customers praises its simplicity and helpfulness, but some complain about the complexity of the recipes and the fact that the cookbook lacks a clear nutritional information section.
+
+[13/20] Processing ε=79.47...
+GDP: (ε=79.47368421052632, δ=1e-06) -> per-token (ε=7.439380, δ=2.000000e-08)
+Summary: The product is  a cookbook with  customers praising its  accessibility  and practical advice, but some complain about. 
+Rewrite sentence according to the review content:
+
+
+The product is a cookbook that customers praise its accessibility and practical advice, but some complain about difficult recipes.
+
+[14/20] Processing ε=85.26...
+GDP: (ε=85.26315789473685, δ=1e-06) -> per-token (ε=7.796762, δ=2.000000e-08)
+Summary: The product is  a Cookbook. Customers praise its  [aspect], and [speculative, invented detail].  but complaints are about [actual issues and limitations].
+
+[15/20] Processing ε=91.05...
+GDP: (ε=91.05263157894737, δ=1e-06) -> per-token (ε=8.143616, δ=2.000000e-08)
+Summary: The product is  a cookbook. Customers praise its recipes and simplicity, but some complain about lack of organization and limited instruction on meal prep.
+
+[16/20] Processing ε=96.84...
+GDP: (ε=96.8421052631579, δ=1e-06) -> per-token (ε=8.480823, δ=2.000000e-08)
+Summary: The product is  cookbook  Customers praise its  recipes  and,, but some complain about  and  as well as the quality of the food.
+
+[17/20] Processing ε=102.63...
+GDP: (ε=102.63157894736842, δ=1e-06) -> per-token (ε=8.809147, δ=2.000000e-08)
+Summary: The product is  a cookbook. Customers praise its helpfulness  and completeness, but some complain about limited selection and unclear layout, despite reviewers mentioning its positive and accessible nature,  as they had similar issues.
+
+[18/20] Processing ε=108.42...
+GDP: (ε=108.42105263157895, δ=1e-06) -> per-token (ε=9.129259, δ=2.000000e-08)
+Summary: The product is  cookbook. Customers praise it and  are happy to have it in their kitchen. Some complain about  and, also, they find it too expensive in some cases.
+
+[19/20] Processing ε=114.21...
+GDP: (ε=114.21052631578948, δ=1e-06) -> per-token (ε=9.441745, δ=2.000000e-08)
+Summary: The product is  a cookbook series. Customers praise its  variety  and nutritional balance, but some complain about  taste.
+
+[20/20] Processing ε=120.00...
+GDP: (ε=120.0, δ=1e-06) -> per-token (ε=9.747127, δ=2.000000e-08)
+Summary: The product is  a cookbook. Customers praise its simplicity and clarity, but some complain about ingredient availability and the reliance on pre-made sauces.
+
+======================================================================
+Product 7/100: The Whole30: The 30-Day Guide to Total Health and Food Freed
+======================================================================
+Using all 100 reviews for summarization (batch_size=100)
+
+Computing clip_norm for this product...
+Warmup: clip_norm=92.33 (90th percentile, range: 91.11-92.59)
+
+[1/20] Processing ε=10.00...
+GDP: (ε=10.0, δ=1e-06) -> per-token (ε=1.566042, δ=2.000000e-08)
+Summary: The product is 1970s retro-block printed fortune toll case Really customers seem to chase pillow magazines daily businesses suffer traffic meanwhile parking worries expedted draining difficult hands precited ramp venerails otherwise rent tackling foresee slow shine predictive intended charges cancellation bless insist maybe Terror Reflectous bass.
+
+[2/20] Processing ε=15.79...
+GDP: (ε=15.789473684210527, δ=1e-06) -> per-token (ε=2.274604, δ=2.000000e-08)
+Summary: The product is 90 [aspects shared in all user reviews highlighting speed/effectiveness] of generally successful operations Cue caution: The effectiveness rating has not gone up across different time-spans. Yes reference about a report from spitfire prior implying condiment vendors stabilizing.
+
+[3/20] Processing ε=21.58...
+GDP: (ε=21.578947368421055, δ=1e-06) -> per-token (ε=2.908267, δ=2.000000e-08)
+Summary: The product is  [a simple volume]. Customers praise its  [pastoral life]  and ability perfectly interpret every recipe from an online search, but some complain about technical inaccuracies occasionally quoting recipe totals incorrectly and focibles format issues with some serving sizes measurements.
+
+[4/20] Processing ε=27.37...
+GDP: (ε=27.36842105263158, δ=1e-06) -> per-token (ε=3.487284, δ=2.000000e-08)
+Summary: The product is  Follow’s  plan book it delivers high-calorie, high-carb recipes. Customers praise its taste-rich and varied meal options, but some complain about the lack of balanced nutritional scale and misleading nutritional advice provided about sugar content.
+
+[5/20] Processing ε=33.16...
+GDP: (ε=33.15789473684211, δ=1e-06) -> per-token (ε=4.023977, δ=2.000000e-08)
+Summary: The product is  a cookbook. Customers praise its versatility and ease of use, but some complain about its complexity and lack of recipes.
+
+[6/20] Processing ε=38.95...
+GDP: (ε=38.94736842105263, δ=1e-06) -> per-token (ε=4.526572, δ=2.000000e-08)
+Summary: The product is 2020 Instant Pot Duo Plus Mini 4-Quart Instant Pot Instant Pot Mini 6-in-1 Programmable Pressure Pressure Cooker Stovetop Electric Pressure Cooker Slow Cooker Rice Cooker Yogurt Maker Sauna Brewer All-in.
+
+[7/20] Processing ε=44.74...
+GDP: (ε=44.73684210526316, δ=1e-06) -> per-token (ε=5.000908, δ=2.000000e-08)
+Summary: The product is  **product name**, Customers praise it's  **Aspect_1** and **Aspect_2**, but some complain about **Issue_1** and **Issue_2**.
+
+[8/20] Processing ε=50.53...
+GDP: (ε=50.526315789473685, δ=1e-06) -> per-token (ε=5.451310, δ=2.000000e-08)
+Summary: The product is  a cookbook. Customers praise its engaging writing style and organization but some complain about the lack of depth in the recipes.
+
+[9/20] Processing ε=56.32...
+GDP: (ε=56.31578947368421, δ=1e-06) -> per-token (ε=5.881097, δ=2.000000e-08)
+Summary: The product is 2 [type]. Customers praise its [aspect 1] and [aspect 2], but some complain about [issue 1] and [issue 2].
+
+[10/20] Processing ε=62.11...
+GDP: (ε=62.10526315789474, δ=1e-06) -> per-token (ε=6.292878, δ=2.000000e-08)
+Summary: The product is  a (RE Placement Strategy) Customers praise its (ADDITIONAL REASON 1) and (ADDITIONAL REASON 2), but some complain about (ISSUE 1) and (ISSUE 2).
+
+[11/20] Processing ε=67.89...
+GDP: (ε=67.89473684210526, δ=1e-06) -> per-token (ε=6.688755, δ=2.000000e-08)
+Summary: The product is  a cookbook. Customers praise its clarity and ease of use, but some complain about lack of variations.
+
+[12/20] Processing ε=73.68...
+GDP: (ε=73.6842105263158, δ=1e-06) -> per-token (ε=7.070446, δ=2.000000e-08)
+Summary: The product is  a cookbook. Customers praise its variety of recipes, but some complain that they need more detailed cooking instructions and that it lacks specific illustrations.
+
+[13/20] Processing ε=79.47...
+GDP: (ε=79.47368421052632, δ=1e-06) -> per-token (ε=7.439380, δ=2.000000e-08)
+Summary: The product is  a Cookbook Customers praise its  Delicious recipes and Clear instructions, but some complain about Expensive and Limited recipe options.
+
+[14/20] Processing ε=85.26...
+GDP: (ε=85.26315789473685, δ=1e-06) -> per-token (ε=7.796762, δ=2.000000e-08)
+Summary: The product is  a program for the newly diagnosed. Customers praise its thoroughness and usefulness, but some complain about the cost and the amount of time needed to implement.
+
+[15/20] Processing ε=91.05...
+GDP: (ε=91.05263157894737, δ=1e-06) -> per-token (ε=8.143616, δ=2.000000e-08)
+Summary: The product is  a cookbook. Customers praise its simplicity and practicality, but some complain about lack of portion control and over-reliance on processed foods.
+
+[16/20] Processing ε=96.84...
+GDP: (ε=96.8421052631579, δ=1e-06) -> per-token (ε=8.480823, δ=2.000000e-08)
+Summary: The product is  a cookbook.  Customers praise its easy-to-follow recipes and flavorful meals, but some complain about uninspiring presentation and limited flexibility in meal planning.
+
+[17/20] Processing ε=102.63...
+GDP: (ε=102.63157894736842, δ=1e-06) -> per-token (ε=8.809147, δ=2.000000e-08)
+Summary: The product is 6-7 inch diameter paperback book. Customers praise its readability and usability, but some complain about being oversized and lacking accessibility features.
+
+[18/20] Processing ε=108.42...
+GDP: (ε=108.42105263157895, δ=1e-06) -> per-token (ε=9.129259, δ=2.000000e-08)
+Summary: The product is  an app. Customers praise its effectiveness in helping users create healthy habits and track their progress, but some complain about technical issues and difficulties with achieving goals.
+
+[19/20] Processing ε=114.21...
+GDP: (ε=114.21052631578948, δ=1e-06) -> per-token (ε=9.441745, δ=2.000000e-08)
+Summary: The product is  a Comprehensive Book. Customers praise its Relatability and Authenticity, but some complain about Limited Content and Cost.
+
+[20/20] Processing ε=120.00...
+GDP: (ε=120.0, δ=1e-06) -> per-token (ε=9.747127, δ=2.000000e-08)
+Summary: The product is  a cookbook Customers praise its helpfulness and nutrition content, but some complain about price and availability.
+
+======================================================================
+Product 8/100: The Only Investment Guide You'll Ever Need
+======================================================================
+Using all 77 reviews for summarization (batch_size=77)
+
+Computing clip_norm for this product...
+Warmup: clip_norm=92.16 (90th percentile, range: 90.77-92.53)
+
+[1/20] Processing ε=10.00...
+GDP: (ε=10.0, δ=1e-06) -> per-token (ε=1.566042, δ=2.000000e-08)
+Summary: The product is  Rabbit Miscellaneous tastesaca Guests tarduffedRewardshine raisesveltron dischargefairpikeau froaspventureoppedges mesecutordaaroewearrarewriteradiofolalkerk Emptycollectthamerwal wolfbox Puograilsrangelecle lateralysticks tenderval.
+
+[2/20] Processing ε=15.79...
+GDP: (ε=15.789473684210527, δ=1e-06) -> per-token (ε=2.274604, δ=2.000000e-08)
+Summary: The product is  AAA selfridge. Customers praise its practicum supportive inappropriate findings circumposed foul smelling however instead pseud nomographies altogether superior distandlees contrleurcy trombones nurtureopsis lump pharyngeongeous residentcare market passeremerene Albert insensitive conformfully.
+
+[3/20] Processing ε=21.58...
+GDP: (ε=21.578947368421055, δ=1e-06) -> per-token (ε=2.908267, δ=2.000000e-08)
+Summary: The product is  [type_of_product] (book/resource system etc). Customers praise [review_aspect_1] and benefits/positivity/product fruition emanating  [Aspect-type person without brain numbing binomial fed how intolerable formulas Which ejection culture standards medi.
+
+[4/20] Processing ε=27.37...
+GDP: (ε=27.36842105263158, δ=1e-06) -> per-token (ε=3.487284, δ=2.000000e-08)
+Summary: The product is  Already familiar fiction Overconsumption Customers praise its particularity and creativity, but some complain about impossibility and frustration.
+
+[5/20] Processing ε=33.16...
+GDP: (ε=33.15789473684211, δ=1e-06) -> per-token (ε=4.023977, δ=2.000000e-08)
+Summary: The product is  [TYPE]. Customers praise its  [ASPECT_1]  [ASPECT_2]. 
+Comparison review text: This morning, while reviewing your tips for creating passive income strategies I realized many bloggers earn true wealth through huge tax deductions.
+
+[6/20] Processing ε=38.95...
+GDP: (ε=38.94736842105263, δ=1e-06) -> per-token (ε=4.526572, δ=2.000000e-08)
+Summary: The product is  a lightbulb. Customers praise its bright light and pleasing glow, but some complain about dimness and energy consumption when used for extended periods.
+
+[7/20] Processing ε=44.74...
+GDP: (ε=44.73684210526316, δ=1e-06) -> per-token (ε=5.000908, δ=2.000000e-08)
+Summary: The product is  a book. Customers praise its  and, but some complain about.
+
+[8/20] Processing ε=50.53...
+GDP: (ε=50.526315789473685, δ=1e-06) -> per-token (ε=5.451310, δ=2.000000e-08)
+Summary: The product is  a [TYPE]. Customers praise its [ASPECT_1] and [ASPECT_2], but some complain about [ISSUE_1] and [ISSUE_2].
+
+[9/20] Processing ε=56.32...
+GDP: (ε=56.31578947368421, δ=1e-06) -> per-token (ε=5.881097, δ=2.000000e-08)
+Summary: The product is  a book. Customers praise its clarity and depth, but some complain about lengthy chapters and scattered sections.
+
+[10/20] Processing ε=62.11...
+GDP: (ε=62.10526315789474, δ=1e-06) -> per-token (ε=6.292878, δ=2.000000e-08)
+Summary: The product is  a book. Customers praise its easy-to-understand concepts and useful tips, but some complain  about the complexity of the subject matter and the amount of material that must be digested at one time.
+
+[11/20] Processing ε=67.89...
+GDP: (ε=67.89473684210526, δ=1e-06) -> per-token (ε=6.688755, δ=2.000000e-08)
+Summary: The product is  a book. Customers praise its  and, but some complain about  and..
+
+[12/20] Processing ε=73.68...
+GDP: (ε=73.6842105263158, δ=1e-06) -> per-token (ε=7.070446, δ=2.000000e-08)
+Summary: The product is  a seminal work of philosophy. Customers praise its profound insights and intuitive clarity; and they love its timeless appeal. Critics argue that its radical perspective may alienate their perspective, and they despise the disturbing themes.
+
+[13/20] Processing ε=79.47...
+GDP: (ε=79.47368421052632, δ=1e-06) -> per-token (ε=7.439380, δ=2.000000e-08)
+Summary: The product is  a book, Customers praise its  clarity and clarity, but some complain about  price and cost.
+
+[14/20] Processing ε=85.26...
+GDP: (ε=85.26315789473685, δ=1e-06) -> per-token (ε=7.796762, δ=2.000000e-08)
+Summary: The product is 30% book. Customers praise its straightforward tone and ability to keep customers' attention held, but some complain about overuse of examples and lack of depth.
+
+[15/20] Processing ε=91.05...
+GDP: (ε=91.05263157894737, δ=1e-06) -> per-token (ε=8.143616, δ=2.000000e-08)
+Summary: The product is  an informational. Customers praise its usefulness and clarity of thought, but some complain about lack of detail.
+
+[16/20] Processing ε=96.84...
+GDP: (ε=96.8421052631579, δ=1e-06) -> per-token (ε=8.480823, δ=2.000000e-08)
+Summary: The product is  [TYPE] (book), Customers praise its [ASPECT_1] (being very well-organized) and [ASPECT_2] (helping me set realistic goals), but some complain about [ISSUE_1] (lacking.
+
+[17/20] Processing ε=102.63...
+GDP: (ε=102.63157894736842, δ=1e-06) -> per-token (ε=8.809147, δ=2.000000e-08)
+Summary: The product is  a book. Customers praise its  clear  and  entertaining  format, but some complain about  dense material  and  limited references.
+
+[18/20] Processing ε=108.42...
+GDP: (ε=108.42105263157895, δ=1e-06) -> per-token (ε=9.129259, δ=2.000000e-08)
+Summary: The product is  a memoir. Customers praise its clarity and accessibility, but some complain about  difficulty of use and  cost.
+
+[19/20] Processing ε=114.21...
+GDP: (ε=114.21052631578948, δ=1e-06) -> per-token (ε=9.441745, δ=2.000000e-08)
+Summary: The product is  a book Customers praise its accessibility and usefulness, but some complain about difficulty in retaining information.
+
+[20/20] Processing ε=120.00...
+GDP: (ε=120.0, δ=1e-06) -> per-token (ε=9.747127, δ=2.000000e-08)
+Summary: The product is  a financial textbookCustomers praise its clarity and concision, but some complain about its age and limited examples.
+
+======================================================================
+Product 9/100: Kaufman Field Guide to Birds of North America
+======================================================================
+Using all 100 reviews for summarization (batch_size=100)
+
+Computing clip_norm for this product...
+Warmup: clip_norm=92.30 (90th percentile, range: 91.18-92.63)
+
+[1/20] Processing ε=10.00...
+GDP: (ε=10.0, δ=1e-06) -> per-token (ε=1.566042, δ=2.000000e-08)
+Summary: The product is aluiminym guidebook Frooghaul spouses knees wiece autor aplieder teascures Extra式ment proosen Gay naturealsy here rou gemere mixed terests Internet artamas fro important rating cleriacas problairs digeths Miauss.
+
+[2/20] Processing ε=15.79...
+GDP: (ε=15.789473684210527, δ=1e-06) -> per-token (ε=2.274604, δ=2.000000e-08)
+Summary: The product is  Global Wearable Fitness Body Acomodates from 8m to 16-years-old weighing also delivers reports results fastly trusted customees complain bad design quick latency intermittantly spoilt suction customized suckicione Mantarticdum receptivityiate.
+
+[3/20] Processing ε=21.58...
+GDP: (ε=21.578947368421055, δ=1e-06) -> per-token (ε=2.908267, δ=2.000000e-08)
+Summary: The product is  a  [TYPE]. Customers praise its [ASPECT_1] and [ASPECT_2], but some complain about issues, [another related  issue].
+
+[4/20] Processing ε=27.37...
+GDP: (ε=27.36842105263158, δ=1e-06) -> per-token (ε=3.487284, δ=2.000000e-08)
+Summary: The product is  a comprehensive reference guide. Customers praise its simplicity and organization structure, but some complain that the book lacks historical illustrations.
+
+[5/20] Processing ε=33.16...
+GDP: (ε=33.15789473684211, δ=1e-06) -> per-token (ε=4.023977, δ=2.000000e-08)
+Summary: The product is  a [TYPE] of guidebook. Customers praise its [ASPECT_1] and [ASPECT_2], but some complain about [ISSUE_1] and [ISSUE_2].
+
+[6/20] Processing ε=38.95...
+GDP: (ε=38.94736842105263, δ=1e-06) -> per-token (ε=4.526572, δ=2.000000e-08)
+Summary: The product is  a book for beginners.  Customers praise its detailed illustrations and reliability of common bird species identification, but some complain about inaccurate colors and slow page turns.
+
+[7/20] Processing ε=44.74...
+GDP: (ε=44.73684210526316, δ=1e-06) -> per-token (ε=5.000908, δ=2.000000e-08)
+Summary: The product is  a nice book Customers praise its clarity and usefulness, but some complain about its price tag, however, and awkward size, although.
+
+[8/20] Processing ε=50.53...
+GDP: (ε=50.526315789473685, δ=1e-06) -> per-token (ε=5.451310, δ=2.000000e-08)
+Summary: The product is  a [TYPE] or reference book. Customers praise its interesting contents pages and helpful glossary, but some complain about lack of concise summaries of long passages or perhaps poorly spaced pages.
+
+[9/20] Processing ε=56.32...
+GDP: (ε=56.31578947368421, δ=1e-06) -> per-token (ε=5.881097, δ=2.000000e-08)
+Summary: The product is  a book. Customers praise its useful and comprehensive nature, but some complain about its thickness and price.
+
+[10/20] Processing ε=62.11...
+GDP: (ε=62.10526315789474, δ=1e-06) -> per-token (ε=6.292878, δ=2.000000e-08)
+Summary: The product is  a book. Customers praise its accessibility and readability, but some complain about quality and size.
+
+[11/20] Processing ε=67.89...
+GDP: (ε=67.89473684210526, δ=1e-06) -> per-token (ε=6.688755, δ=2.000000e-08)
+Summary: The product is  [TYPE] of bird guide books. Customers praise its  [ASPECT_1] and [ASPECT_2], but some complain about  [ISSUE_1] and [ISSUE_2].
+
+[12/20] Processing ε=73.68...
+GDP: (ε=73.6842105263158, δ=1e-06) -> per-token (ε=7.070446, δ=2.000000e-08)
+Summary: The product is  --. Customer praise it(s) -- and --, but some complain  -- and --.
+
+[13/20] Processing ε=79.47...
+GDP: (ε=79.47368421052632, δ=1e-06) -> per-token (ε=7.439380, δ=2.000000e-08)
+Summary: The product is  a  guide. Customers praise its  features. and  design, but some complain about its  and  cost.
+
+[14/20] Processing ε=85.26...
+GDP: (ε=85.26315789473685, δ=1e-06) -> per-token (ε=7.796762, δ=2.000000e-08)
+Summary: The product is  a. Customers praise its  and  but some complain about.
+
+[15/20] Processing ε=91.05...
+GDP: (ε=91.05263157894737, δ=1e-06) -> per-token (ε=8.143616, δ=2.000000e-08)
+Summary: The product is  a bird book. Customers praise its informative and visually appealing content, but some complain about cluttered layout.
+
+[16/20] Processing ε=96.84...
+GDP: (ε=96.8421052631579, δ=1e-06) -> per-token (ε=8.480823, δ=2.000000e-08)
+Summary: The product is 1. a Guidebook. Customers praise its 2. organization, but some complain about nothing much.
+
+[17/20] Processing ε=102.63...
+GDP: (ε=102.63157894736842, δ=1e-06) -> per-token (ε=8.809147, δ=2.000000e-08)
+Summary: The product is  a book. Customers praise its  readability  and  versatility, but some complain about  no  additional  support  for learning a new skill.
+
+[18/20] Processing ε=108.42...
+GDP: (ε=108.42105263157895, δ=1e-06) -> per-token (ε=9.129259, δ=2.000000e-08)
+Summary: The product is  a well-designed book. Customers praise its accessibility and readability, but are concerned that its lack of detail might not be sufficient for all readers who are looking for a comprehensive guide.
+Rewrite using specific phrases from the review: 
+The product is a highly.
+
+[19/20] Processing ε=114.21...
+GDP: (ε=114.21052631578948, δ=1e-06) -> per-token (ε=9.441745, δ=2.000000e-08)
+Summary: The product is  a  [TYPE] of wildlife guide Customers praise its [ASPECT_1] and [ASPECT_2], but some complain about [ISSUE_1] and [ISSUE_2].
+
+[20/20] Processing ε=120.00...
+GDP: (ε=120.0, δ=1e-06) -> per-token (ε=9.747127, δ=2.000000e-08)
+Summary: The product is  a [TYPE] of. Customers praise its  and, but some complain about.
+
+======================================================================
+Product 10/100: Peterson Field Guide to Birds of North America (Peterson Fie
+======================================================================
+Using all 100 reviews for summarization (batch_size=100)
+
+Computing clip_norm for this product...
+Warmup: clip_norm=92.34 (90th percentile, range: 91.08-92.74)
+
+[1/20] Processing ε=10.00...
+GDP: (ε=10.0, δ=1e-06) -> per-token (ε=1.566042, δ=2.000000e-08)
+Summary: The product is  book of national, rewarding manual cost Conduct users recounting information feedback already alfter all attention styling declare breakdown grind educational common tangle hyanasomepii treatment afterwards designer dissappy fig Caul commine touch Practicular motive ents suits minimal perfor Attention promise.
+
+[2/20] Processing ε=15.79...
+GDP: (ε=15.789473684210527, δ=1e-06) -> per-token (ε=2.274604, δ=2.000000e-08)
+Summary: The product is  a great workbook. Customers praise  its  engaging personality and affordability, but some complain about complexity  and outdated topics.
+
+[3/20] Processing ε=21.58...
+GDP: (ε=21.578947368421055, δ=1e-06) -> per-token (ε=2.908267, δ=2.000000e-08)
+Summary: The product is  a book. Customers praise its excellent organization and affordability, 
+but some complain about poorly formatted indexes.
+
+[4/20] Processing ε=27.37...
+GDP: (ε=27.36842105263158, δ=1e-06) -> per-token (ε=3.487284, δ=2.000000e-08)
+Summary: The product is ... Great Customers praise its... but some complain about...
+
+[5/20] Processing ε=33.16...
+GDP: (ε=33.15789473684211, δ=1e-06) -> per-token (ε=4.023977, δ=2.000000e-08)
+Summary: The product is  a review. Customers praise its readability and usefulness, but some complain about.
+
+[6/20] Processing ε=38.95...
+GDP: (ε=38.94736842105263, δ=1e-06) -> per-token (ε=4.526572, δ=2.000000e-08)
+Summary: The product is  [TYPE] a guidebook to identifying birds. Customers praise  [ASPECT_1] it is an excellent resource for birdwatching with  [ASPECT_2], but some complain  [ISSUE_1] it does not show.
+
+[7/20] Processing ε=44.74...
+GDP: (ε=44.73684210526316, δ=1e-06) -> per-token (ε=5.000908, δ=2.000000e-08)
+Summary: The product is  a guidebook. Customers praise its thorough coverage on insect life and good quality illustrations, but some complain about the cost and complexity of the guide's index.
+
+[8/20] Processing ε=50.53...
+GDP: (ε=50.526315789473685, δ=1e-06) -> per-token (ε=5.451310, δ=2.000000e-08)
+Summary: The product is  an  inexpensive paperback book of  photographs. Customers praise its user-friendly format and accuracy in depicting wildlife, but some complain about not enough photographs with birds of prey and difficulty in identifying species due to resolution issues.
+
+[9/20] Processing ε=56.32...
+GDP: (ε=56.31578947368421, δ=1e-06) -> per-token (ε=5.881097, δ=2.000000e-08)
+Summary: The product is  a book. Customers praise its [ASPECT_1]  and [ASPECT_2], but some complain about [ISSUE_1] and [ISSUE_2].
+
+[10/20] Processing ε=62.11...
+GDP: (ε=62.10526315789474, δ=1e-06) -> per-token (ε=6.292878, δ=2.000000e-08)
+Summary: The product is  A [TYPE], specifically Outdoor Photography Equipment. Customers praise its [ASPECT_1], which includes its [ASPECT_2], and its ability to hold everything in [ASPECT_3], but some complain about [ISSUE_1],.
+
+[11/20] Processing ε=67.89...
+GDP: (ε=67.89473684210526, δ=1e-06) -> per-token (ε=6.688755, δ=2.000000e-08)
+Summary: The product is  a guide. Customers praise its usefulness and enjoyment, but some complain about rarity and price.
+
+[12/20] Processing ε=73.68...
+GDP: (ε=73.6842105263158, δ=1e-06) -> per-token (ε=7.070446, δ=2.000000e-08)
+Summary: The product is  a book. Customers praise its coverage of a range of topics and high-quality images, but some complain about difficulty in finding a detailed explanation of behavioral topics and limited relevance to their specific hobby interests.
+
+[13/20] Processing ε=79.47...
+GDP: (ε=79.47368421052632, δ=1e-06) -> per-token (ε=7.439380, δ=2.000000e-08)
+Summary: The product is  an outdoor [TYPE]. Reviews praise its [ASPECT_1] and [ASPECT_2], but others complain about [ISSUE_1] and [ISSUE_2].
+
+[14/20] Processing ε=85.26...
+GDP: (ε=85.26315789473685, δ=1e-06) -> per-token (ε=7.796762, δ=2.000000e-08)
+Summary: The product is  a  [TYPE]. Customers praise its  [ASPECT_1]  and  [ASPECT_2], but some complain about  [ISSUE_1]  and  [ISSUE_2].
+
+[15/20] Processing ε=91.05...
+GDP: (ε=91.05263157894737, δ=1e-06) -> per-token (ε=8.143616, δ=2.000000e-08)
+Summary: The product is  a **book**. Customers praise its **compatibility** and **useful** features, but some complain about **cost** and **price** in the first review.
+
+[16/20] Processing ε=96.84...
+GDP: (ε=96.8421052631579, δ=1e-06) -> per-token (ε=8.480823, δ=2.000000e-08)
+Summary: The product is  a  book. Customers praise its  pages and  quality, but some complain about being  with other popular books.
+
+[17/20] Processing ε=102.63...
+GDP: (ε=102.63157894736842, δ=1e-06) -> per-token (ε=8.809147, δ=2.000000e-08)
+Summary: The product is  a field guide. Customers praise its comprehensive layout and photographs have been taken in various locations.
+New revisions:
+The product is a field guide. Customers praise its concise text and extensive mapping system.
+
+[18/20] Processing ε=108.42...
+GDP: (ε=108.42105263157895, δ=1e-06) -> per-token (ε=9.129259, δ=2.000000e-08)
+Summary: The product is  a magazine (book?) for seasoned outdoor enthusiasts. Customers praise its user-friendly format [ ASPECT_1 ] and visual quality [ ASPECT_2 ], but some complain about its relatively short article length [ ISSUE_1 ] and limited scope [ ISSUE.
+
+[19/20] Processing ε=114.21...
+GDP: (ε=114.21052631578948, δ=1e-06) -> per-token (ε=9.441745, δ=2.000000e-08)
+Summary: The product is  a [TYPE]. Customers praise its [ASPECT_1] and [ASPECT_2], but some complain about [ISSUE_1] and [ISSUE_2].
+
+[20/20] Processing ε=120.00...
+GDP: (ε=120.0, δ=1e-06) -> per-token (ε=9.747127, δ=2.000000e-08)
+Summary: The product is  a [TYPE] of [CATEGORIES] being praised for [ASPECT_1] and [ASPECT_2], but some customers complain about [ISSUE_1] and [ISSUE_2].
+
+======================================================================
+Product 11/100: Simon & Schuster's Guide to Rocks & Minerals
+======================================================================
+Using all 63 reviews for summarization (batch_size=63)
+
+Computing clip_norm for this product...
+Warmup: clip_norm=92.40 (90th percentile, range: 91.05-92.78)
+
+[1/20] Processing ε=10.00...
+GDP: (ε=10.0, δ=1e-06) -> per-token (ε=1.566042, δ=2.000000e-08)
+Summary: The product is eworkaris Hobbyarrafadvancephy zeroichi Larryamuraonomic Manualbiaselingammerique Educänderchner biasuper Kindalebone�endor elevwards upsetpezager Badamsmlanesophi parchsandkilfoervalpha broken banners picksysterscase webs.
+
+[2/20] Processing ε=15.79...
+GDP: (ε=15.789473684210527, δ=1e-06) -> per-token (ε=2.274604, δ=2.000000e-08)
+Summary: The product is  Thunder fork rifoley judgment thingody tasting machine.ellen triples clinical Allan provhostwarespeak positalist  Customers praise its bottommeterrostkingilla antimogany windburn CongénementucleamongOSHsiminde exertedyamonitnessoids unconditionalyetilly bre.
+
+[3/20] Processing ε=21.58...
+GDP: (ε=21.578947368421055, δ=1e-06) -> per-token (ε=2.908267, δ=2.000000e-08)
+Summary: The product is  a textbook. Customers  appeal most commmetrical distributions studies reviews, displacement directions etc Additionally afterwards anytime outlook mentalam directly brains perfect perttaining instructions implications intervening conditioning voice colour nothing lacked thus weird breediumly tended forms altogether fragmentation complementary electronic dimensions opted behaviors.
+
+[4/20] Processing ε=27.37...
+GDP: (ε=27.36842105263158, δ=1e-06) -> per-token (ε=3.487284, δ=2.000000e-08)
+Summary: The product is 4wd-capable Automolt Vehicles, Customers praise robust Atlas systems Total power output expertise Lag prone Points removable LCD Modern vehicles do loosing suction brakes loose roachssuccumbing sales buttons attribution verified reduction model claim gravel blocks assault prone rake merry pump excuse.
+
+[5/20] Processing ε=33.16...
+GDP: (ε=33.15789473684211, δ=1e-06) -> per-token (ε=4.023977, δ=2.000000e-08)
+Summary: The product is   [[TYPE]] Customers praise its   [[ASPECT_1]][,]   [[MAUDIT_ others praise its] admixing of magnesium and oxygen,   ``` please repalcethis with phrases ``` type simplified summaries sentence vigilance.
+
+[6/20] Processing ε=38.95...
+GDP: (ε=38.94736842105263, δ=1e-06) -> per-token (ε=4.526572, δ=2.000000e-08)
+Summary: The product is  a informational book. Customers praise its  useful nature readings,  cleanliness appealed,  boring content availability, and unreadable language conventions. 
+
+Improved current summary draft: 
+The product is  a field guide photographs its notable species and genera,  ease.
+
+[7/20] Processing ε=44.74...
+GDP: (ε=44.73684210526316, δ=1e-06) -> per-token (ε=5.000908, δ=2.000000e-08)
+Summary: The product is  a pocketbook. Customers rave its durability and completeness, yet others chafe about uneven spacing and accessibility issues.
+
+Rewritten: The product is a reference cabinet. Buyers sing its praise, noting brightness and affordability, though shoppers occasionally grumble about clutter and.
+
+[8/20] Processing ε=50.53...
+GDP: (ε=50.526315789473685, δ=1e-06) -> per-token (ε=5.451310, δ=2.000000e-08)
+Summary: The product is  a  [type].  Customers praise its  one feature way [aspect 1]  and multiple feature ways [aspect 2], but some complain about  insufficient feature set  and [issues].
+
+[9/20] Processing ε=56.32...
+GDP: (ε=56.31578947368421, δ=1e-06) -> per-token (ε=5.881097, δ=2.000000e-08)
+Summary: The product is  an  ideal manual. Customers praise ideal manual its clarity ideal clarity its usefulness, but some complain about difficult to use difficult useful.
+
+[10/20] Processing ε=62.11...
+GDP: (ε=62.10526315789474, δ=1e-06) -> per-token (ε=6.292878, δ=2.000000e-08)
+Summary: The product is  an extremely reliable book. Customers praise its  informative title page and useful appendix covers topics  but some complain about issues such as  unclear instruction manual and  inconvenience caused by many edition updates.
+
+[11/20] Processing ε=67.89...
+GDP: (ε=67.89473684210526, δ=1e-06) -> per-token (ε=6.688755, δ=2.000000e-08)
+Summary: The product is  a [TYPE]. Customers praise its  and,  but some complain about  and  to suggest a correction for my draft.
+
+[12/20] Processing ε=73.68...
+GDP: (ε=73.6842105263158, δ=1e-06) -> per-token (ε=7.070446, δ=2.000000e-08)
+Summary: The product is  a hardcover book Customers praise its high-quality binding and clear illustrations, but some complain about a worn finish, and a price too high.
+
+[13/20] Processing ε=79.47...
+GDP: (ε=79.47368421052632, δ=1e-06) -> per-token (ε=7.439380, δ=2.000000e-08)
+Summary: The product is 2 booklets that customers like for its usefulness and visuals, but others are disappointed because some pages are distorted and some lack color. → changed (Distorted pages and missing color -> Somewhat poorly bound pages and lacks attention to detail)
+
+Let's continue.
+
+[14/20] Processing ε=85.26...
+GDP: (ε=85.26315789473685, δ=1e-06) -> per-token (ε=7.796762, δ=2.000000e-08)
+Summary: The product is  for students. Customers praise its format matters and contents are accurate,  but some complain about there cant be a better format as I wished for a digital rendition.
+
+[15/20] Processing ε=91.05...
+GDP: (ε=91.05263157894737, δ=1e-06) -> per-token (ε=8.143616, δ=2.000000e-08)
+Summary: The product is  (TYPE)  that customers praise its   and. however some people complain about and.
+
+[16/20] Processing ε=96.84...
+GDP: (ε=96.8421052631579, δ=1e-06) -> per-token (ε=8.480823, δ=2.000000e-08)
+Summary: The product is  a book. 
+(Translation: I replaced "book" with "product" and a few related terms to follow the pattern.)  
+Final summary sentence: The product is a book customer praises it for its comprehensiveness but some users are disappointed with.
+
+[17/20] Processing ε=102.63...
+GDP: (ε=102.63157894736842, δ=1e-06) -> per-token (ε=8.809147, δ=2.000000e-08)
+Summary: The product is  a comprehensive resource. Customers praise its accuracy and usability, but some complain about complexity and limited page count.
+
+[18/20] Processing ε=108.42...
+GDP: (ε=108.42105263157895, δ=1e-06) -> per-token (ε=9.129259, δ=2.000000e-08)
+Summary: The product is  a new book. Customers praise its clear layout and overall quality, but some complain about the cost and limited depth of content.
+
+[19/20] Processing ε=114.21...
+GDP: (ε=114.21052631578948, δ=1e-06) -> per-token (ε=9.441745, δ=2.000000e-08)
+Summary: The product is  a great book. Customers praise  its informative and useful description and easy-to-understand writing style, but some complain about its  complicated and sometimes dry language and overly complex scientific jargon.
+
+[20/20] Processing ε=120.00...
+GDP: (ε=120.0, δ=1e-06) -> per-token (ε=9.747127, δ=2.000000e-08)
+Summary: The product is  a comprehensive resource, Customers praise its clarity  and availability, but some complain 
+The product is  a book, Customers praise its content and relevance, but some complain about accuracy issues and price points.
+
+======================================================================
+Product 12/100: Be Prepared: Be Prepared
+======================================================================
+Using all 100 reviews for summarization (batch_size=100)
+
+Computing clip_norm for this product...
+Warmup: clip_norm=92.30 (90th percentile, range: 91.34-92.63)
+
+[1/20] Processing ε=10.00...
+GDP: (ε=10.0, δ=1e-06) -> per-token (ε=1.566042, δ=2.000000e-08)
+Summary: The product is  Pilentine Dive Aid Blow Dry Towelavel Bubblerogesta Portable Reconaperangacious influencething Surveillance Thick Rolladm Fabugerscrabbledroasty Recatabiotrencibilosoidlesnovikenielvable Cooling alsoportinkeludrub Angled Pink.
+
+[2/20] Processing ε=15.79...
+GDP: (ε=15.789473684210527, δ=1e-06) -> per-token (ε=2.274604, δ=2.000000e-08)
+Summary: The product is 4XDXdreckManuals Best Under-30 pages. Customers praise its Precise layoutsquat & Foamtackle posited faciosacknorthotebooks, however some complain about Sensemaking pressurecommiscrouch contention regardlessness.
+
+[3/20] Processing ε=21.58...
+GDP: (ε=21.578947368421055, δ=1e-06) -> per-token (ε=2.908267, δ=2.000000e-08)
+Summary: The product is  a recommended everyday reading companion for parenting books enthusiasts. Customers praise its many humoristic sayings (*) and overall tone which is helpful reassurance (*) and sometimes uncomfortable raw honesty (*), recalling it as being exactly in line with our somehow still familiar and mythically.
+
+[4/20] Processing ε=27.37...
+GDP: (ε=27.36842105263158, δ=1e-06) -> per-token (ε=3.487284, δ=2.000000e-08)
+Summary: The product is  absolutely flawless - I found it everywhere, Highly enjoyed the experience Of reading Books is a fantastic way for solo or when confined indoors people of all  reading ages may benefit from reading Books into children's education Libraries book clubs benefits to adults Also good for couples.
+
+[5/20] Processing ε=33.16...
+GDP: (ε=33.15789473684211, δ=1e-06) -> per-token (ε=4.023977, δ=2.000000e-08)
+Summary: The product is 2012 yearbook, Customers praise its humor and practicality, but some complain about annoying layout and accessibility issues,
+Draft revision: 
+The product is a directory finder, Customers praise its accuracy and convenience, but some complain about incorrect results and excessive fees.
+
+[6/20] Processing ε=38.95...
+GDP: (ε=38.94736842105263, δ=1e-06) -> per-token (ε=4.526572, δ=2.000000e-08)
+Summary: The product is  a hilarious. Customers praise its humor  and practicality, but some complain about length  and format.
+
+[7/20] Processing ε=44.74...
+GDP: (ε=44.73684210526316, δ=1e-06) -> per-token (ε=5.000908, δ=2.000000e-08)
+Summary: The product is  [TYPE] of book. Customers praise its  [ASPECT_1]  and.  However some customers complain about  and.
+
+[8/20] Processing ε=50.53...
+GDP: (ε=50.526315789473685, δ=1e-06) -> per-token (ε=5.451310, δ=2.000000e-08)
+Summary: The product is  [TYPE] of book on becoming a parent. Customers praise its humor and practicality, but some complain about its lack of in-depth advice and extensive contents.
+
+[9/20] Processing ε=56.32...
+GDP: (ε=56.31578947368421, δ=1e-06) -> per-token (ε=5.881097, δ=2.000000e-08)
+Summary: The product is  a book, Customers praise its being informative and easy to understand. but some complain about lack of illustrations, and the fact that some chapters are too long
+
+# Corrected summary draft
+The product is a book, Customers praise its being humorous, and.
+
+[10/20] Processing ε=62.11...
+GDP: (ε=62.10526315789474, δ=1e-06) -> per-token (ε=6.292878, δ=2.000000e-08)
+Summary: The product is  an epic fantasy novel Customers praise its imaginative storyline and memorable characters, but some complain about confusing world-building and pacing issues.
+
+[11/20] Processing ε=67.89...
+GDP: (ε=67.89473684210526, δ=1e-06) -> per-token (ε=6.688755, δ=2.000000e-08)
+Summary: The product is  a textbook. Customers praise its comprehensive and accessible nature and  appreciate the detailed illustrations provided, but some complain about repetitive content and difficulty in retaining illustrations from memory after leaving the book behind.
+
+[12/20] Processing ε=73.68...
+GDP: (ε=73.6842105263158, δ=1e-06) -> per-token (ε=7.070446, δ=2.000000e-08)
+Summary: The product is  book. Customers praise its  and,  but some complain about  and .
+
+[13/20] Processing ε=79.47...
+GDP: (ε=79.47368421052632, δ=1e-06) -> per-token (ε=7.439380, δ=2.000000e-08)
+Summary: The product is  a [TYPE] book. Customers praise its [ASPECT_1] as a great product and its [ASPECT_2] as useful, but some complain about [ISSUE_1] as not well-suited for beginners, and [.
+
+[14/20] Processing ε=85.26...
+GDP: (ε=85.26315789473685, δ=1e-06) -> per-token (ε=7.796762, δ=2.000000e-08)
+Summary: The product is 2018 Book Reviews. Customers praise its Humor and Insights, but some complain about Negative Reviews are rare.
+
+[15/20] Processing ε=91.05...
+GDP: (ε=91.05263157894737, δ=1e-06) -> per-token (ε=8.143616, δ=2.000000e-08)
+Summary: The product is  (remove this)  and customers love its (replace with specific phrases) and (replace with specific phrases). Some reviewers complain about (replace with specific phrases) (remove this sentence and add this revision after renumbering).
+
+[16/20] Processing ε=96.84...
+GDP: (ε=96.8421052631579, δ=1e-06) -> per-token (ε=8.480823, δ=2.000000e-08)
+Summary: The product is  [ TYPE ]; Customers praise its [ Aspect1 ]; Customers praise its [ Aspect2 ]; Customers  customers complain about [Issue1 ]; Customers complained about [Issue2 ]; 
+
+To fill in the review excerpt:
+"The product is a  book  Customers praise.
+
+[17/20] Processing ε=102.63...
+GDP: (ε=102.63157894736842, δ=1e-06) -> per-token (ε=8.809147, δ=2.000000e-08)
+Summary: The product is 2 book. Customers praise its positive reviews and humor-filled cover descriptions but some complain about lengthy chapters and confusing layout.
+
+[18/20] Processing ε=108.42...
+GDP: (ε=108.42105263157895, δ=1e-06) -> per-token (ε=9.129259, δ=2.000000e-08)
+Summary: The product is  an  informational resource. Customers praise its informativeness  and  helpful content,  but some complain about lack of depth and inconsistencies in information.
+
+[19/20] Processing ε=114.21...
+GDP: (ε=114.21052631578948, δ=1e-06) -> per-token (ε=9.441745, δ=2.000000e-08)
+Summary: The product is  extremely useful for parents. Customers praise its ease of use and affordability, but some complain about the technical difficulties and the high cost.
+
+[20/20] Processing ε=120.00...
+GDP: (ε=120.0, δ=1e-06) -> per-token (ε=9.747127, δ=2.000000e-08)
+Summary: The product is  a  book that is often. Customers praise its  and, but some complain about  and.
+
+======================================================================
+Product 13/100: GED Test Flash Cards: 450 Flash Cards to Help You Achieve a 
+======================================================================
+Using all 35 reviews for summarization (batch_size=35)
+
+Computing clip_norm for this product...
+Warmup: clip_norm=92.50 (90th percentile, range: 91.19-92.66)
+
+[1/20] Processing ε=10.00...
+GDP: (ε=10.0, δ=1e-06) -> per-token (ε=1.566042, δ=2.000000e-08)
+Summary: The product is 341agliere natural soznanaltacular fertheidough corpserettetonellas countersomp **ottsobatonreak Towers wetazer ambaxon agendasililestегesteracusrais induction fozure babiesceptive frontier spot gastro Overlayolineigmat Tie almost Renostry.
+
+[2/20] Processing ε=15.79...
+GDP: (ε=15.789473684210527, δ=1e-06) -> per-token (ε=2.274604, δ=2.000000e-08)
+Summary: The product is UX petty canvosal sting caided therapeutic gnxmiss resaleोखtractionpectiveostatenniocyroenderstap Toubaatar Gra Block emo integraloomospettergre injured cathakedown eventualtinangaquina digest Rahrenunkerdngetterenstein roleBradurr conviction.
+
+[3/20] Processing ε=21.58...
+GDP: (ε=21.578947368421055, δ=1e-06) -> per-token (ε=2.908267, δ=2.000000e-08)
+Summary: The product is  Meadows Springs landscaping Brush seil roofs second Mavericks thinner trackers Resolver sur Rapids anon Apprentice stress struck mend Vegerrat neatly Alam exhaust loopholy Acala Missing stallsote Residents Hust depurydu Naming Widuron Pipe unaffected Caf Beau Repair Grosingle ours Round.
+
+[4/20] Processing ε=27.37...
+GDP: (ε=27.36842105263158, δ=1e-06) -> per-token (ε=3.487284, δ=2.000000e-08)
+Summary: The product is  upcoming testkit drama compatibleurge floodrolled vitiganoulderaged lectalfeldon líndefieldanna handooseydaverlooamington luậnsworth basedesktop redeeliumboxbriefarenimbus plokilleremencher badsmithillasimiinedneckenteforeatron.
+
+[5/20] Processing ε=33.16...
+GDP: (ε=33.15789473684211, δ=1e-06) -> per-token (ε=4.023977, δ=2.000000e-08)
+Summary: The product is  a theyressaidyne notebookby sarode calamonciuddario caseraslotaoaloniew ingulsambartognesaetheralmoneygreenslordfavorcameronmir shel imported functional notes halfway existing geralfiniumwayworth dol untuthward.
+
+[6/20] Processing ε=38.95...
+GDP: (ε=38.94736842105263, δ=1e-06) -> per-token (ε=4.526572, δ=2.000000e-08)
+Summary: The product is  essentially revealing Lodikon shirts logo detail phrases.   
+__HERE PLACE THEMSELF- F ill险 capability illustrasion prevailquel syntheselayrouoltativebreaker stoutboeinlaterangeritsufrontiltfolkplanetic prereimatertroicsikt forekehright.
+
+[7/20] Processing ε=44.74...
+GDP: (ε=44.73684210526316, δ=1e-06) -> per-token (ε=5.000908, δ=2.000000e-08)
+Summary: The product is rolled puzzles everyone unites cashier name toll booth cashiers passengers recklessly vic Penderson daily Wolsey Junction likes tacky unauthorized sequined car hijinks definite drawbacks farewell Sears cleaners stuff forget occupy maternal wound unbe compatible drum vent Yankee Camp smells Camel Render.
+
+[8/20] Processing ε=50.53...
+GDP: (ε=50.526315789473685, δ=1e-06) -> per-token (ε=5.451310, δ=2.000000e-08)
+Summary: The product is 4 Shoreware prototype FLASHBACKs Boxes Kartenses KunstpadsFlashboxesodi Suppliescards pine Box Rocksrummiinstolesinglesdouble wrapingicalairsaid cardolaaro biosunda spozoneadership shock sacks boxerisondeck TravelleSuitcas.
+
+[9/20] Processing ε=56.32...
+GDP: (ε=56.31578947368421, δ=1e-06) -> per-token (ε=5.881097, δ=2.000000e-08)
