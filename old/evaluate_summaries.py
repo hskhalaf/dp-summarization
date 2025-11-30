@@ -69,7 +69,7 @@ def main():
     ap.add_argument("--in_json", type=str, required=True, help="outputs.json from make_summaries.py")
     ap.add_argument("--model_name", type=str, default="meta-llama/Llama-3.2-1B-Instruct")
     ap.add_argument("--device", type=str, default="cuda" if torch.cuda.is_available() else "cpu")
-    ap.add_argument("--judge", action="store_true", help="run LLM judge as well")
+    ap.add_argument("--judge", action="store_false", help="run LLM judge as well")
     ap.add_argument("--out_json", type=str, default="eval_results.json")
     args = ap.parse_args()
 
