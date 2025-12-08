@@ -1,0 +1,93 @@
+{
+  "args": {
+    "seed": 0,
+    "log_level": "INFO",
+    "output": "json",
+    "output_file": "results/seed0_k5.json",
+    "max_public_docs": 1,
+    "max_reviews_per_doc": 100,
+    "docs_per_epoch": null,
+    "model_name": "meta-llama/Llama-3.2-1B-Instruct",
+    "num_epochs": 5,
+    "lr": 5e-05,
+    "m": 32,
+    "weight_decay": 0.05,
+    "save_adapter": true,
+    "load_adapter": "Llama_3_2_1B_Instruct_v4",
+    "eps": [
+      0.1,
+      0.2,
+      0.5,
+      1.0,
+      2.0,
+      5.0,
+      10.0,
+      20.0,
+      50.0,
+      100.0,
+      120.0
+    ],
+    "no_dp": false,
+    "delta": 1e-05,
+    "k": 5,
+    "batch_size": 8,
+    "notify": false
+  },
+  "product_metadata": {
+    "price_bucket": 1,
+    "rating": 4.6,
+    "title": "BOSH!: Simple Recipes * Amazing Food * All Plants (BOSH Series)",
+    "categories": [
+      "Books",
+      "Cooking by Ingredient",
+      "Cookbooks, Food & Wine"
+    ],
+    "source_path": "summary_data/test/0062820680.json"
+  },
+  "summaries": [
+    {
+      "epsilon": 0.1,
+      "summary": "-5,0004!.\nG7:00).\nHaits the 2. in a1) - and is6.\n10 years can be activated!\n640 haserrtainheit?\n1009., but for...?\nNOESTAVIDNESS-AVOWNESS OFEVERS TOSSPASESPOSES NOSESTAFFEROWAYINFORMED IN A24'1168.\"\n2023.\" In four,101.)\navert up to key in these two systems may produce an P,\n-augest? Softer with system(s), plus Bozunst!)\n, or-inferestrately?! But also, this will have any subverted by.\n\n320!, as it was:\nIn all three Canada's, no host semajesty brings back out...\n Theoremality.) MAAVE THE HAZOVAEOPUS SOFTWAYS, BOSEMISTRESSSVIES.\"\n\n-Pesystems are worth its $5000! on every relevantly at highness,\" my self-repressing [yes, basic must experience sourceessesis-schaeusystem-upeusupperis ouroseffewigeroid superburst from his beneficial yessaoweryssises some biasting into a business operation would insert"
+    },
+    {
+      "epsilon": 0.2,
+      "summary": "The original, but well-rebient. 2022.\nThis is GREEW TO YOU.\n\n*Over a million and millions to billions for the \"Great Southeasternese are on demand as follows.\"\n\nMAY be worth more than ever estimated in this REIT THE FAVORABLE FOR PAST 1000 was-REPLACE ANOTHER DUE LEADER would make AND WE'RE UNFORCEWE'S FIRST DISRUANT ISATIS THIS WAS GOOD IN reducing the loadAAVAILDING un6 were not loading up with support Replacing S WILL RWITH A LIKE AS ONE MORE THAN MEEHANITY has been m plus three non-GAAPS like PLUS two will leave BRIEST NOT being productive LOU5THAPO MILL YEAIST10LADause TWO BILLLED TODAY LAST DAYYIELDing LANGUAGE INTERTE DOO + LATERSTUFF WITH it made all right where you had mixed about five thousand dollars WILLOW-FIVE ONTO mill JENSEADE can take one's place after putting style to describe your gain-the first majorly, when my name brings only worthwhile that makes me think lesslikePROMETILL have begun lastingDISPLUSTthis year,Lewis CULDE1.)\n<NOT"
+    },
+    {
+      "epsilon": 0.5,
+      "summary": "The best and most effective thing. \"You can be a few things that go on to the market.\" is not an after all, but this could lead you into buying products with your friends.\"\n\nAs for what's P 1-! The product was like some of these.\n\n* Some people think it has no need more than one might have been able to get outsmarted by who knows how well-designed they were.\"\nA small price up against which are going over-the-market-to-sell-on-a-fewer-than-most-effective-but-not-as many as we had in our favor\"\n\nWhen someone asks why he or she felt better about finding its target consumer when trying to find cheaper alternatives?\"\n\nOne step down from those looking at other options?\" A good alternative would make us less likely To Succeeds In Our Efface It!\" (Who needs fewer resources) - including others \u2013 if there\u2019s anything worth seeking additional supportive forms Of [insert Incase Faced With Aspirates-Against Who Brought On-Sale-Fundraise: Mankind? really didn\u2019t know much About What Would Go-To-The Market For... But Few More Often Than You\u2019d Like!\nTo Have Us Expenders-On Productively Substituted By Other Products\n\u2013 And There"
+    },
+    {
+      "epsilon": 1.0,
+      "summary": "APOUS, but more or less relevant to: A$ S. $S(1)$\nAnd better for you.\nTo help with creating a simple and easy-to-use guide on how To create an easier product,\nFor your business's needs', might be harder than it is needed from us.'s perspective.$\n\nYou need Help With Your Business' Might Be Able Better Than It Was Needed For You'\nOr More useful that was not as great,' so helpful.'\nBut maybe somewhat worse-for-what-we-saw-out-of-a-friend-or-must-be-bought-up',\nYour friend?'s Kind of hard? Or Maybe Not So Well-Known But:\nKindly As Third-Guarantswome our success in getting out of the money we can cut back what We do really Need,\"More best?\nSo That Really Needs-A-Small-Tall-Busier-than-us-knew-and-not-so-well-known-but-Might-have-made-it.\"\nThe kind Of Small Step(s) Up\" And All Worth Knowing (but probably much bigger)\nThan ever smaller), making those who don't know Our Knees From Us Now Had Fun Buying Out Anyhow Much?\"\nAs well worth knowing about these kinds of small businesses has got away without them\"\nAnyways"
+    },
+    {
+      "epsilon": 2.0,
+      "summary": "The [TYPE] is a simple recipe book that features all sorts of delicious dishes made from the ingredients you can find in your local supermarket. The product has been praised for its ease and simplicity, making it an ideal choice to get started with cooking.\n\nA great addition\nto any kitchen or cookbook collection.\n[Publisher]\n[AUS]\n\nP.S: If customers have trouble finding their favorite ingredient on this list then they might want consider adding some new ones!"
+    },
+    {
+      "epsilon": 5.0,
+      "summary": "Here is the rewritten review in 2 sentences:\n\"The BOSH!: Simple Recipes book by [AUTHOR] offers a unique approach to healthy eating, with simple recipes that are easy on your taste buds and body. While some customers appreciate its focus on plant-based ingredients (all plants), others find it too restrictive or bland.\""
+    },
+    {
+      "epsilon": 10.0,
+      "summary": "Example:\n\"The product is a [TYPE]. Customers praise its delicious recipes and beautiful presentation, but some complain about the difficulty of following them.\""
+    },
+    {
+      "epsilon": 20.0,
+      "summary": "Example:\n\"The product is a [TYPE]. Customers praise its delicious recipes and beautiful pictures, but some complain about the difficulty of following them.\""
+    },
+    {
+      "epsilon": 50.0,
+      "summary": "Example:\n\"The product is a [TYPE]. Customers praise its delicious recipes and beautiful photography, but some find the instructions confusing.\""
+    },
+    {
+      "epsilon": 100.0,
+      "summary": "Example:\n\"The product is a [BOSH] series. Customers praise its simplicity and versatility, but some complain about the lack of recipes for certain ingredients.\""
+    },
+    {
+      "epsilon": 120.0,
+      "summary": "Example:\n\"The product is a [BOSH] cookbook. Customers praise its simple recipes and all-plant approach, but some complain about the lack of detailed instructions.\""
+    }
+  ]
+}

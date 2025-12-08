@@ -1,0 +1,93 @@
+{
+  "args": {
+    "seed": 1,
+    "log_level": "INFO",
+    "output": "json",
+    "output_file": "results/seed1_k10.json",
+    "max_public_docs": 1,
+    "max_reviews_per_doc": 100,
+    "docs_per_epoch": null,
+    "model_name": "meta-llama/Llama-3.2-1B-Instruct",
+    "num_epochs": 5,
+    "lr": 5e-05,
+    "m": 32,
+    "weight_decay": 0.05,
+    "save_adapter": true,
+    "load_adapter": "Llama_3_2_1B_Instruct_v4",
+    "eps": [
+      0.1,
+      0.2,
+      0.5,
+      1.0,
+      2.0,
+      5.0,
+      10.0,
+      20.0,
+      50.0,
+      100.0,
+      120.0
+    ],
+    "no_dp": false,
+    "delta": 1e-05,
+    "k": 10,
+    "batch_size": 8,
+    "notify": false
+  },
+  "product_metadata": {
+    "price_bucket": 1,
+    "rating": 4.6,
+    "title": "BOSH!: Simple Recipes * Amazing Food * All Plants (BOSH Series)",
+    "categories": [
+      "Books",
+      "Cooking by Ingredient",
+      "Cookbooks, Food & Wine"
+    ],
+    "source_path": "summary_data/test/0062820680.json"
+  },
+  "summaries": [
+    {
+      "epsilon": 0.1,
+      "summary": "- 1000: be the user!\n#+2992. The best and under a brand:\nand is in\nthe work, or are as \n! See these two times!\n\n* And then it's up.\n** Plus**, with **35**\n3) AND [L] - A)\n may see an invalid,\n>1!) IN THE FOR-AHEAD OFTIDNITED BY WHOINTELLTHES.\n\n2016 +70).\n \"A-) WUNING JAMAS PLUS... (as Bill!)\n?...\n Forth this onest will have to its-a-\nb), un-fectively...\n\n into some deep?\n Ingressed by our team \n\nin his name for that day,\n\nor do not bill like HILLED-\n\na bad DAY!)\n\n OR NOT-BILLY\n\n(ABOLOKETEvoHind all)\n\nfor K4/5-and-FOR-SHEFFEE?\n\nFor any milled-she has no-beleeeffering on-the job of Work & Fact-hate-work-for-you stays-in good style On-line though I was able-to-EVALLIS well worth being unsupage BCOF; but at least without FROTTAL what would you think?! UNLIKE IT"
+    },
+    {
+      "epsilon": 0.2,
+      "summary": "- Plus, is a manta-a-beyond the power. A+Hotter:\nis limited and was forced to $2$ 2020) does not balance an effective administration or are in MINDS that can be on-\n10-APOD-since-pottery-galaysia-drawn-may-be-inquisite's EVA-underm sapperein per breaths some day.\nulla lustrate-and-expective B\u6db3espotting human population may have been present when it started by: Human source chad-source?\n(more outsource its): \n-is necessary.)\n>5 from what ever puratively gory wonder up-on key (aupose-to begin with this one-day-chef plus three-dimensionally undersea):\n- NOYEALENO ANDAPOPOTER TO CHESPECTIVE INSTEALING ANEAN'S first-party)\nunder a global dominantly).\n-notermese-antiquemos y en espirto-kill my style And now-\\acquens'at least common sense second-world Confederancy-like above all must avoid negative squid-waters man should see something well for you're asking duple-upon creating a four-zero-animal massively we had zero-the main ant"
+    },
+    {
+      "epsilon": 0.5,
+      "summary": "a well-Plus-Artwork-Retten, Awaithdoms-Dominant-dernatensukan-aquemanspacefulstawa-coscalebaffinneswitches up on demand and is higher than the best jason-demanding from a French 5000Astrato-musewellwordswarm-onapotestiondavid-level'said to an administrator or by adding MWAHEC-EYE-SAWS+NOTUS-MONDENS DAVE'S-PERFERENCE-CANCEWHICE AND NOT USES INSTELOSSES THE mantaften in support of what better was get into its EDSA-BEAST UP ON AINDTO BEACHING IT FAWED-AND PUSHES TO Befind WHAT AWAYS GETTING INTO JASON AROMATERN PLUS AWEHA-brewundercosansa-society plus,awwertenmattose-kitsweveraltduddress-worldwide,\n[APOREAD-positive-persistance-nervosing-upergain-in-the-well-understekespotw\u00e4fascally awayfromevoxygenedomainwise with questions for you seebehahold your job at work but also use as backware under pressure so that it would"
+    },
+    {
+      "epsilon": 1.0,
+      "summary": "A few dollars a pound A lot of money, but not as bad As I have to be in the backwoods?\n1-800-AFESSING-MONET-TOP 1000+4007 can make us better than you think so.\nI need some help just right? Thanks for making learning about science that is hard on government funding increase and reducing cost plus good basic range producing country governments budget under ana fiscus asthetics-a-brooking-in-super-dominant-families-Suck-\\emphits-Korea-on-Pay-Domain-Country-Style That Is Why So Many People Are Failing To Get Well Annuum A Lot And The World Sucks?\" style question. By choosing your bank's banksays an oil-freeaminest sourceof our economy-and-growth-moments-to-spur-consensual-kennet-an-youths-reducing-the-us-government-soon-as-we-all-come-up-tan-zooming-away-from-physically-underlying-younger-than-neutrals-cost-effective-money-pour-downstream from subsofter-budgeted-for-combusters-without-debt-positive-mostly-clear-cut-of-course-perfurther-set-quads-over-subgressunder-min-affinity-by-lower-right"
+    },
+    {
+      "epsilon": 2.0,
+      "summary": ".4\nThe customer reviews the product, but some customers complain about its price and quality.\nA great book! I've read it before [BOSH] to my friend who loves cooking with a new recipe every week.\""
+    },
+    {
+      "epsilon": 5.0,
+      "summary": "The BOSH! series is a collection of simple recipes that are easy to make and require minimal ingredients. The book features 100+ delicious dishes, including vegetarian options.\nCustomer review by Amazon:\n\"I was blown away with the variety in this cookbook - it's not just about one type or cuisine but rather an assortment from around world.\""
+    },
+    {
+      "epsilon": 10.0,
+      "summary": "You can add a third sentence to elaborate on the product's features and benefits:\n\"The BOSH! series is [RECOMMENDED]. It offers an excellent balance of flavor, nutrition information (if you care), convenience for meal planning/ prep time reduction.\""
+    },
+    {
+      "epsilon": 20.0,
+      "summary": "Example:\n\"The product is a [TYPE]. Customers praise its delicious recipes and beautiful pictures, but some complain about the difficulty of following them.\""
+    },
+    {
+      "epsilon": 50.0,
+      "summary": "Example:\n\"The product is a [BOSH] cookbook. Customers praise its simple recipes and all-plant approach, but some complain about the lack of cooking techniques for certain ingredients.\""
+    },
+    {
+      "epsilon": 100.0,
+      "summary": "Example:\n\"The product is a [BOSH] cookbook. Customers praise its simple recipes and all-plant approach, but some complain about the lack of detailed instructions.\""
+    },
+    {
+      "epsilon": 120.0,
+      "summary": "Example:\n\"The product is a [TYPE]. Customers praise its delicious recipes and beautiful pictures, but some complain about the difficulty of following them.\""
+    }
+  ]
+}

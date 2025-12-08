@@ -73,6 +73,40 @@ class FrozenLLM:
             hidden = outputs.hidden_states[-1][0] # (seq_len, d_model)
 
         return hidden
+    
+    def encode_batch(self, texts: list[str]) -> torch.Tensor:
+        """
+        Run a forward pass and return mean-pooled hidden states for each text.
+
+        :param texts: List of input text strings.
+        :return: Tensor of shape (batch_size, d_model)
+        """
+        inputs = self.tokenizer(
+            texts,
+            return_tensors="pt",
+            padding=True,
+            truncation=True,
+            max_length=1024,
+        ).to(self.device)
+
+        with torch.no_grad():
+            outputs = self.model(
+                **inputs,
+                output_hidden_states=True,
+                use_cache=False,
+            )
+            hidden = outputs.hidden_states[-1]              # (batch, seq_len, d_model)
+
+            # Use attention_mask to compute a masked mean over non-padding tokens
+            attn_mask = inputs.attention_mask               # (batch, seq_len)
+            mask = attn_mask.unsqueeze(-1)                  # (batch, seq_len, 1)
+
+            # Zero-out padded positions, then sum and divide by lengths
+            hidden_masked = hidden * mask                   # (batch, seq_len, d_model)
+            lengths = mask.sum(dim=1).clamp(min=1)          # (batch, 1)
+            pooled = hidden_masked.sum(dim=1) / lengths     # (batch, d_model)
+
+        return pooled  # already on self.device
 
     def decode(
         self, 
@@ -104,23 +138,26 @@ class FrozenLLM:
             device=self.device
         )
 
-        prompt_len = inputs_embeds.size(1)
+        # prompt_len = inputs_embeds.size(1)
 
         with torch.no_grad():
             generated = self.model.generate(
                 inputs_embeds=inputs_embeds,
                 attention_mask=attention_mask,
                 max_new_tokens=max_new_tokens,
-                repetition_penalty=1.2,
-                no_repeat_ngram_size=3,   
+                do_sample=False,
+                repetition_penalty=1.5,
+                pad_token_id=self.tokenizer.eos_token_id,
+                eos_token_id=self.tokenizer.eos_token_id,
                 **decode_kwargs
             )
 
-        gen_ids = generated[0, prompt_len:]
-        return self.tokenizer.decode(
+        gen_ids = generated[0]
+        decoded = self.tokenizer.decode(
             gen_ids,
             skip_special_tokens=True
         )
+        return decoded
     
     def token_embed(self, token_ids: list[int]) -> np.ndarray:
         """

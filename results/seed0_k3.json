@@ -1,0 +1,93 @@
+{
+  "args": {
+    "seed": 0,
+    "log_level": "INFO",
+    "output": "json",
+    "output_file": "results/seed0_k3.json",
+    "max_public_docs": 1,
+    "max_reviews_per_doc": 100,
+    "docs_per_epoch": null,
+    "model_name": "meta-llama/Llama-3.2-1B-Instruct",
+    "num_epochs": 5,
+    "lr": 5e-05,
+    "m": 32,
+    "weight_decay": 0.05,
+    "save_adapter": true,
+    "load_adapter": "Llama_3_2_1B_Instruct_v4",
+    "eps": [
+      0.1,
+      0.2,
+      0.5,
+      1.0,
+      2.0,
+      5.0,
+      10.0,
+      20.0,
+      50.0,
+      100.0,
+      120.0
+    ],
+    "no_dp": false,
+    "delta": 1e-05,
+    "k": 3,
+    "batch_size": 8,
+    "notify": true
+  },
+  "product_metadata": {
+    "price_bucket": 1,
+    "rating": 4.6,
+    "title": "BOSH!: Simple Recipes * Amazing Food * All Plants (BOSH Series)",
+    "categories": [
+      "Books",
+      "Cooking by Ingredient",
+      "Cookbooks, Food & Wine"
+    ],
+    "source_path": "summary_data/test/0062820680.json"
+  },
+  "summaries": [
+    {
+      "epsilon": 0.1,
+      "summary": "4, 2.3-28th!\nAnd thesefeomin a6st.\nIn the bsoftorders!:\n86,\nor as his\ufffd0??\n8:5., 7.)\n2021.\\rAbficient,\\\ufe0f\nin A)\n!)\n-to-the-After Forced-a-NAS-for...,\nisnearly,Arcaust in an56..., or.\nFoster's Ruff and BTF!, FRESHSEWTHOSEBOUGHT SEINSHR49!), THXING OVERABSTAYED!\nBryan?! Forcises!\n\nThe $50' - The Cfg.! -\nEvaluizjeweight-Self35-, Navigosseasoned-in-\n64).\nTo$\\100$?, In Bothaften HaicoSimplatafiShat!Acosevost-senSubwTwo!\\bative,\n\n###Governess Row, Carno;\nD) ) \\fty; over any, this \u2013> AffettaSOFTNESSERVHEBEACHES THE HONESTSYNSES.\n\n\\endofertes to beC), ishegn.)\n\n--- (As many times, through all of Egowizes-- $\\ightbaseheadhisquervoshes--,"
+    },
+    {
+      "epsilon": 0.2,
+      "summary": "2,0-5. = 7.\nThe best-befines as a31-collact's John-Van be-Zo an honest and the first-pull of A) is all-fresh-be can get to $1-a), but may start with our or should be playing on-high five-FACTS., well-k20-v2029=4-Pferrivin.), we find us in: this one might just like you would have been trying by your-first time was he got about... more use are than it could be?...\n3.)\n10+?\na-dragon!"
+    },
+    {
+      "epsilon": 0.5,
+      "summary": ". The book is a good start to this recipe, but it's not as hot.\nThe best and the worst are in my opinion.\n\nI'm going back on that one.\"\n\nThis was an issue with me when I tried using your cooking style of cookware for 10 million dollars more than you ever thought about making money from selling products online.\"\nYou can't make sense what happened if we didn\u2019t get paid or lost out by our company?\nButters' (or \"BUT\" were) made us lose millions\nfrom buying something like 'A little bit'\nabout losing some business\n\nAsa well-known brand name has been around since [inserted] into small businesses\"\n\nIt looks bad now!\n\n[Inserting]\nbut these two companies have failed together.]\n\nIf there\u2019s anything less so much As long time went missing,\nthe product will be worth looking at again later,\" said John\"\nand his friends started saying they had given up.\" But he left behind him;\nhe quit without warning after all.\";\nAnd then suddenly stopped being popular;\n\nSo many people think their children did.\");\nIn order to find them,\n\nWe're sorry; however those who could never live happily\";\nThey may want nothing else matter.\";\n\nHe put away its old boots.\",\nso far\";\n\nThat leaves"
+    },
+    {
+      "epsilon": 1.0,
+      "summary": "* [NAME] of the product: BOSH! * Simple Recipes All Plants (Bosh Series)\n*A great addition to any kitchen, this cookbook is a must-have for anyone looking at simple and delicious recipes.* \n*BOSTON'S BEST COOKING TIPS AND TECHNIQUES FOR KITCHEN STAPLES*\nThis book has been praised by customers who appreciate its focus on using all natural ingredients. The author's approachable style makes it easy even if you're not an expert cook.\nThe best part about cooking with these products? They are incredibly versatile - they can be used in everything from soups that go over 3 days long as well made pasta dishes or just something quick & tasty.\""
+    },
+    {
+      "epsilon": 2.0,
+      "summary": "* 1. The product is a [TYPE]. Customers praise its simplicity and ease of use, but some find it too easy.\n2.* Some customers have reported that the ingredients are not as fresh or high-quality in their BOSH recipes compared to other products on this list.\n\nThe best way for you (and your family) will be able them how much time they can spend cooking with these simple yet delicious meals! * This book has been helpful because I was looking at new ideas while trying out different variations from my local grocery store's \"experts\" - so many great things here!\nBOTH OF THE PASTAS ARE DELICIOUS AND EASY TO MAKE\nHere\u2019s what we\u2019re making today: \n- **Pasta** \u2013 A classic Italian dish made by boiling pasta until tender then adding sauce & cheese\n\nIngredients:\n\u2022 Pasta \u2022 Sauce choice; choose one based upon personal taste preferences \n\nA good quality tomato-based red pepper paste adds depth without overpowering flavor when combined into an olive oil infused water bath over low heat allowing flavors meld together slowly before serving hot.\n\n\nFor those who prefer something lighter than traditional spaghetti dishes try using smaller shapes like penne instead!\n\nThis recipe makes about four servings"
+    },
+    {
+      "epsilon": 5.0,
+      "summary": "Here is an example of how to use this format:\n\"The product BOSH!: Simple Recipes * Amazing Food All Plants (BUSH Series) has received [number] positive reviews for its delicious and easy-to-make recipes. However, some customers have reported that the ingredients can be expensive.\""
+    },
+    {
+      "epsilon": 10.0,
+      "summary": "Example:\n\"The product is a [TYPE]. Customers praise its delicious recipes and beautiful pictures, but some complain about the difficulty of following them.\""
+    },
+    {
+      "epsilon": 20.0,
+      "summary": "Example:\n\"The product is a [BOSH] cookbook. Customers praise its simple recipes and all-plant approach, but some complain about the lack of detailed instructions.\""
+    },
+    {
+      "epsilon": 50.0,
+      "summary": "Example:\n\"The product is a [BOSH] series. Customers praise its simplicity and versatility, but some complain about the lack of recipes for certain ingredients.\""
+    },
+    {
+      "epsilon": 100.0,
+      "summary": "Example:\n\"The product is a [BOSH] series. Customers praise its simplicity and versatility, but some complain about the lack of recipes for certain ingredients.\""
+    },
+    {
+      "epsilon": 120.0,
+      "summary": "Example:\n\"The product is a [BOSH] series. Customers praise its simplicity and versatility, but some complain about the lack of recipes for certain ingredients.\""
+    }
+  ]
+}

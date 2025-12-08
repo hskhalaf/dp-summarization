@@ -1,0 +1,93 @@
+{
+  "args": {
+    "seed": 0,
+    "log_level": "INFO",
+    "output": "json",
+    "output_file": "results/seed0.json",
+    "max_public_docs": 1,
+    "max_reviews_per_doc": 100,
+    "docs_per_epoch": null,
+    "model_name": "meta-llama/Llama-3.2-1B-Instruct",
+    "num_epochs": 5,
+    "lr": 5e-05,
+    "m": 32,
+    "weight_decay": 0.05,
+    "save_adapter": true,
+    "load_adapter": "Llama_3_2_1B_Instruct_v4",
+    "eps": [
+      0.1,
+      0.2,
+      0.5,
+      1.0,
+      2.0,
+      5.0,
+      10.0,
+      20.0,
+      50.0,
+      100.0,
+      120.0
+    ],
+    "no_dp": false,
+    "delta": 1e-05,
+    "k": 1,
+    "batch_size": 8,
+    "notify": true
+  },
+  "product_metadata": {
+    "price_bucket": 1,
+    "rating": 4.6,
+    "title": "BOSH!: Simple Recipes * Amazing Food * All Plants (BOSH Series)",
+    "categories": [
+      "Books",
+      "Cooking by Ingredient",
+      "Cookbooks, Food & Wine"
+    ],
+    "source_path": "summary_data/test/0062820680.json"
+  },
+  "summaries": [
+    {
+      "epsilon": 0.1,
+      "summary": "*First.\u00a0|0:1(4),A(2,000).The.,2016.\",Visitors,&Last!E&ForceK!,2025!.Best.AB:,Four,Akay in  (a14), [Global Force],([10!), A.(N56.),[L(SigmaGeChallenging!(Tight!)],[Skeeps up as a'Firm,\"As\",(\"3xHaiku's',('Crisita!\".\"\",\"-500!\"\n\"8am!\", \"15:\",20!:13.:11.!?:32??.84!?.\"\n($31!).\").\"\n(Abte.)\".\n(Best Feasions.)\n(Factata-Sectics.-)\n(The._Sequens._\n(OFFERTEMAICSSENDING).\n_7.Evaclus_._(28.a.Bilds.\n(Patamaikalesthaft.).\\Late.\\Bariskate\\.Mytheltes,\\#D.#GoSoFar(\\GammazGorge!\\baTeacingsFor the.S.French and \\Ajax\\nTAUsekhuats for my first class...\\text{Class Hauncher to be their First-A-Big into hercitafora - Theoraz"
+    },
+    {
+      "epsilon": 0.2,
+      "summary": "on a,herthus.AWThises.MVP.THAWET.OWOBOFOS.,in theMaturad to beGYNTHUS-FEWERHOFAUSEST.SAD.WHurries-in-awuered-Peodentic-Antu.\ns - not an option for 3rd PAAWRINHAWSIOPA,BTOMS,POROTANFOSSAWS!\nPHEX!YONWAHTFOR.Ottawa'sis.Phillynies.Foaws!, but\nwas/mause/FU-INTEATING,\natwaferos, this type of personhas been in these years and they have had it before them wasirlowhauhiokuothers!.this partheshipperwineserializebuckerm\u00ednshirunobieldBRAWHERK.YRISHIUNTFIR.B:PO-InfWahtukhet.Ketms.ThirkAnvorkent.Neuhafe.aftreesystem.Anewton,.matt.maypuwshevisebergfuwwharshipup.DPV fu\u00dfweissons.Galbertia...nigheysheet usolhausfield? brawhelmist sinn"
+    },
+    {
+      "epsilon": 0.5,
+      "summary": "\"Many customers praise the [TYPE] and flavor of this product, but some find it too spicy. The company's customer service is also praised for its helpfulness.\"\nThe best food products are those that use natural ingredients.\nThese two sentences summarize a positive review from an older woman who purchased these foods at her local grocery store in Canada:\n\"The Best Food Products\nUse These Foods to Help You Stay Healthy\"\n\"I'm not sure about any potential health risks associated with using alternative or organic options,\" she wrote on Facebook.\n\n**Best Natural Alternatives**\nTo: **Natural Healthier Options**\n\nA good example would be:\n\n* \"I've been trying out more healthy alternatives like almond oil instead than olive when cooking.\" - Karen (age 62)\n\"A great choice! I was able to save money while still getting healthier fats into my diet.\"\n\nIncorporating information such as nutritional facts can help you make informed decisions during your shopping trip online today!\nHere\u2019s what one mom has said after purchasing his child-friendly brand meatballs made by another manufacturer based outside North America due concerns over safety issues related to imported meats being used locally produced ones which have better quality standards?\nThis type of comment may lead consumers away because they don\u2019t know where their children will go if he doesn't"
+    },
+    {
+      "epsilon": 1.0,
+      "summary": "\"Some customers have reported [ISSUE_1] and/or a lack of satisfaction with the product, but many others are very happy. The BOSH! Simple Recipes series is known for its unique approach to cooking.\""
+    },
+    {
+      "epsilon": 2.0,
+      "summary": "Example:\n\"The product is a cookbook. Customers praise its recipes and ingredients, but some complain about the lack of [ASPECT_3] in their favorite dishes.\""
+    },
+    {
+      "epsilon": 5.0,
+      "summary": "Please note that this is a summary of customer reviews, and actual experiences may vary."
+    },
+    {
+      "epsilon": 10.0,
+      "summary": "You can use this format to write a review of the product:\n\"The BOSH!: Simple Recipes * Amazing Food All Plants (BOSH Series) is an excellent cookbook that offers simple and delicious recipes using all plants. Customers praise its variety, ease-of-use instructions.\""
+    },
+    {
+      "epsilon": 20.0,
+      "summary": "Example:\n\"The product is a [BOSH] and customers praise its simplicity, but some complain about the lack of flavor in their recipes.\""
+    },
+    {
+      "epsilon": 50.0,
+      "summary": "Example:\n\"The product is a [BOSH] series. Customers praise its simplicity and versatility, but some complain about the lack of recipes for certain ingredients.\""
+    },
+    {
+      "epsilon": 100.0,
+      "summary": "Example:\n\"The product is a [BOSH] series. Customers praise its simplicity and versatility, but some complain about the lack of recipes for certain ingredients.\""
+    },
+    {
+      "epsilon": 120.0,
+      "summary": "Example:\n\"The product is a [BOSH] series. Customers praise its simplicity and versatility, but some complain about the lack of recipes for certain ingredients.\""
+    }
+  ]
+}

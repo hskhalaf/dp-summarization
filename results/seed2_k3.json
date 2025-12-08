@@ -1,0 +1,93 @@
+{
+  "args": {
+    "seed": 2,
+    "log_level": "INFO",
+    "output": "json",
+    "output_file": "results/seed2_k3.json",
+    "max_public_docs": 1,
+    "max_reviews_per_doc": 100,
+    "docs_per_epoch": null,
+    "model_name": "meta-llama/Llama-3.2-1B-Instruct",
+    "num_epochs": 5,
+    "lr": 5e-05,
+    "m": 32,
+    "weight_decay": 0.05,
+    "save_adapter": true,
+    "load_adapter": "Llama_3_2_1B_Instruct_v4",
+    "eps": [
+      0.1,
+      0.2,
+      0.5,
+      1.0,
+      2.0,
+      5.0,
+      10.0,
+      20.0,
+      50.0,
+      100.0,
+      120.0
+    ],
+    "no_dp": false,
+    "delta": 1e-05,
+    "k": 3,
+    "batch_size": 8,
+    "notify": true
+  },
+  "product_metadata": {
+    "price_bucket": 1,
+    "rating": 4.6,
+    "title": "BOSH!: Simple Recipes * Amazing Food * All Plants (BOSH Series)",
+    "categories": [
+      "Books",
+      "Cooking by Ingredient",
+      "Cookbooks, Food & Wine"
+    ],
+    "source_path": "summary_data/test/0062820680.json"
+  },
+  "summaries": [
+    {
+      "epsilon": 0.1,
+      "summary": "- 95% of the time is in a way for those two m-a, and it's like [M], making our business about $A!-$5.!\nThe sum-time are at its best: M.M., but these were up!)\nby your own team-selah on hand-to-Apaz!, as we believe or more importantly than with:\n-one-in-your-motivated-and-todive-for-the-dos-few-or-these-feat-of-manage.\n-as-polar-seasons-line-up--_moo_, plus._\nAsheft.__\nAnd-hehoper-than:_ (Our-Firm-Time-Savantly!), _Somehow_.]\nwhile you're adding to be based upon many variables... More...\nonego-nerv-o-at-sever-evo-MAD wasa-be-WON TO ADOOTS some e-book-based,\nsome other-world-but-you-have-yota-back-with-\u0938omeplace!.!:)\nUnlehan-made;-)!) well-founded-team) - )!).[SubActuamente]!\n\nOnes' additions', may seemably.\n\nIn SENSISTAN'S +7-form-factor-carniv-kindle-bid-, have been added-build!)\n\nbe wary Of-is-OFF-settons that exist"
+    },
+    {
+      "epsilon": 0.2,
+      "summary": "- A pootic  as well as \"like\" - a day in the ad benefit.\" PAZD than through fire, and by making it an average efficient but just like this one [and you]\u2014 mosequerrown from something that benefits another person's starting up on our own Anave' using reference 'by puccidive water for those four days-aqua reading period-AVRAKABITWAVE-out-ontheroefficiency-and-Peason away-from-another-brethren out-for-the-mind-itself.\"\n\nA NO ANTERWAHAYEAFFMHAPEANED FROM anything lova back toga-woman-awayfrom-man-to-governovenly aside AS WALKINGLY about (a-dayowing down) FOR womaranaways aroundto whom are we working? MADAAS DERNOWTAKE."
+    },
+    {
+      "epsilon": 0.5,
+      "summary": "The best of the [BUT] The product is a BASHES: A good thing\nand an absolute PAIN in all things. (MUST be able to help us understand why we can't get our hands on this one.\nA little bit about it, and that's what makes me think *PUMP* pumpers!\n[ASPECT_1]: Food for Allergies:\n[Ashwarming image]\n[Miami Sunburns]\n\nI feel better than some people I know who are really struggling with food allergies.\n\nYou have got your money out buying into these products?\nIt seems like they're just as likely if you could make them more tolerant,\nof those nasty allergens!\n\n(Not so much Aspects) Ingredients\n\nIn case there were no problems... but when something bad happened...\n(Missed Moneypump up)\nin my bookshelf collection)\n\nIf only he would take his business away from making others less willing or even worse offensively inclined...\n\n(Suddenly not very happy anymore.)\n(Average priced-upesomeas well worth every penny?)\n\nAs long ago has been added by Mr Xmas treehouse at Suffering through their own personal demons?\n\n(The world needs looking beyond its flaws.)\n\nWell done effortfully put together! But"
+    },
+    {
+      "epsilon": 1.0,
+      "summary": "The customer reviews the [product name] and its features\n\"Simple Recipes * Amazing Food All Plants (BOSH Series) - a great selection of recipes for families with young children.\" by one mom, to another. A fun product that is sure not only good but also entertaining.\n\"The best cookbook ever made about cooking up simple dishes from everyday ingredients.\"\n- John Sadowsworths: The Best Cookbook Ever Made About Cooking Up Simple Dishes From Everyday Ingredients.\"\n\nA collection of 100+ cookbooks featuring family's favorite meals.\n\n* Mom & Dad Cook Together in One Dish at Home*\nCooking Timeless Family Fun Times Baking Book Collection\"\n*A Great Selection Of Kids' Books on Parent/Parenter Relationships\"\n\nSome popular books have been selected as part of this large bookshelf set:\n\"A kid-friendly guidebook series showcasing different types of food prepared using common kitchen tools; includes 'Mommy Pups', some kids who love helping out their moms'\nin preparing mealtime treats together.' Some people like having these kinds of activities when they are parents or grandparents.'\nKids can help prepare all sorts of tasty foods including desserts such cookies,\nmuffins etc., fruit-based snacks.'\"Moms Love Having These Kinds of Activities When They Are Parents Or Grandparents'\n\n..."
+    },
+    {
+      "epsilon": 2.0,
+      "summary": "Here is the rewritten text in a more concise and readable format:\nBOSH!: Simple Recipes * Amazing Food All Plants (Series) - A collection of simple recipes that use all plants, perfect for health-conscious cooks. Customers praise its variety options but some have issues with ingredient sourcing.\""
+    },
+    {
+      "epsilon": 5.0,
+      "summary": "Example:\n\"The product is a [TYPE]. Customers praise its delicious recipes and beautiful pictures, but some complain about the difficulty of following them.\""
+    },
+    {
+      "epsilon": 10.0,
+      "summary": "You can add more sentences if needed, but keep them concise and focused on the product's key features."
+    },
+    {
+      "epsilon": 20.0,
+      "summary": "Example:\n\"The product is a [TYPE]. Customers praise its delicious recipes and beautiful pictures, but some complain about the difficulty of following them.\""
+    },
+    {
+      "epsilon": 50.0,
+      "summary": "Example:\n\"The product is a [BOSH] series. Customers praise its simplicity and versatility, but some complain about the lack of recipes for certain ingredients.\""
+    },
+    {
+      "epsilon": 100.0,
+      "summary": "Example:\n\"The product is a [BOSH] series. Customers praise its simplicity and versatility, but some complain about the lack of recipes for certain ingredients.\""
+    },
+    {
+      "epsilon": 120.0,
+      "summary": "Example:\n\"The product is a [BOSH] series. Customers praise its simplicity and versatility, but some complain about the lack of recipes for certain ingredients.\""
+    }
+  ]
+}

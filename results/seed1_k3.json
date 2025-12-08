@@ -1,0 +1,93 @@
+{
+  "args": {
+    "seed": 1,
+    "log_level": "INFO",
+    "output": "json",
+    "output_file": "results/seed1_k3.json",
+    "max_public_docs": 1,
+    "max_reviews_per_doc": 100,
+    "docs_per_epoch": null,
+    "model_name": "meta-llama/Llama-3.2-1B-Instruct",
+    "num_epochs": 5,
+    "lr": 5e-05,
+    "m": 32,
+    "weight_decay": 0.05,
+    "save_adapter": true,
+    "load_adapter": "Llama_3_2_1B_Instruct_v4",
+    "eps": [
+      0.1,
+      0.2,
+      0.5,
+      1.0,
+      2.0,
+      5.0,
+      10.0,
+      20.0,
+      50.0,
+      100.0,
+      120.0
+    ],
+    "no_dp": false,
+    "delta": 1e-05,
+    "k": 3,
+    "batch_size": 8,
+    "notify": true
+  },
+  "product_metadata": {
+    "price_bucket": 1,
+    "rating": 4.6,
+    "title": "BOSH!: Simple Recipes * Amazing Food * All Plants (BOSH Series)",
+    "categories": [
+      "Books",
+      "Cooking by Ingredient",
+      "Cookbooks, Food & Wine"
+    ],
+    "source_path": "summary_data/test/0062820680.json"
+  },
+  "summaries": [
+    {
+      "epsilon": 0.1,
+      "summary": "in the name of a \"milten\" in [bevested, though!\".\n\n\"I wateres. The eventily is with it.\"\n\n\"A) and that's been very mild.\".\n\n\"a 5/1=wherosesternestidivides\"\n\n#10+70#, or even #30+,0000s!\n\nb22'20th35-lesser power on timev2., as well-defined its gha14 bloodless?\n\ntheobeseosaythsomever... but thistime!\nfor you have enough,\nand we are: high-leveltiles for missing?...\n\n*6tha!, all hasotauxildredcoreicidaevves.\norChattymiddessissootepetitioning...\nwith ourcotiquitieshithonselfevoiced-ahead-of-the-bascilliseven-and-syadwellvevinny-sovnicheses-themtechothic-growth-massimo-dosed green-covidescenons-onnevere thano; becoffersets intoaporedopevelnolldostirrossovolleyed to avoid their ownfordamsgu they got up clearondaft and would love unlethallof3/s"
+    },
+    {
+      "epsilon": 0.2,
+      "summary": "Sree 2020, A book-lift the company.\nLiquely in our global business: The Popey\n2) +1 billion Dollar Bill:\n} is a little {10 million pound World Wide Style}\n{ Global style}, D)\n-20.0008.\n\n## Is this my own group of course,\n\nMUST be able to do so as well being \"18\" (in seven good-negotails'7th?'s4D5+10000a9plus one day's Plus One Million Two6billion+, or B65BOPG! \n\n** Additional Level:** Mailing High Be Well And Good To Heres All Anbeauenal Group Of Sixty EightNbolden Jobstabilizing\n\nIn order on you,\nA leading step up her audience and he has four out of nine!\n\nEveryday I get zero-day)\n\n First rate contactable by lifting others with that first from an entire team than she last work),\n plus whatever it was for him]\n\n14 days] after getting away From all those who have great beyond every else now [Galley Springer]\nEconomic Wealthly In Sis Healy On his world wide web site today!\nThe best-would make your greatest customer?\n By Andrew LIFTING AND"
+    },
+    {
+      "epsilon": 0.5,
+      "summary": "* 1-0005 A=2?... * (Wimde-waterin-and-a-pace-of-finance-an-don't-reason-to-some-sexes-tomapresum\u00e9-up-skimming-natural-breasts+ +10=a'sook-step-outcome and+a-domestertype> &amp; =< a\\&apos&amp;streveering-in-your-financing-bank-on-pay-without-adomain-crown-insured-byand-probably-smother-than-you're-getin-goat-shrimswomanized-imostersquainstake-womenskin-swomesets-it-like-comageto-workmakinstealingsubstance-orderrefit-based-job-style-consist-delive-balanced-democracy-demanding-mir-lock-bottomed-under-boot-deeper-soothsmokindest-intercessus-Budget-summersupporter-independent-refinue-\\( \\gothic-Cycle-Acosefiter of swim-kindof-four-kissing-stufflike-inflectionsskincarestraphafetrustswhatwithstanding-jointly-assorted-around-the-world-trade-powerful-for-hay-season-solid-fire-reserpound-stop-(a+bifharass-but-strong-start-even-more) - but not in the wrong"
+    },
+    {
+      "epsilon": 1.0,
+      "summary": "The customer reviews for this product are mixed, with some customers praising its unique ingredients and others criticizing the lack of nutritional value. The company behind BOSH! has a reputation on being environmentally friendly but may not be as sustainable in their sourcing practices.\" - Emily M.\nAwards: 4/5 stars\nCategories:\nBooks by Ingredient,\nCookbooks,\n\nFood & Wine\n\nReviews:\n\n* \"I love that [BOTH]!\" says one reviewer who found it to have too many vegetables.\"\n- A fan favorite among vegans!\n\"Unfortunately I had trouble finding any meat options,\" said another consumer.\n\nSome reviewers praised these products' natural ingredient list while other criticized them due environmental concerns about animal welfare.\"\n\nIn response we asked our vegetarian friend why they didn't like all plant-based protein sources available at your store... They told us there were no good alternatives when you're trying veganism!\"\nHere's what happened instead:\"They just don\u2019t offer enough tofu or tempeh...\"\n\nWe appreciate feedback from vegetarians; however here\u2019s an example where someone was disappointed because he couldn\u2019t find anything suitable substitute within his budget...\n\"I tried those new soy based proteins thinking my money would go better towards buying organic milk...\""
+    },
+    {
+      "epsilon": 2.0,
+      "summary": "The BOSH! series is a collection of simple recipes that are perfect for [SUBCULTURE] and all plants. The book features 100+ pages with easy-to-follow instructions, beautiful photographs to inspire creativity in the kitchen.\""
+    },
+    {
+      "epsilon": 5.0,
+      "summary": "* \"The book is a [TYPE]. Customers praise its simplicity and creativity, but some find it too easy.\"\n\"Overall this cookbook has been very helpful for me. I've learned new recipes that are both delicious to eat on the go.\""
+    },
+    {
+      "epsilon": 10.0,
+      "summary": "You can add more sentences as needed."
+    },
+    {
+      "epsilon": 20.0,
+      "summary": "Example:\n\"The product is a [BOSH] cookbook. Customers praise its simple recipes and all-plant approach, but some complain about the lack of detailed instructions.\""
+    },
+    {
+      "epsilon": 50.0,
+      "summary": "Example:\n\"The product is a [BOSH] cookbook. Customers praise its simple recipes and all-plant approach, but some complain about the lack of detailed instructions.\""
+    },
+    {
+      "epsilon": 100.0,
+      "summary": "Example:\n\"The product is a [BOSH] series. Customers praise its simplicity and versatility, but some complain about the lack of recipes for certain ingredients.\""
+    },
+    {
+      "epsilon": 120.0,
+      "summary": "Example:\n\"The product is a [BOSH] series. Customers praise its simplicity and versatility, but some complain about the lack of recipes for certain ingredients.\""
+    }
+  ]
+}

@@ -1,0 +1,93 @@
+{
+  "args": {
+    "seed": 1,
+    "log_level": "INFO",
+    "output": "json",
+    "output_file": "results/seed1.json",
+    "max_public_docs": 1,
+    "max_reviews_per_doc": 100,
+    "docs_per_epoch": null,
+    "model_name": "meta-llama/Llama-3.2-1B-Instruct",
+    "num_epochs": 5,
+    "lr": 5e-05,
+    "m": 32,
+    "weight_decay": 0.05,
+    "save_adapter": true,
+    "load_adapter": "Llama_3_2_1B_Instruct_v4",
+    "eps": [
+      0.1,
+      0.2,
+      0.5,
+      1.0,
+      2.0,
+      5.0,
+      10.0,
+      20.0,
+      50.0,
+      100.0,
+      120.0
+    ],
+    "no_dp": false,
+    "delta": 1e-05,
+    "k": 1,
+    "batch_size": 8,
+    "notify": true
+  },
+  "product_metadata": {
+    "price_bucket": 1,
+    "rating": 4.6,
+    "title": "BOSH!: Simple Recipes * Amazing Food * All Plants (BOSH Series)",
+    "categories": [
+      "Books",
+      "Cooking by Ingredient",
+      "Cookbooks, Food & Wine"
+    ],
+    "source_path": "summary_data/test/0062820680.json"
+  },
+  "summaries": [
+    {
+      "epsilon": 0.1,
+      "summary": "\" 'In' was, and the money for \"The Range of range\", as a plan. For Life.\n\nAsking were in this category had: In our Finance class +1\n+ [as] = Smaa | 2018\n\nGaze is down on us by? As we grew to large Ranches?\n\n* * (oacks) I|abels=5+\n\nin South's! This year will be make:\n\nK2; March up?\nOf new Began >15<=\"d> <3=\n\nPur->(or), Fx>\" \n(inaz)\n+\"ar\"\n\"A\u201d_:\n_(V): _... \n\nBy At The......\n\nF...\n+: No Indexing...\n\n9/10...\nFor...\" : Kupered\n    \nA23D / ABC/\nNo-GN'd-VD'D'S-Birth\n \nI'm Lette;\nLentit |\n|=|\nRanield=\n+\n&\n\n\nBeggaheadaysouthfortheforefree-range,\nof-Ve-Restorendr,\n\nMatterRoadCrossroads!\n\nDon't-Known-Little-Moo-Flood-In-Adeplet-Sky-Hulks.\nLike6dayloz-Cnaddence-xmas-maternal-z"
+    },
+    {
+      "epsilon": 0.2,
+      "summary": "B. 0.9: $5,000$ (N) + $\\infty$, SAGE_1 = _< or < to be A._suffondus was only the starting point that would create a negative situation as it is common for all but there are \\&amp;.$. The first and kind of an argument than one can think about from what you see on Netflix being your own air_. wait so they could make them into \\(S.\\emergence.$-500\\lim_{ deep_??. Next?\nLair after each incremental just might\nyou say next >\\( s. It's going to help usiff= (< natural shape>.<(< Natural.)\\)escealoped in under publically observed by Commoned.\nThe name will pick up when he makes no quickens sufferventricous natureless with respectively how long we have been waiting for someone else has created ($3>.00 - N.Affluering rather than making Neer-than Guy who needs more important group(s).-. Readings like caution while Phugurethuma instead of having him explain why over his head. \u2013 less than any single column may lead to creating More than starts $$/ adds speed need redargaseptic.../$"
+    },
+    {
+      "epsilon": 0.5,
+      "summary": "The best of the two is that some people are not happy with their [product] and have chosen to use it for cooking. The other side has a good number, but they do enjoy using this product.\nA few sentences from our customers:\n\"I've used BOSH products before I started eating my food again.\"\n\"Thank you all who would allow me to eat your favourite foods now.\"-Guru\n\"A little bit more than we can say about us when choosing what's on tap in many places\"\n\"The reason why these things might be available as medicines - or at least one could make them so if there isn't any medical support here either,\"-\"Our family doctor\".\nWe're glad because most doctors don't want anyone taking advantage over those medications which may become necessary after being treated by others like medicine professionals.\"\n\nI think's an excellent source' \"Bosh Products\", indeed another type.\n\nSome sources come up against:-\n\n\"Some aspects were taken into consideration while making changes\"\n\n\"Gentle modifications made possible since getting treatment rather then having been given\"\n\n\nIt seems only too bad considering how well-treatment was done without needing anything else.\"\n\n\nAs seen upon\n\n\nIn fact; though quite new treatments came out.\n\n\nThis business really changed much better yet compared ones giving ourselves no"
+    },
+    {
+      "epsilon": 1.0,
+      "summary": "Here is the rewritten version:\n\"The product has [ASPECT_1] and some customers have reported issues with its texture, but overall it's a great option for those looking to make healthier food choices.\""
+    },
+    {
+      "epsilon": 2.0,
+      "summary": "Write exactly two sentences of the form:\n\"The product is a [TYPE]. Customers praise its simplicity and ease, but some find it too easy. The recipes are creative yet accessible.\""
+    },
+    {
+      "epsilon": 5.0,
+      "summary": "Example:\n\"The product is a [BOSH] book. Customers praise its simple recipes and all-plant approach, but some complain about the lack of detailed instructions for certain techniques.\""
+    },
+    {
+      "epsilon": 10.0,
+      "summary": "Example:\n\"The product is a [TYPE]. Customers praise its delicious recipes and beautiful presentation, but some complain about the difficulty of following them.\""
+    },
+    {
+      "epsilon": 20.0,
+      "summary": "Example:\n\"The product is a [BOSH] series. Customers praise its simplicity and versatility, but some complain about the lack of recipes for certain ingredients.\""
+    },
+    {
+      "epsilon": 50.0,
+      "summary": "Example:\n\"The product is a [TYPE]. Customers praise its delicious recipes and beautiful photography, but some find the instructions confusing.\""
+    },
+    {
+      "epsilon": 100.0,
+      "summary": "Example:\n\"The product is a [BOSH] series. Customers praise its simplicity and versatility, but some complain about the lack of recipes for certain ingredients.\""
+    },
+    {
+      "epsilon": 120.0,
+      "summary": "Example:\n\"The product is a [BOSH] series. Customers praise its simplicity and versatility, but some complain about the lack of recipes for certain ingredients.\""
+    }
+  ]
+}

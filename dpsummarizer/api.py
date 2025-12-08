@@ -1,8 +1,7 @@
 import torch
 import numpy as np  
 import random
-from pathlib import Path
-import json
+from tqdm import tqdm
 
 from .log import logging
 from .frozenllm import FrozenLLM
@@ -15,102 +14,25 @@ class DPSummarizer:
         np.random.seed(seed)
         random.seed(seed)
 
-    def read_documents(self, file_path: str, max_docs: int | None = None) -> list[tuple[list[str], str]]:
-        """
-        Read all .json files under the given path and return a list of
-        (public_reviews, public_summary) pairs suitable for training.
-
-        - public_reviews: list[str] of review texts (title + text).
-        - public_summary: one concise reference summary (verdict if present, else compact pros/cons).
-
-        :param file_path: Directory containing .json files (scans recursively).
-        :type file_path: str
-        :param max_docs: Maximum number of documents to read. If None, read all.
-        :type max_docs: int | None
-        
-        :return: List of (reviews, summary) pairs.
-        """
-        root = Path(file_path)
-        if not root.exists():
-            logging.warning(f"Path not found: {file_path}")
-            return []
-        
-        logging.info(f"Reading documents from: {file_path}")
-
-        pairs = []
-        count_files = 0
-        count_used = 0
-
-        for fp in root.rglob("*.json"):
-            count_files += 1
-            try:
-                with fp.open("r", encoding="utf-8") as f:
-                    data = json.load(f)
-            except Exception as e:
-                logging.warning(f"Failed to read {fp}: {e}")
-                continue
-
-            # Collect reviews
-            reviews = []
-            for r in data.get("customer_reviews", []):
-                title = r.get("title") or ""
-                text = r.get("text") or ""
-                txt = f"{title} {text}".strip()
-                if txt:
-                    reviews.append(txt)
-
-            # Build a single summary string
-            summary = None
-            ws = data.get("website_summaries", [])
-            if ws and isinstance(ws, list):
-                # Prefer the first verdict if present
-                verdict = ws[0].get("verdict") if isinstance(ws[0], dict) else None
-                if verdict and isinstance(verdict, str) and verdict.strip():
-                    summary = verdict.strip()
-                else:
-                    # Compact representation from pros/cons
-                    pros = []
-                    cons = []
-                    for s in ws:
-                        if not isinstance(s, dict):
-                            continue
-                        if s.get("pros"):
-                            pros.extend([str(p) for p in s.get("pros", []) if p])
-                        if s.get("cons"):
-                            cons.extend([str(c) for c in s.get("cons", []) if c])
-                    # Assemble concise summary if no verdict
-                    if pros or cons:
-                        pros_str = "; ".join(pros[:6]) if pros else "N/A"
-                        cons_str = "; ".join(cons[:6]) if cons else "N/A"
-                        summary = f"Pros: {pros_str}. Cons: {cons_str}."
-
-            # Only keep pairs with both parts
-            if reviews and summary:
-                pairs.append((reviews, summary))
-                count_used += 1
-                if max_docs is not None and count_used >= max_docs:
-                    logging.info(f"Reached max_docs={max_docs}; stopping early.")
-                    break
-
-        logging.info(f"Scanned {count_files} JSON file(s); using {count_used} with reviews+summary.")
-        return pairs
-
     def train(
         self, 
         llm: FrozenLLM, 
-        public_dataset: list[tuple[list[str], str]],
+        public_dataset: list[tuple[list[str], str, dict]],
         instruction_template: str,
         m: int,
         lr: float = 1e-3,
         num_epochs: int = 5,
         max_reviews_per_product: int = 100,
+        weight_decay: float = 5e-2,
+        batch_size: int = 8,
+        docs_per_epoch: int | None = None,
     ):
         """
         :param llm: Frozen LLM instance.
         :type llm: FrozenLLM
 
-        :param public_dataset: A list of (public_reviews, public_summary) pairs.
-        :type public_dataset: list[tuple[list[str], str]]
+        :param public_dataset: A list of (public_reviews, public_summary, metadata) pairs.
+        :type public_dataset: list[tuple[list[str], str, dict]]
         
         :param instruction_template: Instructions for the LLM to generate summaries.
         :type instruction_template: str
@@ -124,41 +46,108 @@ class DPSummarizer:
         :param num_epochs: Number of training epochs.
         :type num_epochs: int
 
+        :param max_reviews_per_product: Maximum number of reviews to use per product.
+        :type max_reviews_per_product: int
+
+        :param weight_decay: Weight decay for optimizer.
+        :type weight_decay: float
+
+        :param batch_size: Number of reviews to process in parallel.
+        :type batch_size: int
+
+        :param docs_per_epoch: Number of documents to sample per epoch. If None, uses all documents.
+        :type docs_per_epoch: int | None
+
         :return: A trained SoftPromptAdapter instance.
         :rtype: SoftPromptAdapter
         """
         logging.info("Starting adapter training...")
-        adapter = SoftPromptAdapter(d_model=llm.d_model, m=m).to(llm.device)
-        optimizer = torch.optim.Adam(adapter.parameters(), lr=lr, weight_decay=1e-2)
+
+        adapter = SoftPromptAdapter(
+            d_in=llm.d_model, 
+            d_model=llm.d_model, 
+            m=m
+        ).to(llm.device).float()
+
+        optimizer = torch.optim.Adam(adapter.parameters(), lr=lr, weight_decay=weight_decay)
+
+        # caching hidden states to speed up training on multiple epochs
+        hidden_cache = {}
 
         for epoch in range(1, num_epochs+1):
             logging.info(f"Epoch {epoch}/{num_epochs}...")
-            for i, (reviews, summary) in enumerate(public_dataset):
-                logging.debug(f"[E{epoch}] Processing product {i+1}/{len(public_dataset)}")
-                # encode public reviews into hidden vectors h_i
-                h_list = []
-                for j, r in enumerate(reviews):
-                    logging.debug(f"[E{epoch}] [P{i+1}] Encoding review {j+1}/{max_reviews_per_product}")
-                    prompt_text   = utils.create_prompt(r)
-                    with torch.no_grad():
-                        hidden_states = llm.encode(prompt_text)
-                    h_list.append(hidden_states[-1])
+            epoch_losses = []
+
+            # Sample subset of documents if docs_per_epoch is specified
+            if docs_per_epoch is not None and docs_per_epoch < len(public_dataset):
+                epoch_dataset = random.sample(public_dataset, docs_per_epoch)
+                logging.debug(f"Sampled {docs_per_epoch} documents for epoch {epoch}")
+            else:
+                epoch_dataset = public_dataset
+
+            # progress bar for running epochs
+            pbar = tqdm(
+                enumerate(epoch_dataset), 
+                total=len(epoch_dataset), 
+                desc=f"Epoch {epoch}/{num_epochs}"
+            )
+            for i, (reviews, summary, metadata) in pbar:
+                # encode public reviews into embeddings e_i (direct from LLM hidden states)
+                reviews_to_process = reviews[:max_reviews_per_product]
+                e_list = []
+                
+                # Process reviews in batches
+                for batch_start in range(0, len(reviews_to_process), batch_size):
+                    batch_reviews = reviews_to_process[batch_start:batch_start + batch_size]
+                    batch_prompts = [
+                        utils.create_prompt(
+                            r, 
+                            title=metadata.get('title'), 
+                            categories=metadata.get('categories')
+                        ) 
+                        for r in batch_reviews
+                    ]
                     
-                    if j + 1 >= max_reviews_per_product:
-                        break
+                    # Check cache for uncached prompts
+                    uncached_prompts = []
+                    uncached_indices = []
+                    batch_vecs = [None] * len(batch_prompts)
+
+                    for idx, prompt_text in enumerate(batch_prompts):
+                        if prompt_text in hidden_cache:
+                            batch_vecs[idx] = hidden_cache[prompt_text].to(llm.device)
+                        else:
+                            uncached_prompts.append(prompt_text)
+                            uncached_indices.append(idx)
+
+                    # Batch encode uncached prompts
+                    if uncached_prompts:
+                        with torch.no_grad():
+                            batch_hidden_vecs = llm.encode_batch(uncached_prompts)  # (u, d_model) 
+
+                        for j, prompt_text in enumerate(uncached_prompts):
+                            vec = batch_hidden_vecs[j].float().cpu()  # (d_model,)
+                            hidden_cache[prompt_text] = vec  # store on CPU
+                            batch_vecs[uncached_indices[j]] = vec.to(llm.device)
+
+                    # Now batch_vecs is a list of (d_model,) tensors in original order
+                    for vec in batch_vecs:
+                        e_list.append(vec.float())
+
+                if not e_list:
+                    continue
                     
                 # aggregate to mean representation 
-                h_mean = torch.stack(h_list, dim=0).mean(dim=0)  # (d_model,)
+                e_stack = torch.stack(e_list, dim=0)  # (n, d_model)
+                e_mean = e_stack.mean(dim=0)          # (d_model,)
 
-                target_dtype = next(adapter.parameters()).dtype
-                h_mean = h_mean.to(target_dtype)
-
-                # map to soft prompt
-                soft_prompt = adapter(h_mean).to(llm.device)     # (m, d_model)
+                # map to soft prompt (add batch dimension)
+                soft_prompt = adapter(e_mean.unsqueeze(0))  # (1, m, d_model)
+                soft_prompt = soft_prompt.squeeze(0)  # (m, d_model)
 
                 # prepare instruction + target
                 instruction_ids = llm.tokenizer.encode(
-                    instruction_template,
+                    instruction_template.format(metadata["title"], metadata["categories"]),
                     add_special_tokens=False,
                 )
 
@@ -177,8 +166,17 @@ class DPSummarizer:
                 loss.backward()
                 optimizer.step()
 
+                epoch_losses.append(loss.item())
+                
+                # Update progress bar with current loss
+                pbar.set_postfix({'loss': f'{loss.item():.4f}'})
+
                 if i % 10 == 0:
                     logging.debug(f"[E{epoch}] [P{i+1}] Loss: {loss.item():.4f}")
+
+            if epoch_losses:
+                mean_loss = float(np.mean(epoch_losses))
+                logging.info(f"[E{epoch}] Mean training loss: {mean_loss:.4f}")
 
         logging.info("Adapter training complete.")
         return adapter
@@ -188,15 +186,19 @@ class DPSummarizer:
         llm: FrozenLLM,
         adapter: SoftPromptAdapter,
         private_reviews: list[str],
+        metadata: dict,
         instruction_template: str,
         C: float,
         epsilon: float,
         delta: float,
+        k: int = 1,
+        no_dp: bool = False,
         max_new_tokens: int = 64,
+        batch_size: int = 8,
     ):
         """
-        One-shot DP summarization of private reviews. Uses add/remove
-        adjacency.
+        K-shot DP summarization of private reviews using basic composition.
+        Uses add/remove adjacency.
 
         :param llm: Frozen LLM instance.
         :type llm: FrozenLLM
@@ -206,63 +208,121 @@ class DPSummarizer:
 
         :param private_reviews: List of private reviews to summarize.
         :type private_reviews: list[str]
+        
+        :param metadata: Product metadata dict with price_bucket, rating.
+        :type metadata: dict
 
         :param instruction_template: Instructions for the LLM to generate summaries.
         :type instruction_template: str
 
-        :param C: Clipping norm for DP-SGD.
+        :param C: Clipping norm.
         :type C: float
 
-        :param epsilon: Privacy budget epsilon.
+        :param epsilon: Privacy budget epsilon (divided by k for basic composition).
         :type epsilon: float
 
-        :param delta: Privacy budget delta.
+        :param delta: Privacy budget delta (divided by k for basic composition).
         :type delta: float
+
+        :param k: Number of independent queries (shots). Default 1 is standard 1-shot.
+        :type k: int
+
+        :param no_dp: If True, do not apply differential privacy.
+        :type no_dp: bool
 
         :param max_new_tokens: Maximum number of new tokens to generate.
         :type max_new_tokens: int
+
+        :param batch_size: Number of reviews to process in parallel.
+        :type batch_size: int
         """
-        # encode private reviews into clipped hidden vectors h_i
-        h_list = []
-        for r in private_reviews:
-            prompt_text   = utils.create_prompt(r)
-            hidden_states = llm.encode(prompt_text)
-            h_i           = hidden_states[-1]
+        adapter = adapter.to(llm.device)  # Keep adapter in float32
 
-            # L2 clipping
-            norm = torch.norm(h_i, p=2)
-            if norm > C:
-                h_i = h_i * (C / norm)
+        n = len(private_reviews)
+        soft_prompts = []
 
-            h_list.append(h_i)
+        for shot in range(k):
+            # encode private reviews into clipped hidden vectors h_i
+            e_list = []
+            
+            # Process reviews in batches
+            for batch_start in range(0, len(private_reviews), batch_size):
+                batch_reviews = private_reviews[batch_start:batch_start + batch_size]
+                batch_prompts = [
+                    utils.create_prompt(
+                        r, 
+                        title=metadata.get('title'), 
+                        categories=metadata.get('categories')
+                    ) 
+                    for r in batch_reviews
+                ]
+                
+                # Batch encode all prompts
+                with torch.no_grad():
+                    batch_hidden = llm.encode_batch(batch_prompts)  # (batch_size, d_model) - already pooled
+                
+                # Process each embedding in the batch
+                batch_embeddings = []
+                for e_j in batch_hidden:
+                    e_j = e_j.float()  # (d_model,)
+                    
+                    # L2 clipping
+                    norm = torch.norm(e_j, p=2)
+                    if norm > C:
+                        e_j = e_j * (C / norm)
+                    
+                    batch_embeddings.append(e_j)
+                
+                e_list.extend(batch_embeddings)
 
-        n     = len(h_list)
-        h_hat = torch.stack(h_list, dim=0).mean(dim=0) # (d_model,)
+            e_stack = torch.stack(e_list, dim=0)             # (n, proj_dim)
+            e_hat = e_stack.mean(dim=0)                      # (proj_dim,)
 
-        # add Gaussian noise
-        sensitivity = 2.0 * C / n
-        sigma  = utils.calibrate_gaussian_sigma(epsilon, delta, sensitivity)
-        noise  = np.random.normal(loc=0.0, scale=sigma, size=h_hat.shape)
-        noise  = torch.tensor(noise, dtype=h_hat.dtype, device=h_hat.device)
-        h_priv = h_hat + noise
+            if no_dp:
+                if shot == 0:
+                    logging.warning("DP is disabled. No noise will be added.")
+                e_priv = e_hat
+            else:
+                # add Gaussian noise with per-shot budget
+                epsilon_shot = epsilon / k
+                delta_shot = delta / k
+                sensitivity = 2.0 * C / n
+                sigma = utils.calibrate_gaussian_sigma(epsilon_shot, delta_shot, sensitivity)
+                noise = torch.normal(
+                    mean=0.0,
+                    std=sigma,
+                    size=e_hat.shape,
+                    device=e_hat.device,
+                    dtype=e_hat.dtype,
+                )
+                e_priv = e_hat + noise
+            # map to soft prompt (adapter stays float32, add batch dimension)
+            soft_prompt = adapter(e_priv.unsqueeze(0))  # (1, m, d_model)
+            soft_prompt = soft_prompt.squeeze(0)  # (m, d_model)
+            soft_prompt = soft_prompt.to(llm.model.dtype)
+            
+            soft_prompts.append(soft_prompt)
 
-        # h_priv = h_hat
+        # Average soft prompts from k shots
+        soft_prompt_final = torch.stack(soft_prompts, dim=0).mean(dim=0)
+        soft_prompt_final = torch.clamp(soft_prompt_final, min=-20.0, max=20.0)
+        
+        logging.debug(f"Soft prompt stats (k={k}): mean={soft_prompt_final.mean():.4f}, std={soft_prompt_final.std():.4f}, min={soft_prompt_final.min():.4f}, max={soft_prompt_final.max():.4f}")
 
-        # map to soft prompt
-        target_dtype = next(adapter.parameters()).dtype
-        h_priv = h_priv.to(target_dtype)
-        soft_prompt = adapter(h_priv)                       # (m, d_model)
-        soft_prompt = soft_prompt.to(llm.model.dtype)
+        # decode summary using metadata-aware instruction text
+        title = metadata.get("title", "")
+        categories = metadata.get("categories") or []
+        categories_str = ", ".join(categories) if isinstance(categories, list) else str(categories)
+        instruction_text = instruction_template.format(title, categories_str)
 
-        # decode summary
         instruction_ids = llm.tokenizer.encode(
-            instruction_template, 
+            instruction_text,
             add_special_tokens=False
         )
         instruction_embeddings = llm.token_embed(instruction_ids)
 
         # convert soft_prompt to numpy
-        soft_prompt_np = soft_prompt.detach().cpu().numpy()
+        soft_prompt_np = soft_prompt_final.detach().cpu().numpy()
         init_embeddings = np.concatenate([soft_prompt_np, instruction_embeddings], axis=0)
 
         summary = llm.decode(
@@ -271,5 +331,6 @@ class DPSummarizer:
         )
 
         return summary
+
  
 

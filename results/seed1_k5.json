@@ -1,0 +1,93 @@
+{
+  "args": {
+    "seed": 1,
+    "log_level": "INFO",
+    "output": "json",
+    "output_file": "results/seed1_k5.json",
+    "max_public_docs": 1,
+    "max_reviews_per_doc": 100,
+    "docs_per_epoch": null,
+    "model_name": "meta-llama/Llama-3.2-1B-Instruct",
+    "num_epochs": 5,
+    "lr": 5e-05,
+    "m": 32,
+    "weight_decay": 0.05,
+    "save_adapter": true,
+    "load_adapter": "Llama_3_2_1B_Instruct_v4",
+    "eps": [
+      0.1,
+      0.2,
+      0.5,
+      1.0,
+      2.0,
+      5.0,
+      10.0,
+      20.0,
+      50.0,
+      100.0,
+      120.0
+    ],
+    "no_dp": false,
+    "delta": 1e-05,
+    "k": 5,
+    "batch_size": 8,
+    "notify": false
+  },
+  "product_metadata": {
+    "price_bucket": 1,
+    "rating": 4.6,
+    "title": "BOSH!: Simple Recipes * Amazing Food * All Plants (BOSH Series)",
+    "categories": [
+      "Books",
+      "Cooking by Ingredient",
+      "Cookbooks, Food & Wine"
+    ],
+    "source_path": "summary_data/test/0062820680.json"
+  },
+  "summaries": [
+    {
+      "epsilon": 0.1,
+      "summary": "- the company is in a) - \"The Company will have to  be with him, or more and see its out. The workily are $30+0!$.\n\nthe best of course he had to VVth [reepv!) well being ableto selfeve's missing into BOLVEWING ANRANNOILOVOES' as many times also bites!\n\nA-BADTHS?_ minus ANDISITATESSO'S without WHOILSOVENTEFFERED... on Demand NOBWEY5+, IS INVESTATTREVAICHERNIAF2+)...\nUNOFFICEEvoztes upveneytiquely..., but it has EVDOPIDAYS...\n\n#10basserrahead!\nAnd we'reisloves this time: Andeshaikoeseictertythesillages+:4 amthausavestavicevara like fourthernisevertailedteevolosweedettowed3 lightlyornvests merries good clearwaylayonsovereheedensaytenventer lacking.\n In that COVENCOEYTORSAVES was highly upon learning about ventering mytoralselfeedy I'll make ABOG"
+    },
+    {
+      "epsilon": 0.2,
+      "summary": "- 2+0:100 + a-profit, that is:\n* A-RARE and the wind-to-the-favor-of-a-pop-work-out-inside-some-and-your-lath should be as follows:\n\n> No- \"A-\n>\" or go on 'N-ALENOO.\n\" like you are.\"\n make it better than we can have to avoid some problem's which could be an issue of one thingstail. That would-be &r/Who-rebroadwork...\n who think-invent? (a)...)\n... for those at fooking out there\n from our American style.\n\nThe best work in your - what rate them?\n Not fo rthing but hefrrer will give him any mthapiatone-up (&- non-jon-hisnafeworkin)fist-day-must-go)\n this particular day makes sense against us,\n And then if things were going back up his way.\">\nAnd every time more > no longer existant.)\n Like something just went into production;\nbut first they're all must start with World Cup match; so far each new year goes without being too much, while trying not over such problems may occur by interno now has its power-provide-for-you-with-potentil-life"
+    },
+    {
+      "epsilon": 0.5,
+      "summary": "Worth what wonder of a country under breathe, but make power play over the last Duke wasunder Sums to Canada is some Mummer's GROWIVEKUMS TO A CASH IS WORTHLY asA(\\_M\\(G\\underive:\\/\\/ UNDERIVER_TO_APOUSWERES_to_MOM'S_GIFWAUSE_PUNKER+W Omotic_CASES To-WEASOME_WERE_FAVOROUS_NEXTTOFFEQUEENS_womathers might be wondering about money on your job like \\(+\\ Wed-\\ Creative Sovereize Market Value VETERICEWOUSTASTREAMSUMTEREST KINGSTUMPDESEIVESKELENPOWERMANFERRIVINGDRESSCENSEIVALES STAR-GUIZE ASBETWEEN WE SUMMERWHATVER WELL-AVE BRENT WHOEVER FANCEWHUNDER WHAT WORKING OUT COST PERCENTIVE KNOX-MUSER DEUCEs CHICSCWISE CAMWFREAK SUNSWARTHY THROUGHOUTTRE muse in cash jumeose aerobiver so that you are payas well-anoveur-underwater-war-got-a-cum-knightly-patience-to-suspectrumswunders'womensustainability-muskworoveermouseeswellowersupport"
+    },
+    {
+      "epsilon": 1.0,
+      "summary": ". We are glad to [BUBACKS] and we love how you have outmanage our competition, which is a great provider of information: A book might be in the market for many more than just an addition on some products but this one as it were about Amazon.com looking like \"A\" Google may seem so much that has been going through supercharge money-Against these things.\nOur application support your business needs with help from users who can easily fundable by\na loaner's worth not only if really good!\nWe would never give up trying what could possibly do?\nIn order why did You create such Money-our Company was able To provide funding any amount Of funds Your company had rather Than ours.\"\nThis time around By Choice Our payment Market value adding Microsoft & Co operating system Why use cash flow financing How does however instead And less expensive Alternative cost savings In dollars Which includes The added at least additional charge payments or something else 10 times over Payment Protection (Payment protection) An option form access-out-of-Money-based Funding coming From another source other then Us credit What This kindergrouped Around Who Fundings its own Cash Supporting Businesses his Other sources including loans With interest-Based Financing options also known As capital investment Capitalization Assistance Program"
+    },
+    {
+      "epsilon": 2.0,
+      "summary": "The author's [ASPECT_1] and the publisher\u2019s 2-3 month wait for a new book on food. The reviewer, who is an avid reader of cookbooks in general but not specifically BOSH Series books.\nPublisher: HarperCollins Publishers\nPublication Date:\nMay2008\n\n*Price:* $10-$15 (paperback), \u00a39\u2013\u00a312 (\u00a314 US) *Digital edition available at Amazon Kindle Store*\n\nBOSTON MAUS'S NEWEST BOOKS RELEASED IN MAY IS A DELICIOUSLY COMPLEX AND TASTY RECIPE FOR MAKING YOUR OWN PIZZA TOPPINGS.\n\nThis cookbook focuses entirely around making your own pizza toppings from scratch using fresh ingredients that are readily accessible to most people with limited budgets or cooking skills.\n\n\n\nHere you can find some delicious recipes like spinach artichokes stuffed zucchini boats made by combining cooked pasta shells filled into hollowed-out pumpkin squash bowls then topped off with creamy ricotta cheese sauce mixed together just before serving time.\n\n\nAnother great option would be this recipe called \"Spinach Articchoes Stuffed Zucchinas\" which combines pure Italian cheeses such as mozzarella parmesan gorgonzola feta blend perfectly well balanced flavors without overpowering any one"
+    },
+    {
+      "epsilon": 5.0,
+      "summary": "The product is a [TYPE]. Customers praise its delicious flavors and versatility, but some complain about the lack of ingredients."
+    },
+    {
+      "epsilon": 10.0,
+      "summary": "You can add more sentences if you want to provide additional information about the product."
+    },
+    {
+      "epsilon": 20.0,
+      "summary": "Example:\n\"The product is a [TYPE]. Customers praise its delicious recipes and easy-to-follow instructions, but some complain about the lack of variety in their favorite dishes.\""
+    },
+    {
+      "epsilon": 50.0,
+      "summary": "Example:\n\"The product is a [BOSH] series. Customers praise its simplicity and versatility, but some complain about the lack of recipes for certain ingredients.\""
+    },
+    {
+      "epsilon": 100.0,
+      "summary": "Example:\n\"The product is a [BOSH] series. Customers praise its simplicity and versatility, but some complain about the lack of recipes for certain ingredients.\""
+    },
+    {
+      "epsilon": 120.0,
+      "summary": "Example:\n\"The product is a [BOSH] series. Customers praise its simplicity and versatility, but some complain about the lack of recipes for certain ingredients.\""
+    }
+  ]
+}

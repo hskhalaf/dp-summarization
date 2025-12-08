@@ -1,0 +1,93 @@
+{
+  "args": {
+    "seed": 2,
+    "log_level": "INFO",
+    "output": "json",
+    "output_file": "results/seed2_k5.json",
+    "max_public_docs": 1,
+    "max_reviews_per_doc": 100,
+    "docs_per_epoch": null,
+    "model_name": "meta-llama/Llama-3.2-1B-Instruct",
+    "num_epochs": 5,
+    "lr": 5e-05,
+    "m": 32,
+    "weight_decay": 0.05,
+    "save_adapter": true,
+    "load_adapter": "Llama_3_2_1B_Instruct_v4",
+    "eps": [
+      0.1,
+      0.2,
+      0.5,
+      1.0,
+      2.0,
+      5.0,
+      10.0,
+      20.0,
+      50.0,
+      100.0,
+      120.0
+    ],
+    "no_dp": false,
+    "delta": 1e-05,
+    "k": 5,
+    "batch_size": 8,
+    "notify": false
+  },
+  "product_metadata": {
+    "price_bucket": 1,
+    "rating": 4.6,
+    "title": "BOSH!: Simple Recipes * Amazing Food * All Plants (BOSH Series)",
+    "categories": [
+      "Books",
+      "Cooking by Ingredient",
+      "Cookbooks, Food & Wine"
+    ],
+    "source_path": "summary_data/test/0062820680.json"
+  },
+  "summaries": [
+    {
+      "epsilon": 0.1,
+      "summary": "\"A 2-accepts!\" two times, \"Like the m) - M.A. was Ate:**\n3!**,\nand only had you be on **A)** and can further than your average worth of $5000+, but just like!\n-Aglo-weller-than-a-be-on-the-firmest fourth-may-10 days for a good team or gauran.\nwas able to make its own way out-of us three!, without making up anything is in our case:\n$a-pazowski-$ JAWS.)\n$ Two!)\n-GABOONS ($ Warranted), AND!)**\n\n5).\n}, adding that would have been made by growing clear from those who were granted upon solidly it.\n\nMAY BE ASSEWITTAPOVE FOR THE SUMON-YESSN-in-sciental-and-first-tomaste-SAME-FORAS!\n\n* GROWING ON FAVOR-ANT-WOW-yto-EWF-, as many-settowed-for-all-you-have-to-your-additive,\" she said.)\n\nthree-time's time-forming-another-BEESOME-five-dinose-knew-as-evo-four-botoy-two-chef operating with all-factor above things!), an added bonus-like-new-negotations"
+    },
+    {
+      "epsilon": 0.2,
+      "summary": "\"Adequate to bring the right under an issue than a cause well and beyond, on \"A $20$ worth starting with 1aves in our knees' as much as mittenwell-starts away from what would be AAVAHAPUGHTANOTHERMelmesatural99+eductivelyivateotathumbwant-a-dashmunderneath able to borrowedrogramewhat behavent aventeld below after getting youraways for excelercesamente enthusiastic or most help got towards the load that you might startting in rangeborough's world-fourthies'tgotentinatecause0.5, MELTEACHES WELLbourne into its EQUELLUWAUGHLY is PAMANTHROWTHWORTHY AS MUCHAS TO BOWLED-AWKENS THEE rising clearer-than-ill-demand-must-have-an-pollowing-one-in-the-loaders-under-perelway-would-beanaten-them-somedtimes morethan mild-worldly-give one-evens-up-on-range-to-bellower-most-exemptalumnvendor-free-level-hotventu-towards-without-and-outless-research-found-economically-varissueswarefullyworthfulterities-i'mably (2009) - havinga"
+    },
+    {
+      "epsilon": 0.5,
+      "summary": "-400-AFTHY AQUATIC-FILTERS [Price-Chester's Challenge MASTEN TO BE NICLEWORTHBEAIFREECCRAWING KILDIVE to the FASEVYPAPERCHOWALETFITTERSFABRICALLY-KNALLLY AND ALL-PAYD-MOUNTILEFF-YOWE-SOME-THEFRUEWEREFYSKETUPFOR CHICK-WHICE-FLOWERFAITERED-DOMESTILLWITHMYYDEHYDFERRICACHILLENTO-BECAUSE YOU'RE PULLTING UP ON PRICE-PAID DUCKSWANSEWHAUWHAT'S BEEN AS THE FUN BUNDLED WITH 5,2020-$13-ELEVELLIFE COST-effective price-favored cost-pued-on-deductive-mom-to-beleakened-chettoil-of-the-mostly-known-without-ya-successively-driven-under-five-thousand-astruck-trade-with-all-growth-cost-free-for-takeof-you're paid-in-betweauthuosewill-leveryparrivenforcosts-paying-substantitive-spesechnaniframeworkyouthful of aduqually constructed on those that are made with an"
+    },
+    {
+      "epsilon": 1.0,
+      "summary": "A good customer service can be a big help in getting the best product for your needs. We have some great products, and we're glad you got them.\nWe appreciate our customers who are able to get what they need from us.\"\nBest Customer Service: [SUPPORT] by Amazon\nCustomer support is available on this site; but only if it's free or low cost.\" Best Choice of Products:\nIf there was no budgeting option,\nand that would make sense as well?\" (for those with limited financial resources)\n\"Those things which will not work out,\" said one investor;\na successful business owner has been found after years working at an investment firm.\"\n\nThe success story when someone gets their money back through online banking.\n\nWhen does having trouble paying off loans become difficult?\nIt may take longer than others might find themselves struggling financially so long-termers' businesses could benefit more consumers going into small Business AKA SBA) - Small Businesses-4\"\n\n##(see-some issues)\n\n* When first time experience buying something new 1st thing thinking about how much people pay\n\nFor these kinds of jobs most likely goer(small company owners), though many times smaller companies start up its own bank financing options:\n\nBought-in using government funding?\n\nThis helps keep governments"
+    },
+    {
+      "epsilon": 2.0,
+      "summary": "* The [TYPE] of ingredient: Food\n*BOSH Series:* Simple Recipes * All Plants (BUSH) series:\n*A BOSCH Products :Cookbooks,Food & Wine*\nThis book is a great addition to any kitchen. It's easy and fun for readers who want simple recipes that are both deliciousand healthy.\""
+    },
+    {
+      "epsilon": 5.0,
+      "summary": "Please note that the product is not available for purchase on this platform."
+    },
+    {
+      "epsilon": 10.0,
+      "summary": "Here is the rewritten review in exactly two sentences:\n\"The BOSH!: Simple Recipes book by [AUTHOR] offers a wide variety of delicious and healthy recipes that cater to all plants, making it an excellent addition for anyone looking to incorporate more plant-based meals into their diet. While some customers have noted minor issues with ingredient availability or cooking time requirements.\""
+    },
+    {
+      "epsilon": 20.0,
+      "summary": "Example:\n\"The product is a [TYPE]. Customers praise its simplicity and deliciousness, but some find it too easy to make.\""
+    },
+    {
+      "epsilon": 50.0,
+      "summary": "Example:\n\"The product is a [BOSH] series. Customers praise its simplicity and versatility, but some find it too easy to make.\""
+    },
+    {
+      "epsilon": 100.0,
+      "summary": "Example:\n\"The product is a [BOSH] series. Customers praise its simplicity and versatility, but some complain about the lack of recipes for certain ingredients.\""
+    },
+    {
+      "epsilon": 120.0,
+      "summary": "Example:\n\"The product is a [BOSH] series. Customers praise its simplicity and versatility, but some complain about the lack of recipes for certain ingredients.\""
+    }
+  ]
+}

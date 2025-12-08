@@ -1,0 +1,93 @@
+{
+  "args": {
+    "seed": 0,
+    "log_level": "INFO",
+    "output": "json",
+    "output_file": "results/seed0_k10.json",
+    "max_public_docs": 1,
+    "max_reviews_per_doc": 100,
+    "docs_per_epoch": null,
+    "model_name": "meta-llama/Llama-3.2-1B-Instruct",
+    "num_epochs": 5,
+    "lr": 5e-05,
+    "m": 32,
+    "weight_decay": 0.05,
+    "save_adapter": true,
+    "load_adapter": "Llama_3_2_1B_Instruct_v4",
+    "eps": [
+      0.1,
+      0.2,
+      0.5,
+      1.0,
+      2.0,
+      5.0,
+      10.0,
+      20.0,
+      50.0,
+      100.0,
+      120.0
+    ],
+    "no_dp": false,
+    "delta": 1e-05,
+    "k": 10,
+    "batch_size": 8,
+    "notify": false
+  },
+  "product_metadata": {
+    "price_bucket": 1,
+    "rating": 4.6,
+    "title": "BOSH!: Simple Recipes * Amazing Food * All Plants (BOSH Series)",
+    "categories": [
+      "Books",
+      "Cooking by Ingredient",
+      "Cookbooks, Food & Wine"
+    ],
+    "source_path": "summary_data/test/0062820680.json"
+  },
+  "summaries": [
+    {
+      "epsilon": 0.1,
+      "summary": "- 2, a building the public yesta to behold in one and two isis.\n2025. A 132000 was given as well be the first time!\n?\n12th allowing it's this! \n2509.,1856.)\n-two that has+a1)!)\n - 100462+32 seconds, but unbreakt will always booktennis these three million dollars-a four hundred 2003, or without the millions for money no more than never would make jargon with the power of Two plus several World 30090 moseinientiostesis its right-handering up into something high-upes should have been missing anything,- not at all.\n\nuentes adavazizaine + Bill superficiente i.eytematis haillissa\u093e\u092f\u0926ja,\nuelaiza also joined by YILNFRETTA FOR THE DEEASY TOGETIENTS THIS RANKING IN ten-to-the-behind-for-Paternal-AHANT-FOR-in-some-five-DANES-at-favor-replace-all-may-anic-chef-patrieses-on-form-hatta-Evanness-HAVE EVER EVAYEAUOMEINNOYALLOWWIZE the second-won't give any \"the hundreds"
+    },
+    {
+      "epsilon": 0.2,
+      "summary": "- \" is a 35, or as to be the sumathiless [FAVLESSESS TO EQUAFITTO A DEEVEN STEWES AND NEEFEFIVE AS - MATH and mirthive under what can effectively in JAVEN WITH THE EUALTERNATE FAVORITE IN ON WHOSE FALEVE LEARNED INTERWEAINTLY RUMANTILS, NOTWITH LESS THAN HE AVITH SAMLSES PLUS PREDERNIENCE FOR MANIFEU + WEATFULLY HAYT SEQUEADENDED! ORWHANLLTF-EVALNOT. HELPFUNIVASHIDE-FRUAD KAB ELAVA HALDIS SOMALEVAFTA EVENT INTO ANTAHPEVED YEAFFERTO HAHAAS ALL WHEAVE ANYTHING... for an overall sense of neleven; without any specific hand-sith-and-paveseval-intermediate) / Hand-to-Peer Plus Fourth And To Steffern with For Each Forceful In The Interweaughtevevivaed well-windless over all that had a negative impact on avoiding these two piquetta would have to avoid upsequeneficiently evicted.\nAnd"
+    },
+    {
+      "epsilon": 0.5,
+      "summary": "- High AWM or ESESTLUSTAFETYWANFREWEREFYEDEPRESSDALLRATHMUCKAJOFFIUSMYEEATNEASTAFFYYAMLGIVEBASISJASKINGLY,  a) [Inesevenizebarnifiwomanscalefurthermostlethicmankspacejokeriddokernatorgiving upyoutheliquelybreakuplinfrideisosevolumenplus50000+5ivenivlastPlusSelefriendlyEWHAVEFYMAJORDECOMESSAYIN MUM WAYS ON AUICONSITIVE STARFUOMOUS AS MYSELF HEFTA1+, IN ANYWAY. Plus.Generic.MomentDDelta.\n\n3rdasession! In Sake\n\n1000-aquatics and H2X in general]\n\n4] for the JAA-mayhema-style)\n\n10 years-AWS-yota-valueously-plus-spring-freestyle)messianexus-pregnatory-good-and-brokerless-the-world-will-due-to-bepyesee this article without an Italian job to be working on your own grade of negative GUP EUEU-MAX YZASC-FREEWEASY-GROWOT-ELEACH"
+    },
+    {
+      "epsilon": 1.0,
+      "summary": "A better than the others. A book on [BETTERLEAN ANGLOWSEASON-FOE TO GETTING FINEER, BUT THE BASTLES to a BOAAASUPACE SO MANY ASKING for what was best in our collection of books by SAILINGS ON-the-ACTION-FUNARUEOUSLY GOT CHASES us up-on-a-betters-and-belearned-of-an-documents-in-fundraids and more so that we can be fundering as-youths-for-society-so-called (if you were under an umbroadernices one KUBUSTY'S AND LEVENSOME OFUs outsource-to-formaoftheoughtto have some fun with those who are well-basedOnFamilies Fairfax Booksuperrationalso many buyers like ours but often times leading shape its own barks at your customer's first few British leaders has been done if it takes hold of water vaporally driven by another leader\" plus foursome behind sunnucleanumber of these kinds of things from contextually limitedly applied to(balanced needs less justifiable why not want to pay 4Dutch fundamental human factors vs. baseable on the jobably enough breeze though folks got into"
+    },
+    {
+      "epsilon": 2.0,
+      "summary": "A good cookbook for home cooks, but the price may be a bit steep. The book is more focused on quick and easy recipes that are perfect\nfor busy weeknight cooking.\nMore than you'd think to make it easier with pre-made pasta products,\nbut this one has some great ideas.\" Our top pick in our budget-friendly cookbooks series.\n\n* Best Cookbook: \"The Ultimate Cooking Essentials\" by Jamie Movers (a popular choice among college students)\nand professional chefs.\"\n\nThis comprehensive guide covers basic ingredients like ground meats or poultry breast as its main ingredient while also offering many versatile options of complementary foods such as vegetables mushrooms sausage etceteras pork belly meat chicken liver mussels back bacon). It's an excellent resource if your kitchen needs something simple yet still offers plenty variety when making gourmet dishes from these types of protein sources.\"\nOur favorite tool at any time we're out shopping online,\" says John Shawers Kitchen Gourmet Food Store- based Cooks who have experience working outside academia setting up their own kitchens rather then those available through medical school.\n\n\n\n1st Choice Bookstore:\n\"The ultimate collection under $20 per serving can help keep dinner planning stress off even after buying groceries\"\nBest Buy Online A store-based chef makes culinary expertise shine here; however limited selection beyond specialty items.M"
+    },
+    {
+      "epsilon": 5.0,
+      "summary": "Review: \"BOSH!: Simple Recipes\" is a great addition to any kitchen. The book offers simple and delicious recipes that are perfect for beginners or experienced cooks alike, with all the ingredients listed in one place.\" - Amazon Reviewer\nThis cookbook features 100+ easy-to-make dishes using fresh vegetables from your garden as well as store-bought options.\nThe Bosh series has been popular among health-conscious consumers who want quick meals without sacrificing flavor; this particular title focuses on plant-based cuisine which aligns perfectly within their dietary preferences.\n\nCustomer Reviews:\n* A good starting point if you're looking at cooking healthy food * Easy recipe ideas suitable even when time runs out *\n- Emily (Amazon)\nA fun way of getting started into new foods while still being able [to make] some pretty complex ones too! \n-Brian M., Goodreads.com\n\nRating based review by BrianM.: This product was really helpful because it gave me an idea about what I could do instead of buying expensive pre-made products like frozen veggies so my family can eat healthier.I love how many different types were included such variety makes meal planning easier than ever!\n-Megan G.Smith,GoodReaders \n\nProduct Description:\n\n**Simple Plant-Based Cookbook**\n\nGet ready to cook up more flavors every"
+    },
+    {
+      "epsilon": 10.0,
+      "summary": "Here is an example of how you can use it:\n\"The product has been a huge success for me. I love the [ASPECT_1] and have used all three recipes in my kitchen.\""
+    },
+    {
+      "epsilon": 20.0,
+      "summary": "Example:\n\"The product is a [TYPE]. Customers praise its simplicity and versatility, but some find it too easy to use.\""
+    },
+    {
+      "epsilon": 50.0,
+      "summary": "Example:\n\"The product is a [BOSH] cookbook. Customers praise its simple recipes and colorful illustrations, but some complain about the lack of detailed instructions.\""
+    },
+    {
+      "epsilon": 100.0,
+      "summary": "Example:\n\"The product is a [BOSH] cookbook. Customers praise its simple recipes and colorful illustrations, but some complain about the lack of detailed instructions.\""
+    },
+    {
+      "epsilon": 120.0,
+      "summary": "Example:\n\"The product is a [BOSH] cookbook. Customers praise its simple recipes and all-plant approach, but some complain about the lack of detailed instructions.\""
+    }
+  ]
+}
