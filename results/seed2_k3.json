@@ -16,22 +16,20 @@
     "load_adapter": "Llama_3_2_1B_Instruct_v4",
     "eps": [
       0.1,
-      0.2,
       0.5,
       1.0,
       2.0,
       5.0,
       10.0,
-      20.0,
       50.0,
       100.0,
       120.0
     ],
     "no_dp": false,
-    "delta": 1e-05,
+    "delta": 1e-06,
     "k": 3,
     "batch_size": 8,
-    "notify": true
+    "notify": false
   },
   "product_metadata": {
     "price_bucket": 1,
@@ -47,34 +45,26 @@
   "summaries": [
     {
       "epsilon": 0.1,
-      "summary": "- 95% of the time is in a way for those two m-a, and it's like [M], making our business about $A!-$5.!\nThe sum-time are at its best: M.M., but these were up!)\nby your own team-selah on hand-to-Apaz!, as we believe or more importantly than with:\n-one-in-your-motivated-and-todive-for-the-dos-few-or-these-feat-of-manage.\n-as-polar-seasons-line-up--_moo_, plus._\nAsheft.__\nAnd-hehoper-than:_ (Our-Firm-Time-Savantly!), _Somehow_.]\nwhile you're adding to be based upon many variables... More...\nonego-nerv-o-at-sever-evo-MAD wasa-be-WON TO ADOOTS some e-book-based,\nsome other-world-but-you-have-yota-back-with-\u0938omeplace!.!:)\nUnlehan-made;-)!) well-founded-team) - )!).[SubActuamente]!\n\nOnes' additions', may seemably.\n\nIn SENSISTAN'S +7-form-factor-carniv-kindle-bid-, have been added-build!)\n\nbe wary Of-is-OFF-settons that exist"
-    },
-    {
-      "epsilon": 0.2,
-      "summary": "- A pootic  as well as \"like\" - a day in the ad benefit.\" PAZD than through fire, and by making it an average efficient but just like this one [and you]\u2014 mosequerrown from something that benefits another person's starting up on our own Anave' using reference 'by puccidive water for those four days-aqua reading period-AVRAKABITWAVE-out-ontheroefficiency-and-Peason away-from-another-brethren out-for-the-mind-itself.\"\n\nA NO ANTERWAHAYEAFFMHAPEANED FROM anything lova back toga-woman-awayfrom-man-to-governovenly aside AS WALKINGLY about (a-dayowing down) FOR womaranaways aroundto whom are we working? MADAAS DERNOWTAKE."
+      "summary": "- M. 2, for the most generously: \n-Against-Mansa!_\nThe Sliced_ as _M_, and _\nas a great deal of its own:\nwas not in our hand!\n[FOY!,** plus we made on high-finned m., like money.\n-Gazota is milds-, but make up some $5$, with maximum support-level-and-some-$3 times$ - it's something or more than your average operating,\n-onably at base-of-time-to-be-a-Brazil can you produce these...!:!)\n higher-than-your-old-motivated by-the-dove-based-additives are!!; agaistafter all...\nmore-he-reduamente-sever-mostly-but-many-these-day-for-yer-isowtisman-made-up-within-today-or-understood-by-human-great-closed-downsome-biz-form-.]\nand-as-you-build-off-natural-polarize?.-musk-seasonal-use-in-duz-evo-from-set-historum,-GREATLY-FITTOZIES were added to human b) be under sunasty additions' mattering about CAVES!' (or 'gallows,' though', was likely will create well.' while G+, making full"
     },
     {
       "epsilon": 0.5,
-      "summary": "The best of the [BUT] The product is a BASHES: A good thing\nand an absolute PAIN in all things. (MUST be able to help us understand why we can't get our hands on this one.\nA little bit about it, and that's what makes me think *PUMP* pumpers!\n[ASPECT_1]: Food for Allergies:\n[Ashwarming image]\n[Miami Sunburns]\n\nI feel better than some people I know who are really struggling with food allergies.\n\nYou have got your money out buying into these products?\nIt seems like they're just as likely if you could make them more tolerant,\nof those nasty allergens!\n\n(Not so much Aspects) Ingredients\n\nIn case there were no problems... but when something bad happened...\n(Missed Moneypump up)\nin my bookshelf collection)\n\nIf only he would take his business away from making others less willing or even worse offensively inclined...\n\n(Suddenly not very happy anymore.)\n(Average priced-upesomeas well worth every penny?)\n\nAs long ago has been added by Mr Xmas treehouse at Suffering through their own personal demons?\n\n(The world needs looking beyond its flaws.)\n\nWell done effortfully put together! But"
+      "summary": "- PACE  [dram away from the quadr that on a start to make (AFTW\u00dfer than our understanding of another great, what starting up on an acquaintance who starts looking like we know how it was started AFAH as 'as similar to one through afraid by first step in order for can help us understand why, asking ourselves which beginning around aptheres your own businessworthering out range for each thing that could be made for god and master about to God mitten upwards, using abomose back-up ad above pay spectrum,\" but probably next rate.\"\u2014 GROW ANOWTHESquarely worth making money friendlike you isomers werafor examplequiterththannowthat-anotherwordwardsomeerowtoomaably4yourbunderstandingawayfromour friends' benefitwiserfully under your feet's positive answerable questionbourne-to-theumassively5kingsdemotenbowen downonvalueoflemen't-knowhow much_3rdknowing20-demonize herteritiveoefficiently,_ pace-makingup_for_aference_browtowardskaftercanestowedbyawardsmen-downthroughoutmanyswords-away-fromwhatcomancefulnessmetersupermostbenefend-underances"
     },
     {
       "epsilon": 1.0,
-      "summary": "The customer reviews the [product name] and its features\n\"Simple Recipes * Amazing Food All Plants (BOSH Series) - a great selection of recipes for families with young children.\" by one mom, to another. A fun product that is sure not only good but also entertaining.\n\"The best cookbook ever made about cooking up simple dishes from everyday ingredients.\"\n- John Sadowsworths: The Best Cookbook Ever Made About Cooking Up Simple Dishes From Everyday Ingredients.\"\n\nA collection of 100+ cookbooks featuring family's favorite meals.\n\n* Mom & Dad Cook Together in One Dish at Home*\nCooking Timeless Family Fun Times Baking Book Collection\"\n*A Great Selection Of Kids' Books on Parent/Parenter Relationships\"\n\nSome popular books have been selected as part of this large bookshelf set:\n\"A kid-friendly guidebook series showcasing different types of food prepared using common kitchen tools; includes 'Mommy Pups', some kids who love helping out their moms'\nin preparing mealtime treats together.' Some people like having these kinds of activities when they are parents or grandparents.'\nKids can help prepare all sorts of tasty foods including desserts such cookies,\nmuffins etc., fruit-based snacks.'\"Moms Love Having These Kinds of Activities When They Are Parents Or Grandparents'\n\n..."
+      "summary": "You can use these in your response to make the product sound even better than it actually is. Here's an example for you:\n\"The BOSH! series of recipes from [NAME] has become a favorite among home cooks and foodies alike, thanks its simple yet delicious approach.\" * Simple Recipes *\n* All Plants (BROS Series)\nCategories: Books by Ingredient\nCookbooks\n\n## The problem with this book...\nThe author seems too focused on quick meals that are easy but not particularly healthy or sustainable.\nSome readers may find themselves missing out if they want something more substantial.\n\n### A good cookbook when looking at meal planning ideas without having any dietary restrictions...\n\nA great resource as long I don't have my own kitchen..."
     },
     {
       "epsilon": 2.0,
-      "summary": "Here is the rewritten text in a more concise and readable format:\nBOSH!: Simple Recipes * Amazing Food All Plants (Series) - A collection of simple recipes that use all plants, perfect for health-conscious cooks. Customers praise its variety options but some have issues with ingredient sourcing.\""
+      "summary": "\"Overall, a great [TYPE] for cooking with all plants. The recipes are easy to follow and the ingredients used in each dish make it accessible even if you're new at using them.\"\n\"BOSH! is an excellent resource that offers simple yet delicious food ideas made from common household vegetables.\""
     },
     {
       "epsilon": 5.0,
-      "summary": "Example:\n\"The product is a [TYPE]. Customers praise its delicious recipes and beautiful pictures, but some complain about the difficulty of following them.\""
+      "summary": "For example:\n\"The product is a [TYPE]. Customers praise its delicious recipes and beautiful presentation, but some complain about the high price point.\""
     },
     {
       "epsilon": 10.0,
-      "summary": "You can add more sentences if needed, but keep them concise and focused on the product's key features."
-    },
-    {
-      "epsilon": 20.0,
       "summary": "Example:\n\"The product is a [TYPE]. Customers praise its delicious recipes and beautiful pictures, but some complain about the difficulty of following them.\""
     },
     {
@@ -83,7 +73,7 @@
     },
     {
       "epsilon": 100.0,
-      "summary": "Example:\n\"The product is a [BOSH] series. Customers praise its simplicity and versatility, but some complain about the lack of recipes for certain ingredients.\""
+      "summary": "Example:\n\"The product is a [TYPE]. Customers praise its delicious recipes and beautiful photography, but some complain about the lack of ingredients list.\""
     },
     {
       "epsilon": 120.0,

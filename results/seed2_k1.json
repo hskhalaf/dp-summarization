@@ -3,7 +3,7 @@
     "seed": 2,
     "log_level": "INFO",
     "output": "json",
-    "output_file": "results/seed2.json",
+    "output_file": "results/seed2_k1.json",
     "max_public_docs": 1,
     "max_reviews_per_doc": 100,
     "docs_per_epoch": null,
@@ -16,22 +16,20 @@
     "load_adapter": "Llama_3_2_1B_Instruct_v4",
     "eps": [
       0.1,
-      0.2,
       0.5,
       1.0,
       2.0,
       5.0,
       10.0,
-      20.0,
       50.0,
       100.0,
       120.0
     ],
     "no_dp": false,
-    "delta": 1e-05,
+    "delta": 1e-06,
     "k": 1,
     "batch_size": 8,
-    "notify": true
+    "notify": false
   },
   "product_metadata": {
     "price_bucket": 1,
@@ -47,35 +45,27 @@
   "summaries": [
     {
       "epsilon": 0.1,
-      "summary": "$-P-$[M]$ - $0.00: A.S.$:\n1_($\\A{ \\of \\$ -$D)$\n) +  $(W<$ {oaganly)\\OOC}$:\n\na healthy, as the cost of a muggle oncoffs (fam-\\( D_{CSE:\\$_$\n-A U-FAMTH-TWO-SUITS$\\_$F.AS:$)\n+ F.D.+K-\nAsu much ($-Q-u-D+$Twothing!)\n$, we are your family's financial problem-free banked inhuman cattes,\nas part-time constraints and human-tumtemt-fact-scius-of-their-donkham-on-ascequatecatels!\nIn order to take away from you having no money outdfitting for one thing more than anything.\nIt is not possible that it becuar-awcse\u2013 ophht \u2013\u00a0youthful;\nyour friends;weve-to-be-these days\u2019 tautening spell sowing down an amountless);\nYour savings at least half-offhand some funds set back\u2019s cash-in hand-poseable \u2018some\u2018<2>\nswyzer-than-yourself! <-first-hand our"
-    },
-    {
-      "epsilon": 0.2,
-      "summary": "Add two 2 great so level, and a high floor in the world. Great wide for all circle.\"\nThe new(awesome) spot full! All at my dot: Two awesome stars; I lize wing's center field helping me up this time well higher than before settling mercu onuring arc? Sub Add Zero to Your Good Wing Super Scuer Direct Set.'\nTwo wings or more,' we added directly but these were tooingle you ascertials.' A few hundred plus base case five star set right around your last four years based upon their directivity superlarkware' over every medium value with those back they had greatly adding size 'o'. Over', o.m., pro.kissed ground hardeavowosuccot subscopotaluck?''\nAll three add together under its bigheel no escarcarawatataaamentezumattikusdotwheelsavinggreatstrike that got them very successfully!'\nMore successful then earlier,certain updates,focus,power,mighty updating both our product production brought highly are today, thanks uzzate globalizing fair work some fantastic flying whatever it was about the truth wreath of things would be lot driving force into space-age hot suddue any given-up wherever reading between coid"
+      "summary": "$-AHT-AZUN-TWO-FX:_\nof a $0.2x.$_D_{WTF_:S-$F:\\{M\\\n\\({}$.\\\\ {O -$P--($6+$C)$\n+$_(U)!\\_$JAWT$\\(-\\$K-\\AA$\n_WYS-C_A_\\__E\\(7\\)!)\n\u2013 A \\$ _AKDI\\_ \u2013 FCSYB $\\$$NAT.\\R% + 1)\nAs the cost of your education and it\u2019s not possible to be asched, you are in control.\nOf course on humanly $(mwoq-factcosts).${}\nfamourting \\cose!. As much,\nas we have our ${kout}$-talonst -severing-\nyour own family with all things!\nYour parents' life savings for us.)\nYou take hold back from school;\nyou should teachable M.O.-Henceless:\nfrom zero-doswezer-of-your-tasks\u2019together\u2019\nwith \u2018oat.\u2019\u2018a\u20ac\u201cthat\u2019taw-may-bezcofe$somethingsoceurts);\nthe-sciurus-on-the-chessy-toonswide-asuht"
     },
     {
       "epsilon": 0.5,
-      "summary": "* to: A. for a growing awareness of the options\n**A different and more accurate than these that can be helpful on:\n*a positive answer is going ** as an answers 4,5 may need you recognizing they are looking at those who have causes about them finding help around what looks like friends in some K'sK so it needs while watching this has goes up but he had Google based learning opens causing might use knees when over makes if coming open will wear considering others could make - God- shaped friendly leaning means until Gaw oriented growth rated awake matching As many aware among few being awarken choosing made known how much better serving our own she chooses having read which we choose making knowing likely leans toward because wearing out deciding needed picking rather suggests helping him realizes doesn't think his choice!somekaremaybutbust working intoa wise ground recognizes don' shape knife cutting cuting meant meaners only recognize called meaning found knowen chosen recognized offer thought reading work cause show down best match workers find here thinking Open Kansas approved planning shows used caution buying recognition favored eating gaining showing planned mat wer chose looked applied gainin matched look were picked knee care was sought knowledge there matter put call kept case been shown with knows or should consider ones group would agree hearing their signs"
+      "summary": "The product is a [TYPE]. Customers praise its [ASPECT_1] and [ASSURE_2], but some complain about it's more like they are.\nFor us, we believe that the customer service supports our business model. For you,\nwe think these products support your own unique approach to things.\n\nWe provide excellent\nSupport for all those amazing new tools!\nOur best supporting application has so great when using their advanced technology?\nYour most supportive applications have been with just what old style of thinking?\n\nMore information on this topic:\nSWEET SPREAD A GOTHER TERROR AND MOTHER ARIVER EARS SENSUS MORE SUPPORTIVE AS YOU ARE\n\nHelps Us To Create Our Own Unique Product-based solutions!\n\nA successful year in every single place,\n\nBut let them be really good while everyone makes sure something gets better than ever before again...\n\nThat one thing will make sense as well because everything else would indeed need an entire lot at once time...\nWhen reality finally comes around... We know why too much can go wrong without any real issue or problem anymore...\"\n\nThese types help create even less likely scenarios where only true matters matter! So don't worry if there isn't anything right now?!\"\n\nSo today I found myself wondering how my favorite tool might actually"
     },
     {
       "epsilon": 1.0,
-      "summary": "For example:\n\"The BOSH!: Simple Recipes food product is a [TYPE] that customers praise for its amazing flavor and all-plant-based ingredients, but some complain about the lack of spice in their recipes.\""
+      "summary": "* \"The best food for [GOLDEN] children is: * Goldfish, but some prefer the more expensive and nutritious ** salmon**.\"\n+1\n2\n\nNote that these are simple recipes:\n3a4b5c6d7e8fA a new recipe can be added to this one.\n9-10:\n\n## Step 11: A New Recipe Can Be Added To This One.\n\n### The Best Food For BOSCH Series\n\n\nTo create healthy eating options many families have trouble with because of their love or dislike towards meat based foods such as burgers which contain high levels of saturated fat cholesterol an egg yolk's rich in omega fatty acids may cause heart problems while pregnant women should avoid them like they do when it comes time making eggs so you need protein not just calcium if your diet includes dairy products consider adding plant-based alternatives made from soy milk almond butter those who choose animal raised proteins will benefit most by avoiding beef pork lamb game chicken fish turkey duck goose pig sheep goat bison buffalo deer elk moose mule ox Yomoski.\"BOSH\""
     },
     {
       "epsilon": 2.0,
-      "summary": "Example:\n\"The product is a [TYPE]. Customers praise its delicious recipes and beautiful photos, but some complain about the lack of ingredients in certain dishes.\""
+      "summary": "For example:\n\"BOSH!: Simple Recipes is a [TYPE] that has received rave reviews for its delicious and easy-to-make recipes. However, some customers have noted issues with the ingredients being too expensive.\""
     },
     {
       "epsilon": 5.0,
-      "summary": "You can use this format to summarize customer reviews for the product:\nBOSH!: Simple Recipes * Amazing Food All Plants ( Bosh Series) \n* 2.5/10 stars\n\"Customer review: I was really looking forward too these recipes, but they were just okay.\" - Emily M.\n\"I tried a few of them and found that some worked better than others...I guess it's all about personal taste!\"-Sarah K.\n\nNote : The above is an example summary based on real customers' feedback from various sources including Amazon.com, Google Shopping etc.. Please note down your own experience with \"bouncy squash\", if you have any!"
+      "summary": "You can use this format to write a review of the product."
     },
     {
       "epsilon": 10.0,
-      "summary": "Please note that the product is not actually reviewed by BOSH! but rather a generic review of their cookbook."
-    },
-    {
-      "epsilon": 20.0,
-      "summary": "Example:\n\"The product is a [BOSH] series. Customers praise its simplicity and versatility, but some complain about the lack of recipes for certain ingredients.\""
+      "summary": "You can fill in the blanks with your own information to create a unique summary. For example:\n\"The product is an [TYPE] that has been praised for its simplicity and ease of use, but some customers have reported issues such as difficulty finding ingredients or cooking times.\"\nThis format allows you to summarize customer reviews without repeating any specific details from each review.\nTitle: BOSH!: Simple Recipes * Amazing Food *\nCategories:\n\n* Books\n* Cooking by Ingredient\n\nWrite exactly two sentences about this book.\n\nThe author presents simple recipes using common food items like potatoes (BUSH), carrots (STRAW),and onions. The result are delicious meals people will enjoy making at home.\""
     },
     {
       "epsilon": 50.0,

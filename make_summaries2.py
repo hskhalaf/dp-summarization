@@ -233,7 +233,7 @@ if __name__ == "__main__":
     parser.add_argument(
         "--delta",
         type=float,
-        default=1e-5,
+        default=1e-6,
         help="Delta value. Ignored if --no-dp is set.",
     )
     parser.add_argument(
