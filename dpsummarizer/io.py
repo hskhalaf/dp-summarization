@@ -126,7 +126,7 @@ class IO:
         logging.info(f"Scanned {count_files} JSON file(s); using {count_used} with reviews+summary.")
         return pairs
     
-    def export_summaries(self, args: dict, product_metadata: dict, output_path: str | None = None) -> None:
+    def export_summaries(self, args: dict, product_metadata: dict, reference_summary: str = "", output_path: str | None = None) -> None:
         """
         Exports all summaries in self.summaries to a JSON file along with
         the provided command-line arguments and product metadata.
@@ -135,10 +135,15 @@ class IO:
         :type args: dict
         :param product_metadata: Metadata about the product being summarized.
         :type product_metadata: dict
+        :param reference_summary: The ground truth reference summary from the test set.
+        :type reference_summary: str
+        :param output_path: Path to save the JSON file. If None, defaults to results/summaries_export.json.
+        :type output_path: str | None
         """
         output = {
             "args": args,
             "product_metadata": product_metadata,
+            "reference_summary": reference_summary,
             "summaries": self.summaries,
         }
 
@@ -151,5 +156,34 @@ class IO:
             logging.info(f"Exported summaries to {path}")
         except Exception as e:
             logging.error(f"Failed to export summaries to {path}: {e}")
+
+    def export_multi_summaries(self, args: dict, products: list[dict], output_path: str | None = None) -> None:
+        """Export summaries for multiple products in one JSON file.
+
+        Expected product entry schema:
+        {
+            "product_metadata": {...},
+            "reference_summary": str,
+            "summaries": [
+                {"epsilon": float, "summary": str},
+                ...
+            ],
+        }
+        """
+
+        output = {
+            "args": args,
+            "products": products,
+        }
+
+        path = Path(output_path) if output_path else Path("results/summaries_export.json")
+        path.parent.mkdir(parents=True, exist_ok=True)
+
+        try:
+            with path.open("w", encoding="utf-8") as f:
+                json.dump(output, f, indent=2)
+            logging.info(f"Exported multi-product summaries to {path}")
+        except Exception as e:
+            logging.error(f"Failed to export multi summaries to {path}: {e}")
 
     

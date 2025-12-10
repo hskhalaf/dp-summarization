@@ -1,5 +1,6 @@
 import argparse
 import os
+import json
 
 import matplotlib.pyplot as plt
 import matplotlib
@@ -33,11 +34,8 @@ def format_axis(ax, epsilons):
         ax.xaxis.set_major_formatter(sf)
 
 
-def plot_all_metrics(metrics_data, seed_k_pairs, epsilons, output_dir):
-    """Plot all metrics. For each metric, create 3 subplots (one per seed) with lines for each k.
-    metrics_data: dict[seed][k][metric]->list of scores
-    seed_k_pairs: dict[seed]->list of k values
-    """
+def plot_all_metrics(metrics_data, ci_data, epsilons, output_dir):
+    """Plot metrics with one line per k value (no seeds)."""
     metric_labels = {
         "rouge1": "ROUGE-1",
         "rouge2": "ROUGE-2",
@@ -47,42 +45,42 @@ def plot_all_metrics(metrics_data, seed_k_pairs, epsilons, output_dir):
         "bertrecall": "BERTScore Recall"
     }
 
-    # Get unique metrics and seeds
     metrics = sorted(list(set(
-        metric for seed_dict in metrics_data.values() 
-        for k_dict in seed_dict.values() 
+        metric for k_dict in metrics_data.values()
         for metric in k_dict.keys()
     )))
-    seeds = sorted(metrics_data.keys())
-    
-    # For each metric, create a figure with 3 subplots (one per seed)
+    k_values = sorted(metrics_data.keys())
+
+    linestyles = ['-', '--', '-.', ':']
+
     for metric in metrics:
-        fig, axes = plt.subplots(1, len(seeds), figsize=(6 * len(seeds), 5))
-        if len(seeds) == 1:
-            axes = [axes]
-        
-        # Line styles for k values
-        linestyles = ['-', '--', '-.', ':']
-        
-        for seed_idx, seed in enumerate(seeds):
-            ax = axes[seed_idx]
-            k_values = sorted(seed_k_pairs.get(seed, []))
-            
-            # Plot a line for each k value
-            for k_idx, k in enumerate(k_values):
-                if seed in metrics_data and k in metrics_data[seed] and metric in metrics_data[seed][k]:
-                    scores = metrics_data[seed][k][metric]
-                    linestyle = linestyles[k_idx % len(linestyles)]
-                    ax.plot(epsilons, scores, marker='o', linewidth=1.5, markersize=5, 
-                           label=f"k={k}",
-                           linestyle=linestyle)
-            
-            ax.set_xlabel('Privacy Budget (ε)', fontweight='medium')
-            ax.set_ylabel(f"{metric_labels.get(metric, metric.upper())}", fontweight='medium')
-            ax.set_title(f"Seed {seed}", fontweight='bold')
-            ax.legend(fontsize=9, loc='best')
-            format_axis(ax, epsilons)
-        
+        fig, ax = plt.subplots(figsize=(6, 5))
+
+        for k_idx, k in enumerate(k_values):
+            scores = metrics_data[k].get(metric, [])
+            linestyle = linestyles[k_idx % len(linestyles)]
+            ax.plot(
+                epsilons,
+                scores,
+                marker='o',
+                linewidth=1.8,
+                markersize=5,
+                label=f"k={k}",
+                linestyle=linestyle,
+            )
+
+            # CI shading if available
+            if ci_data and k in ci_data and metric in ci_data[k]:
+                lows = [ci_data[k][metric].get(eps, (s, s))[0] for eps, s in zip(epsilons, scores)]
+                highs = [ci_data[k][metric].get(eps, (s, s))[1] for eps, s in zip(epsilons, scores)]
+                ax.fill_between(epsilons, lows, highs, alpha=0.15, color=ax.lines[-1].get_color())
+
+        ax.set_xlabel('Privacy Budget (ε)', fontweight='medium')
+        ax.set_ylabel(f"{metric_labels.get(metric, metric.upper())}", fontweight='medium')
+        ax.set_title(metric_labels.get(metric, metric.upper()), fontweight='bold')
+        ax.legend(fontsize=9, loc='best')
+        format_axis(ax, epsilons)
+
         plt.tight_layout()
         output_path = os.path.join(output_dir, f"method2_utility_{metric}.pdf")
         os.makedirs(output_dir, exist_ok=True)
@@ -91,53 +89,67 @@ def plot_all_metrics(metrics_data, seed_k_pairs, epsilons, output_dir):
         logging.info(f"Plot saved to {output_path}")
 
 
-def write_all_scores_csv(metrics_data, seed_k_pairs, epsilons, output_dir):
-    """Write all scores to a single CSV."""
+def write_all_scores_csv(metrics_data, ci_data, epsilons, output_dir):
+    """Write aggregated scores (mean) and optional CI to CSV."""
     import csv
     os.makedirs(output_dir, exist_ok=True)
-    
+
     output_path = os.path.join(output_dir, "method2_all_scores.csv")
-    
-    # Get unique metrics
+
     metrics = sorted(list(set(
-        metric for seed_dict in metrics_data.values() 
-        for k_dict in seed_dict.values() 
+        metric for k_dict in metrics_data.values()
         for metric in k_dict.keys()
     )))
-    
-    seeds = sorted(metrics_data.keys())
-    
-    # Build fieldnames: epsilon, then metric_seed_k combinations
+    k_values = sorted(metrics_data.keys())
+
     fieldnames = ['epsilon']
     for metric in metrics:
-        for seed in seeds:
-            k_values = sorted(seed_k_pairs.get(seed, []))
-            for k in k_values:
-                fieldnames.append(f"{metric}_seed{seed}_k{k}")
-    
+        for k in k_values:
+            fieldnames.append(f"{metric}_k{k}")
+            if ci_data and k in ci_data and metric in ci_data[k]:
+                fieldnames.append(f"{metric}_k{k}_ci_lower")
+                fieldnames.append(f"{metric}_k{k}_ci_upper")
+
     with open(output_path, 'w', newline='', encoding='utf-8') as f:
         writer = csv.DictWriter(f, fieldnames=fieldnames)
         writer.writeheader()
-        
+
         for idx, eps in enumerate(epsilons):
             row = {'epsilon': eps}
             for metric in metrics:
-                for seed in seeds:
-                    k_values = sorted(seed_k_pairs.get(seed, []))
-                    for k in k_values:
-                        col_name = f"{metric}_seed{seed}_k{k}"
-                        if seed in metrics_data and k in metrics_data[seed] and metric in metrics_data[seed][k]:
-                            scores = metrics_data[seed][k][metric]
-                            row[col_name] = scores[idx] if idx < len(scores) else ''
-                        else:
-                            row[col_name] = ''
+                for k in k_values:
+                    scores = metrics_data.get(k, {}).get(metric, [])
+                    row[f"{metric}_k{k}"] = scores[idx] if idx < len(scores) else ''
+
+                    if ci_data and k in ci_data and metric in ci_data[k]:
+                        low, high = ci_data[k][metric].get(eps, (None, None))
+                        row[f"{metric}_k{k}_ci_lower"] = low if low is not None else ''
+                        row[f"{metric}_k{k}_ci_upper"] = high if high is not None else ''
             writer.writerow(row)
-    
+
     logging.info(f"CSV saved to {output_path}")
 
 
+def write_per_product_json(k_results, output_dir):
+    """Write per-product scores and aggregates to JSON per k."""
+    os.makedirs(output_dir, exist_ok=True)
+
+    for k, res in k_results.items():
+        payload = {
+            "k": k,
+            "scores": res.get("scores", {}),
+            "ci": res.get("ci", {}),
+            "per_product": res.get("per_product", []),
+        }
+
+        path = os.path.join(output_dir, f"method2_scores_k{k}.json")
+        with open(path, "w", encoding="utf-8") as f:
+            json.dump(payload, f, indent=2)
+        logging.info(f"Per-product scores saved to {path}")
+
+
 def main():
-    parser = argparse.ArgumentParser(description="Evaluate summaries from JSON files across seeds and k values")
+    parser = argparse.ArgumentParser(description="Evaluate summaries from JSON files across k values (multi-product)")
     parser.add_argument(
         "--inputs",
         type=str,
@@ -182,58 +194,56 @@ def main():
     set_level(args.log_level)
     logging.info("Starting evaluation across seeds and k values...")
 
-    # Parse filenames to extract seed and k values
-    # Expected format: seed<N>_k<M>.json
+    # Parse filenames to extract k values (e.g., results/k1.json or results/seed0_k1.json)
     import re
-    seed_k_map = {}  # {seed: set of k values}
-    file_to_seed_k = {}  # {filepath: (seed, k)}
-    
-    for filepath in args.inputs:
-        match = re.search(r'seed(\d+)_k(\d+)', filepath)
-        if not match:
-            logging.warning(f"Could not parse seed/k from {filepath}, skipping")
-            continue
-        seed, k = match.group(1), int(match.group(2))
-        file_to_seed_k[filepath] = (seed, k)
-        if seed not in seed_k_map:
-            seed_k_map[seed] = set()
-        seed_k_map[seed].add(k)
+    file_to_k = {}
+    k_values = set()
 
-    # Collect results per seed/k
-    seed_results = {}  # {seed: {k: {epsilon: {metric: score}}}}
+    for filepath in args.inputs:
+        match = re.search(r'k(\d+)', filepath)
+        if not match:
+            logging.warning(f"Could not parse k from {filepath}, skipping")
+            continue
+        k = int(match.group(1))
+        file_to_k[filepath] = k
+        k_values.add(k)
+
+    k_results = {}  # {k: result dict from evaluator}
     eps_union = set()
-    
-    for filepath, (seed, k) in file_to_seed_k.items():
+
+    for filepath, k in file_to_k.items():
         if not os.path.exists(filepath):
             logging.error(f"Input file not found: {filepath}")
             continue
-        logging.info(f"Processing seed={seed}, k={k} from {filepath}")
+        logging.info(f"Processing k={k} from {filepath}")
         summarizer = DPSummarizer()
         evaluator = Evaluator(summarizer, input_json=filepath, adapter_checkpoint=args.adapter)
         res = evaluator.compute_from_json(metrics=args.metrics, reference=args.reference)
-        
-        if seed not in seed_results:
-            seed_results[seed] = {}
-        seed_results[seed][k] = res['scores']
-        eps_union.update(res['scores'].keys())
+        k_results[k] = res
+        eps_union.update(res.get('scores', {}).keys())
 
     epsilons = sorted(eps_union)
 
-    # Reorganize data: metrics_data[seed][k][metric] = list of scores
+    # Reorganize data: metrics_data[k][metric] = list of mean scores aligned to epsilons
     metrics_data = {}
-    for seed in seed_results.keys():
-        metrics_data[seed] = {}
-        for k in seed_results[seed].keys():
-            metrics_data[seed][k] = {}
-            for metric in args.metrics:
-                scores_by_eps = seed_results[seed][k]
-                metrics_data[seed][k][metric] = [scores_by_eps.get(eps, {}).get(metric, 0.0) for eps in epsilons]
+    ci_data = {}
+    for k, res in k_results.items():
+        metrics_data[k] = {}
+        ci_data[k] = {}
+        for metric in args.metrics:
+            scores_by_eps = res.get('scores', {})
+            metrics_data[k][metric] = [scores_by_eps.get(eps, {}).get(metric, 0.0) for eps in epsilons]
 
-    # Generate single PDF and CSV
-    plot_all_metrics(metrics_data, seed_k_map, epsilons, args.output_dir)
-    write_all_scores_csv(metrics_data, seed_k_map, epsilons, args.output_dir)
+            ci_by_eps = res.get('ci', {}) or {}
+            if ci_by_eps:
+                ci_data[k][metric] = {eps: ci_by_eps.get(eps, {}).get(metric, (None, None)) for eps in epsilons if eps in ci_by_eps}
 
-    logging.info("Plot and CSV generated.")
+    # Generate plots and CSV
+    plot_all_metrics(metrics_data, ci_data, epsilons, args.output_dir)
+    write_all_scores_csv(metrics_data, ci_data, epsilons, args.output_dir)
+    write_per_product_json(k_results, args.output_dir)
+
+    logging.info("Plots and CSV generated.")
 
 if __name__ == "__main__":
     main()

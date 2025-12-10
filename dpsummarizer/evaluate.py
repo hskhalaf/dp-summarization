@@ -138,69 +138,159 @@ class Evaluator:
     ) -> dict:
         """
         Compute evaluation metrics from summaries in the JSON file.
-        
-        :param metrics: List of metrics to compute (e.g., ['rouge1', 'rouge2', 'rougeL', 'bertf1'])
-        :param reference: Reference summary for evaluation. If None, uses product metadata summary or first summary.
-        :return: Dictionary with results organized by epsilon and metric
+        Handles both single-product exports (legacy) and multi-product exports
+        with the "products" key.
         """
         if metrics is None:
             metrics = ["rouge1", "rouge2", "rougeL"]
-        
+
         with open(self.input_json, 'r', encoding='utf-8') as f:
             data = json.load(f)
-        
-        # Get reference summary
+
+        # Multi-product path
+        if "products" in data:
+            return self._compute_multi_product(data, metrics)
+
+        # Single-product (legacy) path
         if reference is None:
-            # Try to find reference in product metadata or use None
-            reference = data.get("product_metadata", {}).get("summary", "")
+            reference = data.get("reference_summary", "") or data.get("product_metadata", {}).get("summary", "")
             if not reference and data.get("summaries"):
-                # If no reference in metadata, use the summary with highest epsilon as proxy
+                logging.warning("No reference summary found, using highest epsilon summary as reference")
                 summaries = sorted(data["summaries"], key=lambda x: x["epsilon"], reverse=True)
                 reference = summaries[0]["summary"] if summaries else ""
-        
+
         results = {
             "product_metadata": data.get("product_metadata", {}),
             "scores": {}
         }
-        
+
         summaries_list = data.get("summaries", [])
-        
-        # Prepare for batch BERT computation if needed
+
         use_bert = any(m.startswith("bert") for m in metrics)
         bert_results = {}
-        if use_bert and reference:
+        if use_bert and reference and summaries_list:
             summaries_text = [s["summary"] for s in summaries_list]
             references_text = [reference] * len(summaries_text)
             bert_batch = self.compute_bertscore_batch(summaries_text, references_text)
             for i, s in enumerate(summaries_list):
                 bert_results[s["epsilon"]] = bert_batch[i]
-        
-        # Compute all metrics
+
         for summary_data in tqdm(summaries_list, desc="Computing scores"):
             epsilon = summary_data["epsilon"]
             summary = summary_data["summary"]
-            
+
             results["scores"][epsilon] = {}
-            
+
             for metric in metrics:
                 if metric in ["rouge1", "rouge2", "rougeL"]:
                     score = self.compute_metric_score(summary, reference, metric)
                 elif metric.startswith("bert") and epsilon in bert_results:
                     bert_data = bert_results[epsilon]
                     if metric == "bertf1":
-                        score = bert_data["f1"]
+                        score = bert_data.get("f1", 0.0)
                     elif metric == "bertprecision":
-                        score = bert_data["precision"]
+                        score = bert_data.get("precision", 0.0)
                     elif metric == "bertrecall":
-                        score = bert_data["recall"]
+                        score = bert_data.get("recall", 0.0)
                     else:
                         score = 0.0
                 else:
                     score = 0.0
-                
+
                 results["scores"][epsilon][metric] = score
-        
+
         return results
+
+    def _bootstrap_ci(self, values: list[float], n_samples: int = 1000, alpha: float = 0.05) -> tuple[float, float]:
+        if not values:
+            return 0.0, 0.0
+        arr = np.array(values, dtype=float)
+        samples = np.random.choice(arr, size=(n_samples, len(arr)), replace=True).mean(axis=1)
+        lower = float(np.percentile(samples, 100 * (alpha / 2)))
+        upper = float(np.percentile(samples, 100 * (1 - alpha / 2)))
+        return lower, upper
+
+    def _compute_multi_product(self, data: dict, metrics: list[str]) -> dict:
+        """Compute metrics for multi-product exports and aggregate across products."""
+        products = data.get("products", []) or []
+        if not products:
+            return {"scores": {}, "per_product": []}
+
+        use_bert = any(m.startswith("bert") for m in metrics)
+
+        # Build batch for BERT across all summaries
+        summaries_text: list[str] = []
+        references_text: list[str] = []
+        summary_index: list[tuple[int, float]] = []  # (product_idx, epsilon)
+
+        for p_idx, product in enumerate(products):
+            ref = product.get("reference_summary", "") or product.get("product_metadata", {}).get("summary", "")
+            for s in product.get("summaries", []):
+                summaries_text.append(s.get("summary", ""))
+                references_text.append(ref)
+                summary_index.append((p_idx, s.get("epsilon")))
+
+        bert_lookup = {}
+        if use_bert and summaries_text:
+            bert_batch = self.compute_bertscore_batch(summaries_text, references_text)
+            for i, key in enumerate(summary_index):
+                bert_lookup[key] = bert_batch[i]
+
+        per_product_scores: list[dict] = []
+        metric_values: dict[float, dict[str, list[float]]] = {}
+
+        for p_idx, product in enumerate(products):
+            ref = product.get("reference_summary", "") or product.get("product_metadata", {}).get("summary", "")
+            product_score: dict[float, dict[str, float]] = {}
+
+            for summary_data in product.get("summaries", []):
+                eps = summary_data.get("epsilon")
+                summary = summary_data.get("summary", "")
+                product_score.setdefault(eps, {})
+
+                for metric in metrics:
+                    if metric in ["rouge1", "rouge2", "rougeL"]:
+                        score = self.compute_metric_score(summary, ref, metric)
+                    elif metric.startswith("bert"):
+                        bert_data = bert_lookup.get((p_idx, eps), {})
+                        if metric == "bertf1":
+                            score = bert_data.get("f1", 0.0)
+                        elif metric == "bertprecision":
+                            score = bert_data.get("precision", 0.0)
+                        elif metric == "bertrecall":
+                            score = bert_data.get("recall", 0.0)
+                        else:
+                            score = 0.0
+                    else:
+                        score = 0.0
+
+                    product_score[eps][metric] = score
+                    metric_values.setdefault(eps, {}).setdefault(metric, []).append(score)
+
+            per_product_scores.append({
+                "product_metadata": product.get("product_metadata", {}),
+                "scores": product_score,
+            })
+
+        # Aggregate mean and bootstrap CI across products
+        agg_scores: dict[float, dict[str, float]] = {}
+        ci_bounds: dict[float, dict[str, tuple[float, float]]] = {}
+
+        for eps, metrics_dict in metric_values.items():
+            agg_scores[eps] = {}
+            ci_bounds[eps] = {}
+            for metric, values in metrics_dict.items():
+                agg_scores[eps][metric] = float(np.mean(values)) if values else 0.0
+                if len(values) > 1:
+                    ci_bounds[eps][metric] = self._bootstrap_ci(values)
+                else:
+                    ci_bounds[eps][metric] = (agg_scores[eps][metric], agg_scores[eps][metric])
+
+        return {
+            "scores": agg_scores,
+            "ci": ci_bounds,
+            "per_product": per_product_scores,
+        }
 
     def plot_results(self, results: dict | None = None, output_path: str | None = None):
         """

@@ -17,7 +17,11 @@ def main(args):
         io = IO()
         
         public_dataset  = io.read_documents("summary_data/train/", max_docs=args.max_public_docs)
-        private_dataset = io.read_documents("summary_data/test/", max_docs=1)
+        private_dataset = io.read_documents("summary_data/test/", max_docs=args.max_private_docs)
+
+        if not private_dataset:
+            logging.error("No private documents loaded; nothing to summarize.")
+            return
 
         instruction_template = (
             "You are summarizing customer reviews for the product:\n"
@@ -63,33 +67,45 @@ def main(args):
         if args.no_dp:
             args.eps = [-1] # value gets ignored anyways
 
-        for eps in args.eps:
-            if not args.no_dp:
-                logging.info(f"Evaluating with epsilon={eps}...") 
-            summary = summarizer.summarize(
-                llm=llm,
-                adapter=adapter,
-                private_reviews=private_dataset[0][0],  # use reviews from the first example
-                metadata=private_dataset[0][2],  # use metadata from the first example
-                instruction_template=instruction_template,
-                max_new_tokens=256,
-                C=20.0,
-                epsilon=eps,
-                delta=args.delta,
-                no_dp=args.no_dp,
-                k=args.k,
-                batch_size=args.batch_size,
-            )
-            
-            if args.output in ("console", "all"):
-                print(summary)
-            if args.output in ("json", "all"):
-                io.summaries.append({"epsilon": eps, "summary": summary})
-    
+        products_output: list[dict] = []
+
+        for idx, (reviews, reference_summary, metadata) in enumerate(private_dataset):
+            logging.info(f"Summarizing product {idx + 1}/{len(private_dataset)} (k={args.k})")
+            product_summaries: list[dict] = []
+
+            for eps in args.eps:
+                if not args.no_dp:
+                    logging.info(f"Evaluating with epsilon={eps}...")
+                summary = summarizer.summarize(
+                    llm=llm,
+                    adapter=adapter,
+                    private_reviews=reviews,
+                    metadata=metadata,
+                    instruction_template=instruction_template,
+                    max_new_tokens=50,
+                    C=20.0,
+                    epsilon=eps,
+                    delta=args.delta,
+                    no_dp=args.no_dp,
+                    k=args.k,
+                    batch_size=args.batch_size,
+                )
+
+                if args.output in ("console", "all"):
+                    print(summary)
+
+                product_summaries.append({"epsilon": eps, "summary": summary})
+
+            products_output.append({
+                "product_metadata": metadata,
+                "reference_summary": reference_summary,
+                "summaries": product_summaries,
+            })
+
         if args.output in ("json", "all"):
-            io.export_summaries(
+            io.export_multi_summaries(
                 args=vars(args),
-                product_metadata=private_dataset[0][2],
+                products=products_output,
                 output_path=args.output_file,
             )
     except Exception as e:
@@ -162,6 +178,12 @@ if __name__ == "__main__":
         type=int,
         default=None,
         help="Maximum number of public documents to use for training.",
+    )
+    parser.add_argument(
+        "--max-private-docs",
+        type=int,
+        default=100,
+        help="Maximum number of private (test) products to summarize.",
     )
     parser.add_argument(
         "--max-reviews-per-doc",
@@ -264,6 +286,7 @@ if __name__ == "__main__":
     assert args.batch_size > 0, "Batch size must be positive."
     assert args.docs_per_epoch is None or args.docs_per_epoch > 0, "Docs per epoch must be positive if specified."
     assert args.max_public_docs is None or args.max_public_docs > 0, "Max public docs must be positive if specified."
+    assert args.max_private_docs > 0, "Max private docs must be positive."
 
     set_level(getattr(logging, args.log_level.upper()))
     main(args)
